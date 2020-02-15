@@ -32,6 +32,9 @@ barplot(Handbd)
 # split session into hands
 splitAt <- function(x, pos) unname(split(x, cumsum(seq_along(x) %in% pos)))
 # Handwise
+eval(parse(text = paste(c("seshBh<-list(",rep("list(),", 49), "list())"), collapse = ""))) # empty list of lists
+names(seshBh) <- names(sesh) # keep names
+
 
 # setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
 saveRDS(sesh, file ="Hand_History_List.rds")
