@@ -1,0 +1,1358 @@
+#Game No : 551339963
+***** 888poker Hand History for Game 551339963 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:23:05
+Table Mackay 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,82 $ )
+Seat 2: Msigo_ ( 2,04 $ )
+Seat 3: kosmit_11 ( 2 $ )
+Seat 4: amaaahustler ( 2,13 $ )
+Seat 5: tramoia23 ( 1,53 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: ZSP999 ( 1,82 $ )
+Seat 10: waimanc ( 2 $ )
+Luegenlord2 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 2Herz ]
+ZSP999 folds
+waimanc calls [0,02 $]
+btlbtl folds
+Msigo_ folds
+kosmit_11 folds
+amaaahustler folds
+tramoia23 raises [0,05 $]
+Luegenlord2 folds
+B2B_Suckouts folds
+waimanc folds
+** Summary **
+tramoia23 did not show his hand
+tramoia23 collected [ 0,07 $ ]
+
+
+
+#Game No : 551339998
+***** 888poker Hand History for Game 551339998 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:23:38
+Table Mackay 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,82 $ )
+Seat 2: Msigo_ ( 2,04 $ )
+Seat 3: kosmit_11 ( 2 $ )
+Seat 4: amaaahustler ( 2,13 $ )
+Seat 5: tramoia23 ( 1,58 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: ZSP999 ( 1,82 $ )
+Seat 10: waimanc ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ZSP999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, JKaro ]
+waimanc calls [0,02 $]
+btlbtl raises [0,08 $]
+Msigo_ folds
+kosmit_11 folds
+amaaahustler raises [0,20 $]
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+ZSP999 folds
+waimanc raises [0,58 $]
+btlbtl folds
+amaaahustler calls [0,40 $]
+** Dealing flop ** [ 6Kreuz, 8Karo, 3Herz ]
+waimanc bets [0,65 $]
+amaaahustler folds
+** Summary **
+waimanc did not show his hand
+waimanc collected [ 1,23 $ ]
+
+
+
+#Game No : 551340064
+***** 888poker Hand History for Game 551340064 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:24:40
+Table Mackay 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,74 $ )
+Seat 2: Msigo_ ( 2,04 $ )
+Seat 3: kosmit_11 ( 2 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,58 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: ZSP999 ( 1,80 $ )
+Seat 10: waimanc ( 2,63 $ )
+ZSP999 posts small blind [0,01 $]
+waimanc folds
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 3Kreuz ]
+Msigo_ folds
+kosmit_11 folds
+amaaahustler folds
+tramoia23 raises [0,05 $]
+Luegenlord2 folds
+B2B_Suckouts calls [0,05 $]
+ZSP999 folds
+btlbtl folds
+** Dealing flop ** [ 8Karo, 7Kreuz, 8Pik ]
+tramoia23 bets [0,06 $]
+B2B_Suckouts folds
+** Summary **
+tramoia23 did not show his hand
+tramoia23 collected [ 0,13 $ ]
+
+
+
+#Game No : 551340115
+***** 888poker Hand History for Game 551340115 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:25:13
+Table Mackay 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,72 $ )
+Seat 2: Msigo_ ( 2,04 $ )
+Seat 3: kosmit_11 ( 2 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,66 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: ZSP999 ( 1,79 $ )
+btlbtl posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 6Pik ]
+kosmit_11 folds
+amaaahustler folds
+tramoia23 raises [0,05 $]
+Luegenlord2 folds
+B2B_Suckouts folds
+ZSP999 folds
+btlbtl folds
+Msigo_ folds
+** Summary **
+tramoia23 did not show his hand
+tramoia23 collected [ 0,05 $ ]
+
+
+
+#Game No : 551340159
+***** 888poker Hand History for Game 551340159 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:25:51
+Table Mackay 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,71 $ )
+Seat 2: Msigo_ ( 2,02 $ )
+Seat 3: kosmit_11 ( 2 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,69 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: ZSP999 ( 1,79 $ )
+Msigo_ posts small blind [0,01 $]
+kosmit_11 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 9Kreuz ]
+amaaahustler folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+ZSP999 folds
+btlbtl folds
+Msigo_ raises [0,07 $]
+kosmit_11 folds
+** Summary **
+Msigo_ collected [ 0,04 $ ]
+
+
+
+#Game No : 551340216
+***** 888poker Hand History for Game 551340216 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:26:36
+Table Mackay 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,71 $ )
+Seat 2: Msigo_ ( 2,04 $ )
+Seat 3: kosmit_11 ( 1,98 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,69 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: ZSP999 ( 1,79 $ )
+Seat 10: Donvito72 ( 1,48 $ )
+kosmit_11 posts small blind [0,01 $]
+amaaahustler posts big blind [0,02 $]
+Donvito72 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 6Herz ]
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+ZSP999 calls [0,02 $]
+Donvito72 checks
+btlbtl folds
+Msigo_ raises [0,08 $]
+kosmit_11 folds
+amaaahustler folds
+ZSP999 folds
+Donvito72 calls [0,06 $]
+** Dealing flop ** [ 8Karo, 7Karo, JKreuz ]
+Donvito72 checks
+Msigo_ checks
+** Dealing turn ** [ 5Pik ]
+Donvito72 bets [0,10 $]
+Msigo_ calls [0,10 $]
+** Dealing river ** [ QKreuz ]
+Donvito72 checks
+Msigo_ bets [0,27 $]
+Donvito72 folds
+** Summary **
+Msigo_ did not show his hand
+Msigo_ collected [ 0,39 $ ]
+
+
+
+#Game No : 551340315
+***** 888poker Hand History for Game 551340315 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:27:56
+Table Mackay 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,71 $ )
+Seat 2: Msigo_ ( 2,25 $ )
+Seat 3: kosmit_11 ( 1,97 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,69 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: ZSP999 ( 1,77 $ )
+Seat 10: Donvito72 ( 1,30 $ )
+amaaahustler posts small blind [0,01 $]
+tramoia23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, QKaro ]
+Luegenlord2 folds
+B2B_Suckouts folds
+ZSP999 folds
+Donvito72 folds
+btlbtl folds
+Msigo_ folds
+kosmit_11 folds
+amaaahustler folds
+** Summary **
+tramoia23 did not show his hand
+tramoia23 collected [ 0,03 $ ]
+
+
+
+#Game No : 551340349
+***** 888poker Hand History for Game 551340349 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:28:28
+Table Mackay 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,71 $ )
+Seat 2: Msigo_ ( 2,25 $ )
+Seat 3: kosmit_11 ( 1,97 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,70 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 10: Donvito72 ( 1,30 $ )
+tramoia23 posts small blind [0,01 $]
+Luegenlord2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 9Pik ]
+B2B_Suckouts folds
+Donvito72 calls [0,02 $]
+btlbtl folds
+Msigo_ raises [0,06 $]
+kosmit_11 folds
+amaaahustler raises [0,15 $]
+tramoia23 folds
+Luegenlord2 folds
+Donvito72 folds
+Msigo_ calls [0,09 $]
+** Dealing flop ** [ 6Herz, JPik, JHerz ]
+Msigo_ bets [0,23 $]
+amaaahustler calls [0,23 $]
+** Dealing turn ** [ 5Kreuz ]
+Msigo_ bets [0,40 $]
+amaaahustler raises [1,62 $]
+Msigo_ calls [1,22 $]
+** Dealing river ** [ 5Karo ]
+** Summary **
+Msigo_ shows [ KHerz, JKreuz ]
+amaaahustler shows [ APik, AKaro ]
+Msigo_ collected [ 3,80 $ ]
+
+
+
+#Game No : 551340454
+***** 888poker Hand History for Game 551340454 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:29:49
+Table Mackay 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,71 $ )
+Seat 2: Msigo_ ( 4,05 $ )
+Seat 3: kosmit_11 ( 1,97 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,69 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: JPepss ( 1 $ )
+Seat 10: Donvito72 ( 1,28 $ )
+Luegenlord2 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+JPepss posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 8Karo ]
+JPepss checks
+Donvito72 calls [0,02 $]
+btlbtl folds
+Msigo_ folds
+kosmit_11 folds
+amaaahustler raises [0,06 $]
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+JPepss folds
+Donvito72 calls [0,04 $]
+** Dealing flop ** [ 10Karo, QPik, 2Pik ]
+Donvito72 bets [0,02 $]
+amaaahustler calls [0,02 $]
+** Dealing turn ** [ 4Kreuz ]
+Donvito72 bets [0,10 $]
+amaaahustler calls [0,10 $]
+** Dealing river ** [ 9Pik ]
+Donvito72 bets [0,20 $]
+amaaahustler raises [0,80 $]
+Donvito72 calls [0,60 $]
+** Summary **
+amaaahustler shows [ QHerz, AKaro ]
+Donvito72 shows [ 4Karo, 2Karo ]
+Donvito72 collected [ 1,89 $ ]
+
+
+
+#Game No : 551340563
+***** 888poker Hand History for Game 551340563 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:31:20
+Table Mackay 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,71 $ )
+Seat 3: kosmit_11 ( 1,97 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,69 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: JPepss ( 0,98 $ )
+Seat 10: Donvito72 ( 2,19 $ )
+B2B_Suckouts posts small blind [0,01 $]
+JPepss posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, APik ]
+Donvito72 folds
+btlbtl folds
+kosmit_11 folds
+amaaahustler folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts raises [0,03 $]
+JPepss folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 551340601
+***** 888poker Hand History for Game 551340601 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:31:51
+Table Mackay 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,71 $ )
+Seat 3: kosmit_11 ( 1,97 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,69 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,02 $ )
+Seat 9: JPepss ( 0,96 $ )
+Seat 10: Donvito72 ( 2,19 $ )
+JPepss posts small blind [0,01 $]
+Donvito72 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 4Kreuz ]
+btlbtl folds
+kosmit_11 folds
+amaaahustler folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+JPepss folds
+** Summary **
+Donvito72 did not show his hand
+Donvito72 collected [ 0,03 $ ]
+
+
+
+#Game No : 551340621
+***** 888poker Hand History for Game 551340621 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:32:15
+Table Mackay 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,71 $ )
+Seat 3: kosmit_11 ( 1,97 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,69 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,02 $ )
+Seat 9: JPepss ( 0,95 $ )
+Seat 10: Donvito72 ( 2,20 $ )
+Donvito72 posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 8Pik ]
+kosmit_11 folds
+amaaahustler folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+JPepss raises [0,06 $]
+Donvito72 folds
+btlbtl calls [0,04 $]
+** Dealing flop ** [ 2Kreuz, 10Kreuz, AHerz ]
+btlbtl checks
+JPepss bets [0,06 $]
+btlbtl calls [0,06 $]
+** Dealing turn ** [ QKreuz ]
+btlbtl checks
+JPepss bets [0,12 $]
+btlbtl calls [0,12 $]
+** Dealing river ** [ 8Herz ]
+btlbtl checks
+JPepss checks
+** Summary **
+btlbtl shows [ 6Kreuz, JKreuz ]
+JPepss mucks [ KKreuz, 10Karo ]
+btlbtl collected [ 0,46 $ ]
+
+
+
+#Game No : 551340699
+***** 888poker Hand History for Game 551340699 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:33:30
+Table Mackay 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,93 $ )
+Seat 2: deldave14 ( 2 $ )
+Seat 3: kosmit_11 ( 1,97 $ )
+Seat 4: amaaahustler ( 2 $ )
+Seat 5: tramoia23 ( 1,69 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,02 $ )
+Seat 9: JPepss ( 0,71 $ )
+Seat 10: Donvito72 ( 2,19 $ )
+btlbtl posts small blind [0,01 $]
+deldave14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 8Kreuz ]
+kosmit_11 folds
+amaaahustler folds
+tramoia23 raises [0,06 $]
+Luegenlord2 folds
+B2B_Suckouts folds
+JPepss raises [0,10 $]
+Donvito72 folds
+btlbtl raises [0,18 $]
+deldave14 folds
+tramoia23 folds
+JPepss calls [0,09 $]
+** Dealing flop ** [ 7Karo, 4Karo, 8Pik ]
+btlbtl checks
+JPepss bets [0,15 $]
+btlbtl folds
+** Summary **
+JPepss did not show his hand
+JPepss collected [ 0,44 $ ]
+
+
+
+#Game No : 551340789
+***** 888poker Hand History for Game 551340789 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:34:45
+Table Mackay 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,74 $ )
+Seat 2: deldave14 ( 1,98 $ )
+Seat 3: kosmit_11 ( 1,97 $ )
+Seat 5: tramoia23 ( 1,63 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,02 $ )
+Seat 9: JPepss ( 0,96 $ )
+Seat 10: Donvito72 ( 2,19 $ )
+deldave14 posts small blind [0,01 $]
+kosmit_11 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, JPik ]
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts raises [0,06 $]
+JPepss calls [0,06 $]
+Donvito72 folds
+btlbtl folds
+deldave14 folds
+kosmit_11 folds
+** Dealing flop ** [ JHerz, JKreuz, KHerz ]
+B2B_Suckouts bets [0,04 $]
+JPepss folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 551340835
+***** 888poker Hand History for Game 551340835 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:35:34
+Table Mackay 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,74 $ )
+Seat 2: deldave14 ( 1,97 $ )
+Seat 3: kosmit_11 ( 1,95 $ )
+Seat 4: Optimus40KER ( 2 $ )
+Seat 5: tramoia23 ( 1,63 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,11 $ )
+Seat 10: Donvito72 ( 2,19 $ )
+kosmit_11 posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 8Karo ]
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+Donvito72 calls [0,02 $]
+btlbtl calls [0,02 $]
+deldave14 folds
+kosmit_11 raises [0,09 $]
+Optimus40KER folds
+Donvito72 calls [0,08 $]
+btlbtl calls [0,08 $]
+** Dealing flop ** [ 3Herz, 2Pik, 2Karo ]
+kosmit_11 bets [0,21 $]
+Donvito72 folds
+btlbtl folds
+** Summary **
+kosmit_11 collected [ 0,30 $ ]
+
+
+
+#Game No : 551340909
+***** 888poker Hand History for Game 551340909 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:36:39
+Table Mackay 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,64 $ )
+Seat 2: deldave14 ( 1,97 $ )
+Seat 3: kosmit_11 ( 2,15 $ )
+Seat 4: Optimus40KER ( 1,98 $ )
+Seat 5: tramoia23 ( 1,63 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,11 $ )
+Seat 9: jurasss777 ( 0,80 $ )
+Seat 10: Donvito72 ( 2,09 $ )
+Optimus40KER posts small blind [0,01 $]
+tramoia23 posts big blind [0,02 $]
+jurasss777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, AHerz ]
+Luegenlord2 raises [0,10 $]
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 folds
+btlbtl folds
+deldave14 calls [0,10 $]
+kosmit_11 folds
+Optimus40KER folds
+tramoia23 folds
+** Dealing flop ** [ 7Pik, 2Herz, 7Kreuz ]
+Luegenlord2 bets [0,12 $]
+deldave14 calls [0,12 $]
+** Dealing turn ** [ 6Herz ]
+Luegenlord2 bets [0,24 $]
+deldave14 raises [0,48 $]
+Luegenlord2 calls [0,24 $]
+** Dealing river ** [ JHerz ]
+Luegenlord2 bets [0,95 $]
+deldave14 folds
+** Summary **
+Luegenlord2 did not show his hand
+Luegenlord2 collected [ 1,36 $ ]
+
+
+
+#Game No : 551341009
+***** 888poker Hand History for Game 551341009 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:38:01
+Table Mackay 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,64 $ )
+Seat 2: deldave14 ( 1,27 $ )
+Seat 3: kosmit_11 ( 2,15 $ )
+Seat 4: Optimus40KER ( 1,97 $ )
+Seat 5: tramoia23 ( 1,61 $ )
+Seat 6: Luegenlord2 ( 2,66 $ )
+Seat 7: B2B_Suckouts ( 2,11 $ )
+Seat 9: jurasss777 ( 0,78 $ )
+Seat 10: Donvito72 ( 2,09 $ )
+tramoia23 posts small blind [0,01 $]
+Luegenlord2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 6Karo ]
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 folds
+btlbtl folds
+deldave14 folds
+kosmit_11 folds
+Optimus40KER raises [0,05 $]
+tramoia23 folds
+Luegenlord2 calls [0,03 $]
+** Dealing flop ** [ 7Herz, 6Herz, 7Karo ]
+Luegenlord2 checks
+Optimus40KER bets [0,05 $]
+Luegenlord2 folds
+** Summary **
+Optimus40KER did not show his hand
+Optimus40KER collected [ 0,11 $ ]
+
+
+
+#Game No : 551341074
+***** 888poker Hand History for Game 551341074 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:38:58
+Table Mackay 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,64 $ )
+Seat 2: deldave14 ( 1,27 $ )
+Seat 3: kosmit_11 ( 2,15 $ )
+Seat 4: Optimus40KER ( 2,03 $ )
+Seat 5: tramoia23 ( 1,60 $ )
+Seat 6: Luegenlord2 ( 2,61 $ )
+Seat 7: B2B_Suckouts ( 2,11 $ )
+Seat 9: jurasss777 ( 0,78 $ )
+Seat 10: Donvito72 ( 2,09 $ )
+Luegenlord2 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 9Pik ]
+jurasss777 folds
+Donvito72 calls [0,02 $]
+btlbtl folds
+deldave14 folds
+kosmit_11 folds
+Optimus40KER folds
+tramoia23 folds
+Luegenlord2 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ JHerz, JKreuz, 8Karo ]
+Luegenlord2 checks
+B2B_Suckouts checks
+Donvito72 bets [0,02 $]
+Luegenlord2 calls [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ 7Karo ]
+Luegenlord2 checks
+B2B_Suckouts checks
+Donvito72 bets [0,06 $]
+Luegenlord2 folds
+B2B_Suckouts folds
+** Summary **
+Donvito72 did not show his hand
+Donvito72 collected [ 0,12 $ ]
+
+
+
+#Game No : 551341182
+***** 888poker Hand History for Game 551341182 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:40:23
+Table Mackay 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,64 $ )
+Seat 2: deldave14 ( 1,27 $ )
+Seat 3: kosmit_11 ( 2,15 $ )
+Seat 4: Optimus40KER ( 2,03 $ )
+Seat 5: tramoia23 ( 1,60 $ )
+Seat 6: Luegenlord2 ( 2,57 $ )
+Seat 7: B2B_Suckouts ( 2,07 $ )
+Seat 9: jurasss777 ( 0,78 $ )
+Seat 10: Donvito72 ( 2,17 $ )
+B2B_Suckouts posts small blind [0,01 $]
+jurasss777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, KHerz ]
+Donvito72 calls [0,02 $]
+btlbtl folds
+deldave14 raises [0,08 $]
+kosmit_11 folds
+Optimus40KER folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 folds
+** Summary **
+deldave14 did not show his hand
+deldave14 collected [ 0,07 $ ]
+
+
+
+#Game No : 551341226
+***** 888poker Hand History for Game 551341226 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:41:02
+Table Mackay 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,64 $ )
+Seat 2: deldave14 ( 1,32 $ )
+Seat 3: kosmit_11 ( 2,15 $ )
+Seat 4: Optimus40KER ( 2,03 $ )
+Seat 5: tramoia23 ( 1,60 $ )
+Seat 6: Luegenlord2 ( 2,57 $ )
+Seat 7: B2B_Suckouts ( 2,06 $ )
+Seat 9: jurasss777 ( 0,76 $ )
+Seat 10: Donvito72 ( 2,15 $ )
+jurasss777 posts small blind [0,01 $]
+Donvito72 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 10Karo ]
+btlbtl folds
+deldave14 folds
+kosmit_11 folds
+Optimus40KER folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts raises [0,06 $]
+jurasss777 folds
+Donvito72 calls [0,04 $]
+** Dealing flop ** [ 9Pik, 4Pik, 3Herz ]
+Donvito72 checks
+B2B_Suckouts bets [0,04 $]
+Donvito72 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 551341283
+***** 888poker Hand History for Game 551341283 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:41:55
+Table Mackay 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,64 $ )
+Seat 2: deldave14 ( 1,32 $ )
+Seat 3: kosmit_11 ( 2,15 $ )
+Seat 4: Optimus40KER ( 2,03 $ )
+Seat 5: tramoia23 ( 1,60 $ )
+Seat 6: Luegenlord2 ( 2,57 $ )
+Seat 7: B2B_Suckouts ( 2,13 $ )
+Seat 9: jurasss777 ( 0,75 $ )
+Seat 10: Donvito72 ( 2,09 $ )
+Donvito72 posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 9Karo ]
+deldave14 folds
+kosmit_11 folds
+Optimus40KER folds
+tramoia23 folds
+Luegenlord2 raises [0,06 $]
+B2B_Suckouts folds
+jurasss777 calls [0,06 $]
+Donvito72 folds
+btlbtl folds
+** Dealing flop ** [ 4Herz, 2Karo, 9Kreuz ]
+Luegenlord2 checks
+jurasss777 bets [0,07 $]
+Luegenlord2 calls [0,07 $]
+** Dealing turn ** [ AKaro ]
+Luegenlord2 checks
+jurasss777 bets [0,14 $]
+Luegenlord2 folds
+** Summary **
+jurasss777 did not show his hand
+jurasss777 collected [ 0,28 $ ]
+
+
+
+#Game No : 551341345
+***** 888poker Hand History for Game 551341345 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:43:00
+Table Mackay 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,62 $ )
+Seat 2: deldave14 ( 1,32 $ )
+Seat 3: kosmit_11 ( 2,15 $ )
+Seat 4: Optimus40KER ( 2,03 $ )
+Seat 5: tramoia23 ( 1,60 $ )
+Seat 6: Luegenlord2 ( 2,44 $ )
+Seat 7: B2B_Suckouts ( 2,13 $ )
+Seat 9: jurasss777 ( 0,90 $ )
+Seat 10: Donvito72 ( 2,08 $ )
+btlbtl posts small blind [0,01 $]
+deldave14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, KKreuz ]
+kosmit_11 raises [0,06 $]
+Optimus40KER folds
+tramoia23 folds
+Luegenlord2 calls [0,06 $]
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 calls [0,06 $]
+btlbtl raises [0,33 $]
+deldave14 folds
+kosmit_11 folds
+Luegenlord2 folds
+Donvito72 calls [0,28 $]
+** Dealing flop ** [ JPik, 9Karo, 10Pik ]
+btlbtl checks
+Donvito72 bets [1,74 $]
+btlbtl folds
+** Summary **
+Donvito72 did not show his hand
+Donvito72 collected [ 0,77 $ ]
+
+
+
+#Game No : 551341435
+***** 888poker Hand History for Game 551341435 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:44:12
+Table Mackay 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,28 $ )
+Seat 2: deldave14 ( 1,30 $ )
+Seat 3: kosmit_11 ( 2,09 $ )
+Seat 4: Optimus40KER ( 2,03 $ )
+Seat 5: tramoia23 ( 1,60 $ )
+Seat 6: Luegenlord2 ( 2,38 $ )
+Seat 7: B2B_Suckouts ( 2,13 $ )
+Seat 9: jurasss777 ( 0,90 $ )
+Seat 10: Donvito72 ( 2,51 $ )
+deldave14 posts small blind [0,01 $]
+kosmit_11 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 2Herz ]
+Optimus40KER folds
+tramoia23 raises [0,08 $]
+Luegenlord2 folds
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 calls [0,08 $]
+btlbtl folds
+deldave14 folds
+kosmit_11 folds
+** Dealing flop ** [ 4Karo, 9Karo, KHerz ]
+tramoia23 bets [0,09 $]
+Donvito72 raises [0,18 $]
+tramoia23 calls [0,09 $]
+** Dealing turn ** [ 8Pik ]
+tramoia23 checks
+Donvito72 bets [0,27 $]
+tramoia23 calls [0,27 $]
+** Dealing river ** [ 7Karo ]
+tramoia23 checks
+Donvito72 bets [0,54 $]
+tramoia23 calls [0,54 $]
+** Summary **
+Donvito72 shows [ KKreuz, QPik ]
+tramoia23 shows [ KPik, APik ]
+tramoia23 collected [ 2,04 $ ]
+
+
+
+#Game No : 551341544
+***** 888poker Hand History for Game 551341544 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:45:25
+Table Mackay 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,28 $ )
+Seat 2: deldave14 ( 1,29 $ )
+Seat 3: kosmit_11 ( 2,07 $ )
+Seat 4: Optimus40KER ( 2,03 $ )
+Seat 5: tramoia23 ( 2,57 $ )
+Seat 6: Luegenlord2 ( 2,38 $ )
+Seat 7: B2B_Suckouts ( 2,13 $ )
+Seat 9: jurasss777 ( 0,90 $ )
+Seat 10: Donvito72 ( 1,44 $ )
+kosmit_11 posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 4Kreuz ]
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+jurasss777 calls [0,02 $]
+Donvito72 calls [0,02 $]
+btlbtl folds
+deldave14 folds
+kosmit_11 folds
+Optimus40KER checks
+** Dealing flop ** [ AKaro, JPik, QPik ]
+Optimus40KER checks
+jurasss777 bets [0,02 $]
+Donvito72 calls [0,02 $]
+Optimus40KER folds
+** Dealing turn ** [ QKaro ]
+jurasss777 bets [0,02 $]
+Donvito72 calls [0,02 $]
+** Dealing river ** [ 8Karo ]
+jurasss777 bets [0,02 $]
+Donvito72 raises [0,04 $]
+jurasss777 calls [0,02 $]
+** Summary **
+Donvito72 shows [ AKreuz, 10Pik ]
+jurasss777 shows [ 5Pik, APik ]
+Donvito72 collected [ 0,11 $ ]
+jurasss777 collected [ 0,11 $ ]
+
+
+
+#Game No : 551341635
+***** 888poker Hand History for Game 551341635 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:46:35
+Table Mackay 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,28 $ )
+Seat 2: deldave14 ( 1,29 $ )
+Seat 3: kosmit_11 ( 2,06 $ )
+Seat 4: Optimus40KER ( 2,01 $ )
+Seat 5: tramoia23 ( 2,57 $ )
+Seat 6: Luegenlord2 ( 2,38 $ )
+Seat 7: B2B_Suckouts ( 2,13 $ )
+Seat 9: jurasss777 ( 0,91 $ )
+Seat 10: Donvito72 ( 1,45 $ )
+Optimus40KER posts small blind [0,01 $]
+tramoia23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 8Kreuz ]
+Luegenlord2 folds
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 calls [0,02 $]
+btlbtl raises [0,08 $]
+deldave14 folds
+kosmit_11 folds
+Optimus40KER folds
+tramoia23 folds
+Donvito72 calls [0,06 $]
+** Dealing flop ** [ QHerz, 6Karo, 3Karo ]
+Donvito72 checks
+btlbtl bets [0,07 $]
+Donvito72 folds
+** Summary **
+btlbtl did not show his hand
+btlbtl collected [ 0,18 $ ]
+
+
+
+#Game No : 551341697
+***** 888poker Hand History for Game 551341697 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:47:25
+Table Mackay 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,38 $ )
+Seat 2: deldave14 ( 1,29 $ )
+Seat 3: kosmit_11 ( 2,06 $ )
+Seat 4: Optimus40KER ( 2 $ )
+Seat 5: tramoia23 ( 2,55 $ )
+Seat 6: Luegenlord2 ( 2,38 $ )
+Seat 7: B2B_Suckouts ( 2,13 $ )
+Seat 9: jurasss777 ( 0,91 $ )
+Seat 10: Donvito72 ( 1,37 $ )
+tramoia23 posts small blind [0,01 $]
+Luegenlord2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 6Karo ]
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 folds
+btlbtl raises [0,05 $]
+deldave14 folds
+kosmit_11 folds
+Optimus40KER folds
+tramoia23 folds
+Luegenlord2 calls [0,03 $]
+** Dealing flop ** [ 9Herz, 10Pik, 5Herz ]
+Luegenlord2 checks
+btlbtl bets [0,05 $]
+Luegenlord2 folds
+** Summary **
+btlbtl did not show his hand
+btlbtl collected [ 0,11 $ ]
+
+
+
+#Game No : 551341753
+***** 888poker Hand History for Game 551341753 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:48:12
+Table Mackay 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,44 $ )
+Seat 2: deldave14 ( 1,29 $ )
+Seat 3: kosmit_11 ( 2,06 $ )
+Seat 4: Optimus40KER ( 2 $ )
+Seat 5: tramoia23 ( 2,54 $ )
+Seat 6: Luegenlord2 ( 2,33 $ )
+Seat 7: B2B_Suckouts ( 2,13 $ )
+Seat 9: jurasss777 ( 0,91 $ )
+Seat 10: Donvito72 ( 1,37 $ )
+Luegenlord2 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 5Pik ]
+jurasss777 folds
+Donvito72 calls [0,02 $]
+btlbtl folds
+deldave14 raises [0,08 $]
+kosmit_11 folds
+Optimus40KER folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts calls [0,06 $]
+Donvito72 calls [0,06 $]
+** Dealing flop ** [ QHerz, 4Pik, 6Karo ]
+B2B_Suckouts checks
+Donvito72 bets [0,12 $]
+deldave14 folds
+B2B_Suckouts folds
+** Summary **
+Donvito72 did not show his hand
+Donvito72 collected [ 0,24 $ ]
+
+
+
+#Game No : 551341805
+***** 888poker Hand History for Game 551341805 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:49:03
+Table Mackay 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,44 $ )
+Seat 2: deldave14 ( 1,21 $ )
+Seat 3: kosmit_11 ( 2,06 $ )
+Seat 5: tramoia23 ( 2,54 $ )
+Seat 6: Luegenlord2 ( 2,32 $ )
+Seat 7: B2B_Suckouts ( 2,05 $ )
+Seat 9: jurasss777 ( 0,91 $ )
+Seat 10: Donvito72 ( 1,53 $ )
+B2B_Suckouts posts small blind [0,01 $]
+jurasss777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, JHerz ]
+Donvito72 raises [0,04 $]
+btlbtl folds
+deldave14 folds
+kosmit_11 folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts calls [0,03 $]
+jurasss777 folds
+** Dealing flop ** [ KPik, 3Kreuz, 5Herz ]
+B2B_Suckouts bets [0,02 $]
+Donvito72 calls [0,02 $]
+** Dealing turn ** [ 10Pik ]
+B2B_Suckouts bets [0,07 $]
+Donvito72 folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 551341862
+***** 888poker Hand History for Game 551341862 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:49:50
+Table Mackay 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,44 $ )
+Seat 2: deldave14 ( 1,21 $ )
+Seat 3: kosmit_11 ( 2,06 $ )
+Seat 5: tramoia23 ( 2,54 $ )
+Seat 6: Luegenlord2 ( 2,32 $ )
+Seat 7: B2B_Suckouts ( 2,13 $ )
+Seat 9: jurasss777 ( 0,89 $ )
+Seat 10: Donvito72 ( 1,47 $ )
+jurasss777 posts small blind [0,01 $]
+Donvito72 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, AKreuz ]
+btlbtl folds
+deldave14 raises [0,06 $]
+kosmit_11 folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts calls [0,06 $]
+jurasss777 folds
+Donvito72 raises [1,45 $]
+deldave14 calls [1,15 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 2Karo, 9Karo, 4Karo ]
+** Dealing turn ** [ 4Pik ]
+** Dealing river ** [ AHerz ]
+** Summary **
+deldave14 shows [ QKreuz, 10Kreuz ]
+Donvito72 shows [ 8Herz, 8Pik ]
+Donvito72 collected [ 2,34 $ ]
+
+
+
+#Game No : 551341923
+***** 888poker Hand History for Game 551341923 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:50:41
+Table Mackay 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: btlbtl ( 2,44 $ )
+Seat 3: kosmit_11 ( 2,06 $ )
+Seat 5: tramoia23 ( 2,54 $ )
+Seat 6: Luegenlord2 ( 2,32 $ )
+Seat 7: B2B_Suckouts ( 2,07 $ )
+Seat 9: jurasss777 ( 0,88 $ )
+Seat 10: Donvito72 ( 2,60 $ )
+Donvito72 posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 3Karo ]
+kosmit_11 folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 calls [0,01 $]
+btlbtl checks
+** Dealing flop ** [ AKaro, 9Kreuz, KKaro ]
+Donvito72 checks
+btlbtl checks
+** Dealing turn ** [ 3Kreuz ]
+Donvito72 bets [0,02 $]
+btlbtl folds
+** Summary **
+Donvito72 collected [ 0,04 $ ]
+
+
+
+#Game No : 551341971
+***** 888poker Hand History for Game 551341971 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:51:26
+Table Mackay 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,42 $ )
+Seat 2: sundwig ( 2 $ )
+Seat 3: kosmit_11 ( 2,06 $ )
+Seat 5: tramoia23 ( 2,54 $ )
+Seat 6: Luegenlord2 ( 2,32 $ )
+Seat 7: B2B_Suckouts ( 2,07 $ )
+Seat 9: jurasss777 ( 0,88 $ )
+Seat 10: Donvito72 ( 2,62 $ )
+btlbtl posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 9Herz ]
+kosmit_11 raises [0,06 $]
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 calls [0,06 $]
+btlbtl folds
+sundwig folds
+** Dealing flop ** [ 9Pik, APik, 6Herz ]
+kosmit_11 checks
+Donvito72 checks
+** Dealing turn ** [ QPik ]
+kosmit_11 checks
+Donvito72 checks
+** Dealing river ** [ JPik ]
+kosmit_11 checks
+Donvito72 checks
+** Summary **
+kosmit_11 shows [ KPik, KKreuz ]
+Donvito72 mucks [ 3Kreuz, 2Karo ]
+kosmit_11 collected [ 0,15 $ ]
+
+
+
+#Game No : 551342042
+***** 888poker Hand History for Game 551342042 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:52:25
+Table Mackay 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,41 $ )
+Seat 2: sundwig ( 2 $ )
+Seat 3: kosmit_11 ( 2,15 $ )
+Seat 5: tramoia23 ( 2,54 $ )
+Seat 6: Luegenlord2 ( 2,32 $ )
+Seat 7: B2B_Suckouts ( 2,07 $ )
+Seat 9: jurasss777 ( 0,88 $ )
+Seat 10: Donvito72 ( 2,56 $ )
+sundwig posts small blind [0,01 $]
+kosmit_11 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 4Herz ]
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 folds
+btlbtl folds
+sundwig folds
+** Summary **
+kosmit_11 collected [ 0,03 $ ]
+
+
+
+#Game No : 551342069
+***** 888poker Hand History for Game 551342069 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:52:46
+Table Mackay 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,41 $ )
+Seat 2: sundwig ( 2 $ )
+Seat 3: kosmit_11 ( 2,16 $ )
+Seat 5: tramoia23 ( 2,54 $ )
+Seat 6: Luegenlord2 ( 2,32 $ )
+Seat 7: B2B_Suckouts ( 2,07 $ )
+Seat 9: jurasss777 ( 0,88 $ )
+Seat 10: Donvito72 ( 2,56 $ )
+kosmit_11 posts small blind [0,01 $]
+tramoia23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 8Kreuz ]
+Luegenlord2 raises [0,06 $]
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 calls [0,06 $]
+btlbtl raises [0,23 $]
+sundwig folds
+kosmit_11 folds
+tramoia23 folds
+Luegenlord2 calls [0,17 $]
+Donvito72 folds
+** Dealing flop ** [ 2Pik, 8Pik, 4Karo ]
+Luegenlord2 checks
+btlbtl checks
+** Dealing turn ** [ 6Pik ]
+Luegenlord2 bets [0,18 $]
+btlbtl raises [0,39 $]
+Luegenlord2 calls [0,21 $]
+** Dealing river ** [ 10Karo ]
+Luegenlord2 checks
+btlbtl bets [0,47 $]
+Luegenlord2 folds
+** Summary **
+btlbtl collected [ 1,25 $ ]
+
+
+
+#Game No : 551342213
+***** 888poker Hand History for Game 551342213 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:54:40
+Table Mackay 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 3,04 $ )
+Seat 2: sundwig ( 2 $ )
+Seat 3: kosmit_11 ( 2,15 $ )
+Seat 5: tramoia23 ( 2,52 $ )
+Seat 6: Luegenlord2 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,07 $ )
+Seat 9: jurasss777 ( 0,88 $ )
+Seat 10: Donvito72 ( 2,50 $ )
+tramoia23 posts small blind [0,01 $]
+Luegenlord2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 9Kreuz ]
+B2B_Suckouts folds
+jurasss777 folds
+Donvito72 folds
+btlbtl folds
+sundwig folds
+kosmit_11 folds
+tramoia23 folds
+** Summary **
+Luegenlord2 collected [ 0,03 $ ]
+
+
+
+#Game No : 551342251
+***** 888poker Hand History for Game 551342251 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:55:10
+Table Mackay 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 3,04 $ )
+Seat 2: sundwig ( 2 $ )
+Seat 3: kosmit_11 ( 2,15 $ )
+Seat 5: tramoia23 ( 2,51 $ )
+Seat 6: Luegenlord2 ( 2,01 $ )
+Seat 7: B2B_Suckouts ( 2,07 $ )
+Seat 9: jurasss777 ( 0,88 $ )
+Seat 10: Donvito72 ( 2,50 $ )
+Luegenlord2 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 4Herz ]
+jurasss777 folds
+Donvito72 calls [0,02 $]
+btlbtl folds
+sundwig folds
+kosmit_11 folds
+tramoia23 folds
+Luegenlord2 folds
+B2B_Suckouts checks
+** Dealing flop ** [ JKreuz, 7Pik, 5Herz ]
+B2B_Suckouts checks
+Donvito72 checks
+** Dealing turn ** [ AHerz ]
+B2B_Suckouts checks
+Donvito72 checks
+** Dealing river ** [ 2Herz ]
+B2B_Suckouts bets [0,02 $]
+Donvito72 raises [0,08 $]
+B2B_Suckouts folds
+** Summary **
+Donvito72 collected [ 0,09 $ ]
+
+
+
