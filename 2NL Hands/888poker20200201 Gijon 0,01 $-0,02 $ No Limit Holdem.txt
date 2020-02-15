@@ -1,0 +1,3091 @@
+#Game No : 474257858
+***** 888poker Hand History for Game 474257858 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:23:07
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Mosagro1 ( 1,79 $ )
+Seat 2: veljkic ( 3,28 $ )
+Seat 3: jac2020 ( 1,55 $ )
+Seat 4: vavan129 ( 2,03 $ )
+Seat 5: Downton5011 ( 2,61 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Imlucky88 ( 2 $ )
+Seat 9: samoletik ( 2,09 $ )
+Seat 10: ttottorro ( 2,71 $ )
+Downton5011 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 7Pik ]
+Imlucky88 folds
+samoletik folds
+ttottorro folds
+Mosagro1 folds
+veljkic calls [0,02 $]
+jac2020 folds
+vavan129 folds
+Downton5011 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 4Kreuz, 3Karo, 2Kreuz ]
+B2B_Suckouts checks
+veljkic checks
+** Dealing turn ** [ QHerz ]
+B2B_Suckouts bets [0,02 $]
+veljkic calls [0,02 $]
+** Dealing river ** [ 6Pik ]
+B2B_Suckouts bets [0,14 $]
+veljkic folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,09 $ ]
+
+
+
+#Game No : 474257887
+***** 888poker Hand History for Game 474257887 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:23:49
+Table Gijon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,79 $ )
+Seat 2: veljkic ( 3,24 $ )
+Seat 3: jac2020 ( 1,55 $ )
+Seat 4: vavan129 ( 2,03 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,05 $ )
+Seat 9: samoletik ( 2,09 $ )
+Seat 10: ttottorro ( 2,71 $ )
+B2B_Suckouts posts small blind [0,01 $]
+samoletik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, AKaro ]
+ttottorro folds
+Mosagro1 folds
+veljkic folds
+jac2020 folds
+vavan129 raises [0,05 $]
+Downton5011 folds
+B2B_Suckouts folds
+samoletik folds
+** Summary **
+vavan129 did not show his hand
+vavan129 collected [ 0,05 $ ]
+
+
+
+#Game No : 474257908
+***** 888poker Hand History for Game 474257908 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:24:17
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,79 $ )
+Seat 2: veljkic ( 3,24 $ )
+Seat 3: jac2020 ( 1,55 $ )
+Seat 4: vavan129 ( 2,06 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,04 $ )
+Seat 9: samoletik ( 2,07 $ )
+Seat 10: ttottorro ( 2,71 $ )
+samoletik posts small blind [0,01 $]
+ttottorro folds
+Mosagro1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 5Pik ]
+veljkic folds
+jac2020 raises [0,05 $]
+vavan129 folds
+Downton5011 folds
+B2B_Suckouts folds
+samoletik folds
+Mosagro1 raises [0,13 $]
+jac2020 calls [0,10 $]
+** Dealing flop ** [ JHerz, 4Pik, 3Herz ]
+Mosagro1 checks
+jac2020 bets [0,15 $]
+Mosagro1 folds
+** Summary **
+jac2020 collected [ 0,30 $ ]
+
+
+
+#Game No : 474257943
+***** 888poker Hand History for Game 474257943 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:25:02
+Table Gijon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,64 $ )
+Seat 2: veljkic ( 3,24 $ )
+Seat 3: jac2020 ( 1,70 $ )
+Seat 4: vavan129 ( 2,06 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,04 $ )
+Seat 7: Aqarioo ( 2 $ )
+Seat 9: samoletik ( 2,06 $ )
+Mosagro1 posts small blind [0,01 $]
+veljkic posts big blind [0,02 $]
+Aqarioo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 4Herz ]
+jac2020 folds
+vavan129 folds
+Downton5011 folds
+B2B_Suckouts folds
+Aqarioo checks
+samoletik folds
+Mosagro1 folds
+veljkic checks
+** Dealing flop ** [ KKaro, QHerz, 7Kreuz ]
+veljkic checks
+Aqarioo checks
+** Dealing turn ** [ QKaro ]
+veljkic checks
+Aqarioo bets [0,03 $]
+veljkic calls [0,03 $]
+** Dealing river ** [ AHerz ]
+veljkic bets [0,11 $]
+Aqarioo folds
+** Summary **
+veljkic collected [ 0,11 $ ]
+
+
+
+#Game No : 474257981
+***** 888poker Hand History for Game 474257981 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:25:47
+Table Gijon 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,63 $ )
+Seat 2: veljkic ( 3,30 $ )
+Seat 3: jac2020 ( 1,70 $ )
+Seat 4: vavan129 ( 2,06 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,04 $ )
+Seat 7: Aqarioo ( 1,95 $ )
+Seat 9: samoletik ( 2,06 $ )
+veljkic posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 7Herz ]
+vavan129 folds
+Downton5011 folds
+B2B_Suckouts folds
+Aqarioo raises [0,04 $]
+samoletik folds
+Mosagro1 folds
+veljkic calls [0,03 $]
+jac2020 folds
+** Dealing flop ** [ KHerz, 4Herz, AKreuz ]
+veljkic checks
+Aqarioo bets [0,05 $]
+veljkic calls [0,05 $]
+** Dealing turn ** [ JHerz ]
+veljkic checks
+Aqarioo bets [0,13 $]
+veljkic folds
+** Summary **
+Aqarioo collected [ 0,19 $ ]
+
+
+
+#Game No : 474258024
+***** 888poker Hand History for Game 474258024 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:26:44
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,63 $ )
+Seat 2: veljkic ( 3,21 $ )
+Seat 3: jac2020 ( 1,68 $ )
+Seat 4: vavan129 ( 2,06 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,04 $ )
+Seat 7: Aqarioo ( 2,05 $ )
+Seat 9: samoletik ( 2,06 $ )
+jac2020 posts small blind [0,01 $]
+vavan129 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 3Karo ]
+Downton5011 folds
+B2B_Suckouts folds
+Aqarioo folds
+samoletik folds
+Mosagro1 folds
+veljkic calls [0,02 $]
+jac2020 folds
+vavan129 checks
+** Dealing flop ** [ 9Pik, 8Herz, JPik ]
+vavan129 checks
+veljkic bets [0,03 $]
+vavan129 folds
+** Summary **
+veljkic collected [ 0,05 $ ]
+
+
+
+#Game No : 474258055
+***** 888poker Hand History for Game 474258055 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:27:18
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,63 $ )
+Seat 2: veljkic ( 3,24 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 4: vavan129 ( 2,04 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,04 $ )
+Seat 7: Aqarioo ( 2,05 $ )
+Seat 9: samoletik ( 2,06 $ )
+vavan129 posts small blind [0,01 $]
+Downton5011 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 3Herz ]
+B2B_Suckouts folds
+Aqarioo folds
+samoletik folds
+Mosagro1 calls [0,02 $]
+veljkic calls [0,02 $]
+jac2020 folds
+vavan129 raises [0,09 $]
+Downton5011 folds
+Mosagro1 calls [0,08 $]
+veljkic folds
+** Dealing flop ** [ QHerz, 7Kreuz, QKreuz ]
+vavan129 bets [0,14 $]
+Mosagro1 folds
+** Summary **
+vavan129 collected [ 0,23 $ ]
+
+
+
+#Game No : 474258089
+***** 888poker Hand History for Game 474258089 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:28:09
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,53 $ )
+Seat 2: veljkic ( 3,22 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 4: vavan129 ( 2,17 $ )
+Seat 5: Downton5011 ( 2,58 $ )
+Seat 6: B2B_Suckouts ( 2,04 $ )
+Seat 7: Aqarioo ( 2,05 $ )
+Seat 9: samoletik ( 2,06 $ )
+Downton5011 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 8Herz ]
+Aqarioo folds
+samoletik folds
+Mosagro1 folds
+veljkic folds
+jac2020 folds
+vavan129 folds
+Downton5011 raises [0,05 $]
+B2B_Suckouts folds
+** Summary **
+Downton5011 collected [ 0,04 $ ]
+
+
+
+#Game No : 474258113
+***** 888poker Hand History for Game 474258113 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:28:39
+Table Gijon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,53 $ )
+Seat 2: veljkic ( 3,22 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 4: vavan129 ( 2,17 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,02 $ )
+Seat 7: Aqarioo ( 2,05 $ )
+Seat 9: samoletik ( 2,06 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Aqarioo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 2Herz ]
+samoletik raises [0,06 $]
+Mosagro1 folds
+veljkic folds
+jac2020 folds
+vavan129 folds
+Downton5011 folds
+B2B_Suckouts folds
+Aqarioo folds
+** Summary **
+samoletik collected [ 0,05 $ ]
+
+
+
+#Game No : 474258137
+***** 888poker Hand History for Game 474258137 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:29:08
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,53 $ )
+Seat 2: veljkic ( 3,22 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 4: vavan129 ( 2,17 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,01 $ )
+Seat 7: Aqarioo ( 2,03 $ )
+Seat 9: samoletik ( 2,09 $ )
+Aqarioo posts small blind [0,01 $]
+samoletik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, KKaro ]
+Mosagro1 folds
+veljkic raises [0,12 $]
+jac2020 folds
+vavan129 folds
+Downton5011 folds
+B2B_Suckouts folds
+Aqarioo folds
+samoletik folds
+** Summary **
+veljkic collected [ 0,05 $ ]
+
+
+
+#Game No : 474258157
+***** 888poker Hand History for Game 474258157 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:29:35
+Table Gijon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Mosagro1 ( 1,53 $ )
+Seat 2: veljkic ( 3,25 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 4: vavan129 ( 2,17 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,01 $ )
+Seat 7: Aqarioo ( 2,02 $ )
+Seat 9: samoletik ( 2,07 $ )
+Seat 10: abitor111 ( 1,40 $ )
+samoletik posts small blind [0,01 $]
+abitor111 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 4Pik ]
+Mosagro1 folds
+veljkic calls [0,02 $]
+jac2020 folds
+vavan129 raises [0,08 $]
+Downton5011 folds
+B2B_Suckouts folds
+Aqarioo folds
+samoletik folds
+abitor111 folds
+veljkic calls [0,06 $]
+** Dealing flop ** [ 2Karo, 8Herz, 8Karo ]
+veljkic checks
+vavan129 bets [0,11 $]
+veljkic calls [0,11 $]
+** Dealing turn ** [ 3Karo ]
+veljkic checks
+vavan129 checks
+** Dealing river ** [ JKaro ]
+veljkic checks
+vavan129 bets [0,13 $]
+veljkic calls [0,13 $]
+** Summary **
+vavan129 shows [ QKreuz, KKaro ]
+veljkic mucks [ 7Karo, QKaro ]
+vavan129 collected [ 0,63 $ ]
+
+
+
+#Game No : 474258205
+***** 888poker Hand History for Game 474258205 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:30:39
+Table Gijon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Mosagro1 ( 1,53 $ )
+Seat 2: veljkic ( 2,93 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 4: vavan129 ( 2,48 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,01 $ )
+Seat 7: Aqarioo ( 2,02 $ )
+Seat 9: samoletik ( 2,06 $ )
+Seat 10: abitor111 ( 1,38 $ )
+abitor111 posts small blind [0,01 $]
+Mosagro1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 8Herz ]
+veljkic folds
+jac2020 raises [0,05 $]
+vavan129 folds
+Downton5011 folds
+B2B_Suckouts folds
+Aqarioo folds
+samoletik folds
+abitor111 folds
+Mosagro1 folds
+** Summary **
+jac2020 collected [ 0,05 $ ]
+
+
+
+#Game No : 474258230
+***** 888poker Hand History for Game 474258230 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:31:12
+Table Gijon 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Mosagro1 ( 1,51 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,70 $ )
+Seat 4: vavan129 ( 2,48 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2,01 $ )
+Seat 7: Aqarioo ( 2,02 $ )
+Seat 9: samoletik ( 2,06 $ )
+Seat 10: abitor111 ( 1,37 $ )
+Mosagro1 posts small blind [0,01 $]
+Zamglai posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 6Karo ]
+jac2020 folds
+vavan129 folds
+Downton5011 folds
+B2B_Suckouts raises [0,06 $]
+Aqarioo folds
+samoletik folds
+abitor111 folds
+Mosagro1 raises [0,17 $]
+Zamglai folds
+B2B_Suckouts folds
+** Summary **
+Mosagro1 did not show his hand
+Mosagro1 collected [ 0,14 $ ]
+
+
+
+#Game No : 474258258
+***** 888poker Hand History for Game 474258258 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:31:46
+Table Gijon 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Mosagro1 ( 1,59 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,70 $ )
+Seat 4: vavan129 ( 2,48 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Aqarioo ( 2,02 $ )
+Seat 9: samoletik ( 2,06 $ )
+Seat 10: abitor111 ( 1,37 $ )
+Zamglai posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 5Herz ]
+vavan129 folds
+Downton5011 folds
+B2B_Suckouts folds
+Aqarioo folds
+samoletik folds
+abitor111 folds
+Mosagro1 folds
+Zamglai folds
+** Summary **
+jac2020 did not show his hand
+jac2020 collected [ 0,03 $ ]
+
+
+
+#Game No : 474258271
+***** 888poker Hand History for Game 474258271 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:32:07
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Mosagro1 ( 1,59 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,71 $ )
+Seat 4: vavan129 ( 2,48 $ )
+Seat 5: Downton5011 ( 2,60 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Aqarioo ( 2,02 $ )
+Seat 9: samoletik ( 2,06 $ )
+Seat 10: abitor111 ( 1,37 $ )
+jac2020 posts small blind [0,01 $]
+vavan129 folds
+Downton5011 folds
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, JKaro ]
+Aqarioo folds
+samoletik raises [0,06 $]
+abitor111 calls [0,06 $]
+Mosagro1 folds
+Zamglai folds
+jac2020 folds
+B2B_Suckouts folds
+** Dealing flop ** [ 2Pik, KKreuz, 7Herz ]
+samoletik bets [0,07 $]
+abitor111 calls [0,07 $]
+** Dealing turn ** [ AKaro ]
+samoletik bets [0,10 $]
+abitor111 folds
+** Summary **
+samoletik did not show his hand
+samoletik collected [ 0,28 $ ]
+
+
+
+#Game No : 474258297
+***** 888poker Hand History for Game 474258297 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:32:43
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: Mosagro1 ( 1,59 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,70 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Aqarioo ( 2,02 $ )
+Seat 9: samoletik ( 2,21 $ )
+Seat 10: abitor111 ( 1,24 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Aqarioo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 9Kreuz ]
+samoletik folds
+abitor111 folds
+Mosagro1 folds
+Zamglai folds
+jac2020 folds
+B2B_Suckouts raises [0,05 $]
+Aqarioo folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 474258325
+***** 888poker Hand History for Game 474258325 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:33:21
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Mosagro1 ( 1,59 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,70 $ )
+Seat 6: B2B_Suckouts ( 2,02 $ )
+Seat 7: Aqarioo ( 2 $ )
+Seat 9: samoletik ( 2,21 $ )
+Seat 10: abitor111 ( 1,24 $ )
+Aqarioo posts small blind [0,01 $]
+samoletik folds
+abitor111 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, JHerz ]
+Mosagro1 folds
+Zamglai folds
+jac2020 folds
+B2B_Suckouts raises [0,06 $]
+Aqarioo folds
+abitor111 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474258343
+***** 888poker Hand History for Game 474258343 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:33:49
+Table Gijon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Mosagro1 ( 1,59 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,70 $ )
+Seat 6: B2B_Suckouts ( 2,05 $ )
+Seat 7: Aqarioo ( 1,99 $ )
+Seat 10: abitor111 ( 1,22 $ )
+abitor111 posts small blind [0,01 $]
+Mosagro1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 2Karo ]
+Zamglai folds
+jac2020 folds
+B2B_Suckouts folds
+Aqarioo raises [0,05 $]
+abitor111 folds
+Mosagro1 folds
+** Summary **
+Aqarioo collected [ 0,05 $ ]
+
+
+
+#Game No : 474258364
+***** 888poker Hand History for Game 474258364 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:34:18
+Table Gijon 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Mosagro1 ( 1,57 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,70 $ )
+Seat 4: MaximusMac ( 1,36 $ )
+Seat 6: B2B_Suckouts ( 2,05 $ )
+Seat 7: Aqarioo ( 2,02 $ )
+Seat 10: abitor111 ( 1,21 $ )
+Mosagro1 posts small blind [0,01 $]
+Zamglai posts big blind [0,02 $]
+MaximusMac posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 3Karo ]
+jac2020 folds
+MaximusMac checks
+B2B_Suckouts folds
+Aqarioo folds
+abitor111 raises [0,08 $]
+Mosagro1 folds
+Zamglai folds
+MaximusMac calls [0,06 $]
+** Dealing flop ** [ 6Karo, 2Herz, 10Kreuz ]
+MaximusMac checks
+abitor111 bets [0,12 $]
+MaximusMac calls [0,12 $]
+** Dealing turn ** [ 4Karo ]
+MaximusMac checks
+abitor111 bets [0,21 $]
+MaximusMac calls [0,21 $]
+** Dealing river ** [ AHerz ]
+MaximusMac checks
+abitor111 checks
+** Summary **
+MaximusMac shows [ 2Kreuz, 8Kreuz ]
+abitor111 shows [ JHerz, JKaro ]
+abitor111 collected [ 0,80 $ ]
+
+
+
+#Game No : 474258404
+***** 888poker Hand History for Game 474258404 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:35:09
+Table Gijon 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,56 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,70 $ )
+Seat 4: MaximusMac ( 0,95 $ )
+Seat 6: B2B_Suckouts ( 2,05 $ )
+Seat 7: Aqarioo ( 2,02 $ )
+Seat 9: BrianBdayBoy ( 2 $ )
+Seat 10: abitor111 ( 1,60 $ )
+Zamglai posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+BrianBdayBoy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 9Karo ]
+MaximusMac folds
+B2B_Suckouts folds
+Aqarioo folds
+BrianBdayBoy raises [0,02 $]
+abitor111 folds
+Mosagro1 folds
+Zamglai calls [0,03 $]
+jac2020 folds
+** Dealing flop ** [ 10Karo, KKaro, 4Herz ]
+Zamglai checks
+BrianBdayBoy bets [0,06 $]
+Zamglai folds
+** Summary **
+BrianBdayBoy collected [ 0,10 $ ]
+
+
+
+#Game No : 474258426
+***** 888poker Hand History for Game 474258426 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:35:44
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 1,56 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,68 $ )
+Seat 4: MaximusMac ( 0,95 $ )
+Seat 6: B2B_Suckouts ( 2,05 $ )
+Seat 7: Aqarioo ( 2,02 $ )
+Seat 9: BrianBdayBoy ( 2,06 $ )
+Seat 10: abitor111 ( 1,60 $ )
+jac2020 posts small blind [0,01 $]
+MaximusMac posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 9Karo ]
+B2B_Suckouts folds
+Aqarioo folds
+BrianBdayBoy folds
+abitor111 raises [0,04 $]
+Mosagro1 calls [0,04 $]
+Zamglai folds
+jac2020 folds
+MaximusMac calls [0,02 $]
+** Dealing flop ** [ 2Pik, QKreuz, 3Kreuz ]
+MaximusMac bets [0,08 $]
+abitor111 folds
+Mosagro1 raises [0,16 $]
+MaximusMac calls [0,08 $]
+** Dealing turn ** [ 2Karo ]
+MaximusMac bets [0,75 $]
+Mosagro1 calls [0,75 $]
+** Dealing river ** [ 4Herz ]
+** Summary **
+Mosagro1 shows [ QKaro, JHerz ]
+MaximusMac shows [ 4Pik, 3Karo ]
+Mosagro1 collected [ 1,83 $ ]
+
+
+
+#Game No : 474258473
+***** 888poker Hand History for Game 474258473 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:36:48
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: Mosagro1 ( 2,44 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 6: B2B_Suckouts ( 2,05 $ )
+Seat 7: Aqarioo ( 2,02 $ )
+Seat 9: BrianBdayBoy ( 2,06 $ )
+Seat 10: abitor111 ( 1,56 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Aqarioo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 2Karo ]
+BrianBdayBoy folds
+abitor111 raises [0,04 $]
+Mosagro1 folds
+Zamglai folds
+jac2020 folds
+B2B_Suckouts calls [0,03 $]
+Aqarioo calls [0,02 $]
+** Dealing flop ** [ 2Pik, 10Herz, 3Herz ]
+B2B_Suckouts checks
+Aqarioo checks
+abitor111 checks
+** Dealing turn ** [ 10Pik ]
+B2B_Suckouts bets [0,10 $]
+Aqarioo folds
+abitor111 folds
+** Summary **
+B2B_Suckouts collected [ 0,12 $ ]
+
+
+
+#Game No : 474258511
+***** 888poker Hand History for Game 474258511 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:37:54
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Mosagro1 ( 2,44 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 5: smevado ( 0,80 $ )
+Seat 6: B2B_Suckouts ( 2,13 $ )
+Seat 7: Aqarioo ( 1,98 $ )
+Seat 9: BrianBdayBoy ( 2,06 $ )
+Seat 10: abitor111 ( 1,52 $ )
+Aqarioo posts small blind [0,01 $]
+BrianBdayBoy posts big blind [0,02 $]
+smevado posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, AKaro ]
+abitor111 folds
+Mosagro1 folds
+Zamglai folds
+jac2020 folds
+smevado checks
+B2B_Suckouts raises [0,06 $]
+Aqarioo folds
+BrianBdayBoy folds
+smevado folds
+** Summary **
+B2B_Suckouts collected [ 0,07 $ ]
+
+
+
+#Game No : 474258539
+***** 888poker Hand History for Game 474258539 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:38:30
+Table Gijon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Mosagro1 ( 2,44 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 4: OOISIN ( 0,80 $ )
+Seat 5: smevado ( 0,78 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: Aqarioo ( 1,97 $ )
+Seat 9: BrianBdayBoy ( 2,04 $ )
+Seat 10: abitor111 ( 1,52 $ )
+BrianBdayBoy posts small blind [0,01 $]
+abitor111 posts big blind [0,02 $]
+OOISIN folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 9Karo ]
+Mosagro1 folds
+Zamglai raises [0,06 $]
+jac2020 folds
+smevado folds
+B2B_Suckouts folds
+Aqarioo raises [0,13 $]
+BrianBdayBoy folds
+abitor111 folds
+Zamglai calls [0,07 $]
+** Dealing flop ** [ 3Pik, 8Herz, 9Pik ]
+Zamglai checks
+Aqarioo bets [0,14 $]
+Zamglai folds
+** Summary **
+Aqarioo collected [ 0,28 $ ]
+
+
+
+#Game No : 474258572
+***** 888poker Hand History for Game 474258572 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:39:26
+Table Gijon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Mosagro1 ( 2,44 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 4: OOISIN ( 0,80 $ )
+Seat 5: smevado ( 0,78 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: Aqarioo ( 2,12 $ )
+Seat 9: BrianBdayBoy ( 2,03 $ )
+Seat 10: abitor111 ( 1,50 $ )
+abitor111 posts small blind [0,01 $]
+Mosagro1 folds
+Zamglai posts big blind [0,02 $]
+OOISIN posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 7Karo ]
+jac2020 folds
+OOISIN checks
+smevado calls [0,02 $]
+B2B_Suckouts folds
+Aqarioo calls [0,02 $]
+BrianBdayBoy folds
+abitor111 calls [0,01 $]
+Zamglai checks
+** Dealing flop ** [ 4Pik, AKaro, 8Karo ]
+abitor111 bets [0,02 $]
+Zamglai folds
+OOISIN folds
+smevado folds
+Aqarioo calls [0,02 $]
+** Dealing turn ** [ AHerz ]
+abitor111 bets [0,02 $]
+Aqarioo raises [0,11 $]
+abitor111 folds
+** Summary **
+Aqarioo did not show his hand
+Aqarioo collected [ 0,17 $ ]
+
+
+
+#Game No : 474258613
+***** 888poker Hand History for Game 474258613 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:40:19
+Table Gijon 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,67 $ )
+Seat 4: OOISIN ( 0,78 $ )
+Seat 5: smevado ( 0,76 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: Aqarioo ( 2,23 $ )
+Seat 9: BrianBdayBoy ( 2,03 $ )
+Seat 10: abitor111 ( 1,44 $ )
+Zamglai posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 10Karo ]
+OOISIN folds
+smevado calls [0,02 $]
+B2B_Suckouts folds
+Aqarioo calls [0,02 $]
+BrianBdayBoy folds
+abitor111 calls [0,02 $]
+Zamglai folds
+jac2020 checks
+** Dealing flop ** [ 6Karo, 9Karo, QHerz ]
+jac2020 checks
+smevado checks
+Aqarioo bets [0,04 $]
+abitor111 calls [0,04 $]
+jac2020 folds
+smevado calls [0,04 $]
+** Dealing turn ** [ APik ]
+smevado checks
+Aqarioo checks
+abitor111 checks
+** Dealing river ** [ 3Herz ]
+smevado checks
+Aqarioo bets [0,10 $]
+abitor111 folds
+smevado calls [0,10 $]
+** Summary **
+Aqarioo shows [ KKaro, QKreuz ]
+smevado mucks [ 8Karo, QKaro ]
+Aqarioo collected [ 0,39 $ ]
+
+
+
+#Game No : 474258674
+***** 888poker Hand History for Game 474258674 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:41:44
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,65 $ )
+Seat 4: OOISIN ( 0,78 $ )
+Seat 5: smevado ( 0,60 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: Aqarioo ( 2,46 $ )
+Seat 9: BrianBdayBoy ( 2,03 $ )
+Seat 10: abitor111 ( 1,38 $ )
+jac2020 posts small blind [0,01 $]
+OOISIN posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, APik ]
+smevado folds
+B2B_Suckouts folds
+Aqarioo folds
+BrianBdayBoy folds
+abitor111 folds
+Zamglai folds
+jac2020 folds
+** Summary **
+OOISIN did not show his hand
+OOISIN collected [ 0,03 $ ]
+
+
+
+#Game No : 474258686
+***** 888poker Hand History for Game 474258686 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:42:02
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,64 $ )
+Seat 4: OOISIN ( 0,79 $ )
+Seat 5: smevado ( 0,60 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: Aqarioo ( 2,46 $ )
+Seat 9: BrianBdayBoy ( 2,03 $ )
+Seat 10: abitor111 ( 1,38 $ )
+OOISIN posts small blind [0,01 $]
+smevado posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 10Herz ]
+B2B_Suckouts folds
+Aqarioo folds
+BrianBdayBoy folds
+abitor111 folds
+Zamglai raises [0,05 $]
+jac2020 folds
+OOISIN folds
+smevado calls [0,03 $]
+** Dealing flop ** [ 6Karo, AKreuz, 7Herz ]
+smevado checks
+Zamglai bets [0,06 $]
+smevado calls [0,06 $]
+** Dealing turn ** [ 10Kreuz ]
+smevado checks
+Zamglai bets [0,15 $]
+smevado calls [0,15 $]
+** Dealing river ** [ 8Herz ]
+smevado checks
+Zamglai bets [0,26 $]
+smevado calls [0,26 $]
+** Summary **
+Zamglai shows [ APik, KHerz ]
+smevado shows [ 6Kreuz, 8Karo ]
+smevado collected [ 0,99 $ ]
+
+
+
+#Game No : 474258726
+***** 888poker Hand History for Game 474258726 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:42:54
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,64 $ )
+Seat 4: OOISIN ( 0,78 $ )
+Seat 5: smevado ( 1,07 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: Aqarioo ( 2,46 $ )
+Seat 9: BrianBdayBoy ( 2,03 $ )
+Seat 10: abitor111 ( 1,38 $ )
+smevado posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 4Kreuz ]
+Aqarioo folds
+BrianBdayBoy folds
+abitor111 folds
+Zamglai folds
+jac2020 folds
+OOISIN folds
+smevado calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ JKaro, 4Herz, 10Herz ]
+smevado checks
+B2B_Suckouts checks
+** Dealing turn ** [ 9Herz ]
+smevado checks
+B2B_Suckouts bets [0,02 $]
+smevado calls [0,02 $]
+** Dealing river ** [ 2Herz ]
+smevado checks
+B2B_Suckouts bets [0,18 $]
+smevado folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,08 $ ]
+
+
+
+#Game No : 474258797
+***** 888poker Hand History for Game 474258797 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:44:25
+Table Gijon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,64 $ )
+Seat 4: OOISIN ( 0,78 $ )
+Seat 5: smevado ( 1,03 $ )
+Seat 6: B2B_Suckouts ( 2,22 $ )
+Seat 9: BrianBdayBoy ( 2,03 $ )
+Seat 10: abitor111 ( 1,38 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BrianBdayBoy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 2Kreuz ]
+abitor111 folds
+Zamglai folds
+jac2020 folds
+OOISIN folds
+smevado calls [0,02 $]
+B2B_Suckouts folds
+BrianBdayBoy checks
+** Dealing flop ** [ AHerz, AKreuz, 10Pik ]
+BrianBdayBoy bets [0,02 $]
+smevado folds
+** Summary **
+BrianBdayBoy did not show his hand
+BrianBdayBoy collected [ 0,05 $ ]
+
+
+
+#Game No : 474258809
+***** 888poker Hand History for Game 474258809 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:44:47
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,64 $ )
+Seat 4: OOISIN ( 0,78 $ )
+Seat 5: smevado ( 1,01 $ )
+Seat 6: B2B_Suckouts ( 2,21 $ )
+Seat 9: BrianBdayBoy ( 2,06 $ )
+Seat 10: abitor111 ( 1,38 $ )
+BrianBdayBoy posts small blind [0,01 $]
+abitor111 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 4Pik ]
+Zamglai folds
+jac2020 folds
+OOISIN folds
+smevado calls [0,02 $]
+B2B_Suckouts folds
+BrianBdayBoy calls [0,01 $]
+abitor111 raises [0,06 $]
+smevado calls [0,06 $]
+BrianBdayBoy calls [0,06 $]
+** Dealing flop ** [ 3Kreuz, 6Kreuz, 6Karo ]
+BrianBdayBoy bets [1,98 $]
+abitor111 folds
+smevado folds
+** Summary **
+BrianBdayBoy did not show his hand
+BrianBdayBoy collected [ 0,23 $ ]
+
+
+
+#Game No : 474258846
+***** 888poker Hand History for Game 474258846 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:45:27
+Table Gijon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,64 $ )
+Seat 4: OOISIN ( 0,78 $ )
+Seat 5: smevado ( 0,93 $ )
+Seat 6: B2B_Suckouts ( 2,21 $ )
+Seat 9: BrianBdayBoy ( 2,21 $ )
+Seat 10: abitor111 ( 1,30 $ )
+abitor111 posts small blind [0,01 $]
+Zamglai posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, QPik ]
+jac2020 raises [0,04 $]
+OOISIN folds
+smevado calls [0,04 $]
+B2B_Suckouts folds
+BrianBdayBoy folds
+abitor111 folds
+Zamglai folds
+** Dealing flop ** [ 5Kreuz, 6Herz, QHerz ]
+jac2020 checks
+smevado checks
+** Dealing turn ** [ 5Pik ]
+jac2020 bets [0,02 $]
+smevado calls [0,02 $]
+** Dealing river ** [ 2Pik ]
+jac2020 bets [0,02 $]
+smevado raises [0,04 $]
+jac2020 calls [0,02 $]
+** Summary **
+smevado shows [ KHerz, QKaro ]
+jac2020 mucks [ 4Herz, 4Pik ]
+smevado collected [ 0,22 $ ]
+
+
+
+#Game No : 474258911
+***** 888poker Hand History for Game 474258911 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:46:51
+Table Gijon 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,54 $ )
+Seat 4: OOISIN ( 0,78 $ )
+Seat 5: smevado ( 1,05 $ )
+Seat 6: B2B_Suckouts ( 2,21 $ )
+Seat 7: Sid1380907 ( 0,80 $ )
+Seat 9: BrianBdayBoy ( 2,21 $ )
+Seat 10: abitor111 ( 1,29 $ )
+Zamglai posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+Sid1380907 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 4Pik ]
+OOISIN folds
+smevado calls [0,02 $]
+B2B_Suckouts folds
+Sid1380907 checks
+BrianBdayBoy folds
+abitor111 raises [0,08 $]
+Zamglai folds
+jac2020 folds
+smevado calls [0,06 $]
+Sid1380907 calls [0,06 $]
+** Dealing flop ** [ 6Herz, 10Herz, 3Pik ]
+smevado checks
+Sid1380907 checks
+abitor111 checks
+** Dealing turn ** [ 2Herz ]
+smevado checks
+Sid1380907 bets [0,02 $]
+abitor111 calls [0,02 $]
+smevado calls [0,02 $]
+** Dealing river ** [ 8Karo ]
+smevado checks
+Sid1380907 checks
+abitor111 bets [0,21 $]
+smevado calls [0,21 $]
+Sid1380907 folds
+** Summary **
+abitor111 shows [ JKreuz, AHerz ]
+smevado shows [ 5Kreuz, 5Karo ]
+smevado collected [ 0,71 $ ]
+
+
+
+#Game No : 474258990
+***** 888poker Hand History for Game 474258990 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:48:20
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,52 $ )
+Seat 4: OOISIN ( 0,78 $ )
+Seat 5: smevado ( 1,45 $ )
+Seat 6: B2B_Suckouts ( 2,21 $ )
+Seat 7: Sid1380907 ( 0,70 $ )
+Seat 9: BrianBdayBoy ( 2,21 $ )
+Seat 10: abitor111 ( 0,98 $ )
+jac2020 posts small blind [0,01 $]
+OOISIN posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, AHerz ]
+smevado folds
+B2B_Suckouts folds
+Sid1380907 folds
+BrianBdayBoy folds
+abitor111 raises [0,05 $]
+Zamglai folds
+jac2020 folds
+OOISIN calls [0,03 $]
+** Dealing flop ** [ 5Kreuz, 3Kreuz, 7Pik ]
+OOISIN checks
+abitor111 bets [0,05 $]
+OOISIN calls [0,05 $]
+** Dealing turn ** [ 9Kreuz ]
+OOISIN checks
+abitor111 bets [0,10 $]
+OOISIN calls [0,10 $]
+** Dealing river ** [ 5Pik ]
+OOISIN checks
+abitor111 bets [0,20 $]
+OOISIN calls [0,20 $]
+** Summary **
+abitor111 shows [ 10Kreuz, KKreuz ]
+OOISIN mucks [ 4Kreuz, QKreuz ]
+abitor111 collected [ 0,76 $ ]
+
+
+
+#Game No : 474259050
+***** 888poker Hand History for Game 474259050 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:49:40
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,51 $ )
+Seat 4: OOISIN ( 0,38 $ )
+Seat 5: smevado ( 1,45 $ )
+Seat 6: B2B_Suckouts ( 2,21 $ )
+Seat 7: Sid1380907 ( 0,70 $ )
+Seat 9: BrianBdayBoy ( 2,21 $ )
+Seat 10: abitor111 ( 1,34 $ )
+OOISIN posts small blind [0,01 $]
+smevado posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 10Herz ]
+B2B_Suckouts folds
+Sid1380907 calls [0,02 $]
+BrianBdayBoy folds
+abitor111 folds
+Zamglai raises [0,08 $]
+jac2020 folds
+OOISIN folds
+smevado calls [0,06 $]
+Sid1380907 calls [0,06 $]
+** Dealing flop ** [ JHerz, AKreuz, 4Pik ]
+smevado checks
+Sid1380907 checks
+Zamglai checks
+** Dealing turn ** [ 2Pik ]
+smevado bets [0,08 $]
+Sid1380907 folds
+Zamglai folds
+** Summary **
+smevado collected [ 0,24 $ ]
+
+
+
+#Game No : 474259107
+***** 888poker Hand History for Game 474259107 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:50:47
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,51 $ )
+Seat 4: OOISIN ( 0,37 $ )
+Seat 5: smevado ( 1,61 $ )
+Seat 6: B2B_Suckouts ( 2,21 $ )
+Seat 7: Sid1380907 ( 0,62 $ )
+Seat 9: BrianBdayBoy ( 2,21 $ )
+Seat 10: abitor111 ( 1,34 $ )
+smevado posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, KPik ]
+Sid1380907 raises [0,04 $]
+BrianBdayBoy folds
+abitor111 folds
+Zamglai folds
+jac2020 calls [0,04 $]
+OOISIN folds
+smevado calls [0,03 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 4Herz, 10Kreuz, 4Pik ]
+smevado checks
+B2B_Suckouts checks
+Sid1380907 bets [0,08 $]
+jac2020 folds
+smevado folds
+B2B_Suckouts folds
+** Summary **
+Sid1380907 collected [ 0,15 $ ]
+
+
+
+#Game No : 474259157
+***** 888poker Hand History for Game 474259157 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:51:45
+Table Gijon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,47 $ )
+Seat 4: OOISIN ( 0,37 $ )
+Seat 5: smevado ( 1,57 $ )
+Seat 6: B2B_Suckouts ( 2,17 $ )
+Seat 7: Sid1380907 ( 0,73 $ )
+Seat 9: BrianBdayBoy ( 2,21 $ )
+Seat 10: abitor111 ( 1,34 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Sid1380907 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 8Karo ]
+BrianBdayBoy folds
+abitor111 folds
+Zamglai folds
+jac2020 folds
+OOISIN calls [0,02 $]
+smevado calls [0,02 $]
+B2B_Suckouts calls [0,01 $]
+Sid1380907 checks
+** Dealing flop ** [ 2Karo, 2Herz, 4Karo ]
+B2B_Suckouts checks
+Sid1380907 bets [0,02 $]
+OOISIN raises [0,35 $]
+smevado folds
+B2B_Suckouts folds
+Sid1380907 calls [0,33 $]
+** Dealing turn ** [ AKaro ]
+** Dealing river ** [ AHerz ]
+** Summary **
+OOISIN shows [ QPik, JHerz ]
+Sid1380907 shows [ 5Karo, 4Kreuz ]
+Sid1380907 collected [ 0,74 $ ]
+
+
+
+#Game No : 474259215
+***** 888poker Hand History for Game 474259215 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:52:42
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,47 $ )
+Seat 5: smevado ( 1,55 $ )
+Seat 6: B2B_Suckouts ( 2,15 $ )
+Seat 7: Sid1380907 ( 1,10 $ )
+Seat 9: BrianBdayBoy ( 2,21 $ )
+Seat 10: abitor111 ( 1,34 $ )
+Sid1380907 posts small blind [0,01 $]
+BrianBdayBoy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, AHerz ]
+abitor111 folds
+Zamglai folds
+jac2020 folds
+smevado folds
+B2B_Suckouts raises [0,06 $]
+Sid1380907 calls [0,05 $]
+BrianBdayBoy folds
+** Dealing flop ** [ 7Herz, KKaro, 6Herz ]
+Sid1380907 checks
+B2B_Suckouts bets [0,07 $]
+Sid1380907 folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 474259259
+***** 888poker Hand History for Game 474259259 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:53:37
+Table Gijon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2 $ )
+Seat 3: jac2020 ( 1,47 $ )
+Seat 5: smevado ( 1,55 $ )
+Seat 6: B2B_Suckouts ( 2,23 $ )
+Seat 7: Sid1380907 ( 1,04 $ )
+Seat 9: BrianBdayBoy ( 2,19 $ )
+Seat 10: abitor111 ( 1,34 $ )
+BrianBdayBoy posts small blind [0,01 $]
+abitor111 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 10Pik ]
+Zamglai raises [0,06 $]
+jac2020 folds
+smevado folds
+B2B_Suckouts calls [0,06 $]
+Sid1380907 calls [0,06 $]
+BrianBdayBoy folds
+abitor111 folds
+** Dealing flop ** [ 2Karo, 4Pik, QKreuz ]
+Zamglai bets [0,14 $]
+B2B_Suckouts folds
+Sid1380907 folds
+** Summary **
+Zamglai collected [ 0,20 $ ]
+
+
+
+#Game No : 474259309
+***** 888poker Hand History for Game 474259309 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:54:48
+Table Gijon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2 $ )
+Seat 2: Zamglai ( 2,14 $ )
+Seat 3: jac2020 ( 1,47 $ )
+Seat 5: smevado ( 1,55 $ )
+Seat 6: B2B_Suckouts ( 2,17 $ )
+Seat 7: Sid1380907 ( 0,98 $ )
+Seat 9: BrianBdayBoy ( 2,18 $ )
+Seat 10: abitor111 ( 1,32 $ )
+abitor111 posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, AHerz ]
+Zamglai folds
+jac2020 folds
+smevado calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+Sid1380907 raises [0,12 $]
+BrianBdayBoy folds
+abitor111 folds
+btlbtl folds
+smevado folds
+B2B_Suckouts calls [0,06 $]
+** Dealing flop ** [ 10Herz, 3Herz, 3Karo ]
+B2B_Suckouts bets [0,09 $]
+Sid1380907 folds
+** Summary **
+B2B_Suckouts collected [ 0,28 $ ]
+
+
+
+#Game No : 474259347
+***** 888poker Hand History for Game 474259347 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:55:34
+Table Gijon 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2 $ )
+Seat 2: Zamglai ( 2,14 $ )
+Seat 3: jac2020 ( 1,47 $ )
+Seat 5: smevado ( 1,53 $ )
+Seat 6: B2B_Suckouts ( 2,33 $ )
+Seat 7: Sid1380907 ( 0,86 $ )
+Seat 9: BrianBdayBoy ( 2,18 $ )
+Seat 10: abitor111 ( 1,31 $ )
+btlbtl posts small blind [0,01 $]
+Zamglai posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 5Karo ]
+jac2020 folds
+smevado calls [0,02 $]
+B2B_Suckouts folds
+Sid1380907 folds
+BrianBdayBoy folds
+abitor111 folds
+btlbtl folds
+Zamglai checks
+** Dealing flop ** [ 4Kreuz, 2Herz, AKaro ]
+Zamglai checks
+smevado checks
+** Dealing turn ** [ JPik ]
+Zamglai checks
+smevado checks
+** Dealing river ** [ KPik ]
+Zamglai checks
+smevado checks
+** Summary **
+Zamglai shows [ 3Karo, QPik ]
+smevado mucks [ 8Kreuz, 6Kreuz ]
+Zamglai collected [ 0,05 $ ]
+
+
+
+#Game No : 474259395
+***** 888poker Hand History for Game 474259395 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:56:31
+Table Gijon 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2 $ )
+Seat 2: Zamglai ( 2,17 $ )
+Seat 3: jac2020 ( 1,47 $ )
+Seat 5: smevado ( 1,51 $ )
+Seat 6: B2B_Suckouts ( 2,33 $ )
+Seat 7: Sid1380907 ( 0,86 $ )
+Seat 9: BrianBdayBoy ( 2,18 $ )
+Seat 10: abitor111 ( 1,31 $ )
+Zamglai posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, QHerz ]
+smevado calls [0,02 $]
+B2B_Suckouts folds
+Sid1380907 folds
+BrianBdayBoy folds
+abitor111 folds
+btlbtl calls [0,02 $]
+Zamglai folds
+jac2020 checks
+** Dealing flop ** [ 3Herz, 2Karo, 2Pik ]
+jac2020 checks
+smevado checks
+btlbtl checks
+** Dealing turn ** [ KKaro ]
+jac2020 checks
+smevado checks
+btlbtl checks
+** Dealing river ** [ 9Kreuz ]
+jac2020 checks
+smevado bets [0,04 $]
+btlbtl raises [1,98 $]
+jac2020 folds
+smevado folds
+** Summary **
+btlbtl collected [ 0,15 $ ]
+
+
+
+#Game No : 474259449
+***** 888poker Hand History for Game 474259449 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:57:58
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,09 $ )
+Seat 2: Zamglai ( 2,16 $ )
+Seat 3: jac2020 ( 1,45 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 5: smevado ( 1,45 $ )
+Seat 6: B2B_Suckouts ( 2,33 $ )
+Seat 7: Sid1380907 ( 0,86 $ )
+Seat 9: BrianBdayBoy ( 2,18 $ )
+Seat 10: abitor111 ( 1,31 $ )
+jac2020 posts small blind [0,01 $]
+davebob82 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, KKaro ]
+smevado folds
+B2B_Suckouts folds
+Sid1380907 folds
+BrianBdayBoy folds
+abitor111 folds
+btlbtl folds
+Zamglai folds
+jac2020 folds
+** Summary **
+davebob82 did not show his hand
+davebob82 collected [ 0,03 $ ]
+
+
+
+#Game No : 474259461
+***** 888poker Hand History for Game 474259461 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:58:19
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,09 $ )
+Seat 2: Zamglai ( 2,16 $ )
+Seat 3: jac2020 ( 1,44 $ )
+Seat 4: davebob82 ( 2,01 $ )
+Seat 5: smevado ( 1,45 $ )
+Seat 6: B2B_Suckouts ( 2,33 $ )
+Seat 7: Sid1380907 ( 0,86 $ )
+Seat 9: BrianBdayBoy ( 2,18 $ )
+Seat 10: abitor111 ( 1,31 $ )
+davebob82 posts small blind [0,01 $]
+smevado posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, KKaro ]
+B2B_Suckouts folds
+Sid1380907 folds
+BrianBdayBoy folds
+abitor111 folds
+btlbtl folds
+Zamglai folds
+jac2020 folds
+davebob82 raises [0,07 $]
+smevado calls [0,06 $]
+** Dealing flop ** [ 9Herz, APik, AKreuz ]
+davebob82 checks
+smevado checks
+** Dealing turn ** [ 10Pik ]
+davebob82 bets [0,08 $]
+smevado calls [0,08 $]
+** Dealing river ** [ KKreuz ]
+davebob82 checks
+smevado bets [0,20 $]
+davebob82 folds
+** Summary **
+smevado did not show his hand
+smevado collected [ 0,30 $ ]
+
+
+
+#Game No : 474259512
+***** 888poker Hand History for Game 474259512 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 20:59:35
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,09 $ )
+Seat 2: Zamglai ( 2,16 $ )
+Seat 3: jac2020 ( 1,44 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 5: smevado ( 1,59 $ )
+Seat 6: B2B_Suckouts ( 2,33 $ )
+Seat 7: Sid1380907 ( 0,86 $ )
+Seat 9: BrianBdayBoy ( 2,18 $ )
+Seat 10: abitor111 ( 1,31 $ )
+smevado posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 7Herz ]
+Sid1380907 raises [0,06 $]
+BrianBdayBoy folds
+abitor111 folds
+btlbtl folds
+Zamglai folds
+jac2020 folds
+davebob82 calls [0,06 $]
+smevado calls [0,05 $]
+B2B_Suckouts folds
+** Dealing flop ** [ AHerz, JKaro, 8Pik ]
+smevado checks
+Sid1380907 bets [0,06 $]
+davebob82 folds
+smevado calls [0,06 $]
+** Dealing turn ** [ 6Herz ]
+smevado checks
+Sid1380907 checks
+** Dealing river ** [ 2Pik ]
+smevado checks
+Sid1380907 checks
+** Summary **
+smevado shows [ KPik, QHerz ]
+Sid1380907 mucks [ 10Herz, 3Herz ]
+smevado collected [ 0,30 $ ]
+
+
+
+#Game No : 474259559
+***** 888poker Hand History for Game 474259559 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:00:31
+Table Gijon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,09 $ )
+Seat 2: Zamglai ( 2,16 $ )
+Seat 3: jac2020 ( 1,44 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 5: smevado ( 1,77 $ )
+Seat 6: B2B_Suckouts ( 2,31 $ )
+Seat 7: Sid1380907 ( 0,74 $ )
+Seat 9: BrianBdayBoy ( 2,18 $ )
+Seat 10: abitor111 ( 1,31 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Sid1380907 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 4Karo ]
+BrianBdayBoy folds
+abitor111 folds
+btlbtl folds
+Zamglai folds
+jac2020 folds
+davebob82 folds
+smevado folds
+B2B_Suckouts calls [0,01 $]
+Sid1380907 raises [0,06 $]
+B2B_Suckouts folds
+** Summary **
+Sid1380907 did not show his hand
+Sid1380907 collected [ 0,04 $ ]
+
+
+
+#Game No : 474259583
+***** 888poker Hand History for Game 474259583 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:01:13
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: btlbtl ( 2,09 $ )
+Seat 2: Zamglai ( 2,16 $ )
+Seat 3: jac2020 ( 1,44 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 5: smevado ( 1,77 $ )
+Seat 6: B2B_Suckouts ( 2,29 $ )
+Seat 7: Sid1380907 ( 0,76 $ )
+Seat 9: BrianBdayBoy ( 2,18 $ )
+Seat 10: abitor111 ( 1,31 $ )
+Sid1380907 posts small blind [0,01 $]
+BrianBdayBoy folds
+abitor111 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 10Kreuz ]
+btlbtl folds
+Zamglai folds
+jac2020 folds
+davebob82 folds
+smevado calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+Sid1380907 folds
+abitor111 folds
+smevado calls [0,04 $]
+** Dealing flop ** [ 6Pik, 9Karo, AKaro ]
+smevado checks
+B2B_Suckouts checks
+** Dealing turn ** [ 3Herz ]
+smevado checks
+B2B_Suckouts bets [0,07 $]
+smevado calls [0,07 $]
+** Dealing river ** [ 2Kreuz ]
+smevado checks
+B2B_Suckouts checks
+** Summary **
+smevado shows [ 4Karo, 8Karo ]
+B2B_Suckouts shows [ KPik, 10Kreuz ]
+B2B_Suckouts collected [ 0,28 $ ]
+
+
+
+#Game No : 474259630
+***** 888poker Hand History for Game 474259630 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:02:19
+Table Gijon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: btlbtl ( 2,09 $ )
+Seat 2: Zamglai ( 2,16 $ )
+Seat 3: jac2020 ( 1,44 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 5: smevado ( 1,64 $ )
+Seat 6: B2B_Suckouts ( 2,44 $ )
+Seat 7: Sid1380907 ( 0,75 $ )
+Seat 10: abitor111 ( 1,29 $ )
+abitor111 posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 4Pik ]
+Zamglai folds
+jac2020 folds
+davebob82 folds
+smevado calls [0,02 $]
+B2B_Suckouts folds
+Sid1380907 raises [0,06 $]
+abitor111 folds
+btlbtl folds
+smevado folds
+** Summary **
+Sid1380907 collected [ 0,07 $ ]
+
+
+
+#Game No : 474259714
+***** 888poker Hand History for Game 474259714 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:04:00
+Table Gijon 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2,16 $ )
+Seat 3: jac2020 ( 1,44 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 5: smevado ( 1,62 $ )
+Seat 6: B2B_Suckouts ( 2,44 $ )
+Seat 7: Sid1380907 ( 0,80 $ )
+Seat 10: abitor111 ( 1,28 $ )
+Zamglai posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 6Kreuz ]
+davebob82 folds
+smevado folds
+B2B_Suckouts raises [0,06 $]
+Sid1380907 folds
+abitor111 folds
+Zamglai folds
+jac2020 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474259732
+***** 888poker Hand History for Game 474259732 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:04:23
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2,15 $ )
+Seat 3: jac2020 ( 1,42 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 5: smevado ( 1,62 $ )
+Seat 6: B2B_Suckouts ( 2,47 $ )
+Seat 7: Sid1380907 ( 0,80 $ )
+Seat 10: abitor111 ( 1,28 $ )
+jac2020 posts small blind [0,01 $]
+davebob82 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 8Kreuz ]
+smevado folds
+B2B_Suckouts folds
+Sid1380907 folds
+abitor111 raises [0,05 $]
+Zamglai folds
+jac2020 folds
+davebob82 folds
+** Summary **
+abitor111 collected [ 0,05 $ ]
+
+
+
+#Game No : 474259762
+***** 888poker Hand History for Game 474259762 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:05:01
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: jac2020 ( 1,41 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 5: smevado ( 1,62 $ )
+Seat 6: B2B_Suckouts ( 2,47 $ )
+Seat 7: Sid1380907 ( 0,80 $ )
+Seat 10: abitor111 ( 1,31 $ )
+davebob82 posts small blind [0,01 $]
+smevado posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 10Pik ]
+B2B_Suckouts folds
+Sid1380907 calls [0,02 $]
+abitor111 folds
+jac2020 folds
+davebob82 raises [0,07 $]
+smevado folds
+Sid1380907 calls [0,06 $]
+** Dealing flop ** [ 7Herz, 2Karo, 8Karo ]
+davebob82 bets [0,09 $]
+Sid1380907 calls [0,09 $]
+** Dealing turn ** [ KKaro ]
+davebob82 checks
+Sid1380907 bets [0,08 $]
+davebob82 calls [0,08 $]
+** Dealing river ** [ 4Kreuz ]
+davebob82 bets [0,26 $]
+Sid1380907 calls [0,26 $]
+** Summary **
+davebob82 shows [ JPik, JKaro ]
+Sid1380907 mucks [ AHerz, 7Pik ]
+davebob82 collected [ 0,98 $ ]
+
+
+
+#Game No : 474259845
+***** 888poker Hand History for Game 474259845 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:06:47
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: jac2020 ( 1,41 $ )
+Seat 4: davebob82 ( 2,47 $ )
+Seat 5: smevado ( 1,60 $ )
+Seat 6: B2B_Suckouts ( 2,47 $ )
+Seat 7: Sid1380907 ( 0,29 $ )
+Seat 10: abitor111 ( 1,31 $ )
+smevado posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, AKreuz ]
+Sid1380907 folds
+abitor111 folds
+jac2020 folds
+davebob82 raises [0,06 $]
+smevado calls [0,05 $]
+B2B_Suckouts raises [0,16 $]
+davebob82 calls [0,12 $]
+smevado folds
+** Dealing flop ** [ 9Karo, QHerz, JKaro ]
+B2B_Suckouts checks
+davebob82 checks
+** Dealing turn ** [ JKreuz ]
+B2B_Suckouts checks
+davebob82 checks
+** Dealing river ** [ 4Kreuz ]
+B2B_Suckouts bets [0,40 $]
+davebob82 folds
+** Summary **
+B2B_Suckouts collected [ 0,40 $ ]
+
+
+
+#Game No : 474259909
+***** 888poker Hand History for Game 474259909 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:08:09
+Table Gijon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 3: jac2020 ( 1,41 $ )
+Seat 4: davebob82 ( 2,29 $ )
+Seat 5: smevado ( 1,54 $ )
+Seat 6: B2B_Suckouts ( 2,69 $ )
+Seat 7: Sid1380907 ( 0,29 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Sid1380907 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 2Karo ]
+jac2020 folds
+davebob82 raises [0,06 $]
+smevado calls [0,06 $]
+B2B_Suckouts folds
+Sid1380907 calls [0,04 $]
+** Dealing flop ** [ 9Karo, QKaro, 2Pik ]
+Sid1380907 checks
+davebob82 checks
+smevado checks
+** Dealing turn ** [ 3Karo ]
+Sid1380907 checks
+davebob82 bets [0,19 $]
+smevado calls [0,19 $]
+Sid1380907 folds
+** Dealing river ** [ 8Kreuz ]
+davebob82 checks
+smevado checks
+** Summary **
+davebob82 shows [ 10Kreuz, KKreuz ]
+smevado shows [ KKaro, AKreuz ]
+smevado collected [ 0,54 $ ]
+
+
+
+#Game No : 474259994
+***** 888poker Hand History for Game 474259994 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:09:44
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2,15 $ )
+Seat 3: jac2020 ( 1,41 $ )
+Seat 4: davebob82 ( 2,04 $ )
+Seat 5: smevado ( 1,83 $ )
+Seat 6: B2B_Suckouts ( 2,68 $ )
+Seat 7: Sid1380907 ( 0,23 $ )
+Seat 9: vavan129 ( 2 $ )
+Sid1380907 posts small blind [0,01 $]
+vavan129 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 5Kreuz ]
+Zamglai folds
+jac2020 folds
+davebob82 folds
+smevado folds
+B2B_Suckouts raises [0,06 $]
+Sid1380907 raises [0,22 $]
+vavan129 folds
+B2B_Suckouts calls [0,17 $]
+** Dealing flop ** [ 3Karo, 3Herz, 3Kreuz ]
+** Dealing turn ** [ JPik ]
+** Dealing river ** [ 3Pik ]
+** Summary **
+B2B_Suckouts shows [ AKaro, 5Kreuz ]
+Sid1380907 shows [ KPik, 10Karo ]
+B2B_Suckouts collected [ 0,45 $ ]
+
+
+
+#Game No : 474260035
+***** 888poker Hand History for Game 474260035 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:10:30
+Table Gijon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 2: Zamglai ( 2,15 $ )
+Seat 3: jac2020 ( 1,41 $ )
+Seat 4: davebob82 ( 2,04 $ )
+Seat 5: smevado ( 1,83 $ )
+Seat 6: B2B_Suckouts ( 2,90 $ )
+Seat 9: vavan129 ( 2 $ )
+Zamglai posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 5Herz ]
+davebob82 folds
+smevado calls [0,02 $]
+B2B_Suckouts folds
+vavan129 raises [0,08 $]
+Zamglai folds
+jac2020 calls [0,06 $]
+smevado calls [0,06 $]
+** Dealing flop ** [ 4Pik, 4Karo, AHerz ]
+jac2020 bets [0,02 $]
+smevado folds
+vavan129 calls [0,02 $]
+** Dealing turn ** [ 9Herz ]
+jac2020 bets [0,02 $]
+vavan129 raises [0,08 $]
+jac2020 folds
+** Summary **
+vavan129 collected [ 0,31 $ ]
+
+
+
+#Game No : 474260081
+***** 888poker Hand History for Game 474260081 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:11:23
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 2: Zamglai ( 2,14 $ )
+Seat 3: jac2020 ( 1,29 $ )
+Seat 4: davebob82 ( 2,04 $ )
+Seat 5: smevado ( 1,75 $ )
+Seat 6: B2B_Suckouts ( 2,90 $ )
+Seat 9: vavan129 ( 2,19 $ )
+jac2020 posts small blind [0,01 $]
+davebob82 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 2Pik ]
+smevado calls [0,02 $]
+B2B_Suckouts folds
+vavan129 folds
+Zamglai folds
+jac2020 folds
+davebob82 checks
+** Dealing flop ** [ 8Pik, QKreuz, 4Herz ]
+davebob82 bets [0,05 $]
+smevado folds
+** Summary **
+davebob82 collected [ 0,05 $ ]
+
+
+
+#Game No : 474260106
+***** 888poker Hand History for Game 474260106 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:11:50
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 2: Zamglai ( 2,14 $ )
+Seat 3: jac2020 ( 1,28 $ )
+Seat 4: davebob82 ( 2,07 $ )
+Seat 5: smevado ( 1,73 $ )
+Seat 6: B2B_Suckouts ( 2,90 $ )
+Seat 9: vavan129 ( 2,19 $ )
+davebob82 posts small blind [0,01 $]
+smevado posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 10Karo ]
+B2B_Suckouts folds
+vavan129 folds
+Zamglai folds
+jac2020 folds
+davebob82 raises [0,07 $]
+smevado calls [0,06 $]
+** Dealing flop ** [ 2Karo, 5Kreuz, 8Herz ]
+davebob82 checks
+smevado checks
+** Dealing turn ** [ KKaro ]
+davebob82 checks
+smevado checks
+** Dealing river ** [ JHerz ]
+davebob82 bets [0,08 $]
+smevado calls [0,08 $]
+** Summary **
+davebob82 shows [ QKaro, AHerz ]
+smevado shows [ AKreuz, 8Karo ]
+smevado collected [ 0,30 $ ]
+
+
+
+#Game No : 474260154
+***** 888poker Hand History for Game 474260154 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:12:55
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 2: Zamglai ( 2,14 $ )
+Seat 3: jac2020 ( 1,28 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 5: smevado ( 1,87 $ )
+Seat 6: B2B_Suckouts ( 2,90 $ )
+Seat 9: vavan129 ( 2,19 $ )
+smevado posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, KKaro ]
+vavan129 folds
+Zamglai raises [0,06 $]
+jac2020 folds
+davebob82 folds
+smevado folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 10Herz, 2Herz, KHerz ]
+B2B_Suckouts bets [0,06 $]
+Zamglai calls [0,06 $]
+** Dealing turn ** [ 6Kreuz ]
+B2B_Suckouts checks
+Zamglai bets [0,12 $]
+B2B_Suckouts folds
+** Summary **
+Zamglai collected [ 0,24 $ ]
+
+
+
+#Game No : 474260241
+***** 888poker Hand History for Game 474260241 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:14:41
+Table Gijon 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 2: Zamglai ( 2,26 $ )
+Seat 3: jac2020 ( 1,28 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 5: smevado ( 1,86 $ )
+Seat 6: B2B_Suckouts ( 2,78 $ )
+Seat 9: vavan129 ( 2,19 $ )
+B2B_Suckouts posts small blind [0,01 $]
+vavan129 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 8Karo ]
+Zamglai raises [0,06 $]
+jac2020 folds
+davebob82 calls [0,06 $]
+smevado folds
+B2B_Suckouts folds
+vavan129 folds
+** Dealing flop ** [ JKaro, 6Pik, 9Kreuz ]
+Zamglai bets [0,08 $]
+davebob82 calls [0,08 $]
+** Dealing turn ** [ 4Herz ]
+Zamglai checks
+davebob82 checks
+** Dealing river ** [ KHerz ]
+Zamglai checks
+davebob82 bets [0,15 $]
+Zamglai folds
+** Summary **
+davebob82 collected [ 0,30 $ ]
+
+
+
+#Game No : 474260304
+***** 888poker Hand History for Game 474260304 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:15:56
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2,12 $ )
+Seat 3: jac2020 ( 1,28 $ )
+Seat 4: davebob82 ( 2,16 $ )
+Seat 5: smevado ( 1,86 $ )
+Seat 6: B2B_Suckouts ( 2,77 $ )
+Seat 9: vavan129 ( 2,17 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+vavan129 posts small blind [0,01 $]
+SoFatDan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 7Pik ]
+Zamglai raises [0,06 $]
+jac2020 folds
+davebob82 folds
+smevado calls [0,06 $]
+B2B_Suckouts raises [0,24 $]
+vavan129 folds
+SoFatDan folds
+Zamglai folds
+smevado calls [0,18 $]
+** Dealing flop ** [ 3Herz, 8Kreuz, 2Pik ]
+smevado checks
+B2B_Suckouts bets [0,42 $]
+smevado calls [0,42 $]
+** Dealing turn ** [ 5Kreuz ]
+smevado checks
+B2B_Suckouts bets [2,11 $]
+smevado folds
+** Summary **
+B2B_Suckouts collected [ 1,33 $ ]
+
+
+
+#Game No : 474260357
+***** 888poker Hand History for Game 474260357 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:17:12
+Table Gijon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Downton5011 ( 2 $ )
+Seat 2: Zamglai ( 2,06 $ )
+Seat 3: jac2020 ( 1,28 $ )
+Seat 4: davebob82 ( 2,16 $ )
+Seat 5: smevado ( 1,20 $ )
+Seat 6: B2B_Suckouts ( 3,44 $ )
+Seat 9: vavan129 ( 2,16 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+SoFatDan posts small blind [0,01 $]
+Downton5011 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 2Herz ]
+Zamglai folds
+jac2020 folds
+davebob82 calls [0,02 $]
+smevado folds
+B2B_Suckouts folds
+vavan129 folds
+SoFatDan folds
+Downton5011 checks
+** Dealing flop ** [ AHerz, 7Karo, 8Kreuz ]
+Downton5011 bets [0,06 $]
+davebob82 folds
+** Summary **
+Downton5011 did not show his hand
+Downton5011 collected [ 0,05 $ ]
+
+
+
+#Game No : 474260376
+***** 888poker Hand History for Game 474260376 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:17:37
+Table Gijon 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Downton5011 ( 2,03 $ )
+Seat 2: Zamglai ( 2,06 $ )
+Seat 4: davebob82 ( 2,14 $ )
+Seat 5: smevado ( 1,20 $ )
+Seat 6: B2B_Suckouts ( 3,44 $ )
+Seat 9: vavan129 ( 2,16 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+Downton5011 posts small blind [0,01 $]
+Zamglai posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, JHerz ]
+davebob82 calls [0,02 $]
+smevado calls [0,02 $]
+B2B_Suckouts raises [0,04 $]
+vavan129 folds
+SoFatDan folds
+Downton5011 folds
+Zamglai folds
+davebob82 calls [0,02 $]
+smevado calls [0,02 $]
+** Dealing flop ** [ 4Karo, 8Karo, 10Kreuz ]
+davebob82 checks
+smevado checks
+B2B_Suckouts checks
+** Dealing turn ** [ QKaro ]
+davebob82 checks
+smevado checks
+B2B_Suckouts checks
+** Dealing river ** [ 10Karo ]
+davebob82 checks
+smevado checks
+B2B_Suckouts checks
+** Summary **
+davebob82 shows [ 2Herz, 2Karo ]
+smevado mucks [ 7Pik, KKreuz ]
+B2B_Suckouts mucks [ KPik, JHerz ]
+davebob82 collected [ 0,15 $ ]
+
+
+
+#Game No : 474260427
+***** 888poker Hand History for Game 474260427 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:18:54
+Table Gijon 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Downton5011 ( 2,02 $ )
+Seat 2: Zamglai ( 2,04 $ )
+Seat 3: heaguerom ( 2 $ )
+Seat 4: davebob82 ( 2,25 $ )
+Seat 5: smevado ( 1,16 $ )
+Seat 6: B2B_Suckouts ( 3,40 $ )
+Seat 9: vavan129 ( 2,16 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+Zamglai posts small blind [0,01 $]
+heaguerom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 9Pik ]
+davebob82 folds
+smevado calls [0,02 $]
+B2B_Suckouts folds
+vavan129 folds
+SoFatDan folds
+Downton5011 folds
+Zamglai folds
+heaguerom checks
+** Dealing flop ** [ 3Herz, 5Kreuz, QHerz ]
+heaguerom bets [0,03 $]
+smevado folds
+** Summary **
+heaguerom collected [ 0,05 $ ]
+
+
+
+#Game No : 474260450
+***** 888poker Hand History for Game 474260450 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:19:22
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Downton5011 ( 2,02 $ )
+Seat 2: Zamglai ( 2,03 $ )
+Seat 3: heaguerom ( 2,03 $ )
+Seat 4: davebob82 ( 2,25 $ )
+Seat 5: smevado ( 1,14 $ )
+Seat 6: B2B_Suckouts ( 3,40 $ )
+Seat 9: vavan129 ( 2,16 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+heaguerom posts small blind [0,01 $]
+davebob82 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, QHerz ]
+smevado folds
+B2B_Suckouts folds
+vavan129 folds
+SoFatDan folds
+Downton5011 folds
+Zamglai raises [0,05 $]
+heaguerom calls [0,04 $]
+davebob82 folds
+** Dealing flop ** [ 9Kreuz, 7Kreuz, JPik ]
+heaguerom checks
+Zamglai bets [0,08 $]
+heaguerom calls [0,08 $]
+** Dealing turn ** [ 2Karo ]
+heaguerom checks
+Zamglai bets [0,14 $]
+heaguerom calls [0,14 $]
+** Dealing river ** [ KHerz ]
+heaguerom checks
+Zamglai checks
+** Summary **
+heaguerom shows [ KKreuz, QKaro ]
+Zamglai mucks [ JHerz, 10Herz ]
+heaguerom collected [ 0,53 $ ]
+
+
+
+#Game No : 474260503
+***** 888poker Hand History for Game 474260503 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:20:27
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: Downton5011 ( 2,02 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: heaguerom ( 2,29 $ )
+Seat 4: davebob82 ( 2,23 $ )
+Seat 6: B2B_Suckouts ( 3,40 $ )
+Seat 9: vavan129 ( 2,16 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+davebob82 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 4Pik ]
+vavan129 folds
+SoFatDan folds
+Downton5011 folds
+Zamglai folds
+heaguerom raises [0,06 $]
+davebob82 folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 8Kreuz, JKreuz, JHerz ]
+B2B_Suckouts checks
+heaguerom bets [0,06 $]
+B2B_Suckouts folds
+** Summary **
+heaguerom collected [ 0,13 $ ]
+
+
+
+#Game No : 474260532
+***** 888poker Hand History for Game 474260532 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:20:58
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Downton5011 ( 2,02 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: heaguerom ( 2,36 $ )
+Seat 4: davebob82 ( 2,22 $ )
+Seat 6: B2B_Suckouts ( 3,34 $ )
+Seat 7: ffev78 ( 0,80 $ )
+Seat 9: vavan129 ( 2,16 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, AHerz ]
+vavan129 folds
+SoFatDan folds
+Downton5011 folds
+Zamglai folds
+heaguerom folds
+davebob82 raises [0,06 $]
+B2B_Suckouts raises [0,09 $]
+ffev78 folds
+davebob82 calls [0,04 $]
+** Dealing flop ** [ 5Kreuz, APik, 4Herz ]
+B2B_Suckouts checks
+davebob82 bets [0,07 $]
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ 8Kreuz ]
+B2B_Suckouts checks
+davebob82 checks
+** Dealing river ** [ 7Pik ]
+B2B_Suckouts bets [0,11 $]
+davebob82 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,34 $ ]
+
+
+
+#Game No : 474260596
+***** 888poker Hand History for Game 474260596 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:22:20
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Downton5011 ( 2,02 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: heaguerom ( 2,36 $ )
+Seat 4: davebob82 ( 2,05 $ )
+Seat 6: B2B_Suckouts ( 3,51 $ )
+Seat 7: ffev78 ( 0,80 $ )
+Seat 9: vavan129 ( 2,16 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+ffev78 posts small blind [0,01 $]
+vavan129 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 8Kreuz ]
+SoFatDan raises [0,06 $]
+Downton5011 folds
+Zamglai folds
+heaguerom folds
+davebob82 folds
+B2B_Suckouts folds
+ffev78 folds
+vavan129 folds
+** Summary **
+SoFatDan did not show his hand
+SoFatDan collected [ 0,05 $ ]
+
+
+
+#Game No : 474260606
+***** 888poker Hand History for Game 474260606 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:22:35
+Table Gijon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Downton5011 ( 2,02 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: heaguerom ( 2,36 $ )
+Seat 4: davebob82 ( 2,05 $ )
+Seat 6: B2B_Suckouts ( 3,51 $ )
+Seat 7: ffev78 ( 0,80 $ )
+Seat 9: vavan129 ( 2,14 $ )
+Seat 10: SoFatDan ( 1,43 $ )
+vavan129 posts small blind [0,01 $]
+SoFatDan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 2Kreuz ]
+Downton5011 folds
+Zamglai folds
+heaguerom folds
+davebob82 folds
+B2B_Suckouts folds
+ffev78 raises [0,05 $]
+vavan129 folds
+SoFatDan folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ 0,05 $ ]
+
+
+
+#Game No : 474260625
+***** 888poker Hand History for Game 474260625 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:23:04
+Table Gijon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Downton5011 ( 2,02 $ )
+Seat 2: Zamglai ( 2 $ )
+Seat 3: heaguerom ( 2,36 $ )
+Seat 4: davebob82 ( 2,05 $ )
+Seat 6: B2B_Suckouts ( 3,51 $ )
+Seat 7: ffev78 ( 2 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,41 $ )
+SoFatDan posts small blind [0,01 $]
+Downton5011 folds
+Zamglai posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 2Pik ]
+heaguerom folds
+davebob82 folds
+B2B_Suckouts folds
+ffev78 folds
+vavan129 folds
+SoFatDan folds
+** Summary **
+Zamglai did not show his hand
+Zamglai collected [ 0,03 $ ]
+
+
+
+#Game No : 474260634
+***** 888poker Hand History for Game 474260634 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:23:16
+Table Gijon 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2,01 $ )
+Seat 3: heaguerom ( 2,36 $ )
+Seat 4: davebob82 ( 2,05 $ )
+Seat 6: B2B_Suckouts ( 3,51 $ )
+Seat 7: ffev78 ( 2 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+Zamglai posts small blind [0,01 $]
+heaguerom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, APik ]
+davebob82 raises [0,06 $]
+B2B_Suckouts raises [0,18 $]
+ffev78 folds
+vavan129 folds
+SoFatDan folds
+Zamglai folds
+heaguerom folds
+davebob82 calls [0,12 $]
+** Dealing flop ** [ QPik, 9Pik, 6Kreuz ]
+davebob82 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 8Pik ]
+davebob82 checks
+B2B_Suckouts bets [0,19 $]
+davebob82 calls [0,19 $]
+** Dealing river ** [ 9Kreuz ]
+davebob82 checks
+B2B_Suckouts bets [1,68 $]
+davebob82 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,73 $ ]
+
+
+
+#Game No : 474260709
+***** 888poker Hand History for Game 474260709 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:24:39
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2 $ )
+Seat 3: heaguerom ( 2,34 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 6: B2B_Suckouts ( 3,87 $ )
+Seat 7: ffev78 ( 2 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+heaguerom posts small blind [0,01 $]
+davebob82 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, JHerz ]
+B2B_Suckouts raises [0,06 $]
+ffev78 folds
+vavan129 folds
+SoFatDan folds
+Zamglai folds
+heaguerom folds
+davebob82 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474260738
+***** 888poker Hand History for Game 474260738 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:25:17
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2 $ )
+Seat 3: heaguerom ( 2,33 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 6: B2B_Suckouts ( 3,90 $ )
+Seat 7: ffev78 ( 2 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+davebob82 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 7Kreuz ]
+ffev78 raises [0,06 $]
+vavan129 folds
+SoFatDan folds
+Zamglai folds
+heaguerom folds
+davebob82 folds
+B2B_Suckouts folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ 0,05 $ ]
+
+
+
+#Game No : 474260759
+***** 888poker Hand History for Game 474260759 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:25:40
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2 $ )
+Seat 3: heaguerom ( 2,33 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 6: B2B_Suckouts ( 3,88 $ )
+Seat 7: ffev78 ( 2,03 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 9Herz ]
+vavan129 folds
+SoFatDan folds
+Zamglai folds
+heaguerom folds
+davebob82 raises [0,08 $]
+B2B_Suckouts folds
+ffev78 folds
+** Summary **
+davebob82 did not show his hand
+davebob82 collected [ 0,05 $ ]
+
+
+
+#Game No : 474260771
+***** 888poker Hand History for Game 474260771 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:26:01
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: Zamglai ( 2 $ )
+Seat 3: heaguerom ( 2,33 $ )
+Seat 4: davebob82 ( 2,03 $ )
+Seat 6: B2B_Suckouts ( 3,87 $ )
+Seat 7: ffev78 ( 2,01 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+ffev78 posts small blind [0,01 $]
+vavan129 folds
+SoFatDan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 3Kreuz ]
+Zamglai folds
+heaguerom folds
+davebob82 folds
+B2B_Suckouts folds
+ffev78 folds
+** Summary **
+SoFatDan did not show his hand
+SoFatDan collected [ 0,03 $ ]
+
+
+
+#Game No : 474260779
+***** 888poker Hand History for Game 474260779 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:26:11
+Table Gijon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 2: Zamglai ( 2 $ )
+Seat 3: heaguerom ( 2,33 $ )
+Seat 4: davebob82 ( 2,03 $ )
+Seat 6: B2B_Suckouts ( 3,87 $ )
+Seat 7: ffev78 ( 2 $ )
+Seat 10: SoFatDan ( 1,41 $ )
+SoFatDan posts small blind [0,01 $]
+Zamglai posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, QKreuz ]
+heaguerom folds
+davebob82 folds
+B2B_Suckouts folds
+ffev78 folds
+SoFatDan raises [0,05 $]
+Zamglai raises [0,16 $]
+SoFatDan folds
+** Summary **
+Zamglai collected [ 0,12 $ ]
+
+
+
+#Game No : 474260802
+***** 888poker Hand History for Game 474260802 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:26:30
+Table Gijon 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 2: Zamglai ( 2,06 $ )
+Seat 3: heaguerom ( 2,33 $ )
+Seat 4: davebob82 ( 2,03 $ )
+Seat 6: B2B_Suckouts ( 3,87 $ )
+Seat 7: ffev78 ( 2 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+Zamglai posts small blind [0,01 $]
+heaguerom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 5Herz ]
+davebob82 folds
+B2B_Suckouts folds
+ffev78 raises [0,06 $]
+SoFatDan folds
+Zamglai folds
+heaguerom folds
+** Summary **
+ffev78 collected [ 0,05 $ ]
+
+
+
+#Game No : 474260812
+***** 888poker Hand History for Game 474260812 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:26:45
+Table Gijon 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 2: Zamglai ( 2,05 $ )
+Seat 3: heaguerom ( 2,31 $ )
+Seat 4: davebob82 ( 2,03 $ )
+Seat 6: B2B_Suckouts ( 3,87 $ )
+Seat 7: ffev78 ( 2,03 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+heaguerom posts small blind [0,01 $]
+davebob82 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, QHerz ]
+B2B_Suckouts folds
+ffev78 folds
+SoFatDan raises [0,05 $]
+Zamglai folds
+heaguerom folds
+davebob82 folds
+** Summary **
+SoFatDan collected [ 0,05 $ ]
+
+
+
+#Game No : 474260840
+***** 888poker Hand History for Game 474260840 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:27:14
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 3: heaguerom ( 2,30 $ )
+Seat 4: davebob82 ( 2,01 $ )
+Seat 6: B2B_Suckouts ( 3,87 $ )
+Seat 7: ffev78 ( 2,03 $ )
+Seat 10: SoFatDan ( 1,43 $ )
+davebob82 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 8Karo ]
+ffev78 folds
+SoFatDan folds
+heaguerom folds
+davebob82 raises [0,07 $]
+B2B_Suckouts folds
+** Summary **
+davebob82 collected [ 0,04 $ ]
+
+
+
+#Game No : 474260854
+***** 888poker Hand History for Game 474260854 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:27:36
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 3: heaguerom ( 2,30 $ )
+Seat 4: davebob82 ( 2,03 $ )
+Seat 6: B2B_Suckouts ( 3,85 $ )
+Seat 7: ffev78 ( 2,03 $ )
+Seat 10: SoFatDan ( 1,43 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 6Kreuz ]
+SoFatDan folds
+heaguerom folds
+davebob82 folds
+B2B_Suckouts calls [0,01 $]
+ffev78 checks
+** Dealing flop ** [ 10Kreuz, 2Kreuz, 8Pik ]
+B2B_Suckouts bets [0,02 $]
+ffev78 calls [0,02 $]
+** Dealing turn ** [ 3Herz ]
+B2B_Suckouts bets [0,08 $]
+ffev78 folds
+** Summary **
+B2B_Suckouts collected [ 0,08 $ ]
+
+
+
+#Game No : 474260896
+***** 888poker Hand History for Game 474260896 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:28:38
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: heaguerom ( 2,30 $ )
+Seat 4: davebob82 ( 2,03 $ )
+Seat 6: B2B_Suckouts ( 3,89 $ )
+Seat 7: ffev78 ( 1,99 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,43 $ )
+ffev78 posts small blind [0,01 $]
+vavan129 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 7Karo ]
+SoFatDan folds
+heaguerom folds
+davebob82 folds
+B2B_Suckouts folds
+ffev78 folds
+** Summary **
+vavan129 did not show his hand
+vavan129 collected [ 0,03 $ ]
+
+
+
+#Game No : 474260909
+***** 888poker Hand History for Game 474260909 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:28:52
+Table Gijon 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 3: heaguerom ( 2,30 $ )
+Seat 4: davebob82 ( 2,03 $ )
+Seat 6: B2B_Suckouts ( 3,89 $ )
+Seat 7: ffev78 ( 1,98 $ )
+Seat 9: vavan129 ( 2,14 $ )
+Seat 10: SoFatDan ( 1,43 $ )
+vavan129 posts small blind [0,01 $]
+SoFatDan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 2Kreuz ]
+heaguerom folds
+davebob82 raises [0,06 $]
+B2B_Suckouts folds
+ffev78 folds
+vavan129 folds
+SoFatDan folds
+** Summary **
+davebob82 did not show his hand
+davebob82 collected [ 0,05 $ ]
+
+
+
+#Game No : 474260933
+***** 888poker Hand History for Game 474260933 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:29:27
+Table Gijon 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 3: heaguerom ( 2,30 $ )
+Seat 4: davebob82 ( 2,06 $ )
+Seat 6: B2B_Suckouts ( 3,89 $ )
+Seat 7: ffev78 ( 1,98 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,41 $ )
+SoFatDan posts small blind [0,01 $]
+heaguerom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 2Karo ]
+davebob82 raises [0,06 $]
+B2B_Suckouts folds
+ffev78 folds
+vavan129 folds
+SoFatDan folds
+heaguerom calls [0,04 $]
+** Dealing flop ** [ KPik, 8Pik, 5Kreuz ]
+heaguerom checks
+davebob82 bets [0,06 $]
+heaguerom folds
+** Summary **
+davebob82 did not show his hand
+davebob82 collected [ 0,13 $ ]
+
+
+
+#Game No : 474260961
+***** 888poker Hand History for Game 474260961 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:30:03
+Table Gijon 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 3: heaguerom ( 2,24 $ )
+Seat 4: davebob82 ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 3,89 $ )
+Seat 7: ffev78 ( 1,98 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+heaguerom posts small blind [0,01 $]
+davebob82 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 3Kreuz ]
+B2B_Suckouts folds
+ffev78 raises [0,06 $]
+vavan129 folds
+SoFatDan folds
+heaguerom folds
+davebob82 folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ 0,05 $ ]
+
+
+
+#Game No : 474260985
+***** 888poker Hand History for Game 474260985 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:30:30
+Table Gijon 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: heaguerom ( 2,23 $ )
+Seat 4: davebob82 ( 2,11 $ )
+Seat 6: B2B_Suckouts ( 3,89 $ )
+Seat 7: ffev78 ( 2,01 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+davebob82 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 3Kreuz ]
+ffev78 folds
+vavan129 folds
+SoFatDan folds
+heaguerom folds
+davebob82 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ JKreuz, 10Kreuz, APik ]
+davebob82 checks
+B2B_Suckouts bets [0,02 $]
+davebob82 calls [0,02 $]
+** Dealing turn ** [ 2Kreuz ]
+davebob82 bets [0,08 $]
+B2B_Suckouts calls [0,08 $]
+** Dealing river ** [ KKreuz ]
+davebob82 checks
+B2B_Suckouts bets [0,12 $]
+davebob82 calls [0,12 $]
+** Summary **
+B2B_Suckouts shows [ 9Kreuz, 3Kreuz ]
+davebob82 mucks [ JKaro, AKaro ]
+B2B_Suckouts collected [ 0,45 $ ]
+
+
+
+#Game No : 474261029
+***** 888poker Hand History for Game 474261029 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:31:32
+Table Gijon 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: heaguerom ( 2,23 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 6: B2B_Suckouts ( 4,10 $ )
+Seat 7: ffev78 ( 2,01 $ )
+Seat 9: vavan129 ( 2,13 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 3Pik ]
+vavan129 raises [0,06 $]
+SoFatDan folds
+heaguerom folds
+davebob82 folds
+B2B_Suckouts folds
+ffev78 folds
+** Summary **
+vavan129 collected [ 0,05 $ ]
+
+
+
+#Game No : 474261040
+***** 888poker Hand History for Game 474261040 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 01 02 2020 21:31:50
+Table Gijon 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: heaguerom ( 2,23 $ )
+Seat 4: davebob82 ( 2 $ )
+Seat 6: B2B_Suckouts ( 4,09 $ )
+Seat 7: ffev78 ( 1,99 $ )
+Seat 9: vavan129 ( 2,16 $ )
+Seat 10: SoFatDan ( 1,40 $ )
+ffev78 posts small blind [0,01 $]
+vavan129 folds
+SoFatDan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 9Pik ]
+heaguerom raises [0,06 $]
+davebob82 calls [0,06 $]
+B2B_Suckouts folds
+ffev78 folds
+SoFatDan folds
+** Dealing flop ** [ 3Herz, 6Karo, 3Kreuz ]
+heaguerom checks
+davebob82 bets [0,07 $]
+heaguerom folds
+** Summary **
+davebob82 collected [ 0,15 $ ]
+
+
+
