@@ -1,0 +1,157 @@
+#Game No : 474084325
+***** 888poker Hand History for Game 474084325 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 15:56:31
+Table Akron 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: overcranky ( 2 $ )
+Seat 4: 1gadfly1 ( 3,10 $ )
+Seat 5: hobo821 ( 0,77 $ )
+Seat 6: djborside ( 1,82 $ )
+Seat 7: OmgAKs ( 2,74 $ )
+Seat 9: KiwiInSweden ( 3 $ )
+Seat 10: SkyRokeT ( 0,89 $ )
+KiwiInSweden posts small blind [0,01 $]
+SkyRokeT posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, KKreuz ]
+B2B_Suckouts checks
+overcranky folds
+1gadfly1 folds
+hobo821 folds
+djborside calls [0,02 $]
+OmgAKs folds
+KiwiInSweden calls [0,01 $]
+SkyRokeT checks
+** Dealing flop ** [ QHerz, JPik, 7Pik ]
+KiwiInSweden checks
+SkyRokeT bets [0,05 $]
+B2B_Suckouts folds
+djborside calls [0,05 $]
+KiwiInSweden folds
+** Dealing turn ** [ 5Herz ]
+SkyRokeT bets [0,12 $]
+djborside calls [0,12 $]
+** Dealing river ** [ 10Karo ]
+SkyRokeT checks
+djborside bets [0,18 $]
+SkyRokeT calls [0,18 $]
+** Summary **
+djborside shows [ KPik, KKaro ]
+SkyRokeT shows [ 7Herz, JKreuz ]
+SkyRokeT collected [ 0,74 $ ]
+
+
+
+#Game No : 474084348
+***** 888poker Hand History for Game 474084348 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 15:57:28
+Table Akron 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 1,98 $ )
+Seat 2: overcranky ( 2 $ )
+Seat 4: 1gadfly1 ( 3,10 $ )
+Seat 5: hobo821 ( 0,77 $ )
+Seat 6: djborside ( 1,45 $ )
+Seat 7: OmgAKs ( 2,74 $ )
+Seat 9: KiwiInSweden ( 2,98 $ )
+Seat 10: SkyRokeT ( 1,26 $ )
+SkyRokeT posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 4Herz ]
+overcranky raises [0,06 $]
+1gadfly1 folds
+hobo821 folds
+djborside folds
+OmgAKs folds
+KiwiInSweden folds
+SkyRokeT folds
+B2B_Suckouts folds
+** Summary **
+overcranky collected [ 0,05 $ ]
+
+
+
+#Game No : 474084354
+***** 888poker Hand History for Game 474084354 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 15:57:39
+Table Akron 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 1,96 $ )
+Seat 2: overcranky ( 2,03 $ )
+Seat 4: 1gadfly1 ( 3,10 $ )
+Seat 5: hobo821 ( 0,77 $ )
+Seat 6: djborside ( 1,45 $ )
+Seat 7: OmgAKs ( 2,74 $ )
+Seat 9: KiwiInSweden ( 2,98 $ )
+Seat 10: SkyRokeT ( 1,25 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 10Herz ]
+1gadfly1 folds
+hobo821 folds
+djborside folds
+OmgAKs folds
+KiwiInSweden folds
+SkyRokeT raises [0,05 $]
+B2B_Suckouts folds
+overcranky raises [0,20 $]
+SkyRokeT folds
+** Summary **
+overcranky collected [ 0,11 $ ]
+
+
+
+#Game No : 474084364
+***** 888poker Hand History for Game 474084364 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 15:58:04
+Table Akron 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 1,95 $ )
+Seat 2: overcranky ( 2,09 $ )
+Seat 3: risha988 ( 2 $ )
+Seat 4: 1gadfly1 ( 3,10 $ )
+Seat 5: hobo821 ( 0,77 $ )
+Seat 6: djborside ( 1,45 $ )
+Seat 7: OmgAKs ( 2,74 $ )
+Seat 9: KiwiInSweden ( 2,98 $ )
+Seat 10: SkyRokeT ( 1,20 $ )
+overcranky posts small blind [0,01 $]
+risha988 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, KKaro ]
+1gadfly1 folds
+hobo821 folds
+djborside folds
+OmgAKs folds
+KiwiInSweden calls [0,02 $]
+SkyRokeT folds
+B2B_Suckouts raises [0,06 $]
+overcranky folds
+risha988 folds
+KiwiInSweden calls [0,04 $]
+** Dealing flop ** [ 4Kreuz, 8Pik, AHerz ]
+KiwiInSweden checks
+B2B_Suckouts bets [0,04 $]
+KiwiInSweden calls [0,04 $]
+** Dealing turn ** [ 8Herz ]
+KiwiInSweden checks
+B2B_Suckouts bets [0,07 $]
+KiwiInSweden calls [0,07 $]
+** Dealing river ** [ KHerz ]
+KiwiInSweden checks
+B2B_Suckouts bets [0,24 $]
+KiwiInSweden folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,35 $ ]
+
+
+
