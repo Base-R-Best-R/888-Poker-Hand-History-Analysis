@@ -1,0 +1,227 @@
+#Game No : 551788305
+***** 888poker Hand History for Game 551788305 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 21:20:02
+Table Chongqing 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: PQ7po ( 1,01 $ )
+Seat 5: pokermeister ( 0,84 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 9: Roman0702 ( 0,69 $ )
+pokermeister posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 9Herz ]
+Roman0702 folds
+PQ7po folds
+pokermeister calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ AKreuz, 4Herz, 5Herz ]
+pokermeister checks
+B2B_Suckouts bets [0,02 $]
+pokermeister calls [0,02 $]
+** Dealing turn ** [ JPik ]
+pokermeister checks
+B2B_Suckouts checks
+** Dealing river ** [ KPik ]
+pokermeister checks
+B2B_Suckouts bets [0,08 $]
+pokermeister calls [0,08 $]
+** Summary **
+B2B_Suckouts shows [ 7Pik, 9Herz ]
+pokermeister shows [ AHerz, 7Kreuz ]
+pokermeister collected [ 0,23 $ ]
+
+
+
+#Game No : 551788427
+***** 888poker Hand History for Game 551788427 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 21:21:28
+Table Chongqing 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 3: PQ7po ( 1,01 $ )
+Seat 5: pokermeister ( 0,95 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 9: Roman0702 ( 0,69 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Roman0702 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 5Kreuz ]
+PQ7po folds
+pokermeister raises [0,06 $]
+B2B_Suckouts folds
+Roman0702 folds
+** Summary **
+pokermeister collected [ 0,05 $ ]
+
+
+
+#Game No : 551788462
+***** 888poker Hand History for Game 551788462 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 21:21:50
+Table Chongqing 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 3: PQ7po ( 1,01 $ )
+Seat 5: pokermeister ( 0,98 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 9: Roman0702 ( 0,67 $ )
+Roman0702 posts small blind [0,01 $]
+PQ7po folds
+pokermeister posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 2Karo ]
+B2B_Suckouts folds
+Roman0702 calls [0,01 $]
+pokermeister raises [0,04 $]
+Roman0702 folds
+** Summary **
+pokermeister collected [ 0,04 $ ]
+
+
+
+#Game No : 551788492
+***** 888poker Hand History for Game 551788492 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 21:22:05
+Table Chongqing 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 5: pokermeister ( 1 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 9: Roman0702 ( 0,65 $ )
+pokermeister posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 2Pik ]
+Roman0702 folds
+pokermeister folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 551788502
+***** 888poker Hand History for Game 551788502 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 21:22:12
+Table Chongqing 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 5: pokermeister ( 0,99 $ )
+Seat 6: B2B_Suckouts ( 2,01 $ )
+Seat 9: Roman0702 ( 0,65 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Roman0702 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, KHerz ]
+pokermeister raises [0,06 $]
+B2B_Suckouts folds
+Roman0702 folds
+** Summary **
+pokermeister collected [ 0,05 $ ]
+
+
+
+#Game No : 551788515
+***** 888poker Hand History for Game 551788515 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 21:22:23
+Table Chongqing 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 3
+Seat 5: pokermeister ( 1,02 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 9: Roman0702 ( 0,63 $ )
+Roman0702 posts small blind [0,01 $]
+pokermeister posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 8Pik ]
+B2B_Suckouts raises [0,06 $]
+Roman0702 folds
+pokermeister folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551788618
+***** 888poker Hand History for Game 551788618 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 21:23:25
+Table Chongqing 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: pokermeister ( 1 $ )
+Seat 6: B2B_Suckouts ( 2,03 $ )
+pokermeister posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, JPik ]
+pokermeister calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ QHerz, AKreuz, JHerz ]
+B2B_Suckouts checks
+pokermeister checks
+** Dealing turn ** [ 8Kreuz ]
+B2B_Suckouts bets [0,02 $]
+pokermeister folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 551788646
+***** 888poker Hand History for Game 551788646 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 21:23:50
+Table Chongqing 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 5: pokermeister ( 0,98 $ )
+Seat 6: B2B_Suckouts ( 2,05 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokermeister posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 9Herz ]
+B2B_Suckouts raises [0,03 $]
+pokermeister calls [0,02 $]
+** Dealing flop ** [ JHerz, 9Pik, 3Pik ]
+pokermeister bets [0,02 $]
+B2B_Suckouts raises [0,04 $]
+pokermeister calls [0,02 $]
+** Dealing turn ** [ QHerz ]
+pokermeister checks
+B2B_Suckouts bets [0,02 $]
+pokermeister calls [0,02 $]
+** Dealing river ** [ 10Kreuz ]
+pokermeister checks
+B2B_Suckouts bets [0,18 $]
+pokermeister folds
+** Summary **
+B2B_Suckouts collected [ 0,19 $ ]
+
+
+
+#Game No : 551788751
+***** 888poker Hand History for Game 551788751 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 21:24:48
+Table Chongqing 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 3
+Seat 5: pokermeister ( 0,88 $ )
+Seat 6: B2B_Suckouts ( 2,14 $ )
+Seat 7: dracosuu ( 0,80 $ )
+B2B_Suckouts posts small blind [0,01 $]
+dracosuu posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, KPik ]
+pokermeister folds
+B2B_Suckouts raises [0,03 $]
+dracosuu calls [0,02 $]
+** Dealing flop ** [ 2Karo, 2Pik, KKreuz ]
+B2B_Suckouts bets [0,04 $]
+dracosuu folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,08 $ ]
+
+
+
