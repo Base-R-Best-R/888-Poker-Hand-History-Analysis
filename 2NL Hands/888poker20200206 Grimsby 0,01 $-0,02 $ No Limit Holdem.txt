@@ -1,0 +1,1288 @@
+#Game No : 527534884
+***** 888poker Hand History for Game 527534884 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:46:40
+Table Grimsby 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: HKrystsina ( 5,13 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,85 $ )
+Seat 9: Despol ( 2,14 $ )
+Lin24 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 7Herz ]
+HKrystsina folds
+InginerulAA folds
+B2B_Suckouts checks
+gimeurchips folds
+lucifergaia raises [0,09 $]
+Lin24 folds
+Despol folds
+B2B_Suckouts folds
+** Summary **
+lucifergaia collected [ 0,07 $ ]
+
+
+
+#Game No : 527534927
+***** 888poker Hand History for Game 527534927 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:47:23
+Table Grimsby 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: HKrystsina ( 5,13 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2,05 $ )
+Seat 7: Lin24 ( 4,84 $ )
+Seat 9: Despol ( 2,12 $ )
+Despol posts small blind [0,01 $]
+HKrystsina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 4Kreuz ]
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 raises [0,06 $]
+Despol folds
+HKrystsina folds
+** Summary **
+Lin24 collected [ 0,05 $ ]
+
+
+
+#Game No : 527534973
+***** 888poker Hand History for Game 527534973 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:48:12
+Table Grimsby 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: HKrystsina ( 5,11 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2,05 $ )
+Seat 7: Lin24 ( 4,87 $ )
+Seat 9: Despol ( 2,11 $ )
+HKrystsina posts small blind [0,01 $]
+InginerulAA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 6Herz ]
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia raises [0,07 $]
+Lin24 folds
+Despol folds
+HKrystsina folds
+InginerulAA calls [0,05 $]
+** Dealing flop ** [ 8Pik, APik, 7Kreuz ]
+InginerulAA checks
+lucifergaia checks
+** Dealing turn ** [ 2Pik ]
+InginerulAA checks
+lucifergaia checks
+** Dealing river ** [ 4Kreuz ]
+InginerulAA bets [0,11 $]
+lucifergaia folds
+** Summary **
+InginerulAA collected [ 0,15 $ ]
+
+
+
+#Game No : 527535017
+***** 888poker Hand History for Game 527535017 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:48:50
+Table Grimsby 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: HKrystsina ( 5,10 $ )
+Seat 3: InginerulAA ( 2,08 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,87 $ )
+Seat 9: Despol ( 2,11 $ )
+InginerulAA posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 5Pik ]
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+HKrystsina folds
+InginerulAA folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 527535027
+***** 888poker Hand History for Game 527535027 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:48:59
+Table Grimsby 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: HKrystsina ( 5,10 $ )
+Seat 3: InginerulAA ( 2,07 $ )
+Seat 4: B2B_Suckouts ( 2,01 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,87 $ )
+Seat 9: Despol ( 2,11 $ )
+B2B_Suckouts posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 9Karo ]
+lucifergaia folds
+Lin24 folds
+Despol folds
+HKrystsina folds
+InginerulAA raises [0,06 $]
+B2B_Suckouts folds
+gimeurchips folds
+** Summary **
+InginerulAA collected [ 0,05 $ ]
+
+
+
+#Game No : 527535065
+***** 888poker Hand History for Game 527535065 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:49:43
+Table Grimsby 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: HKrystsina ( 5,10 $ )
+Seat 3: InginerulAA ( 2,10 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,87 $ )
+Seat 9: Despol ( 2,11 $ )
+gimeurchips posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 4Karo ]
+Lin24 folds
+Despol folds
+HKrystsina folds
+InginerulAA raises [0,06 $]
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+** Summary **
+InginerulAA collected [ 0,05 $ ]
+
+
+
+#Game No : 527535103
+***** 888poker Hand History for Game 527535103 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:50:24
+Table Grimsby 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 3: InginerulAA ( 2,13 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,87 $ )
+Seat 9: Despol ( 2,11 $ )
+lucifergaia posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, JHerz ]
+Despol folds
+InginerulAA folds
+B2B_Suckouts raises [0,06 $]
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 527535124
+***** 888poker Hand History for Game 527535124 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:50:40
+Table Grimsby 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 3: InginerulAA ( 2,13 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,85 $ )
+Seat 9: Despol ( 2,11 $ )
+Lin24 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 4Herz ]
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+** Summary **
+Despol collected [ 0,03 $ ]
+
+
+
+#Game No : 527535147
+***** 888poker Hand History for Game 527535147 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:50:55
+Table Grimsby 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: HKrystsina ( 5,10 $ )
+Seat 3: InginerulAA ( 2,13 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,84 $ )
+Seat 9: Despol ( 2,12 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+Despol posts small blind [0,01 $]
+Luegenlord2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 9Pik ]
+HKrystsina folds
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips raises [0,06 $]
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+** Summary **
+gimeurchips collected [ 0,05 $ ]
+
+
+
+#Game No : 527535184
+***** 888poker Hand History for Game 527535184 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:51:34
+Table Grimsby 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: HKrystsina ( 5,10 $ )
+Seat 3: InginerulAA ( 2,13 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 5: gimeurchips ( 2,03 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,84 $ )
+Seat 9: Despol ( 2,11 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+Luegenlord2 posts small blind [0,01 $]
+HKrystsina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 6Karo ]
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 raises [0,05 $]
+HKrystsina folds
+** Summary **
+Luegenlord2 collected [ 0,04 $ ]
+
+
+
+#Game No : 527535222
+***** 888poker Hand History for Game 527535222 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:52:06
+Table Grimsby 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,08 $ )
+Seat 2: apxap ( 1,46 $ )
+Seat 3: InginerulAA ( 2,13 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 5: gimeurchips ( 2,03 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,84 $ )
+Seat 9: Despol ( 2,11 $ )
+Seat 10: Luegenlord2 ( 2,02 $ )
+HKrystsina posts small blind [0,01 $]
+apxap posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, AKreuz ]
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+HKrystsina folds
+** Summary **
+apxap did not show his hand
+apxap collected [ 0,03 $ ]
+
+
+
+#Game No : 527535241
+***** 888poker Hand History for Game 527535241 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:52:32
+Table Grimsby 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,07 $ )
+Seat 2: apxap ( 1,47 $ )
+Seat 3: InginerulAA ( 2,13 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 5: gimeurchips ( 2,03 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,84 $ )
+Seat 9: Despol ( 2,11 $ )
+Seat 10: Luegenlord2 ( 2,02 $ )
+apxap posts small blind [0,01 $]
+InginerulAA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 6Herz ]
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol raises [0,06 $]
+Luegenlord2 folds
+HKrystsina folds
+apxap folds
+InginerulAA folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,05 $ ]
+
+
+
+#Game No : 527535285
+***** 888poker Hand History for Game 527535285 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:53:16
+Table Grimsby 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,07 $ )
+Seat 2: apxap ( 1,46 $ )
+Seat 3: InginerulAA ( 2,11 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 5: gimeurchips ( 2,03 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,84 $ )
+Seat 9: Despol ( 2,14 $ )
+Seat 10: Luegenlord2 ( 2,02 $ )
+InginerulAA posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, AHerz ]
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol raises [0,06 $]
+Luegenlord2 folds
+HKrystsina calls [0,06 $]
+apxap calls [0,06 $]
+InginerulAA folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 10Karo, 8Kreuz, 9Herz ]
+B2B_Suckouts checks
+Despol bets [0,12 $]
+HKrystsina calls [0,12 $]
+apxap folds
+B2B_Suckouts folds
+** Dealing turn ** [ 6Herz ]
+Despol checks
+HKrystsina bets [0,14 $]
+Despol folds
+** Summary **
+HKrystsina did not show his hand
+HKrystsina collected [ 0,46 $ ]
+
+
+
+#Game No : 527535346
+***** 888poker Hand History for Game 527535346 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:54:13
+Table Grimsby 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,35 $ )
+Seat 2: apxap ( 1,40 $ )
+Seat 3: InginerulAA ( 2,10 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: gimeurchips ( 2,03 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,84 $ )
+Seat 9: Despol ( 2 $ )
+Seat 10: Luegenlord2 ( 2,02 $ )
+B2B_Suckouts posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 3Karo ]
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 raises [0,06 $]
+HKrystsina folds
+apxap folds
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+** Summary **
+Luegenlord2 did not show his hand
+Luegenlord2 collected [ 0,05 $ ]
+
+
+
+#Game No : 527535377
+***** 888poker Hand History for Game 527535377 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:54:38
+Table Grimsby 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,35 $ )
+Seat 2: apxap ( 1,40 $ )
+Seat 3: InginerulAA ( 2,10 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: gimeurchips ( 2,01 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,84 $ )
+Seat 9: Despol ( 2 $ )
+Seat 10: Luegenlord2 ( 2,05 $ )
+gimeurchips posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, QPik ]
+Lin24 folds
+Despol raises [0,06 $]
+Luegenlord2 folds
+HKrystsina folds
+apxap calls [0,06 $]
+InginerulAA calls [0,06 $]
+B2B_Suckouts raises [0,24 $]
+gimeurchips folds
+lucifergaia folds
+Despol folds
+apxap folds
+InginerulAA folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,27 $ ]
+
+
+
+#Game No : 527535427
+***** 888poker Hand History for Game 527535427 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:55:36
+Table Grimsby 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,35 $ )
+Seat 2: apxap ( 1,34 $ )
+Seat 3: InginerulAA ( 2,04 $ )
+Seat 4: B2B_Suckouts ( 2,21 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,84 $ )
+Seat 9: Despol ( 2 $ )
+Seat 10: Luegenlord2 ( 2,05 $ )
+lucifergaia posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 9Karo ]
+Despol folds
+Luegenlord2 folds
+HKrystsina folds
+apxap folds
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia raises [0,05 $]
+Lin24 folds
+** Summary **
+lucifergaia did not show his hand
+lucifergaia collected [ 0,04 $ ]
+
+
+
+#Game No : 527535449
+***** 888poker Hand History for Game 527535449 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:56:06
+Table Grimsby 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,35 $ )
+Seat 2: apxap ( 1,34 $ )
+Seat 3: InginerulAA ( 2,04 $ )
+Seat 4: B2B_Suckouts ( 2,21 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2,02 $ )
+Seat 7: Lin24 ( 4,82 $ )
+Seat 9: Despol ( 2 $ )
+Seat 10: Luegenlord2 ( 2,05 $ )
+Lin24 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 7Pik ]
+Luegenlord2 folds
+HKrystsina folds
+apxap raises [0,06 $]
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+** Summary **
+apxap did not show his hand
+apxap collected [ 0,05 $ ]
+
+
+
+#Game No : 527535466
+***** 888poker Hand History for Game 527535466 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:56:24
+Table Grimsby 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,35 $ )
+Seat 2: apxap ( 1,37 $ )
+Seat 3: InginerulAA ( 2,04 $ )
+Seat 4: B2B_Suckouts ( 2,21 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2,02 $ )
+Seat 7: Lin24 ( 4,81 $ )
+Seat 9: Despol ( 2 $ )
+Seat 10: Luegenlord2 ( 2,05 $ )
+Despol posts small blind [0,01 $]
+Luegenlord2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, APik ]
+HKrystsina raises [0,05 $]
+apxap folds
+InginerulAA calls [0,05 $]
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+** Dealing flop ** [ 8Herz, JPik, 7Karo ]
+HKrystsina bets [0,04 $]
+InginerulAA calls [0,04 $]
+** Dealing turn ** [ 3Herz ]
+HKrystsina bets [0,06 $]
+InginerulAA raises [0,15 $]
+HKrystsina raises [0,31 $]
+InginerulAA folds
+** Summary **
+HKrystsina did not show his hand
+HKrystsina collected [ 0,48 $ ]
+
+
+
+#Game No : 527535527
+***** 888poker Hand History for Game 527535527 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:57:29
+Table Grimsby 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,59 $ )
+Seat 2: apxap ( 1,37 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,21 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2,02 $ )
+Seat 7: Lin24 ( 4,81 $ )
+Seat 9: Despol ( 2 $ )
+Seat 10: Luegenlord2 ( 2,03 $ )
+Luegenlord2 posts small blind [0,01 $]
+HKrystsina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, KKreuz ]
+apxap folds
+InginerulAA folds
+B2B_Suckouts raises [0,06 $]
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 calls [0,05 $]
+HKrystsina folds
+** Dealing flop ** [ 2Karo, 9Kreuz, JKaro ]
+Luegenlord2 checks
+B2B_Suckouts checks
+** Dealing turn ** [ QHerz ]
+Luegenlord2 checks
+B2B_Suckouts bets [0,04 $]
+Luegenlord2 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 527535591
+***** 888poker Hand History for Game 527535591 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:58:34
+Table Grimsby 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,57 $ )
+Seat 2: apxap ( 1,37 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,29 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2,02 $ )
+Seat 7: Lin24 ( 4,81 $ )
+Seat 9: Despol ( 2 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+HKrystsina posts small blind [0,01 $]
+apxap posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 5Herz ]
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia raises [0,07 $]
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+HKrystsina folds
+apxap folds
+** Summary **
+lucifergaia did not show his hand
+lucifergaia collected [ 0,05 $ ]
+
+
+
+#Game No : 527535604
+***** 888poker Hand History for Game 527535604 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:58:51
+Table Grimsby 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,56 $ )
+Seat 2: apxap ( 1,35 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,29 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2,05 $ )
+Seat 7: Lin24 ( 4,81 $ )
+Seat 9: Despol ( 2 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+apxap posts small blind [0,01 $]
+InginerulAA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, QHerz ]
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 raises [0,06 $]
+Despol raises [0,18 $]
+Luegenlord2 folds
+HKrystsina folds
+apxap folds
+InginerulAA folds
+Lin24 folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,15 $ ]
+
+
+
+#Game No : 527535640
+***** 888poker Hand History for Game 527535640 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:59:34
+Table Grimsby 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,56 $ )
+Seat 2: apxap ( 1,34 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,29 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2,05 $ )
+Seat 7: Lin24 ( 4,75 $ )
+Seat 9: Despol ( 2,09 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+InginerulAA posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, JKreuz ]
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+HKrystsina raises [0,05 $]
+apxap folds
+InginerulAA folds
+B2B_Suckouts folds
+** Summary **
+HKrystsina did not show his hand
+HKrystsina collected [ 0,05 $ ]
+
+
+
+#Game No : 527535651
+***** 888poker Hand History for Game 527535651 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 21:59:54
+Table Grimsby 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,59 $ )
+Seat 2: apxap ( 1,34 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,27 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2,05 $ )
+Seat 7: Lin24 ( 4,75 $ )
+Seat 9: Despol ( 2,09 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, QKreuz ]
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+HKrystsina folds
+apxap folds
+InginerulAA raises [0,06 $]
+B2B_Suckouts folds
+gimeurchips folds
+** Summary **
+InginerulAA did not show his hand
+InginerulAA collected [ 0,05 $ ]
+
+
+
+#Game No : 527535667
+***** 888poker Hand History for Game 527535667 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:00:11
+Table Grimsby 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,59 $ )
+Seat 2: apxap ( 1,34 $ )
+Seat 3: InginerulAA ( 2,03 $ )
+Seat 4: B2B_Suckouts ( 2,26 $ )
+Seat 5: gimeurchips ( 2 $ )
+Seat 6: lucifergaia ( 2,05 $ )
+Seat 7: Lin24 ( 4,75 $ )
+Seat 9: Despol ( 2,09 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+gimeurchips posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 9Herz ]
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+HKrystsina folds
+apxap raises [0,06 $]
+InginerulAA calls [0,06 $]
+B2B_Suckouts folds
+gimeurchips raises [0,32 $]
+lucifergaia folds
+apxap folds
+InginerulAA folds
+** Summary **
+gimeurchips did not show his hand
+gimeurchips collected [ 0,20 $ ]
+
+
+
+#Game No : 527535707
+***** 888poker Hand History for Game 527535707 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:00:53
+Table Grimsby 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,59 $ )
+Seat 2: apxap ( 1,28 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,26 $ )
+Seat 5: gimeurchips ( 2,14 $ )
+Seat 6: lucifergaia ( 2,03 $ )
+Seat 7: Lin24 ( 4,75 $ )
+Seat 9: Despol ( 2,09 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+lucifergaia posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, KPik ]
+Despol folds
+Luegenlord2 folds
+HKrystsina folds
+apxap folds
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia raises [0,05 $]
+Lin24 folds
+** Summary **
+lucifergaia did not show his hand
+lucifergaia collected [ 0,04 $ ]
+
+
+
+#Game No : 527535748
+***** 888poker Hand History for Game 527535748 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:01:38
+Table Grimsby 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,59 $ )
+Seat 2: apxap ( 1,28 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,26 $ )
+Seat 5: gimeurchips ( 2,14 $ )
+Seat 6: lucifergaia ( 2,05 $ )
+Seat 7: Lin24 ( 4,73 $ )
+Seat 9: Despol ( 2,09 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+Lin24 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, QKreuz ]
+Luegenlord2 folds
+HKrystsina folds
+apxap calls [0,02 $]
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia raises [0,09 $]
+Lin24 folds
+Despol folds
+apxap calls [0,07 $]
+** Dealing flop ** [ KKreuz, 4Karo, 2Kreuz ]
+apxap bets [0,10 $]
+lucifergaia folds
+** Summary **
+apxap did not show his hand
+apxap collected [ 0,20 $ ]
+
+
+
+#Game No : 527535778
+***** 888poker Hand History for Game 527535778 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:02:10
+Table Grimsby 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,59 $ )
+Seat 2: apxap ( 1,39 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,26 $ )
+Seat 5: gimeurchips ( 2,14 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,72 $ )
+Seat 9: Despol ( 2,07 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+Despol posts small blind [0,01 $]
+Luegenlord2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 5Pik ]
+HKrystsina folds
+apxap folds
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+** Summary **
+Luegenlord2 did not show his hand
+Luegenlord2 collected [ 0,03 $ ]
+
+
+
+#Game No : 527535793
+***** 888poker Hand History for Game 527535793 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:02:29
+Table Grimsby 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,59 $ )
+Seat 2: apxap ( 1,39 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,26 $ )
+Seat 5: gimeurchips ( 2,14 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,72 $ )
+Seat 9: Despol ( 2,06 $ )
+Seat 10: Luegenlord2 ( 2,01 $ )
+Luegenlord2 posts small blind [0,01 $]
+HKrystsina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 7Pik ]
+apxap calls [0,02 $]
+InginerulAA calls [0,02 $]
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+HKrystsina checks
+** Dealing flop ** [ 7Kreuz, QHerz, JKaro ]
+HKrystsina checks
+apxap checks
+InginerulAA checks
+** Dealing turn ** [ 7Herz ]
+HKrystsina checks
+apxap bets [0,03 $]
+InginerulAA folds
+HKrystsina folds
+** Summary **
+apxap did not show his hand
+apxap collected [ 0,07 $ ]
+
+
+
+#Game No : 527535842
+***** 888poker Hand History for Game 527535842 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:03:25
+Table Grimsby 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,57 $ )
+Seat 2: apxap ( 1,44 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,26 $ )
+Seat 5: gimeurchips ( 2,14 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,72 $ )
+Seat 9: Despol ( 2,06 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+HKrystsina posts small blind [0,01 $]
+apxap posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, QKreuz ]
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+HKrystsina raises [0,05 $]
+apxap folds
+** Summary **
+HKrystsina did not show his hand
+HKrystsina collected [ 0,04 $ ]
+
+
+
+#Game No : 527535879
+***** 888poker Hand History for Game 527535879 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:04:00
+Table Grimsby 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,59 $ )
+Seat 2: apxap ( 1,42 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,26 $ )
+Seat 5: gimeurchips ( 2,14 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,72 $ )
+Seat 9: Despol ( 2,06 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+apxap posts small blind [0,01 $]
+InginerulAA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, KPik ]
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+HKrystsina folds
+apxap folds
+** Summary **
+InginerulAA did not show his hand
+InginerulAA collected [ 0,03 $ ]
+
+
+
+#Game No : 527535904
+***** 888poker Hand History for Game 527535904 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:04:22
+Table Grimsby 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,59 $ )
+Seat 2: apxap ( 1,41 $ )
+Seat 3: InginerulAA ( 2,01 $ )
+Seat 4: B2B_Suckouts ( 2,26 $ )
+Seat 5: gimeurchips ( 2,14 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,72 $ )
+Seat 9: Despol ( 2,06 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+InginerulAA posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 4Kreuz ]
+gimeurchips folds
+lucifergaia folds
+Lin24 raises [0,06 $]
+Despol folds
+Luegenlord2 folds
+HKrystsina folds
+apxap folds
+InginerulAA calls [0,05 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 3Kreuz, 3Pik, 10Karo ]
+InginerulAA checks
+Lin24 bets [0,09 $]
+InginerulAA folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,14 $ ]
+
+
+
+#Game No : 527535943
+***** 888poker Hand History for Game 527535943 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:05:11
+Table Grimsby 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,59 $ )
+Seat 2: apxap ( 1,41 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,24 $ )
+Seat 5: gimeurchips ( 2,14 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,80 $ )
+Seat 9: Despol ( 2,06 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 10Karo ]
+lucifergaia folds
+Lin24 calls [0,02 $]
+Despol folds
+Luegenlord2 folds
+HKrystsina raises [0,05 $]
+apxap folds
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+Lin24 calls [0,03 $]
+** Dealing flop ** [ 9Kreuz, KPik, KKreuz ]
+Lin24 checks
+HKrystsina checks
+** Dealing turn ** [ 6Pik ]
+Lin24 checks
+HKrystsina bets [0,08 $]
+Lin24 folds
+** Summary **
+HKrystsina did not show his hand
+HKrystsina collected [ 0,13 $ ]
+
+
+
+#Game No : 527535993
+***** 888poker Hand History for Game 527535993 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:06:19
+Table Grimsby 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,67 $ )
+Seat 2: apxap ( 1,41 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,23 $ )
+Seat 5: gimeurchips ( 2,12 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,75 $ )
+Seat 9: Despol ( 2,06 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+gimeurchips posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 2Pik ]
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+HKrystsina raises [0,06 $]
+apxap calls [0,06 $]
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+** Dealing flop ** [ 9Herz, 5Kreuz, 10Herz ]
+HKrystsina checks
+apxap checks
+** Dealing turn ** [ 2Kreuz ]
+HKrystsina bets [0,06 $]
+apxap folds
+** Summary **
+HKrystsina did not show his hand
+HKrystsina collected [ 0,15 $ ]
+
+
+
+#Game No : 527536043
+***** 888poker Hand History for Game 527536043 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:07:16
+Table Grimsby 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,76 $ )
+Seat 2: apxap ( 1,35 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,23 $ )
+Seat 5: gimeurchips ( 2,11 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,75 $ )
+Seat 9: Despol ( 2,06 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+lucifergaia posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, AHerz ]
+Despol folds
+Luegenlord2 raises [0,06 $]
+HKrystsina folds
+apxap calls [0,06 $]
+InginerulAA folds
+B2B_Suckouts calls [0,06 $]
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+** Dealing flop ** [ APik, 2Herz, 9Herz ]
+Luegenlord2 checks
+apxap checks
+B2B_Suckouts bets [0,06 $]
+Luegenlord2 folds
+apxap calls [0,06 $]
+** Dealing turn ** [ 5Kreuz ]
+apxap checks
+B2B_Suckouts bets [0,12 $]
+apxap folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,31 $ ]
+
+
+
+#Game No : 527536097
+***** 888poker Hand History for Game 527536097 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:08:26
+Table Grimsby 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,76 $ )
+Seat 2: apxap ( 1,23 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,42 $ )
+Seat 5: gimeurchips ( 2,11 $ )
+Seat 6: lucifergaia ( 2 $ )
+Seat 7: Lin24 ( 4,73 $ )
+Seat 9: Despol ( 2,06 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+Lin24 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 6Pik ]
+Luegenlord2 folds
+HKrystsina raises [0,05 $]
+apxap folds
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia raises [0,18 $]
+Lin24 folds
+Despol folds
+HKrystsina calls [0,13 $]
+** Dealing flop ** [ QKaro, 5Pik, 6Kreuz ]
+HKrystsina checks
+lucifergaia bets [0,19 $]
+HKrystsina folds
+** Summary **
+lucifergaia did not show his hand
+lucifergaia collected [ 0,37 $ ]
+
+
+
+#Game No : 527536134
+***** 888poker Hand History for Game 527536134 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:09:13
+Table Grimsby 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: HKrystsina ( 5,58 $ )
+Seat 2: apxap ( 1,23 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,42 $ )
+Seat 5: gimeurchips ( 2,11 $ )
+Seat 6: lucifergaia ( 2,19 $ )
+Seat 7: Lin24 ( 4,72 $ )
+Seat 9: Despol ( 2,04 $ )
+Seat 10: Luegenlord2 ( 2 $ )
+Despol posts small blind [0,01 $]
+Luegenlord2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 8Kreuz ]
+HKrystsina folds
+apxap raises [0,06 $]
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+lucifergaia folds
+Lin24 folds
+Despol folds
+Luegenlord2 raises [0,22 $]
+apxap folds
+** Summary **
+Luegenlord2 did not show his hand
+Luegenlord2 collected [ 0,13 $ ]
+
+
+
+#Game No : 527536154
+***** 888poker Hand History for Game 527536154 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 22:09:46
+Table Grimsby 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: HKrystsina ( 5,58 $ )
+Seat 2: apxap ( 1,17 $ )
+Seat 3: InginerulAA ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,42 $ )
+Seat 5: gimeurchips ( 2,11 $ )
+Seat 7: Lin24 ( 4,72 $ )
+Seat 9: Despol ( 2,03 $ )
+Seat 10: Luegenlord2 ( 2,07 $ )
+Luegenlord2 posts small blind [0,01 $]
+HKrystsina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 3Karo ]
+apxap folds
+InginerulAA folds
+B2B_Suckouts folds
+gimeurchips folds
+Lin24 folds
+Despol folds
+Luegenlord2 folds
+** Summary **
+HKrystsina collected [ 0,03 $ ]
+
+
+
