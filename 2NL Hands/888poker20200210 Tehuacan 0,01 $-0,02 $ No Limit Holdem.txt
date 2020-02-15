@@ -1,0 +1,2776 @@
+#Game No : 631499406
+***** 888poker Hand History for Game 631499406 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:48:54
+Table Tehuacan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Coco_999 ( 3 $ )
+Seat 2: pauloricar14 ( 3,17 $ )
+Seat 3: l8bd8l ( 1,08 $ )
+Seat 4: ChipsACA ( 0,83 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 6: suriel666 ( 3,68 $ )
+Seat 7: gimeurchips ( 4,27 $ )
+Seat 9: uwehebi ( 1,24 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+uwehebi posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 2Pik ]
+Coco_999 folds
+pauloricar14 folds
+l8bd8l folds
+ChipsACA raises [0,05 $]
+frencisdreyk calls [0,05 $]
+suriel666 folds
+gimeurchips folds
+uwehebi folds
+B2B_Suckouts folds
+** Dealing flop ** [ 8Herz, 5Karo, 10Karo ]
+ChipsACA bets [0,06 $]
+frencisdreyk folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,13 $ ]
+
+
+
+#Game No : 631499428
+***** 888poker Hand History for Game 631499428 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:49:35
+Table Tehuacan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Coco_999 ( 3 $ )
+Seat 2: pauloricar14 ( 3,17 $ )
+Seat 3: l8bd8l ( 1,08 $ )
+Seat 4: ChipsACA ( 0,91 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 6: suriel666 ( 3,68 $ )
+Seat 7: gimeurchips ( 4,27 $ )
+Seat 9: uwehebi ( 1,23 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 8Karo ]
+pauloricar14 folds
+l8bd8l folds
+ChipsACA folds
+frencisdreyk folds
+suriel666 folds
+gimeurchips raises [0,06 $]
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 raises [0,16 $]
+gimeurchips folds
+** Summary **
+Coco_999 did not show his hand
+Coco_999 collected [ 0,13 $ ]
+
+
+
+#Game No : 631499440
+***** 888poker Hand History for Game 631499440 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:50:04
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Coco_999 ( 3,07 $ )
+Seat 2: pauloricar14 ( 3,17 $ )
+Seat 3: l8bd8l ( 1,08 $ )
+Seat 4: ChipsACA ( 0,91 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 6: suriel666 ( 3,68 $ )
+Seat 7: gimeurchips ( 4,21 $ )
+Seat 9: uwehebi ( 1,23 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Coco_999 posts small blind [0,01 $]
+pauloricar14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 5Pik ]
+l8bd8l folds
+ChipsACA folds
+frencisdreyk folds
+suriel666 folds
+gimeurchips folds
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 calls [0,01 $]
+pauloricar14 checks
+** Dealing flop ** [ 3Herz, 5Herz, 10Pik ]
+Coco_999 checks
+pauloricar14 checks
+** Dealing turn ** [ 8Herz ]
+Coco_999 bets [0,02 $]
+pauloricar14 folds
+** Summary **
+Coco_999 did not show his hand
+Coco_999 collected [ 0,04 $ ]
+
+
+
+#Game No : 631499462
+***** 888poker Hand History for Game 631499462 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:50:42
+Table Tehuacan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Coco_999 ( 3,09 $ )
+Seat 2: pauloricar14 ( 3,15 $ )
+Seat 3: l8bd8l ( 1,08 $ )
+Seat 4: ChipsACA ( 0,91 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 6: suriel666 ( 3,68 $ )
+Seat 7: gimeurchips ( 4,21 $ )
+Seat 9: uwehebi ( 1,23 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+pauloricar14 posts small blind [0,01 $]
+l8bd8l folds
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, AHerz ]
+frencisdreyk folds
+suriel666 folds
+gimeurchips folds
+uwehebi folds
+B2B_Suckouts raises [0,06 $]
+Coco_999 folds
+pauloricar14 folds
+ChipsACA calls [0,04 $]
+** Dealing flop ** [ 7Kreuz, 6Kreuz, 2Pik ]
+ChipsACA checks
+B2B_Suckouts bets [0,04 $]
+ChipsACA raises [0,10 $]
+B2B_Suckouts folds
+** Summary **
+ChipsACA collected [ 0,20 $ ]
+
+
+
+#Game No : 631499500
+***** 888poker Hand History for Game 631499500 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:51:48
+Table Tehuacan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,09 $ )
+Seat 2: pauloricar14 ( 3,14 $ )
+Seat 4: ChipsACA ( 1,01 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 6: suriel666 ( 3,68 $ )
+Seat 7: gimeurchips ( 4,21 $ )
+Seat 9: uwehebi ( 1,23 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+ChipsACA posts small blind [0,01 $]
+frencisdreyk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 10Kreuz ]
+suriel666 raises [0,08 $]
+gimeurchips folds
+uwehebi calls [0,08 $]
+B2B_Suckouts folds
+Coco_999 calls [0,08 $]
+pauloricar14 folds
+ChipsACA folds
+frencisdreyk folds
+** Dealing flop ** [ 2Herz, 4Pik, KPik ]
+suriel666 bets [0,18 $]
+uwehebi folds
+Coco_999 calls [0,18 $]
+** Dealing turn ** [ QPik ]
+suriel666 checks
+Coco_999 bets [0,31 $]
+suriel666 folds
+** Summary **
+Coco_999 collected [ 0,60 $ ]
+
+
+
+#Game No : 631499532
+***** 888poker Hand History for Game 631499532 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:52:46
+Table Tehuacan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,43 $ )
+Seat 2: pauloricar14 ( 3,14 $ )
+Seat 4: ChipsACA ( 1 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 6: suriel666 ( 3,42 $ )
+Seat 7: gimeurchips ( 4,21 $ )
+Seat 9: uwehebi ( 1,15 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+frencisdreyk posts small blind [0,01 $]
+suriel666 folds
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Herz ]
+uwehebi calls [0,02 $]
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 folds
+ChipsACA folds
+frencisdreyk folds
+gimeurchips checks
+** Dealing flop ** [ 9Karo, 5Pik, 8Herz ]
+gimeurchips checks
+uwehebi checks
+** Dealing turn ** [ AKaro ]
+gimeurchips checks
+uwehebi bets [0,03 $]
+gimeurchips folds
+** Summary **
+uwehebi collected [ 0,05 $ ]
+
+
+
+#Game No : 631499548
+***** 888poker Hand History for Game 631499548 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:53:18
+Table Tehuacan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,43 $ )
+Seat 2: pauloricar14 ( 3,14 $ )
+Seat 4: ChipsACA ( 1 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 7: gimeurchips ( 4,19 $ )
+Seat 9: uwehebi ( 1,18 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+gimeurchips posts small blind [0,01 $]
+uwehebi posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 2Herz ]
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 folds
+ChipsACA folds
+frencisdreyk raises [0,04 $]
+gimeurchips raises [0,19 $]
+uwehebi folds
+frencisdreyk folds
+** Summary **
+gimeurchips collected [ 0,10 $ ]
+
+
+
+#Game No : 631499559
+***** 888poker Hand History for Game 631499559 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:53:41
+Table Tehuacan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,43 $ )
+Seat 2: pauloricar14 ( 3,14 $ )
+Seat 4: ChipsACA ( 1 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 7: gimeurchips ( 4,25 $ )
+Seat 9: uwehebi ( 1,16 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+uwehebi posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 10Pik ]
+Coco_999 folds
+pauloricar14 calls [0,02 $]
+ChipsACA folds
+frencisdreyk folds
+gimeurchips raises [0,10 $]
+uwehebi folds
+B2B_Suckouts folds
+pauloricar14 calls [0,08 $]
+** Dealing flop ** [ 2Karo, 9Pik, 8Pik ]
+pauloricar14 checks
+gimeurchips bets [0,07 $]
+pauloricar14 calls [0,07 $]
+** Dealing turn ** [ 4Kreuz ]
+pauloricar14 checks
+gimeurchips checks
+** Dealing river ** [ 10Herz ]
+pauloricar14 checks
+gimeurchips checks
+** Summary **
+pauloricar14 shows [ 6Kreuz, AKreuz ]
+gimeurchips shows [ KKreuz, APik ]
+gimeurchips collected [ 0,35 $ ]
+
+
+
+#Game No : 631499587
+***** 888poker Hand History for Game 631499587 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:54:34
+Table Tehuacan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,43 $ )
+Seat 2: pauloricar14 ( 2,97 $ )
+Seat 4: ChipsACA ( 1 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 7: gimeurchips ( 4,43 $ )
+Seat 9: uwehebi ( 1,15 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, JHerz ]
+pauloricar14 raises [0,04 $]
+ChipsACA folds
+frencisdreyk folds
+gimeurchips folds
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 raises [0,10 $]
+pauloricar14 calls [0,08 $]
+** Dealing flop ** [ AKaro, 2Kreuz, KKaro ]
+Coco_999 bets [0,16 $]
+pauloricar14 calls [0,16 $]
+** Dealing turn ** [ 10Pik ]
+Coco_999 bets [0,28 $]
+pauloricar14 calls [0,28 $]
+** Dealing river ** [ 8Pik ]
+Coco_999 bets [0,74 $]
+pauloricar14 folds
+** Summary **
+Coco_999 collected [ 1,06 $ ]
+
+
+
+#Game No : 631499618
+***** 888poker Hand History for Game 631499618 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:55:31
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,93 $ )
+Seat 2: pauloricar14 ( 2,41 $ )
+Seat 4: ChipsACA ( 1 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 7: gimeurchips ( 4,43 $ )
+Seat 9: uwehebi ( 1,15 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Coco_999 posts small blind [0,01 $]
+pauloricar14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, QPik ]
+ChipsACA folds
+frencisdreyk folds
+gimeurchips folds
+uwehebi calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+Coco_999 folds
+pauloricar14 calls [0,04 $]
+uwehebi calls [0,04 $]
+** Dealing flop ** [ 9Kreuz, AHerz, 4Herz ]
+pauloricar14 checks
+uwehebi checks
+B2B_Suckouts bets [0,06 $]
+pauloricar14 calls [0,06 $]
+uwehebi folds
+** Dealing turn ** [ KKreuz ]
+pauloricar14 checks
+B2B_Suckouts checks
+** Dealing river ** [ 3Karo ]
+pauloricar14 bets [0,36 $]
+B2B_Suckouts folds
+** Summary **
+pauloricar14 collected [ 0,30 $ ]
+
+
+
+#Game No : 631499664
+***** 888poker Hand History for Game 631499664 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:56:50
+Table Tehuacan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,92 $ )
+Seat 2: pauloricar14 ( 2,59 $ )
+Seat 3: Johnyspb1 ( 0,80 $ )
+Seat 4: ChipsACA ( 1 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 9: uwehebi ( 1,09 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+pauloricar14 posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 5Pik ]
+ChipsACA folds
+frencisdreyk folds
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 raises [0,17 $]
+Johnyspb1 folds
+** Summary **
+pauloricar14 collected [ 0,04 $ ]
+
+
+
+#Game No : 631499681
+***** 888poker Hand History for Game 631499681 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:57:19
+Table Tehuacan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,92 $ )
+Seat 2: pauloricar14 ( 2,61 $ )
+Seat 3: Johnyspb1 ( 0,80 $ )
+Seat 4: ChipsACA ( 1 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 9: uwehebi ( 1,09 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Johnyspb1 posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, AKreuz ]
+frencisdreyk folds
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 folds
+Johnyspb1 folds
+** Summary **
+ChipsACA collected [ 0,03 $ ]
+
+
+
+#Game No : 631499700
+***** 888poker Hand History for Game 631499700 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:57:47
+Table Tehuacan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,92 $ )
+Seat 2: pauloricar14 ( 2,61 $ )
+Seat 3: Johnyspb1 ( 0,80 $ )
+Seat 4: ChipsACA ( 1,01 $ )
+Seat 5: frencisdreyk ( 0,80 $ )
+Seat 6: SANYCH13 ( 0,80 $ )
+Seat 9: uwehebi ( 1,09 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+ChipsACA posts small blind [0,01 $]
+frencisdreyk folds
+SANYCH13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 6Karo ]
+uwehebi calls [0,02 $]
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 raises [0,04 $]
+Johnyspb1 folds
+ChipsACA calls [0,03 $]
+SANYCH13 folds
+uwehebi calls [0,02 $]
+** Dealing flop ** [ 5Karo, 4Kreuz, QPik ]
+ChipsACA checks
+uwehebi checks
+pauloricar14 bets [0,07 $]
+ChipsACA calls [0,07 $]
+uwehebi folds
+** Dealing turn ** [ 4Herz ]
+ChipsACA checks
+pauloricar14 bets [0,14 $]
+ChipsACA raises [0,28 $]
+pauloricar14 folds
+** Summary **
+ChipsACA collected [ 0,53 $ ]
+
+
+
+#Game No : 631499743
+***** 888poker Hand History for Game 631499743 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:58:51
+Table Tehuacan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,92 $ )
+Seat 2: pauloricar14 ( 2,36 $ )
+Seat 3: Johnyspb1 ( 0,80 $ )
+Seat 4: ChipsACA ( 1,29 $ )
+Seat 6: SANYCH13 ( 0,78 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 1,05 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+SANYCH13 posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 9Herz ]
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 folds
+Johnyspb1 folds
+ChipsACA folds
+SANYCH13 raises [0,05 $]
+btlbtl calls [0,04 $]
+** Dealing flop ** [ AKaro, 3Kreuz, 4Kreuz ]
+SANYCH13 bets [0,12 $]
+btlbtl calls [0,12 $]
+** Dealing turn ** [ 10Herz ]
+SANYCH13 bets [0,24 $]
+btlbtl calls [0,24 $]
+** Dealing river ** [ 8Karo ]
+SANYCH13 bets [0,36 $]
+btlbtl calls [0,36 $]
+** Summary **
+SANYCH13 shows [ KKreuz, APik ]
+btlbtl shows [ AKreuz, 5Kreuz ]
+SANYCH13 collected [ 1,47 $ ]
+
+
+
+#Game No : 631499790
+***** 888poker Hand History for Game 631499790 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:59:53
+Table Tehuacan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,92 $ )
+Seat 2: pauloricar14 ( 2,36 $ )
+Seat 3: Johnyspb1 ( 0,80 $ )
+Seat 4: ChipsACA ( 1,29 $ )
+Seat 6: SANYCH13 ( 1,47 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 1,05 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+btlbtl posts small blind [0,01 $]
+uwehebi posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 2Herz ]
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 raises [0,08 $]
+Johnyspb1 folds
+ChipsACA folds
+SANYCH13 folds
+btlbtl folds
+uwehebi folds
+** Summary **
+pauloricar14 collected [ 0,05 $ ]
+
+
+
+#Game No : 631499807
+***** 888poker Hand History for Game 631499807 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:00:16
+Table Tehuacan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,92 $ )
+Seat 2: pauloricar14 ( 2,39 $ )
+Seat 3: Johnyspb1 ( 0,80 $ )
+Seat 4: ChipsACA ( 1,29 $ )
+Seat 6: SANYCH13 ( 1,47 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 1,03 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+uwehebi posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 5Herz ]
+Coco_999 folds
+pauloricar14 folds
+Johnyspb1 folds
+ChipsACA raises [0,06 $]
+SANYCH13 folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+** Summary **
+ChipsACA collected [ 0,05 $ ]
+
+
+
+#Game No : 631499817
+***** 888poker Hand History for Game 631499817 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:00:32
+Table Tehuacan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,92 $ )
+Seat 2: pauloricar14 ( 2,39 $ )
+Seat 3: Johnyspb1 ( 0,80 $ )
+Seat 4: ChipsACA ( 1,32 $ )
+Seat 6: SANYCH13 ( 1,47 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 1,02 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 10Herz ]
+pauloricar14 raises [0,05 $]
+Johnyspb1 folds
+ChipsACA folds
+SANYCH13 folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts calls [0,04 $]
+Coco_999 calls [0,03 $]
+** Dealing flop ** [ 4Pik, QKreuz, JKaro ]
+B2B_Suckouts bets [0,04 $]
+Coco_999 folds
+pauloricar14 calls [0,04 $]
+** Dealing turn ** [ 2Karo ]
+B2B_Suckouts checks
+pauloricar14 checks
+** Dealing river ** [ 5Karo ]
+B2B_Suckouts bets [0,24 $]
+pauloricar14 raises [0,95 $]
+B2B_Suckouts folds
+** Summary **
+pauloricar14 collected [ 0,67 $ ]
+
+
+
+#Game No : 631499861
+***** 888poker Hand History for Game 631499861 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:01:47
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,87 $ )
+Seat 2: pauloricar14 ( 2,73 $ )
+Seat 3: Johnyspb1 ( 0,80 $ )
+Seat 4: ChipsACA ( 1,32 $ )
+Seat 6: SANYCH13 ( 1,47 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 1,02 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Coco_999 posts small blind [0,01 $]
+pauloricar14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, QKreuz ]
+Johnyspb1 folds
+ChipsACA folds
+SANYCH13 folds
+btlbtl folds
+uwehebi calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+Coco_999 folds
+pauloricar14 raises [0,19 $]
+uwehebi calls [0,19 $]
+B2B_Suckouts calls [0,15 $]
+** Dealing flop ** [ 9Herz, 8Pik, 10Kreuz ]
+pauloricar14 checks
+uwehebi bets [0,21 $]
+B2B_Suckouts folds
+pauloricar14 raises [1,27 $]
+uwehebi calls [0,60 $]
+** Dealing turn ** [ 3Karo ]
+** Dealing river ** [ 2Kreuz ]
+** Summary **
+pauloricar14 shows [ AKaro, APik ]
+uwehebi shows [ KKaro, JKaro ]
+pauloricar14 collected [ 2,12 $ ]
+
+
+
+#Game No : 631499907
+***** 888poker Hand History for Game 631499907 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:03:16
+Table Tehuacan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,86 $ )
+Seat 2: pauloricar14 ( 3,83 $ )
+Seat 3: Johnyspb1 ( 0,80 $ )
+Seat 4: ChipsACA ( 1,32 $ )
+Seat 6: SANYCH13 ( 1,47 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+pauloricar14 posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 8Kreuz ]
+ChipsACA folds
+SANYCH13 folds
+btlbtl raises [0,06 $]
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 raises [0,27 $]
+Johnyspb1 folds
+btlbtl folds
+** Summary **
+pauloricar14 collected [ 0,14 $ ]
+
+
+
+#Game No : 631499936
+***** 888poker Hand History for Game 631499936 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:04:03
+Table Tehuacan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,86 $ )
+Seat 2: pauloricar14 ( 3,91 $ )
+Seat 3: Johnyspb1 ( 0,80 $ )
+Seat 4: ChipsACA ( 1,32 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Johnyspb1 posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 2Kreuz ]
+btlbtl folds
+uwehebi raises [0,12 $]
+B2B_Suckouts raises [0,22 $]
+Coco_999 folds
+pauloricar14 folds
+Johnyspb1 folds
+ChipsACA folds
+uwehebi calls [0,10 $]
+** Dealing flop ** [ 9Pik, 3Kreuz, 6Kreuz ]
+uwehebi bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ 2Herz ]
+uwehebi bets [0,25 $]
+B2B_Suckouts folds
+** Summary **
+uwehebi collected [ 0,48 $ ]
+
+
+
+#Game No : 631499957
+***** 888poker Hand History for Game 631499957 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:04:44
+Table Tehuacan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Coco_999 ( 3,86 $ )
+Seat 2: pauloricar14 ( 3,91 $ )
+Seat 3: Johnyspb1 ( 2 $ )
+Seat 4: ChipsACA ( 1,30 $ )
+Seat 5: ivanich71 ( 2 $ )
+Seat 6: SANYCH13 ( 1,47 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 1,04 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+ChipsACA posts small blind [0,01 $]
+ivanich71 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, APik ]
+SANYCH13 folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 folds
+Johnyspb1 folds
+ChipsACA raises [0,04 $]
+ivanich71 folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,04 $ ]
+
+
+
+#Game No : 631499983
+***** 888poker Hand History for Game 631499983 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:05:34
+Table Tehuacan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Coco_999 ( 3,86 $ )
+Seat 2: pauloricar14 ( 3,91 $ )
+Seat 3: Johnyspb1 ( 2 $ )
+Seat 4: ChipsACA ( 1,32 $ )
+Seat 5: ivanich71 ( 2 $ )
+Seat 6: SANYCH13 ( 1,47 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 1,04 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+ivanich71 posts small blind [0,01 $]
+SANYCH13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 3Pik ]
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 raises [0,07 $]
+Johnyspb1 folds
+ChipsACA calls [0,07 $]
+ivanich71 folds
+SANYCH13 folds
+** Dealing flop ** [ JKaro, KKreuz, 3Herz ]
+pauloricar14 bets [0,20 $]
+ChipsACA calls [0,20 $]
+** Dealing turn ** [ 8Herz ]
+pauloricar14 bets [0,72 $]
+ChipsACA folds
+** Summary **
+pauloricar14 did not show his hand
+pauloricar14 collected [ 0,54 $ ]
+
+
+
+#Game No : 631500061
+***** 888poker Hand History for Game 631500061 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:07:40
+Table Tehuacan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Coco_999 ( 3,86 $ )
+Seat 2: pauloricar14 ( 4,18 $ )
+Seat 3: Johnyspb1 ( 2 $ )
+Seat 4: ChipsACA ( 1,05 $ )
+Seat 5: ivanich71 ( 2 $ )
+Seat 6: SANYCH13 ( 1,45 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 1,04 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+SANYCH13 posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, JPik ]
+uwehebi calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+Coco_999 folds
+pauloricar14 folds
+Johnyspb1 folds
+ChipsACA folds
+ivanich71 folds
+SANYCH13 folds
+btlbtl folds
+uwehebi raises [1,02 $]
+B2B_Suckouts calls [0,98 $]
+** Dealing flop ** [ 8Kreuz, 6Karo, 7Kreuz ]
+** Dealing turn ** [ 3Kreuz ]
+** Dealing river ** [ 9Karo ]
+** Summary **
+uwehebi shows [ QPik, AKreuz ]
+B2B_Suckouts shows [ JHerz, JPik ]
+B2B_Suckouts collected [ 1,98 $ ]
+
+
+
+#Game No : 631500095
+***** 888poker Hand History for Game 631500095 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:08:28
+Table Tehuacan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,86 $ )
+Seat 2: pauloricar14 ( 4,18 $ )
+Seat 3: Johnyspb1 ( 2 $ )
+Seat 4: ChipsACA ( 1,05 $ )
+Seat 5: ivanich71 ( 2 $ )
+Seat 6: SANYCH13 ( 1,44 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 10: B2B_Suckouts ( 2,94 $ )
+btlbtl posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 4Kreuz ]
+Coco_999 folds
+pauloricar14 raises [0,07 $]
+Johnyspb1 folds
+ChipsACA folds
+ivanich71 folds
+SANYCH13 folds
+btlbtl folds
+B2B_Suckouts folds
+** Summary **
+pauloricar14 collected [ 0,05 $ ]
+
+
+
+#Game No : 631500115
+***** 888poker Hand History for Game 631500115 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:08:56
+Table Tehuacan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,86 $ )
+Seat 2: pauloricar14 ( 4,21 $ )
+Seat 3: Johnyspb1 ( 2 $ )
+Seat 4: ChipsACA ( 1,05 $ )
+Seat 5: ivanich71 ( 2 $ )
+Seat 6: SANYCH13 ( 1,44 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 10: B2B_Suckouts ( 2,92 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 9Herz ]
+pauloricar14 raises [0,04 $]
+Johnyspb1 raises [0,12 $]
+ChipsACA folds
+ivanich71 folds
+SANYCH13 folds
+btlbtl folds
+B2B_Suckouts folds
+Coco_999 folds
+pauloricar14 folds
+** Summary **
+Johnyspb1 collected [ 0,11 $ ]
+
+
+
+#Game No : 631500136
+***** 888poker Hand History for Game 631500136 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:09:30
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Coco_999 ( 3,84 $ )
+Seat 2: pauloricar14 ( 4,17 $ )
+Seat 3: Johnyspb1 ( 2,07 $ )
+Seat 4: ChipsACA ( 1,05 $ )
+Seat 5: ivanich71 ( 2 $ )
+Seat 6: SANYCH13 ( 1,44 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2,91 $ )
+Coco_999 posts small blind [0,01 $]
+pauloricar14 posts big blind [0,02 $]
+uwehebi folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, QHerz ]
+Johnyspb1 folds
+ChipsACA folds
+ivanich71 folds
+SANYCH13 folds
+btlbtl raises [0,05 $]
+B2B_Suckouts calls [0,05 $]
+Coco_999 folds
+pauloricar14 folds
+** Dealing flop ** [ JKaro, 6Pik, QKreuz ]
+btlbtl bets [0,05 $]
+B2B_Suckouts raises [0,12 $]
+btlbtl calls [0,07 $]
+** Dealing turn ** [ QPik ]
+btlbtl checks
+B2B_Suckouts checks
+** Dealing river ** [ 10Kreuz ]
+btlbtl bets [0,20 $]
+B2B_Suckouts calls [0,20 $]
+** Summary **
+btlbtl shows [ 6Herz, AHerz ]
+B2B_Suckouts shows [ KHerz, QHerz ]
+B2B_Suckouts collected [ 0,73 $ ]
+
+
+
+#Game No : 631500179
+***** 888poker Hand History for Game 631500179 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:10:33
+Table Tehuacan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Coco_999 ( 3,83 $ )
+Seat 2: pauloricar14 ( 4,15 $ )
+Seat 3: Johnyspb1 ( 2,07 $ )
+Seat 4: ChipsACA ( 1,05 $ )
+Seat 5: ivanich71 ( 2 $ )
+Seat 6: SANYCH13 ( 1,44 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 3,27 $ )
+pauloricar14 posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+uwehebi posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 5Karo ]
+ChipsACA raises [0,06 $]
+ivanich71 folds
+SANYCH13 folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 calls [0,06 $]
+pauloricar14 folds
+Johnyspb1 folds
+** Dealing flop ** [ 7Kreuz, KKaro, 5Pik ]
+ChipsACA bets [0,05 $]
+Coco_999 calls [0,05 $]
+** Dealing turn ** [ 4Pik ]
+ChipsACA bets [0,14 $]
+Coco_999 calls [0,14 $]
+** Dealing river ** [ 9Pik ]
+ChipsACA bets [0,18 $]
+Coco_999 folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,53 $ ]
+
+
+
+#Game No : 631500216
+***** 888poker Hand History for Game 631500216 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:11:29
+Table Tehuacan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,58 $ )
+Seat 3: Johnyspb1 ( 2,05 $ )
+Seat 4: ChipsACA ( 1,33 $ )
+Seat 5: ivanich71 ( 2 $ )
+Seat 6: SANYCH13 ( 1,44 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 0,77 $ )
+Johnyspb1 posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+ivanich71 folds
+SANYCH13 folds
+btlbtl folds
+uwehebi folds
+Coco_999 raises [0,04 $]
+Johnyspb1 folds
+ChipsACA calls [0,02 $]
+** Dealing flop ** [ APik, AKreuz, 7Herz ]
+ChipsACA checks
+Coco_999 bets [0,02 $]
+ChipsACA calls [0,02 $]
+** Dealing turn ** [ 9Pik ]
+ChipsACA bets [0,06 $]
+Coco_999 calls [0,06 $]
+** Dealing river ** [ QKaro ]
+ChipsACA checks
+Coco_999 checks
+** Summary **
+ChipsACA shows [ KPik, 5Herz ]
+Coco_999 shows [ 7Karo, 5Karo ]
+Coco_999 collected [ 0,24 $ ]
+
+
+
+#Game No : 631500262
+***** 888poker Hand History for Game 631500262 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:12:29
+Table Tehuacan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,70 $ )
+Seat 3: Johnyspb1 ( 2,04 $ )
+Seat 4: ChipsACA ( 1,21 $ )
+Seat 5: ivanich71 ( 2 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 0,77 $ )
+Seat 10: B2B_Suckouts ( 3,27 $ )
+ChipsACA posts small blind [0,01 $]
+ivanich71 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 9Pik ]
+btlbtl folds
+uwehebi calls [0,02 $]
+B2B_Suckouts folds
+Coco_999 folds
+Johnyspb1 raises [0,08 $]
+ChipsACA folds
+ivanich71 folds
+uwehebi calls [0,06 $]
+** Dealing flop ** [ 7Kreuz, 10Kreuz, 7Pik ]
+uwehebi checks
+Johnyspb1 checks
+** Dealing turn ** [ 6Karo ]
+uwehebi bets [0,12 $]
+Johnyspb1 folds
+** Summary **
+uwehebi collected [ 0,18 $ ]
+
+
+
+#Game No : 631500292
+***** 888poker Hand History for Game 631500292 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:13:16
+Table Tehuacan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,70 $ )
+Seat 3: Johnyspb1 ( 1,96 $ )
+Seat 4: ChipsACA ( 1,20 $ )
+Seat 5: ivanich71 ( 2 $ )
+Seat 6: defmoon ( 2 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 0,87 $ )
+Seat 10: B2B_Suckouts ( 3,27 $ )
+ivanich71 posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 6Herz ]
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 folds
+Johnyspb1 calls [0,02 $]
+ChipsACA folds
+ivanich71 folds
+defmoon checks
+** Dealing flop ** [ 9Pik, KHerz, 5Herz ]
+defmoon checks
+Johnyspb1 checks
+** Dealing turn ** [ 3Kreuz ]
+defmoon checks
+Johnyspb1 checks
+** Dealing river ** [ 4Karo ]
+defmoon checks
+Johnyspb1 checks
+** Summary **
+defmoon shows [ 10Herz, 6Karo ]
+Johnyspb1 shows [ 7Pik, APik ]
+Johnyspb1 collected [ 0,05 $ ]
+
+
+
+#Game No : 631500325
+***** 888poker Hand History for Game 631500325 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:14:12
+Table Tehuacan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,70 $ )
+Seat 3: Johnyspb1 ( 1,99 $ )
+Seat 4: ChipsACA ( 1,20 $ )
+Seat 6: defmoon ( 1,98 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 0,87 $ )
+Seat 10: B2B_Suckouts ( 3,27 $ )
+btlbtl posts small blind [0,01 $]
+uwehebi posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 3Karo ]
+B2B_Suckouts folds
+Coco_999 folds
+Johnyspb1 folds
+ChipsACA folds
+defmoon folds
+btlbtl folds
+** Summary **
+uwehebi collected [ 0,03 $ ]
+
+
+
+#Game No : 631500334
+***** 888poker Hand History for Game 631500334 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:14:29
+Table Tehuacan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,70 $ )
+Seat 3: Johnyspb1 ( 1,99 $ )
+Seat 4: ChipsACA ( 1,20 $ )
+Seat 6: defmoon ( 1,98 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 0,88 $ )
+Seat 10: B2B_Suckouts ( 3,27 $ )
+uwehebi posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, APik ]
+Coco_999 folds
+Johnyspb1 folds
+ChipsACA folds
+defmoon raises [0,06 $]
+btlbtl raises [0,18 $]
+uwehebi folds
+B2B_Suckouts folds
+defmoon folds
+** Summary **
+btlbtl collected [ 0,15 $ ]
+
+
+
+#Game No : 631500348
+***** 888poker Hand History for Game 631500348 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:14:56
+Table Tehuacan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Coco_999 ( 3,70 $ )
+Seat 3: Johnyspb1 ( 1,99 $ )
+Seat 4: ChipsACA ( 1,20 $ )
+Seat 6: defmoon ( 1,92 $ )
+Seat 7: btlbtl ( 2,09 $ )
+Seat 9: uwehebi ( 0,87 $ )
+Seat 10: B2B_Suckouts ( 3,25 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 4Pik ]
+Johnyspb1 folds
+ChipsACA folds
+defmoon raises [0,06 $]
+btlbtl folds
+uwehebi calls [0,06 $]
+B2B_Suckouts folds
+Coco_999 calls [0,04 $]
+** Dealing flop ** [ 9Herz, 10Pik, AKaro ]
+Coco_999 checks
+defmoon bets [0,09 $]
+uwehebi calls [0,09 $]
+Coco_999 folds
+** Dealing turn ** [ 9Kreuz ]
+defmoon bets [0,18 $]
+uwehebi calls [0,18 $]
+** Dealing river ** [ 7Pik ]
+defmoon bets [0,54 $]
+uwehebi folds
+** Summary **
+defmoon collected [ 0,69 $ ]
+
+
+
+#Game No : 631500393
+***** 888poker Hand History for Game 631500393 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:16:00
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,64 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 1,99 $ )
+Seat 4: ChipsACA ( 1,20 $ )
+Seat 6: defmoon ( 2,28 $ )
+Seat 7: btlbtl ( 2,09 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,24 $ )
+Coco_999 posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 4Herz ]
+Johnyspb1 folds
+ChipsACA folds
+defmoon calls [0,02 $]
+btlbtl raises [0,08 $]
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 folds
+Sherlok1295 folds
+defmoon folds
+** Summary **
+btlbtl collected [ 0,07 $ ]
+
+
+
+#Game No : 631500418
+***** 888poker Hand History for Game 631500418 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:16:33
+Table Tehuacan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,63 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 1,99 $ )
+Seat 4: ChipsACA ( 1,20 $ )
+Seat 6: defmoon ( 2,26 $ )
+Seat 7: btlbtl ( 2,14 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,24 $ )
+Sherlok1295 posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 5Karo ]
+ChipsACA folds
+defmoon folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+Coco_999 folds
+Sherlok1295 folds
+** Summary **
+Johnyspb1 collected [ 0,03 $ ]
+
+
+
+#Game No : 631500428
+***** 888poker Hand History for Game 631500428 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:16:47
+Table Tehuacan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Coco_999 ( 3,63 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2 $ )
+Seat 4: ChipsACA ( 1,20 $ )
+Seat 6: defmoon ( 2,26 $ )
+Seat 7: btlbtl ( 2,14 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,24 $ )
+Johnyspb1 posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, AKaro ]
+defmoon folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts raises [0,06 $]
+Coco_999 raises [0,18 $]
+Sherlok1295 folds
+Johnyspb1 folds
+ChipsACA folds
+B2B_Suckouts calls [0,12 $]
+** Dealing flop ** [ 9Herz, 10Karo, 3Pik ]
+B2B_Suckouts bets [0,12 $]
+Coco_999 calls [0,12 $]
+** Dealing turn ** [ 5Karo ]
+B2B_Suckouts checks
+Coco_999 checks
+** Dealing river ** [ 5Herz ]
+B2B_Suckouts bets [0,40 $]
+Coco_999 folds
+** Summary **
+B2B_Suckouts collected [ 0,60 $ ]
+
+
+
+#Game No : 631500475
+***** 888poker Hand History for Game 631500475 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:17:47
+Table Tehuacan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 1,99 $ )
+Seat 4: ChipsACA ( 1,18 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,26 $ )
+Seat 7: btlbtl ( 2,14 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,54 $ )
+ChipsACA posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 5Herz ]
+defmoon folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+Sherlok1295 raises [0,06 $]
+Johnyspb1 calls [0,06 $]
+ChipsACA folds
+oldbashkir folds
+** Dealing flop ** [ 7Herz, JKreuz, 6Herz ]
+Sherlok1295 bets [0,07 $]
+Johnyspb1 raises [0,14 $]
+Sherlok1295 folds
+** Summary **
+Johnyspb1 collected [ 0,28 $ ]
+
+
+
+#Game No : 631500517
+***** 888poker Hand History for Game 631500517 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:18:37
+Table Tehuacan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,14 $ )
+Seat 4: ChipsACA ( 1,17 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,26 $ )
+Seat 7: btlbtl ( 2,14 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,54 $ )
+oldbashkir posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 8Herz ]
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+Sherlok1295 folds
+Johnyspb1 folds
+ChipsACA raises [0,06 $]
+oldbashkir calls [0,05 $]
+defmoon folds
+** Dealing flop ** [ 3Kreuz, KKreuz, 6Pik ]
+oldbashkir checks
+ChipsACA bets [0,04 $]
+oldbashkir calls [0,04 $]
+** Dealing turn ** [ AKaro ]
+oldbashkir checks
+ChipsACA bets [0,11 $]
+oldbashkir folds
+** Summary **
+ChipsACA collected [ 0,21 $ ]
+
+
+
+#Game No : 631500553
+***** 888poker Hand History for Game 631500553 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:19:27
+Table Tehuacan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,14 $ )
+Seat 4: ChipsACA ( 1,28 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,24 $ )
+Seat 7: btlbtl ( 2,14 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,54 $ )
+defmoon posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 10Karo ]
+uwehebi folds
+B2B_Suckouts folds
+Sherlok1295 folds
+Johnyspb1 folds
+ChipsACA folds
+oldbashkir raises [0,06 $]
+defmoon folds
+btlbtl raises [0,20 $]
+oldbashkir folds
+** Summary **
+btlbtl collected [ 0,13 $ ]
+
+
+
+#Game No : 631500578
+***** 888poker Hand History for Game 631500578 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:20:03
+Table Tehuacan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,14 $ )
+Seat 4: ChipsACA ( 1,28 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,23 $ )
+Seat 7: btlbtl ( 2,21 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,54 $ )
+btlbtl posts small blind [0,01 $]
+uwehebi posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 8Herz ]
+B2B_Suckouts folds
+Sherlok1295 folds
+Johnyspb1 folds
+ChipsACA folds
+oldbashkir folds
+defmoon folds
+btlbtl folds
+** Summary **
+uwehebi collected [ 0,03 $ ]
+
+
+
+#Game No : 631500601
+***** 888poker Hand History for Game 631500601 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:20:29
+Table Tehuacan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,14 $ )
+Seat 4: ChipsACA ( 1,28 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,23 $ )
+Seat 7: btlbtl ( 2,20 $ )
+Seat 9: uwehebi ( 0,55 $ )
+Seat 10: B2B_Suckouts ( 3,54 $ )
+uwehebi posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 7Herz ]
+Sherlok1295 folds
+Johnyspb1 folds
+ChipsACA folds
+oldbashkir raises [0,06 $]
+defmoon folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+** Summary **
+oldbashkir collected [ 0,05 $ ]
+
+
+
+#Game No : 631500623
+***** 888poker Hand History for Game 631500623 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:21:00
+Table Tehuacan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,14 $ )
+Seat 4: ChipsACA ( 1,28 $ )
+Seat 5: oldbashkir ( 2,03 $ )
+Seat 6: defmoon ( 2,23 $ )
+Seat 7: btlbtl ( 2,20 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,52 $ )
+B2B_Suckouts posts small blind [0,01 $]
+tramoia23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 6Kreuz ]
+Sherlok1295 raises [0,06 $]
+Johnyspb1 folds
+ChipsACA folds
+oldbashkir folds
+defmoon folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+tramoia23 calls [0,04 $]
+** Dealing flop ** [ 7Kreuz, 3Herz, 5Herz ]
+tramoia23 checks
+Sherlok1295 checks
+** Dealing turn ** [ 7Karo ]
+tramoia23 checks
+Sherlok1295 checks
+** Dealing river ** [ 4Herz ]
+tramoia23 checks
+Sherlok1295 checks
+** Summary **
+tramoia23 shows [ AKaro, QHerz ]
+Sherlok1295 shows [ APik, QKreuz ]
+Sherlok1295 collected [ 0,06 $ ]
+tramoia23 collected [ 0,07 $ ]
+
+
+
+#Game No : 631500653
+***** 888poker Hand History for Game 631500653 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:21:40
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,41 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,14 $ )
+Seat 4: ChipsACA ( 1,28 $ )
+Seat 5: oldbashkir ( 2,03 $ )
+Seat 6: defmoon ( 2,23 $ )
+Seat 7: btlbtl ( 2,20 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,51 $ )
+tramoia23 posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 4Karo ]
+Johnyspb1 folds
+ChipsACA raises [0,06 $]
+oldbashkir folds
+defmoon folds
+btlbtl calls [0,06 $]
+uwehebi folds
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+** Dealing flop ** [ 9Herz, 3Karo, QKreuz ]
+ChipsACA bets [0,07 $]
+btlbtl calls [0,07 $]
+** Dealing turn ** [ 10Herz ]
+ChipsACA bets [0,09 $]
+btlbtl calls [0,09 $]
+** Dealing river ** [ 8Pik ]
+ChipsACA bets [0,23 $]
+btlbtl calls [0,23 $]
+** Summary **
+ChipsACA shows [ JPik, QHerz ]
+btlbtl mucks [ 8Kreuz, 9Kreuz ]
+ChipsACA collected [ 0,88 $ ]
+
+
+
+#Game No : 631500692
+***** 888poker Hand History for Game 631500692 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:22:32
+Table Tehuacan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,14 $ )
+Seat 4: ChipsACA ( 1,71 $ )
+Seat 5: oldbashkir ( 2,03 $ )
+Seat 6: defmoon ( 2,23 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,51 $ )
+Sherlok1295 posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 3Kreuz ]
+ChipsACA folds
+oldbashkir folds
+defmoon folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+** Summary **
+Johnyspb1 did not show his hand
+Johnyspb1 collected [ 0,03 $ ]
+
+
+
+#Game No : 631500705
+***** 888poker Hand History for Game 631500705 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:22:55
+Table Tehuacan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,15 $ )
+Seat 4: ChipsACA ( 1,71 $ )
+Seat 5: oldbashkir ( 2,03 $ )
+Seat 6: defmoon ( 2,23 $ )
+Seat 7: btlbtl ( 2 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,51 $ )
+Johnyspb1 posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 3Pik ]
+oldbashkir folds
+defmoon folds
+btlbtl folds
+uwehebi folds
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 calls [0,01 $]
+ChipsACA checks
+** Dealing flop ** [ 4Karo, 6Herz, 2Karo ]
+Johnyspb1 checks
+ChipsACA bets [0,02 $]
+Johnyspb1 calls [0,02 $]
+** Dealing turn ** [ 5Herz ]
+Johnyspb1 checks
+ChipsACA bets [0,04 $]
+Johnyspb1 raises [0,16 $]
+ChipsACA calls [0,12 $]
+** Dealing river ** [ 6Pik ]
+Johnyspb1 bets [0,26 $]
+ChipsACA calls [0,26 $]
+** Summary **
+Johnyspb1 shows [ 3Karo, 3Herz ]
+ChipsACA mucks [ 2Pik, 4Pik ]
+Johnyspb1 collected [ 0,87 $ ]
+
+
+
+#Game No : 631500763
+***** 888poker Hand History for Game 631500763 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:24:12
+Table Tehuacan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,56 $ )
+Seat 4: ChipsACA ( 1,25 $ )
+Seat 5: oldbashkir ( 2,03 $ )
+Seat 6: defmoon ( 2,23 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 3,51 $ )
+ChipsACA posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, JKaro ]
+defmoon folds
+uwehebi folds
+B2B_Suckouts raises [0,06 $]
+tramoia23 folds
+Sherlok1295 calls [0,06 $]
+Johnyspb1 folds
+ChipsACA calls [0,05 $]
+oldbashkir folds
+** Dealing flop ** [ 6Karo, 5Karo, AKaro ]
+ChipsACA checks
+B2B_Suckouts bets [0,06 $]
+Sherlok1295 folds
+ChipsACA raises [0,18 $]
+B2B_Suckouts calls [0,12 $]
+** Dealing turn ** [ KPik ]
+ChipsACA bets [0,28 $]
+B2B_Suckouts calls [0,28 $]
+** Dealing river ** [ 9Karo ]
+ChipsACA checks
+B2B_Suckouts bets [0,36 $]
+ChipsACA calls [0,36 $]
+** Summary **
+B2B_Suckouts shows [ JPik, JKaro ]
+ChipsACA mucks [ AKreuz, 10Herz ]
+B2B_Suckouts collected [ 1,73 $ ]
+
+
+
+#Game No : 631500834
+***** 888poker Hand History for Game 631500834 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:26:06
+Table Tehuacan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,56 $ )
+Seat 4: ChipsACA ( 0,37 $ )
+Seat 5: oldbashkir ( 2,01 $ )
+Seat 6: defmoon ( 2,23 $ )
+Seat 7: fisherman016 ( 1,40 $ )
+Seat 9: uwehebi ( 0,54 $ )
+Seat 10: B2B_Suckouts ( 4,36 $ )
+oldbashkir posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, AKreuz ]
+fisherman016 checks
+uwehebi calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+tramoia23 folds
+Sherlok1295 calls [0,06 $]
+Johnyspb1 folds
+ChipsACA folds
+oldbashkir folds
+defmoon folds
+fisherman016 folds
+uwehebi calls [0,04 $]
+** Dealing flop ** [ JKreuz, 9Kreuz, 6Herz ]
+uwehebi checks
+B2B_Suckouts bets [0,07 $]
+Sherlok1295 calls [0,07 $]
+uwehebi calls [0,07 $]
+** Dealing turn ** [ 4Pik ]
+uwehebi checks
+B2B_Suckouts bets [0,14 $]
+Sherlok1295 calls [0,14 $]
+uwehebi calls [0,14 $]
+** Dealing river ** [ KHerz ]
+uwehebi checks
+B2B_Suckouts bets [0,28 $]
+Sherlok1295 folds
+uwehebi folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,81 $ ]
+
+
+
+#Game No : 631500898
+***** 888poker Hand History for Game 631500898 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:27:28
+Table Tehuacan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 1,73 $ )
+Seat 3: Johnyspb1 ( 2,56 $ )
+Seat 4: ChipsACA ( 0,37 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,21 $ )
+Seat 7: fisherman016 ( 1,38 $ )
+Seat 9: uwehebi ( 0,27 $ )
+Seat 10: B2B_Suckouts ( 4,90 $ )
+defmoon posts small blind [0,01 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 6Pik ]
+uwehebi folds
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+ChipsACA raises [0,06 $]
+oldbashkir folds
+defmoon raises [0,18 $]
+fisherman016 folds
+ChipsACA raises [0,26 $]
+defmoon raises [0,57 $]
+ChipsACA calls [0,05 $]
+** Dealing flop ** [ 6Kreuz, 2Kreuz, 2Pik ]
+** Dealing turn ** [ 9Karo ]
+** Dealing river ** [ 8Kreuz ]
+** Summary **
+ChipsACA shows [ QHerz, KHerz ]
+defmoon shows [ KKreuz, KKaro ]
+defmoon collected [ 0,72 $ ]
+
+
+
+#Game No : 631500940
+***** 888poker Hand History for Game 631500940 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:28:28
+Table Tehuacan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,56 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,56 $ )
+Seat 7: fisherman016 ( 1,36 $ )
+Seat 9: uwehebi ( 0,27 $ )
+Seat 10: B2B_Suckouts ( 4,90 $ )
+fisherman016 posts small blind [0,01 $]
+uwehebi posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, QPik ]
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+oldbashkir folds
+defmoon folds
+fisherman016 calls [0,01 $]
+uwehebi checks
+** Dealing flop ** [ 8Herz, QKaro, 10Pik ]
+fisherman016 checks
+uwehebi checks
+** Dealing turn ** [ 3Herz ]
+fisherman016 checks
+uwehebi checks
+** Dealing river ** [ 8Kreuz ]
+fisherman016 bets [0,02 $]
+uwehebi calls [0,02 $]
+** Summary **
+fisherman016 shows [ 2Kreuz, 2Herz ]
+uwehebi shows [ JKaro, 3Pik ]
+uwehebi collected [ 0,08 $ ]
+
+
+
+#Game No : 631500979
+***** 888poker Hand History for Game 631500979 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:29:21
+Table Tehuacan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,56 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,56 $ )
+Seat 7: fisherman016 ( 1,32 $ )
+Seat 9: uwehebi ( 0,31 $ )
+Seat 10: B2B_Suckouts ( 4,90 $ )
+uwehebi posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 2Pik ]
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+oldbashkir folds
+defmoon raises [0,06 $]
+fisherman016 folds
+uwehebi folds
+B2B_Suckouts folds
+** Summary **
+defmoon collected [ 0,05 $ ]
+
+
+
+#Game No : 631500999
+***** 888poker Hand History for Game 631500999 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:29:59
+Table Tehuacan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,56 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,59 $ )
+Seat 7: fisherman016 ( 1,32 $ )
+Seat 9: uwehebi ( 0,30 $ )
+Seat 10: B2B_Suckouts ( 4,88 $ )
+B2B_Suckouts posts small blind [0,01 $]
+tramoia23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 6Kreuz ]
+Sherlok1295 folds
+Johnyspb1 calls [0,02 $]
+oldbashkir folds
+defmoon folds
+fisherman016 folds
+uwehebi raises [0,30 $]
+B2B_Suckouts folds
+tramoia23 folds
+Johnyspb1 folds
+** Summary **
+uwehebi collected [ 0,07 $ ]
+
+
+
+#Game No : 631501015
+***** 888poker Hand History for Game 631501015 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:30:18
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,54 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,59 $ )
+Seat 7: fisherman016 ( 1,32 $ )
+Seat 9: uwehebi ( 0,35 $ )
+Seat 10: B2B_Suckouts ( 4,87 $ )
+tramoia23 posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, KKreuz ]
+Johnyspb1 folds
+oldbashkir folds
+defmoon raises [0,06 $]
+fisherman016 folds
+uwehebi folds
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+** Summary **
+defmoon collected [ 0,05 $ ]
+
+
+
+#Game No : 631501032
+***** 888poker Hand History for Game 631501032 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:30:45
+Table Tehuacan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,54 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,62 $ )
+Seat 7: fisherman016 ( 1,32 $ )
+Seat 9: uwehebi ( 0,35 $ )
+Seat 10: B2B_Suckouts ( 4,87 $ )
+Sherlok1295 posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 8Karo ]
+oldbashkir folds
+defmoon folds
+fisherman016 folds
+uwehebi folds
+B2B_Suckouts raises [0,06 $]
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 631501050
+***** 888poker Hand History for Game 631501050 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:31:08
+Table Tehuacan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,52 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,62 $ )
+Seat 7: fisherman016 ( 1,32 $ )
+Seat 9: uwehebi ( 0,35 $ )
+Seat 10: B2B_Suckouts ( 4,90 $ )
+Johnyspb1 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 4Karo ]
+oldbashkir folds
+defmoon folds
+fisherman016 calls [0,02 $]
+uwehebi folds
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 calls [0,01 $]
+getterrrr checks
+** Dealing flop ** [ 5Kreuz, 9Pik, KKaro ]
+Johnyspb1 checks
+getterrrr checks
+fisherman016 bets [0,03 $]
+Johnyspb1 folds
+getterrrr folds
+** Summary **
+fisherman016 did not show his hand
+fisherman016 collected [ 0,06 $ ]
+
+
+
+#Game No : 631501080
+***** 888poker Hand History for Game 631501080 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:32:01
+Table Tehuacan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,50 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: oldbashkir ( 2 $ )
+Seat 6: defmoon ( 2,62 $ )
+Seat 7: fisherman016 ( 1,36 $ )
+Seat 9: uwehebi ( 0,35 $ )
+Seat 10: B2B_Suckouts ( 4,90 $ )
+getterrrr posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 6Karo ]
+defmoon folds
+fisherman016 folds
+uwehebi raises [0,35 $]
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+getterrrr folds
+oldbashkir calls [0,33 $]
+** Dealing flop ** [ 6Herz, 6Kreuz, 10Kreuz ]
+** Dealing turn ** [ 8Pik ]
+** Dealing river ** [ 2Herz ]
+** Summary **
+oldbashkir shows [ 6Pik, APik ]
+uwehebi shows [ KPik, AKaro ]
+oldbashkir collected [ 0,67 $ ]
+
+
+
+#Game No : 631501102
+***** 888poker Hand History for Game 631501102 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:32:35
+Table Tehuacan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,50 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: oldbashkir ( 2,32 $ )
+Seat 6: defmoon ( 2,62 $ )
+Seat 7: fisherman016 ( 1,36 $ )
+Seat 10: B2B_Suckouts ( 4,90 $ )
+oldbashkir posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 4Kreuz ]
+fisherman016 raises [0,06 $]
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+getterrrr folds
+oldbashkir folds
+defmoon folds
+** Summary **
+fisherman016 collected [ 0,05 $ ]
+
+
+
+#Game No : 631501122
+***** 888poker Hand History for Game 631501122 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:33:00
+Table Tehuacan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,50 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: oldbashkir ( 2,31 $ )
+Seat 6: defmoon ( 2,60 $ )
+Seat 7: fisherman016 ( 1,39 $ )
+Seat 10: B2B_Suckouts ( 4,90 $ )
+defmoon posts small blind [0,01 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, QHerz ]
+B2B_Suckouts raises [0,06 $]
+tramoia23 folds
+Sherlok1295 raises [0,18 $]
+Johnyspb1 folds
+getterrrr folds
+oldbashkir folds
+defmoon folds
+fisherman016 folds
+B2B_Suckouts folds
+** Summary **
+Sherlok1295 did not show his hand
+Sherlok1295 collected [ 0,15 $ ]
+
+
+
+#Game No : 631501139
+***** 888poker Hand History for Game 631501139 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:33:38
+Table Tehuacan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2,09 $ )
+Seat 3: Johnyspb1 ( 2,50 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: oldbashkir ( 2,31 $ )
+Seat 6: defmoon ( 2,59 $ )
+Seat 7: fisherman016 ( 1,37 $ )
+Seat 10: B2B_Suckouts ( 4,84 $ )
+fisherman016 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 8Herz ]
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+getterrrr folds
+oldbashkir folds
+defmoon folds
+fisherman016 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 9Kreuz, 10Kreuz, AKaro ]
+fisherman016 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ QHerz ]
+fisherman016 bets [0,04 $]
+B2B_Suckouts folds
+** Summary **
+fisherman016 collected [ 0,08 $ ]
+
+
+
+#Game No : 631501168
+***** 888poker Hand History for Game 631501168 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:34:25
+Table Tehuacan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2,09 $ )
+Seat 3: Johnyspb1 ( 2,50 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: oldbashkir ( 2,31 $ )
+Seat 6: defmoon ( 2,59 $ )
+Seat 7: fisherman016 ( 1,41 $ )
+Seat 10: B2B_Suckouts ( 4,80 $ )
+B2B_Suckouts posts small blind [0,01 $]
+tramoia23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 6Pik ]
+Sherlok1295 folds
+Johnyspb1 raises [0,06 $]
+getterrrr folds
+oldbashkir folds
+defmoon folds
+fisherman016 folds
+B2B_Suckouts folds
+tramoia23 calls [0,04 $]
+** Dealing flop ** [ 8Karo, 5Herz, KKreuz ]
+tramoia23 checks
+Johnyspb1 checks
+** Dealing turn ** [ AKaro ]
+tramoia23 checks
+Johnyspb1 checks
+** Dealing river ** [ 10Kreuz ]
+tramoia23 checks
+Johnyspb1 bets [0,06 $]
+tramoia23 folds
+** Summary **
+Johnyspb1 collected [ 0,13 $ ]
+
+
+
+#Game No : 631501208
+***** 888poker Hand History for Game 631501208 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:35:23
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2,09 $ )
+Seat 3: Johnyspb1 ( 2,57 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: oldbashkir ( 2,31 $ )
+Seat 6: defmoon ( 2,59 $ )
+Seat 7: fisherman016 ( 1,41 $ )
+Seat 9: 123charly321 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 4,79 $ )
+tramoia23 posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+123charly321 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, KKreuz ]
+Johnyspb1 folds
+getterrrr folds
+oldbashkir folds
+defmoon folds
+fisherman016 folds
+123charly321 raises [0,06 $]
+B2B_Suckouts calls [0,08 $]
+tramoia23 folds
+Sherlok1295 folds
+** Dealing flop ** [ AKaro, 8Pik, JKreuz ]
+123charly321 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ 3Herz ]
+123charly321 bets [0,15 $]
+B2B_Suckouts folds
+** Summary **
+123charly321 did not show his hand
+123charly321 collected [ 0,22 $ ]
+
+
+
+#Game No : 631501232
+***** 888poker Hand History for Game 631501232 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:36:11
+Table Tehuacan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2,07 $ )
+Seat 3: Johnyspb1 ( 2,57 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: oldbashkir ( 2,31 $ )
+Seat 6: defmoon ( 2,59 $ )
+Seat 7: fisherman016 ( 1,41 $ )
+Seat 9: 123charly321 ( 0,92 $ )
+Seat 10: B2B_Suckouts ( 4,69 $ )
+Sherlok1295 posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 4Karo ]
+getterrrr folds
+oldbashkir raises [0,06 $]
+defmoon folds
+fisherman016 folds
+123charly321 folds
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+** Summary **
+oldbashkir did not show his hand
+oldbashkir collected [ 0,05 $ ]
+
+
+
+#Game No : 631501249
+***** 888poker Hand History for Game 631501249 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:36:38
+Table Tehuacan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2,06 $ )
+Seat 3: Johnyspb1 ( 2,55 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: oldbashkir ( 2,34 $ )
+Seat 6: defmoon ( 2,59 $ )
+Seat 7: fisherman016 ( 1,41 $ )
+Seat 9: 123charly321 ( 0,92 $ )
+Seat 10: B2B_Suckouts ( 4,69 $ )
+Johnyspb1 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 5Herz ]
+oldbashkir raises [0,06 $]
+defmoon folds
+fisherman016 folds
+123charly321 folds
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 calls [0,06 $]
+Johnyspb1 calls [0,05 $]
+getterrrr folds
+** Dealing flop ** [ KKaro, 6Herz, 4Pik ]
+Johnyspb1 checks
+oldbashkir checks
+Sherlok1295 checks
+** Dealing turn ** [ 3Herz ]
+Johnyspb1 bets [0,08 $]
+oldbashkir folds
+Sherlok1295 calls [0,08 $]
+** Dealing river ** [ KPik ]
+Johnyspb1 bets [0,16 $]
+Sherlok1295 folds
+** Summary **
+Johnyspb1 did not show his hand
+Johnyspb1 collected [ 0,34 $ ]
+
+
+
+#Game No : 631501274
+***** 888poker Hand History for Game 631501274 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:37:27
+Table Tehuacan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,75 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 6: defmoon ( 2,59 $ )
+Seat 7: fisherman016 ( 1,41 $ )
+Seat 9: 123charly321 ( 0,92 $ )
+Seat 10: B2B_Suckouts ( 4,69 $ )
+getterrrr posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 5Kreuz ]
+fisherman016 folds
+123charly321 calls [0,02 $]
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+getterrrr folds
+defmoon checks
+** Dealing flop ** [ 10Pik, 10Herz, 9Kreuz ]
+defmoon checks
+123charly321 bets [0,03 $]
+defmoon folds
+** Summary **
+123charly321 collected [ 0,05 $ ]
+
+
+
+#Game No : 631501294
+***** 888poker Hand History for Game 631501294 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:38:06
+Table Tehuacan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,75 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 6: defmoon ( 2,57 $ )
+Seat 7: fisherman016 ( 1,41 $ )
+Seat 9: 123charly321 ( 0,95 $ )
+Seat 10: B2B_Suckouts ( 4,69 $ )
+defmoon posts small blind [0,01 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, KKreuz ]
+123charly321 raises [0,04 $]
+B2B_Suckouts calls [0,04 $]
+tramoia23 folds
+Sherlok1295 calls [0,04 $]
+Johnyspb1 folds
+getterrrr folds
+defmoon calls [0,03 $]
+fisherman016 calls [0,02 $]
+** Dealing flop ** [ QPik, 3Karo, AKreuz ]
+defmoon checks
+fisherman016 checks
+123charly321 checks
+B2B_Suckouts checks
+Sherlok1295 checks
+** Dealing turn ** [ 7Herz ]
+defmoon checks
+fisherman016 checks
+123charly321 checks
+B2B_Suckouts checks
+Sherlok1295 checks
+** Dealing river ** [ 6Herz ]
+defmoon checks
+fisherman016 checks
+123charly321 bets [0,02 $]
+B2B_Suckouts folds
+Sherlok1295 folds
+defmoon folds
+fisherman016 folds
+** Summary **
+123charly321 collected [ 0,19 $ ]
+
+
+
+#Game No : 631501350
+***** 888poker Hand History for Game 631501350 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:39:49
+Table Tehuacan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,75 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 6: defmoon ( 2,53 $ )
+Seat 7: fisherman016 ( 1,37 $ )
+Seat 9: 123charly321 ( 1,10 $ )
+Seat 10: B2B_Suckouts ( 4,65 $ )
+fisherman016 posts small blind [0,01 $]
+123charly321 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, QKreuz ]
+B2B_Suckouts folds
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+getterrrr folds
+defmoon raises [0,06 $]
+fisherman016 folds
+123charly321 calls [0,04 $]
+** Dealing flop ** [ 7Karo, 10Kreuz, QPik ]
+123charly321 checks
+defmoon bets [0,05 $]
+123charly321 calls [0,05 $]
+** Dealing turn ** [ 4Kreuz ]
+123charly321 checks
+defmoon checks
+** Dealing river ** [ 5Herz ]
+123charly321 checks
+defmoon checks
+** Summary **
+123charly321 shows [ 8Herz, 9Herz ]
+defmoon shows [ 6Pik, 6Kreuz ]
+defmoon collected [ 0,22 $ ]
+
+
+
+#Game No : 631501396
+***** 888poker Hand History for Game 631501396 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:40:51
+Table Tehuacan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,75 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 6: defmoon ( 2,64 $ )
+Seat 7: fisherman016 ( 1,36 $ )
+Seat 9: 123charly321 ( 0,99 $ )
+Seat 10: B2B_Suckouts ( 4,65 $ )
+123charly321 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 2Pik ]
+tramoia23 folds
+Sherlok1295 folds
+Johnyspb1 folds
+getterrrr folds
+defmoon raises [0,06 $]
+fisherman016 folds
+123charly321 folds
+B2B_Suckouts folds
+** Summary **
+defmoon collected [ 0,05 $ ]
+
+
+
+#Game No : 631501450
+***** 888poker Hand History for Game 631501450 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:41:58
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: Johnyspb1 ( 2,75 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 6: defmoon ( 2,67 $ )
+Seat 7: fisherman016 ( 1,36 $ )
+Seat 10: B2B_Suckouts ( 4,63 $ )
+tramoia23 posts small blind [0,01 $]
+Sherlok1295 folds
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, AKreuz ]
+getterrrr folds
+defmoon raises [0,06 $]
+fisherman016 folds
+B2B_Suckouts raises [0,18 $]
+tramoia23 folds
+Johnyspb1 folds
+defmoon raises [0,55 $]
+B2B_Suckouts calls [0,43 $]
+** Dealing flop ** [ 5Pik, 8Pik, 4Kreuz ]
+defmoon bets [0,30 $]
+B2B_Suckouts calls [0,30 $]
+** Dealing turn ** [ 3Pik ]
+defmoon checks
+B2B_Suckouts bets [3,64 $]
+defmoon folds
+** Summary **
+B2B_Suckouts collected [ 1,74 $ ]
+
+
+
+#Game No : 631501500
+***** 888poker Hand History for Game 631501500 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:43:16
+Table Tehuacan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 3: Johnyspb1 ( 2,73 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 6: defmoon ( 1,76 $ )
+Seat 7: fisherman016 ( 1,36 $ )
+Seat 9: Zyphe ( 1,40 $ )
+Seat 10: B2B_Suckouts ( 5,46 $ )
+Johnyspb1 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+Zyphe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 3Karo ]
+defmoon folds
+fisherman016 folds
+Zyphe checks
+B2B_Suckouts folds
+tramoia23 folds
+Johnyspb1 raises [0,12 $]
+getterrrr folds
+Zyphe folds
+** Summary **
+Johnyspb1 collected [ 0,06 $ ]
+
+
+
+#Game No : 631501520
+***** 888poker Hand History for Game 631501520 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:43:44
+Table Tehuacan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 3: Johnyspb1 ( 2,77 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: BlueChipMD01 ( 2 $ )
+Seat 6: defmoon ( 1,76 $ )
+Seat 7: fisherman016 ( 1,36 $ )
+Seat 9: Zyphe ( 1,38 $ )
+Seat 10: B2B_Suckouts ( 5,46 $ )
+getterrrr posts small blind [0,01 $]
+BlueChipMD01 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 5Herz ]
+defmoon folds
+fisherman016 folds
+Zyphe folds
+B2B_Suckouts folds
+tramoia23 folds
+Johnyspb1 folds
+getterrrr folds
+** Summary **
+BlueChipMD01 collected [ 0,03 $ ]
+
+
+
+#Game No : 631501528
+***** 888poker Hand History for Game 631501528 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:44:01
+Table Tehuacan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 3: Johnyspb1 ( 2,77 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: BlueChipMD01 ( 2,01 $ )
+Seat 6: defmoon ( 1,76 $ )
+Seat 7: fisherman016 ( 1,36 $ )
+Seat 9: Zyphe ( 1,38 $ )
+Seat 10: B2B_Suckouts ( 5,46 $ )
+BlueChipMD01 posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 4Pik ]
+fisherman016 folds
+Zyphe calls [0,02 $]
+B2B_Suckouts folds
+tramoia23 folds
+Johnyspb1 folds
+getterrrr folds
+BlueChipMD01 raises [0,05 $]
+defmoon folds
+Zyphe calls [0,04 $]
+** Dealing flop ** [ 8Pik, 5Kreuz, 10Kreuz ]
+BlueChipMD01 bets [0,08 $]
+Zyphe calls [0,08 $]
+** Dealing turn ** [ KKaro ]
+BlueChipMD01 bets [0,21 $]
+Zyphe calls [0,21 $]
+** Dealing river ** [ 6Kreuz ]
+BlueChipMD01 checks
+Zyphe checks
+** Summary **
+BlueChipMD01 shows [ KHerz, QKaro ]
+Zyphe mucks [ 9Karo, JKaro ]
+BlueChipMD01 collected [ 0,68 $ ]
+
+
+
+#Game No : 631501574
+***** 888poker Hand History for Game 631501574 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:45:02
+Table Tehuacan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 3: Johnyspb1 ( 2,77 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: BlueChipMD01 ( 2,34 $ )
+Seat 6: defmoon ( 1,74 $ )
+Seat 7: fisherman016 ( 1,36 $ )
+Seat 9: Zyphe ( 1,03 $ )
+Seat 10: B2B_Suckouts ( 5,46 $ )
+defmoon posts small blind [0,01 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, JKaro ]
+Zyphe folds
+B2B_Suckouts folds
+tramoia23 folds
+Johnyspb1 folds
+getterrrr folds
+BlueChipMD01 folds
+defmoon raises [0,05 $]
+fisherman016 calls [0,04 $]
+** Dealing flop ** [ 10Herz, AHerz, 9Kreuz ]
+defmoon bets [0,06 $]
+fisherman016 folds
+** Summary **
+defmoon collected [ 0,12 $ ]
+
+
+
+#Game No : 631501598
+***** 888poker Hand History for Game 631501598 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:45:32
+Table Tehuacan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 3: Johnyspb1 ( 2,77 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: BlueChipMD01 ( 2,34 $ )
+Seat 6: defmoon ( 1,80 $ )
+Seat 7: fisherman016 ( 1,30 $ )
+Seat 9: Zyphe ( 1,03 $ )
+Seat 10: B2B_Suckouts ( 5,46 $ )
+fisherman016 posts small blind [0,01 $]
+Zyphe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, QPik ]
+B2B_Suckouts folds
+tramoia23 folds
+Johnyspb1 folds
+getterrrr folds
+BlueChipMD01 folds
+defmoon folds
+fisherman016 folds
+** Summary **
+Zyphe collected [ 0,03 $ ]
+
+
+
+#Game No : 631501616
+***** 888poker Hand History for Game 631501616 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:46:02
+Table Tehuacan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 3: Johnyspb1 ( 2,77 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: BlueChipMD01 ( 2,34 $ )
+Seat 6: defmoon ( 1,80 $ )
+Seat 7: fisherman016 ( 1,29 $ )
+Seat 9: Zyphe ( 1,04 $ )
+Seat 10: B2B_Suckouts ( 5,46 $ )
+Zyphe posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 2Herz ]
+tramoia23 folds
+Johnyspb1 calls [0,02 $]
+getterrrr folds
+BlueChipMD01 raises [0,06 $]
+defmoon folds
+fisherman016 folds
+Zyphe folds
+B2B_Suckouts folds
+Johnyspb1 calls [0,04 $]
+** Dealing flop ** [ QKaro, 7Karo, 9Herz ]
+Johnyspb1 bets [0,07 $]
+BlueChipMD01 folds
+** Summary **
+Johnyspb1 collected [ 0,15 $ ]
+
+
+
+#Game No : 631501664
+***** 888poker Hand History for Game 631501664 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:47:05
+Table Tehuacan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 3: Johnyspb1 ( 2,86 $ )
+Seat 4: getterrrr ( 2 $ )
+Seat 5: BlueChipMD01 ( 2,28 $ )
+Seat 6: defmoon ( 1,80 $ )
+Seat 7: fisherman016 ( 1,29 $ )
+Seat 9: Zyphe ( 1,03 $ )
+Seat 10: B2B_Suckouts ( 5,44 $ )
+B2B_Suckouts posts small blind [0,01 $]
+tramoia23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 3Herz ]
+Johnyspb1 folds
+getterrrr raises [0,06 $]
+BlueChipMD01 folds
+defmoon folds
+fisherman016 folds
+Zyphe folds
+B2B_Suckouts folds
+tramoia23 folds
+** Summary **
+getterrrr collected [ 0,05 $ ]
+
+
+
+#Game No : 631501686
+***** 888poker Hand History for Game 631501686 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:47:37
+Table Tehuacan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: tramoia23 ( 1,40 $ )
+Seat 2: dunebuggy23 ( 1,40 $ )
+Seat 3: Johnyspb1 ( 2,86 $ )
+Seat 4: getterrrr ( 2,03 $ )
+Seat 5: BlueChipMD01 ( 2,28 $ )
+Seat 6: defmoon ( 1,80 $ )
+Seat 7: fisherman016 ( 1,29 $ )
+Seat 9: Zyphe ( 1,03 $ )
+Seat 10: B2B_Suckouts ( 5,43 $ )
+tramoia23 posts small blind [0,01 $]
+dunebuggy23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, JKaro ]
+Johnyspb1 folds
+getterrrr folds
+BlueChipMD01 folds
+defmoon folds
+fisherman016 folds
+Zyphe calls [0,02 $]
+B2B_Suckouts folds
+tramoia23 folds
+dunebuggy23 checks
+** Dealing flop ** [ QPik, 8Karo, KHerz ]
+dunebuggy23 checks
+Zyphe bets [0,02 $]
+dunebuggy23 calls [0,02 $]
+** Dealing turn ** [ 3Herz ]
+dunebuggy23 checks
+Zyphe bets [0,09 $]
+dunebuggy23 folds
+** Summary **
+Zyphe did not show his hand
+Zyphe collected [ 0,09 $ ]
+
+
+
