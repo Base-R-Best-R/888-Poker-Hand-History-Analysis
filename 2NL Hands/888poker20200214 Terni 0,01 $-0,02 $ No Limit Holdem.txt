@@ -1,0 +1,431 @@
+#Game No : 631692437
+***** 888poker Hand History for Game 631692437 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 22:00:03
+Table Terni 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: FreezerPizza ( 2 $ )
+Seat 2: Excalibur17 ( 2,83 $ )
+Seat 3: Tobicro ( 2,75 $ )
+Seat 4: Burtom0 ( 2,02 $ )
+Seat 5: Herthafan59 ( 2 $ )
+Seat 6: RamanMirka ( 1,33 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: Pijhen ( 0,95 $ )
+Seat 10: Benz2114 ( 0,80 $ )
+Burtom0 posts small blind [0,01 $]
+Herthafan59 posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+Benz2114 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, KPik ]
+RamanMirka folds
+B2B_Suckouts raises [0,04 $]
+Pijhen folds
+Benz2114 raises [0,78 $]
+FreezerPizza folds
+Excalibur17 folds
+Tobicro folds
+Burtom0 folds
+Herthafan59 folds
+B2B_Suckouts calls [0,74 $]
+** Dealing flop ** [ 2Karo, 6Herz, QKreuz ]
+** Dealing turn ** [ 7Kreuz ]
+** Dealing river ** [ 5Kreuz ]
+** Summary **
+B2B_Suckouts shows [ APik, KPik ]
+Benz2114 shows [ 10Karo, 10Kreuz ]
+Benz2114 collected [ 1,53 $ ]
+
+
+
+#Game No : 631692485
+***** 888poker Hand History for Game 631692485 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 22:00:56
+Table Terni 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: FreezerPizza ( 2 $ )
+Seat 2: Excalibur17 ( 2,83 $ )
+Seat 3: Tobicro ( 2,75 $ )
+Seat 4: Burtom0 ( 2,01 $ )
+Seat 5: Herthafan59 ( 2 $ )
+Seat 6: RamanMirka ( 1,33 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: Pijhen ( 0,95 $ )
+Seat 10: Benz2114 ( 1,53 $ )
+Herthafan59 posts small blind [0,01 $]
+RamanMirka posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, QHerz ]
+B2B_Suckouts folds
+Pijhen folds
+Benz2114 folds
+FreezerPizza raises [0,06 $]
+Excalibur17 folds
+Tobicro calls [0,06 $]
+Burtom0 folds
+Herthafan59 folds
+RamanMirka calls [0,04 $]
+** Dealing flop ** [ KKaro, 4Kreuz, 9Herz ]
+RamanMirka checks
+FreezerPizza bets [0,09 $]
+Tobicro calls [0,09 $]
+RamanMirka folds
+** Dealing turn ** [ 3Pik ]
+FreezerPizza bets [0,18 $]
+Tobicro folds
+** Summary **
+FreezerPizza did not show his hand
+FreezerPizza collected [ 0,35 $ ]
+
+
+
+#Game No : 631692552
+***** 888poker Hand History for Game 631692552 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 22:02:17
+Table Terni 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: FreezerPizza ( 2,20 $ )
+Seat 2: Excalibur17 ( 2,83 $ )
+Seat 3: Tobicro ( 2,60 $ )
+Seat 4: Burtom0 ( 2,01 $ )
+Seat 5: Herthafan59 ( 2 $ )
+Seat 6: RamanMirka ( 1,27 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: Pijhen ( 0,95 $ )
+Seat 10: Benz2114 ( 1,53 $ )
+RamanMirka posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, KPik ]
+Pijhen folds
+Benz2114 folds
+FreezerPizza folds
+Excalibur17 raises [0,06 $]
+Tobicro folds
+Burtom0 folds
+Herthafan59 folds
+RamanMirka calls [0,05 $]
+B2B_Suckouts raises [0,16 $]
+Excalibur17 calls [0,12 $]
+RamanMirka calls [0,12 $]
+** Dealing flop ** [ 9Kreuz, 5Herz, 3Herz ]
+RamanMirka checks
+B2B_Suckouts checks
+Excalibur17 bets [0,27 $]
+RamanMirka folds
+B2B_Suckouts folds
+** Summary **
+Excalibur17 did not show his hand
+Excalibur17 collected [ 0,51 $ ]
+
+
+
+#Game No : 631692611
+***** 888poker Hand History for Game 631692611 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 22:03:27
+Table Terni 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: FreezerPizza ( 2,20 $ )
+Seat 2: Excalibur17 ( 3,16 $ )
+Seat 3: Tobicro ( 2,60 $ )
+Seat 4: Burtom0 ( 2,01 $ )
+Seat 5: Herthafan59 ( 2 $ )
+Seat 6: RamanMirka ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: Pijhen ( 0,95 $ )
+Seat 10: Benz2114 ( 1,53 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Pijhen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, QKaro ]
+Benz2114 folds
+FreezerPizza folds
+Excalibur17 folds
+Tobicro folds
+Burtom0 folds
+Herthafan59 raises [0,06 $]
+RamanMirka folds
+B2B_Suckouts folds
+Pijhen calls [0,04 $]
+** Dealing flop ** [ 3Pik, AHerz, 10Karo ]
+Pijhen checks
+Herthafan59 bets [0,06 $]
+Pijhen folds
+** Summary **
+Herthafan59 did not show his hand
+Herthafan59 collected [ 0,13 $ ]
+
+
+
+#Game No : 631692680
+***** 888poker Hand History for Game 631692680 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 22:04:35
+Table Terni 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: FreezerPizza ( 2,20 $ )
+Seat 2: Excalibur17 ( 3,16 $ )
+Seat 3: Tobicro ( 2,60 $ )
+Seat 4: Burtom0 ( 2,01 $ )
+Seat 5: Herthafan59 ( 2,07 $ )
+Seat 6: RamanMirka ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: Pijhen ( 0,89 $ )
+Seat 10: Benz2114 ( 1,53 $ )
+Pijhen posts small blind [0,01 $]
+Benz2114 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, KPik ]
+FreezerPizza folds
+Excalibur17 folds
+Tobicro folds
+Burtom0 folds
+Herthafan59 raises [0,06 $]
+RamanMirka calls [0,06 $]
+B2B_Suckouts calls [0,06 $]
+Pijhen folds
+Benz2114 calls [0,04 $]
+** Dealing flop ** [ KKaro, 5Kreuz, 7Pik ]
+Benz2114 checks
+Herthafan59 checks
+RamanMirka bets [0,02 $]
+B2B_Suckouts raises [0,10 $]
+Benz2114 folds
+Herthafan59 folds
+RamanMirka calls [0,08 $]
+** Dealing turn ** [ 8Pik ]
+RamanMirka checks
+B2B_Suckouts bets [0,14 $]
+RamanMirka folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,43 $ ]
+
+
+
+#Game No : 631692762
+***** 888poker Hand History for Game 631692762 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 22:06:19
+Table Terni 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: FreezerPizza ( 2,20 $ )
+Seat 2: Excalibur17 ( 3,16 $ )
+Seat 3: Tobicro ( 2,60 $ )
+Seat 4: Burtom0 ( 2,01 $ )
+Seat 5: Herthafan59 ( 2,01 $ )
+Seat 6: RamanMirka ( 0,93 $ )
+Seat 7: B2B_Suckouts ( 2,27 $ )
+Seat 9: Pijhen ( 0,88 $ )
+Seat 10: Benz2114 ( 1,47 $ )
+Benz2114 posts small blind [0,01 $]
+FreezerPizza posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 8Kreuz ]
+Excalibur17 folds
+Tobicro calls [0,02 $]
+Burtom0 raises [0,04 $]
+Herthafan59 folds
+RamanMirka calls [0,04 $]
+B2B_Suckouts folds
+Pijhen folds
+Benz2114 folds
+FreezerPizza folds
+Tobicro calls [0,02 $]
+** Dealing flop ** [ 5Herz, QKaro, 4Herz ]
+Tobicro checks
+Burtom0 checks
+RamanMirka checks
+** Dealing turn ** [ JHerz ]
+Tobicro bets [0,04 $]
+Burtom0 folds
+RamanMirka folds
+** Summary **
+Tobicro did not show his hand
+Tobicro collected [ 0,15 $ ]
+
+
+
+#Game No : 631692836
+***** 888poker Hand History for Game 631692836 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 22:07:43
+Table Terni 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: FreezerPizza ( 2,18 $ )
+Seat 2: Excalibur17 ( 3,16 $ )
+Seat 3: Tobicro ( 2,71 $ )
+Seat 4: Burtom0 ( 1,97 $ )
+Seat 5: Herthafan59 ( 2,01 $ )
+Seat 6: RamanMirka ( 0,89 $ )
+Seat 7: B2B_Suckouts ( 2,27 $ )
+Seat 9: Pijhen ( 0,88 $ )
+Seat 10: Benz2114 ( 1,46 $ )
+FreezerPizza posts small blind [0,01 $]
+Excalibur17 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 4Herz ]
+Tobicro raises [0,06 $]
+Burtom0 folds
+Herthafan59 calls [0,06 $]
+RamanMirka calls [0,06 $]
+B2B_Suckouts folds
+Pijhen folds
+Benz2114 folds
+FreezerPizza folds
+Excalibur17 folds
+** Dealing flop ** [ AKreuz, QHerz, 3Herz ]
+Tobicro checks
+Herthafan59 checks
+RamanMirka checks
+** Dealing turn ** [ 10Kreuz ]
+Tobicro bets [0,08 $]
+Herthafan59 calls [0,08 $]
+RamanMirka calls [0,08 $]
+** Dealing river ** [ QKreuz ]
+Tobicro checks
+Herthafan59 checks
+RamanMirka checks
+** Summary **
+Tobicro shows [ JKaro, JPik ]
+Herthafan59 shows [ 10Karo, QPik ]
+RamanMirka mucks [ 8Herz, KHerz ]
+Herthafan59 collected [ 0,43 $ ]
+
+
+
+#Game No : 631692903
+***** 888poker Hand History for Game 631692903 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 22:09:06
+Table Terni 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: FreezerPizza ( 2,17 $ )
+Seat 2: Excalibur17 ( 3,14 $ )
+Seat 3: Tobicro ( 2,57 $ )
+Seat 4: Burtom0 ( 1,97 $ )
+Seat 5: Herthafan59 ( 2,30 $ )
+Seat 6: RamanMirka ( 0,75 $ )
+Seat 7: B2B_Suckouts ( 2,27 $ )
+Seat 9: Pijhen ( 0,88 $ )
+Seat 10: Benz2114 ( 1,46 $ )
+Excalibur17 posts small blind [0,01 $]
+Tobicro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 7Herz ]
+Burtom0 folds
+Herthafan59 folds
+RamanMirka calls [0,02 $]
+B2B_Suckouts folds
+Pijhen folds
+Benz2114 folds
+FreezerPizza folds
+Excalibur17 folds
+Tobicro checks
+** Dealing flop ** [ 7Pik, 3Pik, AHerz ]
+Tobicro checks
+RamanMirka checks
+** Dealing turn ** [ JKreuz ]
+Tobicro checks
+RamanMirka checks
+** Dealing river ** [ 7Kreuz ]
+Tobicro checks
+RamanMirka checks
+** Summary **
+Tobicro shows [ 10Karo, KHerz ]
+RamanMirka mucks [ 10Herz, 9Karo ]
+Tobicro collected [ 0,05 $ ]
+
+
+
+#Game No : 631692985
+***** 888poker Hand History for Game 631692985 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 22:10:33
+Table Terni 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: FreezerPizza ( 2,17 $ )
+Seat 2: Excalibur17 ( 3,13 $ )
+Seat 3: Tobicro ( 2,60 $ )
+Seat 4: Burtom0 ( 1,97 $ )
+Seat 5: Herthafan59 ( 2,30 $ )
+Seat 6: RamanMirka ( 0,73 $ )
+Seat 7: B2B_Suckouts ( 2,27 $ )
+Seat 9: Pijhen ( 0,88 $ )
+Seat 10: Benz2114 ( 1,46 $ )
+Tobicro posts small blind [0,01 $]
+Burtom0 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, AKaro ]
+Herthafan59 folds
+RamanMirka folds
+B2B_Suckouts raises [0,06 $]
+Pijhen folds
+Benz2114 calls [0,06 $]
+FreezerPizza folds
+Excalibur17 folds
+Tobicro folds
+Burtom0 folds
+** Dealing flop ** [ 5Herz, QKaro, 9Karo ]
+B2B_Suckouts bets [0,02 $]
+Benz2114 calls [0,02 $]
+** Dealing turn ** [ JHerz ]
+B2B_Suckouts bets [0,02 $]
+Benz2114 calls [0,02 $]
+** Dealing river ** [ APik ]
+B2B_Suckouts bets [0,20 $]
+Benz2114 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,22 $ ]
+
+
+
+#Game No : 631693057
+***** 888poker Hand History for Game 631693057 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 22:11:57
+Table Terni 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: FreezerPizza ( 2,17 $ )
+Seat 2: Excalibur17 ( 3,13 $ )
+Seat 3: Tobicro ( 2,59 $ )
+Seat 4: Burtom0 ( 1,95 $ )
+Seat 5: Herthafan59 ( 2,30 $ )
+Seat 6: RamanMirka ( 0,73 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: Pijhen ( 0,88 $ )
+Seat 10: Benz2114 ( 1,36 $ )
+Burtom0 posts small blind [0,01 $]
+Herthafan59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 7Herz ]
+RamanMirka folds
+B2B_Suckouts folds
+Pijhen folds
+Benz2114 raises [0,06 $]
+FreezerPizza folds
+Excalibur17 folds
+Tobicro folds
+Burtom0 folds
+Herthafan59 calls [0,04 $]
+** Dealing flop ** [ 2Pik, 6Kreuz, 10Herz ]
+Herthafan59 bets [0,08 $]
+Benz2114 calls [0,08 $]
+** Dealing turn ** [ 4Kreuz ]
+Herthafan59 checks
+Benz2114 checks
+** Dealing river ** [ 10Kreuz ]
+Herthafan59 checks
+Benz2114 checks
+** Summary **
+Herthafan59 shows [ 9Kreuz, 9Pik ]
+Benz2114 mucks [ QKaro, AKreuz ]
+Herthafan59 collected [ 0,28 $ ]
+
+
+
