@@ -1,0 +1,1615 @@
+#Game No : 1327997981
+***** 888poker Hand History for Game 1327997981 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:22:11
+Table Hat Yai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,04 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,43 $ )
+Seat 5: holdel ( 1,43 $ )
+Seat 6: sandbaggerhg ( 2,16 $ )
+Seat 7: surferdudeNS ( 2 $ )
+Seat 9: paparaziyvip ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+holdel posts small blind [0,01 $]
+sandbaggerhg posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, JKaro ]
+surferdudeNS folds
+paparaziyvip calls [0,02 $]
+B2B_Suckouts checks
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+holdel calls [0,01 $]
+sandbaggerhg checks
+** Dealing flop ** [ KHerz, 7Herz, 4Pik ]
+holdel checks
+sandbaggerhg bets [0,04 $]
+paparaziyvip folds
+B2B_Suckouts folds
+holdel folds
+** Summary **
+sandbaggerhg did not show his hand
+sandbaggerhg collected [ 0,08 $ ]
+
+
+
+#Game No : 1327998248
+***** 888poker Hand History for Game 1327998248 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:23:04
+Table Hat Yai 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,04 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,43 $ )
+Seat 5: holdel ( 1,41 $ )
+Seat 6: sandbaggerhg ( 2,22 $ )
+Seat 7: surferdudeNS ( 2 $ )
+Seat 9: paparaziyvip ( 0,72 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+sandbaggerhg posts small blind [0,01 $]
+surferdudeNS posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 9Pik ]
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin raises [0,05 $]
+holdel calls [0,05 $]
+sandbaggerhg calls [0,04 $]
+surferdudeNS folds
+** Dealing flop ** [ 8Karo, APik, 8Herz ]
+sandbaggerhg bets [0,02 $]
+Kotalin folds
+holdel folds
+** Summary **
+sandbaggerhg did not show his hand
+sandbaggerhg collected [ 0,16 $ ]
+
+
+
+#Game No : 1327998691
+***** 888poker Hand History for Game 1327998691 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:24:31
+Table Hat Yai 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,04 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,38 $ )
+Seat 5: holdel ( 1,36 $ )
+Seat 6: sandbaggerhg ( 2,33 $ )
+Seat 7: surferdudeNS ( 2 $ )
+Seat 9: paparaziyvip ( 0,72 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+surferdudeNS posts small blind [0,01 $]
+paparaziyvip posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, JHerz ]
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud raises [0,07 $]
+Imlucky88 folds
+Kotalin folds
+holdel folds
+sandbaggerhg folds
+surferdudeNS folds
+paparaziyvip folds
+** Summary **
+algrud did not show his hand
+algrud collected [ 0,05 $ ]
+
+
+
+#Game No : 1327998915
+***** 888poker Hand History for Game 1327998915 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:25:14
+Table Hat Yai 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,04 $ )
+Seat 2: algrud ( 2,03 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,38 $ )
+Seat 5: holdel ( 1,36 $ )
+Seat 6: sandbaggerhg ( 2,33 $ )
+Seat 7: surferdudeNS ( 2 $ )
+Seat 9: paparaziyvip ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+paparaziyvip posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, JKreuz ]
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+holdel folds
+sandbaggerhg raises [0,04 $]
+surferdudeNS folds
+paparaziyvip calls [0,03 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ APik, QKreuz, 5Herz ]
+paparaziyvip checks
+B2B_Suckouts checks
+sandbaggerhg bets [0,06 $]
+paparaziyvip folds
+B2B_Suckouts folds
+** Summary **
+sandbaggerhg did not show his hand
+sandbaggerhg collected [ 0,12 $ ]
+
+
+
+#Game No : 1327999205
+***** 888poker Hand History for Game 1327999205 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:26:08
+Table Hat Yai 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,04 $ )
+Seat 2: algrud ( 2,03 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,38 $ )
+Seat 5: holdel ( 1,36 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 7: surferdudeNS ( 2 $ )
+Seat 9: paparaziyvip ( 0,66 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+NiceToBeatU2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 3Herz ]
+algrud folds
+Imlucky88 folds
+Kotalin folds
+holdel folds
+sandbaggerhg raises [0,04 $]
+surferdudeNS calls [0,04 $]
+paparaziyvip calls [0,04 $]
+B2B_Suckouts folds
+NiceToBeatU2 raises [0,26 $]
+sandbaggerhg folds
+surferdudeNS folds
+paparaziyvip folds
+** Summary **
+NiceToBeatU2 did not show his hand
+NiceToBeatU2 collected [ 0,17 $ ]
+
+
+
+#Game No : 1327999478
+***** 888poker Hand History for Game 1327999478 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:26:58
+Table Hat Yai 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,17 $ )
+Seat 2: algrud ( 2,03 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,38 $ )
+Seat 5: holdel ( 1,36 $ )
+Seat 6: sandbaggerhg ( 2,37 $ )
+Seat 7: surferdudeNS ( 2 $ )
+Seat 9: paparaziyvip ( 0,62 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+NiceToBeatU2 posts small blind [0,01 $]
+algrud posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 2Pik ]
+Imlucky88 folds
+Kotalin folds
+holdel folds
+sandbaggerhg folds
+surferdudeNS raises [0,06 $]
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+** Summary **
+surferdudeNS did not show his hand
+surferdudeNS collected [ 0,05 $ ]
+
+
+
+#Game No : 1327999620
+***** 888poker Hand History for Game 1327999620 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:27:26
+Table Hat Yai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,16 $ )
+Seat 2: algrud ( 2,01 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,38 $ )
+Seat 5: holdel ( 1,36 $ )
+Seat 6: sandbaggerhg ( 2,37 $ )
+Seat 7: surferdudeNS ( 2,03 $ )
+Seat 9: paparaziyvip ( 0,62 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+algrud posts small blind [0,01 $]
+Imlucky88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 10Karo ]
+Kotalin folds
+holdel folds
+sandbaggerhg folds
+surferdudeNS folds
+paparaziyvip folds
+B2B_Suckouts raises [0,06 $]
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 1327999805
+***** 888poker Hand History for Game 1327999805 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:28:01
+Table Hat Yai 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,16 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,38 $ )
+Seat 5: holdel ( 1,36 $ )
+Seat 6: sandbaggerhg ( 2,37 $ )
+Seat 7: surferdudeNS ( 2,03 $ )
+Seat 9: paparaziyvip ( 0,62 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+Imlucky88 posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, QKaro ]
+holdel folds
+sandbaggerhg folds
+surferdudeNS folds
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 raises [0,04 $]
+Kotalin folds
+** Summary **
+Imlucky88 did not show his hand
+Imlucky88 collected [ 0,04 $ ]
+
+
+
+#Game No : 1327999960
+***** 888poker Hand History for Game 1327999960 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:28:27
+Table Hat Yai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,16 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2,02 $ )
+Seat 4: Kotalin ( 2,36 $ )
+Seat 5: holdel ( 1,36 $ )
+Seat 6: sandbaggerhg ( 2,37 $ )
+Seat 7: surferdudeNS ( 2,03 $ )
+Seat 9: paparaziyvip ( 0,62 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+Kotalin posts small blind [0,01 $]
+holdel posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, QHerz ]
+sandbaggerhg folds
+surferdudeNS calls [0,02 $]
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 raises [0,08 $]
+Kotalin folds
+holdel folds
+surferdudeNS folds
+** Summary **
+Imlucky88 did not show his hand
+Imlucky88 collected [ 0,07 $ ]
+
+
+
+#Game No : 1328000165
+***** 888poker Hand History for Game 1328000165 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:29:06
+Table Hat Yai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,16 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2,07 $ )
+Seat 4: Kotalin ( 2,35 $ )
+Seat 5: holdel ( 1,34 $ )
+Seat 6: sandbaggerhg ( 2,37 $ )
+Seat 7: surferdudeNS ( 2,01 $ )
+Seat 9: paparaziyvip ( 0,62 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+holdel posts small blind [0,01 $]
+sandbaggerhg posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 6Kreuz ]
+surferdudeNS folds
+paparaziyvip raises [0,05 $]
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+holdel folds
+sandbaggerhg calls [0,03 $]
+** Dealing flop ** [ 5Pik, 4Karo, 6Karo ]
+sandbaggerhg checks
+paparaziyvip checks
+** Dealing turn ** [ KHerz ]
+sandbaggerhg checks
+paparaziyvip bets [0,05 $]
+sandbaggerhg calls [0,05 $]
+** Dealing river ** [ QHerz ]
+sandbaggerhg checks
+paparaziyvip bets [0,06 $]
+sandbaggerhg calls [0,06 $]
+** Summary **
+paparaziyvip shows [ AKreuz, KKreuz ]
+sandbaggerhg mucks [ QPik, 3Pik ]
+paparaziyvip collected [ 0,31 $ ]
+
+
+
+#Game No : 1328000475
+***** 888poker Hand History for Game 1328000475 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:30:05
+Table Hat Yai 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,16 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2,07 $ )
+Seat 4: Kotalin ( 2,35 $ )
+Seat 5: holdel ( 1,33 $ )
+Seat 6: sandbaggerhg ( 2,21 $ )
+Seat 7: surferdudeNS ( 2,01 $ )
+Seat 9: paparaziyvip ( 0,77 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+sandbaggerhg posts small blind [0,01 $]
+surferdudeNS posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 2Herz ]
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+holdel folds
+sandbaggerhg folds
+** Summary **
+surferdudeNS did not show his hand
+surferdudeNS collected [ 0,03 $ ]
+
+
+
+#Game No : 1328000559
+***** 888poker Hand History for Game 1328000559 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:30:21
+Table Hat Yai 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,16 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2,07 $ )
+Seat 4: Kotalin ( 2,35 $ )
+Seat 5: holdel ( 1,33 $ )
+Seat 6: sandbaggerhg ( 2,20 $ )
+Seat 7: surferdudeNS ( 2,02 $ )
+Seat 9: paparaziyvip ( 0,77 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+surferdudeNS posts small blind [0,01 $]
+paparaziyvip posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 9Kreuz ]
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin raises [0,05 $]
+holdel folds
+sandbaggerhg folds
+surferdudeNS folds
+paparaziyvip folds
+** Summary **
+Kotalin did not show his hand
+Kotalin collected [ 0,05 $ ]
+
+
+
+#Game No : 1328000710
+***** 888poker Hand History for Game 1328000710 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:30:50
+Table Hat Yai 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,16 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2,07 $ )
+Seat 4: Kotalin ( 2,38 $ )
+Seat 5: holdel ( 1,33 $ )
+Seat 6: sandbaggerhg ( 2,20 $ )
+Seat 7: surferdudeNS ( 2,01 $ )
+Seat 9: paparaziyvip ( 0,75 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+paparaziyvip posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 2Karo ]
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+holdel folds
+sandbaggerhg folds
+surferdudeNS folds
+paparaziyvip calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 10Karo, 9Karo, 4Herz ]
+paparaziyvip checks
+B2B_Suckouts checks
+** Dealing turn ** [ 6Karo ]
+paparaziyvip checks
+B2B_Suckouts bets [0,02 $]
+paparaziyvip folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 1328000968
+***** 888poker Hand History for Game 1328000968 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:31:40
+Table Hat Yai 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,16 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2,07 $ )
+Seat 4: Kotalin ( 2,38 $ )
+Seat 5: holdel ( 1,33 $ )
+Seat 6: sandbaggerhg ( 2,20 $ )
+Seat 7: surferdudeNS ( 2,01 $ )
+Seat 9: paparaziyvip ( 0,73 $ )
+Seat 10: B2B_Suckouts ( 2,05 $ )
+B2B_Suckouts posts small blind [0,01 $]
+NiceToBeatU2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, KHerz ]
+algrud folds
+Imlucky88 folds
+Kotalin folds
+holdel folds
+sandbaggerhg calls [0,02 $]
+surferdudeNS folds
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 checks
+** Dealing flop ** [ AKreuz, JKreuz, 5Pik ]
+NiceToBeatU2 checks
+sandbaggerhg bets [0,02 $]
+NiceToBeatU2 folds
+** Summary **
+sandbaggerhg did not show his hand
+sandbaggerhg collected [ 0,05 $ ]
+
+
+
+#Game No : 1328001200
+***** 888poker Hand History for Game 1328001200 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:32:25
+Table Hat Yai 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,14 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2,07 $ )
+Seat 4: Kotalin ( 2,38 $ )
+Seat 5: holdel ( 1,33 $ )
+Seat 6: sandbaggerhg ( 2,23 $ )
+Seat 7: surferdudeNS ( 2,01 $ )
+Seat 9: paparaziyvip ( 0,73 $ )
+Seat 10: B2B_Suckouts ( 2,04 $ )
+NiceToBeatU2 posts small blind [0,01 $]
+algrud posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 6Karo ]
+Imlucky88 raises [0,06 $]
+Kotalin calls [0,06 $]
+holdel calls [0,06 $]
+sandbaggerhg folds
+surferdudeNS folds
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+** Dealing flop ** [ 2Karo, 10Pik, 7Kreuz ]
+Imlucky88 checks
+Kotalin bets [0,14 $]
+holdel folds
+Imlucky88 folds
+** Summary **
+Kotalin did not show his hand
+Kotalin collected [ 0,20 $ ]
+
+
+
+#Game No : 1328001499
+***** 888poker Hand History for Game 1328001499 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:33:21
+Table Hat Yai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,13 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2,01 $ )
+Seat 4: Kotalin ( 2,52 $ )
+Seat 5: holdel ( 1,27 $ )
+Seat 6: sandbaggerhg ( 2,23 $ )
+Seat 7: surferdudeNS ( 2,01 $ )
+Seat 9: paparaziyvip ( 0,73 $ )
+Seat 10: B2B_Suckouts ( 2,04 $ )
+algrud posts small blind [0,01 $]
+Imlucky88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 2Kreuz ]
+Kotalin folds
+holdel folds
+sandbaggerhg folds
+surferdudeNS folds
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud raises [0,03 $]
+Imlucky88 folds
+** Summary **
+algrud did not show his hand
+algrud collected [ 0,04 $ ]
+
+
+
+#Game No : 1328001640
+***** 888poker Hand History for Game 1328001640 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:33:48
+Table Hat Yai 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,13 $ )
+Seat 2: algrud ( 2,02 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,52 $ )
+Seat 5: holdel ( 1,27 $ )
+Seat 6: sandbaggerhg ( 2,23 $ )
+Seat 7: surferdudeNS ( 2,01 $ )
+Seat 9: paparaziyvip ( 0,73 $ )
+Seat 10: B2B_Suckouts ( 2,04 $ )
+Imlucky88 posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 4Herz ]
+holdel folds
+sandbaggerhg folds
+surferdudeNS calls [0,02 $]
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 raises [0,06 $]
+algrud folds
+Imlucky88 folds
+Kotalin folds
+surferdudeNS calls [0,04 $]
+** Dealing flop ** [ KKreuz, APik, AKaro ]
+surferdudeNS checks
+NiceToBeatU2 bets [0,05 $]
+surferdudeNS folds
+** Summary **
+NiceToBeatU2 did not show his hand
+NiceToBeatU2 collected [ 0,15 $ ]
+
+
+
+#Game No : 1328002336
+***** 888poker Hand History for Game 1328002336 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:35:57
+Table Hat Yai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: NiceToBeatU2 ( 3,22 $ )
+Seat 2: algrud ( 2,02 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,50 $ )
+Seat 6: sandbaggerhg ( 2,23 $ )
+Seat 9: paparaziyvip ( 0,73 $ )
+Seat 10: B2B_Suckouts ( 2,04 $ )
+Kotalin posts small blind [0,01 $]
+sandbaggerhg posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, JHerz ]
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+** Summary **
+sandbaggerhg collected [ 0,03 $ ]
+
+
+
+#Game No : 1328002395
+***** 888poker Hand History for Game 1328002395 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:36:09
+Table Hat Yai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: NiceToBeatU2 ( 3,22 $ )
+Seat 2: algrud ( 2,02 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,49 $ )
+Seat 6: sandbaggerhg ( 2,24 $ )
+Seat 9: paparaziyvip ( 0,73 $ )
+Seat 10: B2B_Suckouts ( 2,04 $ )
+sandbaggerhg posts small blind [0,01 $]
+paparaziyvip posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 7Kreuz ]
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud raises [0,06 $]
+Imlucky88 folds
+Kotalin folds
+sandbaggerhg calls [0,05 $]
+paparaziyvip folds
+** Dealing flop ** [ 10Kreuz, 9Herz, 6Karo ]
+sandbaggerhg checks
+algrud checks
+** Dealing turn ** [ 8Kreuz ]
+sandbaggerhg bets [0,07 $]
+algrud folds
+** Summary **
+sandbaggerhg collected [ 0,14 $ ]
+
+
+
+#Game No : 1328002564
+***** 888poker Hand History for Game 1328002564 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:36:40
+Table Hat Yai 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: NiceToBeatU2 ( 3,22 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,49 $ )
+Seat 6: sandbaggerhg ( 2,32 $ )
+Seat 9: paparaziyvip ( 0,71 $ )
+Seat 10: B2B_Suckouts ( 2,04 $ )
+paparaziyvip posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, QKaro ]
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+sandbaggerhg folds
+paparaziyvip folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 1328002637
+***** 888poker Hand History for Game 1328002637 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:36:54
+Table Hat Yai 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: NiceToBeatU2 ( 3,22 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,49 $ )
+Seat 6: sandbaggerhg ( 2,32 $ )
+Seat 9: paparaziyvip ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 2,05 $ )
+B2B_Suckouts posts small blind [0,01 $]
+NiceToBeatU2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 5Herz ]
+algrud folds
+Imlucky88 folds
+Kotalin folds
+sandbaggerhg folds
+paparaziyvip folds
+B2B_Suckouts raises [0,03 $]
+NiceToBeatU2 calls [0,02 $]
+** Dealing flop ** [ 8Karo, 3Herz, 4Herz ]
+B2B_Suckouts bets [0,04 $]
+NiceToBeatU2 raises [0,12 $]
+B2B_Suckouts folds
+** Summary **
+NiceToBeatU2 collected [ 0,15 $ ]
+
+
+
+#Game No : 1328002936
+***** 888poker Hand History for Game 1328002936 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:37:50
+Table Hat Yai 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: NiceToBeatU2 ( 3,29 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,49 $ )
+Seat 6: sandbaggerhg ( 2,32 $ )
+Seat 9: paparaziyvip ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+NiceToBeatU2 posts small blind [0,01 $]
+algrud posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, APik ]
+Imlucky88 folds
+Kotalin folds
+sandbaggerhg raises [0,06 $]
+paparaziyvip folds
+B2B_Suckouts calls [0,06 $]
+NiceToBeatU2 folds
+algrud folds
+** Dealing flop ** [ 5Karo, 9Pik, 9Kreuz ]
+sandbaggerhg bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+sandbaggerhg collected [ 0,15 $ ]
+
+
+
+#Game No : 1328003274
+***** 888poker Hand History for Game 1328003274 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:38:55
+Table Hat Yai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: NiceToBeatU2 ( 3,28 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,49 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 9: paparaziyvip ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+algrud posts small blind [0,01 $]
+Imlucky88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, JKaro ]
+Kotalin folds
+sandbaggerhg folds
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+** Summary **
+Imlucky88 collected [ 0,03 $ ]
+
+
+
+#Game No : 1328003367
+***** 888poker Hand History for Game 1328003367 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:39:12
+Table Hat Yai 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: NiceToBeatU2 ( 3,28 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2,01 $ )
+Seat 4: Kotalin ( 2,49 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 9: paparaziyvip ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Imlucky88 posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 8Pik ]
+sandbaggerhg folds
+paparaziyvip folds
+B2B_Suckouts raises [0,06 $]
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin calls [0,04 $]
+** Dealing flop ** [ KKreuz, 2Pik, 4Kreuz ]
+Kotalin checks
+B2B_Suckouts bets [0,04 $]
+Kotalin calls [0,04 $]
+** Dealing turn ** [ 3Karo ]
+Kotalin checks
+B2B_Suckouts bets [0,06 $]
+Kotalin calls [0,06 $]
+** Dealing river ** [ JPik ]
+Kotalin checks
+B2B_Suckouts bets [0,10 $]
+Kotalin folds
+** Summary **
+B2B_Suckouts collected [ 0,31 $ ]
+
+
+
+#Game No : 1328003641
+***** 888poker Hand History for Game 1328003641 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:40:06
+Table Hat Yai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: NiceToBeatU2 ( 3,28 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,33 $ )
+Seat 5: asus59 ( 0,80 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 9: paparaziyvip ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 2,15 $ )
+Kotalin posts small blind [0,01 $]
+asus59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 6Herz ]
+sandbaggerhg raises [0,06 $]
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+** Summary **
+sandbaggerhg collected [ 0,05 $ ]
+
+
+
+#Game No : 1328003784
+***** 888poker Hand History for Game 1328003784 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:40:32
+Table Hat Yai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: NiceToBeatU2 ( 3,28 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,32 $ )
+Seat 5: asus59 ( 0,78 $ )
+Seat 6: sandbaggerhg ( 2,44 $ )
+Seat 9: paparaziyvip ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 2,15 $ )
+asus59 posts small blind [0,01 $]
+sandbaggerhg posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 8Herz ]
+paparaziyvip calls [0,02 $]
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+asus59 raises [0,07 $]
+sandbaggerhg folds
+paparaziyvip folds
+** Summary **
+asus59 collected [ 0,06 $ ]
+
+
+
+#Game No : 1328003891
+***** 888poker Hand History for Game 1328003891 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:40:52
+Table Hat Yai 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,28 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,32 $ )
+Seat 5: asus59 ( 0,82 $ )
+Seat 6: sandbaggerhg ( 2,42 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,68 $ )
+Seat 10: B2B_Suckouts ( 2,15 $ )
+sandbaggerhg posts small blind [0,01 $]
+Msgt500 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 5Karo ]
+paparaziyvip folds
+B2B_Suckouts folds
+NiceToBeatU2 raises [0,05 $]
+algrud calls [0,05 $]
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+sandbaggerhg folds
+Msgt500 folds
+** Dealing flop ** [ 8Karo, APik, AKreuz ]
+NiceToBeatU2 bets [0,04 $]
+algrud calls [0,04 $]
+** Dealing turn ** [ 4Pik ]
+NiceToBeatU2 checks
+algrud checks
+** Dealing river ** [ 6Kreuz ]
+NiceToBeatU2 checks
+algrud checks
+** Summary **
+NiceToBeatU2 shows [ JKaro, KKaro ]
+algrud shows [ 9Kreuz, 9Herz ]
+algrud collected [ 0,20 $ ]
+
+
+
+#Game No : 1328004268
+***** 888poker Hand History for Game 1328004268 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:41:57
+Table Hat Yai 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,19 $ )
+Seat 2: algrud ( 2,11 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,32 $ )
+Seat 5: asus59 ( 0,82 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,68 $ )
+Seat 10: B2B_Suckouts ( 2,15 $ )
+Msgt500 posts small blind [0,01 $]
+paparaziyvip posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 10Herz ]
+B2B_Suckouts folds
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+sandbaggerhg folds
+Msgt500 folds
+** Summary **
+paparaziyvip did not show his hand
+paparaziyvip collected [ 0,03 $ ]
+
+
+
+#Game No : 1328004377
+***** 888poker Hand History for Game 1328004377 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:42:19
+Table Hat Yai 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,19 $ )
+Seat 2: algrud ( 2,11 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,32 $ )
+Seat 5: asus59 ( 0,82 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,69 $ )
+Seat 10: B2B_Suckouts ( 2,15 $ )
+paparaziyvip posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 9Karo ]
+NiceToBeatU2 folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+sandbaggerhg folds
+Msgt500 folds
+paparaziyvip folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 1328004492
+***** 888poker Hand History for Game 1328004492 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:42:40
+Table Hat Yai 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: NiceToBeatU2 ( 3,19 $ )
+Seat 2: algrud ( 2,11 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,32 $ )
+Seat 5: asus59 ( 0,82 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,68 $ )
+Seat 10: B2B_Suckouts ( 2,16 $ )
+B2B_Suckouts posts small blind [0,01 $]
+NiceToBeatU2 folds
+algrud posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, APik ]
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+sandbaggerhg folds
+Msgt500 calls [0,02 $]
+paparaziyvip folds
+B2B_Suckouts raises [0,03 $]
+algrud calls [0,02 $]
+Msgt500 calls [0,02 $]
+** Dealing flop ** [ 5Karo, QKaro, QPik ]
+B2B_Suckouts bets [0,06 $]
+algrud calls [0,06 $]
+Msgt500 folds
+** Dealing turn ** [ 9Herz ]
+B2B_Suckouts checks
+algrud bets [0,16 $]
+B2B_Suckouts calls [0,16 $]
+** Dealing river ** [ 10Pik ]
+B2B_Suckouts checks
+algrud checks
+** Summary **
+B2B_Suckouts shows [ 7Herz, APik ]
+algrud shows [ 6Karo, 6Pik ]
+algrud collected [ 0,53 $ ]
+
+
+
+#Game No : 1328004865
+***** 888poker Hand History for Game 1328004865 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:43:49
+Table Hat Yai 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: algrud ( 2,38 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,32 $ )
+Seat 5: asus59 ( 0,82 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,68 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+algrud posts small blind [0,01 $]
+Imlucky88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 7Herz ]
+Kotalin folds
+asus59 raises [0,04 $]
+sandbaggerhg folds
+Msgt500 folds
+paparaziyvip calls [0,04 $]
+B2B_Suckouts calls [0,04 $]
+algrud folds
+Imlucky88 folds
+** Dealing flop ** [ 7Karo, 4Karo, 10Pik ]
+asus59 checks
+paparaziyvip checks
+B2B_Suckouts bets [0,07 $]
+asus59 folds
+paparaziyvip folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 1328005133
+***** 888poker Hand History for Game 1328005133 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:44:41
+Table Hat Yai 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Human_Calc ( 2 $ )
+Seat 2: algrud ( 2,37 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,32 $ )
+Seat 5: asus59 ( 0,78 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,64 $ )
+Seat 10: B2B_Suckouts ( 2,11 $ )
+Imlucky88 posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+Human_Calc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, JPik ]
+asus59 folds
+sandbaggerhg folds
+Msgt500 raises [0,06 $]
+paparaziyvip folds
+B2B_Suckouts raises [0,24 $]
+Human_Calc folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+Msgt500 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,17 $ ]
+
+
+
+#Game No : 1328005408
+***** 888poker Hand History for Game 1328005408 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:45:31
+Table Hat Yai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Human_Calc ( 1,98 $ )
+Seat 2: algrud ( 2,37 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,30 $ )
+Seat 5: asus59 ( 0,78 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,64 $ )
+Seat 10: B2B_Suckouts ( 2,22 $ )
+Kotalin posts small blind [0,01 $]
+asus59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 6Herz ]
+sandbaggerhg folds
+Msgt500 folds
+paparaziyvip folds
+B2B_Suckouts folds
+Human_Calc folds
+algrud folds
+Imlucky88 raises [0,05 $]
+Kotalin folds
+asus59 calls [0,03 $]
+** Dealing flop ** [ JKreuz, 9Pik, 5Kreuz ]
+asus59 checks
+Imlucky88 bets [0,06 $]
+asus59 folds
+** Summary **
+Imlucky88 did not show his hand
+Imlucky88 collected [ 0,11 $ ]
+
+
+
+#Game No : 1328005678
+***** 888poker Hand History for Game 1328005678 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:46:23
+Table Hat Yai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Human_Calc ( 1,98 $ )
+Seat 2: algrud ( 2,37 $ )
+Seat 3: Imlucky88 ( 2,06 $ )
+Seat 4: Kotalin ( 2,29 $ )
+Seat 5: asus59 ( 0,73 $ )
+Seat 6: sandbaggerhg ( 2,41 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,64 $ )
+Seat 10: B2B_Suckouts ( 2,22 $ )
+asus59 posts small blind [0,01 $]
+sandbaggerhg posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, JKaro ]
+Msgt500 folds
+paparaziyvip folds
+B2B_Suckouts folds
+Human_Calc folds
+algrud folds
+Imlucky88 raises [0,05 $]
+Kotalin raises [0,18 $]
+asus59 folds
+sandbaggerhg folds
+Imlucky88 folds
+** Summary **
+Kotalin did not show his hand
+Kotalin collected [ 0,13 $ ]
+
+
+
+#Game No : 1328005937
+***** 888poker Hand History for Game 1328005937 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:47:10
+Table Hat Yai 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Human_Calc ( 1,98 $ )
+Seat 2: algrud ( 2,37 $ )
+Seat 3: Imlucky88 ( 2,01 $ )
+Seat 4: Kotalin ( 2,37 $ )
+Seat 5: asus59 ( 0,72 $ )
+Seat 6: sandbaggerhg ( 2,39 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,64 $ )
+Seat 10: B2B_Suckouts ( 2,22 $ )
+sandbaggerhg posts small blind [0,01 $]
+Msgt500 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 8Karo ]
+paparaziyvip calls [0,02 $]
+B2B_Suckouts folds
+Human_Calc folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+sandbaggerhg raises [0,11 $]
+Msgt500 calls [0,10 $]
+paparaziyvip folds
+** Dealing flop ** [ 3Herz, APik, JHerz ]
+sandbaggerhg checks
+Msgt500 checks
+** Dealing turn ** [ 5Karo ]
+sandbaggerhg checks
+Msgt500 checks
+** Dealing river ** [ AKaro ]
+sandbaggerhg checks
+Msgt500 checks
+** Summary **
+sandbaggerhg shows [ QPik, QKreuz ]
+Msgt500 mucks [ JKreuz, 9Kreuz ]
+sandbaggerhg collected [ 0,25 $ ]
+
+
+
+#Game No : 1328006470
+***** 888poker Hand History for Game 1328006470 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:48:48
+Table Hat Yai 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Human_Calc ( 1,98 $ )
+Seat 2: algrud ( 2,37 $ )
+Seat 3: Imlucky88 ( 2,01 $ )
+Seat 4: Kotalin ( 2,37 $ )
+Seat 5: asus59 ( 0,72 $ )
+Seat 6: sandbaggerhg ( 2,52 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,62 $ )
+Seat 10: B2B_Suckouts ( 2,22 $ )
+Msgt500 posts small blind [0,01 $]
+paparaziyvip posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 3Pik ]
+B2B_Suckouts folds
+Human_Calc raises [0,06 $]
+algrud folds
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+sandbaggerhg calls [0,06 $]
+Msgt500 folds
+paparaziyvip folds
+** Dealing flop ** [ 2Karo, 7Pik, 9Herz ]
+Human_Calc checks
+sandbaggerhg bets [0,07 $]
+Human_Calc calls [0,07 $]
+** Dealing turn ** [ 9Kreuz ]
+Human_Calc checks
+sandbaggerhg bets [0,14 $]
+Human_Calc folds
+** Summary **
+sandbaggerhg did not show his hand
+sandbaggerhg collected [ 0,28 $ ]
+
+
+
+#Game No : 1328006764
+***** 888poker Hand History for Game 1328006764 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:49:44
+Table Hat Yai 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Human_Calc ( 1,85 $ )
+Seat 2: algrud ( 2,37 $ )
+Seat 3: Imlucky88 ( 2,01 $ )
+Seat 4: Kotalin ( 2,37 $ )
+Seat 5: asus59 ( 0,72 $ )
+Seat 6: sandbaggerhg ( 2,67 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 9: paparaziyvip ( 0,60 $ )
+Seat 10: B2B_Suckouts ( 2,22 $ )
+paparaziyvip posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 2Karo ]
+Human_Calc folds
+algrud folds
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+sandbaggerhg folds
+Msgt500 calls [0,02 $]
+paparaziyvip folds
+B2B_Suckouts checks
+** Dealing flop ** [ 5Herz, KKaro, 7Pik ]
+B2B_Suckouts checks
+Msgt500 bets [0,02 $]
+B2B_Suckouts folds
+** Summary **
+Msgt500 did not show his hand
+Msgt500 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328007422
+***** 888poker Hand History for Game 1328007422 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:51:45
+Table Hat Yai 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Human_Calc ( 1,85 $ )
+Seat 2: algrud ( 2,37 $ )
+Seat 3: Imlucky88 ( 2,01 $ )
+Seat 4: Kotalin ( 2,37 $ )
+Seat 5: asus59 ( 0,72 $ )
+Seat 6: sandbaggerhg ( 2,67 $ )
+Seat 7: Msgt500 ( 2,03 $ )
+Seat 9: paparaziyvip ( 0,59 $ )
+Seat 10: B2B_Suckouts ( 2,20 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Human_Calc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, AKreuz ]
+algrud folds
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+sandbaggerhg folds
+Msgt500 raises [0,06 $]
+paparaziyvip folds
+B2B_Suckouts raises [0,17 $]
+Human_Calc folds
+Msgt500 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 1328007672
+***** 888poker Hand History for Game 1328007672 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:52:28
+Table Hat Yai 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Human_Calc ( 1,83 $ )
+Seat 2: algrud ( 2,37 $ )
+Seat 3: Imlucky88 ( 2,01 $ )
+Seat 4: Kotalin ( 2,37 $ )
+Seat 5: asus59 ( 0,72 $ )
+Seat 6: sandbaggerhg ( 2,67 $ )
+Seat 7: Msgt500 ( 2 $ )
+Seat 10: B2B_Suckouts ( 2,28 $ )
+Human_Calc posts small blind [0,01 $]
+algrud posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 6Pik ]
+Imlucky88 folds
+Kotalin folds
+asus59 raises [0,07 $]
+sandbaggerhg folds
+Msgt500 calls [0,07 $]
+B2B_Suckouts folds
+Human_Calc calls [0,06 $]
+algrud folds
+** Dealing flop ** [ KKaro, 2Karo, JKaro ]
+Human_Calc checks
+asus59 checks
+Msgt500 bets [0,15 $]
+Human_Calc folds
+asus59 folds
+** Summary **
+Msgt500 did not show his hand
+Msgt500 collected [ 0,22 $ ]
+
+
+
+#Game No : 1328007946
+***** 888poker Hand History for Game 1328007946 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:53:21
+Table Hat Yai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Human_Calc ( 1,76 $ )
+Seat 2: algrud ( 2,35 $ )
+Seat 3: Imlucky88 ( 2,01 $ )
+Seat 4: Kotalin ( 2,37 $ )
+Seat 5: asus59 ( 0,65 $ )
+Seat 6: sandbaggerhg ( 2,67 $ )
+Seat 7: Msgt500 ( 2,15 $ )
+Seat 10: B2B_Suckouts ( 2,28 $ )
+algrud posts small blind [0,01 $]
+Imlucky88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, AKaro ]
+Kotalin raises [0,05 $]
+asus59 folds
+sandbaggerhg folds
+Msgt500 raises [0,15 $]
+B2B_Suckouts folds
+Human_Calc folds
+algrud folds
+Imlucky88 folds
+Kotalin calls [0,10 $]
+** Dealing flop ** [ 10Herz, JPik, 7Karo ]
+Kotalin checks
+Msgt500 bets [0,16 $]
+Kotalin folds
+** Summary **
+Msgt500 did not show his hand
+Msgt500 collected [ 0,31 $ ]
+
+
+
+#Game No : 1328008175
+***** 888poker Hand History for Game 1328008175 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:54:05
+Table Hat Yai 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Human_Calc ( 1,76 $ )
+Seat 2: algrud ( 2,34 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,22 $ )
+Seat 5: asus59 ( 0,65 $ )
+Seat 6: sandbaggerhg ( 2,67 $ )
+Seat 7: Msgt500 ( 2,31 $ )
+Seat 10: B2B_Suckouts ( 2,28 $ )
+Imlucky88 posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 5Pik ]
+asus59 folds
+sandbaggerhg folds
+Msgt500 raises [0,06 $]
+B2B_Suckouts folds
+Human_Calc folds
+algrud calls [0,06 $]
+Imlucky88 folds
+Kotalin folds
+** Dealing flop ** [ 5Kreuz, 3Kreuz, 5Karo ]
+Msgt500 checks
+algrud checks
+** Dealing turn ** [ JKreuz ]
+Msgt500 bets [0,09 $]
+algrud raises [0,22 $]
+Msgt500 calls [0,13 $]
+** Dealing river ** [ 9Pik ]
+Msgt500 checks
+algrud checks
+** Summary **
+Msgt500 shows [ AHerz, JKaro ]
+algrud mucks [ KKreuz, JHerz ]
+Msgt500 collected [ 0,56 $ ]
+
+
+
+#Game No : 1328008598
+***** 888poker Hand History for Game 1328008598 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:55:23
+Table Hat Yai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Human_Calc ( 1,76 $ )
+Seat 2: algrud ( 2,06 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,20 $ )
+Seat 5: asus59 ( 0,65 $ )
+Seat 6: sandbaggerhg ( 2,67 $ )
+Seat 7: Msgt500 ( 2,59 $ )
+Seat 10: B2B_Suckouts ( 2,28 $ )
+Kotalin posts small blind [0,01 $]
+asus59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 3Kreuz ]
+sandbaggerhg folds
+Msgt500 folds
+B2B_Suckouts folds
+Human_Calc raises [0,08 $]
+algrud folds
+Imlucky88 folds
+Kotalin folds
+asus59 calls [0,06 $]
+** Dealing flop ** [ QHerz, 2Pik, KKreuz ]
+asus59 checks
+Human_Calc bets [0,11 $]
+asus59 folds
+** Summary **
+Human_Calc collected [ 0,16 $ ]
+
+
+
+#Game No : 1328008966
+***** 888poker Hand History for Game 1328008966 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:56:37
+Table Hat Yai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Human_Calc ( 1,84 $ )
+Seat 2: algrud ( 2,06 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,19 $ )
+Seat 5: asus59 ( 0,57 $ )
+Seat 6: SergeyVdovic ( 0,80 $ )
+Seat 7: Msgt500 ( 2,59 $ )
+Seat 10: B2B_Suckouts ( 2,28 $ )
+asus59 posts small blind [0,01 $]
+SergeyVdovic posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 4Pik ]
+Msgt500 folds
+B2B_Suckouts folds
+Human_Calc raises [0,08 $]
+algrud calls [0,08 $]
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+SergeyVdovic folds
+** Dealing flop ** [ 10Pik, KKreuz, 9Herz ]
+Human_Calc bets [0,09 $]
+algrud calls [0,09 $]
+** Dealing turn ** [ 3Kreuz ]
+Human_Calc bets [0,24 $]
+algrud folds
+** Summary **
+Human_Calc collected [ 0,35 $ ]
+
+
+
+#Game No : 1328009254
+***** 888poker Hand History for Game 1328009254 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 29 01 2020 20:57:32
+Table Hat Yai 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Human_Calc ( 2,02 $ )
+Seat 2: algrud ( 2 $ )
+Seat 3: Imlucky88 ( 2 $ )
+Seat 4: Kotalin ( 2,19 $ )
+Seat 5: asus59 ( 0,56 $ )
+Seat 6: SergeyVdovic ( 0,78 $ )
+Seat 7: Msgt500 ( 2,59 $ )
+Seat 10: B2B_Suckouts ( 2,28 $ )
+SergeyVdovic posts small blind [0,01 $]
+Msgt500 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, KKaro ]
+B2B_Suckouts folds
+Human_Calc calls [0,02 $]
+algrud folds
+Imlucky88 folds
+Kotalin folds
+asus59 folds
+SergeyVdovic calls [0,01 $]
+Msgt500 checks
+** Dealing flop ** [ JKaro, 8Karo, 2Karo ]
+SergeyVdovic bets [0,02 $]
+Msgt500 calls [0,02 $]
+Human_Calc folds
+** Dealing turn ** [ JKreuz ]
+SergeyVdovic checks
+Msgt500 bets [0,05 $]
+SergeyVdovic raises [0,10 $]
+Msgt500 calls [0,05 $]
+** Dealing river ** [ 3Kreuz ]
+SergeyVdovic bets [0,64 $]
+Msgt500 folds
+** Summary **
+SergeyVdovic collected [ 0,29 $ ]
+
+
+
