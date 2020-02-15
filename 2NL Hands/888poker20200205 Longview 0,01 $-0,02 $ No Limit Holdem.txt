@@ -1,0 +1,655 @@
+#Game No : 631278156
+***** 888poker Hand History for Game 631278156 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:33:11
+Table Longview 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: del202020 ( 1,23 $ )
+Seat 2: gjpa2704 ( 0,67 $ )
+Seat 3: gurgel99 ( 1,45 $ )
+Seat 4: ttottorro ( 1,97 $ )
+Seat 5: RiotRedguard ( 1,90 $ )
+Seat 6: SinisterKid ( 2,43 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 10: NikoArein14 ( 0,76 $ )
+SinisterKid posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 4Kreuz ]
+NikoArein14 raises [0,06 $]
+del202020 calls [0,06 $]
+gjpa2704 folds
+gurgel99 calls [0,06 $]
+ttottorro folds
+RiotRedguard folds
+SinisterKid calls [0,05 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 6Pik, 7Kreuz, 8Herz ]
+SinisterKid checks
+NikoArein14 checks
+del202020 checks
+gurgel99 checks
+** Dealing turn ** [ 2Pik ]
+SinisterKid bets [0,16 $]
+NikoArein14 folds
+del202020 folds
+gurgel99 folds
+** Summary **
+SinisterKid collected [ 0,25 $ ]
+
+
+
+#Game No : 631278224
+***** 888poker Hand History for Game 631278224 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:34:18
+Table Longview 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,17 $ )
+Seat 2: gjpa2704 ( 0,67 $ )
+Seat 3: gurgel99 ( 1,39 $ )
+Seat 4: ttottorro ( 1,97 $ )
+Seat 5: RiotRedguard ( 1,90 $ )
+Seat 6: SinisterKid ( 2,62 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,70 $ )
+B2B_Suckouts posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 10Herz ]
+NikoArein14 folds
+del202020 calls [0,02 $]
+gjpa2704 folds
+gurgel99 folds
+ttottorro folds
+RiotRedguard folds
+SinisterKid calls [0,02 $]
+B2B_Suckouts raises [0,04 $]
+tekiller243 folds
+del202020 calls [0,03 $]
+SinisterKid calls [0,03 $]
+** Dealing flop ** [ 4Herz, 9Karo, 5Pik ]
+B2B_Suckouts checks
+del202020 checks
+SinisterKid checks
+** Dealing turn ** [ QKreuz ]
+B2B_Suckouts bets [0,05 $]
+del202020 calls [0,05 $]
+SinisterKid folds
+** Dealing river ** [ 8Karo ]
+B2B_Suckouts bets [0,22 $]
+del202020 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,26 $ ]
+
+
+
+#Game No : 631278315
+***** 888poker Hand History for Game 631278315 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:35:48
+Table Longview 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,07 $ )
+Seat 2: gjpa2704 ( 0,67 $ )
+Seat 3: gurgel99 ( 1,39 $ )
+Seat 4: ttottorro ( 1,97 $ )
+Seat 5: RiotRedguard ( 1,90 $ )
+Seat 6: SinisterKid ( 2,57 $ )
+Seat 7: B2B_Suckouts ( 2,16 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,70 $ )
+tekiller243 posts small blind [0,01 $]
+NikoArein14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 10Herz ]
+del202020 calls [0,02 $]
+gjpa2704 calls [0,02 $]
+gurgel99 folds
+ttottorro folds
+RiotRedguard folds
+SinisterKid folds
+B2B_Suckouts folds
+tekiller243 raises [0,09 $]
+NikoArein14 folds
+del202020 folds
+gjpa2704 calls [0,08 $]
+** Dealing flop ** [ 5Pik, 6Herz, JPik ]
+tekiller243 checks
+gjpa2704 bets [0,15 $]
+tekiller243 folds
+** Summary **
+gjpa2704 did not show his hand
+gjpa2704 collected [ 0,23 $ ]
+
+
+
+#Game No : 631278367
+***** 888poker Hand History for Game 631278367 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:36:44
+Table Longview 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,05 $ )
+Seat 2: gjpa2704 ( 0,80 $ )
+Seat 3: gurgel99 ( 1,39 $ )
+Seat 4: ttottorro ( 1,97 $ )
+Seat 5: RiotRedguard ( 1,90 $ )
+Seat 6: SinisterKid ( 2,57 $ )
+Seat 7: B2B_Suckouts ( 2,16 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,68 $ )
+NikoArein14 posts small blind [0,01 $]
+del202020 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, JPik ]
+gjpa2704 calls [0,02 $]
+gurgel99 folds
+ttottorro folds
+RiotRedguard folds
+SinisterKid folds
+B2B_Suckouts raises [0,06 $]
+tekiller243 folds
+NikoArein14 folds
+del202020 calls [0,04 $]
+gjpa2704 calls [0,04 $]
+** Dealing flop ** [ 5Karo, JKaro, 6Kreuz ]
+del202020 checks
+gjpa2704 checks
+B2B_Suckouts bets [0,06 $]
+del202020 folds
+gjpa2704 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,18 $ ]
+
+
+
+#Game No : 631278418
+***** 888poker Hand History for Game 631278418 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:37:40
+Table Longview 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: del202020 ( 0,99 $ )
+Seat 2: gjpa2704 ( 0,74 $ )
+Seat 3: gurgel99 ( 1,39 $ )
+Seat 4: ttottorro ( 1,97 $ )
+Seat 5: RiotRedguard ( 1,90 $ )
+Seat 6: SinisterKid ( 2,57 $ )
+Seat 7: B2B_Suckouts ( 2,28 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,67 $ )
+del202020 posts small blind [0,01 $]
+gjpa2704 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 7Pik ]
+gurgel99 raises [0,06 $]
+ttottorro folds
+RiotRedguard folds
+SinisterKid folds
+B2B_Suckouts folds
+tekiller243 raises [0,18 $]
+NikoArein14 folds
+del202020 folds
+gjpa2704 folds
+gurgel99 raises [0,48 $]
+tekiller243 folds
+** Summary **
+gurgel99 did not show his hand
+gurgel99 collected [ 0,39 $ ]
+
+
+
+#Game No : 631278447
+***** 888poker Hand History for Game 631278447 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:38:09
+Table Longview 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: del202020 ( 0,98 $ )
+Seat 2: gjpa2704 ( 0,72 $ )
+Seat 3: gurgel99 ( 1,60 $ )
+Seat 4: ttottorro ( 1,97 $ )
+Seat 5: RiotRedguard ( 1,90 $ )
+Seat 6: SinisterKid ( 2,57 $ )
+Seat 7: B2B_Suckouts ( 2,28 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,67 $ )
+gjpa2704 posts small blind [0,01 $]
+gurgel99 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, JPik ]
+ttottorro folds
+RiotRedguard folds
+SinisterKid raises [0,06 $]
+B2B_Suckouts folds
+tekiller243 folds
+NikoArein14 raises [0,24 $]
+del202020 folds
+gjpa2704 folds
+gurgel99 folds
+SinisterKid calls [0,18 $]
+** Dealing flop ** [ 8Pik, 5Pik, 3Pik ]
+SinisterKid checks
+NikoArein14 bets [0,25 $]
+SinisterKid folds
+** Summary **
+NikoArein14 did not show his hand
+NikoArein14 collected [ 0,48 $ ]
+
+
+
+#Game No : 631278499
+***** 888poker Hand History for Game 631278499 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:39:00
+Table Longview 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: del202020 ( 0,98 $ )
+Seat 2: gjpa2704 ( 0,71 $ )
+Seat 3: gurgel99 ( 1,58 $ )
+Seat 4: ttottorro ( 1,97 $ )
+Seat 5: RiotRedguard ( 1,90 $ )
+Seat 6: SinisterKid ( 2,33 $ )
+Seat 7: B2B_Suckouts ( 2,28 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,91 $ )
+gurgel99 posts small blind [0,01 $]
+ttottorro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 6Karo ]
+RiotRedguard folds
+SinisterKid folds
+B2B_Suckouts folds
+tekiller243 folds
+NikoArein14 folds
+del202020 calls [0,02 $]
+gjpa2704 folds
+gurgel99 raises [0,05 $]
+ttottorro folds
+del202020 calls [0,04 $]
+** Dealing flop ** [ 2Pik, AKaro, KKaro ]
+gurgel99 bets [0,06 $]
+del202020 calls [0,06 $]
+** Dealing turn ** [ QHerz ]
+gurgel99 bets [0,12 $]
+del202020 calls [0,12 $]
+** Dealing river ** [ 6Herz ]
+gurgel99 bets [0,16 $]
+del202020 calls [0,16 $]
+** Summary **
+gurgel99 shows [ KHerz, 8Kreuz ]
+del202020 shows [ 9Pik, KKreuz ]
+del202020 collected [ 0,77 $ ]
+
+
+
+#Game No : 631278599
+***** 888poker Hand History for Game 631278599 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:40:40
+Table Longview 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,35 $ )
+Seat 2: gjpa2704 ( 0,71 $ )
+Seat 3: gurgel99 ( 1,18 $ )
+Seat 4: ttottorro ( 1,95 $ )
+Seat 5: RiotRedguard ( 1,90 $ )
+Seat 6: SinisterKid ( 2,33 $ )
+Seat 7: B2B_Suckouts ( 2,28 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,91 $ )
+ttottorro posts small blind [0,01 $]
+RiotRedguard posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 4Karo ]
+SinisterKid folds
+B2B_Suckouts folds
+tekiller243 folds
+NikoArein14 folds
+del202020 calls [0,02 $]
+gjpa2704 folds
+gurgel99 folds
+ttottorro calls [0,01 $]
+RiotRedguard checks
+** Dealing flop ** [ 3Kreuz, 6Kreuz, APik ]
+ttottorro bets [0,02 $]
+RiotRedguard folds
+del202020 folds
+** Summary **
+ttottorro did not show his hand
+ttottorro collected [ 0,06 $ ]
+
+
+
+#Game No : 631278628
+***** 888poker Hand History for Game 631278628 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:41:10
+Table Longview 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,33 $ )
+Seat 2: gjpa2704 ( 0,71 $ )
+Seat 3: gurgel99 ( 1,18 $ )
+Seat 4: ttottorro ( 1,99 $ )
+Seat 5: RiotRedguard ( 1,88 $ )
+Seat 6: SinisterKid ( 2,33 $ )
+Seat 7: B2B_Suckouts ( 2,28 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,91 $ )
+RiotRedguard posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 3Pik ]
+B2B_Suckouts folds
+tekiller243 folds
+NikoArein14 raises [0,04 $]
+del202020 folds
+gjpa2704 folds
+gurgel99 folds
+ttottorro folds
+RiotRedguard folds
+SinisterKid folds
+** Summary **
+NikoArein14 did not show his hand
+NikoArein14 collected [ 0,05 $ ]
+
+
+
+#Game No : 631278664
+***** 888poker Hand History for Game 631278664 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:41:49
+Table Longview 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,33 $ )
+Seat 2: gjpa2704 ( 0,71 $ )
+Seat 3: gurgel99 ( 1,18 $ )
+Seat 4: ttottorro ( 1,99 $ )
+Seat 5: RiotRedguard ( 1,87 $ )
+Seat 6: SinisterKid ( 2,31 $ )
+Seat 7: B2B_Suckouts ( 2,28 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,94 $ )
+SinisterKid posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 4Karo ]
+tekiller243 folds
+NikoArein14 calls [0,02 $]
+del202020 calls [0,02 $]
+gjpa2704 folds
+gurgel99 folds
+ttottorro folds
+RiotRedguard folds
+SinisterKid folds
+B2B_Suckouts checks
+** Dealing flop ** [ 10Pik, 3Pik, QHerz ]
+B2B_Suckouts checks
+NikoArein14 checks
+del202020 checks
+** Dealing turn ** [ 9Pik ]
+B2B_Suckouts bets [0,03 $]
+NikoArein14 folds
+del202020 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,07 $ ]
+
+
+
+#Game No : 631278726
+***** 888poker Hand History for Game 631278726 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:42:45
+Table Longview 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,31 $ )
+Seat 2: gjpa2704 ( 0,71 $ )
+Seat 3: gurgel99 ( 1,18 $ )
+Seat 4: ttottorro ( 1,99 $ )
+Seat 5: RiotRedguard ( 1,87 $ )
+Seat 6: SinisterKid ( 2,30 $ )
+Seat 7: B2B_Suckouts ( 2,33 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,92 $ )
+B2B_Suckouts posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, QKaro ]
+NikoArein14 folds
+del202020 folds
+gjpa2704 folds
+gurgel99 folds
+ttottorro folds
+RiotRedguard folds
+SinisterKid folds
+B2B_Suckouts raises [0,05 $]
+tekiller243 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 631278769
+***** 888poker Hand History for Game 631278769 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:43:26
+Table Longview 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,31 $ )
+Seat 2: gjpa2704 ( 0,71 $ )
+Seat 3: gurgel99 ( 1,18 $ )
+Seat 4: ttottorro ( 1,99 $ )
+Seat 5: RiotRedguard ( 1,87 $ )
+Seat 6: SinisterKid ( 2,30 $ )
+Seat 7: B2B_Suckouts ( 2,35 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,92 $ )
+tekiller243 posts small blind [0,01 $]
+NikoArein14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, QKreuz ]
+del202020 folds
+gjpa2704 calls [0,02 $]
+gurgel99 folds
+ttottorro folds
+RiotRedguard folds
+SinisterKid folds
+B2B_Suckouts folds
+tekiller243 folds
+NikoArein14 checks
+** Dealing flop ** [ 7Pik, 10Karo, 2Kreuz ]
+NikoArein14 checks
+gjpa2704 bets [0,07 $]
+NikoArein14 folds
+** Summary **
+gjpa2704 did not show his hand
+gjpa2704 collected [ 0,05 $ ]
+
+
+
+#Game No : 631278818
+***** 888poker Hand History for Game 631278818 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:44:20
+Table Longview 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,31 $ )
+Seat 2: gjpa2704 ( 0,74 $ )
+Seat 3: gurgel99 ( 1,18 $ )
+Seat 4: ttottorro ( 1,99 $ )
+Seat 5: RiotRedguard ( 1,87 $ )
+Seat 6: SinisterKid ( 2,30 $ )
+Seat 7: B2B_Suckouts ( 2,35 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,90 $ )
+NikoArein14 posts small blind [0,01 $]
+del202020 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 2Herz ]
+gjpa2704 calls [0,02 $]
+gurgel99 folds
+ttottorro folds
+RiotRedguard folds
+SinisterKid raises [0,08 $]
+B2B_Suckouts folds
+tekiller243 folds
+NikoArein14 calls [0,07 $]
+del202020 folds
+gjpa2704 calls [0,06 $]
+** Dealing flop ** [ 9Pik, KKaro, APik ]
+NikoArein14 checks
+gjpa2704 bets [0,08 $]
+SinisterKid calls [0,08 $]
+NikoArein14 folds
+** Dealing turn ** [ 8Herz ]
+gjpa2704 checks
+SinisterKid bets [0,18 $]
+gjpa2704 calls [0,18 $]
+** Dealing river ** [ QKreuz ]
+gjpa2704 checks
+SinisterKid bets [0,46 $]
+gjpa2704 folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,74 $ ]
+
+
+
+#Game No : 631278912
+***** 888poker Hand History for Game 631278912 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:46:02
+Table Longview 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,29 $ )
+Seat 2: gjpa2704 ( 0,40 $ )
+Seat 3: gurgel99 ( 1,18 $ )
+Seat 4: ttottorro ( 1,99 $ )
+Seat 5: RiotRedguard ( 1,87 $ )
+Seat 6: SinisterKid ( 2,70 $ )
+Seat 7: B2B_Suckouts ( 2,35 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,82 $ )
+del202020 posts small blind [0,01 $]
+gjpa2704 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, JKaro ]
+gurgel99 folds
+ttottorro folds
+RiotRedguard folds
+SinisterKid folds
+B2B_Suckouts raises [0,06 $]
+tekiller243 folds
+NikoArein14 calls [0,06 $]
+del202020 calls [0,05 $]
+gjpa2704 folds
+** Dealing flop ** [ KKreuz, 2Pik, 9Herz ]
+del202020 checks
+B2B_Suckouts checks
+NikoArein14 bets [0,04 $]
+del202020 calls [0,04 $]
+B2B_Suckouts folds
+** Dealing turn ** [ 6Herz ]
+del202020 checks
+NikoArein14 bets [0,28 $]
+del202020 folds
+** Summary **
+NikoArein14 did not show his hand
+NikoArein14 collected [ 0,27 $ ]
+
+
+
+#Game No : 631278965
+***** 888poker Hand History for Game 631278965 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:47:06
+Table Longview 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,19 $ )
+Seat 2: gjpa2704 ( 0,80 $ )
+Seat 3: gurgel99 ( 1,18 $ )
+Seat 4: ttottorro ( 1,99 $ )
+Seat 5: RiotRedguard ( 1,87 $ )
+Seat 6: SinisterKid ( 2,70 $ )
+Seat 7: B2B_Suckouts ( 2,29 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,99 $ )
+gjpa2704 posts small blind [0,01 $]
+gurgel99 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 5Herz ]
+ttottorro folds
+RiotRedguard raises [0,06 $]
+SinisterKid folds
+B2B_Suckouts folds
+tekiller243 calls [0,06 $]
+NikoArein14 folds
+del202020 folds
+gjpa2704 calls [0,05 $]
+gurgel99 calls [0,04 $]
+** Dealing flop ** [ 7Kreuz, 4Herz, 7Pik ]
+gjpa2704 checks
+gurgel99 checks
+RiotRedguard checks
+tekiller243 bets [0,15 $]
+gjpa2704 folds
+gurgel99 calls [0,15 $]
+RiotRedguard folds
+** Dealing turn ** [ 2Herz ]
+gurgel99 checks
+tekiller243 bets [0,34 $]
+gurgel99 raises [0,97 $]
+tekiller243 calls [0,63 $]
+** Dealing river ** [ KKaro ]
+** Summary **
+gurgel99 shows [ 7Herz, 2Kreuz ]
+tekiller243 shows [ 9Herz, 9Karo ]
+gurgel99 collected [ 2,33 $ ]
+
+
+
+#Game No : 631279012
+***** 888poker Hand History for Game 631279012 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:48:00
+Table Longview 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: del202020 ( 1,19 $ )
+Seat 2: gjpa2704 ( 0,74 $ )
+Seat 3: gurgel99 ( 2,33 $ )
+Seat 4: ttottorro ( 1,99 $ )
+Seat 5: RiotRedguard ( 2 $ )
+Seat 6: SinisterKid ( 2,70 $ )
+Seat 7: B2B_Suckouts ( 2,29 $ )
+Seat 9: tekiller243 ( 2 $ )
+Seat 10: NikoArein14 ( 0,99 $ )
+gurgel99 posts small blind [0,01 $]
+ttottorro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, QHerz ]
+RiotRedguard raises [0,06 $]
+SinisterKid folds
+B2B_Suckouts calls [0,06 $]
+tekiller243 folds
+NikoArein14 folds
+del202020 calls [0,06 $]
+gjpa2704 calls [0,06 $]
+gurgel99 folds
+ttottorro folds
+** Dealing flop ** [ 7Kreuz, 4Karo, JKaro ]
+RiotRedguard bets [0,17 $]
+B2B_Suckouts folds
+del202020 folds
+gjpa2704 folds
+** Summary **
+RiotRedguard did not show his hand
+RiotRedguard collected [ 0,26 $ ]
+
+
+
