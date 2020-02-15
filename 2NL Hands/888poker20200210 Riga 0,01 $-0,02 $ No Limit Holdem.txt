@@ -1,0 +1,6017 @@
+#Game No : 551601167
+***** 888poker Hand History for Game 551601167 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:43:08
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: B2B_Suckouts ( 2,02 $ )
+Seat 3: rokop56243 ( 1,96 $ )
+Seat 4: ahtoh24 ( 1,09 $ )
+Seat 5: w3sby ( 1,90 $ )
+Seat 7: vavan129 ( 2 $ )
+Seat 9: AlexUr11 ( 1,28 $ )
+Seat 10: apxap ( 3,26 $ )
+vavan129 posts small blind [0,01 $]
+AlexUr11 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 4Kreuz ]
+apxap folds
+B2B_Suckouts folds
+rokop56243 raises [0,06 $]
+ahtoh24 calls [0,06 $]
+w3sby calls [0,06 $]
+vavan129 folds
+AlexUr11 calls [0,04 $]
+** Dealing flop ** [ AKreuz, 7Herz, 7Kreuz ]
+AlexUr11 checks
+rokop56243 checks
+ahtoh24 checks
+w3sby checks
+** Dealing turn ** [ QKreuz ]
+AlexUr11 checks
+rokop56243 bets [0,08 $]
+ahtoh24 folds
+w3sby calls [0,08 $]
+AlexUr11 folds
+** Dealing river ** [ 2Pik ]
+rokop56243 bets [0,08 $]
+w3sby folds
+** Summary **
+rokop56243 collected [ 0,39 $ ]
+
+
+
+#Game No : 551601315
+***** 888poker Hand History for Game 551601315 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:44:26
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: B2B_Suckouts ( 2,02 $ )
+Seat 3: rokop56243 ( 2,21 $ )
+Seat 4: ahtoh24 ( 1,03 $ )
+Seat 5: w3sby ( 1,76 $ )
+Seat 7: vavan129 ( 2 $ )
+Seat 9: AlexUr11 ( 1,22 $ )
+Seat 10: apxap ( 3,26 $ )
+AlexUr11 posts small blind [0,01 $]
+apxap posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 4Kreuz ]
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby folds
+vavan129 raises [0,05 $]
+AlexUr11 calls [0,04 $]
+apxap calls [0,03 $]
+** Dealing flop ** [ 3Pik, AKaro, AKreuz ]
+AlexUr11 checks
+apxap checks
+vavan129 checks
+** Dealing turn ** [ AHerz ]
+AlexUr11 checks
+apxap checks
+vavan129 checks
+** Dealing river ** [ 2Kreuz ]
+AlexUr11 checks
+apxap checks
+vavan129 bets [0,09 $]
+AlexUr11 folds
+apxap folds
+** Summary **
+vavan129 collected [ 0,15 $ ]
+
+
+
+#Game No : 551601443
+***** 888poker Hand History for Game 551601443 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:45:31
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,02 $ )
+Seat 3: rokop56243 ( 2,21 $ )
+Seat 4: ahtoh24 ( 1,03 $ )
+Seat 5: w3sby ( 1,76 $ )
+Seat 7: vavan129 ( 2,10 $ )
+Seat 9: AlexUr11 ( 1,17 $ )
+Seat 10: apxap ( 3,21 $ )
+apxap posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, APik ]
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby folds
+vavan129 folds
+AlexUr11 calls [0,02 $]
+apxap calls [0,01 $]
+oldbashkir checks
+** Dealing flop ** [ 9Karo, 8Pik, 8Herz ]
+apxap bets [0,03 $]
+oldbashkir folds
+AlexUr11 calls [0,03 $]
+** Dealing turn ** [ 6Karo ]
+apxap bets [0,06 $]
+AlexUr11 calls [0,06 $]
+** Dealing river ** [ 3Pik ]
+apxap checks
+AlexUr11 checks
+** Summary **
+apxap shows [ AHerz, 7Kreuz ]
+AlexUr11 shows [ 2Kreuz, 2Karo ]
+AlexUr11 collected [ 0,23 $ ]
+
+
+
+#Game No : 551601538
+***** 888poker Hand History for Game 551601538 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:46:21
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,02 $ )
+Seat 3: rokop56243 ( 2,21 $ )
+Seat 4: ahtoh24 ( 1,03 $ )
+Seat 5: w3sby ( 1,76 $ )
+Seat 7: vavan129 ( 2,10 $ )
+Seat 9: AlexUr11 ( 1,29 $ )
+Seat 10: apxap ( 3,10 $ )
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 9Kreuz ]
+rokop56243 folds
+ahtoh24 raises [0,04 $]
+w3sby folds
+vavan129 folds
+AlexUr11 calls [0,04 $]
+apxap folds
+oldbashkir folds
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 2Pik, KKreuz, 7Kreuz ]
+B2B_Suckouts checks
+ahtoh24 checks
+AlexUr11 checks
+** Dealing turn ** [ 7Pik ]
+B2B_Suckouts bets [0,06 $]
+ahtoh24 folds
+AlexUr11 folds
+** Summary **
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 551601636
+***** 888poker Hand History for Game 551601636 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:47:11
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,11 $ )
+Seat 3: rokop56243 ( 2,21 $ )
+Seat 4: ahtoh24 ( 0,99 $ )
+Seat 5: w3sby ( 1,76 $ )
+Seat 7: vavan129 ( 2,10 $ )
+Seat 9: AlexUr11 ( 1,25 $ )
+Seat 10: apxap ( 3,10 $ )
+B2B_Suckouts posts small blind [0,01 $]
+rokop56243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 3Kreuz ]
+ahtoh24 folds
+w3sby folds
+vavan129 folds
+AlexUr11 calls [0,02 $]
+apxap folds
+oldbashkir raises [0,08 $]
+B2B_Suckouts folds
+rokop56243 folds
+AlexUr11 calls [0,06 $]
+** Dealing flop ** [ KPik, KKaro, QHerz ]
+AlexUr11 checks
+oldbashkir checks
+** Dealing turn ** [ 9Karo ]
+AlexUr11 checks
+oldbashkir checks
+** Dealing river ** [ 7Pik ]
+AlexUr11 checks
+oldbashkir checks
+** Summary **
+AlexUr11 shows [ QKaro, 4Karo ]
+oldbashkir mucks [ 10Herz, 10Karo ]
+AlexUr11 collected [ 0,18 $ ]
+
+
+
+#Game No : 551601741
+***** 888poker Hand History for Game 551601741 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:48:08
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,10 $ )
+Seat 3: rokop56243 ( 2,19 $ )
+Seat 4: ahtoh24 ( 0,99 $ )
+Seat 5: w3sby ( 1,76 $ )
+Seat 7: vavan129 ( 2,10 $ )
+Seat 9: AlexUr11 ( 1,35 $ )
+Seat 10: apxap ( 3,10 $ )
+rokop56243 posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 4Kreuz ]
+w3sby folds
+vavan129 folds
+AlexUr11 calls [0,02 $]
+apxap folds
+oldbashkir raises [0,08 $]
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 calls [0,06 $]
+AlexUr11 calls [0,06 $]
+** Dealing flop ** [ 3Karo, QHerz, 2Herz ]
+ahtoh24 checks
+AlexUr11 checks
+oldbashkir bets [0,16 $]
+ahtoh24 folds
+AlexUr11 folds
+** Summary **
+oldbashkir collected [ 0,24 $ ]
+
+
+
+#Game No : 551601797
+***** 888poker Hand History for Game 551601797 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:48:41
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 2,10 $ )
+Seat 3: rokop56243 ( 2,18 $ )
+Seat 4: ahtoh24 ( 0,91 $ )
+Seat 5: w3sby ( 1,76 $ )
+Seat 7: vavan129 ( 2,10 $ )
+Seat 9: AlexUr11 ( 1,27 $ )
+Seat 10: apxap ( 3,10 $ )
+ahtoh24 posts small blind [0,01 $]
+w3sby posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, APik ]
+vavan129 folds
+AlexUr11 calls [0,02 $]
+apxap folds
+oldbashkir folds
+B2B_Suckouts raises [0,06 $]
+rokop56243 raises [0,14 $]
+ahtoh24 folds
+w3sby folds
+AlexUr11 calls [0,12 $]
+B2B_Suckouts calls [0,08 $]
+** Dealing flop ** [ 2Pik, 7Kreuz, 4Pik ]
+AlexUr11 checks
+B2B_Suckouts bets [0,02 $]
+rokop56243 raises [0,14 $]
+AlexUr11 folds
+B2B_Suckouts calls [0,12 $]
+** Dealing turn ** [ 9Kreuz ]
+B2B_Suckouts checks
+rokop56243 bets [0,42 $]
+B2B_Suckouts folds
+** Summary **
+rokop56243 collected [ 0,69 $ ]
+
+
+
+#Game No : 551601974
+***** 888poker Hand History for Game 551601974 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:50:12
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 1,82 $ )
+Seat 3: rokop56243 ( 2,59 $ )
+Seat 4: ahtoh24 ( 0,90 $ )
+Seat 5: w3sby ( 1,74 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+Seat 7: vavan129 ( 2,10 $ )
+Seat 9: AlexUr11 ( 1,13 $ )
+Seat 10: apxap ( 3,10 $ )
+w3sby posts small blind [0,01 $]
+Andrey17Nik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, QKreuz ]
+vavan129 folds
+AlexUr11 calls [0,02 $]
+apxap folds
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 raises [0,08 $]
+ahtoh24 folds
+w3sby folds
+Andrey17Nik folds
+AlexUr11 calls [0,06 $]
+** Dealing flop ** [ 3Herz, 6Herz, 6Kreuz ]
+AlexUr11 checks
+rokop56243 bets [0,12 $]
+AlexUr11 calls [0,12 $]
+** Dealing turn ** [ 8Kreuz ]
+AlexUr11 checks
+rokop56243 bets [0,20 $]
+AlexUr11 calls [0,20 $]
+** Dealing river ** [ 2Herz ]
+AlexUr11 checks
+rokop56243 bets [0,66 $]
+AlexUr11 calls [0,66 $]
+** Summary **
+rokop56243 shows [ KPik, QPik ]
+AlexUr11 shows [ QKaro, APik ]
+AlexUr11 collected [ 2,02 $ ]
+
+
+
+#Game No : 551602091
+***** 888poker Hand History for Game 551602091 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:51:07
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 1,82 $ )
+Seat 3: rokop56243 ( 1,53 $ )
+Seat 4: ahtoh24 ( 0,90 $ )
+Seat 5: w3sby ( 1,73 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+Seat 7: vavan129 ( 2,10 $ )
+Seat 9: AlexUr11 ( 2,09 $ )
+Seat 10: apxap ( 3,10 $ )
+Andrey17Nik posts small blind [0,01 $]
+vavan129 folds
+AlexUr11 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 4Kreuz ]
+apxap folds
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 raises [0,04 $]
+w3sby calls [0,04 $]
+Andrey17Nik folds
+AlexUr11 calls [0,02 $]
+** Dealing flop ** [ QKaro, 6Karo, 5Pik ]
+AlexUr11 checks
+ahtoh24 checks
+w3sby bets [0,06 $]
+AlexUr11 folds
+ahtoh24 calls [0,06 $]
+** Dealing turn ** [ 6Herz ]
+ahtoh24 checks
+w3sby checks
+** Dealing river ** [ KKreuz ]
+ahtoh24 bets [0,06 $]
+w3sby folds
+** Summary **
+ahtoh24 collected [ 0,24 $ ]
+
+
+
+#Game No : 551602236
+***** 888poker Hand History for Game 551602236 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:52:19
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 1,82 $ )
+Seat 3: rokop56243 ( 1,53 $ )
+Seat 4: ahtoh24 ( 1,04 $ )
+Seat 5: w3sby ( 1,63 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+Seat 9: AlexUr11 ( 2,05 $ )
+AlexUr11 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 10Pik ]
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby raises [0,06 $]
+Andrey17Nik calls [0,06 $]
+AlexUr11 folds
+oldbashkir calls [0,04 $]
+** Dealing flop ** [ JHerz, 9Kreuz, 6Herz ]
+oldbashkir checks
+w3sby bets [0,08 $]
+Andrey17Nik folds
+oldbashkir folds
+** Summary **
+w3sby collected [ 0,18 $ ]
+
+
+
+#Game No : 551602322
+***** 888poker Hand History for Game 551602322 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:53:01
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: oldbashkir ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 1,82 $ )
+Seat 3: rokop56243 ( 1,53 $ )
+Seat 4: ahtoh24 ( 1,04 $ )
+Seat 5: w3sby ( 1,75 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+rokop56243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 8Kreuz ]
+ahtoh24 folds
+w3sby folds
+Andrey17Nik folds
+oldbashkir raises [0,06 $]
+B2B_Suckouts folds
+rokop56243 folds
+** Summary **
+oldbashkir collected [ 0,05 $ ]
+
+
+
+#Game No : 551602356
+***** 888poker Hand History for Game 551602356 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:53:18
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 1,81 $ )
+Seat 3: rokop56243 ( 1,51 $ )
+Seat 4: ahtoh24 ( 1,04 $ )
+Seat 5: w3sby ( 1,75 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+rokop56243 posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, JKaro ]
+w3sby folds
+Andrey17Nik folds
+oldbashkir folds
+B2B_Suckouts raises [0,06 $]
+rokop56243 folds
+ahtoh24 calls [0,04 $]
+** Dealing flop ** [ 4Karo, AHerz, 7Pik ]
+ahtoh24 checks
+B2B_Suckouts bets [0,04 $]
+ahtoh24 calls [0,04 $]
+** Dealing turn ** [ 10Karo ]
+ahtoh24 checks
+B2B_Suckouts bets [0,06 $]
+ahtoh24 calls [0,06 $]
+** Dealing river ** [ KKaro ]
+ahtoh24 checks
+B2B_Suckouts bets [0,40 $]
+ahtoh24 folds
+** Summary **
+B2B_Suckouts collected [ 0,31 $ ]
+
+
+
+#Game No : 551602483
+***** 888poker Hand History for Game 551602483 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:54:27
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 1,96 $ )
+Seat 3: rokop56243 ( 1,50 $ )
+Seat 4: ahtoh24 ( 0,88 $ )
+Seat 5: w3sby ( 1,75 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+ahtoh24 posts small blind [0,01 $]
+w3sby posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 6Kreuz ]
+Andrey17Nik folds
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 raises [0,06 $]
+ahtoh24 folds
+w3sby folds
+** Summary **
+rokop56243 collected [ 0,05 $ ]
+
+
+
+#Game No : 551602531
+***** 888poker Hand History for Game 551602531 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:54:51
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 2 $ )
+Seat 3: rokop56243 ( 1,53 $ )
+Seat 4: ahtoh24 ( 0,87 $ )
+Seat 5: w3sby ( 1,73 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+w3sby posts small blind [0,01 $]
+Andrey17Nik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 8Kreuz ]
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby raises [0,09 $]
+Andrey17Nik folds
+** Summary **
+w3sby collected [ 0,04 $ ]
+
+
+
+#Game No : 551602645
+***** 888poker Hand History for Game 551602645 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:55:49
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 2 $ )
+Seat 3: rokop56243 ( 1,53 $ )
+Seat 4: ahtoh24 ( 0,87 $ )
+Seat 5: w3sby ( 1,75 $ )
+Seat 6: Andrey17Nik ( 1,98 $ )
+Andrey17Nik folds
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 9Karo ]
+rokop56243 folds
+ahtoh24 folds
+w3sby folds
+oldbashkir folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 551602684
+***** 888poker Hand History for Game 551602684 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:56:07
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: oldbashkir ( 2,12 $ )
+Seat 2: B2B_Suckouts ( 2,01 $ )
+Seat 3: rokop56243 ( 1,53 $ )
+Seat 4: ahtoh24 ( 0,87 $ )
+Seat 5: w3sby ( 1,75 $ )
+B2B_Suckouts posts small blind [0,01 $]
+rokop56243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 6Pik ]
+ahtoh24 folds
+w3sby raises [0,06 $]
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 calls [0,04 $]
+** Dealing flop ** [ 3Karo, QKaro, 7Herz ]
+rokop56243 bets [0,06 $]
+w3sby calls [0,06 $]
+** Dealing turn ** [ 4Karo ]
+rokop56243 bets [0,32 $]
+w3sby folds
+** Summary **
+rokop56243 collected [ 0,24 $ ]
+
+
+
+#Game No : 551602886
+***** 888poker Hand History for Game 551602886 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:57:55
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: oldbashkir ( 2,12 $ )
+Seat 2: B2B_Suckouts ( 2 $ )
+Seat 3: rokop56243 ( 1,65 $ )
+Seat 4: ahtoh24 ( 0,87 $ )
+Seat 5: w3sby ( 1,63 $ )
+rokop56243 posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, JHerz ]
+w3sby folds
+oldbashkir raises [0,06 $]
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+** Summary **
+oldbashkir collected [ 0,05 $ ]
+
+
+
+#Game No : 551602929
+***** 888poker Hand History for Game 551602929 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:58:16
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 1: oldbashkir ( 2,15 $ )
+Seat 2: B2B_Suckouts ( 2 $ )
+Seat 3: rokop56243 ( 1,64 $ )
+Seat 4: ahtoh24 ( 0,85 $ )
+Seat 5: w3sby ( 1,63 $ )
+ahtoh24 posts small blind [0,01 $]
+w3sby posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, KPik ]
+oldbashkir folds
+B2B_Suckouts raises [0,06 $]
+rokop56243 folds
+ahtoh24 folds
+w3sby folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551602970
+***** 888poker Hand History for Game 551602970 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:58:33
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: oldbashkir ( 2,15 $ )
+Seat 2: B2B_Suckouts ( 2,03 $ )
+Seat 3: rokop56243 ( 1,64 $ )
+Seat 4: ahtoh24 ( 0,84 $ )
+Seat 5: w3sby ( 1,61 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+w3sby posts small blind [0,01 $]
+Andrey17Nik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 5Pik ]
+oldbashkir raises [0,06 $]
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby folds
+Andrey17Nik folds
+** Summary **
+oldbashkir collected [ 0,05 $ ]
+
+
+
+#Game No : 551603055
+***** 888poker Hand History for Game 551603055 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:59:10
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2,18 $ )
+Seat 2: B2B_Suckouts ( 2,03 $ )
+Seat 3: rokop56243 ( 1,64 $ )
+Seat 4: ahtoh24 ( 0,84 $ )
+Seat 5: w3sby ( 1,60 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+Seat 7: pepsi394 ( 2 $ )
+Andrey17Nik posts small blind [0,01 $]
+pepsi394 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, KKreuz ]
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby raises [0,06 $]
+Andrey17Nik folds
+pepsi394 folds
+** Summary **
+w3sby collected [ 0,05 $ ]
+
+
+
+#Game No : 551603152
+***** 888poker Hand History for Game 551603152 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:59:50
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,18 $ )
+Seat 2: B2B_Suckouts ( 2,03 $ )
+Seat 3: rokop56243 ( 1,64 $ )
+Seat 4: ahtoh24 ( 0,84 $ )
+Seat 5: w3sby ( 1,63 $ )
+Seat 6: Andrey17Nik ( 1,99 $ )
+Seat 7: pepsi394 ( 1,98 $ )
+Seat 9: iJohnny ( 2 $ )
+pepsi394 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 9Herz ]
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby raises [0,06 $]
+Andrey17Nik folds
+pepsi394 folds
+iJohnny folds
+** Summary **
+w3sby collected [ 0,05 $ ]
+
+
+
+#Game No : 551603205
+***** 888poker Hand History for Game 551603205 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:00:13
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,18 $ )
+Seat 2: B2B_Suckouts ( 2,03 $ )
+Seat 3: rokop56243 ( 1,64 $ )
+Seat 4: ahtoh24 ( 0,84 $ )
+Seat 5: w3sby ( 1,66 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+Seat 7: pepsi394 ( 1,97 $ )
+Seat 9: iJohnny ( 2 $ )
+Seat 10: Kotalin ( 2 $ )
+iJohnny posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, KPik ]
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 raises [0,06 $]
+ahtoh24 folds
+w3sby folds
+Andrey17Nik folds
+pepsi394 folds
+iJohnny folds
+Kotalin folds
+** Summary **
+rokop56243 did not show his hand
+rokop56243 collected [ 0,05 $ ]
+
+
+
+#Game No : 551603255
+***** 888poker Hand History for Game 551603255 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:00:36
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,18 $ )
+Seat 2: B2B_Suckouts ( 2,03 $ )
+Seat 3: rokop56243 ( 1,67 $ )
+Seat 4: ahtoh24 ( 0,84 $ )
+Seat 5: w3sby ( 1,66 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+Seat 7: pepsi394 ( 1,97 $ )
+Seat 9: iJohnny ( 2 $ )
+Seat 10: Kotalin ( 2 $ )
+Kotalin posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 2Herz ]
+B2B_Suckouts folds
+rokop56243 raises [0,08 $]
+ahtoh24 folds
+w3sby folds
+Andrey17Nik folds
+pepsi394 folds
+iJohnny raises [0,24 $]
+Kotalin folds
+oldbashkir calls [0,22 $]
+rokop56243 calls [0,16 $]
+** Dealing flop ** [ QKreuz, KKaro, JHerz ]
+oldbashkir bets [0,73 $]
+rokop56243 folds
+iJohnny raises [1,76 $]
+oldbashkir calls [1,03 $]
+** Dealing turn ** [ AHerz ]
+** Dealing river ** [ 5Herz ]
+** Summary **
+oldbashkir shows [ QHerz, QKaro ]
+iJohnny shows [ 10Kreuz, AKreuz ]
+iJohnny collected [ 3,99 $ ]
+
+
+
+#Game No : 551603392
+***** 888poker Hand History for Game 551603392 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:01:36
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,03 $ )
+Seat 3: rokop56243 ( 1,43 $ )
+Seat 4: ahtoh24 ( 0,84 $ )
+Seat 5: w3sby ( 1,66 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+Seat 7: pepsi394 ( 1,97 $ )
+Seat 9: iJohnny ( 3,99 $ )
+Seat 10: Kotalin ( 2 $ )
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 7Pik ]
+rokop56243 folds
+ahtoh24 folds
+w3sby raises [0,06 $]
+Andrey17Nik folds
+pepsi394 folds
+iJohnny folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+** Summary **
+w3sby did not show his hand
+w3sby collected [ 0,05 $ ]
+
+
+
+#Game No : 551603440
+***** 888poker Hand History for Game 551603440 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:02:00
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,01 $ )
+Seat 3: rokop56243 ( 1,43 $ )
+Seat 4: ahtoh24 ( 0,84 $ )
+Seat 5: w3sby ( 1,69 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+Seat 7: pepsi394 ( 1,97 $ )
+Seat 9: iJohnny ( 3,99 $ )
+Seat 10: Kotalin ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+rokop56243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, QHerz ]
+ahtoh24 folds
+w3sby folds
+Andrey17Nik folds
+pepsi394 folds
+iJohnny folds
+Kotalin folds
+oldbashkir raises [0,06 $]
+B2B_Suckouts raises [0,17 $]
+rokop56243 folds
+oldbashkir raises [0,54 $]
+B2B_Suckouts raises [1,83 $]
+oldbashkir calls [1,40 $]
+** Dealing flop ** [ 5Kreuz, 9Herz, 5Pik ]
+** Dealing turn ** [ 2Kreuz ]
+** Dealing river ** [ QKreuz ]
+** Summary **
+oldbashkir shows [ KPik, AKaro ]
+B2B_Suckouts shows [ QPik, QHerz ]
+B2B_Suckouts collected [ 3,77 $ ]
+
+
+
+#Game No : 551603537
+***** 888poker Hand History for Game 551603537 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:02:49
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,78 $ )
+Seat 3: rokop56243 ( 1,41 $ )
+Seat 4: ahtoh24 ( 0,84 $ )
+Seat 5: w3sby ( 1,69 $ )
+Seat 6: Andrey17Nik ( 2 $ )
+Seat 7: pepsi394 ( 1,97 $ )
+Seat 9: iJohnny ( 3,99 $ )
+Seat 10: Kotalin ( 2 $ )
+rokop56243 posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 9Kreuz ]
+w3sby raises [0,06 $]
+Andrey17Nik folds
+pepsi394 folds
+iJohnny folds
+Kotalin folds
+oldbashkir calls [0,06 $]
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+** Dealing flop ** [ AHerz, QKreuz, 6Karo ]
+w3sby bets [0,08 $]
+oldbashkir calls [0,08 $]
+** Dealing turn ** [ 6Kreuz ]
+w3sby bets [0,12 $]
+oldbashkir calls [0,12 $]
+** Dealing river ** [ 9Pik ]
+w3sby bets [0,32 $]
+oldbashkir folds
+** Summary **
+w3sby did not show his hand
+w3sby collected [ 0,52 $ ]
+
+
+
+#Game No : 551603710
+***** 888poker Hand History for Game 551603710 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:04:06
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,78 $ )
+Seat 3: rokop56243 ( 1,40 $ )
+Seat 4: ahtoh24 ( 0,82 $ )
+Seat 5: w3sby ( 1,95 $ )
+Seat 9: iJohnny ( 3,99 $ )
+Seat 10: Kotalin ( 2 $ )
+ahtoh24 posts small blind [0,01 $]
+w3sby posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 2Kreuz ]
+iJohnny folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 raises [0,06 $]
+ahtoh24 folds
+w3sby folds
+** Summary **
+rokop56243 did not show his hand
+rokop56243 collected [ 0,05 $ ]
+
+
+
+#Game No : 551603759
+***** 888poker Hand History for Game 551603759 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:04:28
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,78 $ )
+Seat 3: rokop56243 ( 1,43 $ )
+Seat 4: ahtoh24 ( 0,81 $ )
+Seat 5: w3sby ( 1,93 $ )
+Seat 9: iJohnny ( 3,99 $ )
+Seat 10: Kotalin ( 2 $ )
+w3sby posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 8Kreuz ]
+Kotalin raises [0,05 $]
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby folds
+iJohnny folds
+** Summary **
+Kotalin did not show his hand
+Kotalin collected [ 0,05 $ ]
+
+
+
+#Game No : 551603815
+***** 888poker Hand History for Game 551603815 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:04:52
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,78 $ )
+Seat 3: rokop56243 ( 1,43 $ )
+Seat 4: ahtoh24 ( 0,81 $ )
+Seat 5: w3sby ( 1,92 $ )
+Seat 9: iJohnny ( 3,97 $ )
+Seat 10: Kotalin ( 2,03 $ )
+iJohnny posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 9Pik ]
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby raises [0,06 $]
+iJohnny calls [0,05 $]
+Kotalin calls [0,04 $]
+** Dealing flop ** [ 10Kreuz, 8Pik, JKreuz ]
+iJohnny checks
+Kotalin checks
+w3sby bets [0,08 $]
+iJohnny calls [0,08 $]
+Kotalin calls [0,08 $]
+** Dealing turn ** [ 4Herz ]
+iJohnny checks
+Kotalin checks
+w3sby checks
+** Dealing river ** [ 8Kreuz ]
+iJohnny checks
+Kotalin checks
+w3sby bets [0,12 $]
+iJohnny folds
+Kotalin calls [0,12 $]
+** Summary **
+w3sby shows [ 5Kreuz, KKreuz ]
+Kotalin mucks [ AKreuz, JPik ]
+w3sby collected [ 0,62 $ ]
+
+
+
+#Game No : 551603988
+***** 888poker Hand History for Game 551603988 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:06:18
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,78 $ )
+Seat 3: rokop56243 ( 1,43 $ )
+Seat 4: ahtoh24 ( 0,81 $ )
+Seat 5: w3sby ( 2,28 $ )
+Seat 9: iJohnny ( 3,83 $ )
+Seat 10: Kotalin ( 2 $ )
+Kotalin posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 2Pik ]
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby folds
+iJohnny raises [0,06 $]
+Kotalin folds
+oldbashkir folds
+** Summary **
+iJohnny collected [ 0,05 $ ]
+
+
+
+#Game No : 551604023
+***** 888poker Hand History for Game 551604023 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:06:36
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,78 $ )
+Seat 3: rokop56243 ( 1,43 $ )
+Seat 4: ahtoh24 ( 0,81 $ )
+Seat 5: w3sby ( 2,28 $ )
+Seat 9: iJohnny ( 3,86 $ )
+Seat 10: Kotalin ( 2 $ )
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 9Herz ]
+rokop56243 folds
+ahtoh24 folds
+w3sby folds
+iJohnny raises [0,06 $]
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+** Summary **
+iJohnny collected [ 0,05 $ ]
+
+
+
+#Game No : 551604071
+***** 888poker Hand History for Game 551604071 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:06:58
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,76 $ )
+Seat 3: rokop56243 ( 1,43 $ )
+Seat 4: ahtoh24 ( 0,81 $ )
+Seat 5: w3sby ( 2,28 $ )
+Seat 9: iJohnny ( 3,89 $ )
+Seat 10: Kotalin ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+rokop56243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 6Herz ]
+ahtoh24 folds
+w3sby folds
+iJohnny folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+** Summary **
+rokop56243 collected [ 0,03 $ ]
+
+
+
+#Game No : 551604098
+***** 888poker Hand History for Game 551604098 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:07:11
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,75 $ )
+Seat 3: rokop56243 ( 1,44 $ )
+Seat 4: ahtoh24 ( 0,81 $ )
+Seat 5: w3sby ( 2,28 $ )
+Seat 9: iJohnny ( 3,89 $ )
+Seat 10: Kotalin ( 2 $ )
+rokop56243 posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 9Kreuz ]
+w3sby raises [0,06 $]
+iJohnny raises [0,18 $]
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby calls [0,12 $]
+** Dealing flop ** [ 7Pik, 7Kreuz, 5Pik ]
+w3sby bets [0,10 $]
+iJohnny raises [0,30 $]
+w3sby calls [0,20 $]
+** Dealing turn ** [ 3Kreuz ]
+w3sby checks
+iJohnny bets [0,49 $]
+w3sby folds
+** Summary **
+iJohnny collected [ 0,93 $ ]
+
+
+
+#Game No : 551604262
+***** 888poker Hand History for Game 551604262 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:08:28
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,75 $ )
+Seat 3: rokop56243 ( 1,43 $ )
+Seat 4: ahtoh24 ( 0,79 $ )
+Seat 5: w3sby ( 1,80 $ )
+Seat 9: iJohnny ( 4,34 $ )
+Seat 10: Kotalin ( 2 $ )
+ahtoh24 posts small blind [0,01 $]
+w3sby posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, QPik ]
+iJohnny folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 raises [0,06 $]
+ahtoh24 folds
+w3sby folds
+** Summary **
+rokop56243 collected [ 0,05 $ ]
+
+
+
+#Game No : 551604306
+***** 888poker Hand History for Game 551604306 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:08:51
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,75 $ )
+Seat 3: rokop56243 ( 1,46 $ )
+Seat 4: ahtoh24 ( 0,78 $ )
+Seat 5: w3sby ( 1,78 $ )
+Seat 6: Heavvymetall ( 2 $ )
+Seat 9: iJohnny ( 4,34 $ )
+Seat 10: Kotalin ( 2 $ )
+w3sby posts small blind [0,01 $]
+Heavvymetall posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 9Pik ]
+iJohnny raises [0,08 $]
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby folds
+Heavvymetall folds
+** Summary **
+iJohnny collected [ 0,05 $ ]
+
+
+
+#Game No : 551604365
+***** 888poker Hand History for Game 551604365 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:09:20
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,75 $ )
+Seat 3: rokop56243 ( 1,46 $ )
+Seat 4: ahtoh24 ( 0,78 $ )
+Seat 5: w3sby ( 1,77 $ )
+Seat 6: Heavvymetall ( 1,98 $ )
+Seat 7: algrud ( 1,12 $ )
+Seat 9: iJohnny ( 4,37 $ )
+Seat 10: Kotalin ( 2 $ )
+Heavvymetall posts small blind [0,01 $]
+algrud posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 9Kreuz ]
+iJohnny raises [0,08 $]
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 folds
+w3sby calls [0,08 $]
+Heavvymetall folds
+algrud folds
+** Dealing flop ** [ 8Pik, 7Kreuz, AKreuz ]
+iJohnny bets [0,19 $]
+w3sby calls [0,19 $]
+** Dealing turn ** [ 5Kreuz ]
+iJohnny bets [0,57 $]
+w3sby calls [0,57 $]
+** Dealing river ** [ 9Herz ]
+iJohnny checks
+w3sby bets [0,93 $]
+iJohnny calls [0,93 $]
+** Summary **
+w3sby shows [ KHerz, KPik ]
+iJohnny shows [ 7Herz, 7Karo ]
+iJohnny collected [ 3,35 $ ]
+
+
+
+#Game No : 551604499
+***** 888poker Hand History for Game 551604499 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:10:25
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,75 $ )
+Seat 3: rokop56243 ( 1,46 $ )
+Seat 4: ahtoh24 ( 0,78 $ )
+Seat 6: Heavvymetall ( 1,97 $ )
+Seat 7: algrud ( 1,12 $ )
+Seat 9: iJohnny ( 5,95 $ )
+Seat 10: Kotalin ( 2 $ )
+algrud posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 7Pik ]
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 folds
+ahtoh24 raises [0,06 $]
+Heavvymetall calls [0,06 $]
+algrud folds
+iJohnny folds
+** Dealing flop ** [ 9Pik, JPik, 10Pik ]
+ahtoh24 bets [0,07 $]
+Heavvymetall calls [0,07 $]
+** Dealing turn ** [ 5Kreuz ]
+ahtoh24 bets [0,14 $]
+Heavvymetall calls [0,14 $]
+** Dealing river ** [ QKaro ]
+ahtoh24 bets [0,14 $]
+Heavvymetall calls [0,14 $]
+** Summary **
+ahtoh24 shows [ KKreuz, KHerz ]
+Heavvymetall shows [ KKaro, JHerz ]
+Heavvymetall collected [ 0,40 $ ]
+ahtoh24 collected [ 0,40 $ ]
+
+
+
+#Game No : 551604631
+***** 888poker Hand History for Game 551604631 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:11:33
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,75 $ )
+Seat 3: rokop56243 ( 1,46 $ )
+Seat 4: ahtoh24 ( 0,77 $ )
+Seat 6: Heavvymetall ( 1,96 $ )
+Seat 7: algrud ( 1,12 $ )
+Seat 9: iJohnny ( 5,93 $ )
+Seat 10: Kotalin ( 2 $ )
+iJohnny posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 9Karo ]
+oldbashkir folds
+B2B_Suckouts folds
+rokop56243 raises [0,08 $]
+ahtoh24 calls [0,08 $]
+Heavvymetall folds
+algrud folds
+iJohnny calls [0,07 $]
+Kotalin folds
+** Dealing flop ** [ 7Karo, 8Herz, 3Herz ]
+iJohnny checks
+rokop56243 bets [0,16 $]
+ahtoh24 folds
+iJohnny folds
+** Summary **
+rokop56243 collected [ 0,25 $ ]
+
+
+
+#Game No : 551604781
+***** 888poker Hand History for Game 551604781 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:12:54
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,75 $ )
+Seat 3: rokop56243 ( 1,63 $ )
+Seat 4: ahtoh24 ( 0,69 $ )
+Seat 6: Heavvymetall ( 1,96 $ )
+Seat 7: algrud ( 1,12 $ )
+Seat 9: iJohnny ( 5,85 $ )
+Seat 10: Kotalin ( 2 $ )
+Kotalin posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 10Karo ]
+B2B_Suckouts folds
+rokop56243 calls [0,02 $]
+ahtoh24 folds
+Heavvymetall folds
+algrud folds
+iJohnny folds
+Kotalin folds
+oldbashkir checks
+** Dealing flop ** [ 3Pik, 2Kreuz, 9Kreuz ]
+oldbashkir checks
+rokop56243 bets [0,05 $]
+oldbashkir folds
+** Summary **
+rokop56243 collected [ 0,05 $ ]
+
+
+
+#Game No : 551604840
+***** 888poker Hand History for Game 551604840 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:13:25
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,75 $ )
+Seat 3: rokop56243 ( 1,66 $ )
+Seat 4: ahtoh24 ( 0,69 $ )
+Seat 6: Heavvymetall ( 1,96 $ )
+Seat 7: algrud ( 1,12 $ )
+Seat 9: iJohnny ( 5,85 $ )
+Seat 10: Kotalin ( 2 $ )
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 3Kreuz ]
+rokop56243 raises [0,08 $]
+ahtoh24 folds
+Heavvymetall calls [0,08 $]
+algrud folds
+iJohnny folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+** Dealing flop ** [ AKreuz, 9Herz, QPik ]
+rokop56243 bets [0,12 $]
+Heavvymetall raises [0,36 $]
+rokop56243 calls [0,24 $]
+** Dealing turn ** [ QHerz ]
+rokop56243 bets [1,22 $]
+Heavvymetall calls [1,22 $]
+** Dealing river ** [ 5Kreuz ]
+** Summary **
+rokop56243 shows [ 10Herz, 10Pik ]
+Heavvymetall shows [ QKreuz, AKaro ]
+Heavvymetall collected [ 3,15 $ ]
+
+
+
+#Game No : 551604937
+***** 888poker Hand History for Game 551604937 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:14:15
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,73 $ )
+Seat 4: ahtoh24 ( 0,69 $ )
+Seat 6: Heavvymetall ( 3,45 $ )
+Seat 7: algrud ( 1,12 $ )
+Seat 9: iJohnny ( 5,85 $ )
+Seat 10: Kotalin ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 4Herz ]
+Heavvymetall raises [0,04 $]
+algrud folds
+iJohnny folds
+Kotalin folds
+oldbashkir calls [0,04 $]
+B2B_Suckouts folds
+ahtoh24 calls [0,02 $]
+** Dealing flop ** [ 6Karo, AKreuz, 2Pik ]
+ahtoh24 checks
+Heavvymetall checks
+oldbashkir checks
+** Dealing turn ** [ 8Kreuz ]
+ahtoh24 checks
+Heavvymetall checks
+oldbashkir checks
+** Dealing river ** [ 6Herz ]
+ahtoh24 checks
+Heavvymetall checks
+oldbashkir checks
+** Summary **
+ahtoh24 shows [ QKaro, KPik ]
+Heavvymetall mucks [ 9Herz, JHerz ]
+oldbashkir mucks [ 10Pik, QKreuz ]
+ahtoh24 collected [ 0,13 $ ]
+
+
+
+#Game No : 551605051
+***** 888poker Hand History for Game 551605051 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:15:16
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,72 $ )
+Seat 4: ahtoh24 ( 0,78 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,41 $ )
+Seat 7: algrud ( 1,12 $ )
+Seat 9: iJohnny ( 5,85 $ )
+Seat 10: Kotalin ( 2 $ )
+ahtoh24 posts small blind [0,01 $]
+Barnsley40 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 3Kreuz ]
+Heavvymetall folds
+algrud folds
+iJohnny folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+ahtoh24 calls [0,01 $]
+Barnsley40 checks
+** Dealing flop ** [ QKaro, 8Pik, 4Kreuz ]
+ahtoh24 checks
+Barnsley40 checks
+** Dealing turn ** [ JHerz ]
+ahtoh24 checks
+Barnsley40 checks
+** Dealing river ** [ 8Kreuz ]
+ahtoh24 checks
+Barnsley40 checks
+** Summary **
+ahtoh24 shows [ 3Karo, KKaro ]
+Barnsley40 mucks [ 7Karo, 9Pik ]
+ahtoh24 collected [ 0,04 $ ]
+
+
+
+#Game No : 551605132
+***** 888poker Hand History for Game 551605132 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:15:53
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,72 $ )
+Seat 4: ahtoh24 ( 0,80 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,41 $ )
+Seat 7: algrud ( 1,12 $ )
+Seat 9: iJohnny ( 5,85 $ )
+Seat 10: Kotalin ( 2 $ )
+Barnsley40 posts small blind [0,01 $]
+Heavvymetall posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, JPik ]
+algrud folds
+iJohnny folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts raises [0,06 $]
+ahtoh24 folds
+Barnsley40 folds
+Heavvymetall folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551605169
+***** 888poker Hand History for Game 551605169 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:16:12
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,75 $ )
+Seat 4: ahtoh24 ( 0,80 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,39 $ )
+Seat 7: algrud ( 1,12 $ )
+Seat 9: iJohnny ( 5,85 $ )
+Seat 10: Kotalin ( 2 $ )
+Heavvymetall posts small blind [0,01 $]
+algrud folds
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 9Karo ]
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+ahtoh24 folds
+Barnsley40 folds
+Heavvymetall raises [0,05 $]
+iJohnny folds
+** Summary **
+Heavvymetall collected [ 0,04 $ ]
+
+
+
+#Game No : 551605211
+***** 888poker Hand History for Game 551605211 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:16:30
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,75 $ )
+Seat 4: ahtoh24 ( 0,80 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,41 $ )
+Seat 9: iJohnny ( 5,83 $ )
+Seat 10: Kotalin ( 2 $ )
+iJohnny posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, AHerz ]
+oldbashkir folds
+B2B_Suckouts raises [0,06 $]
+ahtoh24 folds
+Barnsley40 folds
+Heavvymetall folds
+iJohnny folds
+Kotalin raises [0,18 $]
+B2B_Suckouts raises [0,28 $]
+Kotalin calls [0,14 $]
+** Dealing flop ** [ 9Karo, QKaro, 5Karo ]
+Kotalin checks
+B2B_Suckouts bets [0,34 $]
+Kotalin folds
+** Summary **
+B2B_Suckouts collected [ 0,65 $ ]
+
+
+
+#Game No : 551605319
+***** 888poker Hand History for Game 551605319 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:17:18
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 4,06 $ )
+Seat 4: ahtoh24 ( 0,80 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,41 $ )
+Seat 9: iJohnny ( 5,82 $ )
+Seat 10: Kotalin ( 2 $ )
+Kotalin posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 8Pik ]
+B2B_Suckouts folds
+ahtoh24 folds
+Barnsley40 folds
+Heavvymetall folds
+iJohnny raises [0,06 $]
+Kotalin calls [0,05 $]
+oldbashkir calls [0,04 $]
+** Dealing flop ** [ 9Kreuz, 5Karo, QKreuz ]
+Kotalin checks
+oldbashkir checks
+iJohnny checks
+** Dealing turn ** [ 6Kreuz ]
+Kotalin checks
+oldbashkir checks
+iJohnny bets [0,12 $]
+Kotalin calls [0,12 $]
+oldbashkir folds
+** Dealing river ** [ JHerz ]
+Kotalin checks
+iJohnny checks
+** Summary **
+Kotalin shows [ JKreuz, KKaro ]
+iJohnny mucks [ 6Pik, 7Kreuz ]
+Kotalin collected [ 0,40 $ ]
+
+
+
+#Game No : 551605414
+***** 888poker Hand History for Game 551605414 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:18:05
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 4,06 $ )
+Seat 4: ahtoh24 ( 0,80 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,41 $ )
+Seat 9: iJohnny ( 5,64 $ )
+Seat 10: Kotalin ( 2,22 $ )
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, JKreuz ]
+ahtoh24 folds
+Barnsley40 raises [0,04 $]
+Heavvymetall folds
+iJohnny folds
+Kotalin raises [0,20 $]
+oldbashkir folds
+B2B_Suckouts folds
+Barnsley40 folds
+** Summary **
+Kotalin collected [ 0,11 $ ]
+
+
+
+#Game No : 551605452
+***** 888poker Hand History for Game 551605452 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:18:29
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 4,04 $ )
+Seat 4: ahtoh24 ( 0,80 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,41 $ )
+Seat 9: iJohnny ( 5,64 $ )
+Seat 10: Kotalin ( 2,29 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, APik ]
+Barnsley40 folds
+Heavvymetall folds
+iJohnny folds
+Kotalin folds
+oldbashkir raises [0,06 $]
+B2B_Suckouts calls [0,05 $]
+ahtoh24 folds
+** Dealing flop ** [ AKreuz, 8Herz, 10Pik ]
+B2B_Suckouts bets [0,04 $]
+oldbashkir calls [0,04 $]
+** Dealing turn ** [ 6Kreuz ]
+B2B_Suckouts bets [0,07 $]
+oldbashkir folds
+** Summary **
+B2B_Suckouts collected [ 0,21 $ ]
+
+
+
+#Game No : 551605509
+***** 888poker Hand History for Game 551605509 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:19:01
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 4,15 $ )
+Seat 4: ahtoh24 ( 0,78 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,41 $ )
+Seat 9: iJohnny ( 5,64 $ )
+Seat 10: Kotalin ( 2,29 $ )
+ahtoh24 posts small blind [0,01 $]
+Barnsley40 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, KKaro ]
+Heavvymetall folds
+iJohnny folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts raises [0,06 $]
+ahtoh24 calls [0,05 $]
+Barnsley40 folds
+** Dealing flop ** [ APik, 2Karo, AKreuz ]
+ahtoh24 checks
+B2B_Suckouts bets [0,02 $]
+ahtoh24 folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 551605553
+***** 888poker Hand History for Game 551605553 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:19:27
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 4,23 $ )
+Seat 4: ahtoh24 ( 0,72 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,41 $ )
+Seat 9: iJohnny ( 5,64 $ )
+Seat 10: Kotalin ( 2,29 $ )
+Barnsley40 posts small blind [0,01 $]
+Heavvymetall posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 2Kreuz ]
+iJohnny raises [0,08 $]
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+ahtoh24 folds
+Barnsley40 calls [0,07 $]
+Heavvymetall folds
+** Dealing flop ** [ QPik, 6Kreuz, 9Kreuz ]
+Barnsley40 checks
+iJohnny bets [0,09 $]
+Barnsley40 folds
+** Summary **
+iJohnny collected [ 0,17 $ ]
+
+
+
+#Game No : 551605609
+***** 888poker Hand History for Game 551605609 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:19:56
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 4,23 $ )
+Seat 4: ahtoh24 ( 0,72 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,39 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: iJohnny ( 5,73 $ )
+Seat 10: Kotalin ( 2,29 $ )
+Heavvymetall posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 2Kreuz ]
+iJohnny folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+ahtoh24 folds
+Barnsley40 raises [0,06 $]
+Heavvymetall calls [0,05 $]
+blackbeer15 folds
+** Dealing flop ** [ KKaro, KHerz, 9Kreuz ]
+Heavvymetall checks
+Barnsley40 bets [0,06 $]
+Heavvymetall raises [3,33 $]
+Barnsley40 folds
+** Summary **
+Heavvymetall collected [ 0,25 $ ]
+
+
+
+#Game No : 551605678
+***** 888poker Hand History for Game 551605678 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:20:33
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 4,23 $ )
+Seat 4: ahtoh24 ( 0,72 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Heavvymetall ( 3,52 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: crowzen ( 2 $ )
+Seat 10: Kotalin ( 2,29 $ )
+blackbeer15 posts small blind [0,01 $]
+crowzen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 8Herz ]
+Kotalin raises [0,05 $]
+oldbashkir folds
+B2B_Suckouts folds
+ahtoh24 folds
+Barnsley40 folds
+Heavvymetall folds
+blackbeer15 folds
+crowzen folds
+** Summary **
+Kotalin collected [ 0,05 $ ]
+
+
+
+#Game No : 551605730
+***** 888poker Hand History for Game 551605730 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:21:05
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 4,23 $ )
+Seat 4: ahtoh24 ( 0,72 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: crowzen ( 2 $ )
+Seat 10: Kotalin ( 2,32 $ )
+crowzen posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 5Pik ]
+oldbashkir folds
+B2B_Suckouts folds
+ahtoh24 raises [0,04 $]
+Barnsley40 folds
+blackbeer15 folds
+crowzen folds
+Kotalin folds
+** Summary **
+ahtoh24 collected [ 0,05 $ ]
+
+
+
+#Game No : 551605776
+***** 888poker Hand History for Game 551605776 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:21:29
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 4,23 $ )
+Seat 4: ahtoh24 ( 0,75 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: crowzen ( 2 $ )
+Seat 10: Kotalin ( 2,30 $ )
+Kotalin posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 10Kreuz ]
+B2B_Suckouts calls [0,02 $]
+ahtoh24 folds
+Barnsley40 folds
+blackbeer15 folds
+crowzen folds
+Kotalin folds
+oldbashkir raises [0,06 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing flop ** [ 5Herz, JKreuz, 8Herz ]
+oldbashkir checks
+B2B_Suckouts bets [0,05 $]
+oldbashkir calls [0,05 $]
+** Dealing turn ** [ 5Karo ]
+oldbashkir checks
+B2B_Suckouts checks
+** Dealing river ** [ 6Karo ]
+oldbashkir bets [0,27 $]
+B2B_Suckouts folds
+** Summary **
+oldbashkir collected [ 0,26 $ ]
+
+
+
+#Game No : 551605880
+***** 888poker Hand History for Game 551605880 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:22:24
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 4,10 $ )
+Seat 4: ahtoh24 ( 0,75 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,80 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: crowzen ( 2 $ )
+Seat 10: Kotalin ( 2,29 $ )
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+Natter.MG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Kreuz ]
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG checks
+blackbeer15 folds
+crowzen folds
+Kotalin folds
+oldbashkir raises [0,07 $]
+B2B_Suckouts folds
+Natter.MG calls [0,06 $]
+** Dealing flop ** [ 8Kreuz, 7Karo, 4Karo ]
+oldbashkir bets [0,09 $]
+Natter.MG calls [0,09 $]
+** Dealing turn ** [ 2Karo ]
+oldbashkir checks
+Natter.MG checks
+** Dealing river ** [ JKreuz ]
+oldbashkir checks
+Natter.MG checks
+** Summary **
+oldbashkir shows [ KHerz, AHerz ]
+Natter.MG shows [ 7Pik, KPik ]
+Natter.MG collected [ 0,34 $ ]
+
+
+
+#Game No : 551605997
+***** 888poker Hand History for Game 551605997 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:23:23
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2 $ )
+Seat 2: B2B_Suckouts ( 4,08 $ )
+Seat 3: IIIpil ( 1,20 $ )
+Seat 4: ahtoh24 ( 0,75 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,97 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: crowzen ( 2 $ )
+Seat 10: Kotalin ( 2,29 $ )
+B2B_Suckouts posts small blind [0,01 $]
+IIIpil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 9Herz ]
+ahtoh24 folds
+Barnsley40 raises [0,08 $]
+Natter.MG folds
+blackbeer15 folds
+crowzen folds
+Kotalin folds
+oldbashkir calls [0,08 $]
+B2B_Suckouts folds
+IIIpil folds
+** Dealing flop ** [ 2Herz, 9Kreuz, 7Karo ]
+Barnsley40 checks
+oldbashkir checks
+** Dealing turn ** [ AKreuz ]
+Barnsley40 checks
+oldbashkir checks
+** Dealing river ** [ 5Karo ]
+Barnsley40 checks
+oldbashkir bets [0,19 $]
+Barnsley40 folds
+** Summary **
+oldbashkir did not show his hand
+oldbashkir collected [ 0,18 $ ]
+
+
+
+#Game No : 551606080
+***** 888poker Hand History for Game 551606080 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:24:06
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 4,07 $ )
+Seat 3: IIIpil ( 1,20 $ )
+Seat 4: ahtoh24 ( 0,75 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,97 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: crowzen ( 2 $ )
+Seat 10: Kotalin ( 2,29 $ )
+IIIpil posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, KHerz ]
+Barnsley40 folds
+Natter.MG folds
+blackbeer15 folds
+crowzen folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts raises [0,06 $]
+IIIpil folds
+ahtoh24 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551606134
+***** 888poker Hand History for Game 551606134 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:24:33
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 4,10 $ )
+Seat 3: IIIpil ( 1,20 $ )
+Seat 4: ahtoh24 ( 0,73 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,97 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: crowzen ( 2 $ )
+Seat 10: Kotalin ( 2,29 $ )
+ahtoh24 posts small blind [0,01 $]
+Barnsley40 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 4Karo ]
+Natter.MG folds
+blackbeer15 folds
+crowzen folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+IIIpil raises [0,06 $]
+ahtoh24 calls [0,05 $]
+Barnsley40 folds
+** Dealing flop ** [ 8Karo, 5Pik, 7Karo ]
+ahtoh24 checks
+IIIpil bets [0,09 $]
+ahtoh24 folds
+** Summary **
+IIIpil did not show his hand
+IIIpil collected [ 0,14 $ ]
+
+
+
+#Game No : 551606206
+***** 888poker Hand History for Game 551606206 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:25:10
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 4,10 $ )
+Seat 3: IIIpil ( 1,28 $ )
+Seat 4: ahtoh24 ( 0,67 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,97 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: crowzen ( 2 $ )
+Seat 10: Kotalin ( 2,29 $ )
+Barnsley40 posts small blind [0,01 $]
+Natter.MG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 6Herz ]
+blackbeer15 raises [0,06 $]
+crowzen folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+IIIpil folds
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG calls [0,04 $]
+** Dealing flop ** [ 6Kreuz, 10Herz, AKreuz ]
+Natter.MG checks
+blackbeer15 checks
+** Dealing turn ** [ 2Kreuz ]
+Natter.MG bets [0,02 $]
+blackbeer15 calls [0,02 $]
+** Dealing river ** [ 5Pik ]
+Natter.MG checks
+blackbeer15 checks
+** Summary **
+Natter.MG shows [ JPik, 10Pik ]
+blackbeer15 mucks [ 7Kreuz, 7Pik ]
+Natter.MG collected [ 0,16 $ ]
+
+
+
+#Game No : 551606390
+***** 888poker Hand History for Game 551606390 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:26:41
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 4,10 $ )
+Seat 3: IIIpil ( 1,28 $ )
+Seat 4: ahtoh24 ( 0,67 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,05 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: crowzen ( 2 $ )
+Seat 10: Kotalin ( 2,29 $ )
+Natter.MG posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 6Karo ]
+crowzen folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+IIIpil folds
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG calls [0,01 $]
+blackbeer15 checks
+** Dealing flop ** [ 9Pik, 4Karo, 10Pik ]
+Natter.MG checks
+blackbeer15 checks
+** Dealing turn ** [ 4Herz ]
+Natter.MG checks
+blackbeer15 checks
+** Dealing river ** [ JKreuz ]
+Natter.MG bets [0,04 $]
+blackbeer15 folds
+** Summary **
+Natter.MG did not show his hand
+Natter.MG collected [ 0,04 $ ]
+
+
+
+#Game No : 551606542
+***** 888poker Hand History for Game 551606542 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:28:01
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 4,10 $ )
+Seat 3: IIIpil ( 1,28 $ )
+Seat 4: ahtoh24 ( 0,67 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,07 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: crowzen ( 2 $ )
+Seat 10: Kotalin ( 2,29 $ )
+blackbeer15 posts small blind [0,01 $]
+crowzen folds
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 8Pik ]
+oldbashkir raises [0,06 $]
+B2B_Suckouts folds
+IIIpil folds
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG folds
+blackbeer15 folds
+Kotalin calls [0,04 $]
+** Dealing flop ** [ 3Kreuz, KKreuz, 9Pik ]
+Kotalin checks
+oldbashkir checks
+** Dealing turn ** [ AKaro ]
+Kotalin checks
+oldbashkir checks
+** Dealing river ** [ 10Karo ]
+Kotalin checks
+oldbashkir checks
+** Summary **
+Kotalin shows [ 6Karo, 7Karo ]
+oldbashkir shows [ 4Pik, 4Karo ]
+oldbashkir collected [ 0,13 $ ]
+
+
+
+#Game No : 551606618
+***** 888poker Hand History for Game 551606618 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:28:36
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,17 $ )
+Seat 2: B2B_Suckouts ( 4,10 $ )
+Seat 3: IIIpil ( 1,28 $ )
+Seat 4: ahtoh24 ( 0,67 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,07 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 10: Kotalin ( 2,23 $ )
+Kotalin posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 6Kreuz ]
+B2B_Suckouts folds
+IIIpil folds
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG calls [0,02 $]
+blackbeer15 folds
+Kotalin folds
+oldbashkir checks
+** Dealing flop ** [ 2Kreuz, JKreuz, 4Herz ]
+oldbashkir checks
+Natter.MG bets [0,02 $]
+oldbashkir calls [0,02 $]
+** Dealing turn ** [ 8Pik ]
+oldbashkir checks
+Natter.MG bets [0,02 $]
+oldbashkir folds
+** Summary **
+Natter.MG collected [ 0,09 $ ]
+
+
+
+#Game No : 551606736
+***** 888poker Hand History for Game 551606736 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:29:35
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 4,10 $ )
+Seat 3: IIIpil ( 1,28 $ )
+Seat 4: ahtoh24 ( 0,67 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,12 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 10: Kotalin ( 2,22 $ )
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, KKreuz ]
+IIIpil folds
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG calls [0,02 $]
+blackbeer15 folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts raises [0,02 $]
+Natter.MG calls [0,02 $]
+** Dealing flop ** [ JKaro, 6Pik, 6Kreuz ]
+B2B_Suckouts checks
+Natter.MG bets [0,06 $]
+B2B_Suckouts folds
+** Summary **
+Natter.MG collected [ 0,09 $ ]
+
+
+
+#Game No : 551606827
+***** 888poker Hand History for Game 551606827 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:30:19
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,12 $ )
+Seat 2: B2B_Suckouts ( 4,06 $ )
+Seat 3: IIIpil ( 1,28 $ )
+Seat 4: ahtoh24 ( 0,67 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,17 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 10: Kotalin ( 2,22 $ )
+B2B_Suckouts posts small blind [0,01 $]
+IIIpil folds
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, JPik ]
+Barnsley40 folds
+Natter.MG folds
+blackbeer15 folds
+Kotalin raises [0,05 $]
+oldbashkir folds
+B2B_Suckouts folds
+ahtoh24 folds
+** Summary **
+Kotalin collected [ 0,05 $ ]
+
+
+
+#Game No : 551606873
+***** 888poker Hand History for Game 551606873 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:30:40
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2,12 $ )
+Seat 2: B2B_Suckouts ( 4,05 $ )
+Seat 4: ahtoh24 ( 0,65 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,17 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 10: Kotalin ( 2,25 $ )
+ahtoh24 posts small blind [0,01 $]
+Barnsley40 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 4Pik ]
+Natter.MG calls [0,02 $]
+blackbeer15 folds
+Kotalin folds
+oldbashkir raises [0,08 $]
+B2B_Suckouts folds
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG folds
+** Summary **
+oldbashkir collected [ 0,07 $ ]
+
+
+
+#Game No : 551606925
+***** 888poker Hand History for Game 551606925 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:31:04
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: oldbashkir ( 2,17 $ )
+Seat 2: B2B_Suckouts ( 4,05 $ )
+Seat 4: ahtoh24 ( 0,64 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,15 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 10: Kotalin ( 2,25 $ )
+Barnsley40 posts small blind [0,01 $]
+Natter.MG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, QHerz ]
+blackbeer15 folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts raises [0,06 $]
+ahtoh24 calls [0,06 $]
+Barnsley40 folds
+Natter.MG calls [0,04 $]
+** Dealing flop ** [ QKaro, 7Karo, 9Herz ]
+Natter.MG checks
+B2B_Suckouts bets [0,06 $]
+ahtoh24 calls [0,06 $]
+Natter.MG calls [0,06 $]
+** Dealing turn ** [ 8Herz ]
+Natter.MG checks
+B2B_Suckouts bets [0,18 $]
+ahtoh24 raises [0,36 $]
+Natter.MG folds
+B2B_Suckouts calls [0,18 $]
+** Dealing river ** [ 6Herz ]
+B2B_Suckouts checks
+ahtoh24 checks
+** Summary **
+B2B_Suckouts shows [ JPik, QHerz ]
+ahtoh24 shows [ 7Pik, 7Kreuz ]
+ahtoh24 collected [ 1,03 $ ]
+
+
+
+#Game No : 551607083
+***** 888poker Hand History for Game 551607083 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:32:20
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,17 $ )
+Seat 2: B2B_Suckouts ( 3,57 $ )
+Seat 3: chopper1166 ( 2 $ )
+Seat 4: ahtoh24 ( 1,19 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,03 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 10: Kotalin ( 2,25 $ )
+Natter.MG posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+chopper1166 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 6Kreuz ]
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 checks
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG calls [0,01 $]
+blackbeer15 raises [0,07 $]
+chopper1166 folds
+Natter.MG folds
+** Summary **
+blackbeer15 collected [ 0,06 $ ]
+
+
+
+#Game No : 551607135
+***** 888poker Hand History for Game 551607135 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:32:50
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,17 $ )
+Seat 2: B2B_Suckouts ( 3,57 $ )
+Seat 3: chopper1166 ( 1,98 $ )
+Seat 4: ahtoh24 ( 1,19 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,01 $ )
+Seat 7: blackbeer15 ( 2,04 $ )
+Seat 9: algrud ( 1,12 $ )
+Seat 10: Kotalin ( 2,25 $ )
+blackbeer15 posts small blind [0,01 $]
+algrud folds
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 9Karo ]
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 folds
+ahtoh24 folds
+Barnsley40 raises [0,06 $]
+Natter.MG calls [0,06 $]
+blackbeer15 folds
+Kotalin folds
+** Dealing flop ** [ AKreuz, APik, 9Herz ]
+Barnsley40 bets [0,06 $]
+Natter.MG folds
+** Summary **
+Barnsley40 did not show his hand
+Barnsley40 collected [ 0,15 $ ]
+
+
+
+#Game No : 551607216
+***** 888poker Hand History for Game 551607216 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:33:32
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,17 $ )
+Seat 2: B2B_Suckouts ( 3,57 $ )
+Seat 3: chopper1166 ( 1,98 $ )
+Seat 4: ahtoh24 ( 1,19 $ )
+Seat 5: Barnsley40 ( 2,09 $ )
+Seat 6: Natter.MG ( 0,95 $ )
+Seat 7: blackbeer15 ( 2,03 $ )
+Seat 10: Kotalin ( 2,23 $ )
+Kotalin posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 6Kreuz ]
+B2B_Suckouts folds
+chopper1166 folds
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG folds
+blackbeer15 folds
+Kotalin raises [0,05 $]
+oldbashkir calls [0,04 $]
+** Dealing flop ** [ JHerz, 6Karo, 8Herz ]
+Kotalin bets [0,12 $]
+oldbashkir folds
+** Summary **
+Kotalin collected [ 0,12 $ ]
+
+
+
+#Game No : 551607290
+***** 888poker Hand History for Game 551607290 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:34:06
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,11 $ )
+Seat 2: B2B_Suckouts ( 3,57 $ )
+Seat 3: chopper1166 ( 1,98 $ )
+Seat 4: ahtoh24 ( 1,19 $ )
+Seat 5: Barnsley40 ( 2,09 $ )
+Seat 6: Natter.MG ( 0,95 $ )
+Seat 7: blackbeer15 ( 2,03 $ )
+Seat 10: Kotalin ( 2,29 $ )
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 9Karo ]
+chopper1166 folds
+ahtoh24 calls [0,02 $]
+Barnsley40 raises [0,08 $]
+Natter.MG calls [0,08 $]
+blackbeer15 folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+ahtoh24 folds
+** Dealing flop ** [ KKreuz, 2Kreuz, AKreuz ]
+Barnsley40 checks
+Natter.MG bets [0,02 $]
+Barnsley40 raises [0,10 $]
+Natter.MG calls [0,08 $]
+** Dealing turn ** [ 8Pik ]
+Barnsley40 bets [0,15 $]
+Natter.MG calls [0,15 $]
+** Dealing river ** [ 2Herz ]
+Barnsley40 checks
+Natter.MG checks
+** Summary **
+Barnsley40 shows [ QKreuz, KHerz ]
+Natter.MG shows [ AHerz, 8Kreuz ]
+Natter.MG collected [ 0,67 $ ]
+
+
+
+#Game No : 551607394
+***** 888poker Hand History for Game 551607394 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:34:55
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 3,55 $ )
+Seat 3: chopper1166 ( 1,98 $ )
+Seat 4: ahtoh24 ( 1,17 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,29 $ )
+Seat 7: blackbeer15 ( 2,03 $ )
+Seat 10: Kotalin ( 2,29 $ )
+B2B_Suckouts posts small blind [0,01 $]
+chopper1166 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 5Karo ]
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG folds
+blackbeer15 folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+** Summary **
+chopper1166 collected [ 0,03 $ ]
+
+
+
+#Game No : 551607426
+***** 888poker Hand History for Game 551607426 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:35:11
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 3,54 $ )
+Seat 3: chopper1166 ( 1,99 $ )
+Seat 4: ahtoh24 ( 1,17 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,29 $ )
+Seat 7: blackbeer15 ( 2,03 $ )
+Seat 10: Kotalin ( 2,29 $ )
+chopper1166 posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, QHerz ]
+Barnsley40 folds
+Natter.MG folds
+blackbeer15 folds
+Kotalin folds
+oldbashkir raises [0,06 $]
+B2B_Suckouts folds
+chopper1166 folds
+ahtoh24 folds
+** Summary **
+oldbashkir collected [ 0,05 $ ]
+
+
+
+#Game No : 551607470
+***** 888poker Hand History for Game 551607470 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:35:35
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 3,54 $ )
+Seat 3: chopper1166 ( 1,98 $ )
+Seat 4: ahtoh24 ( 1,15 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,29 $ )
+Seat 7: blackbeer15 ( 2,03 $ )
+Seat 10: Kotalin ( 2,29 $ )
+ahtoh24 posts small blind [0,01 $]
+Barnsley40 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 5Karo ]
+Natter.MG calls [0,02 $]
+blackbeer15 folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 folds
+ahtoh24 raises [0,03 $]
+Barnsley40 folds
+Natter.MG calls [0,02 $]
+** Dealing flop ** [ 9Pik, APik, 7Karo ]
+ahtoh24 checks
+Natter.MG checks
+** Dealing turn ** [ 6Karo ]
+ahtoh24 bets [0,05 $]
+Natter.MG folds
+** Summary **
+ahtoh24 collected [ 0,10 $ ]
+
+
+
+#Game No : 551607564
+***** 888poker Hand History for Game 551607564 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:36:19
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 3,54 $ )
+Seat 3: chopper1166 ( 1,98 $ )
+Seat 4: ahtoh24 ( 1,21 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,25 $ )
+Seat 7: blackbeer15 ( 2,03 $ )
+Seat 10: Kotalin ( 2,29 $ )
+Barnsley40 posts small blind [0,01 $]
+Natter.MG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 2Kreuz ]
+blackbeer15 folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 raises [0,04 $]
+ahtoh24 calls [0,04 $]
+Barnsley40 folds
+Natter.MG folds
+** Dealing flop ** [ 8Karo, 8Herz, 2Pik ]
+chopper1166 bets [0,05 $]
+ahtoh24 folds
+** Summary **
+chopper1166 collected [ 0,11 $ ]
+
+
+
+#Game No : 551607662
+***** 888poker Hand History for Game 551607662 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:37:05
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 3,54 $ )
+Seat 3: chopper1166 ( 2,05 $ )
+Seat 4: ahtoh24 ( 1,17 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,23 $ )
+Seat 7: blackbeer15 ( 2,03 $ )
+Seat 10: Kotalin ( 2,29 $ )
+Natter.MG posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 6Herz ]
+Kotalin raises [0,05 $]
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 folds
+ahtoh24 raises [0,08 $]
+Barnsley40 folds
+Natter.MG folds
+blackbeer15 folds
+Kotalin calls [0,03 $]
+** Dealing flop ** [ JKreuz, 3Karo, QKreuz ]
+Kotalin checks
+ahtoh24 bets [0,09 $]
+Kotalin calls [0,09 $]
+** Dealing turn ** [ 6Karo ]
+Kotalin checks
+ahtoh24 bets [0,18 $]
+Kotalin calls [0,18 $]
+** Dealing river ** [ 9Pik ]
+Kotalin checks
+ahtoh24 bets [0,18 $]
+Kotalin folds
+** Summary **
+ahtoh24 collected [ 0,69 $ ]
+
+
+
+#Game No : 551607772
+***** 888poker Hand History for Game 551607772 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:38:00
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 3,54 $ )
+Seat 3: chopper1166 ( 2,05 $ )
+Seat 4: ahtoh24 ( 1,51 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,22 $ )
+Seat 7: blackbeer15 ( 2,01 $ )
+Seat 9: algrud ( 1,12 $ )
+Seat 10: Kotalin ( 2 $ )
+blackbeer15 posts small blind [0,01 $]
+algrud posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, AKaro ]
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 raises [0,05 $]
+ahtoh24 calls [0,05 $]
+Barnsley40 folds
+Natter.MG calls [0,05 $]
+blackbeer15 folds
+algrud folds
+** Dealing flop ** [ 7Pik, 8Karo, 5Pik ]
+chopper1166 checks
+ahtoh24 checks
+Natter.MG checks
+** Dealing turn ** [ 8Pik ]
+chopper1166 checks
+ahtoh24 bets [0,09 $]
+Natter.MG folds
+chopper1166 folds
+** Summary **
+ahtoh24 did not show his hand
+ahtoh24 collected [ 0,17 $ ]
+
+
+
+#Game No : 551607896
+***** 888poker Hand History for Game 551607896 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:38:59
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 3,54 $ )
+Seat 3: chopper1166 ( 2 $ )
+Seat 4: ahtoh24 ( 1,63 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,17 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,10 $ )
+Seat 10: Kotalin ( 2 $ )
+algrud posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 4Pik ]
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 raises [0,06 $]
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG folds
+blackbeer15 calls [0,06 $]
+algrud folds
+Kotalin folds
+** Dealing flop ** [ AKreuz, QPik, 6Pik ]
+chopper1166 bets [0,09 $]
+blackbeer15 calls [0,09 $]
+** Dealing turn ** [ 4Herz ]
+chopper1166 checks
+blackbeer15 checks
+** Dealing river ** [ 2Kreuz ]
+chopper1166 checks
+blackbeer15 checks
+** Summary **
+chopper1166 shows [ 8Herz, 8Karo ]
+blackbeer15 mucks [ 9Pik, 10Pik ]
+chopper1166 collected [ 0,31 $ ]
+
+
+
+#Game No : 551608025
+***** 888poker Hand History for Game 551608025 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:39:59
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 3,54 $ )
+Seat 3: chopper1166 ( 2,16 $ )
+Seat 4: ahtoh24 ( 1,63 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,17 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,09 $ )
+Seat 10: Kotalin ( 2 $ )
+Kotalin posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 5Karo ]
+B2B_Suckouts folds
+chopper1166 folds
+ahtoh24 raises [0,04 $]
+Barnsley40 folds
+Natter.MG folds
+blackbeer15 folds
+algrud folds
+Kotalin folds
+oldbashkir folds
+** Summary **
+ahtoh24 did not show his hand
+ahtoh24 collected [ 0,05 $ ]
+
+
+
+#Game No : 551608099
+***** 888poker Hand History for Game 551608099 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:40:36
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,11 $ )
+Seat 2: B2B_Suckouts ( 3,54 $ )
+Seat 3: chopper1166 ( 2,16 $ )
+Seat 4: ahtoh24 ( 1,66 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 1,17 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,09 $ )
+Seat 10: Kotalin ( 2 $ )
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, QHerz ]
+chopper1166 raises [0,06 $]
+ahtoh24 folds
+Barnsley40 calls [0,06 $]
+Natter.MG calls [0,06 $]
+blackbeer15 folds
+algrud folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+** Dealing flop ** [ 6Herz, 8Kreuz, 6Pik ]
+chopper1166 bets [0,10 $]
+Barnsley40 folds
+Natter.MG calls [0,10 $]
+** Dealing turn ** [ 7Karo ]
+chopper1166 bets [0,20 $]
+Natter.MG calls [0,20 $]
+** Dealing river ** [ 10Karo ]
+chopper1166 bets [0,40 $]
+Natter.MG calls [0,40 $]
+** Summary **
+chopper1166 shows [ KKreuz, KHerz ]
+Natter.MG mucks [ 4Kreuz, 4Pik ]
+chopper1166 collected [ 1,51 $ ]
+
+
+
+#Game No : 551608248
+***** 888poker Hand History for Game 551608248 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:41:45
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 3,52 $ )
+Seat 3: chopper1166 ( 2,91 $ )
+Seat 4: ahtoh24 ( 1,66 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,41 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,09 $ )
+Seat 10: Kotalin ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+chopper1166 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 4Pik ]
+ahtoh24 folds
+Barnsley40 folds
+Natter.MG calls [0,02 $]
+blackbeer15 folds
+algrud folds
+Kotalin calls [0,02 $]
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 checks
+** Dealing flop ** [ 5Pik, 8Kreuz, 10Karo ]
+chopper1166 checks
+Natter.MG bets [0,02 $]
+Kotalin calls [0,02 $]
+chopper1166 calls [0,02 $]
+** Dealing turn ** [ 6Karo ]
+chopper1166 checks
+Natter.MG bets [0,02 $]
+Kotalin calls [0,02 $]
+chopper1166 raises [0,06 $]
+Natter.MG calls [0,04 $]
+Kotalin calls [0,04 $]
+** Dealing river ** [ 4Herz ]
+chopper1166 bets [0,30 $]
+Natter.MG folds
+Kotalin folds
+** Summary **
+chopper1166 collected [ 0,30 $ ]
+
+
+
+#Game No : 551608427
+***** 888poker Hand History for Game 551608427 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:43:13
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 3,51 $ )
+Seat 3: chopper1166 ( 3,11 $ )
+Seat 4: iJohnny ( 5,73 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,31 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,09 $ )
+Seat 10: Kotalin ( 2 $ )
+chopper1166 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 8Herz ]
+Barnsley40 folds
+Natter.MG calls [0,02 $]
+blackbeer15 folds
+algrud folds
+Kotalin folds
+oldbashkir raises [0,08 $]
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny folds
+Natter.MG calls [0,06 $]
+** Dealing flop ** [ 3Pik, 5Pik, 2Kreuz ]
+Natter.MG checks
+oldbashkir checks
+** Dealing turn ** [ 6Kreuz ]
+Natter.MG bets [0,02 $]
+oldbashkir calls [0,02 $]
+** Dealing river ** [ 4Kreuz ]
+Natter.MG bets [0,02 $]
+oldbashkir calls [0,02 $]
+** Summary **
+Natter.MG shows [ KPik, APik ]
+oldbashkir shows [ AKreuz, JHerz ]
+Natter.MG collected [ 0,13 $ ]
+oldbashkir collected [ 0,13 $ ]
+
+
+
+#Game No : 551608534
+***** 888poker Hand History for Game 551608534 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:44:04
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,11 $ )
+Seat 2: B2B_Suckouts ( 3,51 $ )
+Seat 3: chopper1166 ( 3,10 $ )
+Seat 4: iJohnny ( 5,71 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,32 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,09 $ )
+Seat 10: Kotalin ( 2 $ )
+iJohnny posts small blind [0,01 $]
+Barnsley40 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 6Kreuz ]
+Natter.MG raises [0,04 $]
+blackbeer15 folds
+algrud folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 calls [0,04 $]
+iJohnny folds
+Barnsley40 folds
+** Dealing flop ** [ 7Kreuz, JKaro, 7Herz ]
+Natter.MG checks
+chopper1166 checks
+** Dealing turn ** [ JHerz ]
+Natter.MG bets [0,02 $]
+chopper1166 folds
+** Summary **
+Natter.MG did not show his hand
+Natter.MG collected [ 0,11 $ ]
+
+
+
+#Game No : 551608633
+***** 888poker Hand History for Game 551608633 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:44:53
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,11 $ )
+Seat 2: B2B_Suckouts ( 3,51 $ )
+Seat 3: chopper1166 ( 3,06 $ )
+Seat 4: iJohnny ( 5,70 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,39 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,09 $ )
+Seat 10: Kotalin ( 2 $ )
+Barnsley40 posts small blind [0,01 $]
+Natter.MG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 8Pik ]
+blackbeer15 folds
+algrud folds
+Kotalin folds
+oldbashkir raises [0,06 $]
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny folds
+Barnsley40 raises [0,17 $]
+Natter.MG folds
+oldbashkir raises [2,05 $]
+Barnsley40 folds
+** Summary **
+oldbashkir did not show his hand
+oldbashkir collected [ 0,38 $ ]
+
+
+
+#Game No : 551608699
+***** 888poker Hand History for Game 551608699 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:45:23
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,31 $ )
+Seat 2: B2B_Suckouts ( 3,51 $ )
+Seat 3: chopper1166 ( 3,06 $ )
+Seat 4: iJohnny ( 5,70 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,37 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,09 $ )
+Seat 10: Kotalin ( 2 $ )
+Natter.MG posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 4Pik ]
+algrud folds
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny folds
+Barnsley40 folds
+Natter.MG calls [0,01 $]
+blackbeer15 checks
+** Dealing flop ** [ 4Herz, KKreuz, KHerz ]
+Natter.MG checks
+blackbeer15 checks
+** Dealing turn ** [ JPik ]
+Natter.MG checks
+blackbeer15 checks
+** Dealing river ** [ 4Karo ]
+Natter.MG checks
+blackbeer15 checks
+** Summary **
+Natter.MG shows [ 9Pik, 3Karo ]
+blackbeer15 shows [ 8Pik, 2Karo ]
+blackbeer15 collected [ 0,02 $ ]
+Natter.MG collected [ 0,02 $ ]
+
+
+
+#Game No : 551608807
+***** 888poker Hand History for Game 551608807 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:46:12
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,31 $ )
+Seat 2: B2B_Suckouts ( 3,51 $ )
+Seat 3: chopper1166 ( 3,06 $ )
+Seat 4: iJohnny ( 5,70 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,37 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+blackbeer15 posts small blind [0,01 $]
+algrud posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 9Pik ]
+Kotalin folds
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny raises [0,08 $]
+Barnsley40 folds
+Natter.MG calls [0,08 $]
+blackbeer15 folds
+algrud folds
+** Dealing flop ** [ 7Herz, 9Karo, JPik ]
+iJohnny bets [0,09 $]
+Natter.MG folds
+** Summary **
+iJohnny did not show his hand
+iJohnny collected [ 0,18 $ ]
+
+
+
+#Game No : 551608914
+***** 888poker Hand History for Game 551608914 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:47:05
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: oldbashkir ( 2,31 $ )
+Seat 2: B2B_Suckouts ( 3,51 $ )
+Seat 3: chopper1166 ( 3,06 $ )
+Seat 4: iJohnny ( 5,80 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,29 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+algrud posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, QPik ]
+oldbashkir folds
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny raises [0,08 $]
+Barnsley40 folds
+Natter.MG calls [0,08 $]
+blackbeer15 folds
+algrud folds
+Kotalin folds
+** Dealing flop ** [ 2Pik, 2Herz, JPik ]
+iJohnny bets [0,09 $]
+Natter.MG calls [0,09 $]
+** Dealing turn ** [ 9Kreuz ]
+iJohnny checks
+Natter.MG bets [0,02 $]
+iJohnny calls [0,02 $]
+** Dealing river ** [ 7Kreuz ]
+iJohnny checks
+Natter.MG checks
+** Summary **
+iJohnny shows [ AKreuz, KPik ]
+Natter.MG shows [ 4Herz, 4Karo ]
+Natter.MG collected [ 0,39 $ ]
+
+
+
+#Game No : 551609020
+***** 888poker Hand History for Game 551609020 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:47:58
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 3,51 $ )
+Seat 3: chopper1166 ( 3,06 $ )
+Seat 4: iJohnny ( 5,61 $ )
+Seat 5: Barnsley40 ( 2 $ )
+Seat 6: Natter.MG ( 0,49 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+Kotalin posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, QKaro ]
+chopper1166 folds
+iJohnny folds
+Barnsley40 raises [0,06 $]
+Natter.MG calls [0,06 $]
+blackbeer15 folds
+algrud folds
+Kotalin folds
+B2B_Suckouts folds
+** Dealing flop ** [ KPik, 10Pik, KKreuz ]
+Barnsley40 bets [0,06 $]
+Natter.MG folds
+** Summary **
+Barnsley40 did not show his hand
+Barnsley40 collected [ 0,15 $ ]
+
+
+
+#Game No : 551609109
+***** 888poker Hand History for Game 551609109 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:48:35
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 3,49 $ )
+Seat 3: chopper1166 ( 3,06 $ )
+Seat 4: iJohnny ( 5,61 $ )
+Seat 5: Barnsley40 ( 2,09 $ )
+Seat 6: Natter.MG ( 0,43 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+chopper1166 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, QHerz ]
+iJohnny folds
+Barnsley40 folds
+Natter.MG calls [0,02 $]
+blackbeer15 folds
+algrud folds
+Kotalin calls [0,02 $]
+B2B_Suckouts calls [0,01 $]
+chopper1166 checks
+** Dealing flop ** [ 5Kreuz, 10Pik, QKreuz ]
+B2B_Suckouts bets [0,02 $]
+chopper1166 calls [0,02 $]
+Natter.MG calls [0,02 $]
+Kotalin folds
+** Dealing turn ** [ 6Karo ]
+B2B_Suckouts bets [0,04 $]
+chopper1166 folds
+Natter.MG folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 551609233
+***** 888poker Hand History for Game 551609233 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:49:33
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 3,59 $ )
+Seat 3: chopper1166 ( 3,02 $ )
+Seat 4: iJohnny ( 5,61 $ )
+Seat 5: Barnsley40 ( 2,09 $ )
+Seat 6: Natter.MG ( 0,39 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+chopper1166 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, AKreuz ]
+Barnsley40 folds
+Natter.MG calls [0,02 $]
+blackbeer15 raises [0,08 $]
+algrud folds
+Kotalin folds
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny calls [0,06 $]
+Natter.MG calls [0,06 $]
+** Dealing flop ** [ 9Karo, 7Pik, 3Pik ]
+iJohnny bets [0,12 $]
+Natter.MG calls [0,12 $]
+blackbeer15 folds
+** Dealing turn ** [ 3Karo ]
+iJohnny checks
+Natter.MG checks
+** Dealing river ** [ 4Herz ]
+iJohnny checks
+Natter.MG checks
+** Summary **
+iJohnny shows [ 8Pik, APik ]
+Natter.MG mucks [ QKreuz, 10Karo ]
+iJohnny collected [ 0,46 $ ]
+
+
+
+#Game No : 551609385
+***** 888poker Hand History for Game 551609385 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:50:47
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 3,59 $ )
+Seat 3: chopper1166 ( 3,01 $ )
+Seat 4: iJohnny ( 5,87 $ )
+Seat 5: Barnsley40 ( 2,09 $ )
+Seat 6: Natter.MG ( 0,19 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+iJohnny posts small blind [0,01 $]
+Barnsley40 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 3Herz ]
+Natter.MG folds
+blackbeer15 folds
+algrud folds
+Kotalin folds
+B2B_Suckouts folds
+chopper1166 raises [0,05 $]
+iJohnny folds
+Barnsley40 raises [0,18 $]
+chopper1166 folds
+** Summary **
+Barnsley40 collected [ 0,11 $ ]
+
+
+
+#Game No : 551609460
+***** 888poker Hand History for Game 551609460 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:51:26
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 3,59 $ )
+Seat 3: chopper1166 ( 2,96 $ )
+Seat 4: iJohnny ( 5,86 $ )
+Seat 5: Barnsley40 ( 2,15 $ )
+Seat 6: Natter.MG ( 0,19 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+Barnsley40 posts small blind [0,01 $]
+Natter.MG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, QKaro ]
+blackbeer15 folds
+algrud raises [0,07 $]
+Kotalin folds
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny folds
+Barnsley40 folds
+Natter.MG calls [0,05 $]
+** Dealing flop ** [ JPik, AKaro, 9Kreuz ]
+Natter.MG checks
+algrud checks
+** Dealing turn ** [ 4Karo ]
+Natter.MG bets [0,02 $]
+algrud calls [0,02 $]
+** Dealing river ** [ 2Kreuz ]
+Natter.MG checks
+algrud checks
+** Summary **
+Natter.MG shows [ JKaro, 10Kreuz ]
+algrud mucks [ 6Kreuz, 6Karo ]
+Natter.MG collected [ 0,18 $ ]
+
+
+
+#Game No : 551609563
+***** 888poker Hand History for Game 551609563 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:52:16
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 3,59 $ )
+Seat 3: chopper1166 ( 2,96 $ )
+Seat 4: iJohnny ( 5,86 $ )
+Seat 5: Barnsley40 ( 2,14 $ )
+Seat 6: Natter.MG ( 0,28 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+Natter.MG posts small blind [0,01 $]
+blackbeer15 folds
+algrud posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 9Pik ]
+Kotalin folds
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny raises [0,06 $]
+Barnsley40 calls [0,06 $]
+Natter.MG calls [0,05 $]
+algrud folds
+** Dealing flop ** [ 9Karo, 5Karo, 6Pik ]
+Natter.MG checks
+iJohnny checks
+Barnsley40 bets [0,06 $]
+Natter.MG calls [0,06 $]
+iJohnny calls [0,06 $]
+** Dealing turn ** [ 5Herz ]
+Natter.MG checks
+iJohnny checks
+Barnsley40 bets [0,10 $]
+Natter.MG calls [0,10 $]
+iJohnny calls [0,10 $]
+** Dealing river ** [ QHerz ]
+Natter.MG checks
+iJohnny checks
+Barnsley40 checks
+** Summary **
+Natter.MG shows [ 10Pik, KKaro ]
+iJohnny shows [ 8Karo, 8Kreuz ]
+Barnsley40 shows [ 8Herz, 8Pik ]
+Barnsley40 collected [ 0,32 $ ]
+iJohnny collected [ 0,32 $ ]
+
+
+
+#Game No : 551609708
+***** 888poker Hand History for Game 551609708 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:53:28
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 2: B2B_Suckouts ( 3,59 $ )
+Seat 3: chopper1166 ( 2,96 $ )
+Seat 4: iJohnny ( 5,96 $ )
+Seat 5: Barnsley40 ( 2,24 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+algrud posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, KKaro ]
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny folds
+Barnsley40 folds
+algrud folds
+** Summary **
+Kotalin collected [ 0,03 $ ]
+
+
+
+#Game No : 551609734
+***** 888poker Hand History for Game 551609734 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:53:40
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,59 $ )
+Seat 3: chopper1166 ( 2,96 $ )
+Seat 4: iJohnny ( 5,96 $ )
+Seat 5: Barnsley40 ( 2,24 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2,01 $ )
+Kotalin posts small blind [0,01 $]
+blackfyord posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 10Pik ]
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny folds
+Barnsley40 folds
+algrud folds
+Kotalin folds
+** Summary **
+blackfyord collected [ 0,03 $ ]
+
+
+
+#Game No : 551609774
+***** 888poker Hand History for Game 551609774 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:54:00
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: blackfyord ( 2,01 $ )
+Seat 2: B2B_Suckouts ( 3,59 $ )
+Seat 3: chopper1166 ( 2,96 $ )
+Seat 4: iJohnny ( 5,96 $ )
+Seat 5: Barnsley40 ( 2,24 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+blackfyord posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 10Pik ]
+chopper1166 folds
+iJohnny raises [0,08 $]
+Barnsley40 folds
+algrud folds
+Kotalin folds
+blackfyord folds
+B2B_Suckouts folds
+** Summary **
+iJohnny collected [ 0,05 $ ]
+
+
+
+#Game No : 551609808
+***** 888poker Hand History for Game 551609808 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:54:16
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,57 $ )
+Seat 3: chopper1166 ( 2,96 $ )
+Seat 4: iJohnny ( 5,99 $ )
+Seat 5: Barnsley40 ( 2,24 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+chopper1166 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 5Kreuz ]
+iJohnny folds
+Barnsley40 raises [0,08 $]
+algrud calls [0,08 $]
+Kotalin calls [0,08 $]
+blackfyord folds
+B2B_Suckouts folds
+chopper1166 folds
+** Dealing flop ** [ 5Herz, 5Karo, 8Herz ]
+Barnsley40 bets [0,08 $]
+algrud folds
+Kotalin folds
+** Summary **
+Barnsley40 collected [ 0,26 $ ]
+
+
+
+#Game No : 551609884
+***** 888poker Hand History for Game 551609884 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:54:53
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,56 $ )
+Seat 3: chopper1166 ( 2,94 $ )
+Seat 4: iJohnny ( 5,99 $ )
+Seat 5: Barnsley40 ( 2,42 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+chopper1166 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, KHerz ]
+Barnsley40 raises [0,04 $]
+algrud folds
+Kotalin calls [0,04 $]
+blackfyord folds
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny folds
+** Dealing flop ** [ 3Kreuz, 10Karo, 9Karo ]
+Barnsley40 checks
+Kotalin checks
+** Dealing turn ** [ JHerz ]
+Barnsley40 checks
+Kotalin checks
+** Dealing river ** [ APik ]
+Barnsley40 checks
+Kotalin checks
+** Summary **
+Barnsley40 shows [ 6Karo, 6Herz ]
+Kotalin mucks [ 4Herz, 4Kreuz ]
+Barnsley40 collected [ 0,11 $ ]
+
+
+
+#Game No : 551609986
+***** 888poker Hand History for Game 551609986 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:55:40
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,56 $ )
+Seat 3: chopper1166 ( 2,93 $ )
+Seat 4: iJohnny ( 5,97 $ )
+Seat 5: Barnsley40 ( 2,49 $ )
+Seat 6: pperhaps ( 0,80 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+iJohnny posts small blind [0,01 $]
+Barnsley40 folds
+pperhaps posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 9Kreuz ]
+algrud folds
+Kotalin folds
+blackfyord folds
+B2B_Suckouts folds
+chopper1166 folds
+iJohnny folds
+** Summary **
+pperhaps collected [ 0,03 $ ]
+
+
+
+#Game No : 551610035
+***** 888poker Hand History for Game 551610035 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:56:06
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,56 $ )
+Seat 4: iJohnny ( 5,96 $ )
+Seat 6: pperhaps ( 0,81 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+pperhaps posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 4Herz ]
+algrud folds
+Kotalin folds
+blackfyord raises [0,06 $]
+B2B_Suckouts folds
+iJohnny folds
+pperhaps folds
+lucifergaia folds
+** Summary **
+blackfyord did not show his hand
+blackfyord collected [ 0,05 $ ]
+
+
+
+#Game No : 551610095
+***** 888poker Hand History for Game 551610095 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:56:35
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: blackfyord ( 2,03 $ )
+Seat 2: B2B_Suckouts ( 3,56 $ )
+Seat 4: iJohnny ( 5,96 $ )
+Seat 6: pperhaps ( 0,80 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: algrud ( 1,20 $ )
+Seat 10: Kotalin ( 2 $ )
+lucifergaia posts small blind [0,01 $]
+algrud folds
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 7Pik ]
+blackfyord folds
+B2B_Suckouts folds
+iJohnny raises [0,06 $]
+pperhaps folds
+lucifergaia raises [0,19 $]
+Kotalin folds
+iJohnny folds
+** Summary **
+lucifergaia did not show his hand
+lucifergaia collected [ 0,14 $ ]
+
+
+
+#Game No : 551610151
+***** 888poker Hand History for Game 551610151 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:57:08
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: blackfyord ( 2,03 $ )
+Seat 2: B2B_Suckouts ( 3,56 $ )
+Seat 4: iJohnny ( 5,90 $ )
+Seat 6: pperhaps ( 0,80 $ )
+Seat 7: lucifergaia ( 2,08 $ )
+Seat 10: Kotalin ( 2 $ )
+Kotalin posts small blind [0,01 $]
+blackfyord posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 4Pik ]
+B2B_Suckouts folds
+iJohnny folds
+pperhaps calls [0,02 $]
+lucifergaia folds
+Kotalin folds
+blackfyord checks
+** Dealing flop ** [ KHerz, AKaro, 10Karo ]
+blackfyord checks
+pperhaps checks
+** Dealing turn ** [ 2Karo ]
+blackfyord checks
+pperhaps bets [0,06 $]
+blackfyord folds
+** Summary **
+pperhaps collected [ 0,05 $ ]
+
+
+
+#Game No : 551610269
+***** 888poker Hand History for Game 551610269 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:58:00
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: blackfyord ( 2,01 $ )
+Seat 2: B2B_Suckouts ( 3,56 $ )
+Seat 4: iJohnny ( 5,90 $ )
+Seat 5: SKDynasty ( 2 $ )
+Seat 6: pperhaps ( 0,83 $ )
+Seat 7: lucifergaia ( 2,08 $ )
+Seat 10: Kotalin ( 2 $ )
+blackfyord posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, JKreuz ]
+iJohnny folds
+SKDynasty raises [0,04 $]
+pperhaps folds
+lucifergaia folds
+Kotalin folds
+blackfyord folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ QPik, 2Herz, 2Kreuz ]
+B2B_Suckouts bets [0,04 $]
+SKDynasty calls [0,04 $]
+** Dealing turn ** [ 9Karo ]
+B2B_Suckouts bets [0,10 $]
+SKDynasty raises [0,20 $]
+B2B_Suckouts calls [0,10 $]
+** Dealing river ** [ 6Karo ]
+B2B_Suckouts checks
+SKDynasty checks
+** Summary **
+B2B_Suckouts shows [ 10Pik, JKreuz ]
+SKDynasty shows [ KPik, QKreuz ]
+SKDynasty collected [ 0,58 $ ]
+
+
+
+#Game No : 551610380
+***** 888poker Hand History for Game 551610380 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:58:52
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,26 $ )
+Seat 3: Wiktuar22 ( 0,80 $ )
+Seat 4: iJohnny ( 5,90 $ )
+Seat 5: SKDynasty ( 2,28 $ )
+Seat 6: pperhaps ( 0,83 $ )
+Seat 7: lucifergaia ( 2,08 $ )
+Seat 10: Kotalin ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Wiktuar22 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 5Kreuz ]
+iJohnny folds
+SKDynasty folds
+pperhaps calls [0,02 $]
+lucifergaia folds
+Kotalin raises [0,15 $]
+blackfyord folds
+B2B_Suckouts folds
+Wiktuar22 folds
+pperhaps folds
+** Summary **
+Kotalin did not show his hand
+Kotalin collected [ 0,07 $ ]
+
+
+
+#Game No : 551610448
+***** 888poker Hand History for Game 551610448 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:59:21
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 3,25 $ )
+Seat 3: Wiktuar22 ( 0,78 $ )
+Seat 4: iJohnny ( 5,90 $ )
+Seat 5: SKDynasty ( 2,28 $ )
+Seat 6: pperhaps ( 0,81 $ )
+Seat 7: lucifergaia ( 2,08 $ )
+Seat 10: Kotalin ( 2,05 $ )
+Wiktuar22 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 4Herz ]
+SKDynasty folds
+pperhaps calls [0,02 $]
+lucifergaia folds
+Kotalin folds
+blackfyord raises [0,08 $]
+B2B_Suckouts folds
+Wiktuar22 folds
+iJohnny folds
+pperhaps calls [0,06 $]
+** Dealing flop ** [ 8Kreuz, 4Karo, APik ]
+pperhaps checks
+blackfyord bets [0,12 $]
+pperhaps folds
+** Summary **
+blackfyord did not show his hand
+blackfyord collected [ 0,18 $ ]
+
+
+
+#Game No : 551610566
+***** 888poker Hand History for Game 551610566 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:00:12
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 3,25 $ )
+Seat 3: Wiktuar22 ( 0,77 $ )
+Seat 4: iJohnny ( 5,88 $ )
+Seat 5: SKDynasty ( 2,28 $ )
+Seat 6: pperhaps ( 0,73 $ )
+Seat 7: lucifergaia ( 2,08 $ )
+Seat 10: Kotalin ( 2,05 $ )
+iJohnny posts small blind [0,01 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, KHerz ]
+pperhaps folds
+lucifergaia folds
+Kotalin folds
+blackfyord folds
+B2B_Suckouts raises [0,06 $]
+Wiktuar22 raises [0,24 $]
+iJohnny folds
+SKDynasty folds
+B2B_Suckouts folds
+** Summary **
+Wiktuar22 did not show his hand
+Wiktuar22 collected [ 0,15 $ ]
+
+
+
+#Game No : 551610665
+***** 888poker Hand History for Game 551610665 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:01:00
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 3,19 $ )
+Seat 3: Wiktuar22 ( 0,86 $ )
+Seat 4: iJohnny ( 5,87 $ )
+Seat 5: SKDynasty ( 2,26 $ )
+Seat 6: pperhaps ( 0,73 $ )
+Seat 7: lucifergaia ( 2,08 $ )
+Seat 10: Kotalin ( 2,05 $ )
+SKDynasty posts small blind [0,01 $]
+pperhaps posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 7Karo ]
+lucifergaia folds
+Kotalin folds
+blackfyord folds
+B2B_Suckouts folds
+Wiktuar22 folds
+iJohnny raises [0,06 $]
+SKDynasty folds
+pperhaps calls [0,04 $]
+** Dealing flop ** [ 4Herz, 7Herz, KKreuz ]
+pperhaps checks
+iJohnny bets [0,08 $]
+pperhaps folds
+** Summary **
+iJohnny collected [ 0,13 $ ]
+
+
+
+#Game No : 551610750
+***** 888poker Hand History for Game 551610750 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:01:39
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 3,19 $ )
+Seat 3: Wiktuar22 ( 0,86 $ )
+Seat 4: iJohnny ( 5,94 $ )
+Seat 5: SKDynasty ( 2,25 $ )
+Seat 6: pperhaps ( 0,67 $ )
+Seat 7: lucifergaia ( 2,08 $ )
+Seat 9: akame1403 ( 1,01 $ )
+Seat 10: Kotalin ( 2,05 $ )
+pperhaps posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+akame1403 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 4Kreuz ]
+akame1403 checks
+Kotalin folds
+blackfyord folds
+B2B_Suckouts folds
+Wiktuar22 folds
+iJohnny raises [0,08 $]
+SKDynasty calls [0,08 $]
+pperhaps calls [0,07 $]
+lucifergaia folds
+akame1403 folds
+** Dealing flop ** [ AKaro, 3Pik, 9Karo ]
+pperhaps checks
+iJohnny bets [0,18 $]
+SKDynasty calls [0,18 $]
+pperhaps folds
+** Dealing turn ** [ 6Herz ]
+iJohnny checks
+SKDynasty bets [0,21 $]
+iJohnny calls [0,21 $]
+** Dealing river ** [ 4Karo ]
+iJohnny checks
+SKDynasty checks
+** Summary **
+iJohnny shows [ JKreuz, APik ]
+SKDynasty shows [ AKreuz, JKaro ]
+SKDynasty collected [ 0,50 $ ]
+iJohnny collected [ 0,50 $ ]
+
+
+
+#Game No : 551610884
+***** 888poker Hand History for Game 551610884 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:02:47
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 3,19 $ )
+Seat 3: Wiktuar22 ( 0,86 $ )
+Seat 4: iJohnny ( 5,97 $ )
+Seat 5: SKDynasty ( 2,28 $ )
+Seat 6: pperhaps ( 0,59 $ )
+Seat 7: lucifergaia ( 2,06 $ )
+Seat 9: akame1403 ( 0,99 $ )
+Seat 10: Kotalin ( 2,05 $ )
+lucifergaia posts small blind [0,01 $]
+akame1403 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, QKreuz ]
+Kotalin folds
+blackfyord folds
+B2B_Suckouts folds
+Wiktuar22 raises [0,08 $]
+iJohnny folds
+SKDynasty folds
+pperhaps calls [0,08 $]
+lucifergaia folds
+akame1403 calls [0,06 $]
+** Dealing flop ** [ 6Herz, QPik, JHerz ]
+akame1403 checks
+Wiktuar22 bets [0,12 $]
+pperhaps calls [0,12 $]
+akame1403 folds
+** Dealing turn ** [ 5Herz ]
+Wiktuar22 bets [0,32 $]
+pperhaps raises [0,39 $]
+Wiktuar22 calls [0,07 $]
+** Dealing river ** [ 9Pik ]
+** Summary **
+Wiktuar22 shows [ 6Kreuz, 6Karo ]
+pperhaps shows [ 10Herz, 2Herz ]
+pperhaps collected [ 1,20 $ ]
+
+
+
+#Game No : 551611010
+***** 888poker Hand History for Game 551611010 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:03:55
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 3,19 $ )
+Seat 3: Wiktuar22 ( 0,27 $ )
+Seat 4: iJohnny ( 5,97 $ )
+Seat 5: SKDynasty ( 2,28 $ )
+Seat 6: pperhaps ( 1,20 $ )
+Seat 7: lucifergaia ( 2,05 $ )
+Seat 9: akame1403 ( 0,91 $ )
+Seat 10: Kotalin ( 2,05 $ )
+akame1403 posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 3Karo ]
+blackfyord folds
+B2B_Suckouts folds
+Wiktuar22 folds
+iJohnny folds
+SKDynasty folds
+pperhaps raises [0,08 $]
+lucifergaia folds
+akame1403 folds
+Kotalin folds
+** Summary **
+pperhaps did not show his hand
+pperhaps collected [ 0,05 $ ]
+
+
+
+#Game No : 551611063
+***** 888poker Hand History for Game 551611063 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:04:20
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2,10 $ )
+Seat 2: B2B_Suckouts ( 3,19 $ )
+Seat 3: Wiktuar22 ( 0,27 $ )
+Seat 4: iJohnny ( 5,97 $ )
+Seat 5: SKDynasty ( 2,28 $ )
+Seat 6: pperhaps ( 1,23 $ )
+Seat 7: lucifergaia ( 2,05 $ )
+Seat 9: akame1403 ( 0,90 $ )
+Seat 10: Kotalin ( 2,03 $ )
+Kotalin posts small blind [0,01 $]
+blackfyord posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, JKreuz ]
+B2B_Suckouts folds
+Wiktuar22 folds
+iJohnny raises [0,08 $]
+SKDynasty folds
+pperhaps folds
+lucifergaia folds
+akame1403 calls [0,08 $]
+Kotalin folds
+blackfyord folds
+** Dealing flop ** [ 3Herz, QKaro, 8Herz ]
+iJohnny bets [0,09 $]
+akame1403 calls [0,09 $]
+** Dealing turn ** [ QHerz ]
+iJohnny checks
+akame1403 bets [0,02 $]
+iJohnny calls [0,02 $]
+** Dealing river ** [ 2Karo ]
+iJohnny checks
+akame1403 bets [0,02 $]
+iJohnny calls [0,02 $]
+** Summary **
+akame1403 shows [ APik, AKaro ]
+iJohnny mucks [ 9Pik, 10Pik ]
+akame1403 collected [ 0,43 $ ]
+
+
+
+#Game No : 551611192
+***** 888poker Hand History for Game 551611192 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:05:30
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2,08 $ )
+Seat 2: B2B_Suckouts ( 3,19 $ )
+Seat 3: Wiktuar22 ( 0,27 $ )
+Seat 4: iJohnny ( 5,76 $ )
+Seat 5: SKDynasty ( 2,28 $ )
+Seat 6: pperhaps ( 1,23 $ )
+Seat 7: lucifergaia ( 2,05 $ )
+Seat 9: akame1403 ( 1,12 $ )
+Seat 10: Kotalin ( 2,02 $ )
+blackfyord posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 5Kreuz ]
+Wiktuar22 folds
+iJohnny calls [0,02 $]
+SKDynasty folds
+pperhaps folds
+lucifergaia folds
+akame1403 calls [0,02 $]
+Kotalin folds
+blackfyord folds
+B2B_Suckouts checks
+** Dealing flop ** [ 6Kreuz, 7Pik, 5Herz ]
+B2B_Suckouts bets [0,02 $]
+iJohnny calls [0,02 $]
+akame1403 folds
+** Dealing turn ** [ 6Karo ]
+B2B_Suckouts checks
+iJohnny checks
+** Dealing river ** [ QHerz ]
+B2B_Suckouts bets [0,02 $]
+iJohnny folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,11 $ ]
+
+
+
+#Game No : 551611321
+***** 888poker Hand History for Game 551611321 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:06:33
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2,07 $ )
+Seat 2: B2B_Suckouts ( 3,26 $ )
+Seat 3: Wiktuar22 ( 0,27 $ )
+Seat 4: iJohnny ( 5,72 $ )
+Seat 5: SKDynasty ( 2,28 $ )
+Seat 6: pperhaps ( 1,23 $ )
+Seat 7: lucifergaia ( 2,05 $ )
+Seat 9: akame1403 ( 1,10 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Wiktuar22 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, QKaro ]
+iJohnny folds
+SKDynasty folds
+pperhaps calls [0,02 $]
+lucifergaia folds
+akame1403 calls [0,02 $]
+blackfyord folds
+B2B_Suckouts raises [0,07 $]
+Wiktuar22 calls [0,06 $]
+pperhaps calls [0,06 $]
+akame1403 folds
+** Dealing flop ** [ 10Herz, 3Pik, JKreuz ]
+B2B_Suckouts bets [0,13 $]
+Wiktuar22 folds
+pperhaps calls [0,13 $]
+** Dealing turn ** [ JPik ]
+B2B_Suckouts bets [0,17 $]
+pperhaps folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,49 $ ]
+
+
+
+#Game No : 551611438
+***** 888poker Hand History for Game 551611438 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:07:31
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2,07 $ )
+Seat 2: B2B_Suckouts ( 3,54 $ )
+Seat 3: Wiktuar22 ( 0,19 $ )
+Seat 4: iJohnny ( 5,72 $ )
+Seat 5: SKDynasty ( 2,28 $ )
+Seat 6: pperhaps ( 1,02 $ )
+Seat 7: lucifergaia ( 2,05 $ )
+Seat 9: akame1403 ( 1,08 $ )
+Wiktuar22 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 3Kreuz ]
+SKDynasty folds
+pperhaps folds
+lucifergaia folds
+akame1403 calls [0,02 $]
+blackfyord folds
+B2B_Suckouts raises [0,06 $]
+Wiktuar22 raises [0,18 $]
+iJohnny calls [0,17 $]
+akame1403 folds
+B2B_Suckouts folds
+** Dealing flop ** [ 3Pik, 7Herz, KHerz ]
+** Dealing turn ** [ 10Karo ]
+** Dealing river ** [ 7Pik ]
+** Summary **
+Wiktuar22 shows [ 8Pik, 8Herz ]
+iJohnny shows [ 10Kreuz, APik ]
+iJohnny collected [ 0,44 $ ]
+
+
+
+#Game No : 551611520
+***** 888poker Hand History for Game 551611520 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:08:17
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: blackfyord ( 2,07 $ )
+Seat 2: B2B_Suckouts ( 3,48 $ )
+Seat 4: iJohnny ( 5,97 $ )
+Seat 5: SKDynasty ( 2,28 $ )
+Seat 7: lucifergaia ( 2,05 $ )
+Seat 9: akame1403 ( 1,06 $ )
+SKDynasty posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 2Pik ]
+akame1403 calls [0,02 $]
+blackfyord folds
+B2B_Suckouts folds
+iJohnny folds
+SKDynasty folds
+lucifergaia checks
+** Dealing flop ** [ 10Karo, 4Kreuz, 4Pik ]
+lucifergaia checks
+akame1403 checks
+** Dealing turn ** [ AKaro ]
+lucifergaia checks
+akame1403 bets [0,02 $]
+lucifergaia calls [0,02 $]
+** Dealing river ** [ QHerz ]
+lucifergaia checks
+akame1403 bets [0,16 $]
+lucifergaia folds
+** Summary **
+akame1403 did not show his hand
+akame1403 collected [ 0,09 $ ]
+
+
+
+#Game No : 551611584
+***** 888poker Hand History for Game 551611584 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:08:50
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: blackfyord ( 2,07 $ )
+Seat 2: B2B_Suckouts ( 3,48 $ )
+Seat 4: iJohnny ( 5,97 $ )
+Seat 7: lucifergaia ( 2,01 $ )
+Seat 9: akame1403 ( 1,11 $ )
+akame1403 posts small blind [0,01 $]
+blackfyord posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, AKreuz ]
+B2B_Suckouts folds
+iJohnny folds
+lucifergaia raises [0,07 $]
+akame1403 calls [0,06 $]
+blackfyord folds
+** Dealing flop ** [ JKreuz, AKaro, JHerz ]
+akame1403 bets [0,02 $]
+lucifergaia calls [0,02 $]
+** Dealing turn ** [ 7Herz ]
+akame1403 bets [0,02 $]
+lucifergaia calls [0,02 $]
+** Dealing river ** [ 6Karo ]
+akame1403 bets [0,02 $]
+lucifergaia calls [0,02 $]
+** Summary **
+akame1403 shows [ QKreuz, QKaro ]
+lucifergaia shows [ 4Herz, APik ]
+lucifergaia collected [ 0,27 $ ]
+
+
+
+#Game No : 551611665
+***** 888poker Hand History for Game 551611665 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:09:29
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: blackfyord ( 2,05 $ )
+Seat 2: B2B_Suckouts ( 3,48 $ )
+Seat 3: avramia1 ( 2 $ )
+Seat 4: iJohnny ( 5,97 $ )
+Seat 7: lucifergaia ( 2,15 $ )
+Seat 9: akame1403 ( 0,98 $ )
+blackfyord posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, JKaro ]
+avramia1 checks
+iJohnny folds
+lucifergaia folds
+akame1403 calls [0,02 $]
+blackfyord folds
+B2B_Suckouts checks
+** Dealing flop ** [ AKaro, 9Kreuz, KPik ]
+B2B_Suckouts checks
+avramia1 checks
+akame1403 checks
+** Dealing turn ** [ 5Herz ]
+B2B_Suckouts checks
+avramia1 checks
+akame1403 checks
+** Dealing river ** [ QHerz ]
+B2B_Suckouts checks
+avramia1 checks
+akame1403 checks
+** Summary **
+B2B_Suckouts shows [ 3Kreuz, JKaro ]
+avramia1 shows [ 7Kreuz, QKaro ]
+akame1403 mucks [ 3Herz, 5Pik ]
+avramia1 collected [ 0,07 $ ]
+
+
+
+#Game No : 551611752
+***** 888poker Hand History for Game 551611752 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:10:16
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2,04 $ )
+Seat 2: B2B_Suckouts ( 3,46 $ )
+Seat 3: avramia1 ( 2,05 $ )
+Seat 4: iJohnny ( 5,97 $ )
+Seat 5: BlueSolution ( 2 $ )
+Seat 7: lucifergaia ( 2,15 $ )
+Seat 9: akame1403 ( 0,96 $ )
+Seat 10: ALisovskiy ( 0,80 $ )
+B2B_Suckouts posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+BlueSolution posts big blind [0,02 $]
+ALisovskiy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 10Kreuz ]
+iJohnny folds
+BlueSolution raises [0,02 $]
+lucifergaia folds
+akame1403 calls [0,04 $]
+ALisovskiy calls [0,02 $]
+blackfyord calls [0,04 $]
+B2B_Suckouts calls [0,03 $]
+avramia1 calls [0,02 $]
+** Dealing flop ** [ JKaro, 2Karo, 10Pik ]
+B2B_Suckouts checks
+avramia1 checks
+BlueSolution bets [0,20 $]
+akame1403 calls [0,20 $]
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts raises [3,42 $]
+avramia1 folds
+BlueSolution folds
+akame1403 calls [0,72 $]
+** Dealing turn ** [ 7Kreuz ]
+** Dealing river ** [ 6Karo ]
+** Summary **
+B2B_Suckouts shows [ JHerz, 10Kreuz ]
+akame1403 shows [ 2Pik, 2Kreuz ]
+akame1403 collected [ 2,14 $ ]
+
+
+
+#Game No : 551611902
+***** 888poker Hand History for Game 551611902 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:11:34
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,50 $ )
+Seat 3: avramia1 ( 2,01 $ )
+Seat 4: iJohnny ( 5,97 $ )
+Seat 5: BlueSolution ( 1,76 $ )
+Seat 7: lucifergaia ( 2,15 $ )
+Seat 9: akame1403 ( 2,14 $ )
+Seat 10: ALisovskiy ( 0,76 $ )
+avramia1 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, QHerz ]
+BlueSolution folds
+lucifergaia folds
+akame1403 calls [0,02 $]
+ALisovskiy calls [0,02 $]
+blackfyord folds
+B2B_Suckouts folds
+avramia1 calls [0,01 $]
+iJohnny checks
+** Dealing flop ** [ 4Karo, AKreuz, 3Pik ]
+avramia1 checks
+iJohnny checks
+akame1403 checks
+ALisovskiy checks
+** Dealing turn ** [ JHerz ]
+avramia1 checks
+iJohnny checks
+akame1403 checks
+ALisovskiy checks
+** Dealing river ** [ 2Herz ]
+avramia1 checks
+iJohnny checks
+akame1403 checks
+ALisovskiy checks
+** Summary **
+avramia1 shows [ 7Kreuz, KKreuz ]
+iJohnny shows [ 9Karo, JKaro ]
+akame1403 mucks [ KKaro, 3Karo ]
+ALisovskiy mucks [ QPik, 8Kreuz ]
+iJohnny collected [ 0,08 $ ]
+
+
+
+#Game No : 551611989
+***** 888poker Hand History for Game 551611989 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:12:19
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,50 $ )
+Seat 3: avramia1 ( 1,99 $ )
+Seat 4: iJohnny ( 6,03 $ )
+Seat 5: BlueSolution ( 1,76 $ )
+Seat 7: lucifergaia ( 2,15 $ )
+Seat 9: akame1403 ( 2,12 $ )
+Seat 10: ALisovskiy ( 0,74 $ )
+iJohnny posts small blind [0,01 $]
+BlueSolution posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 8Herz ]
+lucifergaia folds
+akame1403 calls [0,02 $]
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts folds
+avramia1 folds
+iJohnny raises [0,09 $]
+BlueSolution folds
+akame1403 folds
+** Summary **
+iJohnny collected [ 0,06 $ ]
+
+
+
+#Game No : 551612040
+***** 888poker Hand History for Game 551612040 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:12:42
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,50 $ )
+Seat 3: avramia1 ( 1,99 $ )
+Seat 4: iJohnny ( 6,07 $ )
+Seat 5: BlueSolution ( 1,74 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: lucifergaia ( 2,15 $ )
+Seat 9: akame1403 ( 2,10 $ )
+Seat 10: ALisovskiy ( 0,74 $ )
+BlueSolution posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 2Pik ]
+lucifergaia folds
+akame1403 calls [0,02 $]
+ALisovskiy folds
+blackfyord raises [0,08 $]
+B2B_Suckouts folds
+avramia1 folds
+iJohnny folds
+BlueSolution calls [0,07 $]
+getterrrr folds
+akame1403 folds
+** Dealing flop ** [ KKaro, 5Kreuz, 8Pik ]
+BlueSolution checks
+blackfyord bets [0,13 $]
+BlueSolution calls [0,13 $]
+** Dealing turn ** [ 3Pik ]
+BlueSolution bets [1,53 $]
+blackfyord folds
+** Summary **
+BlueSolution did not show his hand
+BlueSolution collected [ 0,44 $ ]
+
+
+
+#Game No : 551612126
+***** 888poker Hand History for Game 551612126 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:13:28
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,50 $ )
+Seat 3: avramia1 ( 1,99 $ )
+Seat 4: iJohnny ( 6,07 $ )
+Seat 5: BlueSolution ( 1,97 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: lucifergaia ( 2,15 $ )
+Seat 9: akame1403 ( 2,08 $ )
+Seat 10: ALisovskiy ( 0,74 $ )
+getterrrr posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, JKaro ]
+akame1403 calls [0,02 $]
+ALisovskiy calls [0,02 $]
+blackfyord folds
+B2B_Suckouts raises [0,06 $]
+avramia1 folds
+iJohnny folds
+BlueSolution folds
+getterrrr calls [0,05 $]
+lucifergaia folds
+akame1403 folds
+ALisovskiy calls [0,04 $]
+** Dealing flop ** [ 8Kreuz, 9Kreuz, 9Herz ]
+getterrrr checks
+ALisovskiy bets [0,11 $]
+B2B_Suckouts calls [0,11 $]
+getterrrr calls [0,11 $]
+** Dealing turn ** [ KKreuz ]
+getterrrr checks
+ALisovskiy checks
+B2B_Suckouts bets [0,27 $]
+getterrrr calls [0,27 $]
+ALisovskiy folds
+** Dealing river ** [ AHerz ]
+getterrrr bets [0,71 $]
+B2B_Suckouts folds
+** Summary **
+getterrrr collected [ 1,03 $ ]
+
+
+
+#Game No : 551612303
+***** 888poker Hand History for Game 551612303 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:14:53
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,06 $ )
+Seat 3: avramia1 ( 1,99 $ )
+Seat 4: iJohnny ( 6,07 $ )
+Seat 5: BlueSolution ( 1,97 $ )
+Seat 6: getterrrr ( 2,59 $ )
+Seat 7: lucifergaia ( 2,13 $ )
+Seat 9: Johnyspb1 ( 2 $ )
+Seat 10: ALisovskiy ( 0,57 $ )
+lucifergaia posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 2Karo ]
+ALisovskiy calls [0,02 $]
+blackfyord folds
+B2B_Suckouts folds
+avramia1 calls [0,02 $]
+iJohnny folds
+BlueSolution calls [0,02 $]
+getterrrr folds
+lucifergaia folds
+Johnyspb1 checks
+** Dealing flop ** [ 6Pik, 4Herz, 7Herz ]
+Johnyspb1 bets [0,02 $]
+ALisovskiy calls [0,02 $]
+avramia1 calls [0,02 $]
+BlueSolution raises [0,04 $]
+Johnyspb1 folds
+ALisovskiy raises [0,53 $]
+avramia1 folds
+BlueSolution calls [0,51 $]
+** Dealing turn ** [ 3Karo ]
+** Dealing river ** [ 5Karo ]
+** Summary **
+BlueSolution shows [ 6Karo, 6Herz ]
+ALisovskiy shows [ 7Kreuz, 7Pik ]
+ALisovskiy collected [ 0,58 $ ]
+BlueSolution collected [ 0,58 $ ]
+
+
+
+#Game No : 551612419
+***** 888poker Hand History for Game 551612419 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:15:49
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,06 $ )
+Seat 3: avramia1 ( 1,95 $ )
+Seat 4: iJohnny ( 6,07 $ )
+Seat 5: BlueSolution ( 1,98 $ )
+Seat 6: getterrrr ( 2,59 $ )
+Seat 7: lucifergaia ( 2,12 $ )
+Seat 9: Johnyspb1 ( 2 $ )
+Seat 10: ALisovskiy ( 0,58 $ )
+Johnyspb1 posts small blind [0,01 $]
+ALisovskiy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, AKreuz ]
+blackfyord folds
+B2B_Suckouts folds
+avramia1 calls [0,02 $]
+iJohnny folds
+BlueSolution calls [0,02 $]
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy checks
+** Dealing flop ** [ KPik, 5Kreuz, 4Herz ]
+ALisovskiy checks
+avramia1 checks
+BlueSolution checks
+** Dealing turn ** [ 9Karo ]
+ALisovskiy checks
+avramia1 checks
+BlueSolution checks
+** Dealing river ** [ QKreuz ]
+ALisovskiy checks
+avramia1 checks
+BlueSolution checks
+** Summary **
+ALisovskiy shows [ 4Pik, JPik ]
+avramia1 shows [ QPik, APik ]
+BlueSolution mucks [ 7Pik, 6Pik ]
+avramia1 collected [ 0,07 $ ]
+
+
+
+#Game No : 551612510
+***** 888poker Hand History for Game 551612510 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:16:35
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,06 $ )
+Seat 3: avramia1 ( 2 $ )
+Seat 4: iJohnny ( 6,07 $ )
+Seat 5: BlueSolution ( 1,96 $ )
+Seat 6: getterrrr ( 2,59 $ )
+Seat 7: lucifergaia ( 2,12 $ )
+Seat 9: Johnyspb1 ( 1,99 $ )
+Seat 10: ALisovskiy ( 0,56 $ )
+ALisovskiy posts small blind [0,01 $]
+blackfyord folds
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, AKreuz ]
+avramia1 calls [0,02 $]
+iJohnny folds
+BlueSolution calls [0,02 $]
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 3Pik, 4Pik, 7Herz ]
+ALisovskiy checks
+B2B_Suckouts checks
+avramia1 checks
+BlueSolution bets [0,02 $]
+ALisovskiy folds
+B2B_Suckouts folds
+avramia1 calls [0,02 $]
+** Dealing turn ** [ AKaro ]
+avramia1 checks
+BlueSolution checks
+** Dealing river ** [ 10Kreuz ]
+avramia1 checks
+BlueSolution bets [0,24 $]
+avramia1 folds
+** Summary **
+BlueSolution collected [ 0,12 $ ]
+
+
+
+#Game No : 551612639
+***** 888poker Hand History for Game 551612639 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:17:41
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 2,04 $ )
+Seat 3: avramia1 ( 1,96 $ )
+Seat 4: iJohnny ( 6,07 $ )
+Seat 5: BlueSolution ( 2,04 $ )
+Seat 6: getterrrr ( 2,59 $ )
+Seat 7: lucifergaia ( 2,12 $ )
+Seat 9: Johnyspb1 ( 1,99 $ )
+Seat 10: ALisovskiy ( 0,54 $ )
+B2B_Suckouts posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Pik ]
+iJohnny folds
+BlueSolution folds
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy raises [0,06 $]
+B2B_Suckouts calls [0,05 $]
+avramia1 folds
+** Dealing flop ** [ APik, 3Pik, KPik ]
+B2B_Suckouts checks
+ALisovskiy bets [0,07 $]
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ 4Kreuz ]
+B2B_Suckouts checks
+ALisovskiy checks
+** Dealing river ** [ QKaro ]
+B2B_Suckouts bets [0,18 $]
+ALisovskiy folds
+** Summary **
+B2B_Suckouts collected [ 0,27 $ ]
+
+
+
+#Game No : 551612789
+***** 888poker Hand History for Game 551612789 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:18:49
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 2,18 $ )
+Seat 3: avramia1 ( 1,94 $ )
+Seat 4: iJohnny ( 6,07 $ )
+Seat 5: BlueSolution ( 2,04 $ )
+Seat 6: getterrrr ( 2,59 $ )
+Seat 7: lucifergaia ( 2,12 $ )
+Seat 9: Johnyspb1 ( 1,99 $ )
+Seat 10: ALisovskiy ( 0,41 $ )
+avramia1 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 3Karo ]
+BlueSolution folds
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy raises [0,04 $]
+B2B_Suckouts folds
+avramia1 folds
+iJohnny folds
+** Summary **
+ALisovskiy collected [ 0,05 $ ]
+
+
+
+#Game No : 551612843
+***** 888poker Hand History for Game 551612843 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:19:10
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 2,18 $ )
+Seat 3: avramia1 ( 1,93 $ )
+Seat 4: iJohnny ( 6,05 $ )
+Seat 5: BlueSolution ( 2,04 $ )
+Seat 6: getterrrr ( 2,59 $ )
+Seat 7: lucifergaia ( 2,12 $ )
+Seat 9: Johnyspb1 ( 1,99 $ )
+Seat 10: ALisovskiy ( 0,44 $ )
+iJohnny posts small blind [0,01 $]
+BlueSolution folds
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, KKaro ]
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy folds
+B2B_Suckouts folds
+avramia1 raises [0,04 $]
+iJohnny folds
+getterrrr folds
+** Summary **
+avramia1 collected [ 0,05 $ ]
+
+
+
+#Game No : 551612907
+***** 888poker Hand History for Game 551612907 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:19:37
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: B2B_Suckouts ( 2,18 $ )
+Seat 3: avramia1 ( 1,96 $ )
+Seat 4: iJohnny ( 6,04 $ )
+Seat 6: getterrrr ( 2,57 $ )
+Seat 7: lucifergaia ( 2,12 $ )
+Seat 9: Johnyspb1 ( 1,99 $ )
+Seat 10: ALisovskiy ( 0,44 $ )
+getterrrr posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 4Herz ]
+Johnyspb1 folds
+ALisovskiy folds
+B2B_Suckouts folds
+avramia1 calls [0,02 $]
+iJohnny folds
+getterrrr folds
+lucifergaia checks
+** Dealing flop ** [ 4Karo, 2Karo, 3Pik ]
+lucifergaia checks
+avramia1 checks
+** Dealing turn ** [ 8Karo ]
+lucifergaia checks
+avramia1 checks
+** Dealing river ** [ JKaro ]
+lucifergaia checks
+avramia1 checks
+** Summary **
+lucifergaia shows [ JHerz, 6Pik ]
+avramia1 mucks [ KPik, 9Pik ]
+lucifergaia collected [ 0,05 $ ]
+
+
+
+#Game No : 551613017
+***** 888poker Hand History for Game 551613017 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:20:28
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 2,18 $ )
+Seat 3: avramia1 ( 1,94 $ )
+Seat 4: iJohnny ( 6,04 $ )
+Seat 5: BlueSolution ( 2,04 $ )
+Seat 6: getterrrr ( 2,56 $ )
+Seat 7: lucifergaia ( 2,15 $ )
+Seat 9: Johnyspb1 ( 1,99 $ )
+Seat 10: ALisovskiy ( 0,44 $ )
+lucifergaia posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+BlueSolution posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 9Kreuz ]
+ALisovskiy folds
+B2B_Suckouts folds
+avramia1 folds
+iJohnny folds
+BlueSolution checks
+getterrrr folds
+lucifergaia folds
+Johnyspb1 checks
+** Dealing flop ** [ KKaro, 3Kreuz, QPik ]
+Johnyspb1 checks
+BlueSolution checks
+** Dealing turn ** [ 10Kreuz ]
+Johnyspb1 checks
+BlueSolution checks
+** Dealing river ** [ KHerz ]
+Johnyspb1 checks
+BlueSolution checks
+** Summary **
+Johnyspb1 shows [ 4Karo, 5Kreuz ]
+BlueSolution shows [ 7Herz, 2Kreuz ]
+BlueSolution collected [ 0,06 $ ]
+
+
+
+#Game No : 551613212
+***** 888poker Hand History for Game 551613212 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:22:01
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( 2,18 $ )
+Seat 3: avramia1 ( 1,94 $ )
+Seat 4: iJohnny ( 6,04 $ )
+Seat 5: BlueSolution ( 2,07 $ )
+Seat 6: getterrrr ( 2,56 $ )
+Seat 7: lucifergaia ( 2,14 $ )
+Seat 9: Johnyspb1 ( 1,97 $ )
+Seat 10: ALisovskiy ( 0,44 $ )
+Johnyspb1 posts small blind [0,01 $]
+ALisovskiy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 5Pik ]
+B2B_Suckouts folds
+avramia1 calls [0,02 $]
+iJohnny folds
+BlueSolution calls [0,02 $]
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy checks
+** Dealing flop ** [ APik, 7Pik, AKaro ]
+ALisovskiy checks
+avramia1 checks
+BlueSolution checks
+** Dealing turn ** [ JHerz ]
+ALisovskiy checks
+avramia1 checks
+BlueSolution checks
+** Dealing river ** [ 8Pik ]
+ALisovskiy bets [0,02 $]
+avramia1 folds
+BlueSolution folds
+** Summary **
+ALisovskiy collected [ 0,07 $ ]
+
+
+
+#Game No : 551613313
+***** 888poker Hand History for Game 551613313 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:22:48
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,18 $ )
+Seat 3: avramia1 ( 1,92 $ )
+Seat 4: iJohnny ( 6,04 $ )
+Seat 5: BlueSolution ( 2,05 $ )
+Seat 6: getterrrr ( 2,56 $ )
+Seat 7: lucifergaia ( 2,14 $ )
+Seat 9: Johnyspb1 ( 1,96 $ )
+Seat 10: ALisovskiy ( 0,49 $ )
+ALisovskiy posts small blind [0,01 $]
+blackfyord posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 2Herz ]
+B2B_Suckouts folds
+avramia1 folds
+iJohnny folds
+BlueSolution calls [0,02 $]
+getterrrr raises [0,08 $]
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy folds
+blackfyord folds
+BlueSolution calls [0,06 $]
+** Dealing flop ** [ QPik, 9Pik, QKaro ]
+BlueSolution checks
+getterrrr bets [0,12 $]
+BlueSolution calls [0,12 $]
+** Dealing turn ** [ 2Karo ]
+BlueSolution checks
+getterrrr bets [0,28 $]
+BlueSolution calls [0,28 $]
+** Dealing river ** [ AKreuz ]
+BlueSolution checks
+getterrrr checks
+** Summary **
+BlueSolution shows [ 5Herz, APik ]
+getterrrr mucks [ 10Karo, 10Pik ]
+BlueSolution collected [ 0,93 $ ]
+
+
+
+#Game No : 551613462
+***** 888poker Hand History for Game 551613462 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:23:55
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,18 $ )
+Seat 3: avramia1 ( 1,92 $ )
+Seat 4: iJohnny ( 6,04 $ )
+Seat 5: BlueSolution ( 2,50 $ )
+Seat 6: getterrrr ( 2,08 $ )
+Seat 7: lucifergaia ( 2,14 $ )
+Seat 9: Johnyspb1 ( 1,96 $ )
+Seat 10: ALisovskiy ( 0,48 $ )
+blackfyord posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 10Pik ]
+avramia1 folds
+iJohnny folds
+BlueSolution calls [0,02 $]
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy calls [0,02 $]
+blackfyord folds
+B2B_Suckouts raises [0,06 $]
+BlueSolution calls [0,06 $]
+ALisovskiy calls [0,06 $]
+** Dealing flop ** [ QKreuz, 2Pik, 3Pik ]
+B2B_Suckouts bets [0,08 $]
+BlueSolution calls [0,08 $]
+ALisovskiy folds
+** Dealing turn ** [ APik ]
+B2B_Suckouts checks
+BlueSolution checks
+** Dealing river ** [ 7Herz ]
+B2B_Suckouts bets [0,40 $]
+BlueSolution folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,39 $ ]
+
+
+
+#Game No : 551613579
+***** 888poker Hand History for Game 551613579 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:24:51
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,41 $ )
+Seat 3: avramia1 ( 1,92 $ )
+Seat 4: iJohnny ( 6,04 $ )
+Seat 5: BlueSolution ( 2,34 $ )
+Seat 6: getterrrr ( 2,08 $ )
+Seat 7: lucifergaia ( 2,14 $ )
+Seat 9: Johnyspb1 ( 1,96 $ )
+Seat 10: ALisovskiy ( 0,40 $ )
+B2B_Suckouts posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, KHerz ]
+iJohnny folds
+BlueSolution folds
+getterrrr folds
+lucifergaia folds
+Johnyspb1 calls [0,02 $]
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts raises [0,05 $]
+avramia1 folds
+Johnyspb1 calls [0,04 $]
+** Dealing flop ** [ 5Karo, 9Kreuz, 9Karo ]
+B2B_Suckouts bets [0,04 $]
+Johnyspb1 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 551613738
+***** 888poker Hand History for Game 551613738 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:26:07
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,49 $ )
+Seat 3: avramia1 ( 1,90 $ )
+Seat 4: iJohnny ( 6,04 $ )
+Seat 5: BlueSolution ( 2,34 $ )
+Seat 6: getterrrr ( 2,08 $ )
+Seat 7: lucifergaia ( 2,14 $ )
+Seat 9: Johnyspb1 ( 1,90 $ )
+Seat 10: ALisovskiy ( 0,40 $ )
+avramia1 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, QKaro ]
+BlueSolution calls [0,02 $]
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy raises [0,04 $]
+blackfyord folds
+B2B_Suckouts folds
+avramia1 calls [0,03 $]
+iJohnny folds
+BlueSolution calls [0,02 $]
+** Dealing flop ** [ 8Pik, 8Kreuz, 3Pik ]
+avramia1 checks
+BlueSolution checks
+ALisovskiy bets [0,14 $]
+avramia1 folds
+BlueSolution raises [0,28 $]
+ALisovskiy raises [0,22 $]
+BlueSolution calls [0,08 $]
+** Dealing turn ** [ 10Kreuz ]
+** Dealing river ** [ 7Karo ]
+** Summary **
+BlueSolution shows [ QHerz, 8Karo ]
+ALisovskiy shows [ APik, 6Pik ]
+BlueSolution collected [ 0,81 $ ]
+
+
+
+#Game No : 551613883
+***** 888poker Hand History for Game 551613883 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:27:21
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,49 $ )
+Seat 3: avramia1 ( 1,86 $ )
+Seat 4: iJohnny ( 6,02 $ )
+Seat 5: BlueSolution ( 2,75 $ )
+Seat 6: getterrrr ( 2,08 $ )
+Seat 7: lucifergaia ( 2,14 $ )
+Seat 9: Johnyspb1 ( 1,90 $ )
+Seat 10: ALisovskiy ( 0,80 $ )
+iJohnny posts small blind [0,01 $]
+BlueSolution posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 10Karo ]
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts folds
+avramia1 folds
+iJohnny raises [0,05 $]
+BlueSolution calls [0,04 $]
+** Dealing flop ** [ 10Kreuz, KHerz, 8Karo ]
+iJohnny checks
+BlueSolution checks
+** Dealing turn ** [ 3Kreuz ]
+iJohnny bets [0,06 $]
+BlueSolution calls [0,06 $]
+** Dealing river ** [ 2Karo ]
+iJohnny checks
+BlueSolution checks
+** Summary **
+iJohnny shows [ APik, QKaro ]
+BlueSolution mucks [ 7Kreuz, JPik ]
+iJohnny collected [ 0,23 $ ]
+
+
+
+#Game No : 551613997
+***** 888poker Hand History for Game 551613997 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:28:16
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,49 $ )
+Seat 3: avramia1 ( 1,86 $ )
+Seat 4: iJohnny ( 6,13 $ )
+Seat 5: BlueSolution ( 2,63 $ )
+Seat 6: getterrrr ( 2,08 $ )
+Seat 7: lucifergaia ( 2,14 $ )
+Seat 9: Johnyspb1 ( 1,90 $ )
+Seat 10: ALisovskiy ( 0,80 $ )
+BlueSolution posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 5Pik ]
+lucifergaia raises [0,07 $]
+Johnyspb1 folds
+ALisovskiy folds
+blackfyord calls [0,07 $]
+B2B_Suckouts folds
+avramia1 calls [0,07 $]
+iJohnny folds
+BlueSolution raises [0,11 $]
+getterrrr folds
+lucifergaia calls [0,05 $]
+blackfyord calls [0,05 $]
+avramia1 calls [0,05 $]
+** Dealing flop ** [ QKaro, 6Karo, 9Karo ]
+BlueSolution checks
+lucifergaia checks
+blackfyord checks
+avramia1 bets [0,25 $]
+BlueSolution calls [0,25 $]
+lucifergaia folds
+blackfyord folds
+** Dealing turn ** [ 9Pik ]
+BlueSolution bets [1,49 $]
+avramia1 calls [1,49 $]
+** Dealing river ** [ 2Kreuz ]
+** Summary **
+avramia1 shows [ JKaro, 10Karo ]
+BlueSolution shows [ KHerz, QHerz ]
+avramia1 collected [ 3,74 $ ]
+
+
+
+#Game No : 551614170
+***** 888poker Hand History for Game 551614170 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:29:38
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,49 $ )
+Seat 3: avramia1 ( 3,74 $ )
+Seat 4: iJohnny ( 6,13 $ )
+Seat 5: BlueSolution ( 0,77 $ )
+Seat 6: getterrrr ( 2,06 $ )
+Seat 7: lucifergaia ( 2,02 $ )
+Seat 9: Johnyspb1 ( 1,90 $ )
+Seat 10: ALisovskiy ( 0,80 $ )
+getterrrr posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, JPik ]
+Johnyspb1 folds
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts folds
+avramia1 folds
+iJohnny raises [0,06 $]
+BlueSolution calls [0,06 $]
+getterrrr calls [0,05 $]
+lucifergaia folds
+** Dealing flop ** [ 10Kreuz, 7Herz, 3Herz ]
+getterrrr checks
+iJohnny checks
+BlueSolution checks
+** Dealing turn ** [ 7Karo ]
+getterrrr bets [0,10 $]
+iJohnny folds
+BlueSolution calls [0,10 $]
+** Dealing river ** [ 4Pik ]
+getterrrr checks
+BlueSolution checks
+** Summary **
+getterrrr shows [ 8Kreuz, 8Karo ]
+BlueSolution mucks [ JHerz, 2Herz ]
+getterrrr collected [ 0,38 $ ]
+
+
+
+#Game No : 551614276
+***** 888poker Hand History for Game 551614276 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:30:34
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,49 $ )
+Seat 3: avramia1 ( 3,74 $ )
+Seat 4: iJohnny ( 6,07 $ )
+Seat 5: BlueSolution ( 0,61 $ )
+Seat 6: getterrrr ( 2,28 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: Johnyspb1 ( 1,90 $ )
+Seat 10: ALisovskiy ( 0,80 $ )
+lucifergaia posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, AHerz ]
+ALisovskiy calls [0,02 $]
+blackfyord folds
+B2B_Suckouts folds
+avramia1 folds
+iJohnny raises [0,10 $]
+BlueSolution folds
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy calls [0,08 $]
+** Dealing flop ** [ 7Karo, APik, 5Kreuz ]
+ALisovskiy checks
+iJohnny bets [0,11 $]
+ALisovskiy calls [0,11 $]
+** Dealing turn ** [ 2Karo ]
+ALisovskiy checks
+iJohnny checks
+** Dealing river ** [ JHerz ]
+ALisovskiy bets [0,18 $]
+iJohnny folds
+** Summary **
+ALisovskiy did not show his hand
+ALisovskiy collected [ 0,43 $ ]
+
+
+
+#Game No : 551614422
+***** 888poker Hand History for Game 551614422 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:31:50
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,49 $ )
+Seat 3: avramia1 ( 3,74 $ )
+Seat 4: iJohnny ( 5,86 $ )
+Seat 5: BlueSolution ( 0,61 $ )
+Seat 6: getterrrr ( 2,28 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: Johnyspb1 ( 1,88 $ )
+Seat 10: ALisovskiy ( 1,02 $ )
+Johnyspb1 posts small blind [0,01 $]
+ALisovskiy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 9Karo ]
+blackfyord folds
+B2B_Suckouts folds
+avramia1 folds
+iJohnny folds
+BlueSolution calls [0,02 $]
+getterrrr raises [0,08 $]
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy raises [0,34 $]
+BlueSolution folds
+getterrrr folds
+** Summary **
+ALisovskiy did not show his hand
+ALisovskiy collected [ 0,19 $ ]
+
+
+
+#Game No : 551614485
+***** 888poker Hand History for Game 551614485 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:32:20
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,49 $ )
+Seat 3: avramia1 ( 3,74 $ )
+Seat 4: iJohnny ( 5,86 $ )
+Seat 5: BlueSolution ( 0,59 $ )
+Seat 6: getterrrr ( 2,20 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: Johnyspb1 ( 1,87 $ )
+Seat 10: ALisovskiy ( 1,13 $ )
+ALisovskiy posts small blind [0,01 $]
+blackfyord posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 10Herz ]
+B2B_Suckouts folds
+avramia1 folds
+iJohnny raises [0,08 $]
+BlueSolution calls [0,08 $]
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy folds
+blackfyord folds
+** Dealing flop ** [ 2Kreuz, 3Herz, 2Pik ]
+iJohnny bets [0,19 $]
+BlueSolution calls [0,19 $]
+** Dealing turn ** [ 7Herz ]
+iJohnny bets [0,57 $]
+BlueSolution calls [0,32 $]
+** Dealing river ** [ 4Karo ]
+** Summary **
+iJohnny shows [ 9Herz, 9Kreuz ]
+BlueSolution shows [ QKaro, 6Karo ]
+iJohnny collected [ 1,14 $ ]
+
+
+
+#Game No : 551614583
+***** 888poker Hand History for Game 551614583 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:33:11
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,49 $ )
+Seat 3: avramia1 ( 3,74 $ )
+Seat 4: iJohnny ( 6,41 $ )
+Seat 6: getterrrr ( 2,20 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: Johnyspb1 ( 1,87 $ )
+Seat 10: ALisovskiy ( 1,12 $ )
+blackfyord posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 8Kreuz ]
+avramia1 folds
+iJohnny folds
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy calls [0,02 $]
+blackfyord folds
+B2B_Suckouts checks
+** Dealing flop ** [ 6Kreuz, JHerz, JKaro ]
+B2B_Suckouts bets [0,02 $]
+ALisovskiy folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551614681
+***** 888poker Hand History for Game 551614681 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:33:51
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,52 $ )
+Seat 3: Zamglai ( 2 $ )
+Seat 4: iJohnny ( 6,41 $ )
+Seat 5: heroic13 ( 0,80 $ )
+Seat 6: getterrrr ( 2,20 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: Johnyspb1 ( 1,87 $ )
+Seat 10: ALisovskiy ( 1,10 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Zamglai posts big blind [0,02 $]
+heroic13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 6Pik ]
+iJohnny folds
+heroic13 checks
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy calls [0,02 $]
+blackfyord folds
+B2B_Suckouts folds
+Zamglai checks
+** Dealing flop ** [ 7Karo, 9Kreuz, KPik ]
+Zamglai checks
+heroic13 checks
+ALisovskiy checks
+** Dealing turn ** [ 5Kreuz ]
+Zamglai checks
+heroic13 checks
+ALisovskiy checks
+** Dealing river ** [ 4Pik ]
+Zamglai checks
+heroic13 checks
+ALisovskiy checks
+** Summary **
+Zamglai shows [ JKreuz, 3Kreuz ]
+heroic13 shows [ 7Kreuz, JHerz ]
+ALisovskiy mucks [ 8Herz, AKreuz ]
+heroic13 collected [ 0,07 $ ]
+
+
+
+#Game No : 551614800
+***** 888poker Hand History for Game 551614800 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:34:55
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,51 $ )
+Seat 3: Zamglai ( 2 $ )
+Seat 4: iJohnny ( 6,41 $ )
+Seat 5: heroic13 ( 0,85 $ )
+Seat 6: getterrrr ( 2,20 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: Johnyspb1 ( 1,87 $ )
+Seat 10: ALisovskiy ( 1,08 $ )
+Zamglai posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 4Kreuz ]
+heroic13 folds
+getterrrr folds
+lucifergaia raises [0,07 $]
+Johnyspb1 folds
+ALisovskiy raises [0,24 $]
+blackfyord folds
+B2B_Suckouts folds
+Zamglai folds
+iJohnny folds
+lucifergaia calls [0,17 $]
+** Dealing flop ** [ AHerz, 2Kreuz, KPik ]
+lucifergaia checks
+ALisovskiy checks
+** Dealing turn ** [ 2Pik ]
+lucifergaia checks
+ALisovskiy bets [0,22 $]
+lucifergaia folds
+** Summary **
+ALisovskiy did not show his hand
+ALisovskiy collected [ 0,48 $ ]
+
+
+
+#Game No : 551614940
+***** 888poker Hand History for Game 551614940 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:35:57
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,51 $ )
+Seat 3: Zamglai ( 2 $ )
+Seat 4: iJohnny ( 6,39 $ )
+Seat 5: heroic13 ( 0,85 $ )
+Seat 6: getterrrr ( 2,20 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: Johnyspb1 ( 1,87 $ )
+Seat 10: ALisovskiy ( 1,32 $ )
+iJohnny posts small blind [0,01 $]
+heroic13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 7Herz ]
+getterrrr folds
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy calls [0,02 $]
+blackfyord folds
+B2B_Suckouts folds
+Zamglai folds
+iJohnny calls [0,01 $]
+heroic13 checks
+** Dealing flop ** [ 7Kreuz, 9Kreuz, 6Karo ]
+iJohnny checks
+heroic13 checks
+ALisovskiy checks
+** Dealing turn ** [ QKaro ]
+iJohnny checks
+heroic13 checks
+ALisovskiy checks
+** Dealing river ** [ 8Kreuz ]
+iJohnny checks
+heroic13 checks
+ALisovskiy checks
+** Summary **
+iJohnny shows [ 2Kreuz, AHerz ]
+heroic13 shows [ 9Pik, KPik ]
+ALisovskiy mucks [ 2Pik, KHerz ]
+heroic13 collected [ 0,06 $ ]
+
+
+
+#Game No : 551615045
+***** 888poker Hand History for Game 551615045 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:36:54
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,51 $ )
+Seat 3: Zamglai ( 2 $ )
+Seat 4: iJohnny ( 6,37 $ )
+Seat 5: heroic13 ( 0,89 $ )
+Seat 6: getterrrr ( 2,20 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: Johnyspb1 ( 1,87 $ )
+Seat 10: ALisovskiy ( 1,30 $ )
+heroic13 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, JPik ]
+lucifergaia folds
+Johnyspb1 folds
+ALisovskiy raises [0,07 $]
+blackfyord folds
+B2B_Suckouts calls [0,07 $]
+Zamglai folds
+iJohnny folds
+heroic13 calls [0,06 $]
+getterrrr folds
+** Dealing flop ** [ KKreuz, 9Karo, 2Pik ]
+heroic13 checks
+ALisovskiy bets [0,11 $]
+B2B_Suckouts folds
+heroic13 folds
+** Summary **
+ALisovskiy did not show his hand
+ALisovskiy collected [ 0,22 $ ]
+
+
+
+#Game No : 551615235
+***** 888poker Hand History for Game 551615235 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:38:30
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,44 $ )
+Seat 3: Zamglai ( 2 $ )
+Seat 4: iJohnny ( 6,37 $ )
+Seat 5: heroic13 ( 0,82 $ )
+Seat 6: getterrrr ( 2,18 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: Johnyspb1 ( 1,87 $ )
+Seat 10: ALisovskiy ( 1,45 $ )
+getterrrr posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 3Pik ]
+Johnyspb1 folds
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts folds
+Zamglai folds
+iJohnny raises [0,06 $]
+heroic13 folds
+getterrrr folds
+lucifergaia folds
+** Summary **
+iJohnny did not show his hand
+iJohnny collected [ 0,05 $ ]
+
+
+
+#Game No : 551615270
+***** 888poker Hand History for Game 551615270 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:38:50
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,44 $ )
+Seat 3: Zamglai ( 2 $ )
+Seat 4: iJohnny ( 6,40 $ )
+Seat 5: heroic13 ( 0,82 $ )
+Seat 6: getterrrr ( 2,17 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 9: Johnyspb1 ( 1,87 $ )
+Seat 10: ALisovskiy ( 1,45 $ )
+lucifergaia posts small blind [0,01 $]
+Johnyspb1 folds
+ALisovskiy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 4Pik ]
+blackfyord folds
+B2B_Suckouts folds
+Zamglai folds
+iJohnny raises [0,08 $]
+heroic13 folds
+getterrrr folds
+lucifergaia folds
+ALisovskiy folds
+** Summary **
+iJohnny did not show his hand
+iJohnny collected [ 0,05 $ ]
+
+
+
+#Game No : 551615313
+***** 888poker Hand History for Game 551615313 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:39:12
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,44 $ )
+Seat 3: Zamglai ( 2 $ )
+Seat 4: iJohnny ( 6,43 $ )
+Seat 5: heroic13 ( 0,82 $ )
+Seat 6: getterrrr ( 2,17 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 10: ALisovskiy ( 1,43 $ )
+ALisovskiy posts small blind [0,01 $]
+blackfyord posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, KKreuz ]
+B2B_Suckouts folds
+Zamglai folds
+iJohnny folds
+heroic13 folds
+getterrrr folds
+lucifergaia raises [0,07 $]
+ALisovskiy folds
+blackfyord folds
+** Summary **
+lucifergaia collected [ 0,05 $ ]
+
+
+
+#Game No : 551615356
+***** 888poker Hand History for Game 551615356 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:39:35
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,44 $ )
+Seat 3: Zamglai ( 2 $ )
+Seat 4: iJohnny ( 6,43 $ )
+Seat 5: heroic13 ( 0,82 $ )
+Seat 6: getterrrr ( 2,17 $ )
+Seat 7: lucifergaia ( 2,03 $ )
+Seat 10: ALisovskiy ( 1,42 $ )
+blackfyord posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, JKreuz ]
+Zamglai folds
+iJohnny calls [0,02 $]
+heroic13 raises [0,06 $]
+getterrrr raises [0,18 $]
+lucifergaia folds
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts folds
+iJohnny folds
+heroic13 calls [0,12 $]
+** Dealing flop ** [ 4Kreuz, 5Karo, QKaro ]
+heroic13 checks
+getterrrr checks
+** Dealing turn ** [ 4Herz ]
+heroic13 checks
+getterrrr bets [0,20 $]
+heroic13 calls [0,20 $]
+** Dealing river ** [ 6Herz ]
+heroic13 checks
+getterrrr checks
+** Summary **
+heroic13 shows [ JPik, JKaro ]
+getterrrr mucks [ KKreuz, AKreuz ]
+heroic13 collected [ 0,76 $ ]
+
+
+
+#Game No : 551615467
+***** 888poker Hand History for Game 551615467 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:40:33
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,42 $ )
+Seat 3: Zamglai ( 2 $ )
+Seat 4: iJohnny ( 6,41 $ )
+Seat 5: heroic13 ( 1,20 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: lucifergaia ( 2,03 $ )
+Seat 10: ALisovskiy ( 1,42 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Zamglai posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, KPik ]
+iJohnny folds
+heroic13 folds
+getterrrr folds
+lucifergaia folds
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts calls [0,01 $]
+Zamglai raises [0,06 $]
+B2B_Suckouts folds
+** Summary **
+Zamglai collected [ 0,04 $ ]
+
+
+
+#Game No : 551615521
+***** 888poker Hand History for Game 551615521 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:41:02
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,40 $ )
+Seat 3: Zamglai ( 2,02 $ )
+Seat 4: iJohnny ( 6,41 $ )
+Seat 5: heroic13 ( 1,20 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: lucifergaia ( 2,03 $ )
+Seat 10: ALisovskiy ( 1,42 $ )
+Zamglai posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 3Kreuz ]
+heroic13 folds
+getterrrr raises [0,06 $]
+lucifergaia folds
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts folds
+Zamglai folds
+iJohnny folds
+** Summary **
+getterrrr collected [ 0,05 $ ]
+
+
+
+#Game No : 551615568
+***** 888poker Hand History for Game 551615568 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:41:28
+Table Riga 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,40 $ )
+Seat 3: Zamglai ( 2,01 $ )
+Seat 4: iJohnny ( 6,39 $ )
+Seat 5: heroic13 ( 1,20 $ )
+Seat 6: getterrrr ( 2,03 $ )
+Seat 7: lucifergaia ( 2,03 $ )
+Seat 10: ALisovskiy ( 1,42 $ )
+iJohnny posts small blind [0,01 $]
+heroic13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 10Kreuz ]
+getterrrr folds
+lucifergaia folds
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts folds
+Zamglai raises [0,05 $]
+iJohnny folds
+heroic13 calls [0,03 $]
+** Dealing flop ** [ KHerz, 3Karo, 2Herz ]
+heroic13 checks
+Zamglai bets [0,06 $]
+heroic13 folds
+** Summary **
+Zamglai collected [ 0,11 $ ]
+
+
+
+#Game No : 551615651
+***** 888poker Hand History for Game 551615651 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:42:11
+Table Riga 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,40 $ )
+Seat 3: Zamglai ( 2,07 $ )
+Seat 4: iJohnny ( 6,38 $ )
+Seat 5: heroic13 ( 1,15 $ )
+Seat 6: getterrrr ( 2,03 $ )
+Seat 7: lucifergaia ( 2,03 $ )
+Seat 10: ALisovskiy ( 1,42 $ )
+heroic13 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 2Pik ]
+lucifergaia folds
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts folds
+Zamglai raises [0,05 $]
+iJohnny folds
+heroic13 folds
+getterrrr folds
+** Summary **
+Zamglai collected [ 0,05 $ ]
+
+
+
+#Game No : 551615703
+***** 888poker Hand History for Game 551615703 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:42:35
+Table Riga 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,40 $ )
+Seat 3: Zamglai ( 2,10 $ )
+Seat 4: iJohnny ( 6,38 $ )
+Seat 5: heroic13 ( 1,14 $ )
+Seat 6: getterrrr ( 2,01 $ )
+Seat 7: lucifergaia ( 2,03 $ )
+Seat 10: ALisovskiy ( 1,42 $ )
+getterrrr posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 5Herz ]
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts folds
+Zamglai folds
+iJohnny raises [0,06 $]
+heroic13 folds
+getterrrr folds
+lucifergaia folds
+** Summary **
+iJohnny collected [ 0,05 $ ]
+
+
+
+#Game No : 551615752
+***** 888poker Hand History for Game 551615752 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:43:02
+Table Riga 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,40 $ )
+Seat 3: Zamglai ( 2,10 $ )
+Seat 4: iJohnny ( 6,41 $ )
+Seat 5: heroic13 ( 1,14 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: lucifergaia ( 2,01 $ )
+Seat 10: ALisovskiy ( 1,42 $ )
+lucifergaia posts small blind [0,01 $]
+ALisovskiy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 3Pik ]
+blackfyord folds
+B2B_Suckouts folds
+Zamglai folds
+iJohnny folds
+heroic13 folds
+getterrrr folds
+lucifergaia calls [0,01 $]
+ALisovskiy raises [0,04 $]
+lucifergaia folds
+** Summary **
+ALisovskiy collected [ 0,04 $ ]
+
+
+
+#Game No : 551615807
+***** 888poker Hand History for Game 551615807 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:43:27
+Table Riga 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,40 $ )
+Seat 3: Zamglai ( 2,10 $ )
+Seat 4: iJohnny ( 6,41 $ )
+Seat 5: heroic13 ( 1,14 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 10: ALisovskiy ( 1,44 $ )
+ALisovskiy posts small blind [0,01 $]
+blackfyord posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 7Kreuz ]
+B2B_Suckouts folds
+Zamglai folds
+iJohnny folds
+heroic13 folds
+getterrrr raises [0,06 $]
+lucifergaia folds
+ALisovskiy calls [0,05 $]
+blackfyord folds
+** Dealing flop ** [ 3Pik, 8Karo, 3Herz ]
+ALisovskiy bets [0,04 $]
+getterrrr calls [0,04 $]
+** Dealing turn ** [ KPik ]
+ALisovskiy checks
+getterrrr bets [0,14 $]
+ALisovskiy folds
+** Summary **
+getterrrr collected [ 0,21 $ ]
+
+
+
+#Game No : 551615894
+***** 888poker Hand History for Game 551615894 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:44:12
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,40 $ )
+Seat 3: Zamglai ( 2,10 $ )
+Seat 4: iJohnny ( 6,41 $ )
+Seat 5: heroic13 ( 1,14 $ )
+Seat 6: getterrrr ( 2,11 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 10: ALisovskiy ( 1,34 $ )
+blackfyord posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 5Kreuz ]
+Zamglai folds
+iJohnny folds
+heroic13 folds
+getterrrr folds
+lucifergaia folds
+ALisovskiy raises [0,04 $]
+blackfyord folds
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 9Kreuz, 9Herz, JKaro ]
+B2B_Suckouts checks
+ALisovskiy checks
+** Dealing turn ** [ 2Pik ]
+B2B_Suckouts checks
+ALisovskiy bets [0,04 $]
+B2B_Suckouts folds
+** Summary **
+ALisovskiy collected [ 0,09 $ ]
+
+
+
+#Game No : 551615969
+***** 888poker Hand History for Game 551615969 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:44:52
+Table Riga 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,36 $ )
+Seat 3: Zamglai ( 2,10 $ )
+Seat 4: iJohnny ( 6,41 $ )
+Seat 5: heroic13 ( 1,14 $ )
+Seat 6: getterrrr ( 2,11 $ )
+Seat 7: lucifergaia ( 2 $ )
+Seat 10: ALisovskiy ( 1,39 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Zamglai posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 10Pik ]
+iJohnny folds
+heroic13 folds
+getterrrr folds
+lucifergaia raises [0,07 $]
+ALisovskiy folds
+blackfyord folds
+B2B_Suckouts folds
+Zamglai folds
+** Summary **
+lucifergaia collected [ 0,05 $ ]
+
+
+
+#Game No : 551616010
+***** 888poker Hand History for Game 551616010 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:45:18
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: blackfyord ( 2 $ )
+Seat 2: B2B_Suckouts ( 2,35 $ )
+Seat 3: Zamglai ( 2,08 $ )
+Seat 4: iJohnny ( 6,41 $ )
+Seat 5: heroic13 ( 1,14 $ )
+Seat 6: getterrrr ( 2,11 $ )
+Seat 7: lucifergaia ( 2,03 $ )
+Seat 10: ALisovskiy ( 1,39 $ )
+Zamglai posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, QKreuz ]
+heroic13 folds
+getterrrr folds
+lucifergaia folds
+ALisovskiy raises [0,04 $]
+blackfyord folds
+B2B_Suckouts raises [0,16 $]
+Zamglai folds
+iJohnny folds
+ALisovskiy folds
+** Summary **
+B2B_Suckouts collected [ 0,11 $ ]
+
+
+
