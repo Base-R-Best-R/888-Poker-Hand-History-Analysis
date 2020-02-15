@@ -1,0 +1,1829 @@
+#Game No : 1328916789
+***** 888poker Hand History for Game 1328916789 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:51:19
+Table Passos 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,11 $ )
+Seat 2: B2B_Suckouts ( 2 $ )
+Seat 3: HEpycckuu ( 0,23 $ )
+Seat 4: PlagueSnot ( 2,66 $ )
+Seat 5: muyb777 ( 1,51 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,59 $ )
+Seat 9: BillyBop ( 4,46 $ )
+Seat 10: Gugusik2010 ( 4,31 $ )
+Gugusik2010 posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 4Kreuz ]
+B2B_Suckouts checks
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+BillyBop calls [0,02 $]
+Gugusik2010 calls [0,01 $]
+irk2012 raises [0,10 $]
+B2B_Suckouts folds
+BillyBop folds
+Gugusik2010 folds
+** Summary **
+irk2012 did not show his hand
+irk2012 collected [ 0,08 $ ]
+
+
+
+#Game No : 1328916865
+***** 888poker Hand History for Game 1328916865 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:51:55
+Table Passos 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,17 $ )
+Seat 2: B2B_Suckouts ( 2 $ )
+Seat 3: HEpycckuu ( 0,23 $ )
+Seat 4: PlagueSnot ( 2,66 $ )
+Seat 5: muyb777 ( 1,51 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,59 $ )
+Seat 9: BillyBop ( 4,44 $ )
+Seat 10: Gugusik2010 ( 4,29 $ )
+irk2012 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, QKaro ]
+HEpycckuu folds
+PlagueSnot calls [0,02 $]
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+BillyBop folds
+Gugusik2010 calls [0,02 $]
+irk2012 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 6Kreuz, 4Herz, 3Kreuz ]
+B2B_Suckouts checks
+PlagueSnot bets [0,04 $]
+Gugusik2010 calls [0,04 $]
+B2B_Suckouts folds
+** Dealing turn ** [ 10Karo ]
+PlagueSnot bets [0,04 $]
+Gugusik2010 calls [0,04 $]
+** Dealing river ** [ 3Pik ]
+PlagueSnot bets [0,08 $]
+Gugusik2010 raises [0,24 $]
+PlagueSnot folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,37 $ ]
+
+
+
+#Game No : 1328917039
+***** 888poker Hand History for Game 1328917039 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:53:12
+Table Passos 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 2 $ )
+Seat 3: HEpycckuu ( 0,80 $ )
+Seat 4: PlagueSnot ( 2,48 $ )
+Seat 5: muyb777 ( 1,51 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,59 $ )
+Seat 9: BillyBop ( 4,44 $ )
+Seat 10: Gugusik2010 ( 4,48 $ )
+B2B_Suckouts posts small blind [0,01 $]
+HEpycckuu posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 7Kreuz ]
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+BillyBop calls [0,02 $]
+Gugusik2010 raises [0,08 $]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu calls [0,06 $]
+BillyBop folds
+** Dealing flop ** [ 7Pik, AHerz, 3Karo ]
+HEpycckuu checks
+Gugusik2010 checks
+** Dealing turn ** [ JKaro ]
+HEpycckuu checks
+Gugusik2010 checks
+** Dealing river ** [ 6Pik ]
+HEpycckuu checks
+Gugusik2010 bets [0,14 $]
+HEpycckuu folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,18 $ ]
+
+
+
+#Game No : 1328917253
+***** 888poker Hand History for Game 1328917253 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:54:40
+Table Passos 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 2 $ )
+Seat 3: HEpycckuu ( 0,72 $ )
+Seat 4: PlagueSnot ( 2,48 $ )
+Seat 5: muyb777 ( 1,51 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,59 $ )
+Seat 9: BillyBop ( 4,42 $ )
+Seat 10: Gugusik2010 ( 4,58 $ )
+HEpycckuu posts small blind [0,01 $]
+PlagueSnot posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, KPik ]
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+BillyBop calls [0,02 $]
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts calls [0,02 $]
+HEpycckuu calls [0,01 $]
+PlagueSnot checks
+** Dealing flop ** [ 7Pik, JPik, 6Kreuz ]
+HEpycckuu checks
+PlagueSnot checks
+BillyBop bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+HEpycckuu calls [0,02 $]
+PlagueSnot folds
+** Dealing turn ** [ 9Herz ]
+HEpycckuu checks
+BillyBop checks
+B2B_Suckouts checks
+** Dealing river ** [ JKreuz ]
+HEpycckuu checks
+BillyBop checks
+B2B_Suckouts checks
+** Summary **
+HEpycckuu shows [ QPik, 10Pik ]
+BillyBop mucks [ 4Kreuz, 5Pik ]
+B2B_Suckouts shows [ 7Herz, KPik ]
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 1328917609
+***** 888poker Hand History for Game 1328917609 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:57:13
+Table Passos 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 2,10 $ )
+Seat 3: HEpycckuu ( 0,68 $ )
+Seat 4: PlagueSnot ( 2,46 $ )
+Seat 5: muyb777 ( 1,51 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,59 $ )
+Seat 10: Gugusik2010 ( 4,58 $ )
+PlagueSnot posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, JKreuz ]
+1gadfly1 folds
+Bigmax_93 raises [0,06 $]
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+** Summary **
+Bigmax_93 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328917775
+***** 888poker Hand History for Game 1328917775 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:58:22
+Table Passos 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 2,10 $ )
+Seat 3: HEpycckuu ( 0,68 $ )
+Seat 4: PlagueSnot ( 2,45 $ )
+Seat 5: muyb777 ( 1,49 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,62 $ )
+Seat 10: Gugusik2010 ( 4,58 $ )
+muyb777 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 10Herz ]
+Bigmax_93 folds
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+** Summary **
+1gadfly1 collected [ 0,03 $ ]
+
+
+
+#Game No : 1328917883
+***** 888poker Hand History for Game 1328917883 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:59:03
+Table Passos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 2,10 $ )
+Seat 3: HEpycckuu ( 0,68 $ )
+Seat 4: PlagueSnot ( 2,45 $ )
+Seat 5: muyb777 ( 1,48 $ )
+Seat 6: 1gadfly1 ( 5,37 $ )
+Seat 7: Bigmax_93 ( 3,62 $ )
+Seat 10: Gugusik2010 ( 4,58 $ )
+1gadfly1 posts small blind [0,01 $]
+Bigmax_93 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 6Kreuz ]
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu raises [0,04 $]
+PlagueSnot calls [0,04 $]
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+** Dealing flop ** [ 3Kreuz, 5Kreuz, JHerz ]
+HEpycckuu bets [0,05 $]
+PlagueSnot calls [0,05 $]
+** Dealing turn ** [ 4Karo ]
+HEpycckuu checks
+PlagueSnot checks
+** Dealing river ** [ 2Pik ]
+HEpycckuu checks
+PlagueSnot bets [0,13 $]
+HEpycckuu calls [0,13 $]
+** Summary **
+PlagueSnot shows [ AKreuz, 9Kreuz ]
+HEpycckuu shows [ 3Pik, APik ]
+PlagueSnot collected [ 0,22 $ ]
+HEpycckuu collected [ 0,23 $ ]
+
+
+
+#Game No : 1328918136
+***** 888poker Hand History for Game 1328918136 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:00:33
+Table Passos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 2,10 $ )
+Seat 3: HEpycckuu ( 0,69 $ )
+Seat 4: PlagueSnot ( 2,45 $ )
+Seat 5: muyb777 ( 1,48 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,60 $ )
+Seat 10: Gugusik2010 ( 4,58 $ )
+Bigmax_93 posts small blind [0,01 $]
+Gugusik2010 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, AHerz ]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 raises [0,06 $]
+1gadfly1 folds
+Bigmax_93 folds
+Gugusik2010 folds
+** Summary **
+muyb777 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328918269
+***** 888poker Hand History for Game 1328918269 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:01:30
+Table Passos 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,16 $ )
+Seat 2: B2B_Suckouts ( 2,10 $ )
+Seat 3: HEpycckuu ( 0,69 $ )
+Seat 4: PlagueSnot ( 2,45 $ )
+Seat 5: muyb777 ( 1,51 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,59 $ )
+Seat 10: Gugusik2010 ( 4,56 $ )
+Gugusik2010 posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 9Pik ]
+B2B_Suckouts folds
+HEpycckuu calls [0,02 $]
+PlagueSnot folds
+muyb777 raises [0,08 $]
+1gadfly1 folds
+Bigmax_93 raises [0,24 $]
+Gugusik2010 folds
+irk2012 folds
+HEpycckuu folds
+muyb777 folds
+** Summary **
+Bigmax_93 collected [ 0,21 $ ]
+
+
+
+#Game No : 1328918411
+***** 888poker Hand History for Game 1328918411 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:02:25
+Table Passos 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,14 $ )
+Seat 2: B2B_Suckouts ( 2,10 $ )
+Seat 3: HEpycckuu ( 0,67 $ )
+Seat 4: PlagueSnot ( 2,45 $ )
+Seat 5: muyb777 ( 1,43 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,72 $ )
+Seat 10: Gugusik2010 ( 4,55 $ )
+irk2012 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, APik ]
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+Gugusik2010 folds
+irk2012 folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 1328918498
+***** 888poker Hand History for Game 1328918498 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:03:00
+Table Passos 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 2,11 $ )
+Seat 3: HEpycckuu ( 0,67 $ )
+Seat 4: PlagueSnot ( 2,45 $ )
+Seat 5: muyb777 ( 1,43 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,72 $ )
+Seat 10: Gugusik2010 ( 4,55 $ )
+B2B_Suckouts posts small blind [0,01 $]
+HEpycckuu posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, JPik ]
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 raises [0,06 $]
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts calls [0,05 $]
+HEpycckuu folds
+** Dealing flop ** [ 4Karo, 2Karo, AKreuz ]
+B2B_Suckouts checks
+Bigmax_93 checks
+** Dealing turn ** [ 7Herz ]
+B2B_Suckouts checks
+Bigmax_93 bets [0,08 $]
+B2B_Suckouts folds
+** Summary **
+Bigmax_93 collected [ 0,14 $ ]
+
+
+
+#Game No : 1328918599
+***** 888poker Hand History for Game 1328918599 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:03:44
+Table Passos 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 2,05 $ )
+Seat 3: HEpycckuu ( 0,65 $ )
+Seat 4: PlagueSnot ( 2,45 $ )
+Seat 5: muyb777 ( 1,43 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,80 $ )
+Seat 10: Gugusik2010 ( 4,55 $ )
+HEpycckuu posts small blind [0,01 $]
+PlagueSnot posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 5Herz ]
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+Gugusik2010 raises [0,05 $]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+** Summary **
+Gugusik2010 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328918669
+***** 888poker Hand History for Game 1328918669 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:04:14
+Table Passos 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 2,05 $ )
+Seat 3: HEpycckuu ( 0,64 $ )
+Seat 4: PlagueSnot ( 2,43 $ )
+Seat 5: muyb777 ( 1,43 $ )
+Seat 6: 1gadfly1 ( 5,36 $ )
+Seat 7: Bigmax_93 ( 3,80 $ )
+Seat 10: Gugusik2010 ( 4,58 $ )
+PlagueSnot posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 5Karo ]
+1gadfly1 raises [0,05 $]
+Bigmax_93 folds
+Gugusik2010 calls [0,05 $]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot calls [0,04 $]
+muyb777 folds
+** Dealing flop ** [ QHerz, KPik, 4Karo ]
+PlagueSnot bets [0,02 $]
+1gadfly1 raises [0,16 $]
+Gugusik2010 folds
+PlagueSnot folds
+** Summary **
+1gadfly1 collected [ 0,20 $ ]
+
+
+
+#Game No : 1328918812
+***** 888poker Hand History for Game 1328918812 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:05:12
+Table Passos 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 2,05 $ )
+Seat 3: HEpycckuu ( 0,64 $ )
+Seat 4: PlagueSnot ( 2,36 $ )
+Seat 5: muyb777 ( 1,41 $ )
+Seat 6: 1gadfly1 ( 5,49 $ )
+Seat 7: Bigmax_93 ( 3,80 $ )
+Seat 10: Gugusik2010 ( 4,53 $ )
+muyb777 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 9Pik ]
+Bigmax_93 calls [0,02 $]
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu calls [0,02 $]
+PlagueSnot folds
+muyb777 folds
+1gadfly1 checks
+** Dealing flop ** [ 5Kreuz, 2Herz, 8Kreuz ]
+1gadfly1 checks
+Bigmax_93 checks
+HEpycckuu checks
+** Dealing turn ** [ QPik ]
+1gadfly1 checks
+Bigmax_93 checks
+HEpycckuu bets [0,05 $]
+1gadfly1 folds
+Bigmax_93 folds
+** Summary **
+HEpycckuu collected [ 0,07 $ ]
+
+
+
+#Game No : 1328918955
+***** 888poker Hand History for Game 1328918955 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:06:16
+Table Passos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 2,05 $ )
+Seat 3: HEpycckuu ( 0,69 $ )
+Seat 4: PlagueSnot ( 2,36 $ )
+Seat 5: muyb777 ( 1,40 $ )
+Seat 6: 1gadfly1 ( 5,47 $ )
+Seat 7: Bigmax_93 ( 3,78 $ )
+Seat 10: Gugusik2010 ( 4,53 $ )
+1gadfly1 posts small blind [0,01 $]
+Bigmax_93 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, JHerz ]
+Gugusik2010 raises [0,04 $]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+** Summary **
+Gugusik2010 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328919042
+***** 888poker Hand History for Game 1328919042 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:06:55
+Table Passos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 2,05 $ )
+Seat 3: HEpycckuu ( 0,69 $ )
+Seat 4: PlagueSnot ( 2,36 $ )
+Seat 5: muyb777 ( 1,40 $ )
+Seat 6: 1gadfly1 ( 5,46 $ )
+Seat 7: Bigmax_93 ( 3,76 $ )
+Seat 9: xxflashxxx ( 1 $ )
+Seat 10: Gugusik2010 ( 4,56 $ )
+Bigmax_93 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 3Kreuz ]
+Gugusik2010 raises [0,04 $]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+xxflashxxx folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328919108
+***** 888poker Hand History for Game 1328919108 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:07:21
+Table Passos 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 2,05 $ )
+Seat 3: HEpycckuu ( 0,69 $ )
+Seat 4: PlagueSnot ( 2,36 $ )
+Seat 5: muyb777 ( 1,40 $ )
+Seat 6: 1gadfly1 ( 5,46 $ )
+Seat 7: Bigmax_93 ( 3,75 $ )
+Seat 9: xxflashxxx ( 0,98 $ )
+Seat 10: Gugusik2010 ( 4,59 $ )
+xxflashxxx posts small blind [0,01 $]
+Gugusik2010 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, KKaro ]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+xxflashxxx raises [0,03 $]
+Gugusik2010 calls [0,02 $]
+** Dealing flop ** [ 6Herz, AKaro, 2Pik ]
+xxflashxxx checks
+Gugusik2010 checks
+** Dealing turn ** [ JHerz ]
+xxflashxxx checks
+Gugusik2010 checks
+** Dealing river ** [ 3Pik ]
+xxflashxxx checks
+Gugusik2010 bets [0,05 $]
+xxflashxxx folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,08 $ ]
+
+
+
+#Game No : 1328919210
+***** 888poker Hand History for Game 1328919210 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:08:08
+Table Passos 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,13 $ )
+Seat 2: B2B_Suckouts ( 2,05 $ )
+Seat 3: HEpycckuu ( 0,69 $ )
+Seat 4: PlagueSnot ( 2,36 $ )
+Seat 5: muyb777 ( 1,40 $ )
+Seat 6: 1gadfly1 ( 5,46 $ )
+Seat 7: Bigmax_93 ( 3,75 $ )
+Seat 9: xxflashxxx ( 0,94 $ )
+Seat 10: Gugusik2010 ( 4,63 $ )
+Gugusik2010 posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 8Karo ]
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot calls [0,02 $]
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+xxflashxxx folds
+Gugusik2010 calls [0,01 $]
+irk2012 checks
+** Dealing flop ** [ 6Pik, QKreuz, 8Pik ]
+Gugusik2010 checks
+irk2012 bets [0,03 $]
+PlagueSnot calls [0,03 $]
+Gugusik2010 calls [0,03 $]
+** Dealing turn ** [ 5Pik ]
+Gugusik2010 checks
+irk2012 checks
+PlagueSnot bets [0,06 $]
+Gugusik2010 folds
+irk2012 calls [0,06 $]
+** Dealing river ** [ 10Pik ]
+irk2012 checks
+PlagueSnot checks
+** Summary **
+irk2012 shows [ QPik, 4Kreuz ]
+PlagueSnot mucks [ 7Pik, 7Herz ]
+irk2012 collected [ 0,26 $ ]
+
+
+
+#Game No : 1328919448
+***** 888poker Hand History for Game 1328919448 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:09:41
+Table Passos 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,28 $ )
+Seat 2: B2B_Suckouts ( 2,05 $ )
+Seat 3: HEpycckuu ( 0,69 $ )
+Seat 4: PlagueSnot ( 2,25 $ )
+Seat 5: muyb777 ( 1,40 $ )
+Seat 6: 1gadfly1 ( 5,46 $ )
+Seat 7: Bigmax_93 ( 3,75 $ )
+Seat 9: xxflashxxx ( 0,94 $ )
+Seat 10: Gugusik2010 ( 4,58 $ )
+irk2012 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 9Herz ]
+HEpycckuu calls [0,02 $]
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+xxflashxxx raises [0,06 $]
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu calls [0,04 $]
+** Dealing flop ** [ 5Pik, 10Herz, 8Herz ]
+HEpycckuu checks
+xxflashxxx checks
+** Dealing turn ** [ AHerz ]
+HEpycckuu bets [0,07 $]
+xxflashxxx calls [0,07 $]
+** Dealing river ** [ 7Pik ]
+HEpycckuu bets [0,09 $]
+xxflashxxx folds
+** Summary **
+HEpycckuu did not show his hand
+HEpycckuu collected [ 0,28 $ ]
+
+
+
+#Game No : 1328919674
+***** 888poker Hand History for Game 1328919674 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:11:14
+Table Passos 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,27 $ )
+Seat 2: B2B_Suckouts ( 2,03 $ )
+Seat 3: HEpycckuu ( 0,84 $ )
+Seat 4: PlagueSnot ( 2,25 $ )
+Seat 5: muyb777 ( 1,40 $ )
+Seat 6: 1gadfly1 ( 5,46 $ )
+Seat 7: Bigmax_93 ( 3,75 $ )
+Seat 9: xxflashxxx ( 0,81 $ )
+Seat 10: Gugusik2010 ( 4,58 $ )
+B2B_Suckouts posts small blind [0,01 $]
+HEpycckuu posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 4Karo ]
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 raises [0,04 $]
+xxflashxxx calls [0,04 $]
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu calls [0,02 $]
+** Dealing flop ** [ JHerz, 7Herz, 8Karo ]
+HEpycckuu checks
+Bigmax_93 bets [0,09 $]
+xxflashxxx calls [0,09 $]
+HEpycckuu folds
+** Dealing turn ** [ 4Herz ]
+Bigmax_93 checks
+xxflashxxx checks
+** Dealing river ** [ 10Kreuz ]
+Bigmax_93 bets [0,02 $]
+xxflashxxx raises [0,68 $]
+Bigmax_93 folds
+** Summary **
+xxflashxxx did not show his hand
+xxflashxxx collected [ 0,33 $ ]
+
+
+
+#Game No : 1328919854
+***** 888poker Hand History for Game 1328919854 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:12:30
+Table Passos 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,27 $ )
+Seat 2: B2B_Suckouts ( 2,02 $ )
+Seat 3: HEpycckuu ( 0,80 $ )
+Seat 4: PlagueSnot ( 2,25 $ )
+Seat 5: muyb777 ( 1,40 $ )
+Seat 6: 1gadfly1 ( 5,46 $ )
+Seat 7: Bigmax_93 ( 3,60 $ )
+Seat 9: xxflashxxx ( 0,99 $ )
+Seat 10: Gugusik2010 ( 4,58 $ )
+HEpycckuu posts small blind [0,01 $]
+PlagueSnot posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, QKaro ]
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 calls [0,02 $]
+xxflashxxx calls [0,02 $]
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts raises [0,06 $]
+HEpycckuu folds
+PlagueSnot folds
+Bigmax_93 calls [0,04 $]
+xxflashxxx calls [0,04 $]
+** Dealing flop ** [ 3Karo, 5Pik, 9Pik ]
+Bigmax_93 checks
+xxflashxxx bets [0,10 $]
+B2B_Suckouts calls [0,10 $]
+Bigmax_93 calls [0,10 $]
+** Dealing turn ** [ QPik ]
+Bigmax_93 checks
+xxflashxxx checks
+B2B_Suckouts bets [0,25 $]
+Bigmax_93 folds
+xxflashxxx folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,48 $ ]
+
+
+
+#Game No : 1328920083
+***** 888poker Hand History for Game 1328920083 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:14:07
+Table Passos 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,27 $ )
+Seat 2: B2B_Suckouts ( 2,34 $ )
+Seat 3: HEpycckuu ( 0,79 $ )
+Seat 4: PlagueSnot ( 2,23 $ )
+Seat 5: muyb777 ( 1,40 $ )
+Seat 6: 1gadfly1 ( 5,46 $ )
+Seat 7: Bigmax_93 ( 3,44 $ )
+Seat 9: xxflashxxx ( 0,83 $ )
+Seat 10: Gugusik2010 ( 4,58 $ )
+PlagueSnot posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 10Kreuz ]
+1gadfly1 folds
+Bigmax_93 calls [0,02 $]
+xxflashxxx folds
+Gugusik2010 raises [0,08 $]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+Bigmax_93 folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,07 $ ]
+
+
+
+#Game No : 1328920198
+***** 888poker Hand History for Game 1328920198 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:14:55
+Table Passos 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,27 $ )
+Seat 2: B2B_Suckouts ( 2,34 $ )
+Seat 4: PlagueSnot ( 2,22 $ )
+Seat 5: muyb777 ( 1,38 $ )
+Seat 6: 1gadfly1 ( 5,46 $ )
+Seat 7: Bigmax_93 ( 3,42 $ )
+Seat 9: xxflashxxx ( 0,83 $ )
+Seat 10: Gugusik2010 ( 4,63 $ )
+muyb777 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 5Kreuz ]
+Bigmax_93 folds
+xxflashxxx folds
+Gugusik2010 folds
+irk2012 raises [0,06 $]
+B2B_Suckouts folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+** Summary **
+irk2012 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328920263
+***** 888poker Hand History for Game 1328920263 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:15:21
+Table Passos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,30 $ )
+Seat 2: B2B_Suckouts ( 2,34 $ )
+Seat 3: HEpycckuu ( 0,79 $ )
+Seat 4: PlagueSnot ( 2,22 $ )
+Seat 5: muyb777 ( 1,37 $ )
+Seat 6: 1gadfly1 ( 5,44 $ )
+Seat 7: Bigmax_93 ( 3,42 $ )
+Seat 9: xxflashxxx ( 0,83 $ )
+Seat 10: Gugusik2010 ( 4,63 $ )
+1gadfly1 posts small blind [0,01 $]
+Bigmax_93 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 5Pik ]
+xxflashxxx folds
+Gugusik2010 folds
+irk2012 raises [0,06 $]
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot calls [0,06 $]
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+** Dealing flop ** [ JKaro, 7Kreuz, 2Kreuz ]
+irk2012 bets [0,07 $]
+PlagueSnot calls [0,07 $]
+** Dealing turn ** [ AKreuz ]
+irk2012 checks
+PlagueSnot bets [0,14 $]
+irk2012 folds
+** Summary **
+PlagueSnot collected [ 0,28 $ ]
+
+
+
+#Game No : 1328920373
+***** 888poker Hand History for Game 1328920373 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:16:09
+Table Passos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,17 $ )
+Seat 2: B2B_Suckouts ( 2,34 $ )
+Seat 3: HEpycckuu ( 0,79 $ )
+Seat 4: PlagueSnot ( 2,37 $ )
+Seat 5: muyb777 ( 1,37 $ )
+Seat 6: 1gadfly1 ( 5,43 $ )
+Seat 7: Bigmax_93 ( 3,40 $ )
+Seat 9: waimanc ( 2 $ )
+Seat 10: Gugusik2010 ( 4,63 $ )
+Bigmax_93 posts small blind [0,01 $]
+waimanc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, KHerz ]
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 calls [0,01 $]
+waimanc checks
+** Dealing flop ** [ KKaro, 5Herz, JKreuz ]
+Bigmax_93 checks
+waimanc bets [0,02 $]
+Bigmax_93 calls [0,02 $]
+** Dealing turn ** [ 4Herz ]
+Bigmax_93 checks
+waimanc bets [0,05 $]
+Bigmax_93 calls [0,05 $]
+** Dealing river ** [ 4Pik ]
+Bigmax_93 checks
+waimanc checks
+** Summary **
+Bigmax_93 shows [ 5Pik, 6Kreuz ]
+waimanc shows [ JKaro, 3Karo ]
+waimanc collected [ 0,17 $ ]
+
+
+
+#Game No : 1328920490
+***** 888poker Hand History for Game 1328920490 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:17:00
+Table Passos 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,17 $ )
+Seat 2: B2B_Suckouts ( 2,34 $ )
+Seat 3: HEpycckuu ( 0,79 $ )
+Seat 4: PlagueSnot ( 2,37 $ )
+Seat 5: muyb777 ( 1,37 $ )
+Seat 6: 1gadfly1 ( 5,43 $ )
+Seat 7: Bigmax_93 ( 3,31 $ )
+Seat 9: waimanc ( 2,08 $ )
+Seat 10: Gugusik2010 ( 4,63 $ )
+waimanc posts small blind [0,01 $]
+Gugusik2010 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, JKreuz ]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu raises [0,04 $]
+PlagueSnot calls [0,04 $]
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+waimanc folds
+Gugusik2010 folds
+** Dealing flop ** [ 2Pik, 2Kreuz, 8Karo ]
+HEpycckuu bets [0,07 $]
+PlagueSnot folds
+** Summary **
+HEpycckuu did not show his hand
+HEpycckuu collected [ 0,11 $ ]
+
+
+
+#Game No : 1328920640
+***** 888poker Hand History for Game 1328920640 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:18:07
+Table Passos 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,17 $ )
+Seat 2: B2B_Suckouts ( 2,34 $ )
+Seat 3: HEpycckuu ( 0,86 $ )
+Seat 4: PlagueSnot ( 2,33 $ )
+Seat 5: muyb777 ( 1,37 $ )
+Seat 6: 1gadfly1 ( 5,43 $ )
+Seat 7: Bigmax_93 ( 3,31 $ )
+Seat 9: waimanc ( 2,07 $ )
+Seat 10: Gugusik2010 ( 4,61 $ )
+Gugusik2010 posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 10Pik ]
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 calls [0,02 $]
+waimanc folds
+Gugusik2010 folds
+irk2012 checks
+** Dealing flop ** [ 2Karo, 4Pik, 5Pik ]
+irk2012 checks
+Bigmax_93 bets [0,05 $]
+irk2012 folds
+** Summary **
+Bigmax_93 did not show his hand
+Bigmax_93 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328920763
+***** 888poker Hand History for Game 1328920763 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:19:01
+Table Passos 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,15 $ )
+Seat 2: B2B_Suckouts ( 2,34 $ )
+Seat 3: HEpycckuu ( 0,86 $ )
+Seat 4: PlagueSnot ( 2,33 $ )
+Seat 5: muyb777 ( 1,37 $ )
+Seat 6: 1gadfly1 ( 5,43 $ )
+Seat 7: Bigmax_93 ( 3,34 $ )
+Seat 9: waimanc ( 2,07 $ )
+Seat 10: Gugusik2010 ( 4,60 $ )
+irk2012 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 9Karo ]
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+waimanc folds
+Gugusik2010 folds
+irk2012 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 1328920810
+***** 888poker Hand History for Game 1328920810 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:19:20
+Table Passos 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,14 $ )
+Seat 2: B2B_Suckouts ( 2,35 $ )
+Seat 3: HEpycckuu ( 0,86 $ )
+Seat 4: PlagueSnot ( 2,33 $ )
+Seat 5: muyb777 ( 1,37 $ )
+Seat 6: 1gadfly1 ( 5,43 $ )
+Seat 7: Bigmax_93 ( 3,34 $ )
+Seat 9: waimanc ( 2,07 $ )
+Seat 10: Gugusik2010 ( 4,60 $ )
+B2B_Suckouts posts small blind [0,01 $]
+HEpycckuu posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 7Kreuz ]
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+waimanc folds
+Gugusik2010 raises [0,06 $]
+irk2012 folds
+B2B_Suckouts calls [0,05 $]
+HEpycckuu calls [0,04 $]
+** Dealing flop ** [ 4Pik, 5Kreuz, JKaro ]
+B2B_Suckouts checks
+HEpycckuu checks
+Gugusik2010 bets [0,09 $]
+B2B_Suckouts folds
+HEpycckuu folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,17 $ ]
+
+
+
+#Game No : 1328920946
+***** 888poker Hand History for Game 1328920946 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:20:22
+Table Passos 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,14 $ )
+Seat 2: B2B_Suckouts ( 2,29 $ )
+Seat 3: HEpycckuu ( 0,80 $ )
+Seat 4: PlagueSnot ( 2,33 $ )
+Seat 5: muyb777 ( 1,37 $ )
+Seat 6: 1gadfly1 ( 5,43 $ )
+Seat 7: Bigmax_93 ( 3,34 $ )
+Seat 9: waimanc ( 2,07 $ )
+Seat 10: Gugusik2010 ( 4,71 $ )
+HEpycckuu posts small blind [0,01 $]
+PlagueSnot posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, JHerz ]
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+waimanc folds
+Gugusik2010 raises [0,05 $]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328921028
+***** 888poker Hand History for Game 1328921028 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:21:01
+Table Passos 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,14 $ )
+Seat 2: B2B_Suckouts ( 2,29 $ )
+Seat 3: HEpycckuu ( 0,79 $ )
+Seat 4: PlagueSnot ( 2,31 $ )
+Seat 5: muyb777 ( 1,37 $ )
+Seat 6: 1gadfly1 ( 5,43 $ )
+Seat 7: Bigmax_93 ( 3,34 $ )
+Seat 9: waimanc ( 2,07 $ )
+Seat 10: Gugusik2010 ( 4,74 $ )
+PlagueSnot posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 8Kreuz ]
+1gadfly1 folds
+Bigmax_93 calls [0,02 $]
+waimanc folds
+Gugusik2010 raises [0,10 $]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu calls [0,10 $]
+PlagueSnot folds
+muyb777 folds
+Bigmax_93 folds
+** Dealing flop ** [ AKaro, 4Karo, 8Herz ]
+Gugusik2010 bets [0,12 $]
+HEpycckuu folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,24 $ ]
+
+
+
+#Game No : 1328921168
+***** 888poker Hand History for Game 1328921168 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:22:04
+Table Passos 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,14 $ )
+Seat 2: B2B_Suckouts ( 2,29 $ )
+Seat 3: HEpycckuu ( 0,69 $ )
+Seat 4: PlagueSnot ( 2,30 $ )
+Seat 5: muyb777 ( 1,35 $ )
+Seat 6: 1gadfly1 ( 5,43 $ )
+Seat 7: Bigmax_93 ( 3,32 $ )
+Seat 9: waimanc ( 2,07 $ )
+Seat 10: Gugusik2010 ( 4,88 $ )
+muyb777 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 5Herz ]
+Bigmax_93 folds
+waimanc folds
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts raises [0,06 $]
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 1328921205
+***** 888poker Hand History for Game 1328921205 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:22:24
+Table Passos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,14 $ )
+Seat 2: B2B_Suckouts ( 2,32 $ )
+Seat 3: HEpycckuu ( 0,69 $ )
+Seat 4: PlagueSnot ( 2,30 $ )
+Seat 5: muyb777 ( 1,34 $ )
+Seat 6: 1gadfly1 ( 5,41 $ )
+Seat 7: Bigmax_93 ( 3,32 $ )
+Seat 9: waimanc ( 2,07 $ )
+Seat 10: Gugusik2010 ( 4,88 $ )
+1gadfly1 posts small blind [0,01 $]
+Bigmax_93 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, JHerz ]
+waimanc folds
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts raises [0,06 $]
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+1gadfly1 raises [0,19 $]
+Bigmax_93 folds
+B2B_Suckouts folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ 0,14 $ ]
+
+
+
+#Game No : 1328921322
+***** 888poker Hand History for Game 1328921322 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:23:16
+Table Passos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,14 $ )
+Seat 2: B2B_Suckouts ( 2,26 $ )
+Seat 3: HEpycckuu ( 0,69 $ )
+Seat 4: PlagueSnot ( 2,30 $ )
+Seat 5: muyb777 ( 1,34 $ )
+Seat 6: 1gadfly1 ( 5,49 $ )
+Seat 7: Bigmax_93 ( 3,30 $ )
+Seat 9: waimanc ( 2,07 $ )
+Seat 10: Gugusik2010 ( 4,88 $ )
+Bigmax_93 posts small blind [0,01 $]
+waimanc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 9Herz ]
+Gugusik2010 folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu raises [0,04 $]
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+waimanc calls [0,02 $]
+** Dealing flop ** [ JPik, 5Pik, 6Karo ]
+waimanc checks
+HEpycckuu bets [0,04 $]
+waimanc folds
+** Summary **
+HEpycckuu did not show his hand
+HEpycckuu collected [ 0,09 $ ]
+
+
+
+#Game No : 1328921405
+***** 888poker Hand History for Game 1328921405 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:23:58
+Table Passos 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,14 $ )
+Seat 2: B2B_Suckouts ( 2,26 $ )
+Seat 3: HEpycckuu ( 0,74 $ )
+Seat 4: PlagueSnot ( 2,30 $ )
+Seat 5: muyb777 ( 1,34 $ )
+Seat 6: 1gadfly1 ( 5,49 $ )
+Seat 7: Bigmax_93 ( 3,29 $ )
+Seat 9: waimanc ( 2,03 $ )
+Seat 10: Gugusik2010 ( 4,88 $ )
+waimanc posts small blind [0,01 $]
+Gugusik2010 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 6Pik ]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu raises [0,04 $]
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 folds
+waimanc folds
+Gugusik2010 raises [0,14 $]
+HEpycckuu folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,09 $ ]
+
+
+
+#Game No : 1328921517
+***** 888poker Hand History for Game 1328921517 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:24:48
+Table Passos 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,14 $ )
+Seat 2: B2B_Suckouts ( 2,26 $ )
+Seat 3: HEpycckuu ( 0,70 $ )
+Seat 4: PlagueSnot ( 2,30 $ )
+Seat 5: muyb777 ( 1,34 $ )
+Seat 6: 1gadfly1 ( 5,49 $ )
+Seat 7: Bigmax_93 ( 3,29 $ )
+Seat 9: waimanc ( 2,02 $ )
+Seat 10: Gugusik2010 ( 4,93 $ )
+Gugusik2010 posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 3Pik ]
+B2B_Suckouts folds
+HEpycckuu raises [0,05 $]
+PlagueSnot folds
+muyb777 folds
+1gadfly1 folds
+Bigmax_93 calls [0,05 $]
+waimanc folds
+Gugusik2010 folds
+irk2012 folds
+** Dealing flop ** [ QPik, 9Herz, 7Karo ]
+HEpycckuu bets [0,08 $]
+Bigmax_93 calls [0,08 $]
+** Dealing turn ** [ AKaro ]
+HEpycckuu bets [0,14 $]
+Bigmax_93 folds
+** Summary **
+HEpycckuu collected [ 0,28 $ ]
+
+
+
+#Game No : 1328921657
+***** 888poker Hand History for Game 1328921657 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:25:55
+Table Passos 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,12 $ )
+Seat 2: B2B_Suckouts ( 2,26 $ )
+Seat 3: HEpycckuu ( 0,85 $ )
+Seat 4: PlagueSnot ( 2,30 $ )
+Seat 5: muyb777 ( 1,34 $ )
+Seat 6: 1gadfly1 ( 5,49 $ )
+Seat 7: Bigmax_93 ( 3,16 $ )
+Seat 9: waimanc ( 2,02 $ )
+B2B_Suckouts posts small blind [0,01 $]
+HEpycckuu posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, KHerz ]
+PlagueSnot folds
+muyb777 raises [0,06 $]
+1gadfly1 folds
+Bigmax_93 calls [0,06 $]
+waimanc folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+** Dealing flop ** [ 4Herz, JKreuz, 4Kreuz ]
+muyb777 bets [0,09 $]
+Bigmax_93 calls [0,09 $]
+** Dealing turn ** [ 10Karo ]
+muyb777 bets [0,21 $]
+Bigmax_93 folds
+** Summary **
+muyb777 collected [ 0,31 $ ]
+
+
+
+#Game No : 1328921817
+***** 888poker Hand History for Game 1328921817 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:27:03
+Table Passos 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,12 $ )
+Seat 2: B2B_Suckouts ( 2,25 $ )
+Seat 3: HEpycckuu ( 0,83 $ )
+Seat 4: PlagueSnot ( 2,30 $ )
+Seat 5: muyb777 ( 1,50 $ )
+Seat 6: 1gadfly1 ( 5,49 $ )
+Seat 7: Bigmax_93 ( 3,01 $ )
+Seat 9: waimanc ( 2,02 $ )
+HEpycckuu posts small blind [0,01 $]
+PlagueSnot posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, AKaro ]
+muyb777 folds
+1gadfly1 raises [0,05 $]
+Bigmax_93 calls [0,05 $]
+waimanc calls [0,05 $]
+irk2012 raises [0,30 $]
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+1gadfly1 folds
+Bigmax_93 folds
+waimanc folds
+** Summary **
+irk2012 collected [ 0,23 $ ]
+
+
+
+#Game No : 1328921898
+***** 888poker Hand History for Game 1328921898 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:27:41
+Table Passos 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,30 $ )
+Seat 2: B2B_Suckouts ( 2,25 $ )
+Seat 3: HEpycckuu ( 0,82 $ )
+Seat 4: PlagueSnot ( 2,28 $ )
+Seat 5: muyb777 ( 1,50 $ )
+Seat 6: 1gadfly1 ( 5,44 $ )
+Seat 7: Bigmax_93 ( 2,96 $ )
+Seat 9: waimanc ( 2 $ )
+PlagueSnot posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 6Herz ]
+1gadfly1 folds
+Bigmax_93 folds
+waimanc folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu raises [0,05 $]
+PlagueSnot folds
+muyb777 folds
+** Summary **
+HEpycckuu collected [ 0,05 $ ]
+
+
+
+#Game No : 1328921997
+***** 888poker Hand History for Game 1328921997 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:28:23
+Table Passos 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,30 $ )
+Seat 2: B2B_Suckouts ( 2,25 $ )
+Seat 3: HEpycckuu ( 0,85 $ )
+Seat 4: PlagueSnot ( 2,27 $ )
+Seat 5: muyb777 ( 1,48 $ )
+Seat 6: reraise_u ( 0,80 $ )
+Seat 7: Bigmax_93 ( 2,96 $ )
+Seat 9: waimanc ( 2 $ )
+muyb777 posts small blind [0,01 $]
+reraise_u posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 3Herz ]
+Bigmax_93 folds
+waimanc folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu raises [0,06 $]
+PlagueSnot folds
+muyb777 folds
+reraise_u folds
+** Summary **
+HEpycckuu collected [ 0,05 $ ]
+
+
+
+#Game No : 1328922084
+***** 888poker Hand History for Game 1328922084 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:29:00
+Table Passos 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,30 $ )
+Seat 2: B2B_Suckouts ( 2,25 $ )
+Seat 3: HEpycckuu ( 0,88 $ )
+Seat 4: PlagueSnot ( 2,27 $ )
+Seat 5: muyb777 ( 1,47 $ )
+Seat 6: reraise_u ( 0,78 $ )
+Seat 7: Bigmax_93 ( 2,96 $ )
+Seat 9: waimanc ( 2 $ )
+reraise_u posts small blind [0,01 $]
+Bigmax_93 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, QPik ]
+waimanc folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+reraise_u folds
+** Summary **
+Bigmax_93 collected [ 0,03 $ ]
+
+
+
+#Game No : 1328922160
+***** 888poker Hand History for Game 1328922160 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:29:33
+Table Passos 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,30 $ )
+Seat 2: B2B_Suckouts ( 2,25 $ )
+Seat 3: HEpycckuu ( 0,88 $ )
+Seat 4: PlagueSnot ( 2,27 $ )
+Seat 5: muyb777 ( 1,47 $ )
+Seat 6: reraise_u ( 0,77 $ )
+Seat 7: Bigmax_93 ( 2,97 $ )
+Seat 9: waimanc ( 2 $ )
+Bigmax_93 posts small blind [0,01 $]
+waimanc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 7Herz ]
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu raises [0,05 $]
+PlagueSnot calls [0,05 $]
+muyb777 calls [0,05 $]
+reraise_u raises [0,77 $]
+Bigmax_93 folds
+waimanc folds
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+** Summary **
+reraise_u collected [ 0,23 $ ]
+
+
+
+#Game No : 1328922269
+***** 888poker Hand History for Game 1328922269 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:30:22
+Table Passos 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,30 $ )
+Seat 2: B2B_Suckouts ( 2,25 $ )
+Seat 3: HEpycckuu ( 0,83 $ )
+Seat 4: PlagueSnot ( 2,22 $ )
+Seat 5: muyb777 ( 1,42 $ )
+Seat 6: reraise_u ( 0,95 $ )
+Seat 7: Bigmax_93 ( 2,96 $ )
+Seat 9: waimanc ( 2 $ )
+Seat 10: overcranky ( 2 $ )
+waimanc posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, QKreuz ]
+irk2012 folds
+B2B_Suckouts raises [0,06 $]
+HEpycckuu calls [0,06 $]
+PlagueSnot folds
+muyb777 calls [0,06 $]
+reraise_u folds
+Bigmax_93 raises [0,24 $]
+waimanc folds
+overcranky folds
+B2B_Suckouts calls [0,18 $]
+HEpycckuu calls [0,18 $]
+muyb777 folds
+** Dealing flop ** [ AKreuz, 2Kreuz, 5Karo ]
+B2B_Suckouts bets [0,18 $]
+HEpycckuu folds
+Bigmax_93 calls [0,18 $]
+** Dealing turn ** [ 10Pik ]
+B2B_Suckouts bets [0,38 $]
+Bigmax_93 calls [0,38 $]
+** Dealing river ** [ KKreuz ]
+B2B_Suckouts checks
+Bigmax_93 checks
+** Summary **
+B2B_Suckouts shows [ AKaro, QKreuz ]
+Bigmax_93 shows [ APik, JPik ]
+B2B_Suckouts collected [ 1,81 $ ]
+
+
+
+#Game No : 1328922530
+***** 888poker Hand History for Game 1328922530 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:32:22
+Table Passos 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,30 $ )
+Seat 2: B2B_Suckouts ( 3,26 $ )
+Seat 3: HEpycckuu ( 0,59 $ )
+Seat 4: PlagueSnot ( 2,22 $ )
+Seat 5: muyb777 ( 1,36 $ )
+Seat 6: reraise_u ( 0,95 $ )
+Seat 7: Bigmax_93 ( 2,16 $ )
+Seat 9: waimanc ( 2 $ )
+Seat 10: overcranky ( 2 $ )
+overcranky posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 4Karo ]
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot raises [0,06 $]
+muyb777 folds
+reraise_u folds
+Bigmax_93 folds
+waimanc folds
+overcranky folds
+irk2012 folds
+** Summary **
+PlagueSnot did not show his hand
+PlagueSnot collected [ 0,05 $ ]
+
+
+
+#Game No : 1328922600
+***** 888poker Hand History for Game 1328922600 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:32:49
+Table Passos 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,28 $ )
+Seat 2: B2B_Suckouts ( 3,26 $ )
+Seat 3: HEpycckuu ( 0,59 $ )
+Seat 4: PlagueSnot ( 2,25 $ )
+Seat 5: muyb777 ( 1,36 $ )
+Seat 6: reraise_u ( 0,95 $ )
+Seat 7: Bigmax_93 ( 2,16 $ )
+Seat 9: waimanc ( 2 $ )
+Seat 10: overcranky ( 2 $ )
+irk2012 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 3Karo ]
+HEpycckuu folds
+PlagueSnot folds
+muyb777 folds
+reraise_u folds
+Bigmax_93 raises [0,06 $]
+waimanc folds
+overcranky folds
+irk2012 folds
+B2B_Suckouts folds
+** Summary **
+Bigmax_93 did not show his hand
+Bigmax_93 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328922667
+***** 888poker Hand History for Game 1328922667 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:33:18
+Table Passos 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,27 $ )
+Seat 2: B2B_Suckouts ( 3,24 $ )
+Seat 3: HEpycckuu ( 0,59 $ )
+Seat 4: PlagueSnot ( 2,25 $ )
+Seat 5: muyb777 ( 1,36 $ )
+Seat 6: reraise_u ( 0,95 $ )
+Seat 7: Bigmax_93 ( 2,19 $ )
+Seat 9: waimanc ( 2 $ )
+Seat 10: overcranky ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+HEpycckuu posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 2Herz ]
+PlagueSnot folds
+muyb777 folds
+reraise_u folds
+Bigmax_93 folds
+waimanc folds
+overcranky folds
+irk2012 folds
+B2B_Suckouts folds
+** Summary **
+HEpycckuu did not show his hand
+HEpycckuu collected [ 0,03 $ ]
+
+
+
+#Game No : 1328922766
+***** 888poker Hand History for Game 1328922766 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:33:59
+Table Passos 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,27 $ )
+Seat 2: B2B_Suckouts ( 3,23 $ )
+Seat 3: HEpycckuu ( 0,60 $ )
+Seat 4: PlagueSnot ( 2,25 $ )
+Seat 5: muyb777 ( 1,36 $ )
+Seat 6: reraise_u ( 0,95 $ )
+Seat 7: Bigmax_93 ( 2,19 $ )
+Seat 9: waimanc ( 2 $ )
+Seat 10: overcranky ( 2 $ )
+HEpycckuu posts small blind [0,01 $]
+PlagueSnot posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 3Karo ]
+muyb777 folds
+reraise_u folds
+Bigmax_93 folds
+waimanc folds
+overcranky folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu raises [0,03 $]
+PlagueSnot calls [0,02 $]
+** Dealing flop ** [ JKreuz, 6Pik, 4Kreuz ]
+HEpycckuu bets [0,05 $]
+PlagueSnot folds
+** Summary **
+HEpycckuu did not show his hand
+HEpycckuu collected [ 0,08 $ ]
+
+
+
+#Game No : 1328922867
+***** 888poker Hand History for Game 1328922867 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:34:39
+Table Passos 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: irk2012 ( 2,27 $ )
+Seat 2: B2B_Suckouts ( 3,23 $ )
+Seat 3: HEpycckuu ( 0,64 $ )
+Seat 4: PlagueSnot ( 2,21 $ )
+Seat 5: muyb777 ( 1,36 $ )
+Seat 6: reraise_u ( 0,95 $ )
+Seat 7: Bigmax_93 ( 2,19 $ )
+Seat 9: waimanc ( 2 $ )
+Seat 10: overcranky ( 2 $ )
+PlagueSnot posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 3Karo ]
+reraise_u folds
+Bigmax_93 folds
+waimanc folds
+overcranky folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu folds
+PlagueSnot raises [0,03 $]
+muyb777 folds
+** Summary **
+PlagueSnot did not show his hand
+PlagueSnot collected [ 0,04 $ ]
+
+
+
+#Game No : 1328922970
+***** 888poker Hand History for Game 1328922970 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:35:22
+Table Passos 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: irk2012 ( 2,27 $ )
+Seat 2: B2B_Suckouts ( 3,23 $ )
+Seat 3: HEpycckuu ( 0,64 $ )
+Seat 4: PlagueSnot ( 2,23 $ )
+Seat 5: muyb777 ( 1,34 $ )
+Seat 6: reraise_u ( 0,95 $ )
+Seat 9: waimanc ( 2 $ )
+Seat 10: overcranky ( 2 $ )
+muyb777 posts small blind [0,01 $]
+reraise_u posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, KKreuz ]
+waimanc folds
+overcranky folds
+irk2012 folds
+B2B_Suckouts folds
+HEpycckuu raises [0,04 $]
+PlagueSnot folds
+muyb777 folds
+reraise_u calls [0,02 $]
+** Dealing flop ** [ 4Karo, 10Herz, 6Pik ]
+reraise_u checks
+HEpycckuu checks
+** Dealing turn ** [ AKreuz ]
+reraise_u checks
+HEpycckuu bets [0,05 $]
+reraise_u folds
+** Summary **
+HEpycckuu did not show his hand
+HEpycckuu collected [ 0,09 $ ]
+
+
+
