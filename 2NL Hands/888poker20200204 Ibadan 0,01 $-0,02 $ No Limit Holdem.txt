@@ -1,0 +1,81 @@
+#Game No : 1329589144
+***** 888poker Hand History for Game 1329589144 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:21:46
+Table Ibadan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: andypeach ( 0,24 $ )
+Seat 2: Yaroslav90 ( 0,71 $ )
+Seat 3: algrud ( 2 $ )
+Seat 5: crowzen ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: D_Rabbit ( 1,66 $ )
+Seat 9: lrv1974 ( 2 $ )
+Seat 10: SpRoomG31 ( 1,48 $ )
+lrv1974 posts small blind [0,01 $]
+SpRoomG31 posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 7Herz ]
+andypeach folds
+Yaroslav90 calls [0,02 $]
+algrud folds
+crowzen folds
+B2B_Suckouts checks
+D_Rabbit calls [0,02 $]
+lrv1974 raises [0,11 $]
+SpRoomG31 folds
+Yaroslav90 calls [0,10 $]
+B2B_Suckouts folds
+D_Rabbit calls [0,10 $]
+** Dealing flop ** [ 3Karo, 2Herz, 5Kreuz ]
+lrv1974 checks
+Yaroslav90 checks
+D_Rabbit checks
+** Dealing turn ** [ 4Herz ]
+lrv1974 bets [0,10 $]
+Yaroslav90 folds
+D_Rabbit raises [0,30 $]
+lrv1974 calls [0,20 $]
+** Dealing river ** [ 10Kreuz ]
+lrv1974 bets [0,10 $]
+D_Rabbit calls [0,10 $]
+** Summary **
+lrv1974 shows [ AKreuz, QKreuz ]
+D_Rabbit shows [ 3Herz, AHerz ]
+lrv1974 collected [ 0,57 $ ]
+D_Rabbit collected [ 0,56 $ ]
+
+
+
+#Game No : 1329589661
+***** 888poker Hand History for Game 1329589661 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:23:16
+Table Ibadan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: andypeach ( 0,24 $ )
+Seat 2: Yaroslav90 ( 0,59 $ )
+Seat 3: algrud ( 2 $ )
+Seat 5: crowzen ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: D_Rabbit ( 1,70 $ )
+Seat 9: lrv1974 ( 2,05 $ )
+Seat 10: SpRoomG31 ( 1,46 $ )
+SpRoomG31 posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 2Kreuz ]
+Yaroslav90 folds
+algrud folds
+crowzen folds
+B2B_Suckouts folds
+D_Rabbit folds
+lrv1974 raises [0,06 $]
+SpRoomG31 folds
+andypeach folds
+** Summary **
+lrv1974 collected [ 0,05 $ ]
+
+
+
