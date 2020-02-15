@@ -1,0 +1,3901 @@
+#Game No : 527692469
+***** 888poker Hand History for Game 527692469 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:00:10
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: HKrystsina ( 2,07 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2,29 $ )
+Seat 6: XSpades ( 2,97 $ )
+Seat 7: BOBZIPPO ( 1,28 $ )
+Seat 9: gimeurchips ( 2,03 $ )
+Seat 10: GE_Saniok_MD ( 2,25 $ )
+BOBZIPPO posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, JKreuz ]
+GE_Saniok_MD raises [0,06 $]
+overcranky folds
+HKrystsina folds
+B2B_Suckouts folds
+Despol folds
+XSpades folds
+BOBZIPPO calls [0,05 $]
+gimeurchips folds
+** Dealing flop ** [ 3Pik, 10Kreuz, JKaro ]
+BOBZIPPO bets [0,02 $]
+GE_Saniok_MD calls [0,02 $]
+** Dealing turn ** [ 9Herz ]
+BOBZIPPO bets [0,06 $]
+GE_Saniok_MD raises [0,12 $]
+BOBZIPPO folds
+** Summary **
+GE_Saniok_MD collected [ 0,30 $ ]
+
+
+
+#Game No : 527692518
+***** 888poker Hand History for Game 527692518 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:01:20
+Table Zamora 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: HKrystsina ( 2,07 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2,29 $ )
+Seat 6: XSpades ( 2,97 $ )
+Seat 7: BOBZIPPO ( 1,14 $ )
+Seat 9: gimeurchips ( 2,01 $ )
+Seat 10: GE_Saniok_MD ( 2,41 $ )
+gimeurchips posts small blind [0,01 $]
+GE_Saniok_MD posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, QPik ]
+overcranky folds
+HKrystsina folds
+B2B_Suckouts folds
+Despol folds
+XSpades folds
+BOBZIPPO calls [0,02 $]
+gimeurchips folds
+GE_Saniok_MD checks
+** Dealing flop ** [ 2Kreuz, 9Pik, 10Karo ]
+GE_Saniok_MD checks
+BOBZIPPO bets [0,02 $]
+GE_Saniok_MD folds
+** Summary **
+BOBZIPPO collected [ 0,05 $ ]
+
+
+
+#Game No : 527692530
+***** 888poker Hand History for Game 527692530 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:01:44
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: HKrystsina ( 2,07 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2,29 $ )
+Seat 6: XSpades ( 2,97 $ )
+Seat 7: BOBZIPPO ( 1,17 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: GE_Saniok_MD ( 2,39 $ )
+GE_Saniok_MD posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, APik ]
+HKrystsina folds
+B2B_Suckouts raises [0,06 $]
+Despol folds
+XSpades raises [0,10 $]
+BOBZIPPO folds
+gimeurchips folds
+GE_Saniok_MD folds
+overcranky raises [0,26 $]
+B2B_Suckouts calls [0,22 $]
+XSpades calls [0,18 $]
+** Dealing flop ** [ 6Karo, 10Pik, 2Kreuz ]
+overcranky checks
+B2B_Suckouts bets [0,28 $]
+XSpades folds
+overcranky folds
+** Summary **
+B2B_Suckouts collected [ 0,80 $ ]
+
+
+
+#Game No : 527692573
+***** 888poker Hand History for Game 527692573 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:02:54
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: HKrystsina ( 2,07 $ )
+Seat 3: B2B_Suckouts ( 2,52 $ )
+Seat 5: Despol ( 2,29 $ )
+Seat 6: XSpades ( 2,69 $ )
+Seat 7: BOBZIPPO ( 1,17 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: GE_Saniok_MD ( 2,38 $ )
+overcranky posts small blind [0,01 $]
+HKrystsina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 5Karo ]
+B2B_Suckouts folds
+Despol folds
+XSpades folds
+BOBZIPPO calls [0,02 $]
+gimeurchips raises [0,09 $]
+GE_Saniok_MD folds
+overcranky folds
+HKrystsina calls [0,07 $]
+BOBZIPPO calls [0,07 $]
+** Dealing flop ** [ 9Karo, 4Herz, 9Pik ]
+HKrystsina checks
+BOBZIPPO bets [0,14 $]
+gimeurchips folds
+HKrystsina calls [0,14 $]
+** Dealing turn ** [ QPik ]
+HKrystsina checks
+BOBZIPPO bets [0,12 $]
+HKrystsina raises [0,30 $]
+BOBZIPPO folds
+** Summary **
+HKrystsina collected [ 0,75 $ ]
+
+
+
+#Game No : 527692613
+***** 888poker Hand History for Game 527692613 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:04:01
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: HKrystsina ( 2,47 $ )
+Seat 3: B2B_Suckouts ( 2,52 $ )
+Seat 5: Despol ( 2,29 $ )
+Seat 6: XSpades ( 2,69 $ )
+Seat 7: BOBZIPPO ( 0,82 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: GE_Saniok_MD ( 2,38 $ )
+HKrystsina posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 6Herz ]
+Despol folds
+XSpades calls [0,02 $]
+BOBZIPPO calls [0,02 $]
+gimeurchips calls [0,02 $]
+GE_Saniok_MD folds
+overcranky folds
+HKrystsina folds
+B2B_Suckouts checks
+** Dealing flop ** [ QKaro, 4Herz, 7Kreuz ]
+B2B_Suckouts checks
+XSpades checks
+BOBZIPPO bets [0,02 $]
+gimeurchips raises [0,12 $]
+B2B_Suckouts folds
+XSpades folds
+BOBZIPPO folds
+** Summary **
+gimeurchips collected [ 0,13 $ ]
+
+
+
+#Game No : 527692660
+***** 888poker Hand History for Game 527692660 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:05:03
+Table Zamora 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: HKrystsina ( 2,46 $ )
+Seat 3: B2B_Suckouts ( 2,50 $ )
+Seat 5: Despol ( 2,29 $ )
+Seat 6: XSpades ( 2,67 $ )
+Seat 7: BOBZIPPO ( 2 $ )
+Seat 9: gimeurchips ( 2,09 $ )
+Seat 10: GE_Saniok_MD ( 2,38 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 4Karo ]
+XSpades folds
+BOBZIPPO folds
+gimeurchips folds
+GE_Saniok_MD folds
+overcranky raises [$0.05]
+HKrystsina raises [$0.20]
+B2B_Suckouts folds
+Despol folds
+overcranky calls [$0.15]
+** Dealing flop ** [ Td, 9d, 2d ]
+overcranky checks
+HKrystsina bets [$0.21]
+overcranky folds
+** Summary **
+HKrystsina collected [ $0.41 ]
+
+
+
+#Game No : 527692698
+***** 888poker Hand History for Game 527692698 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:05:48
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: overcranky ( $2 )
+Seat 2: HKrystsina ( $2.67 )
+Seat 3: B2B_Suckouts ( $2.49 )
+Seat 5: Despol ( $2.27 )
+Seat 6: XSpades ( $2.67 )
+Seat 7: BOBZIPPO ( $2 )
+Seat 9: gimeurchips ( $2.09 )
+Seat 10: GE_Saniok_MD ( $2.38 )
+Despol posts small blind [$0.01]
+XSpades posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3d, Jd ]
+BOBZIPPO calls [$0.02]
+gimeurchips folds
+GE_Saniok_MD folds
+overcranky folds
+HKrystsina folds
+B2B_Suckouts folds
+Despol raises [$0.09]
+XSpades calls [$0.08]
+BOBZIPPO calls [$0.08]
+** Dealing flop ** [ 9c, Th, Qd ]
+Despol bets [$0.22]
+XSpades calls [$0.22]
+BOBZIPPO calls [$0.22]
+** Dealing turn ** [ 3s ]
+Despol bets [$0.48]
+XSpades folds
+BOBZIPPO calls [$0.48]
+** Dealing river ** [ Ks ]
+Despol checks
+BOBZIPPO bets [$0.96]
+Despol calls [$0.96]
+** Summary **
+BOBZIPPO shows [ 8c, 7d ]
+Despol shows [ Kd, Kh ]
+Despol collected [ $3.60 ]
+
+
+
+#Game No : 527692752
+***** 888poker Hand History for Game 527692752 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:07:09
+Table Zamora 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: overcranky ( $2 )
+Seat 2: HKrystsina ( $2.67 )
+Seat 3: B2B_Suckouts ( $2.49 )
+Seat 5: Despol ( $4.11 )
+Seat 6: XSpades ( $2.35 )
+Seat 7: BOBZIPPO ( $0.24 )
+Seat 9: gimeurchips ( $2.09 )
+Seat 10: GE_Saniok_MD ( $2.38 )
+XSpades posts small blind [$0.01]
+BOBZIPPO posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4d, 8s ]
+gimeurchips folds
+GE_Saniok_MD folds
+overcranky folds
+HKrystsina raises [$0.06]
+B2B_Suckouts folds
+Despol folds
+XSpades calls [$0.05]
+BOBZIPPO calls [$0.04]
+** Dealing flop ** [ 5d, 9d, 9s ]
+XSpades checks
+BOBZIPPO bets [$0.08]
+HKrystsina calls [$0.08]
+XSpades raises [$2.29]
+BOBZIPPO folds
+HKrystsina folds
+** Summary **
+XSpades collected [ $0.40 ]
+
+
+
+#Game No : 527692795
+***** 888poker Hand History for Game 527692795 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:08:09
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: overcranky ( $2 )
+Seat 2: HKrystsina ( $2.53 )
+Seat 3: B2B_Suckouts ( $2.49 )
+Seat 4: windamere719 ( $1.40 )
+Seat 5: Despol ( $4.11 )
+Seat 6: XSpades ( $2.61 )
+Seat 7: BOBZIPPO ( $0.10 )
+Seat 9: gimeurchips ( $2.09 )
+Seat 10: GE_Saniok_MD ( $2.38 )
+BOBZIPPO posts small blind [$0.01]
+gimeurchips posts big blind [$0.02]
+windamere719 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5s, 4d ]
+GE_Saniok_MD folds
+overcranky folds
+HKrystsina folds
+B2B_Suckouts folds
+windamere719 raises [$0.06]
+Despol folds
+XSpades calls [$0.08]
+BOBZIPPO raises [$0.09]
+gimeurchips calls [$0.08]
+windamere719 calls [$0.02]
+XSpades calls [$0.02]
+** Dealing flop ** [ Jh, 3c, 8h ]
+gimeurchips checks
+windamere719 bets [$0.40]
+XSpades raises [$2.51]
+gimeurchips folds
+windamere719 calls [$0.90]
+** Dealing turn ** [ 9d ]
+** Dealing river ** [ Kc ]
+** Summary **
+windamere719 shows [ 3h, Ah ]
+XSpades shows [ Qh, Kd ]
+BOBZIPPO shows [ 9s, Qs ]
+XSpades collected [ $0.38 ]
+XSpades collected [ $2.44 ]
+
+
+
+#Game No : 527692853
+***** 888poker Hand History for Game 527692853 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:09:15
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( $2 )
+Seat 2: HKrystsina ( $2.53 )
+Seat 3: B2B_Suckouts ( $2.49 )
+Seat 5: Despol ( $4.11 )
+Seat 6: XSpades ( $4.03 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.38 )
+GE_Saniok_MD posts small blind [$0.01]
+Alaloupe posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Jh, 8s ]
+HKrystsina raises [$0.06]
+B2B_Suckouts folds
+Despol folds
+XSpades folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+** Summary **
+HKrystsina did not show his hand
+HKrystsina collected [ $0.05 ]
+
+
+
+#Game No : 527692866
+***** 888poker Hand History for Game 527692866 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:09:36
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( $2 )
+Seat 2: HKrystsina ( $2.56 )
+Seat 3: B2B_Suckouts ( $2.49 )
+Seat 5: Despol ( $4.11 )
+Seat 6: XSpades ( $4.03 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.37 )
+Alaloupe posts small blind [$0.01]
+HKrystsina posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5s, 9s ]
+B2B_Suckouts folds
+Despol folds
+XSpades folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+** Summary **
+HKrystsina did not show his hand
+HKrystsina collected [ $0.03 ]
+
+
+
+#Game No : 527692888
+***** 888poker Hand History for Game 527692888 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:09:57
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( $2 )
+Seat 2: HKrystsina ( $2.57 )
+Seat 3: B2B_Suckouts ( $2.49 )
+Seat 5: Despol ( $4.11 )
+Seat 6: XSpades ( $4.03 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.37 )
+HKrystsina posts small blind [$0.01]
+B2B_Suckouts posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7h, 8c ]
+Despol raises [$0.06]
+XSpades calls [$0.06]
+gimeurchips folds
+GE_Saniok_MD calls [$0.06]
+Alaloupe folds
+HKrystsina folds
+B2B_Suckouts folds
+** Dealing flop ** [ 8h, 9d, 7d ]
+Despol bets [$0.10]
+XSpades calls [$0.10]
+GE_Saniok_MD raises [$0.25]
+Despol calls [$0.15]
+XSpades calls [$0.15]
+** Dealing turn ** [ 3c ]
+Despol checks
+XSpades checks
+GE_Saniok_MD bets [$0.56]
+Despol folds
+XSpades folds
+** Summary **
+GE_Saniok_MD did not show his hand
+GE_Saniok_MD collected [ $0.90 ]
+
+
+
+#Game No : 527692948
+***** 888poker Hand History for Game 527692948 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:11:09
+Table Zamora 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Alaloupe ( $2 )
+Seat 2: HKrystsina ( $2.56 )
+Seat 3: B2B_Suckouts ( $2.47 )
+Seat 5: Despol ( $3.80 )
+Seat 6: XSpades ( $3.72 )
+Seat 10: GE_Saniok_MD ( $2.96 )
+B2B_Suckouts posts small blind [$0.01]
+Despol folds
+XSpades posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8c, 9c ]
+GE_Saniok_MD folds
+Alaloupe folds
+HKrystsina folds
+B2B_Suckouts raises [$0.05]
+XSpades calls [$0.04]
+** Dealing flop ** [ 8h, 5s, 3s ]
+B2B_Suckouts bets [$0.06]
+XSpades folds
+** Summary **
+B2B_Suckouts collected [ $0.12 ]
+
+
+
+#Game No : 527692970
+***** 888poker Hand History for Game 527692970 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:11:42
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 1: Alaloupe ( $2 )
+Seat 2: HKrystsina ( $2.56 )
+Seat 3: B2B_Suckouts ( $2.53 )
+Seat 6: XSpades ( $3.66 )
+Seat 10: GE_Saniok_MD ( $2.96 )
+XSpades posts small blind [$0.01]
+GE_Saniok_MD posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8d, 8s ]
+Alaloupe folds
+HKrystsina folds
+B2B_Suckouts raises [$0.06]
+XSpades folds
+GE_Saniok_MD folds
+** Summary **
+B2B_Suckouts collected [ $0.05 ]
+
+
+
+#Game No : 527692980
+***** 888poker Hand History for Game 527692980 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:11:59
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: Alaloupe ( $2 )
+Seat 3: B2B_Suckouts ( $2.56 )
+Seat 6: XSpades ( $3.65 )
+Seat 10: GE_Saniok_MD ( $2.94 )
+GE_Saniok_MD posts small blind [$0.01]
+Alaloupe posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4c, 4s ]
+B2B_Suckouts raises [$0.06]
+XSpades folds
+GE_Saniok_MD folds
+Alaloupe folds
+** Summary **
+B2B_Suckouts collected [ $0.05 ]
+
+
+
+#Game No : 527692989
+***** 888poker Hand History for Game 527692989 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:12:11
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 4
+Seat 1: Alaloupe ( $2 )
+Seat 3: B2B_Suckouts ( $2.59 )
+Seat 6: XSpades ( $3.65 )
+Seat 10: GE_Saniok_MD ( $2.93 )
+Alaloupe posts small blind [$0.01]
+B2B_Suckouts posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6d, Qh ]
+XSpades folds
+GE_Saniok_MD folds
+Alaloupe folds
+** Summary **
+B2B_Suckouts collected [ $0.03 ]
+
+
+
+#Game No : 527693009
+***** 888poker Hand History for Game 527693009 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:12:40
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: Alaloupe ( $2 )
+Seat 3: B2B_Suckouts ( $2.60 )
+Seat 5: HEpycckuu ( $0.80 )
+Seat 10: GE_Saniok_MD ( $2.93 )
+B2B_Suckouts posts small blind [$0.01]
+HEpycckuu posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Tc, Th ]
+GE_Saniok_MD folds
+Alaloupe folds
+B2B_Suckouts raises [$0.05]
+HEpycckuu calls [$0.04]
+** Dealing flop ** [ Qc, Ah, 9s ]
+B2B_Suckouts checks
+HEpycckuu bets [$0.07]
+B2B_Suckouts folds
+** Summary **
+HEpycckuu collected [ $0.12 ]
+
+
+
+#Game No : 527693039
+***** 888poker Hand History for Game 527693039 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:13:12
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: Alaloupe ( $2 )
+Seat 2: lkruger ( $0.80 )
+Seat 3: B2B_Suckouts ( $2.54 )
+Seat 5: HEpycckuu ( $0.86 )
+Seat 6: XSpades ( $3.65 )
+Seat 10: GE_Saniok_MD ( $2.93 )
+HEpycckuu posts small blind [$0.01]
+XSpades posts big blind [$0.02]
+lkruger posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Ad, As ]
+GE_Saniok_MD folds
+Alaloupe folds
+lkruger checks
+B2B_Suckouts raises [$0.06]
+HEpycckuu folds
+XSpades calls [$0.04]
+lkruger calls [$0.04]
+** Dealing flop ** [ 2h, 8d, 4h ]
+XSpades bets [$0.06]
+lkruger calls [$0.06]
+B2B_Suckouts raises [$0.15]
+XSpades folds
+lkruger calls [$0.09]
+** Dealing turn ** [ 6h ]
+lkruger checks
+B2B_Suckouts bets [$0.18]
+lkruger calls [$0.18]
+** Dealing river ** [ 7c ]
+lkruger bets [$0.41]
+B2B_Suckouts calls [$0.41]
+** Summary **
+lkruger shows [ 5c, 3h ]
+B2B_Suckouts shows [ Ad, As ]
+lkruger collected [ $1.63 ]
+
+
+
+#Game No : 527693076
+***** 888poker Hand History for Game 527693076 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:14:09
+Table Zamora 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( $2 )
+Seat 2: lkruger ( $1.63 )
+Seat 3: B2B_Suckouts ( $2 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.85 )
+Seat 6: XSpades ( $3.53 )
+Seat 7: ffev78 ( $2 )
+Seat 10: GE_Saniok_MD ( $2.93 )
+XSpades posts small blind [$0.01]
+ffev78 posts big blind [$0.02]
+AmaneInvers posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3c, 4d ]
+GE_Saniok_MD folds
+Alaloupe folds
+lkruger folds
+B2B_Suckouts folds
+AmaneInvers raises [$0.03]
+HEpycckuu folds
+XSpades calls [$0.04]
+ffev78 calls [$0.03]
+** Dealing flop ** [ 9c, 2d, 3d ]
+XSpades checks
+ffev78 checks
+AmaneInvers checks
+** Dealing turn ** [ 5s ]
+XSpades bets [$0.08]
+ffev78 calls [$0.08]
+AmaneInvers folds
+** Dealing river ** [ Qh ]
+XSpades bets [$0.08]
+ffev78 folds
+** Summary **
+XSpades collected [ $0.30 ]
+
+
+
+#Game No : 527693142
+***** 888poker Hand History for Game 527693142 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:15:35
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( $2 )
+Seat 3: B2B_Suckouts ( $2 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.85 )
+Seat 6: XSpades ( $3.70 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.93 )
+ffev78 posts small blind [$0.01]
+gimeurchips posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Qd, Ad ]
+GE_Saniok_MD folds
+Alaloupe folds
+B2B_Suckouts raises [$0.06]
+AmaneInvers calls [$0.06]
+HEpycckuu folds
+XSpades calls [$0.06]
+ffev78 folds
+gimeurchips folds
+** Dealing flop ** [ 6c, 6h, 9c ]
+B2B_Suckouts checks
+AmaneInvers checks
+XSpades checks
+** Dealing turn ** [ Ah ]
+B2B_Suckouts bets [$0.06]
+AmaneInvers calls [$0.06]
+XSpades calls [$0.06]
+** Dealing river ** [ Js ]
+B2B_Suckouts bets [$0.12]
+AmaneInvers folds
+XSpades calls [$0.12]
+** Summary **
+B2B_Suckouts shows [ Qd, Ad ]
+XSpades mucks [ 2d, As ]
+B2B_Suckouts collected [ $0.60 ]
+
+
+
+#Game No : 527693198
+***** 888poker Hand History for Game 527693198 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:17:02
+Table Zamora 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( $2 )
+Seat 3: B2B_Suckouts ( $2.36 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.85 )
+Seat 6: XSpades ( $3.46 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.93 )
+gimeurchips posts small blind [$0.01]
+GE_Saniok_MD posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5c, 7h ]
+Alaloupe folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+XSpades calls [$0.02]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD checks
+** Dealing flop ** [ Ac, Jc, 9h ]
+GE_Saniok_MD checks
+XSpades bets [$0.10]
+GE_Saniok_MD folds
+** Summary **
+XSpades collected [ $0.05 ]
+
+
+
+#Game No : 527693238
+***** 888poker Hand History for Game 527693238 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:17:50
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Alaloupe ( $2 )
+Seat 4: AmaneInvers ( $2 )
+Seat 6: XSpades ( $3.49 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.91 )
+GE_Saniok_MD posts small blind [$0.01]
+Alaloupe posts big blind [$0.02]
+** Dealing down cards **
+AmaneInvers folds
+XSpades raises [$0.14]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+** Summary **
+XSpades collected [ $0.05 ]
+
+
+
+#Game No : 527693249
+***** 888poker Hand History for Game 527693249 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:18:09
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2 )
+Seat 2: ptahjet777 ( $1.05 )
+Seat 3: B2B_Suckouts ( $2.36 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.85 )
+Seat 6: XSpades ( $3.52 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.90 )
+Alaloupe posts small blind [$0.01]
+ptahjet777 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Ah, 8s ]
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+XSpades folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+** Summary **
+ptahjet777 did not show his hand
+ptahjet777 collected [ $0.03 ]
+
+
+
+#Game No : 527693264
+***** 888poker Hand History for Game 527693264 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:18:29
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2 )
+Seat 2: ptahjet777 ( $1.06 )
+Seat 3: B2B_Suckouts ( $2.36 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.85 )
+Seat 6: XSpades ( $3.52 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.90 )
+ptahjet777 posts small blind [$0.01]
+B2B_Suckouts posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9s, 8h ]
+AmaneInvers folds
+HEpycckuu folds
+XSpades folds
+ffev78 raises [$0.06]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 calls [$0.05]
+B2B_Suckouts calls [$0.04]
+** Dealing flop ** [ 8c, Kh, 3s ]
+ptahjet777 checks
+B2B_Suckouts checks
+ffev78 bets [$0.11]
+ptahjet777 calls [$0.11]
+B2B_Suckouts folds
+** Dealing turn ** [ 5d ]
+ptahjet777 checks
+ffev78 bets [$0.20]
+ptahjet777 calls [$0.20]
+** Dealing river ** [ Kc ]
+ptahjet777 bets [$0.40]
+ffev78 raises [$1.63]
+ptahjet777 calls [$0.29]
+** Summary **
+ptahjet777 shows [ Kd, Qh ]
+ffev78 shows [ Ks, Qs ]
+ffev78 collected [ $1.02 ]
+ptahjet777 collected [ $1.03 ]
+
+
+
+#Game No : 527693328
+***** 888poker Hand History for Game 527693328 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:20:05
+Table Zamora 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2 )
+Seat 2: ptahjet777 ( $1.03 )
+Seat 3: B2B_Suckouts ( $2.30 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.85 )
+Seat 6: XSpades ( $3.52 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.90 )
+B2B_Suckouts posts small blind [$0.01]
+AmaneInvers posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Jd, 9h ]
+HEpycckuu folds
+XSpades folds
+ffev78 raises [$0.06]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ $0.05 ]
+
+
+
+#Game No : 527693340
+***** 888poker Hand History for Game 527693340 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:20:26
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2 )
+Seat 2: ptahjet777 ( $1.03 )
+Seat 3: B2B_Suckouts ( $2.29 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.85 )
+Seat 6: XSpades ( $3.52 )
+Seat 7: ffev78 ( $2.03 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.90 )
+AmaneInvers posts small blind [$0.01]
+HEpycckuu posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6h, 5c ]
+XSpades folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe raises [$0.06]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu calls [$0.04]
+** Dealing flop ** [ Qh, Td, 3c ]
+HEpycckuu checks
+Alaloupe bets [$0.06]
+HEpycckuu folds
+** Summary **
+Alaloupe did not show his hand
+Alaloupe collected [ $0.13 ]
+
+
+
+#Game No : 527693366
+***** 888poker Hand History for Game 527693366 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:21:03
+Table Zamora 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.07 )
+Seat 2: ptahjet777 ( $1.03 )
+Seat 3: B2B_Suckouts ( $2.29 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.79 )
+Seat 6: XSpades ( $3.52 )
+Seat 7: ffev78 ( $2.03 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.90 )
+HEpycckuu posts small blind [$0.01]
+XSpades posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8c, 6d ]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers raises [$0.07]
+HEpycckuu folds
+XSpades folds
+** Summary **
+AmaneInvers did not show his hand
+AmaneInvers collected [ $0.05 ]
+
+
+
+#Game No : 527693379
+***** 888poker Hand History for Game 527693379 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:21:24
+Table Zamora 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.07 )
+Seat 2: ptahjet777 ( $1.03 )
+Seat 3: B2B_Suckouts ( $2.29 )
+Seat 4: AmaneInvers ( $2.03 )
+Seat 5: HEpycckuu ( $0.78 )
+Seat 6: XSpades ( $3.50 )
+Seat 7: ffev78 ( $2.03 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.90 )
+XSpades posts small blind [$0.01]
+ffev78 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4c, Tc ]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe raises [$0.06]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers calls [$0.06]
+HEpycckuu folds
+XSpades calls [$0.05]
+ffev78 folds
+** Dealing flop ** [ 5s, 5h, Qc ]
+XSpades checks
+Alaloupe checks
+AmaneInvers bets [$0.13]
+XSpades folds
+Alaloupe folds
+** Summary **
+AmaneInvers did not show his hand
+AmaneInvers collected [ $0.19 ]
+
+
+
+#Game No : 527693424
+***** 888poker Hand History for Game 527693424 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:22:27
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.01 )
+Seat 2: ptahjet777 ( $1.03 )
+Seat 3: B2B_Suckouts ( $2.29 )
+Seat 4: AmaneInvers ( $2.16 )
+Seat 5: HEpycckuu ( $0.78 )
+Seat 6: XSpades ( $3.44 )
+Seat 7: ffev78 ( $2.01 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.90 )
+ffev78 posts small blind [$0.01]
+gimeurchips posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Td, Js ]
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu raises [$0.04]
+XSpades calls [$0.04]
+ffev78 folds
+gimeurchips folds
+** Dealing flop ** [ 3h, Ad, 3s ]
+HEpycckuu bets [$0.07]
+XSpades calls [$0.07]
+** Dealing turn ** [ Ah ]
+HEpycckuu checks
+XSpades bets [$3.33]
+HEpycckuu folds
+** Summary **
+XSpades did not show his hand
+XSpades collected [ $0.24 ]
+
+
+
+#Game No : 527693473
+***** 888poker Hand History for Game 527693473 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:23:45
+Table Zamora 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.01 )
+Seat 2: ptahjet777 ( $1.03 )
+Seat 3: B2B_Suckouts ( $2.29 )
+Seat 4: AmaneInvers ( $2.16 )
+Seat 5: HEpycckuu ( $0.67 )
+Seat 6: XSpades ( $3.57 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.90 )
+gimeurchips posts small blind [$0.01]
+GE_Saniok_MD posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Qh, 9h ]
+Alaloupe folds
+ptahjet777 raises [$0.10]
+B2B_Suckouts folds
+AmaneInvers calls [$0.10]
+HEpycckuu folds
+XSpades calls [$0.10]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+** Dealing flop ** [ 9s, Kc, 4s ]
+ptahjet777 bets [$0.20]
+AmaneInvers folds
+XSpades folds
+** Summary **
+ptahjet777 did not show his hand
+ptahjet777 collected [ $0.31 ]
+
+
+
+#Game No : 527693508
+***** 888poker Hand History for Game 527693508 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:24:36
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.01 )
+Seat 2: ptahjet777 ( $1.24 )
+Seat 3: B2B_Suckouts ( $2.29 )
+Seat 4: AmaneInvers ( $2.06 )
+Seat 5: HEpycckuu ( $0.80 )
+Seat 6: XSpades ( $3.47 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.88 )
+GE_Saniok_MD posts small blind [$0.01]
+Alaloupe posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8c, 7s ]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+XSpades folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+** Summary **
+Alaloupe did not show his hand
+Alaloupe collected [ $0.03 ]
+
+
+
+#Game No : 527693530
+***** 888poker Hand History for Game 527693530 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:25:08
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.02 )
+Seat 2: ptahjet777 ( $1.24 )
+Seat 3: B2B_Suckouts ( $2.29 )
+Seat 4: AmaneInvers ( $2.06 )
+Seat 5: HEpycckuu ( $0.80 )
+Seat 6: XSpades ( $3.47 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.87 )
+Alaloupe posts small blind [$0.01]
+ptahjet777 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Qd, 2d ]
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+XSpades calls [$0.02]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 checks
+** Dealing flop ** [ 7d, 4d, Th ]
+ptahjet777 bets [$0.03]
+XSpades calls [$0.03]
+** Dealing turn ** [ 5h ]
+ptahjet777 bets [$0.05]
+XSpades raises [$0.20]
+ptahjet777 folds
+** Summary **
+XSpades did not show his hand
+XSpades collected [ $0.20 ]
+
+
+
+#Game No : 527693581
+***** 888poker Hand History for Game 527693581 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:26:15
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.01 )
+Seat 2: ptahjet777 ( $1.14 )
+Seat 3: B2B_Suckouts ( $2.29 )
+Seat 4: AmaneInvers ( $2.06 )
+Seat 5: HEpycckuu ( $0.80 )
+Seat 6: XSpades ( $3.57 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.87 )
+ptahjet777 posts small blind [$0.01]
+B2B_Suckouts posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5s, 9h ]
+AmaneInvers folds
+HEpycckuu raises [$0.04]
+XSpades folds
+ffev78 calls [$0.04]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+** Dealing flop ** [ 8c, 6c, 4s ]
+HEpycckuu bets [$0.05]
+ffev78 folds
+** Summary **
+HEpycckuu did not show his hand
+HEpycckuu collected [ $0.11 ]
+
+
+
+#Game No : 527693610
+***** 888poker Hand History for Game 527693610 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:27:05
+Table Zamora 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.01 )
+Seat 2: ptahjet777 ( $1.13 )
+Seat 3: B2B_Suckouts ( $2.27 )
+Seat 4: AmaneInvers ( $2.06 )
+Seat 5: HEpycckuu ( $0.87 )
+Seat 6: XSpades ( $3.57 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.87 )
+B2B_Suckouts posts small blind [$0.01]
+AmaneInvers posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Jh, Ah ]
+HEpycckuu calls [$0.02]
+XSpades calls [$0.02]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts raises [$0.05]
+AmaneInvers folds
+HEpycckuu calls [$0.04]
+XSpades raises [$0.18]
+B2B_Suckouts calls [$0.14]
+HEpycckuu folds
+** Dealing flop ** [ Kd, 5d, Js ]
+B2B_Suckouts checks
+XSpades bets [$0.31]
+B2B_Suckouts calls [$0.31]
+** Dealing turn ** [ Ad ]
+B2B_Suckouts checks
+XSpades bets [$3.06]
+B2B_Suckouts calls [$1.76]
+** Dealing river ** [ 8d ]
+** Summary **
+B2B_Suckouts shows [ Jh, Ah ]
+XSpades shows [ Jc, Qs ]
+B2B_Suckouts collected [ $4.34 ]
+
+
+
+#Game No : 527693673
+***** 888poker Hand History for Game 527693673 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:28:28
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.01 )
+Seat 2: ptahjet777 ( $1.13 )
+Seat 3: B2B_Suckouts ( $4.34 )
+Seat 4: AmaneInvers ( $2.04 )
+Seat 5: HEpycckuu ( $0.81 )
+Seat 6: XSpades ( $1.30 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.87 )
+AmaneInvers posts small blind [$0.01]
+HEpycckuu posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7d, Ah ]
+XSpades folds
+ffev78 raises [$0.08]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ $0.05 ]
+
+
+
+#Game No : 527693688
+***** 888poker Hand History for Game 527693688 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:28:52
+Table Zamora 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.01 )
+Seat 2: ptahjet777 ( $1.13 )
+Seat 3: B2B_Suckouts ( $4.34 )
+Seat 4: AmaneInvers ( $2.03 )
+Seat 5: HEpycckuu ( $0.79 )
+Seat 6: XSpades ( $1.30 )
+Seat 7: ffev78 ( $2.03 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.87 )
+HEpycckuu posts small blind [$0.01]
+XSpades posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3s, 6c ]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers raises [$0.07]
+HEpycckuu calls [$0.06]
+XSpades calls [$0.05]
+** Dealing flop ** [ 4s, 9d, 7d ]
+HEpycckuu checks
+XSpades checks
+AmaneInvers checks
+** Dealing turn ** [ 6d ]
+HEpycckuu checks
+XSpades bets [$1.23]
+AmaneInvers folds
+HEpycckuu folds
+** Summary **
+XSpades did not show his hand
+XSpades collected [ $0.20 ]
+
+
+
+#Game No : 527693755
+***** 888poker Hand History for Game 527693755 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:30:21
+Table Zamora 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.01 )
+Seat 2: ptahjet777 ( $1.13 )
+Seat 3: B2B_Suckouts ( $4.34 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.72 )
+Seat 6: XSpades ( $1.43 )
+Seat 7: ffev78 ( $2.03 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.87 )
+XSpades posts small blind [$0.01]
+ffev78 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4d, 9s ]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe raises [$0.06]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+XSpades calls [$0.05]
+ffev78 folds
+** Dealing flop ** [ Qc, 3h, 8h ]
+XSpades checks
+Alaloupe checks
+** Dealing turn ** [ 2s ]
+XSpades checks
+Alaloupe checks
+** Dealing river ** [ 8s ]
+XSpades checks
+Alaloupe checks
+** Summary **
+XSpades shows [ Ad, 3d ]
+Alaloupe shows [ 6s, 6c ]
+Alaloupe collected [ $0.14 ]
+
+
+
+#Game No : 527693797
+***** 888poker Hand History for Game 527693797 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:31:31
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.09 )
+Seat 2: ptahjet777 ( $1.13 )
+Seat 3: B2B_Suckouts ( $4.34 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.72 )
+Seat 6: XSpades ( $1.37 )
+Seat 7: ffev78 ( $2.01 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.87 )
+ffev78 posts small blind [$0.01]
+gimeurchips posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7s, Kh ]
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+XSpades calls [$0.02]
+ffev78 folds
+gimeurchips checks
+** Dealing flop ** [ 4c, 2c, Jc ]
+gimeurchips checks
+XSpades bets [$0.10]
+gimeurchips folds
+** Summary **
+XSpades did not show his hand
+XSpades collected [ $0.05 ]
+
+
+
+#Game No : 527693827
+***** 888poker Hand History for Game 527693827 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:32:07
+Table Zamora 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.09 )
+Seat 2: ptahjet777 ( $1.13 )
+Seat 3: B2B_Suckouts ( $4.34 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.72 )
+Seat 6: XSpades ( $1.40 )
+Seat 7: ffev78 ( $2 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.87 )
+gimeurchips posts small blind [$0.01]
+GE_Saniok_MD posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8h, Th ]
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+XSpades folds
+ffev78 raises [$0.05]
+gimeurchips folds
+GE_Saniok_MD folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ $0.05 ]
+
+
+
+#Game No : 527693852
+***** 888poker Hand History for Game 527693852 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:32:38
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.09 )
+Seat 2: ptahjet777 ( $1.13 )
+Seat 3: B2B_Suckouts ( $4.34 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.72 )
+Seat 6: XSpades ( $1.40 )
+Seat 7: ffev78 ( $2.03 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.85 )
+GE_Saniok_MD posts small blind [$0.01]
+Alaloupe posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4c, 4h ]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+XSpades raises [$0.14]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+** Summary **
+XSpades did not show his hand
+XSpades collected [ $0.05 ]
+
+
+
+#Game No : 527693882
+***** 888poker Hand History for Game 527693882 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:33:20
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.07 )
+Seat 2: ptahjet777 ( $1.13 )
+Seat 3: B2B_Suckouts ( $4.34 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.72 )
+Seat 6: XSpades ( $1.43 )
+Seat 7: ffev78 ( $2.03 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.84 )
+Alaloupe posts small blind [$0.01]
+ptahjet777 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7d, Jd ]
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+XSpades raises [$0.14]
+ffev78 raises [$2.03]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+XSpades calls [$1.29]
+** Dealing flop ** [ 9h, 4d, 2c ]
+** Dealing turn ** [ 7h ]
+** Dealing river ** [ 9c ]
+** Summary **
+XSpades shows [ Th, Ts ]
+ffev78 shows [ Kh, Kc ]
+ffev78 collected [ $2.71 ]
+
+
+
+#Game No : 527693926
+***** 888poker Hand History for Game 527693926 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:34:16
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( $2.06 )
+Seat 2: ptahjet777 ( $1.11 )
+Seat 3: B2B_Suckouts ( $4.34 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.72 )
+Seat 7: ffev78 ( $3.31 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.84 )
+ptahjet777 posts small blind [$0.01]
+B2B_Suckouts posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Kc, 5c ]
+AmaneInvers folds
+HEpycckuu folds
+ffev78 folds
+gimeurchips raises [$0.06]
+GE_Saniok_MD folds
+Alaloupe calls [$0.06]
+ptahjet777 calls [$0.05]
+B2B_Suckouts folds
+** Dealing flop ** [ Ad, 4s, 6c ]
+ptahjet777 checks
+gimeurchips checks
+Alaloupe checks
+** Dealing turn ** [ 9d ]
+ptahjet777 bets [$0.13]
+gimeurchips folds
+Alaloupe folds
+** Summary **
+ptahjet777 collected [ $0.19 ]
+
+
+
+#Game No : 527693965
+***** 888poker Hand History for Game 527693965 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:35:11
+Table Zamora 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( $2 )
+Seat 2: ptahjet777 ( $1.24 )
+Seat 3: B2B_Suckouts ( $4.32 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.72 )
+Seat 7: ffev78 ( $3.31 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.84 )
+B2B_Suckouts posts small blind [$0.01]
+AmaneInvers posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Kc, Ts ]
+HEpycckuu folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 raises [$0.06]
+B2B_Suckouts folds
+AmaneInvers calls [$0.04]
+** Dealing flop ** [ 3c, Qc, 9h ]
+AmaneInvers checks
+ptahjet777 bets [$0.08]
+AmaneInvers folds
+** Summary **
+ptahjet777 collected [ $0.13 ]
+
+
+
+#Game No : 527693995
+***** 888poker Hand History for Game 527693995 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:35:57
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( $2 )
+Seat 2: ptahjet777 ( $1.31 )
+Seat 3: B2B_Suckouts ( $4.31 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.72 )
+Seat 7: ffev78 ( $3.31 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.84 )
+AmaneInvers posts small blind [$0.01]
+HEpycckuu posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Js, 6c ]
+ffev78 raises [$0.06]
+gimeurchips folds
+GE_Saniok_MD raises [$0.18]
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+ffev78 calls [$0.12]
+** Dealing flop ** [ 9c, Qs, 6s ]
+ffev78 checks
+GE_Saniok_MD bets [$0.25]
+ffev78 folds
+** Summary **
+GE_Saniok_MD collected [ $0.37 ]
+
+
+
+#Game No : 527694021
+***** 888poker Hand History for Game 527694021 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:36:32
+Table Zamora 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2 )
+Seat 2: ptahjet777 ( $1.31 )
+Seat 3: B2B_Suckouts ( $4.31 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.70 )
+Seat 6: crowzen ( $2 )
+Seat 7: ffev78 ( $3.13 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $3.03 )
+HEpycckuu posts small blind [$0.01]
+crowzen posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Qd, 3d ]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+** Summary **
+crowzen did not show his hand
+crowzen collected [ $0.03 ]
+
+
+
+#Game No : 527694036
+***** 888poker Hand History for Game 527694036 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:36:51
+Table Zamora 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2 )
+Seat 2: ptahjet777 ( $1.31 )
+Seat 3: B2B_Suckouts ( $4.31 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.69 )
+Seat 6: crowzen ( $2.01 )
+Seat 7: ffev78 ( $3.13 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $3.03 )
+crowzen posts small blind [$0.01]
+ffev78 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Ts, 8c ]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe calls [$0.02]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu calls [$0.02]
+crowzen folds
+ffev78 checks
+** Dealing flop ** [ 8d, 6d, 4d ]
+ffev78 checks
+Alaloupe checks
+HEpycckuu bets [$0.04]
+ffev78 folds
+Alaloupe folds
+** Summary **
+HEpycckuu did not show his hand
+HEpycckuu collected [ $0.07 ]
+
+
+
+#Game No : 527694073
+***** 888poker Hand History for Game 527694073 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:37:35
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2 )
+Seat 2: ptahjet777 ( $1.31 )
+Seat 3: B2B_Suckouts ( $4.31 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.80 )
+Seat 6: crowzen ( $2 )
+Seat 7: ffev78 ( $3.11 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $3.03 )
+ffev78 posts small blind [$0.01]
+gimeurchips posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7c, 8c ]
+GE_Saniok_MD folds
+Alaloupe raises [$0.06]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+crowzen folds
+ffev78 folds
+gimeurchips folds
+** Summary **
+Alaloupe did not show his hand
+Alaloupe collected [ $0.05 ]
+
+
+
+#Game No : 527694096
+***** 888poker Hand History for Game 527694096 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:38:06
+Table Zamora 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.03 )
+Seat 2: ptahjet777 ( $1.31 )
+Seat 3: B2B_Suckouts ( $4.31 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.80 )
+Seat 6: crowzen ( $2 )
+Seat 7: ffev78 ( $3.10 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $3.03 )
+gimeurchips posts small blind [$0.01]
+GE_Saniok_MD posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Qs, 4d ]
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+crowzen raises [$0.06]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+** Summary **
+crowzen did not show his hand
+crowzen collected [ $0.05 ]
+
+
+
+#Game No : 527694123
+***** 888poker Hand History for Game 527694123 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:38:34
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.03 )
+Seat 2: ptahjet777 ( $1.31 )
+Seat 3: B2B_Suckouts ( $4.31 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.80 )
+Seat 6: crowzen ( $2.03 )
+Seat 7: ffev78 ( $3.10 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $3.01 )
+GE_Saniok_MD posts small blind [$0.01]
+Alaloupe posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3d, Kh ]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+crowzen raises [$0.06]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD calls [$0.05]
+Alaloupe folds
+** Dealing flop ** [ Jd, 4d, Kd ]
+GE_Saniok_MD checks
+crowzen bets [$0.07]
+GE_Saniok_MD folds
+** Summary **
+crowzen did not show his hand
+crowzen collected [ $0.14 ]
+
+
+
+#Game No : 527694155
+***** 888poker Hand History for Game 527694155 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:39:10
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2.01 )
+Seat 2: ptahjet777 ( $1.31 )
+Seat 3: B2B_Suckouts ( $4.31 )
+Seat 4: AmaneInvers ( $2 )
+Seat 5: HEpycckuu ( $0.80 )
+Seat 6: crowzen ( $2.11 )
+Seat 7: ffev78 ( $3.10 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.95 )
+Alaloupe posts small blind [$0.01]
+ptahjet777 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9s, 6s ]
+B2B_Suckouts folds
+AmaneInvers raises [$0.05]
+HEpycckuu folds
+crowzen folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 calls [$0.03]
+** Dealing flop ** [ 4d, 5h, Jc ]
+ptahjet777 checks
+AmaneInvers bets [$0.07]
+ptahjet777 calls [$0.07]
+** Dealing turn ** [ 9c ]
+ptahjet777 checks
+AmaneInvers bets [$0.18]
+ptahjet777 calls [$0.18]
+** Dealing river ** [ 5s ]
+ptahjet777 checks
+AmaneInvers bets [$0.44]
+ptahjet777 folds
+** Summary **
+AmaneInvers did not show his hand
+AmaneInvers collected [ $0.58 ]
+
+
+
+#Game No : 527694224
+***** 888poker Hand History for Game 527694224 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:40:30
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( $2 )
+Seat 2: ptahjet777 ( $1.01 )
+Seat 3: B2B_Suckouts ( $4.31 )
+Seat 4: AmaneInvers ( $2.28 )
+Seat 5: HEpycckuu ( $0.80 )
+Seat 6: crowzen ( $2.11 )
+Seat 7: ffev78 ( $3.10 )
+Seat 9: gimeurchips ( $2 )
+Seat 10: GE_Saniok_MD ( $2.95 )
+ptahjet777 posts small blind [$0.01]
+B2B_Suckouts posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Js, Td ]
+AmaneInvers folds
+HEpycckuu raises [$0.04]
+crowzen folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 raises [$0.15]
+B2B_Suckouts folds
+HEpycckuu folds
+** Summary **
+ptahjet777 did not show his hand
+ptahjet777 collected [ $0.10 ]
+
+
+
+#Game No : 527694373
+***** 888poker Hand History for Game 527694373 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:43:26
+Table Zamora 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,03 $ )
+Seat 2: ptahjet777 ( 1,07 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,26 $ )
+Seat 5: HEpycckuu ( 0,75 $ )
+Seat 6: crowzen ( 2,09 $ )
+Seat 7: ffev78 ( 3,13 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: GE_Saniok_MD ( 2,95 $ )
+crowzen posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 5Pik ]
+gimeurchips folds
+GE_Saniok_MD raises [0,05 $]
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+crowzen folds
+ffev78 folds
+** Summary **
+GE_Saniok_MD did not show his hand
+GE_Saniok_MD collected [ 0,05 $ ]
+
+
+
+#Game No : 527694419
+***** 888poker Hand History for Game 527694419 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:44:14
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,03 $ )
+Seat 2: ptahjet777 ( 1,07 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,26 $ )
+Seat 5: HEpycckuu ( 0,75 $ )
+Seat 6: crowzen ( 2,08 $ )
+Seat 7: ffev78 ( 3,11 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: GE_Saniok_MD ( 2,98 $ )
+ffev78 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, JHerz ]
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 raises [0,06 $]
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+crowzen folds
+ffev78 folds
+gimeurchips folds
+** Summary **
+ptahjet777 did not show his hand
+ptahjet777 collected [ 0,05 $ ]
+
+
+
+#Game No : 527694438
+***** 888poker Hand History for Game 527694438 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:44:44
+Table Zamora 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,03 $ )
+Seat 2: ptahjet777 ( 1,10 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,26 $ )
+Seat 5: HEpycckuu ( 0,75 $ )
+Seat 6: crowzen ( 2,08 $ )
+Seat 7: ffev78 ( 3,10 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: GE_Saniok_MD ( 2,98 $ )
+gimeurchips posts small blind [0,01 $]
+GE_Saniok_MD posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 5Kreuz ]
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+crowzen folds
+ffev78 folds
+gimeurchips folds
+** Summary **
+GE_Saniok_MD did not show his hand
+GE_Saniok_MD collected [ 0,03 $ ]
+
+
+
+#Game No : 527694466
+***** 888poker Hand History for Game 527694466 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:45:14
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,03 $ )
+Seat 2: ptahjet777 ( 1,10 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,26 $ )
+Seat 5: HEpycckuu ( 0,75 $ )
+Seat 6: crowzen ( 2,08 $ )
+Seat 7: ffev78 ( 3,10 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: GE_Saniok_MD ( 2,99 $ )
+GE_Saniok_MD posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 2Pik ]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu raises [0,04 $]
+crowzen folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+** Summary **
+HEpycckuu did not show his hand
+HEpycckuu collected [ 0,05 $ ]
+
+
+
+#Game No : 527694487
+***** 888poker Hand History for Game 527694487 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:45:43
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,01 $ )
+Seat 2: ptahjet777 ( 1,10 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,26 $ )
+Seat 5: HEpycckuu ( 0,78 $ )
+Seat 6: crowzen ( 2,08 $ )
+Seat 7: ffev78 ( 3,10 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: GE_Saniok_MD ( 2,98 $ )
+Alaloupe posts small blind [0,01 $]
+ptahjet777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 5Pik ]
+B2B_Suckouts folds
+AmaneInvers folds
+HEpycckuu folds
+crowzen folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+** Summary **
+ptahjet777 did not show his hand
+ptahjet777 collected [ 0,03 $ ]
+
+
+
+#Game No : 527694515
+***** 888poker Hand History for Game 527694515 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:46:17
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2 $ )
+Seat 2: ptahjet777 ( 1,11 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,26 $ )
+Seat 5: HEpycckuu ( 0,78 $ )
+Seat 6: crowzen ( 2,08 $ )
+Seat 7: ffev78 ( 3,10 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: GE_Saniok_MD ( 2,98 $ )
+ptahjet777 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 8Pik ]
+AmaneInvers raises [0,07 $]
+HEpycckuu folds
+crowzen folds
+ffev78 calls [0,07 $]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+** Dealing flop ** [ JHerz, QKaro, 5Karo ]
+AmaneInvers bets [0,15 $]
+ffev78 calls [0,15 $]
+** Dealing turn ** [ 2Herz ]
+AmaneInvers bets [0,35 $]
+ffev78 folds
+** Summary **
+AmaneInvers did not show his hand
+AmaneInvers collected [ 0,45 $ ]
+
+
+
+#Game No : 527694570
+***** 888poker Hand History for Game 527694570 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:47:27
+Table Zamora 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2 $ )
+Seat 2: ptahjet777 ( 1,10 $ )
+Seat 3: B2B_Suckouts ( 4,26 $ )
+Seat 4: AmaneInvers ( 2,49 $ )
+Seat 5: HEpycckuu ( 0,78 $ )
+Seat 6: crowzen ( 2,08 $ )
+Seat 7: ffev78 ( 2,88 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: GE_Saniok_MD ( 2,98 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AmaneInvers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 10Herz ]
+HEpycckuu folds
+crowzen folds
+ffev78 folds
+gimeurchips raises [0,06 $]
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+** Summary **
+gimeurchips did not show his hand
+gimeurchips collected [ 0,05 $ ]
+
+
+
+#Game No : 527694590
+***** 888poker Hand History for Game 527694590 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:47:55
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2 $ )
+Seat 2: ptahjet777 ( 1,10 $ )
+Seat 3: B2B_Suckouts ( 4,25 $ )
+Seat 4: AmaneInvers ( 2,47 $ )
+Seat 5: HEpycckuu ( 0,78 $ )
+Seat 6: crowzen ( 2,08 $ )
+Seat 7: ffev78 ( 2,88 $ )
+Seat 9: gimeurchips ( 2,03 $ )
+Seat 10: GE_Saniok_MD ( 2,98 $ )
+AmaneInvers posts small blind [0,01 $]
+HEpycckuu folds
+crowzen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, QHerz ]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD raises [0,06 $]
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts calls [0,06 $]
+AmaneInvers folds
+crowzen folds
+** Dealing flop ** [ 10Kreuz, QPik, 6Kreuz ]
+GE_Saniok_MD checks
+B2B_Suckouts bets [0,04 $]
+GE_Saniok_MD folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 527694645
+***** 888poker Hand History for Game 527694645 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:48:55
+Table Zamora 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 2 $ )
+Seat 2: ptahjet777 ( 1,10 $ )
+Seat 3: B2B_Suckouts ( 4,34 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 6: crowzen ( 2,06 $ )
+Seat 7: ffev78 ( 2,88 $ )
+Seat 9: gimeurchips ( 2,03 $ )
+Seat 10: GE_Saniok_MD ( 2,92 $ )
+crowzen posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 7Herz ]
+gimeurchips raises [0,06 $]
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+crowzen folds
+ffev78 folds
+** Summary **
+gimeurchips did not show his hand
+gimeurchips collected [ 0,05 $ ]
+
+
+
+#Game No : 527694660
+***** 888poker Hand History for Game 527694660 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:49:17
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 2 $ )
+Seat 2: ptahjet777 ( 1,10 $ )
+Seat 3: B2B_Suckouts ( 4,34 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 6: crowzen ( 2,05 $ )
+Seat 7: ffev78 ( 2,86 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: GE_Saniok_MD ( 2,92 $ )
+ffev78 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 3Karo ]
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+crowzen raises [0,05 $]
+ffev78 raises [0,15 $]
+gimeurchips folds
+crowzen folds
+** Summary **
+ffev78 collected [ 0,12 $ ]
+
+
+
+#Game No : 527694715
+***** 888poker Hand History for Game 527694715 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:50:15
+Table Zamora 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2 $ )
+Seat 2: ptahjet777 ( 1,10 $ )
+Seat 3: B2B_Suckouts ( 4,34 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 5: Torak777 ( 1,50 $ )
+Seat 6: crowzen ( 2 $ )
+Seat 7: ffev78 ( 2,93 $ )
+Seat 9: gimeurchips ( 2,04 $ )
+Seat 10: GE_Saniok_MD ( 2,92 $ )
+gimeurchips posts small blind [0,01 $]
+GE_Saniok_MD posts big blind [0,02 $]
+Torak777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 8Kreuz ]
+Alaloupe raises [0,06 $]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 folds
+crowzen folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD calls [0,04 $]
+** Dealing flop ** [ 8Herz, 10Herz, 9Kreuz ]
+GE_Saniok_MD checks
+Alaloupe bets [0,07 $]
+GE_Saniok_MD folds
+** Summary **
+Alaloupe did not show his hand
+Alaloupe collected [ 0,15 $ ]
+
+
+
+#Game No : 527694761
+***** 888poker Hand History for Game 527694761 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:51:06
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,09 $ )
+Seat 2: ptahjet777 ( 1,10 $ )
+Seat 3: B2B_Suckouts ( 4,34 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 5: Torak777 ( 1,48 $ )
+Seat 6: crowzen ( 2 $ )
+Seat 7: ffev78 ( 2,93 $ )
+Seat 9: gimeurchips ( 2,03 $ )
+Seat 10: GE_Saniok_MD ( 2,86 $ )
+GE_Saniok_MD posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 4Herz ]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 folds
+crowzen folds
+ffev78 folds
+gimeurchips raises [0,05 $]
+GE_Saniok_MD folds
+Alaloupe folds
+** Summary **
+gimeurchips did not show his hand
+gimeurchips collected [ 0,05 $ ]
+
+
+
+#Game No : 527694780
+***** 888poker Hand History for Game 527694780 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:51:28
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,07 $ )
+Seat 2: ptahjet777 ( 1,10 $ )
+Seat 3: B2B_Suckouts ( 4,34 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 5: Torak777 ( 1,48 $ )
+Seat 6: crowzen ( 2 $ )
+Seat 7: ffev78 ( 2,93 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: GE_Saniok_MD ( 2,85 $ )
+Alaloupe posts small blind [0,01 $]
+ptahjet777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 6Herz ]
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 folds
+crowzen folds
+ffev78 raises [0,06 $]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 calls [0,04 $]
+** Dealing flop ** [ KPik, 2Pik, QHerz ]
+ptahjet777 checks
+ffev78 bets [0,06 $]
+ptahjet777 folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ 0,13 $ ]
+
+
+
+#Game No : 527694817
+***** 888poker Hand History for Game 527694817 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:52:14
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,06 $ )
+Seat 2: ptahjet777 ( 1,04 $ )
+Seat 3: B2B_Suckouts ( 4,34 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 5: Torak777 ( 1,48 $ )
+Seat 6: crowzen ( 2 $ )
+Seat 7: ffev78 ( 3 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: GE_Saniok_MD ( 2,85 $ )
+ptahjet777 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 5Pik ]
+AmaneInvers folds
+Torak777 folds
+crowzen folds
+ffev78 raises [0,06 $]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ 0,05 $ ]
+
+
+
+#Game No : 527694840
+***** 888poker Hand History for Game 527694840 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:52:42
+Table Zamora 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,06 $ )
+Seat 2: ptahjet777 ( 1,03 $ )
+Seat 3: B2B_Suckouts ( 4,32 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 5: Torak777 ( 1,48 $ )
+Seat 6: crowzen ( 2 $ )
+Seat 7: ffev78 ( 3,03 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: GE_Saniok_MD ( 2,85 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AmaneInvers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 4Herz ]
+Torak777 folds
+crowzen folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+** Summary **
+AmaneInvers did not show his hand
+AmaneInvers collected [ 0,03 $ ]
+
+
+
+#Game No : 527694869
+***** 888poker Hand History for Game 527694869 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:53:12
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,06 $ )
+Seat 2: ptahjet777 ( 1,03 $ )
+Seat 3: B2B_Suckouts ( 4,31 $ )
+Seat 4: AmaneInvers ( 2,47 $ )
+Seat 5: Torak777 ( 1,48 $ )
+Seat 6: crowzen ( 2 $ )
+Seat 7: ffev78 ( 3,03 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: GE_Saniok_MD ( 2,85 $ )
+AmaneInvers posts small blind [0,01 $]
+Torak777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 3Herz ]
+crowzen folds
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe raises [0,06 $]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 folds
+** Summary **
+Alaloupe did not show his hand
+Alaloupe collected [ 0,05 $ ]
+
+
+
+#Game No : 527694882
+***** 888poker Hand History for Game 527694882 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:53:30
+Table Zamora 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,09 $ )
+Seat 2: ptahjet777 ( 1,03 $ )
+Seat 3: B2B_Suckouts ( 4,31 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 5: Torak777 ( 1,46 $ )
+Seat 6: crowzen ( 2 $ )
+Seat 7: ffev78 ( 3,03 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: GE_Saniok_MD ( 2,85 $ )
+Torak777 posts small blind [0,01 $]
+crowzen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, JHerz ]
+ffev78 folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts raises [0,06 $]
+AmaneInvers folds
+Torak777 folds
+crowzen folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 527694917
+***** 888poker Hand History for Game 527694917 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:54:12
+Table Zamora 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 2,09 $ )
+Seat 2: ptahjet777 ( 1,03 $ )
+Seat 3: B2B_Suckouts ( 4,34 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 5: Torak777 ( 1,45 $ )
+Seat 6: crowzen ( 2 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: GE_Saniok_MD ( 2,85 $ )
+crowzen posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 4Herz ]
+GE_Saniok_MD folds
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers raises [0,05 $]
+Torak777 folds
+crowzen folds
+gimeurchips folds
+** Summary **
+AmaneInvers collected [ 0,05 $ ]
+
+
+
+#Game No : 527694943
+***** 888poker Hand History for Game 527694943 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:54:41
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 2,09 $ )
+Seat 2: ptahjet777 ( 1,03 $ )
+Seat 3: B2B_Suckouts ( 4,34 $ )
+Seat 4: AmaneInvers ( 2,49 $ )
+Seat 5: Torak777 ( 1,45 $ )
+Seat 6: crowzen ( 2 $ )
+Seat 9: gimeurchips ( 2,04 $ )
+Seat 10: GE_Saniok_MD ( 2,85 $ )
+gimeurchips posts small blind [0,01 $]
+GE_Saniok_MD posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, JHerz ]
+Alaloupe folds
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 raises [0,06 $]
+crowzen raises [0,18 $]
+gimeurchips folds
+GE_Saniok_MD folds
+Torak777 folds
+** Summary **
+crowzen collected [ 0,15 $ ]
+
+
+
+#Game No : 527694981
+***** 888poker Hand History for Game 527694981 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:55:29
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 2,09 $ )
+Seat 2: ptahjet777 ( 1,03 $ )
+Seat 3: B2B_Suckouts ( 4,34 $ )
+Seat 4: AmaneInvers ( 2,49 $ )
+Seat 5: Torak777 ( 1,39 $ )
+Seat 6: crowzen ( 2,09 $ )
+Seat 9: gimeurchips ( 2,03 $ )
+Seat 10: GE_Saniok_MD ( 2,83 $ )
+GE_Saniok_MD posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 3Kreuz ]
+ptahjet777 folds
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 folds
+crowzen folds
+gimeurchips folds
+GE_Saniok_MD folds
+** Summary **
+Alaloupe collected [ 0,03 $ ]
+
+
+
+#Game No : 527695010
+***** 888poker Hand History for Game 527695010 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:55:54
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 2,10 $ )
+Seat 3: B2B_Suckouts ( 4,34 $ )
+Seat 4: AmaneInvers ( 2,49 $ )
+Seat 5: Torak777 ( 1,39 $ )
+Seat 6: crowzen ( 2,09 $ )
+Seat 9: gimeurchips ( 2,03 $ )
+Seat 10: GE_Saniok_MD ( 2,82 $ )
+Alaloupe posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 8Herz ]
+AmaneInvers folds
+Torak777 folds
+crowzen folds
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe raises [0,05 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ QKaro, 10Karo, 7Kreuz ]
+Alaloupe bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+Alaloupe collected [ 0,12 $ ]
+
+
+
+#Game No : 527695045
+***** 888poker Hand History for Game 527695045 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:56:40
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 2,16 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,49 $ )
+Seat 5: Torak777 ( 1,39 $ )
+Seat 6: crowzen ( 2,09 $ )
+Seat 9: gimeurchips ( 2,03 $ )
+Seat 10: GE_Saniok_MD ( 2,82 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AmaneInvers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 5Herz ]
+Torak777 folds
+crowzen folds
+gimeurchips raises [0,06 $]
+GE_Saniok_MD folds
+Alaloupe folds
+B2B_Suckouts folds
+AmaneInvers folds
+** Summary **
+gimeurchips collected [ 0,05 $ ]
+
+
+
+#Game No : 527695080
+***** 888poker Hand History for Game 527695080 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:57:15
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 2,16 $ )
+Seat 2: BrandonBance ( 1,57 $ )
+Seat 3: B2B_Suckouts ( 4,27 $ )
+Seat 4: AmaneInvers ( 2,47 $ )
+Seat 5: Torak777 ( 1,39 $ )
+Seat 6: crowzen ( 2,09 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: GE_Saniok_MD ( 2,82 $ )
+AmaneInvers posts small blind [0,01 $]
+Torak777 posts big blind [0,02 $]
+BrandonBance folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, AKaro ]
+crowzen raises [0,06 $]
+gimeurchips folds
+GE_Saniok_MD calls [0,06 $]
+Alaloupe folds
+B2B_Suckouts calls [0,06 $]
+AmaneInvers folds
+Torak777 folds
+** Dealing flop ** [ 10Kreuz, 6Pik, 4Kreuz ]
+crowzen bets [0,13 $]
+GE_Saniok_MD folds
+B2B_Suckouts folds
+** Summary **
+crowzen collected [ 0,20 $ ]
+
+
+
+#Game No : 527695125
+***** 888poker Hand History for Game 527695125 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:58:09
+Table Zamora 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,16 $ )
+Seat 2: BrandonBance ( 1,57 $ )
+Seat 3: B2B_Suckouts ( 4,21 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 5: Torak777 ( 1,37 $ )
+Seat 6: crowzen ( 2,23 $ )
+Seat 7: ffev78 ( 3,03 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: GE_Saniok_MD ( 2,76 $ )
+Torak777 posts small blind [0,01 $]
+crowzen folds
+ffev78 posts big blind [0,02 $]
+BrandonBance posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, JKaro ]
+gimeurchips folds
+GE_Saniok_MD folds
+Alaloupe folds
+BrandonBance raises [0,02 $]
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 folds
+ffev78 folds
+** Summary **
+BrandonBance collected [ 0,05 $ ]
+
+
+
+#Game No : 527695148
+***** 888poker Hand History for Game 527695148 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:58:32
+Table Zamora 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 2,16 $ )
+Seat 2: BrandonBance ( 1,60 $ )
+Seat 3: B2B_Suckouts ( 4,21 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 7: ffev78 ( 3,01 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: GE_Saniok_MD ( 2,76 $ )
+ffev78 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 5Herz ]
+GE_Saniok_MD folds
+Alaloupe folds
+BrandonBance calls [0,02 $]
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 folds
+ffev78 folds
+gimeurchips checks
+** Dealing flop ** [ APik, JPik, 6Herz ]
+gimeurchips checks
+BrandonBance checks
+** Dealing turn ** [ AKreuz ]
+gimeurchips checks
+BrandonBance checks
+** Dealing river ** [ 10Kreuz ]
+gimeurchips checks
+BrandonBance checks
+** Summary **
+gimeurchips shows [ 4Kreuz, QKreuz ]
+BrandonBance shows [ 4Pik, QHerz ]
+gimeurchips collected [ 0,03 $ ]
+BrandonBance collected [ 0,02 $ ]
+
+
+
+#Game No : 527695189
+***** 888poker Hand History for Game 527695189 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:59:15
+Table Zamora 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,16 $ )
+Seat 2: BrandonBance ( 1,60 $ )
+Seat 3: B2B_Suckouts ( 4,21 $ )
+Seat 4: AmaneInvers ( 2,46 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 6: Optimus40KER ( 2 $ )
+Seat 7: ffev78 ( 3 $ )
+Seat 9: gimeurchips ( 2,07 $ )
+Seat 10: ubetifold15 ( 2 $ )
+gimeurchips posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+Optimus40KER folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 4Kreuz ]
+Alaloupe folds
+BrandonBance raises [0,04 $]
+B2B_Suckouts folds
+AmaneInvers calls [0,04 $]
+Torak777 folds
+ffev78 folds
+gimeurchips folds
+ubetifold15 folds
+** Dealing flop ** [ KPik, 10Karo, 9Kreuz ]
+BrandonBance bets [0,02 $]
+AmaneInvers folds
+** Summary **
+BrandonBance did not show his hand
+BrandonBance collected [ 0,11 $ ]
+
+
+
+#Game No : 527695215
+***** 888poker Hand History for Game 527695215 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:59:43
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 2,16 $ )
+Seat 2: BrandonBance ( 1,67 $ )
+Seat 3: B2B_Suckouts ( 4,21 $ )
+Seat 4: AmaneInvers ( 2,42 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 7: ffev78 ( 3 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: ubetifold15 ( 2 $ )
+ubetifold15 posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, JKaro ]
+BrandonBance raises [0,04 $]
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 folds
+ffev78 folds
+gimeurchips folds
+ubetifold15 folds
+Alaloupe folds
+** Summary **
+BrandonBance collected [ 0,05 $ ]
+
+
+
+#Game No : 527695234
+***** 888poker Hand History for Game 527695234 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:00:05
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 2,14 $ )
+Seat 2: BrandonBance ( 1,70 $ )
+Seat 3: B2B_Suckouts ( 4,21 $ )
+Seat 4: AmaneInvers ( 2,42 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 7: ffev78 ( 3 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: ubetifold15 ( 2 $ )
+Alaloupe posts small blind [0,01 $]
+BrandonBance posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, KPik ]
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 folds
+ffev78 raises [0,06 $]
+gimeurchips folds
+ubetifold15 folds
+Alaloupe calls [0,05 $]
+BrandonBance raises [0,08 $]
+ffev78 calls [0,04 $]
+Alaloupe calls [0,04 $]
+** Dealing flop ** [ 3Kreuz, QKaro, APik ]
+Alaloupe checks
+BrandonBance bets [0,02 $]
+ffev78 calls [0,02 $]
+Alaloupe calls [0,02 $]
+** Dealing turn ** [ 4Pik ]
+Alaloupe checks
+BrandonBance bets [0,10 $]
+ffev78 folds
+Alaloupe calls [0,10 $]
+** Dealing river ** [ 9Herz ]
+Alaloupe bets [0,82 $]
+BrandonBance raises [1,48 $]
+Alaloupe calls [0,66 $]
+** Summary **
+Alaloupe shows [ 4Kreuz, 4Karo ]
+BrandonBance shows [ 10Herz, AHerz ]
+Alaloupe collected [ 3,30 $ ]
+
+
+
+#Game No : 527695319
+***** 888poker Hand History for Game 527695319 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:01:36
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 3,74 $ )
+Seat 3: B2B_Suckouts ( 4,21 $ )
+Seat 4: AmaneInvers ( 2,42 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 7: ffev78 ( 2,88 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: ubetifold15 ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AmaneInvers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, KPik ]
+Torak777 folds
+ffev78 folds
+gimeurchips folds
+ubetifold15 raises [0,06 $]
+Alaloupe folds
+B2B_Suckouts folds
+AmaneInvers folds
+** Summary **
+ubetifold15 collected [ 0,05 $ ]
+
+
+
+#Game No : 527695339
+***** 888poker Hand History for Game 527695339 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:02:00
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 3,74 $ )
+Seat 3: B2B_Suckouts ( 4,20 $ )
+Seat 4: AmaneInvers ( 2,40 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 7: ffev78 ( 2,88 $ )
+Seat 9: gimeurchips ( 2,06 $ )
+Seat 10: ubetifold15 ( 2,03 $ )
+AmaneInvers posts small blind [0,01 $]
+Torak777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 3Pik ]
+ffev78 folds
+gimeurchips folds
+ubetifold15 folds
+Alaloupe folds
+B2B_Suckouts folds
+AmaneInvers raises [0,05 $]
+Torak777 folds
+** Summary **
+AmaneInvers collected [ 0,04 $ ]
+
+
+
+#Game No : 527695380
+***** 888poker Hand History for Game 527695380 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:02:37
+Table Zamora 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Alaloupe ( 3,74 $ )
+Seat 3: B2B_Suckouts ( 4,20 $ )
+Seat 4: AmaneInvers ( 2,42 $ )
+Seat 5: Torak777 ( 1,34 $ )
+Seat 7: ffev78 ( 2,88 $ )
+Seat 10: ubetifold15 ( 2,03 $ )
+Torak777 posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, KKreuz ]
+ubetifold15 folds
+Alaloupe folds
+B2B_Suckouts folds
+AmaneInvers folds
+Torak777 calls [0,01 $]
+ffev78 checks
+** Dealing flop ** [ 5Kreuz, 3Pik, 7Kreuz ]
+Torak777 checks
+ffev78 checks
+** Dealing turn ** [ JHerz ]
+Torak777 bets [0,04 $]
+ffev78 folds
+** Summary **
+Torak777 collected [ 0,04 $ ]
+
+
+
+#Game No : 527695429
+***** 888poker Hand History for Game 527695429 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:03:23
+Table Zamora 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: Alaloupe ( 3,74 $ )
+Seat 3: B2B_Suckouts ( 4,20 $ )
+Seat 4: AmaneInvers ( 2,42 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 7: ffev78 ( 2,86 $ )
+Seat 10: ubetifold15 ( 2,03 $ )
+ffev78 posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 9Pik ]
+Alaloupe folds
+B2B_Suckouts folds
+AmaneInvers raises [0,05 $]
+Torak777 folds
+ffev78 folds
+ubetifold15 folds
+** Summary **
+AmaneInvers collected [ 0,05 $ ]
+
+
+
+#Game No : 527695443
+***** 888poker Hand History for Game 527695443 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:03:43
+Table Zamora 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Alaloupe ( 3,74 $ )
+Seat 3: B2B_Suckouts ( 4,20 $ )
+Seat 4: AmaneInvers ( 2,45 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 7: ffev78 ( 2,85 $ )
+Seat 10: ubetifold15 ( 2,01 $ )
+ubetifold15 posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, AKreuz ]
+B2B_Suckouts folds
+AmaneInvers raises [0,05 $]
+Torak777 folds
+ffev78 raises [0,16 $]
+ubetifold15 folds
+Alaloupe folds
+AmaneInvers calls [0,11 $]
+** Dealing flop ** [ 7Herz, 2Pik, 6Karo ]
+AmaneInvers checks
+ffev78 bets [0,23 $]
+AmaneInvers folds
+** Summary **
+ffev78 collected [ 0,33 $ ]
+
+
+
+#Game No : 527695480
+***** 888poker Hand History for Game 527695480 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:04:21
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: Alaloupe ( 3,72 $ )
+Seat 3: B2B_Suckouts ( 4,20 $ )
+Seat 4: AmaneInvers ( 2,29 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 7: ffev78 ( 3,02 $ )
+Seat 10: ubetifold15 ( 2 $ )
+Alaloupe posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 9Pik ]
+AmaneInvers raises [0,05 $]
+Torak777 folds
+ffev78 folds
+ubetifold15 folds
+Alaloupe folds
+B2B_Suckouts calls [0,03 $]
+** Dealing flop ** [ 9Kreuz, 6Pik, 6Kreuz ]
+B2B_Suckouts bets [0,03 $]
+AmaneInvers folds
+** Summary **
+B2B_Suckouts collected [ 0,11 $ ]
+
+
+
+#Game No : 527695520
+***** 888poker Hand History for Game 527695520 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:04:58
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Alaloupe ( 3,71 $ )
+Seat 3: B2B_Suckouts ( 4,26 $ )
+Seat 4: AmaneInvers ( 2,24 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 7: ffev78 ( 3,02 $ )
+Seat 10: ubetifold15 ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AmaneInvers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 2Herz ]
+Torak777 folds
+ffev78 raises [0,06 $]
+ubetifold15 folds
+Alaloupe folds
+B2B_Suckouts folds
+AmaneInvers folds
+** Summary **
+ffev78 collected [ 0,05 $ ]
+
+
+
+#Game No : 527695539
+***** 888poker Hand History for Game 527695539 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:05:24
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 3,71 $ )
+Seat 3: B2B_Suckouts ( 4,25 $ )
+Seat 4: AmaneInvers ( 2,22 $ )
+Seat 5: Torak777 ( 1,36 $ )
+Seat 6: Optimus40KER ( 2 $ )
+Seat 7: ffev78 ( 3,05 $ )
+Seat 10: ubetifold15 ( 2 $ )
+AmaneInvers posts small blind [0,01 $]
+Torak777 folds
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Herz ]
+ffev78 folds
+ubetifold15 folds
+Alaloupe folds
+B2B_Suckouts raises [0,06 $]
+AmaneInvers folds
+Optimus40KER folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 527695562
+***** 888poker Hand History for Game 527695562 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:05:46
+Table Zamora 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: Alaloupe ( 3,71 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,21 $ )
+Seat 6: Optimus40KER ( 1,98 $ )
+Seat 7: ffev78 ( 3,05 $ )
+Seat 10: ubetifold15 ( 2 $ )
+Optimus40KER posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 5Pik ]
+ubetifold15 raises [0,06 $]
+Alaloupe folds
+B2B_Suckouts folds
+AmaneInvers folds
+Optimus40KER folds
+ffev78 folds
+** Summary **
+ubetifold15 collected [ 0,05 $ ]
+
+
+
+#Game No : 527695578
+***** 888poker Hand History for Game 527695578 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:06:04
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 3,71 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,21 $ )
+Seat 6: Optimus40KER ( 1,97 $ )
+Seat 7: ffev78 ( 3,03 $ )
+Seat 9: Renoknows ( 0,80 $ )
+Seat 10: ubetifold15 ( 2,03 $ )
+ffev78 posts small blind [0,01 $]
+Renoknows posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Herz ]
+ubetifold15 folds
+Alaloupe folds
+B2B_Suckouts folds
+AmaneInvers folds
+Optimus40KER raises [0,05 $]
+ffev78 folds
+Renoknows calls [0,03 $]
+** Dealing flop ** [ 3Pik, AKreuz, 3Karo ]
+Renoknows bets [0,02 $]
+Optimus40KER raises [0,04 $]
+Renoknows calls [0,02 $]
+** Dealing turn ** [ JKreuz ]
+Renoknows bets [0,02 $]
+Optimus40KER raises [0,08 $]
+Renoknows calls [0,06 $]
+** Dealing river ** [ 7Herz ]
+Renoknows checks
+Optimus40KER bets [0,27 $]
+Renoknows folds
+** Summary **
+Optimus40KER collected [ 0,33 $ ]
+
+
+
+#Game No : 527695642
+***** 888poker Hand History for Game 527695642 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:07:15
+Table Zamora 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 3,71 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,21 $ )
+Seat 6: Optimus40KER ( 2,13 $ )
+Seat 7: ffev78 ( 3,02 $ )
+Seat 9: Renoknows ( 0,63 $ )
+Seat 10: ubetifold15 ( 2,03 $ )
+Renoknows posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, QPik ]
+Alaloupe folds
+B2B_Suckouts folds
+AmaneInvers folds
+Optimus40KER folds
+ffev78 raises [0,05 $]
+Renoknows folds
+ubetifold15 folds
+** Summary **
+ffev78 collected [ 0,05 $ ]
+
+
+
+#Game No : 527695662
+***** 888poker Hand History for Game 527695662 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:07:41
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 3,71 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,21 $ )
+Seat 6: Optimus40KER ( 2,13 $ )
+Seat 7: ffev78 ( 3,05 $ )
+Seat 9: Renoknows ( 0,62 $ )
+Seat 10: ubetifold15 ( 2,01 $ )
+ubetifold15 posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 10Kreuz ]
+B2B_Suckouts folds
+AmaneInvers folds
+Optimus40KER raises [0,05 $]
+ffev78 folds
+Renoknows folds
+ubetifold15 folds
+Alaloupe folds
+** Summary **
+Optimus40KER collected [ 0,05 $ ]
+
+
+
+#Game No : 527695689
+***** 888poker Hand History for Game 527695689 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:08:08
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 3,69 $ )
+Seat 3: B2B_Suckouts ( 4,28 $ )
+Seat 4: AmaneInvers ( 2,21 $ )
+Seat 6: Optimus40KER ( 2,16 $ )
+Seat 7: ffev78 ( 3,05 $ )
+Seat 9: Renoknows ( 0,62 $ )
+Seat 10: ubetifold15 ( 2 $ )
+Alaloupe posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 4Karo ]
+AmaneInvers folds
+Optimus40KER folds
+ffev78 folds
+Renoknows calls [0,02 $]
+ubetifold15 folds
+Alaloupe folds
+B2B_Suckouts checks
+** Dealing flop ** [ QPik, 10Pik, JPik ]
+B2B_Suckouts checks
+Renoknows bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ AKaro ]
+B2B_Suckouts checks
+Renoknows bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing river ** [ 3Kreuz ]
+B2B_Suckouts checks
+Renoknows checks
+** Summary **
+B2B_Suckouts shows [ JHerz, 4Karo ]
+Renoknows shows [ QKreuz, 8Herz ]
+Renoknows collected [ 0,13 $ ]
+
+
+
+#Game No : 527695740
+***** 888poker Hand History for Game 527695740 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:08:57
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 3,68 $ )
+Seat 3: B2B_Suckouts ( 4,22 $ )
+Seat 4: AmaneInvers ( 2,21 $ )
+Seat 6: Optimus40KER ( 2,16 $ )
+Seat 7: ffev78 ( 3,05 $ )
+Seat 9: Renoknows ( 0,69 $ )
+Seat 10: ubetifold15 ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AmaneInvers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 6Pik ]
+Optimus40KER folds
+ffev78 folds
+Renoknows folds
+ubetifold15 folds
+Alaloupe folds
+B2B_Suckouts folds
+** Summary **
+AmaneInvers collected [ 0,03 $ ]
+
+
+
+#Game No : 527695755
+***** 888poker Hand History for Game 527695755 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:09:11
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 3,68 $ )
+Seat 2: paulhill80 ( 2 $ )
+Seat 3: B2B_Suckouts ( 4,21 $ )
+Seat 4: AmaneInvers ( 2,22 $ )
+Seat 6: Optimus40KER ( 2,16 $ )
+Seat 7: ffev78 ( 3,05 $ )
+Seat 9: Renoknows ( 0,69 $ )
+Seat 10: ubetifold15 ( 2 $ )
+AmaneInvers posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+paulhill80 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 7Kreuz ]
+ffev78 folds
+Renoknows calls [0,02 $]
+ubetifold15 folds
+Alaloupe raises [0,08 $]
+paulhill80 folds
+B2B_Suckouts calls [0,08 $]
+AmaneInvers folds
+Optimus40KER folds
+Renoknows folds
+** Dealing flop ** [ 8Pik, 9Karo, 9Kreuz ]
+Alaloupe bets [0,11 $]
+B2B_Suckouts calls [0,11 $]
+** Dealing turn ** [ 6Kreuz ]
+Alaloupe bets [0,29 $]
+B2B_Suckouts folds
+** Summary **
+Alaloupe collected [ 0,43 $ ]
+
+
+
+#Game No : 527695867
+***** 888poker Hand History for Game 527695867 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:11:22
+Table Zamora 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 3,92 $ )
+Seat 2: paulhill80 ( 1,98 $ )
+Seat 3: B2B_Suckouts ( 4,02 $ )
+Seat 4: AmaneInvers ( 2,21 $ )
+Seat 6: Optimus40KER ( 2,14 $ )
+Seat 7: ffev78 ( 3,05 $ )
+Seat 9: Renoknows ( 0,67 $ )
+Seat 10: ubetifold15 ( 2 $ )
+Optimus40KER posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 7Pik ]
+Renoknows folds
+ubetifold15 folds
+Alaloupe folds
+paulhill80 folds
+B2B_Suckouts folds
+AmaneInvers folds
+Optimus40KER folds
+** Summary **
+ffev78 collected [ 0,03 $ ]
+
+
+
+#Game No : 527695880
+***** 888poker Hand History for Game 527695880 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:11:38
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 3,92 $ )
+Seat 2: paulhill80 ( 1,98 $ )
+Seat 3: B2B_Suckouts ( 4,02 $ )
+Seat 4: AmaneInvers ( 2,21 $ )
+Seat 6: Optimus40KER ( 2,13 $ )
+Seat 7: ffev78 ( 3,06 $ )
+Seat 9: Renoknows ( 0,67 $ )
+Seat 10: ubetifold15 ( 2 $ )
+ffev78 posts small blind [0,01 $]
+Renoknows posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 8Herz ]
+ubetifold15 folds
+Alaloupe raises [0,06 $]
+paulhill80 calls [0,06 $]
+B2B_Suckouts folds
+AmaneInvers folds
+Optimus40KER folds
+ffev78 folds
+Renoknows calls [0,04 $]
+** Dealing flop ** [ 5Kreuz, 3Pik, 2Karo ]
+Renoknows checks
+Alaloupe bets [0,12 $]
+paulhill80 folds
+Renoknows folds
+** Summary **
+Alaloupe did not show his hand
+Alaloupe collected [ 0,18 $ ]
+
+
+
+#Game No : 527695981
+***** 888poker Hand History for Game 527695981 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:13:19
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 4,04 $ )
+Seat 2: paulhill80 ( 1,92 $ )
+Seat 3: B2B_Suckouts ( 4,02 $ )
+Seat 4: AmaneInvers ( 2,21 $ )
+Seat 6: Optimus40KER ( 2,13 $ )
+Seat 9: Renoknows ( 0,61 $ )
+Seat 10: ubetifold15 ( 2 $ )
+ubetifold15 posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, JKreuz ]
+paulhill80 calls [0,02 $]
+B2B_Suckouts folds
+AmaneInvers raises [0,06 $]
+Optimus40KER folds
+Renoknows folds
+ubetifold15 calls [0,05 $]
+Alaloupe folds
+paulhill80 calls [0,04 $]
+** Dealing flop ** [ 10Kreuz, 6Pik, KKreuz ]
+ubetifold15 checks
+paulhill80 bets [0,04 $]
+AmaneInvers calls [0,04 $]
+ubetifold15 folds
+** Dealing turn ** [ QHerz ]
+paulhill80 bets [0,02 $]
+AmaneInvers calls [0,02 $]
+** Dealing river ** [ 10Herz ]
+paulhill80 bets [0,02 $]
+AmaneInvers calls [0,02 $]
+** Summary **
+paulhill80 shows [ AKaro, 6Herz ]
+AmaneInvers mucks [ AKreuz, 7Kreuz ]
+paulhill80 collected [ 0,34 $ ]
+
+
+
+#Game No : 527696066
+***** 888poker Hand History for Game 527696066 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:14:36
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 4,02 $ )
+Seat 2: paulhill80 ( 2,12 $ )
+Seat 3: B2B_Suckouts ( 4,02 $ )
+Seat 4: AmaneInvers ( 2,07 $ )
+Seat 6: Optimus40KER ( 2,13 $ )
+Seat 9: Renoknows ( 0,61 $ )
+Seat 10: ubetifold15 ( 2 $ )
+Alaloupe posts small blind [0,01 $]
+paulhill80 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 2Pik ]
+B2B_Suckouts folds
+AmaneInvers folds
+Optimus40KER folds
+Renoknows folds
+ubetifold15 raises [0,05 $]
+Alaloupe folds
+paulhill80 calls [0,03 $]
+** Dealing flop ** [ 10Pik, 10Karo, QKreuz ]
+paulhill80 checks
+ubetifold15 checks
+** Dealing turn ** [ 5Pik ]
+paulhill80 bets [0,02 $]
+ubetifold15 folds
+** Summary **
+paulhill80 did not show his hand
+paulhill80 collected [ 0,11 $ ]
+
+
+
+#Game No : 527696119
+***** 888poker Hand History for Game 527696119 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:15:28
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 4,01 $ )
+Seat 2: paulhill80 ( 2,18 $ )
+Seat 3: B2B_Suckouts ( 4,02 $ )
+Seat 4: AmaneInvers ( 2,07 $ )
+Seat 6: Optimus40KER ( 2,13 $ )
+Seat 9: Renoknows ( 0,61 $ )
+Seat 10: ubetifold15 ( 2 $ )
+paulhill80 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 5Kreuz ]
+AmaneInvers folds
+Optimus40KER folds
+Renoknows folds
+ubetifold15 folds
+Alaloupe folds
+paulhill80 calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+paulhill80 calls [0,04 $]
+** Dealing flop ** [ AKaro, 2Pik, 3Pik ]
+paulhill80 checks
+B2B_Suckouts bets [0,03 $]
+paulhill80 calls [0,03 $]
+** Dealing turn ** [ 3Herz ]
+paulhill80 checks
+B2B_Suckouts bets [0,05 $]
+paulhill80 calls [0,05 $]
+** Dealing river ** [ AHerz ]
+paulhill80 checks
+B2B_Suckouts checks
+** Summary **
+paulhill80 shows [ 7Herz, 8Kreuz ]
+B2B_Suckouts shows [ 5Karo, 5Kreuz ]
+B2B_Suckouts collected [ 0,27 $ ]
+
+
+
+#Game No : 527696179
+***** 888poker Hand History for Game 527696179 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:16:44
+Table Zamora 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 4,01 $ )
+Seat 2: paulhill80 ( 2,04 $ )
+Seat 3: B2B_Suckouts ( 4,15 $ )
+Seat 4: AmaneInvers ( 2,07 $ )
+Seat 6: Optimus40KER ( 2,13 $ )
+Seat 9: Renoknows ( 0,61 $ )
+Seat 10: ubetifold15 ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AmaneInvers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, KPik ]
+Optimus40KER folds
+Renoknows folds
+ubetifold15 folds
+Alaloupe folds
+paulhill80 folds
+B2B_Suckouts folds
+** Summary **
+AmaneInvers did not show his hand
+AmaneInvers collected [ 0,03 $ ]
+
+
+
+#Game No : 527696203
+***** 888poker Hand History for Game 527696203 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:17:01
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 4,01 $ )
+Seat 2: paulhill80 ( 2,04 $ )
+Seat 3: B2B_Suckouts ( 4,14 $ )
+Seat 4: AmaneInvers ( 2,08 $ )
+Seat 6: Optimus40KER ( 2,13 $ )
+Seat 9: Renoknows ( 0,61 $ )
+Seat 10: ubetifold15 ( 2 $ )
+AmaneInvers posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 8Herz ]
+Renoknows calls [0,02 $]
+ubetifold15 folds
+Alaloupe folds
+paulhill80 raises [0,04 $]
+B2B_Suckouts folds
+AmaneInvers folds
+Optimus40KER calls [0,02 $]
+Renoknows calls [0,02 $]
+** Dealing flop ** [ 6Pik, KKaro, 3Kreuz ]
+Optimus40KER checks
+Renoknows checks
+paulhill80 bets [0,02 $]
+Optimus40KER folds
+Renoknows folds
+** Summary **
+paulhill80 collected [ 0,13 $ ]
+
+
+
+#Game No : 527696242
+***** 888poker Hand History for Game 527696242 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:17:36
+Table Zamora 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 4,01 $ )
+Seat 2: paulhill80 ( 2,13 $ )
+Seat 3: B2B_Suckouts ( 4,14 $ )
+Seat 4: AmaneInvers ( 2,07 $ )
+Seat 6: Optimus40KER ( 2,09 $ )
+Seat 7: Castana88 ( 1,10 $ )
+Seat 9: Renoknows ( 0,57 $ )
+Seat 10: ubetifold15 ( 2 $ )
+Optimus40KER posts small blind [0,01 $]
+Castana88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, JKreuz ]
+Renoknows folds
+ubetifold15 folds
+Alaloupe folds
+paulhill80 calls [0,02 $]
+B2B_Suckouts folds
+AmaneInvers folds
+Optimus40KER raises [0,04 $]
+Castana88 calls [0,03 $]
+paulhill80 calls [0,03 $]
+** Dealing flop ** [ 8Herz, 2Herz, 8Pik ]
+Optimus40KER checks
+Castana88 checks
+paulhill80 checks
+** Dealing turn ** [ 9Herz ]
+Optimus40KER checks
+Castana88 bets [0,02 $]
+paulhill80 folds
+Optimus40KER calls [0,02 $]
+** Dealing river ** [ 5Karo ]
+Optimus40KER checks
+Castana88 checks
+** Summary **
+Optimus40KER shows [ QHerz, APik ]
+Castana88 shows [ 10Karo, 5Herz ]
+Castana88 collected [ 0,18 $ ]
+
+
+
+#Game No : 527696312
+***** 888poker Hand History for Game 527696312 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:18:50
+Table Zamora 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 4,01 $ )
+Seat 2: paulhill80 ( 2,08 $ )
+Seat 3: B2B_Suckouts ( 4,14 $ )
+Seat 4: AmaneInvers ( 2,07 $ )
+Seat 5: 6Rrffrydr2 ( 0,80 $ )
+Seat 6: Optimus40KER ( 2,02 $ )
+Seat 7: Castana88 ( 1,21 $ )
+Seat 9: Renoknows ( 0,57 $ )
+Seat 10: ubetifold15 ( 2 $ )
+Castana88 posts small blind [0,01 $]
+Renoknows posts big blind [0,02 $]
+6Rrffrydr2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 5Karo ]
+ubetifold15 folds
+Alaloupe folds
+paulhill80 calls [0,02 $]
+B2B_Suckouts folds
+AmaneInvers raises [0,08 $]
+6Rrffrydr2 folds
+Optimus40KER folds
+Castana88 raises [0,27 $]
+Renoknows folds
+paulhill80 calls [0,26 $]
+AmaneInvers folds
+** Dealing flop ** [ 5Kreuz, 9Karo, 2Kreuz ]
+Castana88 bets [0,93 $]
+paulhill80 calls [0,93 $]
+** Dealing turn ** [ 7Karo ]
+** Dealing river ** [ 7Pik ]
+** Summary **
+paulhill80 shows [ 8Kreuz, 9Pik ]
+Castana88 shows [ KPik, QPik ]
+paulhill80 collected [ 2,39 $ ]
+
+
+
+#Game No : 527696370
+***** 888poker Hand History for Game 527696370 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:19:58
+Table Zamora 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 4,01 $ )
+Seat 2: paulhill80 ( 3,26 $ )
+Seat 3: B2B_Suckouts ( 4,14 $ )
+Seat 4: AmaneInvers ( 2 $ )
+Seat 5: 6Rrffrydr2 ( 0,78 $ )
+Seat 6: Optimus40KER ( 2,02 $ )
+Seat 9: Renoknows ( 0,55 $ )
+Seat 10: ubetifold15 ( 2 $ )
+ubetifold15 posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 8Kreuz ]
+paulhill80 folds
+B2B_Suckouts folds
+AmaneInvers folds
+6Rrffrydr2 calls [0,02 $]
+Optimus40KER folds
+Renoknows calls [0,02 $]
+ubetifold15 folds
+Alaloupe checks
+** Dealing flop ** [ 5Herz, JHerz, 2Kreuz ]
+Alaloupe checks
+6Rrffrydr2 checks
+Renoknows checks
+** Dealing turn ** [ KKaro ]
+Alaloupe checks
+6Rrffrydr2 bets [0,04 $]
+Renoknows calls [0,04 $]
+Alaloupe folds
+** Dealing river ** [ 4Herz ]
+6Rrffrydr2 bets [0,04 $]
+Renoknows calls [0,04 $]
+** Summary **
+6Rrffrydr2 shows [ KKreuz, QPik ]
+Renoknows mucks [ 10Pik, 10Karo ]
+6Rrffrydr2 collected [ 0,22 $ ]
+
+
+
+#Game No : 527696429
+***** 888poker Hand History for Game 527696429 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:21:08
+Table Zamora 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 3,99 $ )
+Seat 2: paulhill80 ( 3,26 $ )
+Seat 3: B2B_Suckouts ( 4,14 $ )
+Seat 4: AmaneInvers ( 2 $ )
+Seat 5: 6Rrffrydr2 ( 0,90 $ )
+Seat 6: Optimus40KER ( 2,02 $ )
+Seat 9: Renoknows ( 0,45 $ )
+Seat 10: ubetifold15 ( 2 $ )
+Alaloupe posts small blind [0,01 $]
+paulhill80 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 9Pik ]
+B2B_Suckouts folds
+AmaneInvers folds
+6Rrffrydr2 calls [0,02 $]
+Optimus40KER folds
+Renoknows folds
+ubetifold15 folds
+Alaloupe raises [0,07 $]
+paulhill80 calls [0,06 $]
+6Rrffrydr2 folds
+** Dealing flop ** [ 9Kreuz, 3Kreuz, 4Kreuz ]
+Alaloupe bets [0,32 $]
+paulhill80 folds
+** Summary **
+Alaloupe collected [ 0,17 $ ]
+
+
+
+#Game No : 527696463
+***** 888poker Hand History for Game 527696463 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:21:46
+Table Zamora 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 4,08 $ )
+Seat 2: paulhill80 ( 3,18 $ )
+Seat 3: B2B_Suckouts ( 4,14 $ )
+Seat 4: AmaneInvers ( 2 $ )
+Seat 5: 6Rrffrydr2 ( 0,88 $ )
+Seat 6: Optimus40KER ( 2,02 $ )
+Seat 9: Renoknows ( 0,45 $ )
+Seat 10: ubetifold15 ( 2 $ )
+paulhill80 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 8Herz ]
+AmaneInvers raises [0,05 $]
+6Rrffrydr2 folds
+Optimus40KER folds
+Renoknows folds
+ubetifold15 folds
+Alaloupe calls [0,05 $]
+paulhill80 calls [0,04 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 9Karo, 9Kreuz, 5Herz ]
+paulhill80 checks
+AmaneInvers checks
+Alaloupe bets [0,08 $]
+paulhill80 calls [0,08 $]
+AmaneInvers folds
+** Dealing turn ** [ QPik ]
+paulhill80 checks
+Alaloupe bets [0,23 $]
+paulhill80 calls [0,23 $]
+** Dealing river ** [ 3Karo ]
+paulhill80 bets [0,02 $]
+Alaloupe calls [0,02 $]
+** Summary **
+paulhill80 shows [ KKreuz, JKreuz ]
+Alaloupe shows [ AKaro, 6Karo ]
+Alaloupe collected [ 0,78 $ ]
+
+
+
+#Game No : 527696537
+***** 888poker Hand History for Game 527696537 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:23:16
+Table Zamora 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 4,48 $ )
+Seat 2: paulhill80 ( 2,80 $ )
+Seat 3: B2B_Suckouts ( 4,12 $ )
+Seat 4: AmaneInvers ( 2 $ )
+Seat 5: 6Rrffrydr2 ( 0,88 $ )
+Seat 6: Optimus40KER ( 2,02 $ )
+Seat 9: Renoknows ( 0,45 $ )
+Seat 10: ubetifold15 ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AmaneInvers folds
+6Rrffrydr2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 10Herz ]
+Optimus40KER folds
+Renoknows folds
+ubetifold15 folds
+Alaloupe folds
+paulhill80 raises [0,04 $]
+B2B_Suckouts folds
+6Rrffrydr2 calls [0,02 $]
+** Dealing flop ** [ 10Kreuz, APik, 9Kreuz ]
+6Rrffrydr2 checks
+paulhill80 bets [0,06 $]
+6Rrffrydr2 calls [0,06 $]
+** Dealing turn ** [ 3Herz ]
+6Rrffrydr2 checks
+paulhill80 bets [0,08 $]
+6Rrffrydr2 folds
+** Summary **
+paulhill80 collected [ 0,20 $ ]
+
+
+
+#Game No : 527696576
+***** 888poker Hand History for Game 527696576 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:24:08
+Table Zamora 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 4,48 $ )
+Seat 2: paulhill80 ( 2,90 $ )
+Seat 3: B2B_Suckouts ( 4,11 $ )
+Seat 5: 6Rrffrydr2 ( 0,78 $ )
+Seat 6: Optimus40KER ( 2,02 $ )
+Seat 9: Renoknows ( 0,45 $ )
+Seat 10: ubetifold15 ( 2 $ )
+6Rrffrydr2 posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, QKaro ]
+Renoknows folds
+ubetifold15 raises [0,06 $]
+Alaloupe folds
+paulhill80 calls [0,06 $]
+B2B_Suckouts folds
+6Rrffrydr2 calls [0,05 $]
+Optimus40KER folds
+** Dealing flop ** [ 4Pik, 8Pik, 10Herz ]
+6Rrffrydr2 checks
+ubetifold15 bets [0,08 $]
+paulhill80 raises [0,16 $]
+6Rrffrydr2 folds
+ubetifold15 folds
+** Summary **
+paulhill80 collected [ 0,34 $ ]
+
+
+
+#Game No : 527696614
+***** 888poker Hand History for Game 527696614 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:25:03
+Table Zamora 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 4,48 $ )
+Seat 2: paulhill80 ( 3,10 $ )
+Seat 3: B2B_Suckouts ( 4,11 $ )
+Seat 5: 6Rrffrydr2 ( 0,72 $ )
+Seat 6: Optimus40KER ( 2 $ )
+Seat 9: Renoknows ( 0,45 $ )
+Seat 10: ubetifold15 ( 2 $ )
+Optimus40KER posts small blind [0,01 $]
+Renoknows posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 2Pik ]
+ubetifold15 folds
+Alaloupe raises [0,06 $]
+paulhill80 folds
+B2B_Suckouts folds
+6Rrffrydr2 folds
+Optimus40KER folds
+Renoknows folds
+** Summary **
+Alaloupe collected [ 0,05 $ ]
+
+
+
