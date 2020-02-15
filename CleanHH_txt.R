@@ -9,14 +9,19 @@ x <- list.files() # Hands from each session 50 in total
 sesh <- list()
 sesh <- lapply(x, read.delim)
 # obtain the dates of the recorded sessions
-date <- lapply(x, function(x){
+date <- sapply(x, function(x){
   gsub("888poker", "", unlist(strsplit(x, " "))[1], fixed = T)
 })
+# convert to date and assign to list
+date <- as.Date(date, "%Y%m%d")
+names(sesh) <- date
+# unlist sessions within list
+sesh <- lapply(sesh, as.vector)
 # Utilize anydate to convert class
-library(anytime)
-anydate(date[1])
 
-?gsub
+
+# setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
 saveRDS(sesh, file ="Hand_History_List.rds")
 #####################################################################################################################
-?file.info
+
+
