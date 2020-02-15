@@ -1,0 +1,871 @@
+#Game No : 631224478
+***** 888poker Hand History for Game 631224478 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 19:57:28
+Table Libreville 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 2: jabba6971 ( 2,12 $ )
+Seat 3: Sherlok1295 ( 2,04 $ )
+Seat 4: goggo40 ( 3,62 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Roid12 ( 1,47 $ )
+Seat 7: Me55er ( 1,38 $ )
+Sherlok1295 posts small blind [0,01 $]
+goggo40 posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+Roid12 posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 8Pik ]
+B2B_Suckouts checks
+Roid12 checks
+Me55er folds
+jabba6971 folds
+Sherlok1295 folds
+goggo40 checks
+** Dealing flop ** [ JPik, 10Herz, JHerz ]
+goggo40 checks
+B2B_Suckouts checks
+Roid12 bets [0,02 $]
+goggo40 folds
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ QKaro ]
+B2B_Suckouts checks
+Roid12 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing river ** [ 2Herz ]
+B2B_Suckouts checks
+Roid12 checks
+** Summary **
+B2B_Suckouts shows [ 5Herz, 8Pik ]
+Roid12 shows [ KKaro, 6Karo ]
+Roid12 collected [ 0,15 $ ]
+
+
+
+#Game No : 631224551
+***** 888poker Hand History for Game 631224551 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 19:58:48
+Table Libreville 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: slavko0000 ( 0,88 $ )
+Seat 2: jabba6971 ( 2,12 $ )
+Seat 3: Sherlok1295 ( 2,03 $ )
+Seat 4: goggo40 ( 3,60 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Roid12 ( 1,55 $ )
+Seat 7: Me55er ( 1,38 $ )
+goggo40 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 8Kreuz ]
+Roid12 folds
+Me55er folds
+slavko0000 folds
+jabba6971 folds
+Sherlok1295 folds
+goggo40 folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 631224565
+***** 888poker Hand History for Game 631224565 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 19:59:07
+Table Libreville 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: slavko0000 ( 0,88 $ )
+Seat 2: jabba6971 ( 2,12 $ )
+Seat 3: Sherlok1295 ( 2,03 $ )
+Seat 4: goggo40 ( 3,59 $ )
+Seat 5: B2B_Suckouts ( 2,01 $ )
+Seat 6: Roid12 ( 1,55 $ )
+Seat 7: Me55er ( 1,38 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Roid12 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 3Herz ]
+Me55er folds
+slavko0000 folds
+jabba6971 folds
+Sherlok1295 raises [0,06 $]
+goggo40 folds
+B2B_Suckouts folds
+Roid12 folds
+** Summary **
+Sherlok1295 collected [ 0,05 $ ]
+
+
+
+#Game No : 631224589
+***** 888poker Hand History for Game 631224589 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 19:59:37
+Table Libreville 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: slavko0000 ( 0,88 $ )
+Seat 2: jabba6971 ( 2,12 $ )
+Seat 3: Sherlok1295 ( 2,06 $ )
+Seat 4: goggo40 ( 3,59 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Roid12 ( 1,53 $ )
+Seat 7: Me55er ( 1,38 $ )
+Roid12 posts small blind [0,01 $]
+Me55er posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, KPik ]
+slavko0000 calls [0,02 $]
+jabba6971 folds
+Sherlok1295 raises [0,08 $]
+goggo40 folds
+B2B_Suckouts raises [0,24 $]
+Roid12 folds
+Me55er folds
+slavko0000 folds
+Sherlok1295 folds
+** Summary **
+B2B_Suckouts collected [ 0,21 $ ]
+
+
+
+#Game No : 631224629
+***** 888poker Hand History for Game 631224629 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:00:26
+Table Libreville 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: slavko0000 ( 0,86 $ )
+Seat 2: jabba6971 ( 2,12 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,59 $ )
+Seat 5: B2B_Suckouts ( 2,13 $ )
+Seat 6: Roid12 ( 1,52 $ )
+Seat 7: Me55er ( 1,36 $ )
+Seat 9: glavbuch71 ( 0,80 $ )
+Me55er posts small blind [0,01 $]
+glavbuch71 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, AKaro ]
+slavko0000 calls [0,02 $]
+jabba6971 folds
+Sherlok1295 folds
+goggo40 folds
+B2B_Suckouts raises [0,06 $]
+Roid12 folds
+Me55er folds
+glavbuch71 folds
+slavko0000 folds
+** Summary **
+B2B_Suckouts collected [ 0,07 $ ]
+
+
+
+#Game No : 631224658
+***** 888poker Hand History for Game 631224658 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:00:49
+Table Libreville 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: slavko0000 ( 0,84 $ )
+Seat 2: jabba6971 ( 2,12 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,59 $ )
+Seat 5: B2B_Suckouts ( 2,18 $ )
+Seat 6: Roid12 ( 1,52 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,80 $ )
+glavbuch71 posts small blind [0,01 $]
+slavko0000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, QPik ]
+jabba6971 calls [0,02 $]
+Sherlok1295 folds
+goggo40 folds
+B2B_Suckouts folds
+Roid12 folds
+Me55er folds
+glavbuch71 folds
+slavko0000 checks
+** Dealing flop ** [ JPik, JKaro, 10Karo ]
+slavko0000 checks
+jabba6971 bets [0,09 $]
+slavko0000 folds
+** Summary **
+jabba6971 collected [ 0,05 $ ]
+
+
+
+#Game No : 631224699
+***** 888poker Hand History for Game 631224699 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:01:42
+Table Libreville 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: slavko0000 ( 0,82 $ )
+Seat 2: jabba6971 ( 2,15 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,59 $ )
+Seat 5: B2B_Suckouts ( 2,18 $ )
+Seat 6: Roid12 ( 1,52 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,80 $ )
+slavko0000 posts small blind [0,01 $]
+jabba6971 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 6Karo ]
+Sherlok1295 folds
+goggo40 raises [0,07 $]
+B2B_Suckouts calls [0,07 $]
+Roid12 folds
+Me55er folds
+glavbuch71 calls [0,07 $]
+slavko0000 folds
+jabba6971 folds
+** Dealing flop ** [ KKaro, AKaro, QPik ]
+goggo40 checks
+B2B_Suckouts checks
+glavbuch71 bets [0,12 $]
+goggo40 folds
+B2B_Suckouts folds
+** Summary **
+glavbuch71 did not show his hand
+glavbuch71 collected [ 0,23 $ ]
+
+
+
+#Game No : 631224762
+***** 888poker Hand History for Game 631224762 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:02:48
+Table Libreville 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: slavko0000 ( 0,81 $ )
+Seat 2: jabba6971 ( 2,13 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,52 $ )
+Seat 5: B2B_Suckouts ( 2,11 $ )
+Seat 6: Roid12 ( 1,52 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,96 $ )
+jabba6971 posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 4Kreuz ]
+goggo40 folds
+B2B_Suckouts folds
+Roid12 folds
+Me55er folds
+glavbuch71 folds
+slavko0000 folds
+jabba6971 folds
+** Summary **
+Sherlok1295 did not show his hand
+Sherlok1295 collected [ 0,03 $ ]
+
+
+
+#Game No : 631224782
+***** 888poker Hand History for Game 631224782 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:03:10
+Table Libreville 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: slavko0000 ( 0,81 $ )
+Seat 2: jabba6971 ( 2,12 $ )
+Seat 3: Sherlok1295 ( 2,01 $ )
+Seat 4: goggo40 ( 3,52 $ )
+Seat 5: B2B_Suckouts ( 2,11 $ )
+Seat 6: Roid12 ( 1,52 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,96 $ )
+Sherlok1295 posts small blind [0,01 $]
+goggo40 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 2Kreuz ]
+B2B_Suckouts folds
+Roid12 folds
+Me55er folds
+glavbuch71 folds
+slavko0000 folds
+jabba6971 raises [0,04 $]
+Sherlok1295 folds
+goggo40 folds
+** Summary **
+jabba6971 did not show his hand
+jabba6971 collected [ 0,05 $ ]
+
+
+
+#Game No : 631224817
+***** 888poker Hand History for Game 631224817 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:03:46
+Table Libreville 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: slavko0000 ( 0,81 $ )
+Seat 2: jabba6971 ( 2,15 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,50 $ )
+Seat 5: B2B_Suckouts ( 2,11 $ )
+Seat 6: Roid12 ( 1,52 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,96 $ )
+goggo40 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 7Karo ]
+Roid12 folds
+Me55er folds
+glavbuch71 folds
+slavko0000 calls [0,02 $]
+jabba6971 folds
+Sherlok1295 raises [0,08 $]
+goggo40 folds
+B2B_Suckouts folds
+slavko0000 calls [0,06 $]
+** Dealing flop ** [ AHerz, 8Kreuz, 7Pik ]
+slavko0000 checks
+Sherlok1295 checks
+** Dealing turn ** [ 4Karo ]
+slavko0000 checks
+Sherlok1295 checks
+** Dealing river ** [ 9Pik ]
+slavko0000 checks
+Sherlok1295 checks
+** Summary **
+slavko0000 shows [ 5Kreuz, 4Kreuz ]
+Sherlok1295 mucks [ JKaro, KHerz ]
+slavko0000 collected [ 0,18 $ ]
+
+
+
+#Game No : 631224890
+***** 888poker Hand History for Game 631224890 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:05:09
+Table Libreville 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: slavko0000 ( 0,91 $ )
+Seat 2: jabba6971 ( 2,15 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,49 $ )
+Seat 5: B2B_Suckouts ( 2,09 $ )
+Seat 6: Roid12 ( 1,52 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,96 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Roid12 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 10Kreuz ]
+Me55er folds
+glavbuch71 raises [0,06 $]
+slavko0000 calls [0,06 $]
+jabba6971 folds
+Sherlok1295 folds
+goggo40 folds
+B2B_Suckouts folds
+Roid12 folds
+** Dealing flop ** [ 8Pik, 5Karo, QKreuz ]
+glavbuch71 bets [0,06 $]
+slavko0000 folds
+** Summary **
+glavbuch71 collected [ 0,15 $ ]
+
+
+
+#Game No : 631224931
+***** 888poker Hand History for Game 631224931 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:05:53
+Table Libreville 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: slavko0000 ( 0,85 $ )
+Seat 2: jabba6971 ( 2,15 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,49 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 6: Roid12 ( 1,50 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 1,05 $ )
+Roid12 posts small blind [0,01 $]
+Me55er posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 5Herz ]
+glavbuch71 raises [0,06 $]
+slavko0000 folds
+jabba6971 raises [0,10 $]
+Sherlok1295 folds
+goggo40 folds
+B2B_Suckouts folds
+Roid12 folds
+Me55er folds
+glavbuch71 calls [0,04 $]
+** Dealing flop ** [ 3Herz, 3Pik, 9Kreuz ]
+glavbuch71 bets [0,06 $]
+jabba6971 calls [0,06 $]
+** Dealing turn ** [ 3Karo ]
+glavbuch71 checks
+jabba6971 bets [0,23 $]
+glavbuch71 folds
+** Summary **
+jabba6971 collected [ 0,33 $ ]
+
+
+
+#Game No : 631224988
+***** 888poker Hand History for Game 631224988 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:07:05
+Table Libreville 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: slavko0000 ( 0,85 $ )
+Seat 2: jabba6971 ( 2,32 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,49 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 6: Roid12 ( 1,49 $ )
+Seat 7: Me55er ( 1,33 $ )
+Seat 9: glavbuch71 ( 0,89 $ )
+Me55er posts small blind [0,01 $]
+glavbuch71 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 9Herz ]
+slavko0000 folds
+jabba6971 folds
+Sherlok1295 folds
+goggo40 folds
+B2B_Suckouts folds
+Roid12 folds
+Me55er calls [0,01 $]
+glavbuch71 checks
+** Dealing flop ** [ QPik, QKaro, 7Karo ]
+Me55er checks
+glavbuch71 checks
+** Dealing turn ** [ QKreuz ]
+Me55er checks
+glavbuch71 checks
+** Dealing river ** [ 7Pik ]
+Me55er bets [0,18 $]
+glavbuch71 folds
+** Summary **
+Me55er collected [ 0,04 $ ]
+
+
+
+#Game No : 631225071
+***** 888poker Hand History for Game 631225071 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:08:34
+Table Libreville 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: slavko0000 ( 0,85 $ )
+Seat 2: jabba6971 ( 2,32 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,49 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 6: Roid12 ( 1,49 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,87 $ )
+Seat 10: ffev78 ( 2 $ )
+glavbuch71 posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 3Karo ]
+slavko0000 calls [0,02 $]
+jabba6971 folds
+Sherlok1295 folds
+goggo40 folds
+B2B_Suckouts folds
+Roid12 raises [0,04 $]
+Me55er folds
+glavbuch71 folds
+ffev78 raises [0,16 $]
+slavko0000 folds
+Roid12 calls [0,14 $]
+** Dealing flop ** [ KKaro, 5Kreuz, 5Herz ]
+ffev78 bets [0,19 $]
+Roid12 calls [0,19 $]
+** Dealing turn ** [ 6Pik ]
+ffev78 bets [0,38 $]
+Roid12 folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ 0,73 $ ]
+
+
+
+#Game No : 631225112
+***** 888poker Hand History for Game 631225112 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:09:27
+Table Libreville 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: slavko0000 ( 0,83 $ )
+Seat 2: jabba6971 ( 2,32 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,49 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 6: Roid12 ( 1,12 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,86 $ )
+Seat 10: ffev78 ( 2,36 $ )
+ffev78 posts small blind [0,01 $]
+slavko0000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 10Herz ]
+jabba6971 folds
+Sherlok1295 folds
+goggo40 raises [0,07 $]
+B2B_Suckouts folds
+Roid12 folds
+Me55er folds
+glavbuch71 calls [0,07 $]
+ffev78 folds
+slavko0000 folds
+** Dealing flop ** [ 9Karo, 9Herz, KHerz ]
+goggo40 bets [0,11 $]
+glavbuch71 calls [0,11 $]
+** Dealing turn ** [ 3Herz ]
+goggo40 checks
+glavbuch71 checks
+** Dealing river ** [ KKaro ]
+goggo40 bets [0,26 $]
+glavbuch71 folds
+** Summary **
+goggo40 did not show his hand
+goggo40 collected [ 0,37 $ ]
+
+
+
+#Game No : 631225159
+***** 888poker Hand History for Game 631225159 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:10:16
+Table Libreville 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: slavko0000 ( 0,81 $ )
+Seat 2: jabba6971 ( 2,32 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: goggo40 ( 3,68 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,80 $ )
+Seat 10: ffev78 ( 2,35 $ )
+slavko0000 posts small blind [0,01 $]
+jabba6971 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 10Pik ]
+Sherlok1295 folds
+goggo40 folds
+B2B_Suckouts folds
+Me55er folds
+glavbuch71 folds
+ffev78 folds
+slavko0000 calls [0,01 $]
+jabba6971 checks
+** Dealing flop ** [ 5Karo, 2Karo, JKreuz ]
+slavko0000 checks
+jabba6971 bets [0,02 $]
+slavko0000 calls [0,02 $]
+** Dealing turn ** [ JKaro ]
+slavko0000 bets [0,05 $]
+jabba6971 raises [0,23 $]
+slavko0000 folds
+** Summary **
+jabba6971 did not show his hand
+jabba6971 collected [ 0,17 $ ]
+
+
+
+#Game No : 631225231
+***** 888poker Hand History for Game 631225231 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:11:39
+Table Libreville 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: slavko0000 ( 0,72 $ )
+Seat 2: jabba6971 ( 2,40 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,80 $ )
+Seat 10: ffev78 ( 2,35 $ )
+jabba6971 posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 9Karo ]
+B2B_Suckouts folds
+Me55er folds
+glavbuch71 calls [0,02 $]
+ffev78 folds
+slavko0000 calls [0,02 $]
+jabba6971 folds
+Sherlok1295 checks
+** Dealing flop ** [ 6Karo, 4Herz, QPik ]
+Sherlok1295 checks
+glavbuch71 checks
+slavko0000 bets [0,03 $]
+Sherlok1295 folds
+glavbuch71 folds
+** Summary **
+slavko0000 did not show his hand
+slavko0000 collected [ 0,07 $ ]
+
+
+
+#Game No : 631225295
+***** 888poker Hand History for Game 631225295 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:12:47
+Table Libreville 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: slavko0000 ( 0,77 $ )
+Seat 2: jabba6971 ( 2,39 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,80 $ )
+Seat 10: ffev78 ( 2,35 $ )
+Sherlok1295 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 3Kreuz ]
+Me55er folds
+glavbuch71 folds
+ffev78 raises [0,06 $]
+slavko0000 folds
+jabba6971 folds
+Sherlok1295 folds
+B2B_Suckouts folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ 0,05 $ ]
+
+
+
+#Game No : 631225328
+***** 888poker Hand History for Game 631225328 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:13:14
+Table Libreville 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: slavko0000 ( 0,77 $ )
+Seat 2: jabba6971 ( 2,39 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,06 $ )
+Seat 9: glavbuch71 ( 0,80 $ )
+Seat 10: ffev78 ( 2,38 $ )
+B2B_Suckouts posts small blind [0,01 $]
+glavbuch71 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 6Karo ]
+ffev78 folds
+slavko0000 folds
+jabba6971 folds
+Sherlok1295 folds
+B2B_Suckouts raises [0,03 $]
+glavbuch71 folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 631225348
+***** 888poker Hand History for Game 631225348 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:13:42
+Table Libreville 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: slavko0000 ( 0,77 $ )
+Seat 2: jabba6971 ( 2,39 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 9: glavbuch71 ( 0,80 $ )
+Seat 10: ffev78 ( 2,38 $ )
+glavbuch71 posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 3Herz ]
+slavko0000 folds
+jabba6971 folds
+Sherlok1295 folds
+B2B_Suckouts folds
+glavbuch71 calls [0,01 $]
+ffev78 checks
+** Dealing flop ** [ KKreuz, AKaro, 9Herz ]
+glavbuch71 checks
+ffev78 checks
+** Dealing turn ** [ 3Kreuz ]
+glavbuch71 checks
+ffev78 checks
+** Dealing river ** [ KHerz ]
+glavbuch71 checks
+ffev78 checks
+** Summary **
+glavbuch71 shows [ QKreuz, 7Karo ]
+ffev78 mucks [ 6Karo, 2Herz ]
+glavbuch71 collected [ 0,04 $ ]
+
+
+
+#Game No : 631225393
+***** 888poker Hand History for Game 631225393 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:14:26
+Table Libreville 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: slavko0000 ( 0,77 $ )
+Seat 2: jabba6971 ( 2,39 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,82 $ )
+Seat 10: ffev78 ( 2,36 $ )
+ffev78 posts small blind [0,01 $]
+slavko0000 posts big blind [0,02 $]
+Me55er folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 8Kreuz ]
+jabba6971 calls [0,02 $]
+Sherlok1295 folds
+B2B_Suckouts folds
+glavbuch71 folds
+ffev78 raises [0,07 $]
+slavko0000 raises [0,12 $]
+jabba6971 folds
+ffev78 folds
+** Summary **
+slavko0000 collected [ 0,18 $ ]
+
+
+
+#Game No : 631225439
+***** 888poker Hand History for Game 631225439 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:15:12
+Table Libreville 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: slavko0000 ( 0,87 $ )
+Seat 2: jabba6971 ( 2,37 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,82 $ )
+Seat 10: ffev78 ( 2,28 $ )
+slavko0000 folds
+jabba6971 posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+Me55er folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 5Kreuz ]
+B2B_Suckouts folds
+glavbuch71 folds
+ffev78 folds
+jabba6971 folds
+** Summary **
+Sherlok1295 collected [ 0,03 $ ]
+
+
+
+#Game No : 631225469
+***** 888poker Hand History for Game 631225469 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:15:43
+Table Libreville 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: jabba6971 ( 2,36 $ )
+Seat 3: Sherlok1295 ( 2,01 $ )
+Seat 4: Alaloupe ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 7: Me55er ( 1,35 $ )
+Seat 9: glavbuch71 ( 0,82 $ )
+Seat 10: ffev78 ( 2,28 $ )
+Sherlok1295 posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+Me55er posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, AKaro ]
+B2B_Suckouts raises [0,06 $]
+Me55er folds
+glavbuch71 folds
+ffev78 folds
+jabba6971 folds
+Sherlok1295 folds
+Alaloupe raises [0,22 $]
+B2B_Suckouts raises [2,02 $]
+Alaloupe calls [1,76 $]
+** Dealing flop ** [ 2Kreuz, KKaro, 3Herz ]
+** Dealing turn ** [ 3Karo ]
+** Dealing river ** [ AHerz ]
+** Summary **
+Alaloupe shows [ KKreuz, KPik ]
+B2B_Suckouts shows [ AKreuz, AKaro ]
+B2B_Suckouts collected [ 3,79 $ ]
+
+
+
+#Game No : 631225518
+***** 888poker Hand History for Game 631225518 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:16:38
+Table Libreville 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: slavko0000 ( 0,87 $ )
+Seat 2: jabba6971 ( 2,36 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: Alaloupe ( 2 $ )
+Seat 5: B2B_Suckouts ( 3,87 $ )
+Seat 7: Me55er ( 1,32 $ )
+Seat 10: ffev78 ( 2,28 $ )
+Alaloupe posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+slavko0000 folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 6Pik ]
+Me55er calls [0,02 $]
+ffev78 folds
+jabba6971 raises [0,09 $]
+Sherlok1295 folds
+Alaloupe folds
+B2B_Suckouts folds
+Me55er folds
+** Summary **
+jabba6971 collected [ 0,07 $ ]
+
+
+
+#Game No : 631225546
+***** 888poker Hand History for Game 631225546 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 04 02 2020 20:17:09
+Table Libreville 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: jabba6971 ( 2,41 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: Alaloupe ( 2 $ )
+Seat 5: B2B_Suckouts ( 3,85 $ )
+Seat 6: alxlibre ( 0,80 $ )
+Seat 7: Me55er ( 1,30 $ )
+Seat 10: ffev78 ( 2,28 $ )
+B2B_Suckouts posts small blind [0,01 $]
+alxlibre posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 7Karo ]
+Me55er calls [0,02 $]
+ffev78 folds
+jabba6971 folds
+Sherlok1295 folds
+Alaloupe folds
+B2B_Suckouts folds
+alxlibre checks
+** Dealing flop ** [ 3Herz, 4Karo, 5Karo ]
+alxlibre checks
+Me55er bets [0,05 $]
+alxlibre folds
+** Summary **
+Me55er collected [ 0,05 $ ]
+
+
+
