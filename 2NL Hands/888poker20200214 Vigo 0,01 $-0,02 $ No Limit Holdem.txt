@@ -1,0 +1,2659 @@
+#Game No : 1331862971
+***** 888poker Hand History for Game 1331862971 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:05:17
+Table Vigo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,07 $ )
+Seat 2: D_Rabbit ( 1,47 $ )
+Seat 3: muskey16 ( 1,99 $ )
+Seat 4: JeggerI ( 2,54 $ )
+Seat 5: SoveTnik90 ( 2,18 $ )
+Seat 6: jefflee22 ( 1,03 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,28 $ )
+Seat 10: Vlad281199 ( 2,55 $ )
+jefflee22 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, JKaro ]
+BreatheLive folds
+Vlad281199 calls [0,02 $]
+HLamb46 raises [0,06 $]
+D_Rabbit folds
+muskey16 folds
+JeggerI calls [0,06 $]
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+Vlad281199 calls [0,04 $]
+** Dealing flop ** [ 4Herz, 3Kreuz, 10Herz ]
+Vlad281199 checks
+HLamb46 checks
+JeggerI bets [0,08 $]
+Vlad281199 folds
+HLamb46 folds
+** Summary **
+JeggerI did not show his hand
+JeggerI collected [ 0,20 $ ]
+
+
+
+#Game No : 1331863075
+***** 888poker Hand History for Game 1331863075 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:06:07
+Table Vigo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 2,01 $ )
+Seat 2: D_Rabbit ( 1,47 $ )
+Seat 4: JeggerI ( 2,68 $ )
+Seat 5: SoveTnik90 ( 2,18 $ )
+Seat 6: jefflee22 ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,28 $ )
+Seat 10: Vlad281199 ( 2,49 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 4Kreuz ]
+Vlad281199 folds
+HLamb46 folds
+D_Rabbit folds
+JeggerI folds
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+** Summary **
+BreatheLive collected [ 0,03 $ ]
+
+
+
+#Game No : 1331863111
+***** 888poker Hand History for Game 1331863111 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:06:27
+Table Vigo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 2,01 $ )
+Seat 2: D_Rabbit ( 1,47 $ )
+Seat 4: JeggerI ( 2,68 $ )
+Seat 5: SoveTnik90 ( 2,18 $ )
+Seat 6: jefflee22 ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,29 $ )
+Seat 10: Vlad281199 ( 2,49 $ )
+BreatheLive posts small blind [0,01 $]
+Vlad281199 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 10Karo ]
+HLamb46 folds
+D_Rabbit calls [0,02 $]
+JeggerI folds
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+Vlad281199 checks
+** Dealing flop ** [ 4Pik, 7Herz, QKreuz ]
+Vlad281199 checks
+D_Rabbit bets [0,02 $]
+Vlad281199 folds
+** Summary **
+D_Rabbit collected [ 0,05 $ ]
+
+
+
+#Game No : 1331863180
+***** 888poker Hand History for Game 1331863180 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:07:05
+Table Vigo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 2,01 $ )
+Seat 2: D_Rabbit ( 1,50 $ )
+Seat 4: JeggerI ( 2,68 $ )
+Seat 5: SoveTnik90 ( 2,18 $ )
+Seat 6: jefflee22 ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,28 $ )
+Seat 10: Vlad281199 ( 2,47 $ )
+Vlad281199 posts small blind [0,01 $]
+HLamb46 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 6Karo ]
+D_Rabbit folds
+JeggerI folds
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive raises [0,06 $]
+Vlad281199 folds
+HLamb46 folds
+** Summary **
+BreatheLive collected [ 0,05 $ ]
+
+
+
+#Game No : 1331863227
+***** 888poker Hand History for Game 1331863227 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:07:29
+Table Vigo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 1,99 $ )
+Seat 2: D_Rabbit ( 1,50 $ )
+Seat 4: JeggerI ( 2,68 $ )
+Seat 5: SoveTnik90 ( 2,18 $ )
+Seat 6: jefflee22 ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,31 $ )
+Seat 10: Vlad281199 ( 2,46 $ )
+HLamb46 posts small blind [0,01 $]
+D_Rabbit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 4Karo ]
+JeggerI folds
+SoveTnik90 raises [0,06 $]
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+Vlad281199 folds
+HLamb46 folds
+D_Rabbit calls [0,04 $]
+** Dealing flop ** [ KPik, 3Pik, APik ]
+D_Rabbit checks
+SoveTnik90 checks
+** Dealing turn ** [ 9Herz ]
+D_Rabbit bets [0,04 $]
+SoveTnik90 folds
+** Summary **
+D_Rabbit collected [ 0,13 $ ]
+
+
+
+#Game No : 1331863297
+***** 888poker Hand History for Game 1331863297 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:08:04
+Table Vigo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 1,98 $ )
+Seat 2: D_Rabbit ( 1,57 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: JeggerI ( 2,68 $ )
+Seat 5: SoveTnik90 ( 2,12 $ )
+Seat 6: jefflee22 ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,31 $ )
+Seat 10: Vlad281199 ( 2,46 $ )
+D_Rabbit posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 3Herz ]
+JeggerI folds
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive raises [0,06 $]
+Vlad281199 calls [0,06 $]
+HLamb46 folds
+D_Rabbit folds
+whyluckys calls [0,04 $]
+** Dealing flop ** [ 3Pik, KKaro, APik ]
+whyluckys checks
+BreatheLive checks
+Vlad281199 checks
+** Dealing turn ** [ QPik ]
+whyluckys checks
+BreatheLive checks
+Vlad281199 checks
+** Dealing river ** [ 4Pik ]
+whyluckys checks
+BreatheLive bets [0,16 $]
+Vlad281199 folds
+whyluckys folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,18 $ ]
+
+
+
+#Game No : 1331863414
+***** 888poker Hand History for Game 1331863414 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:09:06
+Table Vigo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 1,98 $ )
+Seat 2: D_Rabbit ( 1,56 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: JeggerI ( 2,68 $ )
+Seat 5: SoveTnik90 ( 2,12 $ )
+Seat 6: jefflee22 ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,43 $ )
+Seat 10: Vlad281199 ( 2,40 $ )
+whyluckys posts small blind [0,01 $]
+JeggerI posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 9Kreuz ]
+SoveTnik90 raises [0,06 $]
+jefflee22 calls [0,06 $]
+B2B_Suckouts folds
+BreatheLive calls [0,06 $]
+Vlad281199 folds
+HLamb46 folds
+D_Rabbit folds
+whyluckys folds
+JeggerI folds
+** Dealing flop ** [ QHerz, 10Kreuz, 5Karo ]
+SoveTnik90 checks
+jefflee22 bets [0,10 $]
+BreatheLive calls [0,10 $]
+SoveTnik90 folds
+** Dealing turn ** [ 5Herz ]
+jefflee22 bets [0,20 $]
+BreatheLive folds
+** Summary **
+jefflee22 did not show his hand
+jefflee22 collected [ 0,39 $ ]
+
+
+
+#Game No : 1331863498
+***** 888poker Hand History for Game 1331863498 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:09:56
+Table Vigo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 1,98 $ )
+Seat 2: D_Rabbit ( 1,56 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: JeggerI ( 2,66 $ )
+Seat 5: SoveTnik90 ( 2,06 $ )
+Seat 6: jefflee22 ( 1,25 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,27 $ )
+Seat 10: Vlad281199 ( 2,40 $ )
+JeggerI posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 8Karo ]
+jefflee22 folds
+B2B_Suckouts raises [0,06 $]
+BreatheLive folds
+Vlad281199 folds
+HLamb46 folds
+D_Rabbit folds
+whyluckys folds
+JeggerI folds
+SoveTnik90 calls [0,04 $]
+** Dealing flop ** [ 4Pik, AKaro, AHerz ]
+SoveTnik90 checks
+B2B_Suckouts bets [0,02 $]
+SoveTnik90 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 1331863581
+***** 888poker Hand History for Game 1331863581 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:10:35
+Table Vigo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 1,98 $ )
+Seat 2: D_Rabbit ( 1,56 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: JeggerI ( 2,65 $ )
+Seat 5: SoveTnik90 ( 2 $ )
+Seat 6: jefflee22 ( 1,25 $ )
+Seat 7: B2B_Suckouts ( 2,07 $ )
+Seat 9: BreatheLive ( 2,27 $ )
+Seat 10: Vlad281199 ( 2,40 $ )
+SoveTnik90 posts small blind [0,01 $]
+jefflee22 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 8Herz ]
+B2B_Suckouts folds
+BreatheLive folds
+Vlad281199 folds
+HLamb46 raises [0,06 $]
+D_Rabbit folds
+whyluckys calls [0,06 $]
+JeggerI folds
+SoveTnik90 folds
+jefflee22 folds
+** Dealing flop ** [ KKaro, 6Pik, QKaro ]
+HLamb46 checks
+whyluckys checks
+** Dealing turn ** [ APik ]
+HLamb46 bets [0,09 $]
+whyluckys calls [0,09 $]
+** Dealing river ** [ 5Kreuz ]
+HLamb46 bets [0,10 $]
+whyluckys calls [0,10 $]
+** Summary **
+HLamb46 shows [ QKreuz, KKreuz ]
+whyluckys mucks [ AKreuz, 8Kreuz ]
+HLamb46 collected [ 0,50 $ ]
+
+
+
+#Game No : 1331863683
+***** 888poker Hand History for Game 1331863683 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:11:25
+Table Vigo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,23 $ )
+Seat 2: D_Rabbit ( 1,56 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: JeggerI ( 2,65 $ )
+Seat 5: SoveTnik90 ( 1,99 $ )
+Seat 6: jefflee22 ( 1,23 $ )
+Seat 7: B2B_Suckouts ( 2,07 $ )
+Seat 9: BreatheLive ( 2,27 $ )
+Seat 10: Vlad281199 ( 2,40 $ )
+jefflee22 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, QKaro ]
+BreatheLive folds
+Vlad281199 folds
+HLamb46 raises [0,06 $]
+D_Rabbit folds
+whyluckys folds
+JeggerI folds
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+** Summary **
+HLamb46 did not show his hand
+HLamb46 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331863776
+***** 888poker Hand History for Game 1331863776 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:12:05
+Table Vigo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,26 $ )
+Seat 2: D_Rabbit ( 1,56 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: JeggerI ( 2,65 $ )
+Seat 5: SoveTnik90 ( 1,99 $ )
+Seat 6: jefflee22 ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,05 $ )
+Seat 9: BreatheLive ( 2,27 $ )
+Seat 10: Vlad281199 ( 2,40 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 2Karo ]
+Vlad281199 folds
+HLamb46 folds
+D_Rabbit folds
+whyluckys folds
+JeggerI folds
+SoveTnik90 raises [0,06 $]
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive raises [0,18 $]
+SoveTnik90 folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,13 $ ]
+
+
+
+#Game No : 1331863846
+***** 888poker Hand History for Game 1331863846 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:12:40
+Table Vigo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,26 $ )
+Seat 2: D_Rabbit ( 1,56 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: JeggerI ( 2,65 $ )
+Seat 5: SoveTnik90 ( 1,93 $ )
+Seat 6: jefflee22 ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,04 $ )
+Seat 9: BreatheLive ( 2,34 $ )
+Seat 10: Vlad281199 ( 2,40 $ )
+BreatheLive posts small blind [0,01 $]
+Vlad281199 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, JHerz ]
+HLamb46 folds
+D_Rabbit folds
+whyluckys folds
+JeggerI folds
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+** Summary **
+Vlad281199 did not show his hand
+Vlad281199 collected [ 0,03 $ ]
+
+
+
+#Game No : 1331863880
+***** 888poker Hand History for Game 1331863880 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:12:58
+Table Vigo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,26 $ )
+Seat 2: D_Rabbit ( 1,56 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: JeggerI ( 2,65 $ )
+Seat 5: SoveTnik90 ( 1,93 $ )
+Seat 6: jefflee22 ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,04 $ )
+Seat 9: BreatheLive ( 2,33 $ )
+Seat 10: Vlad281199 ( 2,41 $ )
+Vlad281199 posts small blind [0,01 $]
+HLamb46 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 8Herz ]
+D_Rabbit folds
+whyluckys folds
+JeggerI folds
+SoveTnik90 raises [0,06 $]
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+Vlad281199 folds
+HLamb46 folds
+** Summary **
+SoveTnik90 did not show his hand
+SoveTnik90 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331863933
+***** 888poker Hand History for Game 1331863933 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:13:26
+Table Vigo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,24 $ )
+Seat 2: D_Rabbit ( 1,56 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: JeggerI ( 2,65 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,04 $ )
+Seat 9: BreatheLive ( 2,33 $ )
+Seat 10: Vlad281199 ( 2,40 $ )
+HLamb46 posts small blind [0,01 $]
+D_Rabbit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, AHerz ]
+whyluckys folds
+JeggerI folds
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+Vlad281199 folds
+HLamb46 calls [0,01 $]
+D_Rabbit checks
+** Dealing flop ** [ KKaro, 3Herz, JHerz ]
+HLamb46 checks
+D_Rabbit checks
+** Dealing turn ** [ 5Karo ]
+HLamb46 checks
+D_Rabbit bets [0,02 $]
+HLamb46 folds
+** Summary **
+D_Rabbit did not show his hand
+D_Rabbit collected [ 0,04 $ ]
+
+
+
+#Game No : 1331864051
+***** 888poker Hand History for Game 1331864051 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:14:16
+Table Vigo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,22 $ )
+Seat 2: D_Rabbit ( 1,58 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: JeggerI ( 2,65 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,04 $ )
+Seat 9: BreatheLive ( 2,33 $ )
+Seat 10: Vlad281199 ( 2,40 $ )
+D_Rabbit posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 5Karo ]
+JeggerI folds
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+Vlad281199 folds
+HLamb46 folds
+D_Rabbit calls [0,01 $]
+whyluckys checks
+** Dealing flop ** [ 2Herz, 3Kreuz, QKaro ]
+D_Rabbit checks
+whyluckys checks
+** Dealing turn ** [ JKreuz ]
+D_Rabbit bets [0,02 $]
+whyluckys calls [0,02 $]
+** Dealing river ** [ 3Herz ]
+D_Rabbit bets [0,02 $]
+whyluckys calls [0,02 $]
+** Summary **
+D_Rabbit shows [ JHerz, 5Herz ]
+whyluckys shows [ QPik, 6Kreuz ]
+whyluckys collected [ 0,12 $ ]
+
+
+
+#Game No : 1331864109
+***** 888poker Hand History for Game 1331864109 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:14:48
+Table Vigo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,22 $ )
+Seat 2: D_Rabbit ( 1,52 $ )
+Seat 3: whyluckys ( 2,06 $ )
+Seat 4: JeggerI ( 2,65 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,04 $ )
+Seat 9: BreatheLive ( 2,33 $ )
+Seat 10: Vlad281199 ( 2,40 $ )
+whyluckys posts small blind [0,01 $]
+JeggerI folds
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 8Pik ]
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+Vlad281199 folds
+HLamb46 folds
+D_Rabbit folds
+whyluckys folds
+** Summary **
+SoveTnik90 did not show his hand
+SoveTnik90 collected [ 0,03 $ ]
+
+
+
+#Game No : 1331864170
+***** 888poker Hand History for Game 1331864170 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:15:18
+Table Vigo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 2,22 $ )
+Seat 2: D_Rabbit ( 1,52 $ )
+Seat 3: whyluckys ( 2,05 $ )
+Seat 5: SoveTnik90 ( 1,97 $ )
+Seat 6: jefflee22 ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,04 $ )
+Seat 9: BreatheLive ( 2,33 $ )
+Seat 10: Vlad281199 ( 2,40 $ )
+SoveTnik90 posts small blind [0,01 $]
+jefflee22 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 3Kreuz ]
+B2B_Suckouts folds
+BreatheLive folds
+Vlad281199 calls [0,02 $]
+HLamb46 folds
+D_Rabbit calls [0,02 $]
+whyluckys raises [0,10 $]
+SoveTnik90 folds
+jefflee22 folds
+Vlad281199 folds
+D_Rabbit calls [0,08 $]
+** Dealing flop ** [ 7Karo, 8Kreuz, 3Karo ]
+D_Rabbit checks
+whyluckys checks
+** Dealing turn ** [ JKreuz ]
+D_Rabbit bets [0,06 $]
+whyluckys calls [0,06 $]
+** Dealing river ** [ 5Kreuz ]
+D_Rabbit bets [1,36 $]
+whyluckys folds
+** Summary **
+D_Rabbit collected [ 0,35 $ ]
+
+
+
+#Game No : 1331864288
+***** 888poker Hand History for Game 1331864288 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:16:15
+Table Vigo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 2,22 $ )
+Seat 2: D_Rabbit ( 1,71 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,20 $ )
+Seat 7: B2B_Suckouts ( 2,04 $ )
+Seat 9: BreatheLive ( 2,33 $ )
+Seat 10: Vlad281199 ( 2,38 $ )
+jefflee22 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 3Karo ]
+BreatheLive folds
+Vlad281199 folds
+HLamb46 folds
+D_Rabbit calls [0,02 $]
+whyluckys folds
+SoveTnik90 folds
+jefflee22 raises [0,03 $]
+B2B_Suckouts calls [0,02 $]
+D_Rabbit calls [0,02 $]
+** Dealing flop ** [ JKreuz, 4Karo, 5Kreuz ]
+jefflee22 checks
+B2B_Suckouts checks
+D_Rabbit bets [0,06 $]
+jefflee22 calls [0,06 $]
+B2B_Suckouts folds
+** Dealing turn ** [ 7Kreuz ]
+jefflee22 checks
+D_Rabbit checks
+** Dealing river ** [ QHerz ]
+jefflee22 checks
+D_Rabbit bets [0,06 $]
+jefflee22 folds
+** Summary **
+D_Rabbit collected [ 0,23 $ ]
+
+
+
+#Game No : 1331864406
+***** 888poker Hand History for Game 1331864406 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:17:13
+Table Vigo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 2,22 $ )
+Seat 2: D_Rabbit ( 1,84 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,10 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,33 $ )
+Seat 10: Vlad281199 ( 2,38 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Herz ]
+Vlad281199 folds
+HLamb46 folds
+D_Rabbit calls [0,02 $]
+whyluckys raises [0,08 $]
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+D_Rabbit calls [0,06 $]
+** Dealing flop ** [ AHerz, 10Pik, 7Pik ]
+D_Rabbit checks
+whyluckys checks
+** Dealing turn ** [ QKaro ]
+D_Rabbit bets [0,12 $]
+whyluckys calls [0,12 $]
+** Dealing river ** [ 9Herz ]
+D_Rabbit checks
+whyluckys checks
+** Summary **
+D_Rabbit shows [ 10Kreuz, AKaro ]
+whyluckys mucks [ 8Pik, 8Kreuz ]
+D_Rabbit collected [ 0,41 $ ]
+
+
+
+#Game No : 1331864552
+***** 888poker Hand History for Game 1331864552 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:18:18
+Table Vigo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 2,22 $ )
+Seat 2: D_Rabbit ( 2,05 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,10 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,31 $ )
+Seat 10: fesenko ( 2 $ )
+BreatheLive posts small blind [0,01 $]
+fesenko posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 3Karo ]
+HLamb46 folds
+D_Rabbit calls [0,02 $]
+whyluckys folds
+SoveTnik90 folds
+jefflee22 calls [0,02 $]
+B2B_Suckouts folds
+BreatheLive folds
+fesenko checks
+** Dealing flop ** [ 4Kreuz, 3Herz, 6Herz ]
+fesenko checks
+D_Rabbit bets [0,04 $]
+jefflee22 folds
+fesenko folds
+** Summary **
+D_Rabbit collected [ 0,07 $ ]
+
+
+
+#Game No : 1331864616
+***** 888poker Hand History for Game 1331864616 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:18:50
+Table Vigo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 2,22 $ )
+Seat 2: D_Rabbit ( 2,10 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,08 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,30 $ )
+Seat 10: fesenko ( 2 $ )
+fesenko posts small blind [0,01 $]
+HLamb46 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 2Karo ]
+D_Rabbit folds
+whyluckys folds
+SoveTnik90 folds
+jefflee22 calls [0,02 $]
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+HLamb46 checks
+** Dealing flop ** [ KKreuz, QKreuz, 9Herz ]
+HLamb46 checks
+jefflee22 bets [0,02 $]
+HLamb46 folds
+** Summary **
+jefflee22 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331864672
+***** 888poker Hand History for Game 1331864672 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:19:21
+Table Vigo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 2,20 $ )
+Seat 2: D_Rabbit ( 2,10 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,11 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,30 $ )
+Seat 10: fesenko ( 2 $ )
+HLamb46 posts small blind [0,01 $]
+D_Rabbit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, APik ]
+whyluckys folds
+SoveTnik90 folds
+jefflee22 calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+BreatheLive folds
+fesenko folds
+HLamb46 calls [0,05 $]
+D_Rabbit folds
+jefflee22 folds
+** Dealing flop ** [ 10Herz, KPik, 6Karo ]
+HLamb46 checks
+B2B_Suckouts bets [0,08 $]
+HLamb46 calls [0,08 $]
+** Dealing turn ** [ 2Kreuz ]
+HLamb46 checks
+B2B_Suckouts checks
+** Dealing river ** [ JPik ]
+HLamb46 bets [0,21 $]
+B2B_Suckouts folds
+** Summary **
+HLamb46 collected [ 0,30 $ ]
+
+
+
+#Game No : 1331864834
+***** 888poker Hand History for Game 1331864834 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:20:32
+Table Vigo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: HLamb46 ( 2,36 $ )
+Seat 2: D_Rabbit ( 2,08 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,30 $ )
+Seat 10: fesenko ( 2 $ )
+D_Rabbit posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 7Kreuz ]
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+HLamb46 calls [0,02 $]
+D_Rabbit calls [0,01 $]
+whyluckys checks
+** Dealing flop ** [ KKreuz, 9Herz, 7Herz ]
+D_Rabbit checks
+whyluckys checks
+HLamb46 checks
+** Dealing turn ** [ 4Kreuz ]
+D_Rabbit bets [0,04 $]
+whyluckys calls [0,04 $]
+HLamb46 folds
+** Dealing river ** [ 3Karo ]
+D_Rabbit checks
+whyluckys bets [0,14 $]
+D_Rabbit folds
+** Summary **
+whyluckys collected [ 0,14 $ ]
+
+
+
+#Game No : 1331864979
+***** 888poker Hand History for Game 1331864979 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:21:35
+Table Vigo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,34 $ )
+Seat 2: D_Rabbit ( 2,02 $ )
+Seat 3: whyluckys ( 2,08 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,30 $ )
+Seat 10: fesenko ( 2 $ )
+whyluckys posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, AHerz ]
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts raises [0,06 $]
+BreatheLive folds
+fesenko folds
+HLamb46 folds
+D_Rabbit folds
+whyluckys calls [0,05 $]
+SinisterKid folds
+** Dealing flop ** [ 4Kreuz, QKaro, 7Pik ]
+whyluckys checks
+B2B_Suckouts bets [0,04 $]
+whyluckys calls [0,04 $]
+** Dealing turn ** [ 10Herz ]
+whyluckys checks
+B2B_Suckouts bets [0,11 $]
+whyluckys folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,21 $ ]
+
+
+
+#Game No : 1331865115
+***** 888poker Hand History for Game 1331865115 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:22:29
+Table Vigo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,34 $ )
+Seat 2: D_Rabbit ( 2,02 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 1,96 $ )
+Seat 6: jefflee22 ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2,11 $ )
+Seat 9: BreatheLive ( 2,30 $ )
+Seat 10: fesenko ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 6Karo ]
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive raises [0,06 $]
+fesenko folds
+HLamb46 folds
+D_Rabbit folds
+whyluckys folds
+SinisterKid folds
+SoveTnik90 folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,05 $ ]
+
+
+
+#Game No : 1331865174
+***** 888poker Hand History for Game 1331865174 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:22:52
+Table Vigo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,34 $ )
+Seat 2: D_Rabbit ( 2,02 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 1,94 $ )
+Seat 6: jefflee22 ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2,11 $ )
+Seat 9: BreatheLive ( 2,33 $ )
+Seat 10: fesenko ( 2 $ )
+SoveTnik90 posts small blind [0,01 $]
+jefflee22 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 6Karo ]
+B2B_Suckouts folds
+BreatheLive raises [0,06 $]
+fesenko calls [0,06 $]
+HLamb46 folds
+D_Rabbit folds
+whyluckys folds
+SinisterKid folds
+SoveTnik90 folds
+jefflee22 folds
+** Dealing flop ** [ QPik, JHerz, 2Herz ]
+BreatheLive checks
+fesenko checks
+** Dealing turn ** [ 8Kreuz ]
+BreatheLive bets [0,09 $]
+fesenko raises [0,24 $]
+BreatheLive folds
+** Summary **
+fesenko did not show his hand
+fesenko collected [ 0,31 $ ]
+
+
+
+#Game No : 1331865301
+***** 888poker Hand History for Game 1331865301 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:23:49
+Table Vigo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,34 $ )
+Seat 2: D_Rabbit ( 2,02 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 1,93 $ )
+Seat 6: jefflee22 ( 1,07 $ )
+Seat 7: B2B_Suckouts ( 2,11 $ )
+Seat 9: BreatheLive ( 2,18 $ )
+Seat 10: fesenko ( 2,16 $ )
+jefflee22 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 2Karo ]
+BreatheLive folds
+fesenko folds
+HLamb46 folds
+D_Rabbit folds
+whyluckys folds
+SinisterKid folds
+SoveTnik90 folds
+jefflee22 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ JKaro, 4Pik, QKaro ]
+jefflee22 bets [0,02 $]
+B2B_Suckouts raises [0,04 $]
+jefflee22 calls [0,02 $]
+** Dealing turn ** [ 6Pik ]
+jefflee22 bets [0,06 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing river ** [ JHerz ]
+jefflee22 bets [0,12 $]
+B2B_Suckouts folds
+** Summary **
+jefflee22 did not show his hand
+jefflee22 collected [ 0,23 $ ]
+
+
+
+#Game No : 1331865416
+***** 888poker Hand History for Game 1331865416 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:24:35
+Table Vigo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,34 $ )
+Seat 2: D_Rabbit ( 2,02 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 1,93 $ )
+Seat 6: jefflee22 ( 1,18 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,18 $ )
+Seat 10: fesenko ( 2,16 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 4Kreuz ]
+fesenko folds
+HLamb46 raises [0,06 $]
+D_Rabbit folds
+whyluckys folds
+SinisterKid folds
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+** Summary **
+HLamb46 did not show his hand
+HLamb46 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331865492
+***** 888poker Hand History for Game 1331865492 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:25:08
+Table Vigo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,37 $ )
+Seat 2: D_Rabbit ( 2,02 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 1,93 $ )
+Seat 6: jefflee22 ( 1,18 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,16 $ )
+Seat 10: fesenko ( 2,16 $ )
+BreatheLive posts small blind [0,01 $]
+fesenko posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, QPik ]
+HLamb46 calls [0,02 $]
+D_Rabbit folds
+whyluckys folds
+SinisterKid folds
+SoveTnik90 calls [0,02 $]
+jefflee22 folds
+B2B_Suckouts raises [0,06 $]
+BreatheLive folds
+fesenko folds
+HLamb46 calls [0,04 $]
+SoveTnik90 calls [0,04 $]
+** Dealing flop ** [ 8Pik, 4Pik, 9Herz ]
+HLamb46 checks
+SoveTnik90 checks
+B2B_Suckouts bets [0,06 $]
+HLamb46 folds
+SoveTnik90 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,20 $ ]
+
+
+
+#Game No : 1331865628
+***** 888poker Hand History for Game 1331865628 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:26:05
+Table Vigo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: HLamb46 ( 2,31 $ )
+Seat 2: D_Rabbit ( 2,02 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 1,87 $ )
+Seat 6: jefflee22 ( 1,18 $ )
+Seat 7: B2B_Suckouts ( 2,14 $ )
+Seat 9: BreatheLive ( 2,15 $ )
+Seat 10: fesenko ( 2,14 $ )
+fesenko posts small blind [0,01 $]
+HLamb46 folds
+D_Rabbit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, KHerz ]
+whyluckys folds
+SinisterKid folds
+SoveTnik90 folds
+jefflee22 calls [0,02 $]
+B2B_Suckouts folds
+BreatheLive raises [0,08 $]
+fesenko folds
+D_Rabbit folds
+jefflee22 calls [0,06 $]
+** Dealing flop ** [ 6Karo, 4Karo, JPik ]
+jefflee22 checks
+BreatheLive bets [0,09 $]
+jefflee22 folds
+** Summary **
+BreatheLive collected [ 0,18 $ ]
+
+
+
+#Game No : 1331865718
+***** 888poker Hand History for Game 1331865718 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:26:42
+Table Vigo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: D_Rabbit ( 2 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 1,87 $ )
+Seat 6: jefflee22 ( 1,10 $ )
+Seat 7: B2B_Suckouts ( 2,14 $ )
+Seat 9: BreatheLive ( 2,25 $ )
+Seat 10: fesenko ( 2,13 $ )
+D_Rabbit posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 5Pik ]
+SinisterKid folds
+SoveTnik90 raises [0,06 $]
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+D_Rabbit folds
+whyluckys folds
+** Summary **
+SoveTnik90 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331865773
+***** 888poker Hand History for Game 1331865773 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:27:06
+Table Vigo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: D_Rabbit ( 1,99 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 1,90 $ )
+Seat 6: jefflee22 ( 1,10 $ )
+Seat 7: B2B_Suckouts ( 2,14 $ )
+Seat 9: BreatheLive ( 2,25 $ )
+Seat 10: fesenko ( 2,13 $ )
+whyluckys posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 6Herz ]
+SoveTnik90 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+D_Rabbit folds
+whyluckys folds
+** Summary **
+SinisterKid collected [ 0,03 $ ]
+
+
+
+#Game No : 1331865810
+***** 888poker Hand History for Game 1331865810 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:27:19
+Table Vigo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: D_Rabbit ( 1,99 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,01 $ )
+Seat 5: SoveTnik90 ( 1,90 $ )
+Seat 6: jefflee22 ( 1,10 $ )
+Seat 7: B2B_Suckouts ( 2,14 $ )
+Seat 9: BreatheLive ( 2,25 $ )
+Seat 10: fesenko ( 2,13 $ )
+SinisterKid posts small blind [0,01 $]
+SoveTnik90 folds
+jefflee22 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 10Karo ]
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+D_Rabbit folds
+whyluckys folds
+SinisterKid folds
+** Summary **
+jefflee22 collected [ 0,03 $ ]
+
+
+
+#Game No : 1331865892
+***** 888poker Hand History for Game 1331865892 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:27:52
+Table Vigo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 6: jefflee22 ( 1,11 $ )
+Seat 7: B2B_Suckouts ( 2,14 $ )
+Seat 9: BreatheLive ( 2,25 $ )
+Seat 10: fesenko ( 2,13 $ )
+jefflee22 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 7Kreuz ]
+BreatheLive raises [0,06 $]
+fesenko folds
+whyluckys folds
+SinisterKid folds
+jefflee22 folds
+B2B_Suckouts folds
+** Summary **
+BreatheLive collected [ 0,05 $ ]
+
+
+
+#Game No : 1331866310
+***** 888poker Hand History for Game 1331866310 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:30:41
+Table Vigo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,98 $ )
+Seat 2: nx4nx ( 1,56 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,18 $ )
+Seat 6: jefflee22 ( 1,10 $ )
+Seat 7: B2B_Suckouts ( 2,02 $ )
+Seat 9: BreatheLive ( 2,26 $ )
+Seat 10: fesenko ( 2,12 $ )
+RBraia posts small blind [0,01 $]
+nx4nx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, KPik ]
+whyluckys folds
+SinisterKid folds
+jefflee22 calls [0,02 $]
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+RBraia calls [0,01 $]
+nx4nx checks
+** Dealing flop ** [ 4Kreuz, 2Pik, JHerz ]
+RBraia bets [0,02 $]
+nx4nx folds
+jefflee22 calls [0,02 $]
+** Dealing turn ** [ 7Herz ]
+RBraia bets [0,06 $]
+jefflee22 folds
+** Summary **
+RBraia collected [ 0,10 $ ]
+
+
+
+#Game No : 1331866457
+***** 888poker Hand History for Game 1331866457 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:31:40
+Table Vigo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: RBraia ( 2,04 $ )
+Seat 2: nx4nx ( 1,54 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,18 $ )
+Seat 6: jefflee22 ( 1,06 $ )
+Seat 7: B2B_Suckouts ( 2,02 $ )
+Seat 9: BreatheLive ( 2,26 $ )
+Seat 10: fesenko ( 2,12 $ )
+nx4nx posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 2Pik ]
+SinisterKid raises [0,06 $]
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+RBraia calls [0,06 $]
+nx4nx folds
+whyluckys folds
+** Dealing flop ** [ 8Pik, JPik, KHerz ]
+SinisterKid bets [0,10 $]
+RBraia folds
+** Summary **
+SinisterKid collected [ 0,15 $ ]
+
+
+
+#Game No : 1331866546
+***** 888poker Hand History for Game 1331866546 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:32:15
+Table Vigo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,98 $ )
+Seat 2: nx4nx ( 1,53 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,27 $ )
+Seat 6: jefflee22 ( 1,06 $ )
+Seat 7: B2B_Suckouts ( 2,02 $ )
+Seat 9: BreatheLive ( 2,26 $ )
+Seat 10: fesenko ( 2,12 $ )
+whyluckys posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 3Pik ]
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive raises [0,06 $]
+fesenko folds
+RBraia folds
+nx4nx folds
+whyluckys folds
+SinisterKid folds
+** Summary **
+BreatheLive collected [ 0,05 $ ]
+
+
+
+#Game No : 1331866710
+***** 888poker Hand History for Game 1331866710 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:33:18
+Table Vigo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: RBraia ( 1,98 $ )
+Seat 2: nx4nx ( 1,53 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,25 $ )
+Seat 5: Penguin_1980 ( 0,80 $ )
+Seat 6: jefflee22 ( 1,06 $ )
+Seat 7: B2B_Suckouts ( 2,02 $ )
+Seat 9: BreatheLive ( 2,29 $ )
+Seat 10: fesenko ( 2,12 $ )
+SinisterKid posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 6Karo ]
+jefflee22 calls [0,02 $]
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+RBraia folds
+nx4nx calls [0,02 $]
+whyluckys folds
+SinisterKid folds
+Penguin_1980 checks
+** Dealing flop ** [ 7Karo, AKreuz, KKaro ]
+Penguin_1980 checks
+jefflee22 checks
+nx4nx bets [0,04 $]
+Penguin_1980 folds
+jefflee22 folds
+** Summary **
+nx4nx did not show his hand
+nx4nx collected [ 0,07 $ ]
+
+
+
+#Game No : 1331866780
+***** 888poker Hand History for Game 1331866780 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:33:48
+Table Vigo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: RBraia ( 1,98 $ )
+Seat 2: nx4nx ( 1,58 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,24 $ )
+Seat 5: Penguin_1980 ( 0,78 $ )
+Seat 6: jefflee22 ( 1,04 $ )
+Seat 7: B2B_Suckouts ( 2,02 $ )
+Seat 9: BreatheLive ( 2,29 $ )
+Seat 10: fesenko ( 2,12 $ )
+Penguin_1980 posts small blind [0,01 $]
+jefflee22 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, AKaro ]
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+RBraia folds
+nx4nx folds
+whyluckys raises [0,05 $]
+SinisterKid folds
+Penguin_1980 folds
+jefflee22 folds
+** Summary **
+whyluckys did not show his hand
+whyluckys collected [ 0,05 $ ]
+
+
+
+#Game No : 1331866853
+***** 888poker Hand History for Game 1331866853 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:34:21
+Table Vigo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: RBraia ( 1,98 $ )
+Seat 2: nx4nx ( 1,58 $ )
+Seat 3: whyluckys ( 2,03 $ )
+Seat 4: SinisterKid ( 2,24 $ )
+Seat 5: Penguin_1980 ( 0,77 $ )
+Seat 6: jefflee22 ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,02 $ )
+Seat 9: BreatheLive ( 2,29 $ )
+Seat 10: fesenko ( 2,12 $ )
+jefflee22 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 4Karo ]
+BreatheLive folds
+fesenko folds
+RBraia folds
+nx4nx calls [0,02 $]
+whyluckys folds
+SinisterKid folds
+Penguin_1980 folds
+jefflee22 raises [0,03 $]
+B2B_Suckouts folds
+nx4nx calls [0,02 $]
+** Dealing flop ** [ 3Karo, 10Karo, 8Pik ]
+jefflee22 bets [0,05 $]
+nx4nx folds
+** Summary **
+jefflee22 did not show his hand
+jefflee22 collected [ 0,10 $ ]
+
+
+
+#Game No : 1331866988
+***** 888poker Hand History for Game 1331866988 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:35:16
+Table Vigo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: RBraia ( 1,98 $ )
+Seat 2: nx4nx ( 1,54 $ )
+Seat 3: whyluckys ( 2,03 $ )
+Seat 4: SinisterKid ( 2,24 $ )
+Seat 5: Penguin_1980 ( 0,77 $ )
+Seat 6: jefflee22 ( 1,08 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,29 $ )
+Seat 10: fesenko ( 2,12 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, JHerz ]
+fesenko folds
+RBraia raises [0,08 $]
+nx4nx folds
+whyluckys folds
+SinisterKid folds
+Penguin_1980 folds
+jefflee22 folds
+B2B_Suckouts raises [0,23 $]
+BreatheLive folds
+RBraia calls [0,16 $]
+** Dealing flop ** [ 4Karo, 8Kreuz, 2Pik ]
+B2B_Suckouts checks
+RBraia bets [0,25 $]
+B2B_Suckouts folds
+** Summary **
+RBraia did not show his hand
+RBraia collected [ 0,47 $ ]
+
+
+
+#Game No : 1331867155
+***** 888poker Hand History for Game 1331867155 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:36:25
+Table Vigo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: RBraia ( 2,21 $ )
+Seat 2: nx4nx ( 1,54 $ )
+Seat 3: whyluckys ( 2,03 $ )
+Seat 4: SinisterKid ( 2,24 $ )
+Seat 5: Penguin_1980 ( 0,77 $ )
+Seat 6: jefflee22 ( 1,08 $ )
+Seat 7: B2B_Suckouts ( 1,76 $ )
+Seat 9: BreatheLive ( 2,27 $ )
+Seat 10: fesenko ( 2,12 $ )
+BreatheLive posts small blind [0,01 $]
+fesenko posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 3Herz ]
+RBraia folds
+nx4nx raises [0,04 $]
+whyluckys folds
+SinisterKid raises [0,16 $]
+Penguin_1980 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+nx4nx calls [0,12 $]
+** Dealing flop ** [ QKaro, 3Kreuz, 2Herz ]
+nx4nx checks
+SinisterKid checks
+** Dealing turn ** [ 8Kreuz ]
+nx4nx checks
+SinisterKid bets [0,24 $]
+nx4nx folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,33 $ ]
+
+
+
+#Game No : 1331867274
+***** 888poker Hand History for Game 1331867274 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:37:18
+Table Vigo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: RBraia ( 2,21 $ )
+Seat 2: nx4nx ( 1,38 $ )
+Seat 3: whyluckys ( 2,03 $ )
+Seat 4: SinisterKid ( 2,41 $ )
+Seat 5: Penguin_1980 ( 0,77 $ )
+Seat 6: jefflee22 ( 1,08 $ )
+Seat 7: B2B_Suckouts ( 1,76 $ )
+Seat 9: BreatheLive ( 2,26 $ )
+Seat 10: fesenko ( 2,10 $ )
+fesenko posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 8Kreuz ]
+nx4nx calls [0,02 $]
+whyluckys raises [0,06 $]
+SinisterKid raises [0,22 $]
+Penguin_1980 folds
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+RBraia folds
+nx4nx folds
+whyluckys folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,17 $ ]
+
+
+
+#Game No : 1331867372
+***** 888poker Hand History for Game 1331867372 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:38:03
+Table Vigo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: RBraia ( 2,19 $ )
+Seat 2: nx4nx ( 1,36 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,52 $ )
+Seat 5: Penguin_1980 ( 0,77 $ )
+Seat 6: jefflee22 ( 1,08 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,26 $ )
+Seat 10: fesenko ( 2,09 $ )
+RBraia posts small blind [0,01 $]
+nx4nx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 5Pik ]
+whyluckys folds
+SinisterKid folds
+Penguin_1980 calls [0,02 $]
+jefflee22 folds
+B2B_Suckouts folds
+BreatheLive raises [0,08 $]
+fesenko calls [0,08 $]
+RBraia folds
+nx4nx folds
+Penguin_1980 calls [0,06 $]
+** Dealing flop ** [ APik, QKaro, 8Kreuz ]
+Penguin_1980 checks
+BreatheLive bets [0,13 $]
+fesenko calls [0,13 $]
+Penguin_1980 folds
+** Dealing turn ** [ 4Kreuz ]
+BreatheLive bets [0,34 $]
+fesenko folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,50 $ ]
+
+
+
+#Game No : 1331867557
+***** 888poker Hand History for Game 1331867557 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:39:23
+Table Vigo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: RBraia ( 2,18 $ )
+Seat 2: nx4nx ( 1,34 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,52 $ )
+Seat 5: Penguin_1980 ( 0,69 $ )
+Seat 6: jefflee22 ( 1,08 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,55 $ )
+Seat 10: fesenko ( 2 $ )
+nx4nx posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, JHerz ]
+SinisterKid folds
+Penguin_1980 calls [0,02 $]
+jefflee22 calls [0,02 $]
+B2B_Suckouts folds
+BreatheLive folds
+fesenko raises [0,08 $]
+RBraia folds
+nx4nx calls [0,07 $]
+whyluckys folds
+Penguin_1980 raises [0,67 $]
+jefflee22 folds
+fesenko folds
+nx4nx calls [0,61 $]
+** Dealing flop ** [ 2Herz, 10Karo, 5Herz ]
+** Dealing turn ** [ AKaro ]
+** Dealing river ** [ 2Pik ]
+** Summary **
+nx4nx shows [ AHerz, KKreuz ]
+Penguin_1980 shows [ KPik, KKaro ]
+nx4nx collected [ 1,41 $ ]
+
+
+
+#Game No : 1331867659
+***** 888poker Hand History for Game 1331867659 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:40:08
+Table Vigo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: RBraia ( 2,18 $ )
+Seat 2: nx4nx ( 2,06 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,52 $ )
+Seat 6: jefflee22 ( 1,06 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,55 $ )
+Seat 10: fesenko ( 2 $ )
+whyluckys posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, QKaro ]
+jefflee22 calls [0,02 $]
+B2B_Suckouts folds
+BreatheLive folds
+fesenko raises [0,10 $]
+RBraia calls [0,10 $]
+nx4nx folds
+whyluckys folds
+SinisterKid folds
+jefflee22 calls [0,08 $]
+** Dealing flop ** [ 7Pik, AHerz, KHerz ]
+jefflee22 checks
+fesenko bets [0,18 $]
+RBraia folds
+jefflee22 calls [0,18 $]
+** Dealing turn ** [ 3Karo ]
+jefflee22 checks
+fesenko bets [0,31 $]
+jefflee22 calls [0,31 $]
+** Dealing river ** [ 7Karo ]
+jefflee22 bets [0,47 $]
+fesenko calls [0,47 $]
+** Summary **
+jefflee22 shows [ KKreuz, KKaro ]
+fesenko shows [ QPik, APik ]
+jefflee22 collected [ 2,11 $ ]
+
+
+
+#Game No : 1331867878
+***** 888poker Hand History for Game 1331867878 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:41:36
+Table Vigo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: RBraia ( 2,08 $ )
+Seat 2: nx4nx ( 2,06 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,50 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 6: jefflee22 ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,55 $ )
+Seat 10: fesenko ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+SithNitrous posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 2Karo ]
+jefflee22 calls [0,02 $]
+B2B_Suckouts folds
+BreatheLive raises [0,08 $]
+fesenko folds
+RBraia calls [0,08 $]
+nx4nx folds
+whyluckys folds
+SinisterKid folds
+SithNitrous folds
+jefflee22 folds
+** Dealing flop ** [ 4Karo, 7Herz, 4Herz ]
+BreatheLive bets [0,13 $]
+RBraia calls [0,13 $]
+** Dealing turn ** [ AKreuz ]
+BreatheLive bets [0,23 $]
+RBraia folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,45 $ ]
+
+
+
+#Game No : 1331868017
+***** 888poker Hand History for Game 1331868017 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:42:30
+Table Vigo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,87 $ )
+Seat 2: nx4nx ( 2,06 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,49 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: BreatheLive ( 2,79 $ )
+Seat 10: fesenko ( 2 $ )
+SithNitrous posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 8Kreuz ]
+BreatheLive folds
+fesenko folds
+RBraia folds
+nx4nx raises [0,04 $]
+whyluckys folds
+SinisterKid calls [0,04 $]
+SithNitrous calls [0,03 $]
+B2B_Suckouts folds
+** Dealing flop ** [ JKreuz, 10Kreuz, 9Karo ]
+SithNitrous checks
+nx4nx checks
+SinisterKid bets [0,12 $]
+SithNitrous calls [0,12 $]
+nx4nx folds
+** Dealing turn ** [ KPik ]
+SithNitrous checks
+SinisterKid bets [0,28 $]
+SithNitrous folds
+** Summary **
+SinisterKid collected [ 0,36 $ ]
+
+
+
+#Game No : 1331868218
+***** 888poker Hand History for Game 1331868218 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:43:54
+Table Vigo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,87 $ )
+Seat 2: nx4nx ( 2,02 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,69 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 1,98 $ )
+Seat 9: BreatheLive ( 2,79 $ )
+Seat 10: fesenko ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, KKaro ]
+fesenko raises [0,06 $]
+RBraia folds
+nx4nx folds
+whyluckys folds
+SinisterKid folds
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive folds
+** Summary **
+fesenko collected [ 0,05 $ ]
+
+
+
+#Game No : 1331868326
+***** 888poker Hand History for Game 1331868326 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:44:37
+Table Vigo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,87 $ )
+Seat 2: nx4nx ( 2,02 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,69 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 1,97 $ )
+Seat 9: BreatheLive ( 2,77 $ )
+Seat 10: fesenko ( 2,03 $ )
+BreatheLive posts small blind [0,01 $]
+fesenko posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 5Herz ]
+RBraia folds
+nx4nx folds
+whyluckys raises [0,06 $]
+SinisterKid folds
+SithNitrous folds
+B2B_Suckouts calls [0,06 $]
+BreatheLive folds
+fesenko calls [0,04 $]
+** Dealing flop ** [ 2Herz, AKaro, 2Pik ]
+fesenko checks
+whyluckys bets [0,12 $]
+B2B_Suckouts calls [0,12 $]
+fesenko folds
+** Dealing turn ** [ 6Karo ]
+whyluckys bets [0,28 $]
+B2B_Suckouts folds
+** Summary **
+whyluckys collected [ 0,41 $ ]
+
+
+
+#Game No : 1331868510
+***** 888poker Hand History for Game 1331868510 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:46:08
+Table Vigo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,87 $ )
+Seat 2: nx4nx ( 2,02 $ )
+Seat 3: whyluckys ( 2,23 $ )
+Seat 4: SinisterKid ( 2,69 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 1,79 $ )
+Seat 9: BreatheLive ( 2,76 $ )
+Seat 10: fesenko ( 2 $ )
+fesenko posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 7Kreuz ]
+nx4nx raises [0,04 $]
+whyluckys folds
+SinisterKid folds
+SithNitrous folds
+B2B_Suckouts calls [0,04 $]
+BreatheLive calls [0,04 $]
+fesenko folds
+RBraia folds
+** Dealing flop ** [ 9Herz, 2Kreuz, AHerz ]
+nx4nx checks
+B2B_Suckouts bets [0,02 $]
+BreatheLive calls [0,02 $]
+nx4nx calls [0,02 $]
+** Dealing turn ** [ 8Herz ]
+nx4nx checks
+B2B_Suckouts bets [0,06 $]
+BreatheLive folds
+nx4nx folds
+** Summary **
+B2B_Suckouts collected [ 0,20 $ ]
+
+
+
+#Game No : 1331868642
+***** 888poker Hand History for Game 1331868642 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:47:11
+Table Vigo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,85 $ )
+Seat 2: nx4nx ( 1,96 $ )
+Seat 3: whyluckys ( 2,23 $ )
+Seat 4: SinisterKid ( 2,69 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 1,93 $ )
+Seat 9: BreatheLive ( 2,70 $ )
+Seat 10: fesenko ( 2 $ )
+RBraia posts small blind [0,01 $]
+nx4nx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 2Pik ]
+whyluckys folds
+SinisterKid folds
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive raises [0,06 $]
+fesenko folds
+RBraia folds
+nx4nx folds
+** Summary **
+BreatheLive collected [ 0,05 $ ]
+
+
+
+#Game No : 1331868718
+***** 888poker Hand History for Game 1331868718 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:47:45
+Table Vigo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,84 $ )
+Seat 2: nx4nx ( 1,94 $ )
+Seat 3: whyluckys ( 2,23 $ )
+Seat 4: SinisterKid ( 2,69 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 1,93 $ )
+Seat 9: BreatheLive ( 2,73 $ )
+Seat 10: fesenko ( 2 $ )
+nx4nx posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 9Karo ]
+SinisterKid raises [0,06 $]
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive calls [0,06 $]
+fesenko folds
+RBraia calls [0,06 $]
+nx4nx calls [0,05 $]
+whyluckys folds
+** Dealing flop ** [ 2Kreuz, 3Kreuz, 10Pik ]
+nx4nx checks
+SinisterKid checks
+BreatheLive bets [0,17 $]
+RBraia folds
+nx4nx folds
+SinisterKid folds
+** Summary **
+BreatheLive collected [ 0,25 $ ]
+
+
+
+#Game No : 1331868823
+***** 888poker Hand History for Game 1331868823 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:48:35
+Table Vigo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,78 $ )
+Seat 2: nx4nx ( 1,88 $ )
+Seat 3: whyluckys ( 2,21 $ )
+Seat 4: SinisterKid ( 2,63 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 1,93 $ )
+Seat 9: BreatheLive ( 2,92 $ )
+Seat 10: fesenko ( 2 $ )
+whyluckys posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 7Herz ]
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+RBraia raises [0,08 $]
+nx4nx folds
+whyluckys folds
+SinisterKid folds
+** Summary **
+RBraia collected [ 0,05 $ ]
+
+
+
+#Game No : 1331868916
+***** 888poker Hand History for Game 1331868916 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:49:16
+Table Vigo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,81 $ )
+Seat 2: nx4nx ( 1,88 $ )
+Seat 3: whyluckys ( 2,20 $ )
+Seat 4: SinisterKid ( 2,61 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 1,93 $ )
+Seat 9: BreatheLive ( 2,92 $ )
+Seat 10: fesenko ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+SithNitrous posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 8Karo ]
+B2B_Suckouts folds
+BreatheLive folds
+fesenko raises [0,06 $]
+RBraia folds
+nx4nx folds
+whyluckys folds
+SinisterKid raises [0,17 $]
+SithNitrous folds
+fesenko folds
+** Summary **
+SinisterKid collected [ 0,14 $ ]
+
+
+
+#Game No : 1331868985
+***** 888poker Hand History for Game 1331868985 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:49:47
+Table Vigo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: RBraia ( 1,81 $ )
+Seat 2: nx4nx ( 1,88 $ )
+Seat 3: whyluckys ( 2,20 $ )
+Seat 4: SinisterKid ( 2,69 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 6: overcranky ( 2 $ )
+Seat 7: B2B_Suckouts ( 1,93 $ )
+Seat 9: BreatheLive ( 2,92 $ )
+Seat 10: fesenko ( 2 $ )
+SithNitrous posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 7Karo ]
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+RBraia folds
+nx4nx calls [0,02 $]
+whyluckys folds
+SinisterKid raises [0,08 $]
+SithNitrous folds
+overcranky folds
+nx4nx calls [0,06 $]
+** Dealing flop ** [ JKaro, 10Kreuz, 2Karo ]
+nx4nx checks
+SinisterKid bets [0,14 $]
+nx4nx calls [0,14 $]
+** Dealing turn ** [ 6Kreuz ]
+nx4nx checks
+SinisterKid bets [0,32 $]
+nx4nx calls [0,32 $]
+** Dealing river ** [ 9Kreuz ]
+nx4nx bets [0,55 $]
+SinisterKid calls [0,55 $]
+** Summary **
+nx4nx shows [ QPik, QHerz ]
+SinisterKid shows [ QKaro, KKreuz ]
+SinisterKid collected [ 2,08 $ ]
+
+
+
+#Game No : 1331869178
+***** 888poker Hand History for Game 1331869178 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:51:08
+Table Vigo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: RBraia ( 1,81 $ )
+Seat 2: nx4nx ( 0,79 $ )
+Seat 3: whyluckys ( 2,20 $ )
+Seat 4: SinisterKid ( 3,68 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 6: overcranky ( 2 $ )
+Seat 7: B2B_Suckouts ( 1,93 $ )
+Seat 9: BreatheLive ( 2,92 $ )
+Seat 10: fesenko ( 2 $ )
+overcranky posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, KKaro ]
+BreatheLive folds
+fesenko folds
+RBraia raises [0,08 $]
+nx4nx folds
+whyluckys folds
+SinisterKid folds
+SithNitrous folds
+overcranky folds
+B2B_Suckouts folds
+** Summary **
+RBraia did not show his hand
+RBraia collected [ 0,05 $ ]
+
+
+
+#Game No : 1331869250
+***** 888poker Hand History for Game 1331869250 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:51:35
+Table Vigo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: RBraia ( 1,84 $ )
+Seat 2: nx4nx ( 0,79 $ )
+Seat 3: whyluckys ( 2,20 $ )
+Seat 4: SinisterKid ( 3,68 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 6: overcranky ( 2 $ )
+Seat 7: B2B_Suckouts ( 1,91 $ )
+Seat 9: BreatheLive ( 2,92 $ )
+Seat 10: fesenko ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, JHerz ]
+fesenko folds
+RBraia folds
+nx4nx raises [0,04 $]
+whyluckys folds
+SinisterKid folds
+SithNitrous folds
+overcranky raises [0,18 $]
+B2B_Suckouts calls [0,17 $]
+BreatheLive folds
+nx4nx calls [0,14 $]
+** Dealing flop ** [ 3Herz, 8Karo, 2Pik ]
+B2B_Suckouts checks
+nx4nx checks
+overcranky checks
+** Dealing turn ** [ 4Kreuz ]
+B2B_Suckouts bets [0,18 $]
+nx4nx folds
+overcranky calls [0,18 $]
+** Dealing river ** [ 6Karo ]
+B2B_Suckouts checks
+overcranky checks
+** Summary **
+B2B_Suckouts shows [ JKaro, JHerz ]
+overcranky mucks [ KKreuz, AKaro ]
+B2B_Suckouts collected [ 0,87 $ ]
+
+
+
+#Game No : 1331869443
+***** 888poker Hand History for Game 1331869443 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:53:09
+Table Vigo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,84 $ )
+Seat 2: nx4nx ( 0,61 $ )
+Seat 3: whyluckys ( 2,20 $ )
+Seat 4: SinisterKid ( 3,68 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,42 $ )
+Seat 9: BreatheLive ( 2,90 $ )
+Seat 10: fesenko ( 2 $ )
+BreatheLive posts small blind [0,01 $]
+fesenko posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, JKreuz ]
+RBraia folds
+nx4nx folds
+whyluckys folds
+SinisterKid folds
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive folds
+** Summary **
+fesenko collected [ 0,03 $ ]
+
+
+
+#Game No : 1331869496
+***** 888poker Hand History for Game 1331869496 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:53:28
+Table Vigo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,84 $ )
+Seat 2: nx4nx ( 0,61 $ )
+Seat 3: whyluckys ( 2,20 $ )
+Seat 4: SinisterKid ( 3,68 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,42 $ )
+Seat 9: BreatheLive ( 2,89 $ )
+Seat 10: fesenko ( 2,01 $ )
+fesenko posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 3Kreuz ]
+nx4nx raises [0,04 $]
+whyluckys calls [0,04 $]
+SinisterKid folds
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko calls [0,03 $]
+RBraia folds
+** Dealing flop ** [ 4Karo, QKreuz, 2Pik ]
+fesenko checks
+nx4nx bets [0,04 $]
+whyluckys calls [0,04 $]
+fesenko folds
+** Dealing turn ** [ 5Herz ]
+nx4nx bets [0,08 $]
+whyluckys raises [0,20 $]
+nx4nx calls [0,12 $]
+** Dealing river ** [ 10Kreuz ]
+nx4nx checks
+whyluckys bets [0,33 $]
+nx4nx calls [0,33 $]
+** Summary **
+nx4nx shows [ AKaro, QHerz ]
+whyluckys shows [ KHerz, QPik ]
+nx4nx collected [ 1,20 $ ]
+
+
+
+#Game No : 1331869667
+***** 888poker Hand History for Game 1331869667 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:54:44
+Table Vigo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,82 $ )
+Seat 2: nx4nx ( 1,20 $ )
+Seat 3: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 3,68 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,42 $ )
+Seat 9: BreatheLive ( 2,89 $ )
+Seat 10: fesenko ( 2 $ )
+RBraia posts small blind [0,01 $]
+nx4nx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 9Kreuz ]
+whyluckys raises [0,06 $]
+SinisterKid folds
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko calls [0,06 $]
+RBraia folds
+nx4nx folds
+** Dealing flop ** [ KHerz, 8Kreuz, 6Herz ]
+whyluckys bets [0,09 $]
+fesenko raises [0,20 $]
+whyluckys raises [0,51 $]
+fesenko folds
+** Summary **
+whyluckys collected [ 0,52 $ ]
+
+
+
+#Game No : 1331869826
+***** 888poker Hand History for Game 1331869826 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:55:51
+Table Vigo 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: RBraia ( 1,81 $ )
+Seat 2: nx4nx ( 1,18 $ )
+Seat 3: whyluckys ( 2,26 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,42 $ )
+Seat 9: BreatheLive ( 2,89 $ )
+Seat 10: fesenko ( 2 $ )
+nx4nx posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 10Pik ]
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko raises [0,06 $]
+RBraia calls [0,06 $]
+nx4nx folds
+whyluckys folds
+** Dealing flop ** [ 10Kreuz, QHerz, 8Kreuz ]
+fesenko bets [0,07 $]
+RBraia calls [0,07 $]
+** Dealing turn ** [ 2Herz ]
+fesenko bets [0,12 $]
+RBraia calls [0,12 $]
+** Dealing river ** [ 6Pik ]
+fesenko checks
+RBraia bets [0,34 $]
+fesenko calls [0,34 $]
+** Summary **
+RBraia shows [ KKaro, JPik ]
+fesenko shows [ KHerz, QKreuz ]
+fesenko collected [ 1,14 $ ]
+
+
+
+#Game No : 1331870022
+***** 888poker Hand History for Game 1331870022 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:57:15
+Table Vigo 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: RBraia ( 1,22 $ )
+Seat 2: nx4nx ( 1,17 $ )
+Seat 3: whyluckys ( 2,24 $ )
+Seat 4: aatu61 ( 1,40 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 6: overcranky ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,42 $ )
+Seat 9: BreatheLive ( 2,89 $ )
+Seat 10: fesenko ( 2,55 $ )
+whyluckys posts small blind [0,01 $]
+aatu61 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 10Kreuz ]
+SithNitrous folds
+overcranky folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+RBraia raises [0,06 $]
+nx4nx calls [0,06 $]
+whyluckys folds
+aatu61 folds
+** Dealing flop ** [ AHerz, 9Pik, 8Kreuz ]
+RBraia bets [0,07 $]
+nx4nx calls [0,07 $]
+** Dealing turn ** [ 3Kreuz ]
+RBraia bets [0,09 $]
+nx4nx calls [0,09 $]
+** Dealing river ** [ 4Pik ]
+RBraia bets [0,15 $]
+nx4nx folds
+** Summary **
+RBraia did not show his hand
+RBraia collected [ 0,45 $ ]
+
+
+
+#Game No : 1331870160
+***** 888poker Hand History for Game 1331870160 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:58:09
+Table Vigo 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: RBraia ( 2 $ )
+Seat 2: nx4nx ( 0,95 $ )
+Seat 3: whyluckys ( 2,23 $ )
+Seat 4: aatu61 ( 1,38 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 6: overcranky ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,42 $ )
+Seat 9: BreatheLive ( 2,89 $ )
+Seat 10: fesenko ( 2,55 $ )
+aatu61 posts small blind [0,01 $]
+SithNitrous posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, JKreuz ]
+overcranky raises [0,06 $]
+B2B_Suckouts calls [0,06 $]
+BreatheLive folds
+fesenko folds
+RBraia folds
+nx4nx folds
+whyluckys folds
+aatu61 folds
+SithNitrous folds
+** Dealing flop ** [ 10Herz, QKreuz, 2Pik ]
+overcranky bets [0,10 $]
+B2B_Suckouts folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,15 $ ]
+
+
+
+#Game No : 1331870228
+***** 888poker Hand History for Game 1331870228 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:58:42
+Table Vigo 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: RBraia ( 2 $ )
+Seat 2: nx4nx ( 0,95 $ )
+Seat 3: whyluckys ( 2,23 $ )
+Seat 4: aatu61 ( 1,37 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 6: overcranky ( 2,09 $ )
+Seat 7: B2B_Suckouts ( 2,36 $ )
+Seat 9: BreatheLive ( 2,89 $ )
+Seat 10: fesenko ( 2,55 $ )
+SithNitrous posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 8Kreuz ]
+B2B_Suckouts folds
+BreatheLive raises [0,06 $]
+fesenko folds
+RBraia calls [0,06 $]
+nx4nx folds
+whyluckys raises [0,18 $]
+aatu61 folds
+SithNitrous folds
+overcranky folds
+BreatheLive calls [0,12 $]
+RBraia calls [0,12 $]
+** Dealing flop ** [ 7Karo, 2Kreuz, 5Herz ]
+BreatheLive checks
+RBraia bets [0,37 $]
+whyluckys calls [0,37 $]
+BreatheLive folds
+** Dealing turn ** [ QKaro ]
+RBraia checks
+whyluckys bets [0,65 $]
+RBraia folds
+** Summary **
+whyluckys did not show his hand
+whyluckys collected [ 1,23 $ ]
+
+
+
+#Game No : 1331870432
+***** 888poker Hand History for Game 1331870432 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:00:06
+Table Vigo 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: RBraia ( 1,45 $ )
+Seat 2: nx4nx ( 0,95 $ )
+Seat 3: whyluckys ( 2,91 $ )
+Seat 4: aatu61 ( 1,37 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 6: overcranky ( 2,07 $ )
+Seat 7: B2B_Suckouts ( 2,36 $ )
+Seat 9: BreatheLive ( 2,71 $ )
+Seat 10: fesenko ( 2,55 $ )
+overcranky posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, KPik ]
+BreatheLive raises [0,06 $]
+fesenko calls [0,06 $]
+RBraia folds
+nx4nx calls [0,06 $]
+whyluckys folds
+aatu61 folds
+SithNitrous folds
+overcranky folds
+B2B_Suckouts raises [0,22 $]
+BreatheLive calls [0,18 $]
+fesenko folds
+nx4nx calls [0,18 $]
+** Dealing flop ** [ 8Herz, 3Karo, 4Kreuz ]
+B2B_Suckouts bets [2,12 $]
+BreatheLive calls [2,12 $]
+nx4nx folds
+** Dealing turn ** [ JKreuz ]
+** Dealing river ** [ KKaro ]
+** Summary **
+B2B_Suckouts shows [ KKreuz, KPik ]
+BreatheLive shows [ 3Kreuz, 3Pik ]
+B2B_Suckouts collected [ 4,72 $ ]
+
+
+
+#Game No : 1331870602
+***** 888poker Hand History for Game 1331870602 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:01:15
+Table Vigo 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: RBraia ( 1,45 $ )
+Seat 2: nx4nx ( 0,71 $ )
+Seat 3: whyluckys ( 2,91 $ )
+Seat 4: aatu61 ( 1,37 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 6: overcranky ( 2,06 $ )
+Seat 7: B2B_Suckouts ( 4,72 $ )
+Seat 9: BreatheLive ( 2 $ )
+Seat 10: fesenko ( 2,49 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 6Karo ]
+fesenko folds
+RBraia folds
+nx4nx calls [0,02 $]
+whyluckys folds
+aatu61 folds
+SithNitrous raises [0,08 $]
+overcranky folds
+B2B_Suckouts folds
+BreatheLive folds
+nx4nx calls [0,06 $]
+** Dealing flop ** [ 2Kreuz, 7Pik, 9Karo ]
+nx4nx checks
+SithNitrous checks
+** Dealing turn ** [ 10Karo ]
+nx4nx bets [0,06 $]
+SithNitrous folds
+** Summary **
+nx4nx did not show his hand
+nx4nx collected [ 0,18 $ ]
+
+
+
+#Game No : 1331870729
+***** 888poker Hand History for Game 1331870729 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:02:05
+Table Vigo 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,45 $ )
+Seat 2: nx4nx ( 0,81 $ )
+Seat 3: whyluckys ( 2,91 $ )
+Seat 4: aatu61 ( 1,37 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 4,71 $ )
+Seat 9: BreatheLive ( 2 $ )
+Seat 10: fesenko ( 2,49 $ )
+BreatheLive posts small blind [0,01 $]
+fesenko posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 10Karo ]
+RBraia folds
+nx4nx folds
+whyluckys folds
+aatu61 folds
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive folds
+** Summary **
+fesenko did not show his hand
+fesenko collected [ 0,03 $ ]
+
+
+
+#Game No : 1331870819
+***** 888poker Hand History for Game 1331870819 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:02:42
+Table Vigo 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,45 $ )
+Seat 2: nx4nx ( 0,81 $ )
+Seat 3: whyluckys ( 2,91 $ )
+Seat 4: aatu61 ( 1,37 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 4,71 $ )
+Seat 9: BreatheLive ( 2 $ )
+Seat 10: fesenko ( 2,50 $ )
+fesenko posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 8Pik ]
+nx4nx folds
+whyluckys folds
+aatu61 folds
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+** Summary **
+RBraia did not show his hand
+RBraia collected [ 0,03 $ ]
+
+
+
+#Game No : 1331870908
+***** 888poker Hand History for Game 1331870908 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:03:17
+Table Vigo 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: RBraia ( 1,46 $ )
+Seat 2: nx4nx ( 0,81 $ )
+Seat 3: whyluckys ( 2,91 $ )
+Seat 4: aatu61 ( 1,37 $ )
+Seat 5: SithNitrous ( 1 $ )
+Seat 7: B2B_Suckouts ( 4,71 $ )
+Seat 9: BreatheLive ( 2 $ )
+Seat 10: fesenko ( 2,49 $ )
+RBraia posts small blind [0,01 $]
+nx4nx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 6Pik ]
+whyluckys folds
+aatu61 raises [0,04 $]
+SithNitrous folds
+B2B_Suckouts folds
+BreatheLive folds
+fesenko folds
+RBraia folds
+nx4nx calls [0,02 $]
+** Dealing flop ** [ KPik, 10Pik, AKaro ]
+nx4nx checks
+aatu61 bets [0,04 $]
+nx4nx calls [0,04 $]
+** Dealing turn ** [ 9Karo ]
+nx4nx checks
+aatu61 bets [0,08 $]
+nx4nx folds
+** Summary **
+aatu61 did not show his hand
+aatu61 collected [ 0,16 $ ]
+
+
+
