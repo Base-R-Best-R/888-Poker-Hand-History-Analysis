@@ -1,0 +1,2388 @@
+#Game No : 527568159
+***** 888poker Hand History for Game 527568159 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:09:44
+Table Lleida 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: redsnake91 ( 3,14 $ )
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 4,49 $ )
+Seat 4: Despol ( 2,04 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: vavan129 ( 3,34 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,39 $ )
+Despol posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 9Herz ]
+vavan129 folds
+jabba6971 folds
+Liverpool08g folds
+redsnake91 folds
+overcranky folds
+1gadfly1 folds
+Despol folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 527568172
+***** 888poker Hand History for Game 527568172 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:10:04
+Table Lleida 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: redsnake91 ( 3,14 $ )
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 4,49 $ )
+Seat 4: Despol ( 2,03 $ )
+Seat 5: B2B_Suckouts ( 2,01 $ )
+Seat 6: vavan129 ( 3,34 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,39 $ )
+B2B_Suckouts posts small blind [0,01 $]
+vavan129 folds
+SHEL727 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 5Pik ]
+jabba6971 folds
+Liverpool08g folds
+redsnake91 folds
+overcranky raises [0,06 $]
+1gadfly1 folds
+Despol folds
+B2B_Suckouts folds
+SHEL727 folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,05 $ ]
+
+
+
+#Game No : 527568195
+***** 888poker Hand History for Game 527568195 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:10:38
+Table Lleida 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: redsnake91 ( 3,14 $ )
+Seat 2: overcranky ( 2,30 $ )
+Seat 3: 1gadfly1 ( 4,49 $ )
+Seat 4: Despol ( 2,03 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,39 $ )
+SHEL727 posts small blind [0,01 $]
+jabba6971 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 7Kreuz ]
+Liverpool08g calls [0,02 $]
+redsnake91 folds
+overcranky folds
+1gadfly1 folds
+Despol folds
+B2B_Suckouts calls [0,02 $]
+SHEL727 folds
+jabba6971 checks
+** Dealing flop ** [ KPik, 2Herz, 3Herz ]
+jabba6971 bets [0,07 $]
+Liverpool08g calls [0,07 $]
+B2B_Suckouts folds
+** Dealing turn ** [ 4Kreuz ]
+jabba6971 bets [0,10 $]
+Liverpool08g calls [0,10 $]
+** Dealing river ** [ AKaro ]
+jabba6971 checks
+Liverpool08g bets [0,27 $]
+jabba6971 folds
+** Summary **
+Liverpool08g did not show his hand
+Liverpool08g collected [ 0,39 $ ]
+
+
+
+#Game No : 527568214
+***** 888poker Hand History for Game 527568214 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:11:19
+Table Lleida 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: redsnake91 ( 3,14 $ )
+Seat 2: overcranky ( 2,30 $ )
+Seat 3: 1gadfly1 ( 4,49 $ )
+Seat 4: Despol ( 2,03 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,59 $ )
+jabba6971 posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 8Karo ]
+redsnake91 calls [0,02 $]
+overcranky folds
+1gadfly1 calls [0,02 $]
+Despol folds
+B2B_Suckouts folds
+SHEL727 folds
+jabba6971 calls [0,01 $]
+Liverpool08g checks
+** Dealing flop ** [ QHerz, 4Herz, 5Kreuz ]
+jabba6971 bets [0,08 $]
+Liverpool08g folds
+redsnake91 folds
+1gadfly1 calls [0,08 $]
+** Dealing turn ** [ 5Herz ]
+jabba6971 bets [0,12 $]
+1gadfly1 raises [0,36 $]
+jabba6971 folds
+** Summary **
+1gadfly1 collected [ 0,45 $ ]
+
+
+
+#Game No : 527568247
+***** 888poker Hand History for Game 527568247 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:12:14
+Table Lleida 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: redsnake91 ( 3,12 $ )
+Seat 2: overcranky ( 2,30 $ )
+Seat 3: 1gadfly1 ( 4,72 $ )
+Seat 4: Despol ( 2,03 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,57 $ )
+Liverpool08g posts small blind [0,01 $]
+redsnake91 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 5Herz ]
+overcranky folds
+1gadfly1 raises [0,05 $]
+Despol folds
+B2B_Suckouts folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+redsnake91 folds
+** Summary **
+1gadfly1 collected [ 0,05 $ ]
+
+
+
+#Game No : 527568255
+***** 888poker Hand History for Game 527568255 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:12:42
+Table Lleida 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: redsnake91 ( 3,10 $ )
+Seat 2: overcranky ( 2,30 $ )
+Seat 3: 1gadfly1 ( 4,75 $ )
+Seat 4: Despol ( 2,03 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,56 $ )
+redsnake91 posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 8Pik ]
+1gadfly1 folds
+Despol folds
+B2B_Suckouts folds
+SHEL727 raises [0,06 $]
+jabba6971 calls [0,06 $]
+Liverpool08g folds
+redsnake91 calls [0,05 $]
+overcranky folds
+** Dealing flop ** [ 5Karo, KKreuz, 3Herz ]
+redsnake91 bets [0,10 $]
+SHEL727 folds
+jabba6971 folds
+** Summary **
+redsnake91 collected [ 0,19 $ ]
+
+
+
+#Game No : 527568272
+***** 888poker Hand History for Game 527568272 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:13:14
+Table Lleida 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: redsnake91 ( 3,23 $ )
+Seat 2: overcranky ( 2,28 $ )
+Seat 3: 1gadfly1 ( 4,75 $ )
+Seat 4: Despol ( 2,03 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,56 $ )
+overcranky posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 8Kreuz ]
+Despol folds
+B2B_Suckouts folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+redsnake91 raises [0,04 $]
+overcranky folds
+1gadfly1 folds
+** Summary **
+redsnake91 collected [ 0,05 $ ]
+
+
+
+#Game No : 527568288
+***** 888poker Hand History for Game 527568288 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:13:39
+Table Lleida 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: redsnake91 ( 3,26 $ )
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 4,73 $ )
+Seat 4: Despol ( 2,03 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,56 $ )
+1gadfly1 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 3Herz ]
+B2B_Suckouts folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g raises [0,06 $]
+redsnake91 folds
+overcranky folds
+1gadfly1 folds
+Despol calls [0,04 $]
+** Dealing flop ** [ 6Kreuz, 8Kreuz, 2Karo ]
+Despol checks
+Liverpool08g bets [0,06 $]
+Despol folds
+** Summary **
+Liverpool08g collected [ 0,13 $ ]
+
+
+
+#Game No : 527568313
+***** 888poker Hand History for Game 527568313 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:14:19
+Table Lleida 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: redsnake91 ( 3,26 $ )
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 4,72 $ )
+Seat 4: Despol ( 2 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,63 $ )
+Despol posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 10Pik ]
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+redsnake91 folds
+overcranky folds
+1gadfly1 raises [0,05 $]
+Despol folds
+B2B_Suckouts folds
+** Summary **
+1gadfly1 collected [ 0,05 $ ]
+
+
+
+#Game No : 527568330
+***** 888poker Hand History for Game 527568330 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:14:47
+Table Lleida 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: redsnake91 ( 3,26 $ )
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 4,75 $ )
+Seat 4: Despol ( 2 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: oldbashkir ( 2 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,63 $ )
+B2B_Suckouts posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 5Karo ]
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+redsnake91 folds
+overcranky raises [0,06 $]
+1gadfly1 folds
+Despol folds
+B2B_Suckouts folds
+oldbashkir folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,05 $ ]
+
+
+
+#Game No : 527568356
+***** 888poker Hand History for Game 527568356 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:15:26
+Table Lleida 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: redsnake91 ( 3,26 $ )
+Seat 2: overcranky ( 2,30 $ )
+Seat 3: 1gadfly1 ( 4,75 $ )
+Seat 4: Despol ( 2 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: oldbashkir ( 2 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,63 $ )
+oldbashkir posts small blind [0,01 $]
+SHEL727 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 7Herz ]
+jabba6971 folds
+Liverpool08g folds
+redsnake91 folds
+overcranky folds
+1gadfly1 folds
+Despol raises [0,06 $]
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 calls [0,04 $]
+** Dealing flop ** [ 8Karo, 9Pik, 5Herz ]
+SHEL727 checks
+Despol checks
+** Dealing turn ** [ 4Karo ]
+SHEL727 checks
+Despol checks
+** Dealing river ** [ 10Herz ]
+SHEL727 bets [0,13 $]
+Despol calls [0,13 $]
+** Summary **
+SHEL727 shows [ 9Herz, 9Kreuz ]
+Despol mucks [ AKreuz, 10Karo ]
+SHEL727 collected [ 0,37 $ ]
+
+
+
+#Game No : 527568381
+***** 888poker Hand History for Game 527568381 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:16:18
+Table Lleida 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: redsnake91 ( 3,26 $ )
+Seat 2: overcranky ( 2,30 $ )
+Seat 3: 1gadfly1 ( 4,75 $ )
+Seat 4: Despol ( 2 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: oldbashkir ( 2 $ )
+Seat 7: SHEL727 ( 2,18 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,63 $ )
+SHEL727 posts small blind [0,01 $]
+jabba6971 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 9Herz ]
+Liverpool08g folds
+redsnake91 calls [0,02 $]
+overcranky folds
+1gadfly1 raises [0,09 $]
+Despol folds
+B2B_Suckouts folds
+oldbashkir calls [0,09 $]
+SHEL727 folds
+jabba6971 folds
+redsnake91 calls [0,07 $]
+** Dealing flop ** [ 10Karo, AKaro, 9Kreuz ]
+redsnake91 bets [0,02 $]
+1gadfly1 calls [0,02 $]
+oldbashkir folds
+** Dealing turn ** [ 8Kreuz ]
+redsnake91 bets [0,17 $]
+1gadfly1 calls [0,17 $]
+** Dealing river ** [ JKaro ]
+redsnake91 checks
+1gadfly1 bets [0,34 $]
+redsnake91 raises [0,68 $]
+1gadfly1 calls [0,34 $]
+** Summary **
+redsnake91 shows [ 6Herz, AHerz ]
+1gadfly1 shows [ JHerz, JKreuz ]
+1gadfly1 collected [ 1,92 $ ]
+
+
+
+#Game No : 527568413
+***** 888poker Hand History for Game 527568413 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:17:19
+Table Lleida 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: redsnake91 ( 2,30 $ )
+Seat 2: overcranky ( 2,30 $ )
+Seat 3: 1gadfly1 ( 5,71 $ )
+Seat 4: Despol ( 2 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: oldbashkir ( 2 $ )
+Seat 7: SHEL727 ( 2,17 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,63 $ )
+jabba6971 posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 7Kreuz ]
+redsnake91 calls [0,02 $]
+overcranky folds
+1gadfly1 folds
+Despol folds
+B2B_Suckouts folds
+oldbashkir raises [0,08 $]
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+redsnake91 calls [0,06 $]
+** Dealing flop ** [ 9Herz, 2Kreuz, AKaro ]
+redsnake91 bets [0,02 $]
+oldbashkir calls [0,02 $]
+** Dealing turn ** [ 7Pik ]
+redsnake91 bets [0,11 $]
+oldbashkir calls [0,11 $]
+** Dealing river ** [ 6Kreuz ]
+redsnake91 bets [0,22 $]
+oldbashkir calls [0,22 $]
+** Summary **
+redsnake91 shows [ 5Herz, AHerz ]
+oldbashkir mucks [ JKaro, JKreuz ]
+redsnake91 collected [ 0,84 $ ]
+
+
+
+#Game No : 527568440
+***** 888poker Hand History for Game 527568440 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:18:04
+Table Lleida 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: redsnake91 ( 2,71 $ )
+Seat 2: overcranky ( 2,30 $ )
+Seat 3: 1gadfly1 ( 5,71 $ )
+Seat 4: Despol ( 2 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: oldbashkir ( 2 $ )
+Seat 7: SHEL727 ( 2,17 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,61 $ )
+Liverpool08g posts small blind [0,01 $]
+redsnake91 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 8Pik ]
+overcranky folds
+1gadfly1 folds
+Despol raises [0,06 $]
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+redsnake91 calls [0,04 $]
+** Dealing flop ** [ KPik, 6Herz, 7Kreuz ]
+redsnake91 checks
+Despol bets [0,09 $]
+redsnake91 folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,13 $ ]
+
+
+
+#Game No : 527568461
+***** 888poker Hand History for Game 527568461 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:18:35
+Table Lleida 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: redsnake91 ( 2,65 $ )
+Seat 2: overcranky ( 2,30 $ )
+Seat 3: 1gadfly1 ( 5,71 $ )
+Seat 4: Despol ( 2,07 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: oldbashkir ( 2 $ )
+Seat 7: SHEL727 ( 2,17 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,60 $ )
+redsnake91 posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, AHerz ]
+1gadfly1 folds
+Despol raises [0,06 $]
+B2B_Suckouts folds
+oldbashkir raises [0,18 $]
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+redsnake91 folds
+overcranky folds
+Despol calls [0,12 $]
+** Dealing flop ** [ 4Karo, APik, 2Pik ]
+Despol checks
+oldbashkir checks
+** Dealing turn ** [ 2Karo ]
+Despol checks
+oldbashkir checks
+** Dealing river ** [ QKaro ]
+Despol checks
+oldbashkir checks
+** Summary **
+Despol shows [ 9Herz, 10Herz ]
+oldbashkir shows [ KKaro, QPik ]
+oldbashkir collected [ 0,37 $ ]
+
+
+
+#Game No : 527568508
+***** 888poker Hand History for Game 527568508 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:19:40
+Table Lleida 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: redsnake91 ( 2,64 $ )
+Seat 2: overcranky ( 2,28 $ )
+Seat 3: 1gadfly1 ( 5,71 $ )
+Seat 4: Despol ( 2 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: oldbashkir ( 2,19 $ )
+Seat 7: SHEL727 ( 2,17 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,60 $ )
+overcranky posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, AKreuz ]
+Despol folds
+B2B_Suckouts raises [0,06 $]
+oldbashkir folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+redsnake91 calls [0,06 $]
+overcranky folds
+1gadfly1 folds
+** Dealing flop ** [ QPik, AHerz, 3Herz ]
+B2B_Suckouts checks
+redsnake91 bets [0,07 $]
+B2B_Suckouts raises [0,14 $]
+redsnake91 calls [0,07 $]
+** Dealing turn ** [ 8Kreuz ]
+B2B_Suckouts bets [0,14 $]
+redsnake91 calls [0,14 $]
+** Dealing river ** [ 4Herz ]
+B2B_Suckouts bets [0,18 $]
+redsnake91 calls [0,18 $]
+** Summary **
+B2B_Suckouts shows [ JPik, AKreuz ]
+redsnake91 mucks [ AKaro, 5Herz ]
+B2B_Suckouts collected [ 1,01 $ ]
+
+
+
+#Game No : 527568562
+***** 888poker Hand History for Game 527568562 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:21:02
+Table Lleida 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: redsnake91 ( 2,12 $ )
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 5,69 $ )
+Seat 4: Despol ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,49 $ )
+Seat 6: oldbashkir ( 2,19 $ )
+Seat 7: SHEL727 ( 2,17 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,60 $ )
+1gadfly1 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, APik ]
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+redsnake91 folds
+overcranky folds
+1gadfly1 folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,03 $ ]
+
+
+
+#Game No : 527568587
+***** 888poker Hand History for Game 527568587 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:21:43
+Table Lleida 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 4: Despol ( 2,01 $ )
+Seat 5: B2B_Suckouts ( 2,49 $ )
+Seat 6: oldbashkir ( 2,19 $ )
+Seat 7: SHEL727 ( 2,17 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,60 $ )
+Despol posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, KHerz ]
+oldbashkir folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g raises [0,05 $]
+overcranky folds
+1gadfly1 folds
+Despol folds
+B2B_Suckouts folds
+** Summary **
+Liverpool08g collected [ 0,05 $ ]
+
+
+
+#Game No : 527568628
+***** 888poker Hand History for Game 527568628 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:22:34
+Table Lleida 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 4: Despol ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,47 $ )
+Seat 6: oldbashkir ( 2,19 $ )
+Seat 7: SHEL727 ( 2,17 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,63 $ )
+B2B_Suckouts posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 4Kreuz ]
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+overcranky folds
+1gadfly1 folds
+Despol raises [0,06 $]
+B2B_Suckouts folds
+oldbashkir folds
+** Summary **
+Despol collected [ 0,05 $ ]
+
+
+
+#Game No : 527568656
+***** 888poker Hand History for Game 527568656 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:23:10
+Table Lleida 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 4: Despol ( 2,03 $ )
+Seat 5: B2B_Suckouts ( 2,46 $ )
+Seat 6: oldbashkir ( 2,17 $ )
+Seat 7: SHEL727 ( 2,17 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,63 $ )
+oldbashkir posts small blind [0,01 $]
+SHEL727 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 7Karo ]
+jabba6971 folds
+Liverpool08g folds
+overcranky folds
+1gadfly1 folds
+Despol folds
+B2B_Suckouts folds
+oldbashkir folds
+** Summary **
+SHEL727 collected [ 0,03 $ ]
+
+
+
+#Game No : 527568672
+***** 888poker Hand History for Game 527568672 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:23:39
+Table Lleida 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 5: B2B_Suckouts ( 2,46 $ )
+Seat 6: oldbashkir ( 2,16 $ )
+Seat 7: SHEL727 ( 2,18 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 1,63 $ )
+SHEL727 posts small blind [0,01 $]
+jabba6971 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 5Kreuz ]
+Liverpool08g raises [0,05 $]
+overcranky folds
+1gadfly1 folds
+B2B_Suckouts calls [0,05 $]
+oldbashkir calls [0,05 $]
+SHEL727 folds
+jabba6971 calls [0,03 $]
+** Dealing flop ** [ 10Herz, 7Herz, 4Kreuz ]
+jabba6971 bets [0,21 $]
+Liverpool08g calls [0,21 $]
+B2B_Suckouts folds
+oldbashkir folds
+** Dealing turn ** [ 6Kreuz ]
+jabba6971 bets [0,31 $]
+Liverpool08g calls [0,31 $]
+** Dealing river ** [ 2Herz ]
+jabba6971 bets [0,62 $]
+Liverpool08g raises [1,06 $]
+jabba6971 calls [0,44 $]
+** Summary **
+jabba6971 shows [ JHerz, 10Kreuz ]
+Liverpool08g shows [ AHerz, 3Herz ]
+Liverpool08g collected [ 3,16 $ ]
+
+
+
+#Game No : 527568701
+***** 888poker Hand History for Game 527568701 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:24:36
+Table Lleida 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 5: B2B_Suckouts ( 2,41 $ )
+Seat 6: oldbashkir ( 2,11 $ )
+Seat 7: SHEL727 ( 2,17 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 3,16 $ )
+jabba6971 posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, KPik ]
+overcranky folds
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 raises [0,08 $]
+jabba6971 folds
+Liverpool08g folds
+** Summary **
+SHEL727 collected [ 0,05 $ ]
+
+
+
+#Game No : 527568713
+***** 888poker Hand History for Game 527568713 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:24:53
+Table Lleida 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 2 $ )
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 5: B2B_Suckouts ( 2,41 $ )
+Seat 6: oldbashkir ( 2,11 $ )
+Seat 7: SHEL727 ( 2,20 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 3,14 $ )
+Liverpool08g posts small blind [0,01 $]
+Yungmuney posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, QPik ]
+overcranky folds
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+** Summary **
+Yungmuney collected [ 0,03 $ ]
+
+
+
+#Game No : 527568722
+***** 888poker Hand History for Game 527568722 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:25:06
+Table Lleida 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 2,01 $ )
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 5: B2B_Suckouts ( 2,41 $ )
+Seat 6: oldbashkir ( 2,11 $ )
+Seat 7: SHEL727 ( 2,20 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 3,13 $ )
+Yungmuney posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 6Kreuz ]
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+Yungmuney folds
+** Summary **
+overcranky collected [ 0,03 $ ]
+
+
+
+#Game No : 527568733
+***** 888poker Hand History for Game 527568733 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:25:25
+Table Lleida 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 2 $ )
+Seat 2: overcranky ( 2,28 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 5: B2B_Suckouts ( 2,41 $ )
+Seat 6: oldbashkir ( 2,11 $ )
+Seat 7: SHEL727 ( 2,20 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 3,13 $ )
+overcranky posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 8Karo ]
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+Yungmuney folds
+overcranky folds
+** Summary **
+1gadfly1 collected [ 0,03 $ ]
+
+
+
+#Game No : 527568746
+***** 888poker Hand History for Game 527568746 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:25:45
+Table Lleida 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 2 $ )
+Seat 2: overcranky ( 2,27 $ )
+Seat 3: 1gadfly1 ( 5,69 $ )
+Seat 5: B2B_Suckouts ( 2,41 $ )
+Seat 6: oldbashkir ( 2,11 $ )
+Seat 7: SHEL727 ( 2,20 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 3,13 $ )
+1gadfly1 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 2Kreuz ]
+oldbashkir raises [0,06 $]
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+Yungmuney calls [0,06 $]
+overcranky raises [0,24 $]
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir raises [0,85 $]
+Yungmuney folds
+overcranky raises [2,03 $]
+oldbashkir calls [1,20 $]
+** Dealing flop ** [ QKaro, 3Kreuz, 2Pik ]
+** Dealing turn ** [ 4Pik ]
+** Dealing river ** [ 6Pik ]
+** Summary **
+overcranky shows [ JPik, JKreuz ]
+oldbashkir shows [ KKaro, AKaro ]
+overcranky collected [ 4,05 $ ]
+
+
+
+#Game No : 527568791
+***** 888poker Hand History for Game 527568791 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:26:51
+Table Lleida 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,94 $ )
+Seat 2: overcranky ( 4,21 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 5: B2B_Suckouts ( 2,39 $ )
+Seat 6: oldbashkir ( 2 $ )
+Seat 7: SHEL727 ( 2,20 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 3,13 $ )
+B2B_Suckouts posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 8Karo ]
+SHEL727 folds
+jabba6971 folds
+Liverpool08g raises [0,08 $]
+Yungmuney folds
+overcranky folds
+1gadfly1 folds
+B2B_Suckouts calls [0,07 $]
+oldbashkir folds
+** Dealing flop ** [ 8Kreuz, 4Herz, 2Herz ]
+B2B_Suckouts bets [0,05 $]
+Liverpool08g calls [0,05 $]
+** Dealing turn ** [ 2Kreuz ]
+B2B_Suckouts bets [0,09 $]
+Liverpool08g calls [0,09 $]
+** Dealing river ** [ 4Karo ]
+B2B_Suckouts bets [0,23 $]
+Liverpool08g calls [0,23 $]
+** Summary **
+B2B_Suckouts shows [ 8Herz, 8Karo ]
+Liverpool08g mucks [ AKreuz, APik ]
+B2B_Suckouts collected [ 0,87 $ ]
+
+
+
+#Game No : 527568824
+***** 888poker Hand History for Game 527568824 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:27:44
+Table Lleida 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,94 $ )
+Seat 2: overcranky ( 4,21 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 5: B2B_Suckouts ( 2,81 $ )
+Seat 6: oldbashkir ( 2 $ )
+Seat 7: SHEL727 ( 2,20 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 2,68 $ )
+oldbashkir posts small blind [0,01 $]
+SHEL727 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 10Herz ]
+jabba6971 folds
+Liverpool08g folds
+Yungmuney folds
+overcranky folds
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir folds
+** Summary **
+SHEL727 collected [ 0,03 $ ]
+
+
+
+#Game No : 527568835
+***** 888poker Hand History for Game 527568835 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:28:04
+Table Lleida 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,94 $ )
+Seat 2: overcranky ( 4,21 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 5: B2B_Suckouts ( 2,81 $ )
+Seat 6: oldbashkir ( 2 $ )
+Seat 7: SHEL727 ( 2,21 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 2,68 $ )
+SHEL727 posts small blind [0,01 $]
+jabba6971 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 4Kreuz ]
+Liverpool08g calls [0,02 $]
+Yungmuney folds
+overcranky folds
+1gadfly1 folds
+B2B_Suckouts calls [0,02 $]
+oldbashkir raises [0,10 $]
+SHEL727 folds
+jabba6971 folds
+Liverpool08g calls [0,08 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 10Karo, KKaro, KKreuz ]
+Liverpool08g checks
+oldbashkir checks
+** Dealing turn ** [ 4Herz ]
+Liverpool08g bets [0,08 $]
+oldbashkir calls [0,08 $]
+** Dealing river ** [ 6Pik ]
+Liverpool08g checks
+oldbashkir checks
+** Summary **
+Liverpool08g shows [ 7Karo, 7Herz ]
+oldbashkir shows [ KPik, 2Karo ]
+oldbashkir collected [ 0,39 $ ]
+
+
+
+#Game No : 527568873
+***** 888poker Hand History for Game 527568873 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:29:00
+Table Lleida 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,94 $ )
+Seat 2: overcranky ( 4,21 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 5: B2B_Suckouts ( 2,79 $ )
+Seat 6: oldbashkir ( 2,21 $ )
+Seat 7: SHEL727 ( 2,20 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 2,50 $ )
+jabba6971 posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 8Pik ]
+Yungmuney raises [0,08 $]
+overcranky folds
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir raises [0,24 $]
+SHEL727 calls [0,24 $]
+jabba6971 folds
+Liverpool08g folds
+Yungmuney folds
+** Dealing flop ** [ AHerz, 3Karo, 8Karo ]
+oldbashkir bets [0,59 $]
+SHEL727 folds
+** Summary **
+oldbashkir collected [ 0,56 $ ]
+
+
+
+#Game No : 527568902
+***** 888poker Hand History for Game 527568902 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:29:47
+Table Lleida 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Yungmuney ( 1,86 $ )
+Seat 3: 1gadfly1 ( 5,68 $ )
+Seat 5: B2B_Suckouts ( 2,79 $ )
+Seat 6: oldbashkir ( 2,53 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 2,48 $ )
+Liverpool08g posts small blind [0,01 $]
+Yungmuney posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 8Pik ]
+1gadfly1 raises [0,05 $]
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+Yungmuney raises [0,13 $]
+1gadfly1 calls [0,10 $]
+** Dealing flop ** [ 6Pik, 9Pik, 3Kreuz ]
+Yungmuney bets [0,10 $]
+1gadfly1 raises [0,35 $]
+Yungmuney folds
+** Summary **
+1gadfly1 collected [ 0,48 $ ]
+
+
+
+#Game No : 527568923
+***** 888poker Hand History for Game 527568923 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:30:25
+Table Lleida 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Yungmuney ( 1,61 $ )
+Seat 3: 1gadfly1 ( 5,91 $ )
+Seat 5: B2B_Suckouts ( 2,79 $ )
+Seat 6: oldbashkir ( 2,53 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 2,47 $ )
+Yungmuney posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, AHerz ]
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g raises [0,05 $]
+Yungmuney folds
+1gadfly1 calls [0,03 $]
+** Dealing flop ** [ KHerz, 5Herz, 2Herz ]
+1gadfly1 checks
+Liverpool08g checks
+** Dealing turn ** [ 4Karo ]
+1gadfly1 bets [0,05 $]
+Liverpool08g folds
+** Summary **
+1gadfly1 collected [ 0,11 $ ]
+
+
+
+#Game No : 527568935
+***** 888poker Hand History for Game 527568935 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:31:00
+Table Lleida 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 3: 1gadfly1 ( 5,97 $ )
+Seat 4: kuper1712 ( 0,80 $ )
+Seat 5: B2B_Suckouts ( 2,79 $ )
+Seat 6: oldbashkir ( 2,53 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 2,42 $ )
+1gadfly1 posts small blind [0,01 $]
+kuper1712 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 7Herz ]
+B2B_Suckouts folds
+oldbashkir raises [0,06 $]
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+Yungmuney folds
+1gadfly1 folds
+kuper1712 calls [0,04 $]
+** Dealing flop ** [ 10Herz, 2Karo, 9Karo ]
+kuper1712 checks
+oldbashkir checks
+** Dealing turn ** [ 3Pik ]
+kuper1712 bets [0,06 $]
+oldbashkir raises [0,22 $]
+kuper1712 folds
+** Summary **
+oldbashkir collected [ 0,24 $ ]
+
+
+
+#Game No : 527568957
+***** 888poker Hand History for Game 527568957 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:31:52
+Table Lleida 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 3: 1gadfly1 ( 5,96 $ )
+Seat 4: kuper1712 ( 0,68 $ )
+Seat 5: B2B_Suckouts ( 2,79 $ )
+Seat 6: oldbashkir ( 2,65 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 2,42 $ )
+kuper1712 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 4Kreuz ]
+oldbashkir folds
+SHEL727 folds
+jabba6971 folds
+Liverpool08g raises [0,05 $]
+Yungmuney folds
+1gadfly1 folds
+kuper1712 folds
+B2B_Suckouts folds
+** Summary **
+Liverpool08g collected [ 0,05 $ ]
+
+
+
+#Game No : 527568969
+***** 888poker Hand History for Game 527568969 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:32:12
+Table Lleida 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 3: 1gadfly1 ( 5,96 $ )
+Seat 4: kuper1712 ( 0,67 $ )
+Seat 5: B2B_Suckouts ( 2,77 $ )
+Seat 6: oldbashkir ( 2,65 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 2,45 $ )
+B2B_Suckouts posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 10Karo ]
+SHEL727 folds
+jabba6971 folds
+Liverpool08g folds
+Yungmuney folds
+1gadfly1 folds
+kuper1712 raises [0,06 $]
+B2B_Suckouts calls [0,05 $]
+oldbashkir folds
+** Dealing flop ** [ 3Pik, 4Kreuz, 10Pik ]
+B2B_Suckouts bets [0,07 $]
+kuper1712 calls [0,07 $]
+** Dealing turn ** [ 3Karo ]
+B2B_Suckouts bets [0,18 $]
+kuper1712 folds
+** Summary **
+B2B_Suckouts collected [ 0,27 $ ]
+
+
+
+#Game No : 527569004
+***** 888poker Hand History for Game 527569004 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:33:23
+Table Lleida 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 3: 1gadfly1 ( 5,96 $ )
+Seat 4: kuper1712 ( 0,54 $ )
+Seat 5: B2B_Suckouts ( 2,91 $ )
+Seat 6: oldbashkir ( 2,63 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: jabba6971 ( 2 $ )
+Seat 10: Liverpool08g ( 2,45 $ )
+oldbashkir posts small blind [0,01 $]
+SHEL727 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, QPik ]
+jabba6971 folds
+Liverpool08g folds
+Yungmuney folds
+1gadfly1 folds
+kuper1712 raises [0,04 $]
+B2B_Suckouts calls [0,04 $]
+oldbashkir folds
+SHEL727 folds
+** Dealing flop ** [ 4Herz, JKaro, KHerz ]
+kuper1712 checks
+B2B_Suckouts bets [0,03 $]
+kuper1712 calls [0,03 $]
+** Dealing turn ** [ APik ]
+kuper1712 checks
+B2B_Suckouts bets [0,08 $]
+kuper1712 calls [0,08 $]
+** Dealing river ** [ 2Herz ]
+kuper1712 checks
+B2B_Suckouts bets [0,28 $]
+kuper1712 folds
+** Summary **
+B2B_Suckouts collected [ 0,31 $ ]
+
+
+
+#Game No : 527569040
+***** 888poker Hand History for Game 527569040 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:34:28
+Table Lleida 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 3: 1gadfly1 ( 5,96 $ )
+Seat 4: kuper1712 ( 0,39 $ )
+Seat 5: B2B_Suckouts ( 3,07 $ )
+Seat 6: oldbashkir ( 2,62 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 2 $ )
+Seat 10: Liverpool08g ( 2,45 $ )
+SHEL727 posts small blind [0,01 $]
+arkasha510 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 6Herz ]
+Liverpool08g folds
+Yungmuney folds
+1gadfly1 folds
+kuper1712 raises [0,06 $]
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 calls [0,05 $]
+arkasha510 folds
+** Dealing flop ** [ AKaro, 3Pik, JKaro ]
+SHEL727 checks
+kuper1712 bets [0,33 $]
+SHEL727 folds
+** Summary **
+kuper1712 collected [ 0,14 $ ]
+
+
+
+#Game No : 527569072
+***** 888poker Hand History for Game 527569072 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:35:09
+Table Lleida 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 3: 1gadfly1 ( 5,96 $ )
+Seat 4: kuper1712 ( 0,47 $ )
+Seat 5: B2B_Suckouts ( 3,07 $ )
+Seat 6: oldbashkir ( 2,62 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,98 $ )
+Seat 10: Liverpool08g ( 2,45 $ )
+arkasha510 posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 2Herz ]
+Yungmuney folds
+1gadfly1 folds
+kuper1712 raises [0,06 $]
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 calls [0,06 $]
+arkasha510 calls [0,05 $]
+Liverpool08g folds
+** Dealing flop ** [ 7Kreuz, JPik, 10Pik ]
+arkasha510 checks
+kuper1712 bets [0,41 $]
+SHEL727 folds
+arkasha510 folds
+** Summary **
+kuper1712 collected [ 0,19 $ ]
+
+
+
+#Game No : 527569098
+***** 888poker Hand History for Game 527569098 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:35:46
+Table Lleida 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 3: 1gadfly1 ( 5,96 $ )
+Seat 4: kuper1712 ( 0,60 $ )
+Seat 5: B2B_Suckouts ( 3,07 $ )
+Seat 6: oldbashkir ( 2,62 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,92 $ )
+Seat 10: Liverpool08g ( 2,43 $ )
+Liverpool08g posts small blind [0,01 $]
+Yungmuney posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 4Pik ]
+1gadfly1 folds
+kuper1712 folds
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+arkasha510 folds
+Liverpool08g folds
+** Summary **
+Yungmuney collected [ 0,03 $ ]
+
+
+
+#Game No : 527569107
+***** 888poker Hand History for Game 527569107 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:36:00
+Table Lleida 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,61 $ )
+Seat 2: overcranky ( 4,21 $ )
+Seat 3: 1gadfly1 ( 5,96 $ )
+Seat 4: kuper1712 ( 0,60 $ )
+Seat 5: B2B_Suckouts ( 3,07 $ )
+Seat 6: oldbashkir ( 2,62 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,92 $ )
+Seat 10: Liverpool08g ( 2,42 $ )
+Yungmuney posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 8Pik ]
+1gadfly1 folds
+kuper1712 folds
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+arkasha510 folds
+Liverpool08g folds
+Yungmuney folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,03 $ ]
+
+
+
+#Game No : 527569119
+***** 888poker Hand History for Game 527569119 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:36:22
+Table Lleida 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 2: overcranky ( 4,22 $ )
+Seat 3: 1gadfly1 ( 5,96 $ )
+Seat 4: kuper1712 ( 0,60 $ )
+Seat 5: B2B_Suckouts ( 3,07 $ )
+Seat 6: oldbashkir ( 2,62 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,92 $ )
+Seat 10: Liverpool08g ( 2,42 $ )
+overcranky posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 8Herz ]
+kuper1712 folds
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+arkasha510 folds
+Liverpool08g raises [0,05 $]
+Yungmuney folds
+overcranky calls [0,04 $]
+1gadfly1 folds
+** Dealing flop ** [ 9Pik, 10Kreuz, JPik ]
+overcranky bets [0,08 $]
+Liverpool08g folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,12 $ ]
+
+
+
+#Game No : 527569137
+***** 888poker Hand History for Game 527569137 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:36:52
+Table Lleida 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 2: overcranky ( 4,29 $ )
+Seat 3: 1gadfly1 ( 5,94 $ )
+Seat 4: kuper1712 ( 0,60 $ )
+Seat 5: B2B_Suckouts ( 3,07 $ )
+Seat 6: oldbashkir ( 2,62 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,92 $ )
+Seat 10: Liverpool08g ( 2,37 $ )
+1gadfly1 posts small blind [0,01 $]
+kuper1712 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 4Pik ]
+B2B_Suckouts folds
+oldbashkir raises [0,06 $]
+SHEL727 calls [0,06 $]
+arkasha510 folds
+Liverpool08g folds
+Yungmuney folds
+overcranky raises [0,24 $]
+1gadfly1 calls [0,23 $]
+kuper1712 folds
+oldbashkir calls [0,18 $]
+SHEL727 folds
+** Dealing flop ** [ 6Herz, 2Karo, 9Herz ]
+1gadfly1 checks
+oldbashkir checks
+overcranky bets [0,38 $]
+1gadfly1 raises [1,94 $]
+oldbashkir folds
+overcranky folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ 1,47 $ ]
+
+
+
+#Game No : 527569175
+***** 888poker Hand History for Game 527569175 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:37:49
+Table Lleida 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 2: overcranky ( 3,67 $ )
+Seat 3: 1gadfly1 ( 6,79 $ )
+Seat 4: kuper1712 ( 0,58 $ )
+Seat 5: B2B_Suckouts ( 3,07 $ )
+Seat 6: oldbashkir ( 2,38 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,92 $ )
+Seat 10: Liverpool08g ( 2,37 $ )
+kuper1712 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 5Kreuz ]
+oldbashkir folds
+SHEL727 folds
+arkasha510 folds
+Liverpool08g folds
+Yungmuney folds
+overcranky folds
+1gadfly1 folds
+kuper1712 raises [0,03 $]
+B2B_Suckouts folds
+** Summary **
+kuper1712 did not show his hand
+kuper1712 collected [ 0,04 $ ]
+
+
+
+#Game No : 527569203
+***** 888poker Hand History for Game 527569203 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:38:26
+Table Lleida 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 2: overcranky ( 3,67 $ )
+Seat 3: 1gadfly1 ( 6,79 $ )
+Seat 4: kuper1712 ( 0,60 $ )
+Seat 5: B2B_Suckouts ( 3,05 $ )
+Seat 6: oldbashkir ( 2,38 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,92 $ )
+Seat 10: Liverpool08g ( 2,37 $ )
+B2B_Suckouts posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, JPik ]
+SHEL727 folds
+arkasha510 folds
+Liverpool08g folds
+Yungmuney folds
+overcranky raises [0,06 $]
+1gadfly1 folds
+kuper1712 calls [0,06 $]
+B2B_Suckouts folds
+oldbashkir folds
+** Dealing flop ** [ 5Herz, AHerz, KHerz ]
+overcranky bets [0,08 $]
+kuper1712 calls [0,08 $]
+** Dealing turn ** [ 7Kreuz ]
+overcranky bets [3,53 $]
+kuper1712 folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,30 $ ]
+
+
+
+#Game No : 527569229
+***** 888poker Hand History for Game 527569229 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:39:06
+Table Lleida 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 2: overcranky ( 3,83 $ )
+Seat 3: 1gadfly1 ( 6,79 $ )
+Seat 4: kuper1712 ( 0,46 $ )
+Seat 5: B2B_Suckouts ( 3,04 $ )
+Seat 6: oldbashkir ( 2,36 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,92 $ )
+Seat 10: Liverpool08g ( 2,37 $ )
+oldbashkir posts small blind [0,01 $]
+SHEL727 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 5Karo ]
+arkasha510 folds
+Liverpool08g folds
+Yungmuney folds
+overcranky folds
+1gadfly1 raises [0,05 $]
+kuper1712 folds
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ 0,05 $ ]
+
+
+
+#Game No : 527569281
+***** 888poker Hand History for Game 527569281 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:40:16
+Table Lleida 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 2: overcranky ( 3,83 $ )
+Seat 3: 1gadfly1 ( 6,82 $ )
+Seat 5: B2B_Suckouts ( 3,04 $ )
+Seat 6: oldbashkir ( 2,35 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,92 $ )
+Seat 10: Liverpool08g ( 2,37 $ )
+SHEL727 posts small blind [0,01 $]
+arkasha510 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 5Karo ]
+Liverpool08g calls [0,02 $]
+Yungmuney folds
+overcranky raises [0,10 $]
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+arkasha510 folds
+Liverpool08g calls [0,08 $]
+** Dealing flop ** [ 6Pik, 2Karo, JHerz ]
+Liverpool08g checks
+overcranky bets [0,14 $]
+Liverpool08g folds
+** Summary **
+overcranky collected [ 0,22 $ ]
+
+
+
+#Game No : 527569298
+***** 888poker Hand History for Game 527569298 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:40:46
+Table Lleida 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 2: overcranky ( 3,95 $ )
+Seat 3: 1gadfly1 ( 6,82 $ )
+Seat 4: kuper1712 ( 0,46 $ )
+Seat 5: B2B_Suckouts ( 3,04 $ )
+Seat 6: oldbashkir ( 2,35 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,90 $ )
+Seat 10: Liverpool08g ( 2,27 $ )
+arkasha510 posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, JKaro ]
+Yungmuney folds
+overcranky raises [0,06 $]
+1gadfly1 folds
+kuper1712 folds
+B2B_Suckouts calls [0,06 $]
+oldbashkir folds
+SHEL727 folds
+arkasha510 folds
+Liverpool08g folds
+** Dealing flop ** [ 4Pik, 7Kreuz, 3Kreuz ]
+overcranky bets [0,09 $]
+B2B_Suckouts folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,15 $ ]
+
+
+
+#Game No : 527569316
+***** 888poker Hand History for Game 527569316 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:41:22
+Table Lleida 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,60 $ )
+Seat 2: overcranky ( 4,04 $ )
+Seat 3: 1gadfly1 ( 6,82 $ )
+Seat 4: kuper1712 ( 0,46 $ )
+Seat 5: B2B_Suckouts ( 2,98 $ )
+Seat 6: oldbashkir ( 2,35 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,89 $ )
+Seat 10: Liverpool08g ( 2,25 $ )
+Liverpool08g posts small blind [0,01 $]
+Yungmuney posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 7Kreuz ]
+overcranky folds
+1gadfly1 folds
+kuper1712 folds
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+arkasha510 folds
+Liverpool08g raises [0,07 $]
+Yungmuney calls [0,06 $]
+** Dealing flop ** [ JKreuz, QPik, AKaro ]
+Liverpool08g checks
+Yungmuney bets [0,08 $]
+Liverpool08g calls [0,08 $]
+** Dealing turn ** [ 4Kreuz ]
+Liverpool08g checks
+Yungmuney bets [0,16 $]
+Liverpool08g folds
+** Summary **
+Yungmuney did not show his hand
+Yungmuney collected [ 0,30 $ ]
+
+
+
+#Game No : 527569341
+***** 888poker Hand History for Game 527569341 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:41:57
+Table Lleida 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,74 $ )
+Seat 2: overcranky ( 4,04 $ )
+Seat 3: 1gadfly1 ( 6,82 $ )
+Seat 4: kuper1712 ( 0,46 $ )
+Seat 5: B2B_Suckouts ( 2,98 $ )
+Seat 6: oldbashkir ( 2,35 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,89 $ )
+Seat 10: Liverpool08g ( 2,09 $ )
+Yungmuney posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, QKaro ]
+1gadfly1 raises [0,05 $]
+kuper1712 calls [0,05 $]
+B2B_Suckouts folds
+oldbashkir folds
+SHEL727 folds
+arkasha510 folds
+Liverpool08g calls [0,05 $]
+Yungmuney folds
+overcranky calls [0,03 $]
+** Dealing flop ** [ AKaro, 2Pik, JHerz ]
+overcranky checks
+1gadfly1 checks
+kuper1712 checks
+Liverpool08g checks
+** Dealing turn ** [ 8Pik ]
+overcranky bets [0,14 $]
+1gadfly1 folds
+kuper1712 folds
+Liverpool08g folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,20 $ ]
+
+
+
+#Game No : 527569362
+***** 888poker Hand History for Game 527569362 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:42:38
+Table Lleida 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,73 $ )
+Seat 2: overcranky ( 4,19 $ )
+Seat 3: 1gadfly1 ( 6,77 $ )
+Seat 4: kuper1712 ( 0,41 $ )
+Seat 5: B2B_Suckouts ( 2,98 $ )
+Seat 6: oldbashkir ( 2,35 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,89 $ )
+Seat 10: Liverpool08g ( 2,04 $ )
+overcranky posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 10Kreuz ]
+kuper1712 raises [0,04 $]
+B2B_Suckouts calls [0,04 $]
+oldbashkir folds
+SHEL727 folds
+arkasha510 folds
+Liverpool08g calls [0,04 $]
+Yungmuney folds
+overcranky calls [0,03 $]
+1gadfly1 folds
+** Dealing flop ** [ AKreuz, JHerz, QKaro ]
+overcranky checks
+kuper1712 bets [0,10 $]
+B2B_Suckouts calls [0,10 $]
+Liverpool08g calls [0,10 $]
+overcranky folds
+** Dealing turn ** [ 8Kreuz ]
+kuper1712 bets [0,27 $]
+B2B_Suckouts calls [0,27 $]
+Liverpool08g folds
+** Dealing river ** [ 6Kreuz ]
+** Summary **
+kuper1712 shows [ QHerz, 2Herz ]
+B2B_Suckouts shows [ AKaro, 10Kreuz ]
+B2B_Suckouts collected [ 0,96 $ ]
+
+
+
+#Game No : 527569397
+***** 888poker Hand History for Game 527569397 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:43:36
+Table Lleida 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,73 $ )
+Seat 2: overcranky ( 4,15 $ )
+Seat 3: 1gadfly1 ( 6,75 $ )
+Seat 5: B2B_Suckouts ( 3,53 $ )
+Seat 6: oldbashkir ( 2,35 $ )
+Seat 7: SHEL727 ( 2 $ )
+Seat 9: arkasha510 ( 1,89 $ )
+Seat 10: Liverpool08g ( 1,90 $ )
+1gadfly1 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, JPik ]
+oldbashkir folds
+SHEL727 folds
+arkasha510 folds
+Liverpool08g raises [0,08 $]
+Yungmuney folds
+overcranky folds
+1gadfly1 folds
+B2B_Suckouts folds
+** Summary **
+Liverpool08g collected [ 0,05 $ ]
+
+
+
+#Game No : 527569420
+***** 888poker Hand History for Game 527569420 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:44:11
+Table Lleida 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,73 $ )
+Seat 2: overcranky ( 4,15 $ )
+Seat 3: 1gadfly1 ( 6,74 $ )
+Seat 5: B2B_Suckouts ( 3,51 $ )
+Seat 6: oldbashkir ( 2,35 $ )
+Seat 7: BOBZIPPO ( 2 $ )
+Seat 9: arkasha510 ( 1,89 $ )
+Seat 10: Liverpool08g ( 1,93 $ )
+B2B_Suckouts posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+BOBZIPPO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 8Kreuz ]
+BOBZIPPO checks
+arkasha510 folds
+Liverpool08g folds
+Yungmuney folds
+overcranky raises [0,10 $]
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir folds
+BOBZIPPO folds
+** Summary **
+overcranky collected [ 0,07 $ ]
+
+
+
+#Game No : 527569445
+***** 888poker Hand History for Game 527569445 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:44:48
+Table Lleida 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: Yungmuney ( 1,73 $ )
+Seat 3: 1gadfly1 ( 6,74 $ )
+Seat 5: B2B_Suckouts ( 3,50 $ )
+Seat 6: oldbashkir ( 2,33 $ )
+Seat 7: BOBZIPPO ( 1,98 $ )
+Seat 9: arkasha510 ( 1,89 $ )
+Seat 10: Liverpool08g ( 1,93 $ )
+oldbashkir posts small blind [0,01 $]
+BOBZIPPO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, APik ]
+arkasha510 folds
+Liverpool08g calls [0,02 $]
+Yungmuney folds
+1gadfly1 folds
+B2B_Suckouts raises [0,06 $]
+oldbashkir folds
+BOBZIPPO calls [0,04 $]
+Liverpool08g calls [0,04 $]
+** Dealing flop ** [ KKaro, AKreuz, 9Karo ]
+BOBZIPPO bets [0,02 $]
+Liverpool08g raises [0,08 $]
+B2B_Suckouts calls [0,08 $]
+BOBZIPPO folds
+** Dealing turn ** [ 4Pik ]
+Liverpool08g bets [0,24 $]
+B2B_Suckouts calls [0,24 $]
+** Dealing river ** [ 7Herz ]
+Liverpool08g bets [0,56 $]
+B2B_Suckouts raises [3,12 $]
+Liverpool08g folds
+** Summary **
+B2B_Suckouts collected [ 1,85 $ ]
+
+
+
+#Game No : 527569481
+***** 888poker Hand History for Game 527569481 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:45:51
+Table Lleida 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Yungmuney ( 1,73 $ )
+Seat 3: 1gadfly1 ( 6,74 $ )
+Seat 5: B2B_Suckouts ( 4,41 $ )
+Seat 6: oldbashkir ( 2,32 $ )
+Seat 7: BOBZIPPO ( 1,90 $ )
+Seat 9: arkasha510 ( 1,89 $ )
+BOBZIPPO posts small blind [0,01 $]
+arkasha510 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 4Herz ]
+Yungmuney folds
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir folds
+BOBZIPPO calls [0,01 $]
+arkasha510 checks
+** Dealing flop ** [ 10Karo, KPik, QHerz ]
+BOBZIPPO checks
+arkasha510 bets [0,02 $]
+BOBZIPPO calls [0,02 $]
+** Dealing turn ** [ 10Pik ]
+BOBZIPPO bets [0,04 $]
+arkasha510 folds
+** Summary **
+BOBZIPPO collected [ 0,08 $ ]
+
+
+
+#Game No : 527569508
+***** 888poker Hand History for Game 527569508 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:46:36
+Table Lleida 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Yungmuney ( 1,73 $ )
+Seat 3: 1gadfly1 ( 6,74 $ )
+Seat 5: B2B_Suckouts ( 4,41 $ )
+Seat 6: oldbashkir ( 2,32 $ )
+Seat 7: BOBZIPPO ( 1,94 $ )
+Seat 9: arkasha510 ( 1,85 $ )
+Seat 10: sergiusss77 ( 0,80 $ )
+arkasha510 posts small blind [0,01 $]
+sergiusss77 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, KKreuz ]
+Yungmuney folds
+1gadfly1 folds
+B2B_Suckouts raises [0,06 $]
+oldbashkir folds
+BOBZIPPO folds
+arkasha510 folds
+sergiusss77 calls [0,04 $]
+** Dealing flop ** [ 6Karo, 3Herz, 6Herz ]
+sergiusss77 bets [0,04 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing turn ** [ AKaro ]
+sergiusss77 bets [0,04 $]
+B2B_Suckouts folds
+** Summary **
+sergiusss77 collected [ 0,20 $ ]
+
+
+
+#Game No : 527569535
+***** 888poker Hand History for Game 527569535 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:47:18
+Table Lleida 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Yungmuney ( 1,73 $ )
+Seat 3: 1gadfly1 ( 6,74 $ )
+Seat 5: B2B_Suckouts ( 4,31 $ )
+Seat 6: oldbashkir ( 2,32 $ )
+Seat 7: BOBZIPPO ( 1,94 $ )
+Seat 9: arkasha510 ( 1,84 $ )
+Seat 10: sergiusss77 ( 0,90 $ )
+sergiusss77 posts small blind [0,01 $]
+Yungmuney posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 7Kreuz ]
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir folds
+BOBZIPPO folds
+arkasha510 folds
+sergiusss77 calls [0,01 $]
+Yungmuney raises [0,06 $]
+sergiusss77 calls [0,06 $]
+** Dealing flop ** [ AKaro, 5Herz, AKreuz ]
+sergiusss77 checks
+Yungmuney bets [0,08 $]
+sergiusss77 folds
+** Summary **
+Yungmuney collected [ 0,15 $ ]
+
+
+
+#Game No : 527569558
+***** 888poker Hand History for Game 527569558 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:47:51
+Table Lleida 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,80 $ )
+Seat 2: windamere719 ( 1,40 $ )
+Seat 3: 1gadfly1 ( 6,74 $ )
+Seat 5: B2B_Suckouts ( 4,31 $ )
+Seat 6: oldbashkir ( 2,32 $ )
+Seat 7: BOBZIPPO ( 1,94 $ )
+Seat 9: arkasha510 ( 1,84 $ )
+Seat 10: sergiusss77 ( 0,82 $ )
+Yungmuney posts small blind [0,01 $]
+windamere719 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, JPik ]
+1gadfly1 folds
+B2B_Suckouts folds
+oldbashkir folds
+BOBZIPPO calls [0,02 $]
+arkasha510 folds
+sergiusss77 folds
+Yungmuney raises [0,05 $]
+windamere719 calls [0,04 $]
+BOBZIPPO calls [0,04 $]
+** Dealing flop ** [ 10Karo, 2Karo, 8Karo ]
+Yungmuney checks
+windamere719 bets [0,18 $]
+BOBZIPPO calls [0,18 $]
+Yungmuney folds
+** Dealing turn ** [ 5Karo ]
+windamere719 checks
+BOBZIPPO checks
+** Dealing river ** [ 9Kreuz ]
+windamere719 bets [0,27 $]
+BOBZIPPO folds
+** Summary **
+windamere719 collected [ 0,51 $ ]
+
+
+
+#Game No : 527569602
+***** 888poker Hand History for Game 527569602 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:48:59
+Table Lleida 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,74 $ )
+Seat 2: windamere719 ( 1,67 $ )
+Seat 3: 1gadfly1 ( 6,74 $ )
+Seat 5: B2B_Suckouts ( 4,31 $ )
+Seat 6: oldbashkir ( 2,32 $ )
+Seat 7: BOBZIPPO ( 1,70 $ )
+Seat 9: arkasha510 ( 1,84 $ )
+Seat 10: sergiusss77 ( 0,82 $ )
+windamere719 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, KPik ]
+B2B_Suckouts folds
+oldbashkir raises [0,06 $]
+BOBZIPPO calls [0,06 $]
+arkasha510 folds
+sergiusss77 calls [0,06 $]
+Yungmuney folds
+windamere719 folds
+1gadfly1 calls [0,04 $]
+** Dealing flop ** [ 4Karo, 4Pik, AHerz ]
+1gadfly1 checks
+oldbashkir bets [0,16 $]
+BOBZIPPO folds
+sergiusss77 folds
+1gadfly1 folds
+** Summary **
+oldbashkir collected [ 0,24 $ ]
+
+
+
+#Game No : 527569628
+***** 888poker Hand History for Game 527569628 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:49:41
+Table Lleida 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,74 $ )
+Seat 2: windamere719 ( 1,66 $ )
+Seat 3: 1gadfly1 ( 6,68 $ )
+Seat 4: prooo7 ( 1,40 $ )
+Seat 5: B2B_Suckouts ( 4,31 $ )
+Seat 6: oldbashkir ( 2,50 $ )
+Seat 7: BOBZIPPO ( 1,64 $ )
+Seat 9: arkasha510 ( 1,84 $ )
+Seat 10: sergiusss77 ( 0,76 $ )
+1gadfly1 posts small blind [0,01 $]
+prooo7 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 8Karo ]
+B2B_Suckouts folds
+oldbashkir folds
+BOBZIPPO folds
+arkasha510 folds
+sergiusss77 calls [0,02 $]
+Yungmuney folds
+windamere719 folds
+1gadfly1 folds
+prooo7 checks
+** Dealing flop ** [ 10Pik, AKaro, 4Herz ]
+prooo7 checks
+sergiusss77 bets [0,04 $]
+prooo7 folds
+** Summary **
+sergiusss77 did not show his hand
+sergiusss77 collected [ 0,05 $ ]
+
+
+
+#Game No : 527569648
+***** 888poker Hand History for Game 527569648 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:50:14
+Table Lleida 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,74 $ )
+Seat 2: windamere719 ( 1,66 $ )
+Seat 3: 1gadfly1 ( 6,67 $ )
+Seat 4: prooo7 ( 1,38 $ )
+Seat 5: B2B_Suckouts ( 4,31 $ )
+Seat 6: oldbashkir ( 2,50 $ )
+Seat 7: BOBZIPPO ( 1,64 $ )
+Seat 9: arkasha510 ( 1,84 $ )
+Seat 10: sergiusss77 ( 0,79 $ )
+prooo7 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, KHerz ]
+oldbashkir folds
+BOBZIPPO folds
+arkasha510 folds
+sergiusss77 calls [0,02 $]
+Yungmuney folds
+windamere719 folds
+1gadfly1 folds
+prooo7 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 9Kreuz, 4Kreuz, QHerz ]
+B2B_Suckouts bets [0,02 $]
+sergiusss77 calls [0,02 $]
+** Dealing turn ** [ 8Pik ]
+B2B_Suckouts bets [0,02 $]
+sergiusss77 raises [0,08 $]
+B2B_Suckouts folds
+** Summary **
+sergiusss77 did not show his hand
+sergiusss77 collected [ 0,13 $ ]
+
+
+
+#Game No : 527569672
+***** 888poker Hand History for Game 527569672 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:50:49
+Table Lleida 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,74 $ )
+Seat 2: windamere719 ( 1,66 $ )
+Seat 3: 1gadfly1 ( 6,67 $ )
+Seat 4: prooo7 ( 1,37 $ )
+Seat 5: B2B_Suckouts ( 4,25 $ )
+Seat 6: oldbashkir ( 2,50 $ )
+Seat 7: BOBZIPPO ( 1,64 $ )
+Seat 9: arkasha510 ( 1,84 $ )
+Seat 10: sergiusss77 ( 0,86 $ )
+B2B_Suckouts posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 9Pik ]
+BOBZIPPO calls [0,02 $]
+arkasha510 folds
+sergiusss77 folds
+Yungmuney folds
+windamere719 folds
+1gadfly1 folds
+prooo7 folds
+B2B_Suckouts calls [0,01 $]
+oldbashkir raises [0,10 $]
+BOBZIPPO calls [0,10 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 8Herz, 7Pik, 4Herz ]
+oldbashkir bets [0,26 $]
+BOBZIPPO folds
+** Summary **
+oldbashkir did not show his hand
+oldbashkir collected [ 0,25 $ ]
+
+
+
+#Game No : 527569707
+***** 888poker Hand History for Game 527569707 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:51:44
+Table Lleida 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Yungmuney ( 1,74 $ )
+Seat 2: windamere719 ( 1,66 $ )
+Seat 3: 1gadfly1 ( 6,67 $ )
+Seat 4: prooo7 ( 1,37 $ )
+Seat 5: B2B_Suckouts ( 4,23 $ )
+Seat 6: oldbashkir ( 2,63 $ )
+Seat 7: BOBZIPPO ( 1,52 $ )
+Seat 9: arkasha510 ( 1,84 $ )
+Seat 10: sergiusss77 ( 0,86 $ )
+oldbashkir posts small blind [0,01 $]
+BOBZIPPO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 10Herz ]
+arkasha510 raises [0,06 $]
+sergiusss77 calls [0,06 $]
+Yungmuney calls [0,06 $]
+windamere719 folds
+1gadfly1 folds
+prooo7 folds
+B2B_Suckouts folds
+oldbashkir folds
+BOBZIPPO calls [0,04 $]
+** Dealing flop ** [ 9Herz, 2Karo, 8Pik ]
+BOBZIPPO bets [0,02 $]
+arkasha510 raises [0,10 $]
+sergiusss77 calls [0,10 $]
+Yungmuney folds
+BOBZIPPO folds
+** Dealing turn ** [ APik ]
+arkasha510 bets [0,31 $]
+sergiusss77 raises [0,70 $]
+arkasha510 calls [0,39 $]
+** Dealing river ** [ KKreuz ]
+** Summary **
+arkasha510 shows [ QHerz, QPik ]
+sergiusss77 shows [ 5Pik, 10Pik ]
+arkasha510 collected [ 1,76 $ ]
+
+
+
+#Game No : 527569759
+***** 888poker Hand History for Game 527569759 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:52:59
+Table Lleida 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,68 $ )
+Seat 3: 1gadfly1 ( 6,67 $ )
+Seat 4: prooo7 ( 1,37 $ )
+Seat 5: B2B_Suckouts ( 4,23 $ )
+Seat 6: oldbashkir ( 2,62 $ )
+Seat 7: BOBZIPPO ( 1,44 $ )
+Seat 9: arkasha510 ( 2,74 $ )
+Seat 10: sergiusss77 ( 2 $ )
+BOBZIPPO posts small blind [0,01 $]
+arkasha510 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, AHerz ]
+sergiusss77 folds
+Yungmuney folds
+1gadfly1 folds
+prooo7 folds
+B2B_Suckouts raises [0,06 $]
+oldbashkir folds
+BOBZIPPO folds
+arkasha510 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 527569775
+***** 888poker Hand History for Game 527569775 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:53:21
+Table Lleida 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Yungmuney ( 1,68 $ )
+Seat 3: 1gadfly1 ( 6,67 $ )
+Seat 4: prooo7 ( 1,37 $ )
+Seat 5: B2B_Suckouts ( 4,26 $ )
+Seat 6: oldbashkir ( 2,62 $ )
+Seat 7: BOBZIPPO ( 1,43 $ )
+Seat 9: arkasha510 ( 2,72 $ )
+arkasha510 posts small blind [0,01 $]
+Yungmuney posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 8Pik ]
+1gadfly1 folds
+prooo7 folds
+B2B_Suckouts folds
+oldbashkir raises [0,06 $]
+BOBZIPPO folds
+arkasha510 calls [0,05 $]
+Yungmuney folds
+** Dealing flop ** [ 4Herz, 2Kreuz, 3Kreuz ]
+arkasha510 checks
+oldbashkir checks
+** Dealing turn ** [ 8Karo ]
+arkasha510 bets [0,09 $]
+oldbashkir calls [0,09 $]
+** Dealing river ** [ AHerz ]
+arkasha510 bets [0,21 $]
+oldbashkir calls [0,21 $]
+** Summary **
+arkasha510 shows [ 8Kreuz, 8Herz ]
+oldbashkir mucks [ 9Karo, AKreuz ]
+arkasha510 collected [ 0,70 $ ]
+
+
+
+#Game No : 527569808
+***** 888poker Hand History for Game 527569808 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:54:15
+Table Lleida 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Yungmuney ( 1,66 $ )
+Seat 2: l8bd8l ( 0,80 $ )
+Seat 3: 1gadfly1 ( 6,67 $ )
+Seat 4: prooo7 ( 1,37 $ )
+Seat 5: B2B_Suckouts ( 4,26 $ )
+Seat 6: oldbashkir ( 2,26 $ )
+Seat 7: BOBZIPPO ( 1,43 $ )
+Seat 9: arkasha510 ( 3,06 $ )
+Yungmuney posts small blind [0,01 $]
+l8bd8l posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, JKreuz ]
+1gadfly1 folds
+prooo7 folds
+B2B_Suckouts folds
+oldbashkir folds
+BOBZIPPO folds
+arkasha510 folds
+Yungmuney folds
+** Summary **
+l8bd8l did not show his hand
+l8bd8l collected [ 0,03 $ ]
+
+
+
