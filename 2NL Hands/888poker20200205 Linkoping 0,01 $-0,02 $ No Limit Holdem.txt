@@ -1,0 +1,3123 @@
+#Game No : 551179664
+***** 888poker Hand History for Game 551179664 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:49:11
+Table Linkoping 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,22 $ )
+Seat 2: awe590632 ( 0,64 $ )
+Seat 4: JPepss ( 1,07 $ )
+Seat 5: SinisterKid ( 2,18 $ )
+Seat 6: ffev78 ( 3,48 $ )
+Seat 7: KRUSHER1976 ( 0,75 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+KRUSHER1976 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 3Karo ]
+defmoon folds
+awe590632 raises [0,14 $]
+JPepss folds
+SinisterKid calls [0,14 $]
+ffev78 folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+** Dealing flop ** [ KKreuz, 6Karo, 6Herz ]
+awe590632 bets [0,15 $]
+SinisterKid folds
+** Summary **
+awe590632 collected [ 0,30 $ ]
+
+
+
+#Game No : 551179759
+***** 888poker Hand History for Game 551179759 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:50:10
+Table Linkoping 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,22 $ )
+Seat 2: awe590632 ( 0,80 $ )
+Seat 4: JPepss ( 1,07 $ )
+Seat 5: SinisterKid ( 2,04 $ )
+Seat 6: ffev78 ( 3,48 $ )
+Seat 7: KRUSHER1976 ( 0,74 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 2Herz ]
+awe590632 folds
+JPepss folds
+SinisterKid raises [0,06 $]
+ffev78 folds
+KRUSHER1976 calls [0,06 $]
+B2B_Suckouts folds
+defmoon folds
+** Dealing flop ** [ 10Kreuz, 8Karo, APik ]
+SinisterKid checks
+KRUSHER1976 checks
+** Dealing turn ** [ 4Pik ]
+SinisterKid bets [0,10 $]
+KRUSHER1976 calls [0,10 $]
+** Dealing river ** [ 4Kreuz ]
+SinisterKid bets [0,24 $]
+KRUSHER1976 folds
+** Summary **
+SinisterKid collected [ 0,33 $ ]
+
+
+
+#Game No : 551179870
+***** 888poker Hand History for Game 551179870 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:51:19
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,20 $ )
+Seat 2: awe590632 ( 0,80 $ )
+Seat 4: JPepss ( 1,07 $ )
+Seat 5: SinisterKid ( 2,21 $ )
+Seat 6: ffev78 ( 3,48 $ )
+Seat 7: KRUSHER1976 ( 0,58 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+defmoon posts small blind [0,01 $]
+awe590632 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 5Pik ]
+JPepss folds
+SinisterKid folds
+ffev78 folds
+KRUSHER1976 raises [0,05 $]
+B2B_Suckouts folds
+defmoon folds
+awe590632 calls [0,03 $]
+** Dealing flop ** [ QKreuz, 4Pik, 7Kreuz ]
+awe590632 checks
+KRUSHER1976 bets [0,09 $]
+awe590632 folds
+** Summary **
+KRUSHER1976 collected [ 0,11 $ ]
+
+
+
+#Game No : 551179955
+***** 888poker Hand History for Game 551179955 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:52:12
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,19 $ )
+Seat 2: awe590632 ( 0,75 $ )
+Seat 3: Sonyland ( 0,80 $ )
+Seat 4: JPepss ( 1,07 $ )
+Seat 5: SinisterKid ( 2,21 $ )
+Seat 6: ffev78 ( 3,48 $ )
+Seat 7: KRUSHER1976 ( 0,64 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+awe590632 posts small blind [0,01 $]
+Sonyland posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 4Herz ]
+JPepss folds
+SinisterKid folds
+ffev78 folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+defmoon folds
+awe590632 folds
+** Summary **
+Sonyland collected [ 0,03 $ ]
+
+
+
+#Game No : 551180007
+***** 888poker Hand History for Game 551180007 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:52:45
+Table Linkoping 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,19 $ )
+Seat 2: awe590632 ( 0,74 $ )
+Seat 3: Sonyland ( 0,81 $ )
+Seat 4: JPepss ( 1,07 $ )
+Seat 5: SinisterKid ( 2,21 $ )
+Seat 6: ffev78 ( 3,48 $ )
+Seat 7: KRUSHER1976 ( 0,64 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Sonyland posts small blind [0,01 $]
+JPepss posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 3Kreuz ]
+SinisterKid folds
+ffev78 folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+defmoon raises [0,06 $]
+awe590632 folds
+Sonyland folds
+JPepss folds
+** Summary **
+defmoon collected [ 0,05 $ ]
+
+
+
+#Game No : 551180086
+***** 888poker Hand History for Game 551180086 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:53:34
+Table Linkoping 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,22 $ )
+Seat 2: awe590632 ( 0,74 $ )
+Seat 3: Sonyland ( 0,80 $ )
+Seat 4: JPepss ( 1,05 $ )
+Seat 5: SinisterKid ( 2,21 $ )
+Seat 6: ffev78 ( 3,48 $ )
+Seat 7: KRUSHER1976 ( 0,64 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+JPepss posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 9Pik ]
+ffev78 folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+defmoon folds
+awe590632 folds
+Sonyland folds
+JPepss folds
+** Summary **
+SinisterKid collected [ 0,03 $ ]
+
+
+
+#Game No : 551180133
+***** 888poker Hand History for Game 551180133 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:54:05
+Table Linkoping 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,22 $ )
+Seat 2: awe590632 ( 0,74 $ )
+Seat 3: Sonyland ( 0,80 $ )
+Seat 4: JPepss ( 1,04 $ )
+Seat 5: SinisterKid ( 2,22 $ )
+Seat 7: KRUSHER1976 ( 0,64 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+KRUSHER1976 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 3Pik ]
+B2B_Suckouts folds
+defmoon folds
+awe590632 calls [0,02 $]
+Sonyland raises [0,08 $]
+JPepss folds
+SinisterKid folds
+KRUSHER1976 folds
+awe590632 calls [0,06 $]
+** Dealing flop ** [ QKreuz, 8Kreuz, JKreuz ]
+awe590632 checks
+Sonyland bets [0,09 $]
+awe590632 calls [0,09 $]
+** Dealing turn ** [ 10Pik ]
+awe590632 checks
+Sonyland bets [0,24 $]
+awe590632 folds
+** Summary **
+Sonyland collected [ 0,35 $ ]
+
+
+
+#Game No : 551180237
+***** 888poker Hand History for Game 551180237 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:55:14
+Table Linkoping 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,22 $ )
+Seat 2: awe590632 ( 0,57 $ )
+Seat 3: Sonyland ( 0,98 $ )
+Seat 4: JPepss ( 1,04 $ )
+Seat 5: SinisterKid ( 2,21 $ )
+Seat 7: KRUSHER1976 ( 0,62 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+KRUSHER1976 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 7Kreuz ]
+defmoon folds
+awe590632 calls [0,02 $]
+Sonyland folds
+JPepss folds
+SinisterKid raises [0,08 $]
+KRUSHER1976 folds
+B2B_Suckouts folds
+awe590632 calls [0,06 $]
+** Dealing flop ** [ 8Kreuz, 8Pik, AKreuz ]
+awe590632 checks
+SinisterKid bets [0,10 $]
+awe590632 folds
+** Summary **
+SinisterKid collected [ 0,18 $ ]
+
+
+
+#Game No : 551180301
+***** 888poker Hand History for Game 551180301 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:55:56
+Table Linkoping 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: defmoon ( 2,22 $ )
+Seat 2: awe590632 ( 0,49 $ )
+Seat 3: Sonyland ( 0,98 $ )
+Seat 4: JPepss ( 1,04 $ )
+Seat 5: SinisterKid ( 2,31 $ )
+Seat 6: ffev78 ( 3,48 $ )
+Seat 7: KRUSHER1976 ( 0,61 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: OmgAKs ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+ffev78 folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 5Kreuz ]
+defmoon folds
+awe590632 calls [0,02 $]
+Sonyland folds
+JPepss folds
+SinisterKid folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs checks
+** Dealing flop ** [ KKaro, 10Karo, 2Kreuz ]
+OmgAKs bets [0,03 $]
+awe590632 calls [0,03 $]
+** Dealing turn ** [ 3Karo ]
+OmgAKs bets [0,04 $]
+awe590632 calls [0,04 $]
+** Dealing river ** [ 4Karo ]
+OmgAKs checks
+awe590632 bets [0,19 $]
+OmgAKs folds
+** Summary **
+awe590632 did not show his hand
+awe590632 collected [ 0,18 $ ]
+
+
+
+#Game No : 551180382
+***** 888poker Hand History for Game 551180382 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:56:53
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,22 $ )
+Seat 2: awe590632 ( 0,58 $ )
+Seat 3: Sonyland ( 0,98 $ )
+Seat 4: JPepss ( 1,04 $ )
+Seat 5: SinisterKid ( 2,31 $ )
+Seat 7: KRUSHER1976 ( 0,61 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: OmgAKs ( 2 $ )
+OmgAKs posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 9Pik ]
+awe590632 folds
+Sonyland folds
+JPepss raises [0,06 $]
+SinisterKid calls [0,06 $]
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+** Dealing flop ** [ 5Herz, 8Kreuz, 7Kreuz ]
+JPepss bets [0,10 $]
+SinisterKid calls [0,10 $]
+** Dealing turn ** [ APik ]
+JPepss bets [0,17 $]
+SinisterKid calls [0,17 $]
+** Dealing river ** [ 10Karo ]
+JPepss bets [0,69 $]
+SinisterKid folds
+** Summary **
+JPepss collected [ 0,65 $ ]
+
+
+
+#Game No : 551180493
+***** 888poker Hand History for Game 551180493 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:58:06
+Table Linkoping 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,20 $ )
+Seat 2: awe590632 ( 0,58 $ )
+Seat 3: Sonyland ( 0,98 $ )
+Seat 4: JPepss ( 1,36 $ )
+Seat 5: SinisterKid ( 2 $ )
+Seat 7: KRUSHER1976 ( 0,61 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: OmgAKs ( 2 $ )
+defmoon posts small blind [0,01 $]
+awe590632 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 5Karo ]
+Sonyland folds
+JPepss folds
+SinisterKid folds
+KRUSHER1976 raises [0,05 $]
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 calls [0,03 $]
+** Dealing flop ** [ 10Kreuz, 5Herz, 2Kreuz ]
+awe590632 bets [0,11 $]
+KRUSHER1976 folds
+** Summary **
+awe590632 collected [ 0,11 $ ]
+
+
+
+#Game No : 551180551
+***** 888poker Hand History for Game 551180551 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:58:50
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,19 $ )
+Seat 2: awe590632 ( 0,64 $ )
+Seat 3: Sonyland ( 0,98 $ )
+Seat 4: JPepss ( 1,36 $ )
+Seat 5: SinisterKid ( 2 $ )
+Seat 7: KRUSHER1976 ( 0,56 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: OmgAKs ( 2 $ )
+awe590632 posts small blind [0,01 $]
+Sonyland posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 4Herz ]
+JPepss folds
+SinisterKid raises [0,06 $]
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 folds
+Sonyland folds
+** Summary **
+SinisterKid collected [ 0,05 $ ]
+
+
+
+#Game No : 551180594
+***** 888poker Hand History for Game 551180594 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:59:22
+Table Linkoping 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,19 $ )
+Seat 2: awe590632 ( 0,63 $ )
+Seat 3: Sonyland ( 0,96 $ )
+Seat 4: JPepss ( 1,36 $ )
+Seat 5: SinisterKid ( 2,03 $ )
+Seat 7: KRUSHER1976 ( 0,56 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: OmgAKs ( 2 $ )
+Sonyland posts small blind [0,01 $]
+JPepss posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Herz ]
+SinisterKid folds
+KRUSHER1976 folds
+B2B_Suckouts raises [0,06 $]
+OmgAKs folds
+defmoon folds
+awe590632 folds
+Sonyland folds
+JPepss folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551180631
+***** 888poker Hand History for Game 551180631 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 19:59:45
+Table Linkoping 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,19 $ )
+Seat 2: awe590632 ( 0,63 $ )
+Seat 3: Sonyland ( 0,95 $ )
+Seat 4: JPepss ( 1,34 $ )
+Seat 5: SinisterKid ( 2,03 $ )
+Seat 7: KRUSHER1976 ( 0,56 $ )
+Seat 9: B2B_Suckouts ( 2,03 $ )
+Seat 10: OmgAKs ( 2 $ )
+JPepss posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, AKaro ]
+KRUSHER1976 folds
+B2B_Suckouts raises [0,06 $]
+OmgAKs folds
+defmoon folds
+awe590632 folds
+Sonyland calls [0,06 $]
+JPepss folds
+SinisterKid folds
+** Dealing flop ** [ 4Kreuz, 6Karo, 5Pik ]
+B2B_Suckouts bets [0,04 $]
+Sonyland calls [0,04 $]
+** Dealing turn ** [ AKreuz ]
+B2B_Suckouts bets [0,07 $]
+Sonyland raises [0,14 $]
+B2B_Suckouts folds
+** Summary **
+Sonyland collected [ 0,35 $ ]
+
+
+
+#Game No : 551180738
+***** 888poker Hand History for Game 551180738 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:00:47
+Table Linkoping 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,19 $ )
+Seat 2: awe590632 ( 0,63 $ )
+Seat 3: Sonyland ( 1,13 $ )
+Seat 4: JPepss ( 1,33 $ )
+Seat 5: SinisterKid ( 2,01 $ )
+Seat 7: KRUSHER1976 ( 0,56 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: OmgAKs ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+KRUSHER1976 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 9Karo ]
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 folds
+Sonyland raises [0,06 $]
+JPepss folds
+SinisterKid calls [0,05 $]
+KRUSHER1976 calls [0,04 $]
+** Dealing flop ** [ 4Karo, KHerz, 3Pik ]
+SinisterKid checks
+KRUSHER1976 checks
+Sonyland checks
+** Dealing turn ** [ 6Karo ]
+SinisterKid bets [0,12 $]
+KRUSHER1976 raises [0,50 $]
+Sonyland folds
+SinisterKid folds
+** Summary **
+KRUSHER1976 collected [ 0,40 $ ]
+
+
+
+#Game No : 551180888
+***** 888poker Hand History for Game 551180888 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:02:40
+Table Linkoping 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,19 $ )
+Seat 2: awe590632 ( 0,63 $ )
+Seat 4: JPepss ( 1,33 $ )
+Seat 5: SinisterKid ( 2 $ )
+Seat 7: KRUSHER1976 ( 0,78 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: OmgAKs ( 2 $ )
+KRUSHER1976 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 10Herz ]
+OmgAKs folds
+defmoon folds
+awe590632 folds
+JPepss folds
+SinisterKid raises [0,06 $]
+KRUSHER1976 folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ JPik, KPik, QHerz ]
+B2B_Suckouts bets [0,04 $]
+SinisterKid calls [0,04 $]
+** Dealing turn ** [ QPik ]
+B2B_Suckouts checks
+SinisterKid checks
+** Dealing river ** [ 10Pik ]
+B2B_Suckouts bets [0,20 $]
+SinisterKid raises [0,68 $]
+B2B_Suckouts raises [1,70 $]
+SinisterKid calls [1,22 $]
+** Summary **
+SinisterKid shows [ KKreuz, KHerz ]
+B2B_Suckouts shows [ QKaro, 10Herz ]
+SinisterKid collected [ 3,76 $ ]
+
+
+
+#Game No : 551181067
+***** 888poker Hand History for Game 551181067 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:04:27
+Table Linkoping 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: defmoon ( 2,19 $ )
+Seat 2: awe590632 ( 0,63 $ )
+Seat 3: SKDynasty ( 2 $ )
+Seat 4: JPepss ( 1,33 $ )
+Seat 5: SinisterKid ( 3,76 $ )
+Seat 6: Hendrixx14 ( 2 $ )
+Seat 7: KRUSHER1976 ( 0,77 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: OmgAKs ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+SKDynasty posts big blind [0,02 $]
+Hendrixx14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 4Herz ]
+defmoon raises [0,10 $]
+awe590632 folds
+SKDynasty folds
+JPepss folds
+SinisterKid calls [0,10 $]
+Hendrixx14 folds
+KRUSHER1976 calls [0,10 $]
+B2B_Suckouts folds
+OmgAKs folds
+** Dealing flop ** [ 5Karo, 7Karo, 8Kreuz ]
+defmoon checks
+SinisterKid checks
+KRUSHER1976 bets [0,37 $]
+defmoon folds
+SinisterKid folds
+** Summary **
+KRUSHER1976 did not show his hand
+KRUSHER1976 collected [ 0,35 $ ]
+
+
+
+#Game No : 551181184
+***** 888poker Hand History for Game 551181184 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:05:39
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: defmoon ( 2,09 $ )
+Seat 2: awe590632 ( 0,63 $ )
+Seat 3: SKDynasty ( 1,98 $ )
+Seat 4: JPepss ( 1,33 $ )
+Seat 5: SinisterKid ( 3,66 $ )
+Seat 6: Hendrixx14 ( 1,98 $ )
+Seat 7: KRUSHER1976 ( 1,02 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: OmgAKs ( 2 $ )
+OmgAKs posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, KKaro ]
+awe590632 folds
+SKDynasty folds
+JPepss folds
+SinisterKid folds
+Hendrixx14 folds
+KRUSHER1976 raises [0,06 $]
+B2B_Suckouts raises [0,10 $]
+OmgAKs folds
+defmoon folds
+KRUSHER1976 raises [0,96 $]
+B2B_Suckouts calls [0,92 $]
+** Dealing flop ** [ 2Pik, 9Pik, KHerz ]
+** Dealing turn ** [ 8Pik ]
+** Dealing river ** [ 7Kreuz ]
+** Summary **
+KRUSHER1976 shows [ JPik, JKaro ]
+B2B_Suckouts shows [ KPik, KKaro ]
+B2B_Suckouts collected [ 1,95 $ ]
+
+
+
+#Game No : 551181263
+***** 888poker Hand History for Game 551181263 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:06:29
+Table Linkoping 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: defmoon ( 2,07 $ )
+Seat 2: awe590632 ( 0,63 $ )
+Seat 3: SKDynasty ( 1,98 $ )
+Seat 4: JPepss ( 1,33 $ )
+Seat 5: SinisterKid ( 3,66 $ )
+Seat 6: Hendrixx14 ( 1,98 $ )
+Seat 7: KRUSHER1976 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 2,93 $ )
+Seat 10: OmgAKs ( 2 $ )
+defmoon posts small blind [0,01 $]
+awe590632 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, QKreuz ]
+SKDynasty folds
+JPepss raises [0,06 $]
+SinisterKid folds
+Hendrixx14 folds
+KRUSHER1976 calls [0,06 $]
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 folds
+** Dealing flop ** [ 3Pik, AKaro, KKaro ]
+JPepss bets [0,07 $]
+KRUSHER1976 raises [0,21 $]
+JPepss folds
+** Summary **
+KRUSHER1976 did not show his hand
+KRUSHER1976 collected [ 0,28 $ ]
+
+
+
+#Game No : 551181351
+***** 888poker Hand History for Game 551181351 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:07:21
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: defmoon ( 2,06 $ )
+Seat 2: awe590632 ( 0,61 $ )
+Seat 3: SKDynasty ( 1,98 $ )
+Seat 4: JPepss ( 1,20 $ )
+Seat 5: SinisterKid ( 3,66 $ )
+Seat 6: Hendrixx14 ( 1,98 $ )
+Seat 7: KRUSHER1976 ( 0,95 $ )
+Seat 9: B2B_Suckouts ( 2,93 $ )
+Seat 10: OmgAKs ( 2 $ )
+awe590632 posts small blind [0,01 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 3Kreuz ]
+JPepss folds
+SinisterKid folds
+Hendrixx14 calls [0,02 $]
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 calls [0,01 $]
+SKDynasty checks
+** Dealing flop ** [ AKaro, 8Pik, 10Karo ]
+awe590632 bets [0,06 $]
+SKDynasty folds
+Hendrixx14 folds
+** Summary **
+awe590632 did not show his hand
+awe590632 collected [ 0,06 $ ]
+
+
+
+#Game No : 551181460
+***** 888poker Hand History for Game 551181460 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:08:27
+Table Linkoping 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: defmoon ( 2,06 $ )
+Seat 2: awe590632 ( 0,65 $ )
+Seat 3: SKDynasty ( 1,96 $ )
+Seat 4: JPepss ( 1,20 $ )
+Seat 5: SinisterKid ( 3,66 $ )
+Seat 6: Hendrixx14 ( 1,96 $ )
+Seat 7: KRUSHER1976 ( 0,95 $ )
+Seat 9: B2B_Suckouts ( 2,93 $ )
+Seat 10: OmgAKs ( 2 $ )
+SKDynasty posts small blind [0,01 $]
+JPepss posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, QKreuz ]
+SinisterKid folds
+Hendrixx14 folds
+KRUSHER1976 raises [0,06 $]
+B2B_Suckouts calls [0,06 $]
+OmgAKs folds
+defmoon folds
+awe590632 folds
+SKDynasty folds
+JPepss folds
+** Dealing flop ** [ 2Pik, AKreuz, KKaro ]
+KRUSHER1976 bets [0,07 $]
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ 8Kreuz ]
+KRUSHER1976 checks
+B2B_Suckouts checks
+** Dealing river ** [ KHerz ]
+KRUSHER1976 bets [0,02 $]
+B2B_Suckouts raises [0,22 $]
+KRUSHER1976 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,31 $ ]
+
+
+
+#Game No : 551181640
+***** 888poker Hand History for Game 551181640 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:10:21
+Table Linkoping 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: defmoon ( 2,06 $ )
+Seat 2: awe590632 ( 0,65 $ )
+Seat 3: SKDynasty ( 1,95 $ )
+Seat 4: JPepss ( 1,18 $ )
+Seat 5: SinisterKid ( 3,66 $ )
+Seat 6: Hendrixx14 ( 1,96 $ )
+Seat 7: KRUSHER1976 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,09 $ )
+Seat 10: OmgAKs ( 2 $ )
+JPepss posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 3Karo ]
+Hendrixx14 folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 raises [0,07 $]
+SKDynasty folds
+JPepss folds
+SinisterKid calls [0,05 $]
+** Dealing flop ** [ 5Herz, 3Kreuz, 2Herz ]
+SinisterKid checks
+awe590632 bets [0,07 $]
+SinisterKid calls [0,07 $]
+** Dealing turn ** [ KKreuz ]
+SinisterKid checks
+awe590632 checks
+** Dealing river ** [ KHerz ]
+SinisterKid bets [0,22 $]
+awe590632 calls [0,22 $]
+** Summary **
+SinisterKid shows [ 2Karo, 2Kreuz ]
+awe590632 mucks [ APik, QKreuz ]
+SinisterKid collected [ 0,69 $ ]
+
+
+
+#Game No : 551181773
+***** 888poker Hand History for Game 551181773 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:11:36
+Table Linkoping 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: defmoon ( 2,06 $ )
+Seat 2: awe590632 ( 0,29 $ )
+Seat 3: SKDynasty ( 1,95 $ )
+Seat 4: JPepss ( 1,17 $ )
+Seat 5: SinisterKid ( 3,99 $ )
+Seat 6: Hendrixx14 ( 1,96 $ )
+Seat 7: KRUSHER1976 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,09 $ )
+Seat 10: OmgAKs ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+Hendrixx14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 4Kreuz ]
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 folds
+SKDynasty folds
+JPepss folds
+SinisterKid folds
+** Summary **
+Hendrixx14 did not show his hand
+Hendrixx14 collected [ 0,03 $ ]
+
+
+
+#Game No : 551181903
+***** 888poker Hand History for Game 551181903 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:12:49
+Table Linkoping 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,06 $ )
+Seat 2: awe590632 ( 0,29 $ )
+Seat 3: SKDynasty ( 1,95 $ )
+Seat 6: Hendrixx14 ( 1,97 $ )
+Seat 7: KRUSHER1976 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,09 $ )
+Seat 10: OmgAKs ( 2 $ )
+KRUSHER1976 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 2Herz ]
+OmgAKs folds
+defmoon folds
+awe590632 raises [0,29 $]
+SKDynasty folds
+Hendrixx14 folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+** Summary **
+awe590632 collected [ 0,05 $ ]
+
+
+
+#Game No : 551181961
+***** 888poker Hand History for Game 551181961 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:13:16
+Table Linkoping 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,06 $ )
+Seat 2: awe590632 ( 0,32 $ )
+Seat 3: SKDynasty ( 1,95 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 1,97 $ )
+Seat 7: KRUSHER1976 ( 0,79 $ )
+Seat 9: B2B_Suckouts ( 3,07 $ )
+Seat 10: OmgAKs ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 9Herz ]
+defmoon folds
+awe590632 calls [0,02 $]
+SKDynasty raises [0,08 $]
+tekiller243 folds
+Hendrixx14 folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs folds
+awe590632 calls [0,06 $]
+** Dealing flop ** [ AKaro, 6Karo, 10Herz ]
+awe590632 checks
+SKDynasty bets [0,13 $]
+awe590632 folds
+** Summary **
+SKDynasty did not show his hand
+SKDynasty collected [ 0,20 $ ]
+
+
+
+#Game No : 551182030
+***** 888poker Hand History for Game 551182030 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:13:59
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,06 $ )
+Seat 2: awe590632 ( 0,24 $ )
+Seat 3: SKDynasty ( 2,07 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 1,97 $ )
+Seat 7: KRUSHER1976 ( 0,79 $ )
+Seat 9: B2B_Suckouts ( 3,06 $ )
+Seat 10: OmgAKs ( 2 $ )
+OmgAKs posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 3Karo ]
+awe590632 folds
+SKDynasty folds
+tekiller243 folds
+Hendrixx14 folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs raises [0,04 $]
+defmoon calls [0,03 $]
+** Dealing flop ** [ 2Kreuz, 4Pik, 5Pik ]
+OmgAKs checks
+defmoon bets [0,05 $]
+OmgAKs folds
+** Summary **
+defmoon did not show his hand
+defmoon collected [ 0,10 $ ]
+
+
+
+#Game No : 551182170
+***** 888poker Hand History for Game 551182170 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:15:19
+Table Linkoping 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,11 $ )
+Seat 2: awe590632 ( 0,24 $ )
+Seat 3: SKDynasty ( 2,07 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 1,97 $ )
+Seat 7: KRUSHER1976 ( 0,79 $ )
+Seat 9: B2B_Suckouts ( 3,06 $ )
+Seat 10: OmgAKs ( 2 $ )
+defmoon posts small blind [0,01 $]
+awe590632 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 4Pik ]
+SKDynasty raises [0,06 $]
+tekiller243 folds
+Hendrixx14 folds
+KRUSHER1976 calls [0,06 $]
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 calls [0,04 $]
+** Dealing flop ** [ KKaro, KPik, JPik ]
+awe590632 checks
+SKDynasty bets [0,09 $]
+KRUSHER1976 calls [0,09 $]
+awe590632 folds
+** Dealing turn ** [ 7Kreuz ]
+SKDynasty bets [0,18 $]
+KRUSHER1976 raises [0,64 $]
+SKDynasty calls [0,46 $]
+** Dealing river ** [ KKreuz ]
+** Summary **
+SKDynasty shows [ AKaro, KHerz ]
+KRUSHER1976 shows [ 8Pik, 8Kreuz ]
+SKDynasty collected [ 1,55 $ ]
+
+
+
+#Game No : 551182283
+***** 888poker Hand History for Game 551182283 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:16:27
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,10 $ )
+Seat 2: awe590632 ( 0,80 $ )
+Seat 3: SKDynasty ( 2,83 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 1,97 $ )
+Seat 7: KRUSHER1976 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,06 $ )
+Seat 10: OmgAKs ( 2 $ )
+awe590632 posts small blind [0,01 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, AKreuz ]
+tekiller243 folds
+Hendrixx14 folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs raises [0,05 $]
+defmoon folds
+awe590632 calls [0,04 $]
+SKDynasty folds
+** Dealing flop ** [ 7Pik, 9Herz, 10Kreuz ]
+awe590632 bets [0,06 $]
+OmgAKs folds
+** Summary **
+awe590632 did not show his hand
+awe590632 collected [ 0,12 $ ]
+
+
+
+#Game No : 551182363
+***** 888poker Hand History for Game 551182363 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:17:18
+Table Linkoping 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,10 $ )
+Seat 2: awe590632 ( 0,87 $ )
+Seat 3: SKDynasty ( 2,81 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 1,97 $ )
+Seat 7: KRUSHER1976 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,06 $ )
+Seat 10: OmgAKs ( 2 $ )
+SKDynasty posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 3Pik ]
+Hendrixx14 calls [0,02 $]
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 folds
+SKDynasty folds
+tekiller243 checks
+** Dealing flop ** [ 10Pik, 4Kreuz, JKreuz ]
+tekiller243 checks
+Hendrixx14 bets [0,08 $]
+tekiller243 folds
+** Summary **
+Hendrixx14 did not show his hand
+Hendrixx14 collected [ 0,05 $ ]
+
+
+
+#Game No : 551182428
+***** 888poker Hand History for Game 551182428 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:17:52
+Table Linkoping 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,10 $ )
+Seat 2: awe590632 ( 0,87 $ )
+Seat 3: SKDynasty ( 2,80 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 2 $ )
+Seat 7: KRUSHER1976 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,06 $ )
+Seat 10: OmgAKs ( 2 $ )
+tekiller243 posts small blind [0,01 $]
+Hendrixx14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, JPik ]
+KRUSHER1976 calls [0,02 $]
+B2B_Suckouts folds
+OmgAKs raises [0,08 $]
+defmoon folds
+awe590632 calls [0,08 $]
+SKDynasty folds
+tekiller243 folds
+Hendrixx14 folds
+KRUSHER1976 calls [0,06 $]
+** Dealing flop ** [ 8Herz, 8Karo, 3Karo ]
+KRUSHER1976 checks
+OmgAKs checks
+awe590632 checks
+** Dealing turn ** [ 5Pik ]
+KRUSHER1976 bets [0,27 $]
+OmgAKs folds
+awe590632 folds
+** Summary **
+KRUSHER1976 did not show his hand
+KRUSHER1976 collected [ 0,26 $ ]
+
+
+
+#Game No : 551182532
+***** 888poker Hand History for Game 551182532 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:18:52
+Table Linkoping 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,10 $ )
+Seat 2: awe590632 ( 0,79 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 1,98 $ )
+Seat 7: KRUSHER1976 ( 0,98 $ )
+Seat 9: B2B_Suckouts ( 3,06 $ )
+Seat 10: OmgAKs ( 2 $ )
+Hendrixx14 posts small blind [0,01 $]
+KRUSHER1976 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, APik ]
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 folds
+tekiller243 folds
+Hendrixx14 folds
+** Summary **
+KRUSHER1976 did not show his hand
+KRUSHER1976 collected [ 0,03 $ ]
+
+
+
+#Game No : 551182583
+***** 888poker Hand History for Game 551182583 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:19:23
+Table Linkoping 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,10 $ )
+Seat 2: awe590632 ( 0,79 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 1,97 $ )
+Seat 7: KRUSHER1976 ( 0,99 $ )
+Seat 9: B2B_Suckouts ( 3,06 $ )
+Seat 10: OmgAKs ( 2 $ )
+KRUSHER1976 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 2Pik ]
+OmgAKs folds
+defmoon folds
+awe590632 folds
+tekiller243 folds
+Hendrixx14 folds
+KRUSHER1976 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 551182627
+***** 888poker Hand History for Game 551182627 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:19:44
+Table Linkoping 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 2: awe590632 ( 0,79 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 1,97 $ )
+Seat 7: KRUSHER1976 ( 0,98 $ )
+Seat 9: B2B_Suckouts ( 3,07 $ )
+Seat 10: OmgAKs ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, JHerz ]
+awe590632 calls [0,02 $]
+tekiller243 folds
+Hendrixx14 calls [0,02 $]
+KRUSHER1976 calls [0,02 $]
+B2B_Suckouts calls [0,01 $]
+OmgAKs checks
+** Dealing flop ** [ 3Kreuz, 6Kreuz, 5Karo ]
+B2B_Suckouts checks
+OmgAKs bets [0,05 $]
+awe590632 folds
+Hendrixx14 folds
+KRUSHER1976 calls [0,05 $]
+B2B_Suckouts folds
+** Dealing turn ** [ 7Herz ]
+OmgAKs checks
+KRUSHER1976 bets [0,20 $]
+OmgAKs raises [1,93 $]
+KRUSHER1976 calls [0,71 $]
+** Dealing river ** [ 3Pik ]
+** Summary **
+KRUSHER1976 shows [ 6Herz, 5Herz ]
+OmgAKs shows [ 7Kreuz, 4Herz ]
+OmgAKs collected [ 1,90 $ ]
+
+
+
+#Game No : 551182719
+***** 888poker Hand History for Game 551182719 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:20:41
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 2: awe590632 ( 0,77 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 1,95 $ )
+Seat 7: KRUSHER1976 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,05 $ )
+Seat 10: OmgAKs ( 2,92 $ )
+OmgAKs posts small blind [0,01 $]
+awe590632 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 5Pik ]
+tekiller243 folds
+Hendrixx14 folds
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs raises [0,04 $]
+awe590632 calls [0,03 $]
+** Dealing flop ** [ QKaro, 4Pik, 9Kreuz ]
+OmgAKs checks
+awe590632 bets [0,05 $]
+OmgAKs folds
+** Summary **
+awe590632 collected [ 0,10 $ ]
+
+
+
+#Game No : 551182773
+***** 888poker Hand History for Game 551182773 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:21:09
+Table Linkoping 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 2: awe590632 ( 0,82 $ )
+Seat 5: tekiller243 ( 2 $ )
+Seat 6: Hendrixx14 ( 1,95 $ )
+Seat 7: KRUSHER1976 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,05 $ )
+Seat 10: OmgAKs ( 2,87 $ )
+awe590632 posts small blind [0,01 $]
+tekiller243 folds
+Hendrixx14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, QHerz ]
+KRUSHER1976 folds
+B2B_Suckouts folds
+OmgAKs folds
+awe590632 folds
+** Summary **
+Hendrixx14 collected [ 0,03 $ ]
+
+
+
+#Game No : 551182791
+***** 888poker Hand History for Game 551182791 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:21:20
+Table Linkoping 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: awe590632 ( 0,81 $ )
+Seat 6: Hendrixx14 ( 1,96 $ )
+Seat 7: KRUSHER1976 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,05 $ )
+Seat 10: OmgAKs ( 2,87 $ )
+Hendrixx14 posts small blind [0,01 $]
+KRUSHER1976 folds
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 9Pik ]
+OmgAKs folds
+awe590632 calls [0,02 $]
+Hendrixx14 folds
+B2B_Suckouts raises [0,02 $]
+awe590632 calls [0,02 $]
+** Dealing flop ** [ 3Kreuz, 7Pik, 3Pik ]
+B2B_Suckouts bets [0,02 $]
+awe590632 calls [0,02 $]
+** Dealing turn ** [ 8Karo ]
+B2B_Suckouts bets [0,02 $]
+awe590632 folds
+** Summary **
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 551182856
+***** 888poker Hand History for Game 551182856 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:21:54
+Table Linkoping 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: awe590632 ( 0,75 $ )
+Seat 6: Hendrixx14 ( 1,95 $ )
+Seat 9: B2B_Suckouts ( 3,12 $ )
+Seat 10: OmgAKs ( 2,87 $ )
+B2B_Suckouts posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 2Karo ]
+awe590632 raises [0,07 $]
+Hendrixx14 folds
+B2B_Suckouts folds
+OmgAKs folds
+** Summary **
+awe590632 collected [ 0,05 $ ]
+
+
+
+#Game No : 551182880
+***** 888poker Hand History for Game 551182880 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:22:11
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: defmoon ( 2,10 $ )
+Seat 2: awe590632 ( 0,78 $ )
+Seat 3: World014 ( 0,80 $ )
+Seat 6: Hendrixx14 ( 1,95 $ )
+Seat 9: B2B_Suckouts ( 3,11 $ )
+Seat 10: OmgAKs ( 2,85 $ )
+OmgAKs posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+World014 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, AHerz ]
+awe590632 raises [0,04 $]
+World014 calls [0,02 $]
+Hendrixx14 calls [0,04 $]
+B2B_Suckouts raises [0,16 $]
+OmgAKs folds
+defmoon folds
+awe590632 folds
+World014 folds
+Hendrixx14 folds
+** Summary **
+B2B_Suckouts collected [ 0,19 $ ]
+
+
+
+#Game No : 551182954
+***** 888poker Hand History for Game 551182954 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:22:46
+Table Linkoping 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,08 $ )
+Seat 2: awe590632 ( 0,74 $ )
+Seat 3: World014 ( 0,76 $ )
+Seat 6: Hendrixx14 ( 1,91 $ )
+Seat 7: boyarin626 ( 0,96 $ )
+Seat 9: B2B_Suckouts ( 3,26 $ )
+Seat 10: OmgAKs ( 2,84 $ )
+defmoon posts small blind [0,01 $]
+awe590632 posts big blind [0,02 $]
+boyarin626 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, QPik ]
+World014 calls [0,02 $]
+Hendrixx14 calls [0,02 $]
+boyarin626 raises [0,12 $]
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 folds
+World014 calls [0,12 $]
+Hendrixx14 folds
+** Dealing flop ** [ 3Pik, 9Herz, 7Karo ]
+World014 checks
+boyarin626 checks
+** Dealing turn ** [ 10Herz ]
+World014 bets [0,16 $]
+boyarin626 calls [0,16 $]
+** Dealing river ** [ 5Pik ]
+World014 bets [0,32 $]
+boyarin626 folds
+** Summary **
+World014 collected [ 0,61 $ ]
+
+
+
+#Game No : 551183049
+***** 888poker Hand History for Game 551183049 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:23:41
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,07 $ )
+Seat 2: awe590632 ( 0,72 $ )
+Seat 3: World014 ( 1,07 $ )
+Seat 4: PAOLDINI ( 0,80 $ )
+Seat 6: Hendrixx14 ( 1,89 $ )
+Seat 7: boyarin626 ( 0,66 $ )
+Seat 9: B2B_Suckouts ( 3,26 $ )
+Seat 10: OmgAKs ( 2,84 $ )
+awe590632 posts small blind [0,01 $]
+World014 posts big blind [0,02 $]
+PAOLDINI posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, JPik ]
+PAOLDINI checks
+Hendrixx14 folds
+boyarin626 folds
+B2B_Suckouts raises [0,06 $]
+OmgAKs folds
+defmoon folds
+awe590632 calls [0,05 $]
+World014 calls [0,04 $]
+PAOLDINI folds
+** Dealing flop ** [ 10Pik, 5Karo, 9Kreuz ]
+awe590632 checks
+World014 checks
+B2B_Suckouts bets [0,06 $]
+awe590632 calls [0,06 $]
+World014 folds
+** Dealing turn ** [ APik ]
+awe590632 checks
+B2B_Suckouts bets [0,60 $]
+awe590632 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,30 $ ]
+
+
+
+#Game No : 551183223
+***** 888poker Hand History for Game 551183223 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:25:14
+Table Linkoping 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,07 $ )
+Seat 2: awe590632 ( 0,60 $ )
+Seat 3: World014 ( 1,01 $ )
+Seat 4: PAOLDINI ( 0,78 $ )
+Seat 6: Hendrixx14 ( 1,89 $ )
+Seat 7: boyarin626 ( 0,66 $ )
+Seat 9: B2B_Suckouts ( 3,44 $ )
+Seat 10: OmgAKs ( 2,84 $ )
+World014 posts small blind [0,01 $]
+PAOLDINI posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 7Pik ]
+Hendrixx14 calls [0,02 $]
+boyarin626 calls [0,02 $]
+B2B_Suckouts folds
+OmgAKs raises [0,10 $]
+defmoon folds
+awe590632 folds
+World014 folds
+PAOLDINI folds
+Hendrixx14 calls [0,08 $]
+boyarin626 calls [0,08 $]
+** Dealing flop ** [ 5Herz, 9Pik, AKaro ]
+Hendrixx14 checks
+boyarin626 checks
+OmgAKs checks
+** Dealing turn ** [ QKreuz ]
+Hendrixx14 checks
+boyarin626 checks
+OmgAKs checks
+** Dealing river ** [ 2Karo ]
+Hendrixx14 checks
+boyarin626 bets [0,56 $]
+OmgAKs folds
+Hendrixx14 folds
+** Summary **
+boyarin626 collected [ 0,31 $ ]
+
+
+
+#Game No : 551183402
+***** 888poker Hand History for Game 551183402 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:26:58
+Table Linkoping 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: defmoon ( 2,07 $ )
+Seat 2: awe590632 ( 0,60 $ )
+Seat 3: World014 ( 1 $ )
+Seat 4: PAOLDINI ( 0,76 $ )
+Seat 5: Woffinden ( 2 $ )
+Seat 6: Hendrixx14 ( 1,79 $ )
+Seat 7: boyarin626 ( 0,87 $ )
+Seat 9: B2B_Suckouts ( 3,44 $ )
+Seat 10: OmgAKs ( 2,74 $ )
+PAOLDINI posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, QPik ]
+Hendrixx14 calls [0,02 $]
+boyarin626 folds
+B2B_Suckouts folds
+OmgAKs folds
+defmoon raises [0,08 $]
+awe590632 calls [0,08 $]
+World014 folds
+PAOLDINI folds
+Woffinden folds
+Hendrixx14 folds
+** Dealing flop ** [ 3Kreuz, JKaro, 5Kreuz ]
+defmoon bets [0,10 $]
+awe590632 calls [0,10 $]
+** Dealing turn ** [ 10Pik ]
+defmoon bets [0,16 $]
+awe590632 calls [0,16 $]
+** Dealing river ** [ 8Karo ]
+defmoon checks
+awe590632 bets [0,26 $]
+defmoon folds
+** Summary **
+awe590632 did not show his hand
+awe590632 collected [ 0,69 $ ]
+
+
+
+#Game No : 551183638
+***** 888poker Hand History for Game 551183638 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:29:06
+Table Linkoping 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: defmoon ( 1,73 $ )
+Seat 2: awe590632 ( 0,95 $ )
+Seat 3: World014 ( 1 $ )
+Seat 4: PAOLDINI ( 0,75 $ )
+Seat 5: Woffinden ( 2 $ )
+Seat 6: Hendrixx14 ( 1,77 $ )
+Seat 7: boyarin626 ( 0,87 $ )
+Seat 9: B2B_Suckouts ( 3,44 $ )
+Seat 10: OmgAKs ( 2,74 $ )
+Woffinden posts small blind [0,01 $]
+Hendrixx14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 3Herz ]
+boyarin626 folds
+B2B_Suckouts folds
+OmgAKs folds
+defmoon raises [0,06 $]
+awe590632 folds
+World014 folds
+PAOLDINI folds
+Woffinden folds
+Hendrixx14 folds
+** Summary **
+defmoon did not show his hand
+defmoon collected [ 0,05 $ ]
+
+
+
+#Game No : 551183694
+***** 888poker Hand History for Game 551183694 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:29:37
+Table Linkoping 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: defmoon ( 1,76 $ )
+Seat 2: awe590632 ( 0,95 $ )
+Seat 3: World014 ( 1 $ )
+Seat 4: PAOLDINI ( 0,75 $ )
+Seat 5: Woffinden ( 2 $ )
+Seat 6: Hendrixx14 ( 1,75 $ )
+Seat 9: B2B_Suckouts ( 3,44 $ )
+Seat 10: OmgAKs ( 2,74 $ )
+Hendrixx14 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, JKaro ]
+OmgAKs folds
+defmoon folds
+awe590632 folds
+World014 calls [0,02 $]
+PAOLDINI folds
+Woffinden folds
+Hendrixx14 calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+World014 folds
+Hendrixx14 calls [0,04 $]
+** Dealing flop ** [ 6Karo, 4Herz, 4Pik ]
+Hendrixx14 checks
+B2B_Suckouts checks
+** Dealing turn ** [ JPik ]
+Hendrixx14 checks
+B2B_Suckouts bets [0,07 $]
+Hendrixx14 folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 551183873
+***** 888poker Hand History for Game 551183873 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:31:13
+Table Linkoping 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: defmoon ( 1,76 $ )
+Seat 2: awe590632 ( 0,95 $ )
+Seat 3: World014 ( 0,98 $ )
+Seat 4: PAOLDINI ( 0,75 $ )
+Seat 5: Woffinden ( 2 $ )
+Seat 6: Hendrixx14 ( 1,69 $ )
+Seat 9: B2B_Suckouts ( 3,52 $ )
+Seat 10: OmgAKs ( 2,74 $ )
+B2B_Suckouts posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 3Herz ]
+defmoon folds
+awe590632 folds
+World014 calls [0,02 $]
+PAOLDINI calls [0,02 $]
+Woffinden folds
+Hendrixx14 calls [0,02 $]
+B2B_Suckouts folds
+OmgAKs checks
+** Dealing flop ** [ 9Kreuz, 8Karo, 6Pik ]
+OmgAKs checks
+World014 bets [0,04 $]
+PAOLDINI calls [0,04 $]
+Hendrixx14 calls [0,04 $]
+OmgAKs folds
+** Dealing turn ** [ 9Pik ]
+World014 bets [0,10 $]
+PAOLDINI folds
+Hendrixx14 calls [0,10 $]
+** Dealing river ** [ QHerz ]
+World014 bets [0,10 $]
+Hendrixx14 folds
+** Summary **
+World014 collected [ 0,39 $ ]
+
+
+
+#Game No : 551184055
+***** 888poker Hand History for Game 551184055 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:32:44
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: defmoon ( 1,76 $ )
+Seat 2: awe590632 ( 0,95 $ )
+Seat 3: World014 ( 1,21 $ )
+Seat 4: PAOLDINI ( 0,69 $ )
+Seat 5: Woffinden ( 2 $ )
+Seat 6: Hendrixx14 ( 1,53 $ )
+Seat 7: boyarin626 ( 0,87 $ )
+Seat 9: B2B_Suckouts ( 3,51 $ )
+Seat 10: OmgAKs ( 2,72 $ )
+OmgAKs posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+boyarin626 posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 4Karo ]
+awe590632 folds
+World014 calls [0,02 $]
+PAOLDINI calls [0,02 $]
+Woffinden raises [0,10 $]
+Hendrixx14 folds
+boyarin626 calls [0,08 $]
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+World014 folds
+PAOLDINI folds
+** Dealing flop ** [ KHerz, JPik, 8Herz ]
+Woffinden bets [0,18 $]
+boyarin626 folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,27 $ ]
+
+
+
+#Game No : 551184228
+***** 888poker Hand History for Game 551184228 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:34:17
+Table Linkoping 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: defmoon ( 1,74 $ )
+Seat 2: awe590632 ( 0,95 $ )
+Seat 3: World014 ( 1,19 $ )
+Seat 4: PAOLDINI ( 0,67 $ )
+Seat 5: Woffinden ( 2,17 $ )
+Seat 6: Hendrixx14 ( 1,53 $ )
+Seat 7: boyarin626 ( 0,76 $ )
+Seat 9: B2B_Suckouts ( 3,51 $ )
+Seat 10: OmgAKs ( 2,71 $ )
+defmoon posts small blind [0,01 $]
+awe590632 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 6Herz ]
+World014 folds
+PAOLDINI folds
+Woffinden folds
+Hendrixx14 folds
+boyarin626 folds
+B2B_Suckouts folds
+OmgAKs raises [0,04 $]
+defmoon raises [0,11 $]
+awe590632 calls [0,10 $]
+OmgAKs calls [0,08 $]
+** Dealing flop ** [ 5Herz, JKaro, KKreuz ]
+defmoon checks
+awe590632 checks
+OmgAKs checks
+** Dealing turn ** [ AKaro ]
+defmoon checks
+awe590632 checks
+OmgAKs checks
+** Dealing river ** [ 4Pik ]
+defmoon checks
+awe590632 checks
+OmgAKs checks
+** Summary **
+defmoon shows [ 10Kreuz, KPik ]
+awe590632 mucks [ 7Kreuz, 7Herz ]
+OmgAKs mucks [ 3Pik, 3Kreuz ]
+defmoon collected [ 0,34 $ ]
+
+
+
+#Game No : 551184412
+***** 888poker Hand History for Game 551184412 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:35:46
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: defmoon ( 1,96 $ )
+Seat 2: awe590632 ( 0,83 $ )
+Seat 3: World014 ( 1,19 $ )
+Seat 4: PAOLDINI ( 0,67 $ )
+Seat 5: Woffinden ( 2,17 $ )
+Seat 6: Hendrixx14 ( 1,53 $ )
+Seat 7: boyarin626 ( 0,76 $ )
+Seat 9: B2B_Suckouts ( 3,51 $ )
+Seat 10: OmgAKs ( 2,59 $ )
+awe590632 posts small blind [0,01 $]
+World014 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 7Kreuz ]
+PAOLDINI folds
+Woffinden raises [0,08 $]
+Hendrixx14 folds
+boyarin626 raises [0,32 $]
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 folds
+World014 folds
+Woffinden calls [0,24 $]
+** Dealing flop ** [ 2Kreuz, JKreuz, QKaro ]
+Woffinden checks
+boyarin626 bets [0,44 $]
+Woffinden folds
+** Summary **
+boyarin626 did not show his hand
+boyarin626 collected [ 0,63 $ ]
+
+
+
+#Game No : 551184520
+***** 888poker Hand History for Game 551184520 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:36:45
+Table Linkoping 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: defmoon ( 1,96 $ )
+Seat 2: awe590632 ( 0,82 $ )
+Seat 3: World014 ( 1,17 $ )
+Seat 5: Woffinden ( 2 $ )
+Seat 6: Hendrixx14 ( 1,53 $ )
+Seat 7: boyarin626 ( 1,07 $ )
+Seat 9: B2B_Suckouts ( 3,51 $ )
+Seat 10: OmgAKs ( 2,59 $ )
+World014 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, QPik ]
+Hendrixx14 folds
+boyarin626 folds
+B2B_Suckouts raises [0,06 $]
+OmgAKs folds
+defmoon folds
+awe590632 folds
+World014 folds
+Woffinden calls [0,04 $]
+** Dealing flop ** [ 2Pik, KHerz, 3Pik ]
+Woffinden bets [0,08 $]
+B2B_Suckouts calls [0,08 $]
+** Dealing turn ** [ 4Herz ]
+Woffinden checks
+B2B_Suckouts checks
+** Dealing river ** [ JPik ]
+Woffinden checks
+B2B_Suckouts bets [0,16 $]
+Woffinden calls [0,16 $]
+** Summary **
+B2B_Suckouts shows [ APik, QPik ]
+Woffinden mucks [ JKaro, AHerz ]
+B2B_Suckouts collected [ 0,58 $ ]
+
+
+
+#Game No : 551184696
+***** 888poker Hand History for Game 551184696 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:38:19
+Table Linkoping 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: defmoon ( 1,96 $ )
+Seat 2: awe590632 ( 0,82 $ )
+Seat 3: World014 ( 1,16 $ )
+Seat 5: Woffinden ( 2 $ )
+Seat 6: Hendrixx14 ( 1,53 $ )
+Seat 7: boyarin626 ( 1,07 $ )
+Seat 9: B2B_Suckouts ( 3,79 $ )
+Seat 10: OmgAKs ( 2,59 $ )
+Woffinden posts small blind [0,01 $]
+Hendrixx14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, QPik ]
+boyarin626 folds
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 calls [0,02 $]
+World014 calls [0,02 $]
+Woffinden folds
+Hendrixx14 checks
+** Dealing flop ** [ 2Herz, AKaro, 8Karo ]
+Hendrixx14 checks
+awe590632 checks
+World014 checks
+** Dealing turn ** [ 10Kreuz ]
+Hendrixx14 bets [0,08 $]
+awe590632 calls [0,08 $]
+World014 calls [0,08 $]
+** Dealing river ** [ 5Kreuz ]
+Hendrixx14 checks
+awe590632 checks
+World014 bets [0,15 $]
+Hendrixx14 calls [0,15 $]
+awe590632 folds
+** Summary **
+World014 shows [ 9Karo, AKreuz ]
+Hendrixx14 mucks [ 10Karo, KHerz ]
+World014 collected [ 0,58 $ ]
+
+
+
+#Game No : 551184822
+***** 888poker Hand History for Game 551184822 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:39:24
+Table Linkoping 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: defmoon ( 1,96 $ )
+Seat 2: awe590632 ( 0,72 $ )
+Seat 3: World014 ( 1,49 $ )
+Seat 4: PAOLDINI ( 0,67 $ )
+Seat 5: Woffinden ( 2 $ )
+Seat 6: Hendrixx14 ( 1,28 $ )
+Seat 7: boyarin626 ( 1,07 $ )
+Seat 9: B2B_Suckouts ( 3,79 $ )
+Seat 10: OmgAKs ( 2,59 $ )
+Hendrixx14 posts small blind [0,01 $]
+boyarin626 posts big blind [0,02 $]
+PAOLDINI posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 10Karo ]
+B2B_Suckouts folds
+OmgAKs folds
+defmoon folds
+awe590632 folds
+World014 calls [0,02 $]
+PAOLDINI raises [0,02 $]
+Woffinden raises [0,16 $]
+Hendrixx14 folds
+boyarin626 folds
+World014 folds
+PAOLDINI calls [0,12 $]
+** Dealing flop ** [ 9Kreuz, KKreuz, QHerz ]
+PAOLDINI checks
+Woffinden bets [0,25 $]
+PAOLDINI raises [0,50 $]
+Woffinden calls [0,25 $]
+** Dealing turn ** [ 8Kreuz ]
+** Dealing river ** [ QPik ]
+** Summary **
+PAOLDINI shows [ QKreuz, AKaro ]
+Woffinden shows [ 9Herz, 9Pik ]
+Woffinden collected [ 1,30 $ ]
+
+
+
+#Game No : 551184962
+***** 888poker Hand History for Game 551184962 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:40:44
+Table Linkoping 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: defmoon ( 1,96 $ )
+Seat 2: awe590632 ( 0,72 $ )
+Seat 3: World014 ( 1,47 $ )
+Seat 4: PAOLDINI ( 0,80 $ )
+Seat 5: Woffinden ( 2,64 $ )
+Seat 6: Hendrixx14 ( 1,27 $ )
+Seat 7: boyarin626 ( 1,05 $ )
+Seat 9: B2B_Suckouts ( 3,79 $ )
+Seat 10: OmgAKs ( 2,59 $ )
+boyarin626 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 10Kreuz ]
+OmgAKs folds
+defmoon folds
+awe590632 folds
+World014 calls [0,02 $]
+PAOLDINI calls [0,02 $]
+Woffinden folds
+Hendrixx14 folds
+boyarin626 calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+World014 calls [0,04 $]
+PAOLDINI calls [0,04 $]
+boyarin626 calls [0,04 $]
+** Dealing flop ** [ 3Herz, JKaro, JPik ]
+boyarin626 checks
+B2B_Suckouts checks
+World014 checks
+PAOLDINI checks
+** Dealing turn ** [ 5Pik ]
+boyarin626 checks
+B2B_Suckouts checks
+World014 checks
+PAOLDINI checks
+** Dealing river ** [ 3Pik ]
+boyarin626 checks
+B2B_Suckouts checks
+World014 checks
+PAOLDINI checks
+** Summary **
+boyarin626 shows [ 7Karo, 8Karo ]
+B2B_Suckouts shows [ KKreuz, 10Kreuz ]
+World014 mucks [ QHerz, 6Herz ]
+PAOLDINI mucks [ 9Kreuz, 10Pik ]
+B2B_Suckouts collected [ 0,23 $ ]
+
+
+
+#Game No : 551185202
+***** 888poker Hand History for Game 551185202 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:42:49
+Table Linkoping 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: defmoon ( 1,96 $ )
+Seat 3: World014 ( 1,41 $ )
+Seat 4: PAOLDINI ( 0,74 $ )
+Seat 5: Woffinden ( 2,64 $ )
+Seat 6: Hendrixx14 ( 1,27 $ )
+Seat 7: boyarin626 ( 0,99 $ )
+Seat 9: B2B_Suckouts ( 3,96 $ )
+B2B_Suckouts posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, APik ]
+World014 folds
+PAOLDINI folds
+Woffinden folds
+Hendrixx14 folds
+boyarin626 folds
+B2B_Suckouts calls [0,01 $]
+defmoon checks
+** Dealing flop ** [ 2Kreuz, KPik, 2Herz ]
+B2B_Suckouts checks
+defmoon bets [0,04 $]
+B2B_Suckouts folds
+** Summary **
+defmoon did not show his hand
+defmoon collected [ 0,04 $ ]
+
+
+
+#Game No : 551185265
+***** 888poker Hand History for Game 551185265 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:43:25
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: defmoon ( 1,98 $ )
+Seat 3: World014 ( 1,41 $ )
+Seat 4: PAOLDINI ( 0,74 $ )
+Seat 5: Woffinden ( 2,64 $ )
+Seat 6: Hendrixx14 ( 1,27 $ )
+Seat 7: boyarin626 ( 0,99 $ )
+Seat 9: B2B_Suckouts ( 3,94 $ )
+defmoon posts small blind [0,01 $]
+World014 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 8Kreuz ]
+PAOLDINI folds
+Woffinden raises [0,08 $]
+Hendrixx14 folds
+boyarin626 folds
+B2B_Suckouts folds
+defmoon folds
+World014 folds
+** Summary **
+Woffinden collected [ 0,05 $ ]
+
+
+
+#Game No : 551185361
+***** 888poker Hand History for Game 551185361 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:44:11
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: defmoon ( 1,97 $ )
+Seat 3: World014 ( 1,39 $ )
+Seat 4: PAOLDINI ( 0,74 $ )
+Seat 5: Woffinden ( 2,67 $ )
+Seat 6: Hendrixx14 ( 1,27 $ )
+Seat 7: boyarin626 ( 0,99 $ )
+Seat 9: B2B_Suckouts ( 3,94 $ )
+World014 posts small blind [0,01 $]
+PAOLDINI posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, QPik ]
+Woffinden raises [0,08 $]
+Hendrixx14 folds
+boyarin626 folds
+B2B_Suckouts calls [0,08 $]
+defmoon folds
+World014 folds
+PAOLDINI folds
+** Dealing flop ** [ 5Karo, 9Karo, 2Herz ]
+Woffinden bets [0,12 $]
+B2B_Suckouts folds
+** Summary **
+Woffinden collected [ 0,18 $ ]
+
+
+
+#Game No : 551185466
+***** 888poker Hand History for Game 551185466 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:45:08
+Table Linkoping 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: defmoon ( 1,97 $ )
+Seat 4: PAOLDINI ( 0,72 $ )
+Seat 5: Woffinden ( 2,77 $ )
+Seat 6: Hendrixx14 ( 1,27 $ )
+Seat 7: boyarin626 ( 0,99 $ )
+Seat 9: B2B_Suckouts ( 3,86 $ )
+Woffinden posts small blind [0,01 $]
+Hendrixx14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 8Herz ]
+boyarin626 calls [0,02 $]
+B2B_Suckouts folds
+defmoon raises [0,08 $]
+PAOLDINI folds
+Woffinden folds
+Hendrixx14 folds
+boyarin626 calls [0,06 $]
+** Dealing flop ** [ 2Kreuz, 4Karo, 3Herz ]
+boyarin626 checks
+defmoon bets [0,12 $]
+boyarin626 raises [0,48 $]
+defmoon raises [1,77 $]
+boyarin626 calls [0,43 $]
+** Dealing turn ** [ 7Karo ]
+** Dealing river ** [ 9Pik ]
+** Summary **
+defmoon shows [ 8Kreuz, 8Pik ]
+boyarin626 shows [ JKaro, 2Karo ]
+defmoon collected [ 1,89 $ ]
+
+
+
+#Game No : 551185542
+***** 888poker Hand History for Game 551185542 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:45:48
+Table Linkoping 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 1: defmoon ( 2,87 $ )
+Seat 4: PAOLDINI ( 0,72 $ )
+Seat 5: Woffinden ( 2,76 $ )
+Seat 6: Hendrixx14 ( 1,25 $ )
+Seat 9: B2B_Suckouts ( 3,86 $ )
+Hendrixx14 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, QKreuz ]
+defmoon folds
+PAOLDINI calls [0,02 $]
+Woffinden folds
+Hendrixx14 calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+PAOLDINI calls [0,04 $]
+Hendrixx14 calls [0,04 $]
+** Dealing flop ** [ AKaro, AHerz, 4Karo ]
+Hendrixx14 checks
+B2B_Suckouts bets [0,02 $]
+PAOLDINI calls [0,02 $]
+Hendrixx14 calls [0,02 $]
+** Dealing turn ** [ JHerz ]
+Hendrixx14 checks
+B2B_Suckouts bets [0,02 $]
+PAOLDINI folds
+Hendrixx14 calls [0,02 $]
+** Dealing river ** [ 7Kreuz ]
+Hendrixx14 checks
+B2B_Suckouts bets [0,30 $]
+Hendrixx14 folds
+** Summary **
+B2B_Suckouts collected [ 0,27 $ ]
+
+
+
+#Game No : 551185684
+***** 888poker Hand History for Game 551185684 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:47:07
+Table Linkoping 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: defmoon ( 2,87 $ )
+Seat 3: Drdoomx91 ( 2 $ )
+Seat 4: PAOLDINI ( 0,64 $ )
+Seat 6: Hendrixx14 ( 1,15 $ )
+Seat 9: B2B_Suckouts ( 4,03 $ )
+Seat 10: windamere719 ( 1,40 $ )
+B2B_Suckouts posts small blind [0,01 $]
+windamere719 posts big blind [0,02 $]
+Drdoomx91 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 4Kreuz ]
+defmoon raises [0,08 $]
+Drdoomx91 calls [0,06 $]
+PAOLDINI folds
+Hendrixx14 folds
+B2B_Suckouts folds
+windamere719 calls [0,06 $]
+** Dealing flop ** [ AKreuz, 4Pik, 3Herz ]
+windamere719 checks
+defmoon checks
+Drdoomx91 bets [0,12 $]
+windamere719 calls [0,12 $]
+defmoon folds
+** Dealing turn ** [ QPik ]
+windamere719 checks
+Drdoomx91 checks
+** Dealing river ** [ 9Pik ]
+windamere719 bets [0,24 $]
+Drdoomx91 calls [0,24 $]
+** Summary **
+windamere719 shows [ AKaro, 7Pik ]
+Drdoomx91 shows [ KKreuz, AHerz ]
+Drdoomx91 collected [ 0,91 $ ]
+
+
+
+#Game No : 551185805
+***** 888poker Hand History for Game 551185805 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:48:12
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: defmoon ( 2,79 $ )
+Seat 3: Drdoomx91 ( 2,47 $ )
+Seat 4: PAOLDINI ( 0,64 $ )
+Seat 6: Hendrixx14 ( 1,15 $ )
+Seat 9: B2B_Suckouts ( 4,02 $ )
+Seat 10: windamere719 ( 0,96 $ )
+windamere719 posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 10Pik ]
+Drdoomx91 calls [0,02 $]
+PAOLDINI calls [0,02 $]
+Hendrixx14 folds
+B2B_Suckouts raises [0,06 $]
+windamere719 calls [0,05 $]
+defmoon folds
+Drdoomx91 calls [0,04 $]
+PAOLDINI calls [0,04 $]
+** Dealing flop ** [ 10Kreuz, 6Kreuz, KHerz ]
+windamere719 bets [0,26 $]
+Drdoomx91 folds
+PAOLDINI folds
+B2B_Suckouts folds
+** Summary **
+windamere719 collected [ 0,25 $ ]
+
+
+
+#Game No : 551185963
+***** 888poker Hand History for Game 551185963 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:49:33
+Table Linkoping 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: defmoon ( 2,77 $ )
+Seat 2: WhiteColor7 ( 0,80 $ )
+Seat 3: Drdoomx91 ( 2,41 $ )
+Seat 4: PAOLDINI ( 0,58 $ )
+Seat 5: head1714 ( 0,80 $ )
+Seat 6: Hendrixx14 ( 1,15 $ )
+Seat 9: B2B_Suckouts ( 3,96 $ )
+Seat 10: windamere719 ( 1,15 $ )
+defmoon posts small blind [0,01 $]
+WhiteColor7 posts big blind [0,02 $]
+head1714 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, JKreuz ]
+Drdoomx91 calls [0,02 $]
+PAOLDINI folds
+head1714 checks
+Hendrixx14 calls [0,02 $]
+B2B_Suckouts folds
+windamere719 raises [0,12 $]
+defmoon folds
+WhiteColor7 folds
+Drdoomx91 calls [0,10 $]
+head1714 calls [0,10 $]
+Hendrixx14 folds
+** Dealing flop ** [ 10Karo, 9Herz, 6Karo ]
+Drdoomx91 checks
+head1714 bets [0,13 $]
+windamere719 raises [0,80 $]
+Drdoomx91 raises [1,47 $]
+head1714 folds
+windamere719 calls [0,23 $]
+** Dealing turn ** [ QPik ]
+** Dealing river ** [ 5Karo ]
+** Summary **
+Drdoomx91 shows [ 9Karo, QKaro ]
+windamere719 shows [ 10Kreuz, AKaro ]
+Drdoomx91 collected [ 2,44 $ ]
+
+
+
+#Game No : 551186143
+***** 888poker Hand History for Game 551186143 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:51:02
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,76 $ )
+Seat 2: WhiteColor7 ( 0,78 $ )
+Seat 3: Drdoomx91 ( 3,70 $ )
+Seat 4: PAOLDINI ( 0,58 $ )
+Seat 5: head1714 ( 0,55 $ )
+Seat 6: Hendrixx14 ( 1,13 $ )
+Seat 9: B2B_Suckouts ( 3,96 $ )
+WhiteColor7 posts small blind [0,01 $]
+Drdoomx91 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 6Karo ]
+PAOLDINI raises [0,04 $]
+head1714 raises [0,06 $]
+Hendrixx14 folds
+B2B_Suckouts folds
+defmoon folds
+WhiteColor7 folds
+Drdoomx91 calls [0,04 $]
+PAOLDINI calls [0,02 $]
+** Dealing flop ** [ 9Kreuz, 9Herz, 3Pik ]
+Drdoomx91 checks
+PAOLDINI checks
+head1714 bets [0,09 $]
+Drdoomx91 folds
+PAOLDINI raises [0,18 $]
+head1714 raises [0,40 $]
+PAOLDINI calls [0,31 $]
+** Dealing turn ** [ 2Karo ]
+** Dealing river ** [ 9Karo ]
+** Summary **
+PAOLDINI shows [ 4Pik, 4Herz ]
+head1714 shows [ AHerz, AKaro ]
+head1714 collected [ 1,10 $ ]
+
+
+
+#Game No : 551186268
+***** 888poker Hand History for Game 551186268 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:52:06
+Table Linkoping 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: defmoon ( 2,76 $ )
+Seat 2: WhiteColor7 ( 0,77 $ )
+Seat 4: PAOLDINI ( 0,03 $ )
+Seat 5: head1714 ( 1,10 $ )
+Seat 6: Hendrixx14 ( 1,13 $ )
+Seat 9: B2B_Suckouts ( 3,96 $ )
+PAOLDINI posts small blind [0,01 $]
+head1714 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 4Kreuz ]
+Hendrixx14 raises [0,08 $]
+B2B_Suckouts folds
+defmoon folds
+WhiteColor7 folds
+PAOLDINI calls [0,02 $]
+head1714 calls [0,06 $]
+** Dealing flop ** [ KKreuz, 9Kreuz, 7Herz ]
+head1714 checks
+Hendrixx14 bets [0,08 $]
+head1714 calls [0,08 $]
+** Dealing turn ** [ 8Kreuz ]
+head1714 checks
+Hendrixx14 checks
+** Dealing river ** [ 10Kreuz ]
+head1714 bets [0,94 $]
+Hendrixx14 folds
+** Summary **
+PAOLDINI shows [ 2Karo, 8Pik ]
+head1714 shows [ 10Pik, QKreuz ]
+head1714 collected [ 0,24 $ ]
+head1714 collected [ 0,09 $ ]
+
+
+
+#Game No : 551186377
+***** 888poker Hand History for Game 551186377 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:52:57
+Table Linkoping 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: defmoon ( 2,76 $ )
+Seat 2: WhiteColor7 ( 0,77 $ )
+Seat 4: PAOLDINI ( 0,80 $ )
+Seat 5: head1714 ( 1,27 $ )
+Seat 6: Hendrixx14 ( 0,97 $ )
+Seat 9: B2B_Suckouts ( 3,96 $ )
+head1714 posts small blind [0,01 $]
+Hendrixx14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 7Karo ]
+B2B_Suckouts folds
+defmoon folds
+WhiteColor7 folds
+PAOLDINI calls [0,02 $]
+head1714 calls [0,01 $]
+Hendrixx14 checks
+** Dealing flop ** [ JKaro, 8Pik, QHerz ]
+head1714 bets [1,25 $]
+Hendrixx14 folds
+PAOLDINI folds
+** Summary **
+head1714 collected [ 0,06 $ ]
+
+
+
+#Game No : 551186473
+***** 888poker Hand History for Game 551186473 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:53:39
+Table Linkoping 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,76 $ )
+Seat 2: WhiteColor7 ( 0,77 $ )
+Seat 4: PAOLDINI ( 0,78 $ )
+Seat 5: head1714 ( 1,31 $ )
+Seat 6: Hendrixx14 ( 0,95 $ )
+Seat 7: RaisaMih ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,96 $ )
+Hendrixx14 posts small blind [0,01 $]
+RaisaMih posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 9Karo ]
+B2B_Suckouts folds
+defmoon folds
+WhiteColor7 raises [0,06 $]
+PAOLDINI calls [0,06 $]
+head1714 folds
+Hendrixx14 calls [0,05 $]
+RaisaMih folds
+** Dealing flop ** [ AHerz, KPik, 3Herz ]
+Hendrixx14 bets [0,08 $]
+WhiteColor7 calls [0,08 $]
+PAOLDINI folds
+** Dealing turn ** [ 2Pik ]
+Hendrixx14 checks
+WhiteColor7 checks
+** Dealing river ** [ 5Kreuz ]
+Hendrixx14 checks
+WhiteColor7 bets [0,16 $]
+Hendrixx14 calls [0,16 $]
+** Summary **
+WhiteColor7 shows [ 10Karo, APik ]
+Hendrixx14 mucks [ KHerz, QPik ]
+WhiteColor7 collected [ 0,64 $ ]
+
+
+
+#Game No : 551186599
+***** 888poker Hand History for Game 551186599 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:54:39
+Table Linkoping 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,76 $ )
+Seat 2: WhiteColor7 ( 1,11 $ )
+Seat 4: PAOLDINI ( 0,72 $ )
+Seat 5: head1714 ( 1,31 $ )
+Seat 6: Hendrixx14 ( 0,65 $ )
+Seat 7: RaisaMih ( 0,78 $ )
+Seat 9: B2B_Suckouts ( 3,96 $ )
+RaisaMih posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 10Kreuz ]
+defmoon folds
+WhiteColor7 folds
+PAOLDINI calls [0,02 $]
+head1714 calls [0,02 $]
+Hendrixx14 calls [0,02 $]
+RaisaMih calls [0,01 $]
+B2B_Suckouts raises [0,08 $]
+PAOLDINI calls [0,08 $]
+head1714 calls [0,08 $]
+Hendrixx14 folds
+RaisaMih calls [0,08 $]
+** Dealing flop ** [ 7Pik, 4Kreuz, 7Kreuz ]
+RaisaMih bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+PAOLDINI calls [0,02 $]
+head1714 raises [0,16 $]
+RaisaMih raises [0,28 $]
+B2B_Suckouts folds
+PAOLDINI folds
+head1714 calls [0,14 $]
+** Dealing turn ** [ KPik ]
+RaisaMih bets [0,02 $]
+head1714 calls [0,02 $]
+** Dealing river ** [ QKreuz ]
+RaisaMih bets [0,02 $]
+head1714 raises [0,89 $]
+RaisaMih calls [0,34 $]
+** Summary **
+head1714 shows [ 3Pik, AKreuz ]
+RaisaMih shows [ 7Herz, KHerz ]
+RaisaMih collected [ 1,71 $ ]
+
+
+
+#Game No : 551186820
+***** 888poker Hand History for Game 551186820 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:56:24
+Table Linkoping 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: defmoon ( 2,76 $ )
+Seat 4: PAOLDINI ( 0,60 $ )
+Seat 5: head1714 ( 0,53 $ )
+Seat 7: RaisaMih ( 1,71 $ )
+Seat 9: B2B_Suckouts ( 3,84 $ )
+Seat 10: SinisterKid ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 4Kreuz ]
+defmoon raises [0,06 $]
+PAOLDINI folds
+head1714 raises [0,53 $]
+RaisaMih folds
+B2B_Suckouts folds
+SinisterKid folds
+defmoon calls [0,47 $]
+** Dealing flop ** [ JKaro, 3Kreuz, 3Pik ]
+** Dealing turn ** [ 9Karo ]
+** Dealing river ** [ JKreuz ]
+** Summary **
+defmoon shows [ QHerz, APik ]
+head1714 shows [ AHerz, 3Karo ]
+head1714 collected [ 1,03 $ ]
+
+
+
+#Game No : 551186900
+***** 888poker Hand History for Game 551186900 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:57:05
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: defmoon ( 2,23 $ )
+Seat 4: PAOLDINI ( 0,60 $ )
+Seat 5: head1714 ( 1,03 $ )
+Seat 6: heaguerom ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,83 $ )
+Seat 10: SinisterKid ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+heaguerom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, JHerz ]
+PAOLDINI calls [0,02 $]
+head1714 calls [0,02 $]
+heaguerom checks
+B2B_Suckouts folds
+SinisterKid calls [0,01 $]
+defmoon checks
+** Dealing flop ** [ 7Herz, 9Kreuz, 7Kreuz ]
+SinisterKid checks
+defmoon checks
+PAOLDINI checks
+head1714 bets [0,08 $]
+heaguerom folds
+SinisterKid folds
+defmoon folds
+PAOLDINI folds
+** Summary **
+head1714 collected [ 0,10 $ ]
+
+
+
+#Game No : 551187007
+***** 888poker Hand History for Game 551187007 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:58:02
+Table Linkoping 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,21 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,58 $ )
+Seat 5: head1714 ( 1,11 $ )
+Seat 6: heaguerom ( 1,98 $ )
+Seat 9: B2B_Suckouts ( 3,83 $ )
+Seat 10: SinisterKid ( 2 $ )
+defmoon posts small blind [0,01 $]
+DarkMedicine posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, JKaro ]
+PAOLDINI calls [0,02 $]
+head1714 calls [0,02 $]
+heaguerom folds
+B2B_Suckouts folds
+SinisterKid folds
+defmoon calls [0,01 $]
+DarkMedicine checks
+** Dealing flop ** [ 6Herz, AKaro, 6Pik ]
+defmoon bets [0,08 $]
+DarkMedicine folds
+PAOLDINI folds
+head1714 calls [0,08 $]
+** Dealing turn ** [ 6Karo ]
+defmoon bets [0,16 $]
+head1714 folds
+** Summary **
+defmoon collected [ 0,23 $ ]
+
+
+
+#Game No : 551187118
+***** 888poker Hand History for Game 551187118 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 20:58:53
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,34 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,56 $ )
+Seat 5: head1714 ( 1,01 $ )
+Seat 6: heaguerom ( 1,98 $ )
+Seat 9: B2B_Suckouts ( 3,83 $ )
+Seat 10: SinisterKid ( 2 $ )
+DarkMedicine posts small blind [0,01 $]
+PAOLDINI posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, AHerz ]
+head1714 folds
+heaguerom folds
+B2B_Suckouts raises [0,06 $]
+SinisterKid folds
+defmoon folds
+DarkMedicine folds
+PAOLDINI calls [0,04 $]
+** Dealing flop ** [ 9Kreuz, AKaro, APik ]
+PAOLDINI checks
+B2B_Suckouts checks
+** Dealing turn ** [ QPik ]
+PAOLDINI bets [0,09 $]
+B2B_Suckouts calls [0,09 $]
+** Dealing river ** [ 3Kreuz ]
+PAOLDINI bets [0,15 $]
+B2B_Suckouts raises [0,42 $]
+PAOLDINI calls [0,26 $]
+** Summary **
+PAOLDINI shows [ 3Pik, AKreuz ]
+B2B_Suckouts shows [ QHerz, AHerz ]
+B2B_Suckouts collected [ 1,06 $ ]
+
+
+
+#Game No : 551187271
+***** 888poker Hand History for Game 551187271 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:00:08
+Table Linkoping 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,34 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,80 $ )
+Seat 5: head1714 ( 1,01 $ )
+Seat 6: heaguerom ( 1,98 $ )
+Seat 9: B2B_Suckouts ( 4,33 $ )
+Seat 10: SinisterKid ( 2 $ )
+PAOLDINI posts small blind [0,01 $]
+head1714 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 6Herz ]
+heaguerom folds
+B2B_Suckouts folds
+SinisterKid folds
+defmoon folds
+DarkMedicine raises [0,06 $]
+PAOLDINI folds
+head1714 raises [0,22 $]
+DarkMedicine calls [0,18 $]
+** Dealing flop ** [ 8Pik, 10Karo, 3Herz ]
+head1714 bets [0,77 $]
+DarkMedicine folds
+** Summary **
+head1714 collected [ 0,46 $ ]
+
+
+
+#Game No : 551187346
+***** 888poker Hand History for Game 551187346 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:00:48
+Table Linkoping 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: defmoon ( 2,34 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,79 $ )
+Seat 5: head1714 ( 1,23 $ )
+Seat 6: heaguerom ( 1,98 $ )
+Seat 9: B2B_Suckouts ( 4,33 $ )
+Seat 10: SinisterKid ( 2 $ )
+head1714 posts small blind [0,01 $]
+heaguerom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 8Kreuz ]
+B2B_Suckouts folds
+SinisterKid folds
+defmoon raises [0,06 $]
+DarkMedicine folds
+PAOLDINI calls [0,06 $]
+head1714 calls [0,05 $]
+heaguerom folds
+** Dealing flop ** [ 5Kreuz, 10Kreuz, JHerz ]
+head1714 bets [0,02 $]
+defmoon raises [0,16 $]
+PAOLDINI calls [0,16 $]
+head1714 folds
+** Dealing turn ** [ 5Herz ]
+defmoon bets [0,36 $]
+PAOLDINI raises [0,57 $]
+defmoon calls [0,21 $]
+** Dealing river ** [ 7Karo ]
+** Summary **
+defmoon shows [ QHerz, QKreuz ]
+PAOLDINI shows [ 10Herz, KHerz ]
+defmoon collected [ 1,58 $ ]
+
+
+
+#Game No : 551187461
+***** 888poker Hand History for Game 551187461 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:01:47
+Table Linkoping 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: defmoon ( 3,13 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,80 $ )
+Seat 5: head1714 ( 1,15 $ )
+Seat 6: heaguerom ( 1,96 $ )
+Seat 7: tekiller243 ( 2 $ )
+Seat 9: B2B_Suckouts ( 4,33 $ )
+Seat 10: SinisterKid ( 2 $ )
+heaguerom posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 8Karo ]
+B2B_Suckouts folds
+SinisterKid folds
+defmoon folds
+DarkMedicine folds
+PAOLDINI raises [0,04 $]
+head1714 folds
+heaguerom folds
+tekiller243 folds
+** Summary **
+PAOLDINI collected [ 0,05 $ ]
+
+
+
+#Game No : 551187559
+***** 888poker Hand History for Game 551187559 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:02:28
+Table Linkoping 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: defmoon ( 3,13 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,83 $ )
+Seat 5: head1714 ( 1,15 $ )
+Seat 6: heaguerom ( 1,95 $ )
+Seat 7: tekiller243 ( 2 $ )
+Seat 9: B2B_Suckouts ( 4,33 $ )
+Seat 10: SinisterKid ( 2 $ )
+tekiller243 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 6Karo ]
+SinisterKid folds
+defmoon folds
+DarkMedicine folds
+PAOLDINI folds
+head1714 calls [0,02 $]
+heaguerom folds
+tekiller243 raises [0,07 $]
+B2B_Suckouts folds
+head1714 calls [0,06 $]
+** Dealing flop ** [ APik, 4Pik, 7Kreuz ]
+tekiller243 checks
+head1714 bets [0,02 $]
+tekiller243 calls [0,02 $]
+** Dealing turn ** [ 6Kreuz ]
+tekiller243 checks
+head1714 checks
+** Dealing river ** [ QKaro ]
+tekiller243 checks
+head1714 checks
+** Summary **
+tekiller243 shows [ 10Karo, 10Herz ]
+head1714 mucks [ 9Herz, 7Herz ]
+tekiller243 collected [ 0,21 $ ]
+
+
+
+#Game No : 551187701
+***** 888poker Hand History for Game 551187701 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:03:46
+Table Linkoping 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: defmoon ( 3,13 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,83 $ )
+Seat 5: head1714 ( 1,05 $ )
+Seat 6: heaguerom ( 1,95 $ )
+Seat 7: tekiller243 ( 2,11 $ )
+Seat 9: B2B_Suckouts ( 4,31 $ )
+Seat 10: SinisterKid ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, KHerz ]
+defmoon folds
+DarkMedicine raises [0,06 $]
+PAOLDINI calls [0,06 $]
+head1714 folds
+heaguerom folds
+tekiller243 folds
+B2B_Suckouts raises [0,23 $]
+SinisterKid calls [0,22 $]
+DarkMedicine folds
+PAOLDINI calls [0,18 $]
+** Dealing flop ** [ 3Karo, JHerz, 2Kreuz ]
+B2B_Suckouts checks
+SinisterKid bets [0,38 $]
+PAOLDINI folds
+B2B_Suckouts folds
+** Summary **
+SinisterKid collected [ 0,74 $ ]
+
+
+
+#Game No : 551187848
+***** 888poker Hand History for Game 551187848 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:05:08
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: defmoon ( 3,13 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,59 $ )
+Seat 5: head1714 ( 1,05 $ )
+Seat 6: heaguerom ( 1,95 $ )
+Seat 7: tekiller243 ( 2,11 $ )
+Seat 9: B2B_Suckouts ( 4,07 $ )
+Seat 10: SinisterKid ( 2,50 $ )
+SinisterKid posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 7Karo ]
+DarkMedicine folds
+PAOLDINI folds
+head1714 raises [0,06 $]
+heaguerom folds
+tekiller243 calls [0,06 $]
+B2B_Suckouts folds
+SinisterKid folds
+defmoon calls [0,04 $]
+** Dealing flop ** [ 2Pik, QKaro, 4Herz ]
+defmoon checks
+head1714 checks
+tekiller243 bets [0,12 $]
+defmoon folds
+head1714 raises [0,24 $]
+tekiller243 raises [1,93 $]
+head1714 calls [0,75 $]
+** Dealing turn ** [ 6Herz ]
+** Dealing river ** [ 6Pik ]
+** Summary **
+head1714 shows [ 4Karo, 4Kreuz ]
+tekiller243 shows [ QKreuz, KKreuz ]
+head1714 collected [ 2,04 $ ]
+
+
+
+#Game No : 551187970
+***** 888poker Hand History for Game 551187970 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:06:14
+Table Linkoping 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: defmoon ( 3,07 $ )
+Seat 2: ice245777 ( 0,80 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,59 $ )
+Seat 5: head1714 ( 2,04 $ )
+Seat 6: heaguerom ( 1,95 $ )
+Seat 7: tekiller243 ( 2 $ )
+Seat 9: B2B_Suckouts ( 4,07 $ )
+Seat 10: SinisterKid ( 2,49 $ )
+defmoon posts small blind [0,01 $]
+ice245777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 6Pik ]
+DarkMedicine folds
+PAOLDINI folds
+head1714 folds
+heaguerom folds
+tekiller243 folds
+B2B_Suckouts folds
+SinisterKid raises [0,08 $]
+defmoon raises [0,23 $]
+ice245777 folds
+SinisterKid calls [0,16 $]
+** Dealing flop ** [ 5Kreuz, JKreuz, 2Pik ]
+defmoon checks
+SinisterKid checks
+** Dealing turn ** [ 9Karo ]
+defmoon bets [0,25 $]
+SinisterKid raises [0,56 $]
+defmoon calls [0,31 $]
+** Dealing river ** [ 6Karo ]
+defmoon bets [0,53 $]
+SinisterKid folds
+** Summary **
+defmoon did not show his hand
+defmoon collected [ 1,52 $ ]
+
+
+
+#Game No : 551188165
+***** 888poker Hand History for Game 551188165 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:07:54
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: defmoon ( 3,79 $ )
+Seat 2: ice245777 ( 0,80 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,59 $ )
+Seat 6: heaguerom ( 1,95 $ )
+Seat 7: tekiller243 ( 2 $ )
+Seat 9: B2B_Suckouts ( 4,07 $ )
+Seat 10: SinisterKid ( 2 $ )
+ice245777 posts small blind [0,01 $]
+DarkMedicine posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, QPik ]
+PAOLDINI folds
+heaguerom folds
+tekiller243 folds
+B2B_Suckouts folds
+SinisterKid folds
+defmoon raises [0,06 $]
+ice245777 folds
+DarkMedicine calls [0,04 $]
+** Dealing flop ** [ 3Kreuz, QKaro, 7Kreuz ]
+DarkMedicine checks
+defmoon checks
+** Dealing turn ** [ 6Herz ]
+DarkMedicine bets [0,05 $]
+defmoon calls [0,05 $]
+** Dealing river ** [ 8Herz ]
+DarkMedicine checks
+defmoon checks
+** Summary **
+DarkMedicine shows [ AKreuz, JPik ]
+defmoon shows [ 10Kreuz, 6Kreuz ]
+defmoon collected [ 0,22 $ ]
+
+
+
+#Game No : 551188379
+***** 888poker Hand History for Game 551188379 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:09:46
+Table Linkoping 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: defmoon ( 3,90 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,59 $ )
+Seat 5: VeremienkoA ( 2 $ )
+Seat 6: heaguerom ( 1,95 $ )
+Seat 7: tekiller243 ( 2 $ )
+Seat 9: B2B_Suckouts ( 4,07 $ )
+PAOLDINI posts small blind [0,01 $]
+VeremienkoA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 10Herz ]
+heaguerom folds
+tekiller243 folds
+B2B_Suckouts raises [0,06 $]
+defmoon folds
+DarkMedicine folds
+PAOLDINI folds
+VeremienkoA folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551188437
+***** 888poker Hand History for Game 551188437 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:10:19
+Table Linkoping 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: defmoon ( 3,90 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,58 $ )
+Seat 5: VeremienkoA ( 1,98 $ )
+Seat 6: heaguerom ( 1,95 $ )
+Seat 7: tekiller243 ( 2 $ )
+Seat 9: B2B_Suckouts ( 4,10 $ )
+VeremienkoA posts small blind [0,01 $]
+heaguerom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 10Karo ]
+tekiller243 folds
+B2B_Suckouts folds
+defmoon raises [0,06 $]
+DarkMedicine folds
+PAOLDINI folds
+VeremienkoA folds
+heaguerom folds
+** Summary **
+defmoon collected [ 0,05 $ ]
+
+
+
+#Game No : 551188469
+***** 888poker Hand History for Game 551188469 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:10:38
+Table Linkoping 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: defmoon ( 3,93 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,58 $ )
+Seat 5: VeremienkoA ( 1,97 $ )
+Seat 6: heaguerom ( 1,93 $ )
+Seat 7: tekiller243 ( 2 $ )
+Seat 9: B2B_Suckouts ( 4,10 $ )
+heaguerom posts small blind [0,01 $]
+tekiller243 folds
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 2Karo ]
+defmoon folds
+DarkMedicine folds
+PAOLDINI folds
+VeremienkoA folds
+heaguerom folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 551188503
+***** 888poker Hand History for Game 551188503 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:10:56
+Table Linkoping 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: defmoon ( 3,93 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,58 $ )
+Seat 5: VeremienkoA ( 1,97 $ )
+Seat 6: heaguerom ( 1,92 $ )
+Seat 9: B2B_Suckouts ( 4,11 $ )
+B2B_Suckouts posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 5Herz ]
+DarkMedicine folds
+PAOLDINI folds
+VeremienkoA folds
+heaguerom folds
+B2B_Suckouts calls [0,01 $]
+defmoon checks
+** Dealing flop ** [ 6Pik, 9Karo, AHerz ]
+B2B_Suckouts checks
+defmoon bets [0,02 $]
+B2B_Suckouts folds
+** Summary **
+defmoon collected [ 0,04 $ ]
+
+
+
+#Game No : 551188605
+***** 888poker Hand History for Game 551188605 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:11:53
+Table Linkoping 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: defmoon ( 3,95 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,58 $ )
+Seat 5: VeremienkoA ( 1,97 $ )
+Seat 6: heaguerom ( 1,92 $ )
+Seat 9: B2B_Suckouts ( 4,09 $ )
+defmoon posts small blind [0,01 $]
+DarkMedicine posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 5Kreuz ]
+PAOLDINI folds
+VeremienkoA folds
+heaguerom folds
+B2B_Suckouts folds
+defmoon folds
+** Summary **
+DarkMedicine collected [ 0,03 $ ]
+
+
+
+#Game No : 551188651
+***** 888poker Hand History for Game 551188651 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:12:15
+Table Linkoping 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: defmoon ( 3,94 $ )
+Seat 3: DarkMedicine ( 2,01 $ )
+Seat 4: PAOLDINI ( 0,58 $ )
+Seat 5: VeremienkoA ( 1,97 $ )
+Seat 6: heaguerom ( 1,92 $ )
+Seat 9: B2B_Suckouts ( 4,09 $ )
+DarkMedicine posts small blind [0,01 $]
+PAOLDINI posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, QPik ]
+VeremienkoA folds
+heaguerom folds
+B2B_Suckouts raises [0,06 $]
+defmoon folds
+DarkMedicine folds
+PAOLDINI folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551188686
+***** 888poker Hand History for Game 551188686 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 05 02 2020 21:12:33
+Table Linkoping 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: defmoon ( 3,94 $ )
+Seat 3: DarkMedicine ( 2 $ )
+Seat 4: PAOLDINI ( 0,56 $ )
+Seat 5: VeremienkoA ( 1,97 $ )
+Seat 6: heaguerom ( 1,92 $ )
+Seat 9: B2B_Suckouts ( 4,12 $ )
+PAOLDINI posts small blind [0,01 $]
+VeremienkoA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 4Herz ]
+heaguerom folds
+B2B_Suckouts raises [0,06 $]
+defmoon folds
+DarkMedicine folds
+PAOLDINI folds
+VeremienkoA folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
