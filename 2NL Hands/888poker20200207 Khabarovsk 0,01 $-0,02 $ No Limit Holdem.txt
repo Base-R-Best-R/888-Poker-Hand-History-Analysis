@@ -1,0 +1,2499 @@
+#Game No : 631371721
+***** 888poker Hand History for Game 631371721 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:05:03
+Table Khabarovsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,74 $ )
+Seat 2: Msigo_ ( 2,15 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,97 $ )
+Seat 6: F1MONACO ( 0,95 $ )
+Seat 9: Dez314 ( 2 $ )
+Seat 10: Yungmuney ( 2,04 $ )
+Msigo_ posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, QKaro ]
+ttottorro raises [0,06 $]
+F1MONACO folds
+Dez314 folds
+Yungmuney folds
+mikeOmike folds
+Msigo_ folds
+B2B_Suckouts folds
+** Summary **
+ttottorro collected [ 0,05 $ ]
+
+
+
+#Game No : 631371740
+***** 888poker Hand History for Game 631371740 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:05:25
+Table Khabarovsk 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,74 $ )
+Seat 2: Msigo_ ( 2,14 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 2 $ )
+Seat 6: F1MONACO ( 0,95 $ )
+Seat 9: Dez314 ( 2 $ )
+Seat 10: Yungmuney ( 2,04 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ttottorro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, AKreuz ]
+F1MONACO raises [0,04 $]
+Dez314 calls [0,04 $]
+Yungmuney calls [0,04 $]
+mikeOmike folds
+Msigo_ folds
+B2B_Suckouts calls [0,03 $]
+ttottorro folds
+** Dealing flop ** [ QHerz, KKreuz, 8Herz ]
+B2B_Suckouts checks
+F1MONACO checks
+Dez314 bets [0,10 $]
+Yungmuney folds
+B2B_Suckouts folds
+F1MONACO folds
+** Summary **
+Dez314 did not show his hand
+Dez314 collected [ 0,17 $ ]
+
+
+
+#Game No : 631371789
+***** 888poker Hand History for Game 631371789 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:06:27
+Table Khabarovsk 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,74 $ )
+Seat 2: Msigo_ ( 2,14 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,98 $ )
+Seat 6: F1MONACO ( 0,91 $ )
+Seat 9: Dez314 ( 2,13 $ )
+Seat 10: Yungmuney ( 2 $ )
+ttottorro posts small blind [0,01 $]
+F1MONACO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 2Kreuz ]
+Dez314 folds
+Yungmuney raises [0,08 $]
+mikeOmike folds
+Msigo_ folds
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO calls [0,06 $]
+** Dealing flop ** [ 7Karo, KKaro, 9Karo ]
+F1MONACO checks
+Yungmuney bets [0,05 $]
+F1MONACO raises [0,20 $]
+Yungmuney folds
+** Summary **
+F1MONACO did not show his hand
+F1MONACO collected [ 0,26 $ ]
+
+
+
+#Game No : 631371813
+***** 888poker Hand History for Game 631371813 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:06:58
+Table Khabarovsk 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,74 $ )
+Seat 2: Msigo_ ( 2,14 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,97 $ )
+Seat 6: F1MONACO ( 1,04 $ )
+Seat 9: Dez314 ( 2,13 $ )
+Seat 10: Yungmuney ( 1,87 $ )
+F1MONACO posts small blind [0,01 $]
+Dez314 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 6Pik ]
+Yungmuney folds
+mikeOmike folds
+Msigo_ folds
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO calls [0,01 $]
+Dez314 checks
+** Dealing flop ** [ JHerz, QKreuz, 8Kreuz ]
+F1MONACO checks
+Dez314 bets [0,02 $]
+F1MONACO calls [0,02 $]
+** Dealing turn ** [ 8Pik ]
+F1MONACO checks
+Dez314 checks
+** Dealing river ** [ KHerz ]
+F1MONACO bets [0,05 $]
+Dez314 calls [0,05 $]
+** Summary **
+F1MONACO shows [ KPik, 5Karo ]
+Dez314 mucks [ 6Kreuz, JPik ]
+F1MONACO collected [ 0,17 $ ]
+
+
+
+#Game No : 631371865
+***** 888poker Hand History for Game 631371865 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:07:51
+Table Khabarovsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,74 $ )
+Seat 2: Msigo_ ( 2,14 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,97 $ )
+Seat 6: F1MONACO ( 1,12 $ )
+Seat 9: Dez314 ( 2,04 $ )
+Seat 10: Yungmuney ( 1,87 $ )
+Dez314 posts small blind [0,01 $]
+Yungmuney posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 9Karo ]
+mikeOmike folds
+Msigo_ folds
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO folds
+Dez314 folds
+** Summary **
+Yungmuney collected [ 0,03 $ ]
+
+
+
+#Game No : 631371886
+***** 888poker Hand History for Game 631371886 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:08:20
+Table Khabarovsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,74 $ )
+Seat 2: Msigo_ ( 2,14 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,97 $ )
+Seat 6: F1MONACO ( 1,12 $ )
+Seat 9: Dez314 ( 2,03 $ )
+Seat 10: Yungmuney ( 1,88 $ )
+Yungmuney posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, AHerz ]
+Msigo_ folds
+B2B_Suckouts raises [0,06 $]
+ttottorro folds
+F1MONACO folds
+Dez314 folds
+Yungmuney calls [0,05 $]
+mikeOmike folds
+** Dealing flop ** [ 6Pik, 5Kreuz, 4Pik ]
+Yungmuney bets [0,07 $]
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ 7Pik ]
+Yungmuney bets [0,14 $]
+B2B_Suckouts calls [0,14 $]
+** Dealing river ** [ 6Karo ]
+Yungmuney checks
+B2B_Suckouts checks
+** Summary **
+Yungmuney shows [ AKaro, 3Kreuz ]
+B2B_Suckouts mucks [ KPik, AHerz ]
+Yungmuney collected [ 0,53 $ ]
+
+
+
+#Game No : 631371935
+***** 888poker Hand History for Game 631371935 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:09:16
+Table Khabarovsk 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,72 $ )
+Seat 2: Msigo_ ( 2,14 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,97 $ )
+Seat 6: F1MONACO ( 1,12 $ )
+Seat 9: Dez314 ( 2,03 $ )
+Seat 10: Yungmuney ( 2,14 $ )
+mikeOmike posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 8Pik ]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO folds
+Dez314 raises [0,06 $]
+Yungmuney folds
+mikeOmike calls [0,05 $]
+Msigo_ folds
+** Dealing flop ** [ KPik, QHerz, 6Pik ]
+mikeOmike checks
+Dez314 bets [0,10 $]
+mikeOmike calls [0,10 $]
+** Dealing turn ** [ 5Kreuz ]
+mikeOmike checks
+Dez314 bets [0,20 $]
+mikeOmike folds
+** Summary **
+Dez314 collected [ 0,32 $ ]
+
+
+
+#Game No : 631372019
+***** 888poker Hand History for Game 631372019 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:10:43
+Table Khabarovsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,56 $ )
+Seat 2: Msigo_ ( 2,12 $ )
+Seat 3: GeorgiSpasow ( 0,80 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,97 $ )
+Seat 6: F1MONACO ( 1,12 $ )
+Seat 9: Dez314 ( 2,19 $ )
+Msigo_ posts small blind [0,01 $]
+GeorgiSpasow posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 9Kreuz ]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO calls [0,02 $]
+Dez314 raises [0,08 $]
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow raises [0,38 $]
+F1MONACO folds
+Dez314 folds
+** Summary **
+GeorgiSpasow did not show his hand
+GeorgiSpasow collected [ 0,19 $ ]
+
+
+
+#Game No : 631372043
+***** 888poker Hand History for Game 631372043 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:11:11
+Table Khabarovsk 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,56 $ )
+Seat 2: Msigo_ ( 2,11 $ )
+Seat 3: GeorgiSpasow ( 0,91 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,97 $ )
+Seat 6: F1MONACO ( 1,10 $ )
+Seat 9: Dez314 ( 2,11 $ )
+GeorgiSpasow posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, JKaro ]
+ttottorro folds
+F1MONACO folds
+Dez314 folds
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+GeorgiSpasow calls [0,04 $]
+** Dealing flop ** [ 2Karo, 10Kreuz, 5Herz ]
+GeorgiSpasow checks
+B2B_Suckouts bets [0,03 $]
+GeorgiSpasow folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,12 $ ]
+
+
+
+#Game No : 631372094
+***** 888poker Hand History for Game 631372094 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:11:57
+Table Khabarovsk 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,56 $ )
+Seat 2: Msigo_ ( 2,11 $ )
+Seat 3: GeorgiSpasow ( 0,85 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: ttottorro ( 1,97 $ )
+Seat 6: F1MONACO ( 1,10 $ )
+Seat 9: Dez314 ( 2,11 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ttottorro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, AKaro ]
+F1MONACO calls [0,02 $]
+Dez314 folds
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow folds
+B2B_Suckouts raises [0,05 $]
+ttottorro folds
+F1MONACO calls [0,04 $]
+** Dealing flop ** [ 4Karo, 6Karo, 9Pik ]
+B2B_Suckouts bets [0,04 $]
+F1MONACO calls [0,04 $]
+** Dealing turn ** [ 10Karo ]
+B2B_Suckouts bets [0,11 $]
+F1MONACO calls [0,11 $]
+** Dealing river ** [ 7Pik ]
+B2B_Suckouts checks
+F1MONACO bets [0,29 $]
+B2B_Suckouts folds
+** Summary **
+F1MONACO did not show his hand
+F1MONACO collected [ 0,42 $ ]
+
+
+
+#Game No : 631372152
+***** 888poker Hand History for Game 631372152 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:12:56
+Table Khabarovsk 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,56 $ )
+Seat 2: Msigo_ ( 2,11 $ )
+Seat 3: GeorgiSpasow ( 0,85 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,95 $ )
+Seat 6: F1MONACO ( 1,31 $ )
+Seat 9: Dez314 ( 2,11 $ )
+ttottorro posts small blind [0,01 $]
+F1MONACO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 6Pik ]
+Dez314 raises [0,06 $]
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,06 $]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO calls [0,04 $]
+** Dealing flop ** [ 7Pik, 5Pik, QHerz ]
+F1MONACO checks
+Dez314 bets [0,12 $]
+GeorgiSpasow folds
+F1MONACO folds
+** Summary **
+Dez314 did not show his hand
+Dez314 collected [ 0,18 $ ]
+
+
+
+#Game No : 631372199
+***** 888poker Hand History for Game 631372199 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:13:43
+Table Khabarovsk 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: mikeOmike ( 4,56 $ )
+Seat 3: GeorgiSpasow ( 0,79 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,94 $ )
+Seat 6: F1MONACO ( 1,25 $ )
+Seat 9: Dez314 ( 2,23 $ )
+F1MONACO posts small blind [0,01 $]
+Dez314 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, APik ]
+mikeOmike raises [0,06 $]
+GeorgiSpasow folds
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO folds
+Dez314 calls [0,04 $]
+** Dealing flop ** [ 3Karo, 4Pik, 5Herz ]
+Dez314 checks
+mikeOmike bets [0,09 $]
+Dez314 raises [0,23 $]
+mikeOmike calls [0,14 $]
+** Dealing turn ** [ QKreuz ]
+Dez314 checks
+mikeOmike checks
+** Dealing river ** [ 2Herz ]
+Dez314 bets [0,30 $]
+mikeOmike folds
+** Summary **
+Dez314 collected [ 0,56 $ ]
+
+
+
+#Game No : 631372267
+***** 888poker Hand History for Game 631372267 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:14:52
+Table Khabarovsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,27 $ )
+Seat 2: Msigo_ ( 2,11 $ )
+Seat 3: GeorgiSpasow ( 0,79 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,94 $ )
+Seat 6: F1MONACO ( 1,24 $ )
+Seat 9: Dez314 ( 2,50 $ )
+Dez314 posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, QPik ]
+Msigo_ folds
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO folds
+Dez314 calls [0,01 $]
+mikeOmike checks
+** Dealing flop ** [ 10Kreuz, APik, 6Pik ]
+Dez314 checks
+mikeOmike checks
+GeorgiSpasow bets [0,10 $]
+Dez314 folds
+mikeOmike folds
+** Summary **
+GeorgiSpasow did not show his hand
+GeorgiSpasow collected [ 0,06 $ ]
+
+
+
+#Game No : 631372322
+***** 888poker Hand History for Game 631372322 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:15:53
+Table Khabarovsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,25 $ )
+Seat 2: Msigo_ ( 2,11 $ )
+Seat 3: GeorgiSpasow ( 0,83 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,94 $ )
+Seat 6: F1MONACO ( 1,24 $ )
+Seat 9: Dez314 ( 2,48 $ )
+mikeOmike posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, KHerz ]
+GeorgiSpasow folds
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO calls [0,02 $]
+Dez314 folds
+mikeOmike folds
+Msigo_ raises [0,02 $]
+F1MONACO calls [0,02 $]
+** Dealing flop ** [ 3Herz, 9Kreuz, 10Herz ]
+Msigo_ checks
+F1MONACO bets [0,05 $]
+Msigo_ raises [0,15 $]
+F1MONACO calls [0,10 $]
+** Dealing turn ** [ QHerz ]
+Msigo_ bets [0,25 $]
+F1MONACO calls [0,25 $]
+** Dealing river ** [ 9Karo ]
+Msigo_ bets [0,58 $]
+F1MONACO calls [0,58 $]
+** Summary **
+Msigo_ shows [ AKaro, 10Karo ]
+F1MONACO shows [ 10Kreuz, QPik ]
+F1MONACO collected [ 1,93 $ ]
+
+
+
+#Game No : 631372413
+***** 888poker Hand History for Game 631372413 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:17:24
+Table Khabarovsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,24 $ )
+Seat 2: Msigo_ ( 1,09 $ )
+Seat 3: GeorgiSpasow ( 0,83 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,94 $ )
+Seat 6: F1MONACO ( 2,15 $ )
+Seat 9: Dez314 ( 2,48 $ )
+Msigo_ posts small blind [0,01 $]
+GeorgiSpasow posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, JHerz ]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO raises [0,08 $]
+Dez314 calls [0,08 $]
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,06 $]
+** Dealing flop ** [ JPik, KKreuz, 10Karo ]
+GeorgiSpasow checks
+F1MONACO bets [0,26 $]
+Dez314 folds
+GeorgiSpasow folds
+** Summary **
+F1MONACO did not show his hand
+F1MONACO collected [ 0,24 $ ]
+
+
+
+#Game No : 631372448
+***** 888poker Hand History for Game 631372448 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:18:02
+Table Khabarovsk 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,24 $ )
+Seat 2: Msigo_ ( 1,08 $ )
+Seat 3: GeorgiSpasow ( 0,75 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,94 $ )
+Seat 6: F1MONACO ( 2,31 $ )
+Seat 9: Dez314 ( 2,40 $ )
+GeorgiSpasow posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 5Pik ]
+ttottorro folds
+F1MONACO calls [0,02 $]
+Dez314 folds
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 8Kreuz, 5Karo, 8Karo ]
+GeorgiSpasow bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+F1MONACO calls [0,02 $]
+** Dealing turn ** [ APik ]
+GeorgiSpasow bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+F1MONACO calls [0,02 $]
+** Dealing river ** [ AKreuz ]
+GeorgiSpasow bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+F1MONACO calls [0,02 $]
+** Summary **
+GeorgiSpasow shows [ 9Karo, 5Kreuz ]
+B2B_Suckouts shows [ QHerz, 5Pik ]
+F1MONACO shows [ 3Karo, KKaro ]
+F1MONACO collected [ 0,23 $ ]
+
+
+
+#Game No : 631372510
+***** 888poker Hand History for Game 631372510 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:19:05
+Table Khabarovsk 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,24 $ )
+Seat 2: Msigo_ ( 1,08 $ )
+Seat 3: GeorgiSpasow ( 0,67 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,94 $ )
+Seat 6: F1MONACO ( 2,46 $ )
+Seat 9: Dez314 ( 2,40 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ttottorro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 7Pik ]
+F1MONACO folds
+Dez314 raises [0,04 $]
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,04 $]
+B2B_Suckouts folds
+ttottorro calls [0,02 $]
+** Dealing flop ** [ 3Herz, 4Pik, JHerz ]
+ttottorro checks
+Dez314 checks
+GeorgiSpasow checks
+** Dealing turn ** [ 7Karo ]
+ttottorro checks
+Dez314 checks
+GeorgiSpasow checks
+** Dealing river ** [ 10Karo ]
+ttottorro checks
+Dez314 checks
+GeorgiSpasow checks
+** Summary **
+ttottorro shows [ 10Pik, KKaro ]
+Dez314 mucks [ 2Kreuz, 2Herz ]
+GeorgiSpasow mucks [ 6Karo, 6Herz ]
+ttottorro collected [ 0,13 $ ]
+
+
+
+#Game No : 631372585
+***** 888poker Hand History for Game 631372585 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:20:15
+Table Khabarovsk 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,24 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,63 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 2,03 $ )
+Seat 6: F1MONACO ( 2,46 $ )
+Seat 9: Dez314 ( 2,36 $ )
+ttottorro posts small blind [0,01 $]
+F1MONACO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 8Herz ]
+Dez314 folds
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts folds
+ttottorro calls [0,01 $]
+F1MONACO checks
+** Dealing flop ** [ QHerz, 10Karo, 2Kreuz ]
+ttottorro checks
+F1MONACO bets [0,08 $]
+GeorgiSpasow folds
+ttottorro calls [0,08 $]
+** Dealing turn ** [ 4Karo ]
+ttottorro checks
+F1MONACO bets [0,07 $]
+ttottorro calls [0,07 $]
+** Dealing river ** [ 6Herz ]
+ttottorro checks
+F1MONACO checks
+** Summary **
+ttottorro shows [ 9Karo, 10Herz ]
+F1MONACO shows [ QKaro, 9Pik ]
+F1MONACO collected [ 0,34 $ ]
+
+
+
+#Game No : 631372690
+***** 888poker Hand History for Game 631372690 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:21:59
+Table Khabarovsk 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 4,24 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,61 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,63 $ )
+Seat 7: papa5grdkids ( 0,80 $ )
+Seat 9: Dez314 ( 2,36 $ )
+F1MONACO posts small blind [0,01 $]
+papa5grdkids posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 6Pik ]
+Dez314 folds
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO calls [0,01 $]
+papa5grdkids checks
+** Dealing flop ** [ 7Pik, 8Herz, 6Karo ]
+F1MONACO checks
+papa5grdkids bets [0,03 $]
+GeorgiSpasow calls [0,03 $]
+F1MONACO calls [0,03 $]
+** Dealing turn ** [ AKreuz ]
+F1MONACO checks
+papa5grdkids bets [0,09 $]
+GeorgiSpasow folds
+F1MONACO folds
+** Summary **
+papa5grdkids collected [ 0,15 $ ]
+
+
+
+#Game No : 631372746
+***** 888poker Hand History for Game 631372746 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:22:52
+Table Khabarovsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 4,24 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,56 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,58 $ )
+Seat 7: papa5grdkids ( 0,90 $ )
+Seat 9: Dez314 ( 2,36 $ )
+papa5grdkids posts small blind [0,01 $]
+Dez314 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 9Karo ]
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+ttottorro folds
+F1MONACO calls [0,06 $]
+papa5grdkids calls [0,05 $]
+Dez314 folds
+GeorgiSpasow calls [0,04 $]
+** Dealing flop ** [ 8Kreuz, 3Herz, KKaro ]
+papa5grdkids checks
+GeorgiSpasow checks
+B2B_Suckouts checks
+F1MONACO bets [0,02 $]
+papa5grdkids folds
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ JPik ]
+GeorgiSpasow checks
+B2B_Suckouts checks
+F1MONACO checks
+** Dealing river ** [ 6Herz ]
+GeorgiSpasow checks
+B2B_Suckouts checks
+F1MONACO checks
+** Summary **
+GeorgiSpasow shows [ AKreuz, 5Herz ]
+B2B_Suckouts shows [ 9Pik, 9Karo ]
+F1MONACO mucks [ 2Karo, 2Kreuz ]
+B2B_Suckouts collected [ 0,30 $ ]
+
+
+
+#Game No : 631372818
+***** 888poker Hand History for Game 631372818 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:24:12
+Table Khabarovsk 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,24 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,48 $ )
+Seat 4: B2B_Suckouts ( 2,22 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,50 $ )
+Seat 7: papa5grdkids ( 0,84 $ )
+Seat 9: Dez314 ( 2,34 $ )
+Seat 10: magicmikeyb ( 2 $ )
+Dez314 posts small blind [0,01 $]
+magicmikeyb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, KPik ]
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO raises [0,08 $]
+papa5grdkids folds
+Dez314 folds
+magicmikeyb folds
+GeorgiSpasow folds
+** Summary **
+F1MONACO did not show his hand
+F1MONACO collected [ 0,07 $ ]
+
+
+
+#Game No : 631372852
+***** 888poker Hand History for Game 631372852 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:24:40
+Table Khabarovsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,24 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,46 $ )
+Seat 4: B2B_Suckouts ( 2,22 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,55 $ )
+Seat 7: papa5grdkids ( 0,84 $ )
+Seat 9: Dez314 ( 2,33 $ )
+Seat 10: magicmikeyb ( 2 $ )
+magicmikeyb posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 10Karo ]
+Msigo_ folds
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO calls [0,02 $]
+papa5grdkids folds
+Dez314 folds
+magicmikeyb calls [0,01 $]
+mikeOmike raises [0,12 $]
+GeorgiSpasow folds
+F1MONACO folds
+magicmikeyb folds
+** Summary **
+mikeOmike did not show his hand
+mikeOmike collected [ 0,08 $ ]
+
+
+
+#Game No : 631372920
+***** 888poker Hand History for Game 631372920 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:25:45
+Table Khabarovsk 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,30 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,44 $ )
+Seat 4: B2B_Suckouts ( 2,22 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,53 $ )
+Seat 7: papa5grdkids ( 0,84 $ )
+Seat 9: Dez314 ( 2,33 $ )
+Seat 10: magicmikeyb ( 2 $ )
+mikeOmike posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 10Pik ]
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+ttottorro folds
+F1MONACO calls [0,06 $]
+papa5grdkids folds
+Dez314 raises [0,24 $]
+magicmikeyb folds
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow folds
+B2B_Suckouts calls [0,18 $]
+F1MONACO folds
+** Dealing flop ** [ AHerz, 8Karo, 9Karo ]
+B2B_Suckouts checks
+Dez314 bets [0,29 $]
+B2B_Suckouts folds
+** Summary **
+Dez314 did not show his hand
+Dez314 collected [ 0,56 $ ]
+
+
+
+#Game No : 631372977
+***** 888poker Hand History for Game 631372977 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:26:43
+Table Khabarovsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,29 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,42 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,47 $ )
+Seat 7: papa5grdkids ( 0,84 $ )
+Seat 9: Dez314 ( 2,65 $ )
+Seat 10: magicmikeyb ( 2 $ )
+Msigo_ posts small blind [0,01 $]
+GeorgiSpasow posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, AHerz ]
+B2B_Suckouts raises [0,06 $]
+ttottorro folds
+F1MONACO calls [0,06 $]
+papa5grdkids folds
+Dez314 folds
+magicmikeyb folds
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,04 $]
+** Dealing flop ** [ 4Pik, 7Pik, JKaro ]
+GeorgiSpasow bets [0,04 $]
+B2B_Suckouts calls [0,04 $]
+F1MONACO folds
+** Dealing turn ** [ 6Kreuz ]
+GeorgiSpasow bets [0,06 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing river ** [ 3Herz ]
+GeorgiSpasow bets [0,10 $]
+B2B_Suckouts folds
+** Summary **
+GeorgiSpasow did not show his hand
+GeorgiSpasow collected [ 0,37 $ ]
+
+
+
+#Game No : 631373040
+***** 888poker Hand History for Game 631373040 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:27:48
+Table Khabarovsk 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,29 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,63 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,41 $ )
+Seat 7: papa5grdkids ( 0,84 $ )
+Seat 9: Dez314 ( 2,65 $ )
+Seat 10: magicmikeyb ( 2 $ )
+GeorgiSpasow posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 5Karo ]
+ttottorro folds
+F1MONACO calls [0,02 $]
+papa5grdkids folds
+Dez314 folds
+magicmikeyb raises [0,08 $]
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow folds
+B2B_Suckouts calls [0,06 $]
+F1MONACO folds
+** Dealing flop ** [ 8Karo, APik, KPik ]
+B2B_Suckouts bets [0,06 $]
+magicmikeyb calls [0,06 $]
+** Dealing turn ** [ 5Herz ]
+B2B_Suckouts bets [0,15 $]
+magicmikeyb calls [0,15 $]
+** Dealing river ** [ 2Kreuz ]
+B2B_Suckouts bets [0,36 $]
+magicmikeyb calls [0,36 $]
+** Summary **
+B2B_Suckouts shows [ AKreuz, 5Karo ]
+magicmikeyb mucks [ JPik, KKaro ]
+B2B_Suckouts collected [ 1,25 $ ]
+
+
+
+#Game No : 631373134
+***** 888poker Hand History for Game 631373134 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:29:21
+Table Khabarovsk 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,29 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,62 $ )
+Seat 4: B2B_Suckouts ( 2,60 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,39 $ )
+Seat 7: papa5grdkids ( 0,84 $ )
+Seat 9: Dez314 ( 2,65 $ )
+Seat 10: magicmikeyb ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ttottorro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, AKaro ]
+F1MONACO folds
+papa5grdkids calls [0,02 $]
+Dez314 folds
+magicmikeyb folds
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow folds
+B2B_Suckouts raises [0,03 $]
+ttottorro folds
+papa5grdkids calls [0,02 $]
+** Dealing flop ** [ QHerz, KPik, 8Karo ]
+B2B_Suckouts checks
+papa5grdkids checks
+** Dealing turn ** [ KKreuz ]
+B2B_Suckouts bets [0,02 $]
+papa5grdkids raises [0,06 $]
+B2B_Suckouts folds
+** Summary **
+papa5grdkids did not show his hand
+papa5grdkids collected [ 0,14 $ ]
+
+
+
+#Game No : 631373182
+***** 888poker Hand History for Game 631373182 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:30:09
+Table Khabarovsk 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,29 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,62 $ )
+Seat 4: B2B_Suckouts ( 2,54 $ )
+Seat 5: ttottorro ( 1,84 $ )
+Seat 6: F1MONACO ( 2,39 $ )
+Seat 7: papa5grdkids ( 0,92 $ )
+Seat 9: Dez314 ( 2,65 $ )
+Seat 10: magicmikeyb ( 2 $ )
+ttottorro posts small blind [0,01 $]
+F1MONACO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, APik ]
+papa5grdkids calls [0,02 $]
+Dez314 folds
+magicmikeyb folds
+mikeOmike folds
+Msigo_ calls [0,02 $]
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts calls [0,02 $]
+ttottorro folds
+F1MONACO checks
+** Dealing flop ** [ QPik, 7Karo, 4Kreuz ]
+F1MONACO checks
+papa5grdkids checks
+Msigo_ checks
+GeorgiSpasow checks
+B2B_Suckouts bets [0,02 $]
+F1MONACO calls [0,02 $]
+papa5grdkids calls [0,02 $]
+Msigo_ calls [0,02 $]
+GeorgiSpasow calls [0,02 $]
+** Dealing turn ** [ 3Kreuz ]
+F1MONACO checks
+papa5grdkids checks
+Msigo_ checks
+GeorgiSpasow checks
+B2B_Suckouts bets [0,04 $]
+F1MONACO folds
+papa5grdkids calls [0,04 $]
+Msigo_ folds
+GeorgiSpasow folds
+** Dealing river ** [ 9Herz ]
+papa5grdkids checks
+B2B_Suckouts checks
+** Summary **
+papa5grdkids shows [ KKaro, AHerz ]
+B2B_Suckouts shows [ 7Herz, APik ]
+B2B_Suckouts collected [ 0,28 $ ]
+
+
+
+#Game No : 631373301
+***** 888poker Hand History for Game 631373301 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:32:06
+Table Khabarovsk 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,29 $ )
+Seat 2: Msigo_ ( 2 $ )
+Seat 3: GeorgiSpasow ( 0,58 $ )
+Seat 4: B2B_Suckouts ( 2,74 $ )
+Seat 5: ttottorro ( 1,83 $ )
+Seat 6: F1MONACO ( 2,35 $ )
+Seat 7: papa5grdkids ( 0,84 $ )
+Seat 9: Dez314 ( 2,65 $ )
+Seat 10: magicmikeyb ( 2 $ )
+F1MONACO posts small blind [0,01 $]
+papa5grdkids posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 6Kreuz ]
+Dez314 folds
+magicmikeyb folds
+mikeOmike folds
+Msigo_ folds
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO calls [0,01 $]
+papa5grdkids checks
+** Dealing flop ** [ 6Pik, 5Herz, 2Karo ]
+F1MONACO checks
+papa5grdkids checks
+GeorgiSpasow bets [0,04 $]
+F1MONACO calls [0,04 $]
+papa5grdkids calls [0,04 $]
+** Dealing turn ** [ 8Herz ]
+F1MONACO checks
+papa5grdkids checks
+GeorgiSpasow bets [0,06 $]
+F1MONACO folds
+papa5grdkids raises [0,15 $]
+GeorgiSpasow calls [0,09 $]
+** Dealing river ** [ 6Herz ]
+papa5grdkids bets [0,24 $]
+GeorgiSpasow raises [0,37 $]
+papa5grdkids folds
+** Summary **
+GeorgiSpasow did not show his hand
+GeorgiSpasow collected [ 0,90 $ ]
+
+
+
+#Game No : 631373365
+***** 888poker Hand History for Game 631373365 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:33:15
+Table Khabarovsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 4,29 $ )
+Seat 3: GeorgiSpasow ( 1,03 $ )
+Seat 4: B2B_Suckouts ( 2,74 $ )
+Seat 5: ttottorro ( 1,83 $ )
+Seat 6: F1MONACO ( 2,29 $ )
+Seat 7: papa5grdkids ( 0,39 $ )
+Seat 9: Dez314 ( 2,65 $ )
+Seat 10: magicmikeyb ( 2 $ )
+papa5grdkids posts small blind [0,01 $]
+Dez314 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 5Pik ]
+magicmikeyb folds
+mikeOmike folds
+GeorgiSpasow calls [0,02 $]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO folds
+papa5grdkids calls [0,01 $]
+Dez314 checks
+** Dealing flop ** [ 8Kreuz, 7Karo, 8Herz ]
+papa5grdkids checks
+Dez314 bets [0,04 $]
+GeorgiSpasow calls [0,04 $]
+papa5grdkids folds
+** Dealing turn ** [ 2Pik ]
+Dez314 bets [0,11 $]
+GeorgiSpasow folds
+** Summary **
+Dez314 collected [ 0,14 $ ]
+
+
+
+#Game No : 631373423
+***** 888poker Hand History for Game 631373423 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:34:07
+Table Khabarovsk 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,29 $ )
+Seat 4: B2B_Suckouts ( 2,74 $ )
+Seat 5: ttottorro ( 1,83 $ )
+Seat 6: F1MONACO ( 2,29 $ )
+Seat 7: papa5grdkids ( 0,37 $ )
+Seat 9: Dez314 ( 2,73 $ )
+Seat 10: magicmikeyb ( 2 $ )
+Dez314 posts small blind [0,01 $]
+magicmikeyb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 7Pik ]
+mikeOmike folds
+B2B_Suckouts folds
+ttottorro raises [0,06 $]
+F1MONACO folds
+papa5grdkids folds
+Dez314 folds
+magicmikeyb folds
+** Summary **
+ttottorro collected [ 0,05 $ ]
+
+
+
+#Game No : 631373448
+***** 888poker Hand History for Game 631373448 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:34:31
+Table Khabarovsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,29 $ )
+Seat 4: B2B_Suckouts ( 2,74 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,29 $ )
+Seat 7: papa5grdkids ( 0,37 $ )
+Seat 9: Dez314 ( 2,72 $ )
+Seat 10: magicmikeyb ( 2 $ )
+magicmikeyb posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 10Karo ]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO folds
+papa5grdkids calls [0,02 $]
+Dez314 folds
+magicmikeyb folds
+mikeOmike checks
+** Dealing flop ** [ 8Karo, JKreuz, 3Pik ]
+mikeOmike checks
+papa5grdkids bets [0,02 $]
+mikeOmike folds
+** Summary **
+papa5grdkids collected [ 0,05 $ ]
+
+
+
+#Game No : 631373526
+***** 888poker Hand History for Game 631373526 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:35:55
+Table Khabarovsk 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 4,27 $ )
+Seat 2: Frankenstein ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,74 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,29 $ )
+Seat 7: papa5grdkids ( 0,40 $ )
+Seat 9: Dez314 ( 2,72 $ )
+Seat 10: magicmikeyb ( 2 $ )
+mikeOmike posts small blind [0,01 $]
+Frankenstein posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 9Karo ]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO folds
+papa5grdkids calls [0,02 $]
+Dez314 folds
+magicmikeyb folds
+mikeOmike folds
+Frankenstein checks
+** Dealing flop ** [ 8Kreuz, 10Pik, 2Herz ]
+Frankenstein bets [0,02 $]
+papa5grdkids calls [0,02 $]
+** Dealing turn ** [ 10Herz ]
+Frankenstein bets [0,02 $]
+papa5grdkids folds
+** Summary **
+Frankenstein collected [ 0,09 $ ]
+
+
+
+#Game No : 631373577
+***** 888poker Hand History for Game 631373577 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:36:40
+Table Khabarovsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,26 $ )
+Seat 2: Frankenstein ( 2,05 $ )
+Seat 3: dunebuggy23 ( 0,80 $ )
+Seat 4: B2B_Suckouts ( 2,74 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,29 $ )
+Seat 7: papa5grdkids ( 0,36 $ )
+Seat 9: Dez314 ( 2,72 $ )
+Seat 10: magicmikeyb ( 2 $ )
+Frankenstein posts small blind [0,01 $]
+dunebuggy23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, JPik ]
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO folds
+papa5grdkids folds
+Dez314 raises [0,06 $]
+magicmikeyb folds
+mikeOmike folds
+Frankenstein folds
+dunebuggy23 calls [0,04 $]
+** Dealing flop ** [ 5Herz, KPik, 7Herz ]
+dunebuggy23 checks
+Dez314 bets [0,10 $]
+dunebuggy23 folds
+** Summary **
+Dez314 did not show his hand
+Dez314 collected [ 0,13 $ ]
+
+
+
+#Game No : 631373614
+***** 888poker Hand History for Game 631373614 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:37:17
+Table Khabarovsk 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,26 $ )
+Seat 2: Frankenstein ( 2,04 $ )
+Seat 3: dunebuggy23 ( 0,74 $ )
+Seat 4: B2B_Suckouts ( 2,74 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,29 $ )
+Seat 7: papa5grdkids ( 0,36 $ )
+Seat 9: Dez314 ( 2,79 $ )
+Seat 10: magicmikeyb ( 2 $ )
+dunebuggy23 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, KHerz ]
+ttottorro folds
+F1MONACO folds
+papa5grdkids folds
+Dez314 folds
+magicmikeyb folds
+mikeOmike folds
+Frankenstein calls [0,02 $]
+dunebuggy23 raises [0,03 $]
+B2B_Suckouts calls [0,02 $]
+Frankenstein calls [0,02 $]
+** Dealing flop ** [ 6Karo, 2Herz, 5Kreuz ]
+dunebuggy23 checks
+B2B_Suckouts checks
+Frankenstein checks
+** Dealing turn ** [ AHerz ]
+dunebuggy23 checks
+B2B_Suckouts checks
+Frankenstein bets [0,10 $]
+dunebuggy23 folds
+B2B_Suckouts folds
+** Summary **
+Frankenstein did not show his hand
+Frankenstein collected [ 0,12 $ ]
+
+
+
+#Game No : 631373663
+***** 888poker Hand History for Game 631373663 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:38:12
+Table Khabarovsk 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,26 $ )
+Seat 2: Frankenstein ( 2,12 $ )
+Seat 3: dunebuggy23 ( 0,70 $ )
+Seat 4: B2B_Suckouts ( 2,70 $ )
+Seat 5: ttottorro ( 1,86 $ )
+Seat 6: F1MONACO ( 2,29 $ )
+Seat 7: papa5grdkids ( 0,36 $ )
+Seat 9: Dez314 ( 2,79 $ )
+Seat 10: magicmikeyb ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ttottorro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 2Kreuz ]
+F1MONACO calls [0,02 $]
+papa5grdkids folds
+Dez314 folds
+magicmikeyb folds
+mikeOmike folds
+Frankenstein calls [0,02 $]
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro raises [0,10 $]
+F1MONACO folds
+Frankenstein calls [0,10 $]
+** Dealing flop ** [ 4Karo, 6Kreuz, 8Herz ]
+ttottorro bets [0,12 $]
+Frankenstein calls [0,12 $]
+** Dealing turn ** [ KKreuz ]
+ttottorro bets [0,25 $]
+Frankenstein calls [0,25 $]
+** Dealing river ** [ AKaro ]
+ttottorro checks
+Frankenstein checks
+** Summary **
+ttottorro shows [ 10Pik, 9Pik ]
+Frankenstein shows [ AKreuz, 5Kreuz ]
+Frankenstein collected [ 0,95 $ ]
+
+
+
+#Game No : 631373753
+***** 888poker Hand History for Game 631373753 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:39:57
+Table Khabarovsk 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,26 $ )
+Seat 2: Frankenstein ( 2,58 $ )
+Seat 3: dunebuggy23 ( 0,70 $ )
+Seat 4: B2B_Suckouts ( 2,69 $ )
+Seat 5: ttottorro ( 2 $ )
+Seat 6: F1MONACO ( 2,27 $ )
+Seat 7: papa5grdkids ( 0,36 $ )
+Seat 9: Dez314 ( 2,79 $ )
+Seat 10: magicmikeyb ( 2 $ )
+ttottorro posts small blind [0,01 $]
+F1MONACO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 6Karo ]
+papa5grdkids calls [0,02 $]
+Dez314 calls [0,02 $]
+magicmikeyb folds
+mikeOmike folds
+Frankenstein folds
+dunebuggy23 raises [0,06 $]
+B2B_Suckouts calls [0,06 $]
+ttottorro folds
+F1MONACO folds
+papa5grdkids calls [0,04 $]
+Dez314 calls [0,04 $]
+** Dealing flop ** [ 4Herz, 2Pik, JPik ]
+papa5grdkids checks
+Dez314 checks
+dunebuggy23 bets [0,12 $]
+B2B_Suckouts folds
+papa5grdkids folds
+Dez314 calls [0,12 $]
+** Dealing turn ** [ 10Karo ]
+Dez314 checks
+dunebuggy23 checks
+** Dealing river ** [ 7Herz ]
+Dez314 bets [0,24 $]
+dunebuggy23 calls [0,24 $]
+** Summary **
+Dez314 shows [ 3Kreuz, AKreuz ]
+dunebuggy23 shows [ KHerz, JKreuz ]
+dunebuggy23 collected [ 0,93 $ ]
+
+
+
+#Game No : 631373832
+***** 888poker Hand History for Game 631373832 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:41:14
+Table Khabarovsk 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,26 $ )
+Seat 2: Frankenstein ( 2,58 $ )
+Seat 3: dunebuggy23 ( 1,21 $ )
+Seat 4: B2B_Suckouts ( 2,63 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 6: F1MONACO ( 2,25 $ )
+Seat 7: papa5grdkids ( 0,30 $ )
+Seat 9: Dez314 ( 2,37 $ )
+Seat 10: magicmikeyb ( 2 $ )
+F1MONACO posts small blind [0,01 $]
+papa5grdkids posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 9Kreuz ]
+Dez314 raises [0,07 $]
+magicmikeyb folds
+mikeOmike folds
+Frankenstein folds
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO calls [0,06 $]
+papa5grdkids raises [0,26 $]
+Dez314 calls [0,21 $]
+F1MONACO calls [0,21 $]
+** Dealing flop ** [ QKreuz, 3Herz, KKreuz ]
+F1MONACO checks
+papa5grdkids checks
+Dez314 checks
+** Dealing turn ** [ 3Pik ]
+F1MONACO bets [0,55 $]
+papa5grdkids calls [0,02 $]
+Dez314 folds
+** Dealing river ** [ 7Karo ]
+** Summary **
+F1MONACO shows [ 8Kreuz, 8Pik ]
+papa5grdkids shows [ AHerz, APik ]
+papa5grdkids collected [ 0,83 $ ]
+
+
+
+#Game No : 631373879
+***** 888poker Hand History for Game 631373879 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:42:12
+Table Khabarovsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,26 $ )
+Seat 2: Frankenstein ( 2,58 $ )
+Seat 3: dunebuggy23 ( 1,21 $ )
+Seat 4: B2B_Suckouts ( 2,63 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 6: F1MONACO ( 1,95 $ )
+Seat 7: papa5grdkids ( 0,83 $ )
+Seat 9: Dez314 ( 2,09 $ )
+Seat 10: magicmikeyb ( 2 $ )
+papa5grdkids posts small blind [0,01 $]
+Dez314 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 6Karo ]
+magicmikeyb folds
+mikeOmike folds
+Frankenstein folds
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO folds
+papa5grdkids calls [0,01 $]
+Dez314 checks
+** Dealing flop ** [ 4Pik, 3Kreuz, 5Karo ]
+papa5grdkids bets [0,02 $]
+Dez314 calls [0,02 $]
+** Dealing turn ** [ 3Pik ]
+papa5grdkids bets [0,04 $]
+Dez314 calls [0,04 $]
+** Dealing river ** [ QKaro ]
+papa5grdkids checks
+Dez314 bets [0,10 $]
+papa5grdkids calls [0,10 $]
+** Summary **
+Dez314 shows [ QHerz, AKaro ]
+papa5grdkids mucks [ 6Pik, 5Herz ]
+Dez314 collected [ 0,34 $ ]
+
+
+
+#Game No : 631373931
+***** 888poker Hand History for Game 631373931 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:43:08
+Table Khabarovsk 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,26 $ )
+Seat 2: Frankenstein ( 2,58 $ )
+Seat 3: dunebuggy23 ( 1,21 $ )
+Seat 4: B2B_Suckouts ( 2,63 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 6: F1MONACO ( 1,95 $ )
+Seat 7: papa5grdkids ( 0,65 $ )
+Seat 9: Dez314 ( 2,25 $ )
+Seat 10: magicmikeyb ( 2 $ )
+Dez314 posts small blind [0,01 $]
+magicmikeyb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 8Kreuz ]
+mikeOmike folds
+Frankenstein folds
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO raises [0,08 $]
+papa5grdkids folds
+Dez314 calls [0,07 $]
+magicmikeyb folds
+** Dealing flop ** [ 9Karo, 2Kreuz, 7Kreuz ]
+Dez314 checks
+F1MONACO bets [0,11 $]
+Dez314 folds
+** Summary **
+F1MONACO did not show his hand
+F1MONACO collected [ 0,17 $ ]
+
+
+
+#Game No : 631373969
+***** 888poker Hand History for Game 631373969 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:43:50
+Table Khabarovsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,26 $ )
+Seat 2: Frankenstein ( 2,58 $ )
+Seat 3: dunebuggy23 ( 1,21 $ )
+Seat 4: B2B_Suckouts ( 2,63 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 6: F1MONACO ( 2,04 $ )
+Seat 7: papa5grdkids ( 0,65 $ )
+Seat 9: Dez314 ( 2,17 $ )
+Seat 10: magicmikeyb ( 2 $ )
+magicmikeyb posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, JPik ]
+Frankenstein folds
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO calls [0,02 $]
+papa5grdkids calls [0,02 $]
+Dez314 folds
+magicmikeyb folds
+mikeOmike raises [0,10 $]
+F1MONACO folds
+papa5grdkids folds
+** Summary **
+mikeOmike did not show his hand
+mikeOmike collected [ 0,07 $ ]
+
+
+
+#Game No : 631374000
+***** 888poker Hand History for Game 631374000 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:44:24
+Table Khabarovsk 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,31 $ )
+Seat 2: Frankenstein ( 2,58 $ )
+Seat 3: dunebuggy23 ( 1,21 $ )
+Seat 4: B2B_Suckouts ( 2,63 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 6: F1MONACO ( 2,02 $ )
+Seat 7: papa5grdkids ( 0,63 $ )
+Seat 9: Dez314 ( 2,17 $ )
+Seat 10: magicmikeyb ( 2 $ )
+mikeOmike posts small blind [0,01 $]
+Frankenstein posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 9Kreuz ]
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+F1MONACO folds
+papa5grdkids folds
+Dez314 raises [0,06 $]
+magicmikeyb folds
+mikeOmike folds
+Frankenstein calls [0,04 $]
+** Dealing flop ** [ AHerz, 7Karo, AKreuz ]
+Frankenstein checks
+Dez314 bets [0,10 $]
+Frankenstein folds
+** Summary **
+Dez314 did not show his hand
+Dez314 collected [ 0,13 $ ]
+
+
+
+#Game No : 631374031
+***** 888poker Hand History for Game 631374031 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:45:08
+Table Khabarovsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,30 $ )
+Seat 2: Frankenstein ( 2,52 $ )
+Seat 3: dunebuggy23 ( 1,21 $ )
+Seat 4: B2B_Suckouts ( 2,63 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 6: F1MONACO ( 2,02 $ )
+Seat 7: papa5grdkids ( 0,63 $ )
+Seat 9: Dez314 ( 2,24 $ )
+Seat 10: magicmikeyb ( 2 $ )
+Frankenstein posts small blind [0,01 $]
+dunebuggy23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, AKaro ]
+B2B_Suckouts raises [0,06 $]
+ttottorro folds
+F1MONACO folds
+papa5grdkids folds
+Dez314 folds
+magicmikeyb folds
+mikeOmike folds
+Frankenstein calls [0,05 $]
+dunebuggy23 raises [0,10 $]
+B2B_Suckouts calls [0,06 $]
+Frankenstein calls [0,06 $]
+** Dealing flop ** [ QKaro, 4Karo, 8Kreuz ]
+Frankenstein checks
+dunebuggy23 checks
+B2B_Suckouts bets [0,11 $]
+Frankenstein folds
+dunebuggy23 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,34 $ ]
+
+
+
+#Game No : 631374094
+***** 888poker Hand History for Game 631374094 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:46:07
+Table Khabarovsk 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,30 $ )
+Seat 2: Frankenstein ( 2,40 $ )
+Seat 3: dunebuggy23 ( 1,09 $ )
+Seat 4: B2B_Suckouts ( 2,85 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 6: F1MONACO ( 2,02 $ )
+Seat 7: papa5grdkids ( 0,63 $ )
+Seat 9: Dez314 ( 2,24 $ )
+Seat 10: magicmikeyb ( 2 $ )
+dunebuggy23 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 9Kreuz ]
+ttottorro folds
+F1MONACO folds
+papa5grdkids calls [0,02 $]
+Dez314 folds
+magicmikeyb calls [0,02 $]
+mikeOmike folds
+Frankenstein raises [0,06 $]
+dunebuggy23 folds
+B2B_Suckouts folds
+papa5grdkids calls [0,04 $]
+magicmikeyb calls [0,04 $]
+** Dealing flop ** [ 8Pik, 2Pik, 9Herz ]
+papa5grdkids checks
+magicmikeyb checks
+Frankenstein bets [0,10 $]
+papa5grdkids calls [0,10 $]
+magicmikeyb calls [0,10 $]
+** Dealing turn ** [ KPik ]
+papa5grdkids checks
+magicmikeyb checks
+Frankenstein bets [0,08 $]
+papa5grdkids raises [0,20 $]
+magicmikeyb calls [0,20 $]
+Frankenstein folds
+** Dealing river ** [ 10Kreuz ]
+papa5grdkids checks
+magicmikeyb bets [0,14 $]
+papa5grdkids calls [0,14 $]
+** Summary **
+magicmikeyb shows [ 9Pik, KKreuz ]
+papa5grdkids mucks [ 9Karo, APik ]
+magicmikeyb collected [ 1,20 $ ]
+
+
+
+#Game No : 631374174
+***** 888poker Hand History for Game 631374174 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:47:49
+Table Khabarovsk 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 4,30 $ )
+Seat 2: Frankenstein ( 2,16 $ )
+Seat 3: dunebuggy23 ( 1,08 $ )
+Seat 4: B2B_Suckouts ( 2,83 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 6: F1MONACO ( 2,02 $ )
+Seat 7: papa5grdkids ( 0,13 $ )
+Seat 9: Dez314 ( 2,24 $ )
+Seat 10: magicmikeyb ( 2,70 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ttottorro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, JHerz ]
+F1MONACO folds
+papa5grdkids folds
+Dez314 folds
+magicmikeyb folds
+mikeOmike folds
+Frankenstein calls [0,02 $]
+dunebuggy23 raises [0,06 $]
+B2B_Suckouts folds
+ttottorro folds
+Frankenstein calls [0,04 $]
+** Dealing flop ** [ 5Kreuz, 7Karo, QKreuz ]
+Frankenstein bets [0,02 $]
+dunebuggy23 calls [0,02 $]
+** Dealing turn ** [ 4Herz ]
+Frankenstein bets [0,02 $]
+dunebuggy23 calls [0,02 $]
+** Dealing river ** [ AKaro ]
+Frankenstein bets [0,05 $]
+dunebuggy23 raises [0,10 $]
+Frankenstein calls [0,05 $]
+** Summary **
+dunebuggy23 shows [ AKreuz, 8Karo ]
+Frankenstein mucks [ 4Pik, 3Pik ]
+dunebuggy23 collected [ 0,41 $ ]
+
+
+
+#Game No : 631374231
+***** 888poker Hand History for Game 631374231 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:48:51
+Table Khabarovsk 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,30 $ )
+Seat 2: Frankenstein ( 1,96 $ )
+Seat 3: dunebuggy23 ( 1,29 $ )
+Seat 4: B2B_Suckouts ( 2,82 $ )
+Seat 5: ttottorro ( 1,97 $ )
+Seat 7: papa5grdkids ( 0,13 $ )
+Seat 10: magicmikeyb ( 2,70 $ )
+ttottorro posts small blind [0,01 $]
+papa5grdkids posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, AHerz ]
+magicmikeyb folds
+mikeOmike folds
+Frankenstein raises [0,10 $]
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+papa5grdkids raises [0,11 $]
+Frankenstein calls [0,03 $]
+** Dealing flop ** [ 10Pik, 4Pik, 2Karo ]
+** Dealing turn ** [ 3Pik ]
+** Dealing river ** [ 3Karo ]
+** Summary **
+Frankenstein shows [ KHerz, KKreuz ]
+papa5grdkids shows [ 5Kreuz, AKaro ]
+papa5grdkids collected [ 0,26 $ ]
+
+
+
+#Game No : 631374264
+***** 888poker Hand History for Game 631374264 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:49:34
+Table Khabarovsk 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,30 $ )
+Seat 2: Frankenstein ( 1,83 $ )
+Seat 3: dunebuggy23 ( 1,29 $ )
+Seat 4: B2B_Suckouts ( 2,82 $ )
+Seat 5: ttottorro ( 1,96 $ )
+Seat 7: papa5grdkids ( 0,26 $ )
+Seat 10: magicmikeyb ( 2,70 $ )
+papa5grdkids posts small blind [0,01 $]
+magicmikeyb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, KKreuz ]
+mikeOmike folds
+Frankenstein folds
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro raises [0,05 $]
+papa5grdkids folds
+magicmikeyb folds
+** Summary **
+ttottorro collected [ 0,05 $ ]
+
+
+
+#Game No : 631374284
+***** 888poker Hand History for Game 631374284 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:49:55
+Table Khabarovsk 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 4,30 $ )
+Seat 2: Frankenstein ( 1,83 $ )
+Seat 3: dunebuggy23 ( 1,29 $ )
+Seat 4: B2B_Suckouts ( 2,82 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 7: papa5grdkids ( 0,25 $ )
+Seat 10: magicmikeyb ( 2,68 $ )
+magicmikeyb posts small blind [0,01 $]
+mikeOmike folds
+Frankenstein posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 6Herz ]
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+papa5grdkids calls [0,02 $]
+magicmikeyb raises [0,06 $]
+Frankenstein folds
+papa5grdkids folds
+** Summary **
+magicmikeyb collected [ 0,06 $ ]
+
+
+
+#Game No : 631374309
+***** 888poker Hand History for Game 631374309 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:50:20
+Table Khabarovsk 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 2: Frankenstein ( 1,81 $ )
+Seat 3: dunebuggy23 ( 1,29 $ )
+Seat 4: B2B_Suckouts ( 2,82 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 7: papa5grdkids ( 0,23 $ )
+Seat 10: magicmikeyb ( 2,72 $ )
+Frankenstein posts small blind [0,01 $]
+dunebuggy23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 8Pik ]
+B2B_Suckouts raises [0,06 $]
+ttottorro folds
+papa5grdkids calls [0,06 $]
+magicmikeyb folds
+Frankenstein folds
+dunebuggy23 calls [0,04 $]
+** Dealing flop ** [ JKreuz, 6Kreuz, 10Herz ]
+dunebuggy23 checks
+B2B_Suckouts bets [0,06 $]
+papa5grdkids folds
+dunebuggy23 folds
+** Summary **
+B2B_Suckouts collected [ 0,18 $ ]
+
+
+
+#Game No : 631374350
+***** 888poker Hand History for Game 631374350 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:50:59
+Table Khabarovsk 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 2: Frankenstein ( 1,80 $ )
+Seat 3: dunebuggy23 ( 1,23 $ )
+Seat 4: B2B_Suckouts ( 2,94 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 7: papa5grdkids ( 0,17 $ )
+Seat 10: magicmikeyb ( 2,72 $ )
+dunebuggy23 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, JHerz ]
+ttottorro folds
+papa5grdkids calls [0,02 $]
+magicmikeyb folds
+Frankenstein folds
+dunebuggy23 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ JPik, 6Pik, 3Pik ]
+dunebuggy23 checks
+B2B_Suckouts bets [0,02 $]
+papa5grdkids folds
+dunebuggy23 folds
+** Summary **
+B2B_Suckouts collected [ 0,06 $ ]
+
+
+
+#Game No : 631374375
+***** 888poker Hand History for Game 631374375 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:51:32
+Table Khabarovsk 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 2: Frankenstein ( 1,80 $ )
+Seat 3: dunebuggy23 ( 1,21 $ )
+Seat 4: B2B_Suckouts ( 2,98 $ )
+Seat 5: ttottorro ( 1,99 $ )
+Seat 7: papa5grdkids ( 0,15 $ )
+Seat 10: magicmikeyb ( 2,72 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ttottorro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, AKaro ]
+papa5grdkids folds
+magicmikeyb raises [0,08 $]
+Frankenstein folds
+dunebuggy23 raises [0,14 $]
+B2B_Suckouts folds
+ttottorro folds
+magicmikeyb calls [0,06 $]
+** Dealing flop ** [ 2Pik, 10Kreuz, JKreuz ]
+magicmikeyb checks
+dunebuggy23 bets [0,12 $]
+magicmikeyb calls [0,12 $]
+** Dealing turn ** [ 3Herz ]
+magicmikeyb checks
+dunebuggy23 bets [0,18 $]
+magicmikeyb calls [0,18 $]
+** Dealing river ** [ 3Karo ]
+magicmikeyb checks
+dunebuggy23 bets [0,16 $]
+magicmikeyb folds
+** Summary **
+dunebuggy23 collected [ 0,86 $ ]
+
+
+
+#Game No : 631374443
+***** 888poker Hand History for Game 631374443 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:52:46
+Table Khabarovsk 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: Frankenstein ( 1,80 $ )
+Seat 3: dunebuggy23 ( 1,63 $ )
+Seat 4: B2B_Suckouts ( 2,97 $ )
+Seat 5: ttottorro ( 1,97 $ )
+Seat 6: ds1723 ( 0,80 $ )
+Seat 7: papa5grdkids ( 0,15 $ )
+Seat 10: magicmikeyb ( 2,28 $ )
+ttottorro posts small blind [0,01 $]
+ds1723 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 3Kreuz ]
+papa5grdkids folds
+magicmikeyb raises [0,08 $]
+Frankenstein calls [0,08 $]
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+ds1723 calls [0,06 $]
+** Dealing flop ** [ 7Karo, 9Karo, 4Karo ]
+ds1723 bets [0,08 $]
+magicmikeyb calls [0,08 $]
+Frankenstein calls [0,08 $]
+** Dealing turn ** [ 2Pik ]
+ds1723 checks
+magicmikeyb checks
+Frankenstein checks
+** Dealing river ** [ 8Karo ]
+ds1723 bets [0,16 $]
+magicmikeyb raises [0,32 $]
+Frankenstein folds
+ds1723 raises [0,32 $]
+magicmikeyb calls [0,16 $]
+** Summary **
+ds1723 shows [ QKaro, AKaro ]
+magicmikeyb mucks [ JPik, KKaro ]
+ds1723 collected [ 1,36 $ ]
+
+
+
+#Game No : 631374521
+***** 888poker Hand History for Game 631374521 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:54:18
+Table Khabarovsk 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,64 $ )
+Seat 3: dunebuggy23 ( 1,63 $ )
+Seat 4: B2B_Suckouts ( 2,97 $ )
+Seat 5: ttottorro ( 1,96 $ )
+Seat 6: ds1723 ( 1,52 $ )
+Seat 7: papa5grdkids ( 0,15 $ )
+Seat 9: mw73poker ( 2 $ )
+Seat 10: magicmikeyb ( 2 $ )
+ds1723 posts small blind [0,01 $]
+papa5grdkids posts big blind [0,02 $]
+mw73poker posts big blind [0,02 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 5Herz ]
+mw73poker checks
+magicmikeyb folds
+Kotalin checks
+Frankenstein folds
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+ds1723 folds
+papa5grdkids checks
+** Dealing flop ** [ AKreuz, QPik, 10Karo ]
+papa5grdkids checks
+mw73poker bets [0,07 $]
+Kotalin folds
+papa5grdkids folds
+** Summary **
+mw73poker did not show his hand
+mw73poker collected [ 0,07 $ ]
+
+
+
+#Game No : 631374568
+***** 888poker Hand History for Game 631374568 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:55:07
+Table Khabarovsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,64 $ )
+Seat 3: dunebuggy23 ( 1,63 $ )
+Seat 4: B2B_Suckouts ( 2,97 $ )
+Seat 5: ttottorro ( 1,96 $ )
+Seat 6: ds1723 ( 1,51 $ )
+Seat 7: papa5grdkids ( 0,13 $ )
+Seat 9: mw73poker ( 2,05 $ )
+Seat 10: magicmikeyb ( 2 $ )
+papa5grdkids posts small blind [0,01 $]
+mw73poker posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, JHerz ]
+magicmikeyb folds
+Kotalin folds
+Frankenstein calls [0,02 $]
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+ds1723 folds
+papa5grdkids calls [0,01 $]
+mw73poker checks
+** Dealing flop ** [ KKaro, 9Herz, 9Kreuz ]
+papa5grdkids checks
+mw73poker checks
+Frankenstein checks
+** Dealing turn ** [ 3Karo ]
+papa5grdkids bets [0,03 $]
+mw73poker calls [0,03 $]
+Frankenstein calls [0,03 $]
+** Dealing river ** [ 4Karo ]
+papa5grdkids bets [0,08 $]
+mw73poker folds
+Frankenstein calls [0,08 $]
+** Summary **
+Frankenstein shows [ QPik, 3Pik ]
+papa5grdkids shows [ 6Pik, 9Karo ]
+papa5grdkids collected [ 0,30 $ ]
+
+
+
+#Game No : 631374625
+***** 888poker Hand History for Game 631374625 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:56:08
+Table Khabarovsk 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,51 $ )
+Seat 3: dunebuggy23 ( 1,63 $ )
+Seat 4: B2B_Suckouts ( 2,97 $ )
+Seat 5: ttottorro ( 1,96 $ )
+Seat 6: ds1723 ( 1,51 $ )
+Seat 7: papa5grdkids ( 0,30 $ )
+Seat 9: mw73poker ( 2 $ )
+Seat 10: magicmikeyb ( 2 $ )
+mw73poker posts small blind [0,01 $]
+magicmikeyb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 3Karo ]
+Kotalin folds
+Frankenstein calls [0,02 $]
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+ds1723 folds
+papa5grdkids folds
+mw73poker raises [0,03 $]
+magicmikeyb folds
+Frankenstein calls [0,02 $]
+** Dealing flop ** [ JHerz, 5Pik, 3Pik ]
+mw73poker bets [0,10 $]
+Frankenstein folds
+** Summary **
+mw73poker did not show his hand
+mw73poker collected [ 0,10 $ ]
+
+
+
+#Game No : 631374670
+***** 888poker Hand History for Game 631374670 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:56:50
+Table Khabarovsk 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,47 $ )
+Seat 3: dunebuggy23 ( 1,63 $ )
+Seat 4: B2B_Suckouts ( 2,97 $ )
+Seat 5: ttottorro ( 1,96 $ )
+Seat 6: ds1723 ( 1,51 $ )
+Seat 7: papa5grdkids ( 0,30 $ )
+Seat 9: mw73poker ( 2,06 $ )
+Seat 10: magicmikeyb ( 2 $ )
+magicmikeyb posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 7Karo ]
+Frankenstein folds
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+ds1723 calls [0,02 $]
+papa5grdkids raises [0,08 $]
+mw73poker calls [0,08 $]
+magicmikeyb folds
+Kotalin folds
+ds1723 folds
+** Dealing flop ** [ 3Pik, KKreuz, 10Karo ]
+papa5grdkids bets [0,13 $]
+mw73poker calls [0,13 $]
+** Dealing turn ** [ AKaro ]
+papa5grdkids bets [0,09 $]
+mw73poker calls [0,09 $]
+** Dealing river ** [ 5Karo ]
+** Summary **
+papa5grdkids shows [ APik, KHerz ]
+mw73poker shows [ AHerz, 4Kreuz ]
+papa5grdkids collected [ 0,61 $ ]
+
+
+
+#Game No : 631374721
+***** 888poker Hand History for Game 631374721 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:57:58
+Table Khabarovsk 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,47 $ )
+Seat 3: dunebuggy23 ( 1,63 $ )
+Seat 4: B2B_Suckouts ( 2,97 $ )
+Seat 5: ttottorro ( 1,96 $ )
+Seat 6: ds1723 ( 1,49 $ )
+Seat 7: papa5grdkids ( 0,61 $ )
+Seat 9: mw73poker ( 1,76 $ )
+Seat 10: magicmikeyb ( 2 $ )
+Kotalin posts small blind [0,01 $]
+Frankenstein posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 4Kreuz ]
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro raises [0,06 $]
+ds1723 folds
+papa5grdkids folds
+mw73poker calls [0,06 $]
+magicmikeyb folds
+Kotalin folds
+Frankenstein folds
+** Dealing flop ** [ QKaro, AKreuz, 4Herz ]
+ttottorro bets [0,10 $]
+mw73poker raises [0,30 $]
+ttottorro raises [0,40 $]
+mw73poker raises [1,40 $]
+ttottorro calls [1,20 $]
+** Dealing turn ** [ 6Pik ]
+** Dealing river ** [ 6Kreuz ]
+** Summary **
+ttottorro shows [ QKreuz, QPik ]
+mw73poker shows [ APik, 4Pik ]
+ttottorro collected [ 3,33 $ ]
+
+
+
+#Game No : 631374774
+***** 888poker Hand History for Game 631374774 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:58:59
+Table Khabarovsk 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,45 $ )
+Seat 3: dunebuggy23 ( 1,63 $ )
+Seat 4: B2B_Suckouts ( 2,97 $ )
+Seat 5: ttottorro ( 3,53 $ )
+Seat 6: ds1723 ( 1,49 $ )
+Seat 7: papa5grdkids ( 0,61 $ )
+Seat 9: mw73poker ( 2 $ )
+Seat 10: magicmikeyb ( 2 $ )
+Frankenstein posts small blind [0,01 $]
+dunebuggy23 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, JKaro ]
+B2B_Suckouts folds
+ttottorro folds
+ds1723 folds
+papa5grdkids folds
+mw73poker folds
+magicmikeyb folds
+Kotalin folds
+Frankenstein folds
+** Summary **
+dunebuggy23 did not show his hand
+dunebuggy23 collected [ 0,03 $ ]
+
+
+
+#Game No : 631374797
+***** 888poker Hand History for Game 631374797 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:59:18
+Table Khabarovsk 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,44 $ )
+Seat 3: dunebuggy23 ( 1,64 $ )
+Seat 4: B2B_Suckouts ( 2,97 $ )
+Seat 5: ttottorro ( 3,53 $ )
+Seat 6: ds1723 ( 1,49 $ )
+Seat 7: papa5grdkids ( 0,61 $ )
+Seat 9: mw73poker ( 2 $ )
+Seat 10: magicmikeyb ( 2 $ )
+dunebuggy23 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 3Herz ]
+ttottorro folds
+ds1723 folds
+papa5grdkids folds
+mw73poker calls [0,02 $]
+magicmikeyb calls [0,02 $]
+Kotalin folds
+Frankenstein folds
+dunebuggy23 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 3Pik, JPik, JKreuz ]
+B2B_Suckouts checks
+mw73poker checks
+magicmikeyb bets [0,02 $]
+B2B_Suckouts folds
+mw73poker calls [0,02 $]
+** Dealing turn ** [ 8Kreuz ]
+mw73poker checks
+magicmikeyb bets [0,11 $]
+mw73poker folds
+** Summary **
+magicmikeyb did not show his hand
+magicmikeyb collected [ 0,11 $ ]
+
+
+
+#Game No : 631374846
+***** 888poker Hand History for Game 631374846 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 23:00:09
+Table Khabarovsk 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,44 $ )
+Seat 3: dunebuggy23 ( 1,63 $ )
+Seat 4: B2B_Suckouts ( 2,95 $ )
+Seat 5: ttottorro ( 3,53 $ )
+Seat 6: ds1723 ( 1,49 $ )
+Seat 7: papa5grdkids ( 0,61 $ )
+Seat 9: mw73poker ( 1,96 $ )
+Seat 10: magicmikeyb ( 2,07 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ttottorro posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, JKaro ]
+ds1723 calls [0,02 $]
+papa5grdkids folds
+mw73poker calls [0,02 $]
+magicmikeyb folds
+Kotalin folds
+Frankenstein calls [0,02 $]
+dunebuggy23 folds
+B2B_Suckouts raises [0,05 $]
+ttottorro folds
+ds1723 calls [0,04 $]
+mw73poker calls [0,04 $]
+Frankenstein calls [0,04 $]
+** Dealing flop ** [ 5Herz, AHerz, 2Kreuz ]
+B2B_Suckouts bets [0,08 $]
+ds1723 folds
+mw73poker calls [0,08 $]
+Frankenstein folds
+** Dealing turn ** [ 4Kreuz ]
+B2B_Suckouts bets [0,12 $]
+mw73poker raises [0,24 $]
+B2B_Suckouts calls [0,12 $]
+** Dealing river ** [ JPik ]
+B2B_Suckouts bets [0,45 $]
+mw73poker raises [1,35 $]
+B2B_Suckouts calls [0,90 $]
+** Summary **
+mw73poker shows [ 2Pik, 4Pik ]
+B2B_Suckouts shows [ APik, JKaro ]
+B2B_Suckouts collected [ 3,38 $ ]
+
+
+
+#Game No : 631374958
+***** 888poker Hand History for Game 631374958 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 23:02:13
+Table Khabarovsk 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,38 $ )
+Seat 3: dunebuggy23 ( 1,63 $ )
+Seat 4: B2B_Suckouts ( 4,60 $ )
+Seat 5: ttottorro ( 3,51 $ )
+Seat 6: ds1723 ( 1,43 $ )
+Seat 7: papa5grdkids ( 0,61 $ )
+Seat 9: mw73poker ( 0,23 $ )
+Seat 10: magicmikeyb ( 2,07 $ )
+ttottorro posts small blind [0,01 $]
+ds1723 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 5Kreuz ]
+papa5grdkids folds
+mw73poker raises [0,23 $]
+magicmikeyb folds
+Kotalin folds
+Frankenstein folds
+dunebuggy23 raises [0,44 $]
+B2B_Suckouts folds
+ttottorro folds
+ds1723 folds
+** Dealing flop ** [ 7Herz, 2Karo, 5Pik ]
+** Dealing turn ** [ 9Karo ]
+** Dealing river ** [ 9Kreuz ]
+** Summary **
+dunebuggy23 shows [ AKaro, 10Karo ]
+mw73poker shows [ KPik, JKreuz ]
+dunebuggy23 collected [ 0,46 $ ]
+
+
+
+#Game No : 631375003
+***** 888poker Hand History for Game 631375003 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 23:02:53
+Table Khabarovsk 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,38 $ )
+Seat 3: dunebuggy23 ( 1,86 $ )
+Seat 4: B2B_Suckouts ( 4,60 $ )
+Seat 5: ttottorro ( 3,50 $ )
+Seat 6: ds1723 ( 1,41 $ )
+Seat 7: papa5grdkids ( 0,61 $ )
+Seat 9: mw73poker ( 0,80 $ )
+Seat 10: magicmikeyb ( 2,07 $ )
+ds1723 posts small blind [0,01 $]
+papa5grdkids posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, QHerz ]
+mw73poker folds
+magicmikeyb raises [0,08 $]
+Kotalin folds
+Frankenstein folds
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+ds1723 folds
+papa5grdkids folds
+** Summary **
+magicmikeyb did not show his hand
+magicmikeyb collected [ 0,05 $ ]
+
+
+
+#Game No : 631375042
+***** 888poker Hand History for Game 631375042 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 23:03:31
+Table Khabarovsk 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,38 $ )
+Seat 3: dunebuggy23 ( 1,86 $ )
+Seat 4: B2B_Suckouts ( 4,60 $ )
+Seat 5: ttottorro ( 3,50 $ )
+Seat 6: ds1723 ( 1,40 $ )
+Seat 7: papa5grdkids ( 0,59 $ )
+Seat 10: magicmikeyb ( 2,10 $ )
+papa5grdkids posts small blind [0,01 $]
+magicmikeyb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 4Herz ]
+Kotalin folds
+Frankenstein folds
+dunebuggy23 raises [0,06 $]
+B2B_Suckouts folds
+ttottorro folds
+ds1723 folds
+papa5grdkids folds
+magicmikeyb raises [0,22 $]
+dunebuggy23 folds
+** Summary **
+magicmikeyb did not show his hand
+magicmikeyb collected [ 0,13 $ ]
+
+
+
+#Game No : 631375084
+***** 888poker Hand History for Game 631375084 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 23:04:12
+Table Khabarovsk 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Kotalin ( 2 $ )
+Seat 2: Frankenstein ( 1,38 $ )
+Seat 3: dunebuggy23 ( 1,80 $ )
+Seat 4: B2B_Suckouts ( 4,60 $ )
+Seat 5: ttottorro ( 3,50 $ )
+Seat 6: ds1723 ( 1,40 $ )
+Seat 7: papa5grdkids ( 0,58 $ )
+Seat 10: magicmikeyb ( 2,17 $ )
+magicmikeyb posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, APik ]
+Frankenstein raises [0,10 $]
+dunebuggy23 folds
+B2B_Suckouts folds
+ttottorro folds
+ds1723 folds
+papa5grdkids folds
+magicmikeyb folds
+Kotalin folds
+** Summary **
+Frankenstein collected [ 0,05 $ ]
+
+
+
