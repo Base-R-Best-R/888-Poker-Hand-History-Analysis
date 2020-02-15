@@ -1,0 +1,2002 @@
+#Game No : 474690489
+***** 888poker Hand History for Game 474690489 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:34:13
+Table Bellingham 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,97 $ )
+Seat 2: wenzel2000 ( 2 $ )
+Seat 3: Coco_999 ( 1,85 $ )
+Seat 4: Penguin_1980 ( 1,38 $ )
+Seat 5: OKE_RASTA_J ( 2,34 $ )
+Seat 6: JeggerI ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,15 $ )
+Seat 10: whyluckys ( 2,03 $ )
+Alaloupe posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 5Karo ]
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+JeggerI folds
+B2B_Suckouts checks
+kosto2000 raises [0,08 $]
+whyluckys folds
+Alaloupe folds
+wenzel2000 folds
+B2B_Suckouts folds
+** Summary **
+kosto2000 did not show his hand
+kosto2000 collected [ 0,07 $ ]
+
+
+
+#Game No : 474690509
+***** 888poker Hand History for Game 474690509 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:34:48
+Table Bellingham 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,96 $ )
+Seat 2: wenzel2000 ( 2 $ )
+Seat 3: Coco_999 ( 1,85 $ )
+Seat 4: Penguin_1980 ( 1,38 $ )
+Seat 5: OKE_RASTA_J ( 2,34 $ )
+Seat 6: JeggerI ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,20 $ )
+Seat 10: whyluckys ( 2,03 $ )
+wenzel2000 posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 6Herz ]
+Penguin_1980 folds
+OKE_RASTA_J folds
+JeggerI folds
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys raises [0,06 $]
+Alaloupe folds
+wenzel2000 raises [0,19 $]
+Coco_999 folds
+whyluckys raises [0,54 $]
+wenzel2000 folds
+** Summary **
+whyluckys did not show his hand
+whyluckys collected [ 0,42 $ ]
+
+
+
+#Game No : 474690528
+***** 888poker Hand History for Game 474690528 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:35:26
+Table Bellingham 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,96 $ )
+Seat 2: wenzel2000 ( 2 $ )
+Seat 3: Coco_999 ( 1,83 $ )
+Seat 4: Penguin_1980 ( 1,38 $ )
+Seat 5: OKE_RASTA_J ( 2,34 $ )
+Seat 6: JeggerI ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,20 $ )
+Seat 10: whyluckys ( 2,25 $ )
+Coco_999 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, KKreuz ]
+OKE_RASTA_J folds
+JeggerI folds
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys raises [0,06 $]
+Alaloupe folds
+wenzel2000 raises [0,18 $]
+Coco_999 calls [0,17 $]
+Penguin_1980 folds
+whyluckys calls [0,12 $]
+** Dealing flop ** [ AHerz, 3Herz, 2Pik ]
+Coco_999 checks
+whyluckys checks
+wenzel2000 bets [0,36 $]
+Coco_999 folds
+whyluckys folds
+** Summary **
+wenzel2000 did not show his hand
+wenzel2000 collected [ 0,53 $ ]
+
+
+
+#Game No : 474690562
+***** 888poker Hand History for Game 474690562 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:36:27
+Table Bellingham 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,96 $ )
+Seat 2: wenzel2000 ( 2,35 $ )
+Seat 3: Coco_999 ( 1,65 $ )
+Seat 4: Penguin_1980 ( 1,36 $ )
+Seat 5: OKE_RASTA_J ( 2,34 $ )
+Seat 6: JeggerI ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,20 $ )
+Seat 10: whyluckys ( 2,07 $ )
+Penguin_1980 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 3Pik ]
+JeggerI folds
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys raises [0,06 $]
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+** Summary **
+whyluckys did not show his hand
+whyluckys collected [ 0,05 $ ]
+
+
+
+#Game No : 474690582
+***** 888poker Hand History for Game 474690582 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:36:51
+Table Bellingham 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,96 $ )
+Seat 2: wenzel2000 ( 2,35 $ )
+Seat 3: Coco_999 ( 1,65 $ )
+Seat 4: Penguin_1980 ( 1,35 $ )
+Seat 5: OKE_RASTA_J ( 2,32 $ )
+Seat 6: JeggerI ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,20 $ )
+Seat 10: whyluckys ( 2,10 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+JeggerI folds
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, JPik ]
+kosto2000 raises [0,06 $]
+whyluckys calls [0,06 $]
+Alaloupe calls [0,06 $]
+wenzel2000 folds
+Coco_999 raises [0,28 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys calls [0,22 $]
+Alaloupe folds
+** Dealing flop ** [ QHerz, KHerz, 8Kreuz ]
+whyluckys checks
+Coco_999 bets [0,35 $]
+whyluckys raises [1,05 $]
+Coco_999 raises [1,02 $]
+whyluckys calls [0,32 $]
+** Dealing turn ** [ 5Karo ]
+** Dealing river ** [ 8Pik ]
+** Summary **
+Coco_999 shows [ AHerz, JHerz ]
+whyluckys shows [ KKaro, JKaro ]
+whyluckys collected [ 3,24 $ ]
+
+
+
+#Game No : 474690627
+***** 888poker Hand History for Game 474690627 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:38:19
+Table Bellingham 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: Alaloupe ( 1,90 $ )
+Seat 4: Penguin_1980 ( 1,35 $ )
+Seat 5: OKE_RASTA_J ( 2,31 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,14 $ )
+Seat 10: whyluckys ( 3,69 $ )
+B2B_Suckouts posts small blind [0,01 $]
+kosto2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 10Karo ]
+whyluckys folds
+Alaloupe folds
+Penguin_1980 folds
+OKE_RASTA_J calls [0,02 $]
+B2B_Suckouts raises [0,05 $]
+kosto2000 folds
+OKE_RASTA_J calls [0,04 $]
+** Dealing flop ** [ 7Kreuz, 4Pik, AHerz ]
+B2B_Suckouts checks
+OKE_RASTA_J bets [0,08 $]
+B2B_Suckouts folds
+** Summary **
+OKE_RASTA_J collected [ 0,14 $ ]
+
+
+
+#Game No : 474690652
+***** 888poker Hand History for Game 474690652 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:39:02
+Table Bellingham 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 1,90 $ )
+Seat 2: wenzel2000 ( 2,35 $ )
+Seat 3: Coco_999 ( 2 $ )
+Seat 4: Penguin_1980 ( 1,35 $ )
+Seat 5: OKE_RASTA_J ( 2,39 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,12 $ )
+Seat 10: whyluckys ( 3,69 $ )
+kosto2000 posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 7Karo ]
+Alaloupe folds
+wenzel2000 raises [0,06 $]
+Coco_999 raises [0,24 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys folds
+wenzel2000 folds
+** Summary **
+Coco_999 collected [ 0,15 $ ]
+
+
+
+#Game No : 474690674
+***** 888poker Hand History for Game 474690674 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:39:40
+Table Bellingham 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 1,90 $ )
+Seat 2: wenzel2000 ( 2,29 $ )
+Seat 3: Coco_999 ( 2,09 $ )
+Seat 4: Penguin_1980 ( 1,35 $ )
+Seat 5: OKE_RASTA_J ( 2,39 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,11 $ )
+Seat 10: whyluckys ( 3,67 $ )
+whyluckys posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 9Herz ]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+B2B_Suckouts raises [0,06 $]
+kosto2000 folds
+whyluckys folds
+Alaloupe folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474690693
+***** 888poker Hand History for Game 474690693 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:40:16
+Table Bellingham 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Alaloupe ( 1,88 $ )
+Seat 2: wenzel2000 ( 2,29 $ )
+Seat 4: Penguin_1980 ( 1,35 $ )
+Seat 5: OKE_RASTA_J ( 2,39 $ )
+Seat 7: B2B_Suckouts ( 2,03 $ )
+Seat 9: kosto2000 ( 2,11 $ )
+Seat 10: whyluckys ( 3,66 $ )
+Alaloupe posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 6Karo ]
+Penguin_1980 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+kosto2000 raises [0,05 $]
+whyluckys folds
+Alaloupe folds
+wenzel2000 folds
+** Summary **
+kosto2000 collected [ 0,05 $ ]
+
+
+
+#Game No : 474690710
+***** 888poker Hand History for Game 474690710 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:40:46
+Table Bellingham 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 1,87 $ )
+Seat 2: wenzel2000 ( 2,27 $ )
+Seat 3: Coco_999 ( 2,09 $ )
+Seat 4: Penguin_1980 ( 1,35 $ )
+Seat 5: OKE_RASTA_J ( 2,39 $ )
+Seat 7: B2B_Suckouts ( 2,03 $ )
+Seat 9: kosto2000 ( 2,14 $ )
+Seat 10: whyluckys ( 3,66 $ )
+wenzel2000 posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, QKreuz ]
+Penguin_1980 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys folds
+Alaloupe folds
+wenzel2000 raises [0,05 $]
+Coco_999 calls [0,04 $]
+** Dealing flop ** [ 7Pik, APik, KPik ]
+wenzel2000 bets [0,07 $]
+Coco_999 folds
+** Summary **
+wenzel2000 collected [ 0,12 $ ]
+
+
+
+#Game No : 474690728
+***** 888poker Hand History for Game 474690728 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:41:25
+Table Bellingham 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 1,87 $ )
+Seat 2: wenzel2000 ( 2,33 $ )
+Seat 3: Coco_999 ( 2,03 $ )
+Seat 4: Penguin_1980 ( 1,35 $ )
+Seat 5: OKE_RASTA_J ( 2,39 $ )
+Seat 7: B2B_Suckouts ( 2,03 $ )
+Seat 9: kosto2000 ( 2,14 $ )
+Seat 10: whyluckys ( 3,66 $ )
+Coco_999 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, AKreuz ]
+OKE_RASTA_J calls [0,02 $]
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys folds
+Alaloupe raises [0,08 $]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J calls [0,06 $]
+** Dealing flop ** [ 8Pik, JKaro, 2Kreuz ]
+OKE_RASTA_J checks
+Alaloupe bets [0,06 $]
+OKE_RASTA_J calls [0,06 $]
+** Dealing turn ** [ 9Herz ]
+OKE_RASTA_J checks
+Alaloupe bets [0,20 $]
+OKE_RASTA_J folds
+** Summary **
+Alaloupe collected [ 0,30 $ ]
+
+
+
+#Game No : 474690757
+***** 888poker Hand History for Game 474690757 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:42:23
+Table Bellingham 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 2,03 $ )
+Seat 2: wenzel2000 ( 2,33 $ )
+Seat 3: Coco_999 ( 2,02 $ )
+Seat 4: Penguin_1980 ( 1,33 $ )
+Seat 5: OKE_RASTA_J ( 2,25 $ )
+Seat 7: B2B_Suckouts ( 2,03 $ )
+Seat 9: kosto2000 ( 2,14 $ )
+Seat 10: whyluckys ( 3,66 $ )
+Penguin_1980 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 10Kreuz ]
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys folds
+Alaloupe folds
+wenzel2000 folds
+Coco_999 raises [0,06 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+** Summary **
+Coco_999 collected [ 0,05 $ ]
+
+
+
+#Game No : 474690771
+***** 888poker Hand History for Game 474690771 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:42:52
+Table Bellingham 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,03 $ )
+Seat 2: wenzel2000 ( 2,33 $ )
+Seat 3: Coco_999 ( 2,05 $ )
+Seat 4: Penguin_1980 ( 1,32 $ )
+Seat 5: OKE_RASTA_J ( 2,23 $ )
+Seat 6: GSGS37 ( 0,80 $ )
+Seat 7: B2B_Suckouts ( 2,03 $ )
+Seat 9: kosto2000 ( 2,14 $ )
+Seat 10: whyluckys ( 3,66 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, APik ]
+B2B_Suckouts raises [0,06 $]
+kosto2000 folds
+whyluckys folds
+Alaloupe folds
+wenzel2000 calls [0,06 $]
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 calls [0,04 $]
+** Dealing flop ** [ 3Karo, 6Pik, 10Kreuz ]
+GSGS37 checks
+B2B_Suckouts bets [0,06 $]
+wenzel2000 folds
+GSGS37 calls [0,06 $]
+** Dealing turn ** [ 5Herz ]
+GSGS37 checks
+B2B_Suckouts checks
+** Dealing river ** [ AKreuz ]
+GSGS37 bets [0,15 $]
+B2B_Suckouts raises [0,37 $]
+GSGS37 calls [0,22 $]
+** Summary **
+B2B_Suckouts shows [ KKaro, APik ]
+GSGS37 shows [ 5Karo, AKaro ]
+GSGS37 collected [ 0,99 $ ]
+
+
+
+#Game No : 474690810
+***** 888poker Hand History for Game 474690810 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:43:56
+Table Bellingham 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,03 $ )
+Seat 2: wenzel2000 ( 2,27 $ )
+Seat 3: Coco_999 ( 2,05 $ )
+Seat 4: Penguin_1980 ( 1,32 $ )
+Seat 5: OKE_RASTA_J ( 2,22 $ )
+Seat 6: GSGS37 ( 1,30 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,14 $ )
+Seat 10: whyluckys ( 3,66 $ )
+GSGS37 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 10Herz ]
+kosto2000 raises [0,06 $]
+whyluckys folds
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J calls [0,06 $]
+GSGS37 folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 6Karo, KKreuz, 7Herz ]
+B2B_Suckouts checks
+kosto2000 bets [0,09 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+** Summary **
+kosto2000 did not show his hand
+kosto2000 collected [ 0,18 $ ]
+
+
+
+#Game No : 474690833
+***** 888poker Hand History for Game 474690833 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:44:45
+Table Bellingham 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,03 $ )
+Seat 2: wenzel2000 ( 2,27 $ )
+Seat 3: Coco_999 ( 2,05 $ )
+Seat 4: Penguin_1980 ( 1,32 $ )
+Seat 5: OKE_RASTA_J ( 2,16 $ )
+Seat 6: GSGS37 ( 1,29 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,26 $ )
+Seat 10: whyluckys ( 3,66 $ )
+B2B_Suckouts posts small blind [0,01 $]
+kosto2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 2Karo ]
+whyluckys folds
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+** Summary **
+kosto2000 did not show his hand
+kosto2000 collected [ 0,03 $ ]
+
+
+
+#Game No : 474690851
+***** 888poker Hand History for Game 474690851 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:45:11
+Table Bellingham 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,03 $ )
+Seat 2: wenzel2000 ( 2,27 $ )
+Seat 3: Coco_999 ( 2,05 $ )
+Seat 4: Penguin_1980 ( 1,32 $ )
+Seat 5: OKE_RASTA_J ( 2,16 $ )
+Seat 6: GSGS37 ( 1,29 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,27 $ )
+Seat 10: whyluckys ( 3,66 $ )
+kosto2000 posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 2Pik ]
+Alaloupe folds
+wenzel2000 raises [0,06 $]
+Coco_999 raises [0,18 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys folds
+wenzel2000 folds
+** Summary **
+Coco_999 did not show his hand
+Coco_999 collected [ 0,15 $ ]
+
+
+
+#Game No : 474690874
+***** 888poker Hand History for Game 474690874 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:46:10
+Table Bellingham 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 2,03 $ )
+Seat 2: wenzel2000 ( 2,21 $ )
+Seat 3: Coco_999 ( 2,14 $ )
+Seat 4: Penguin_1980 ( 1,32 $ )
+Seat 5: OKE_RASTA_J ( 2,16 $ )
+Seat 6: GSGS37 ( 1,29 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: kosto2000 ( 2,26 $ )
+Seat 10: whyluckys ( 3,64 $ )
+whyluckys posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, AKreuz ]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts raises [0,06 $]
+kosto2000 folds
+whyluckys folds
+Alaloupe calls [0,04 $]
+** Dealing flop ** [ 6Kreuz, JKreuz, QKreuz ]
+Alaloupe checks
+B2B_Suckouts bets [0,04 $]
+Alaloupe calls [0,04 $]
+** Dealing turn ** [ 8Kreuz ]
+Alaloupe bets [0,13 $]
+B2B_Suckouts calls [0,13 $]
+** Dealing river ** [ JKaro ]
+Alaloupe checks
+B2B_Suckouts bets [0,20 $]
+Alaloupe calls [0,20 $]
+** Summary **
+B2B_Suckouts shows [ 2Karo, AKreuz ]
+Alaloupe mucks [ 9Kreuz, APik ]
+B2B_Suckouts collected [ 0,82 $ ]
+
+
+
+#Game No : 474690910
+***** 888poker Hand History for Game 474690910 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:47:22
+Table Bellingham 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,60 $ )
+Seat 2: wenzel2000 ( 2,21 $ )
+Seat 3: Coco_999 ( 2,14 $ )
+Seat 4: Penguin_1980 ( 1,32 $ )
+Seat 5: OKE_RASTA_J ( 2,16 $ )
+Seat 6: GSGS37 ( 1,29 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: kosto2000 ( 2,26 $ )
+Seat 10: whyluckys ( 3,63 $ )
+Alaloupe posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 8Herz ]
+Coco_999 raises [0,06 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys folds
+Alaloupe calls [0,05 $]
+wenzel2000 folds
+** Dealing flop ** [ 10Pik, 6Kreuz, 2Karo ]
+Alaloupe checks
+Coco_999 bets [0,07 $]
+Alaloupe calls [0,07 $]
+** Dealing turn ** [ 8Pik ]
+Alaloupe checks
+Coco_999 bets [0,18 $]
+Alaloupe calls [0,18 $]
+** Dealing river ** [ 7Kreuz ]
+Alaloupe checks
+Coco_999 checks
+** Summary **
+Alaloupe shows [ 10Karo, JKreuz ]
+Coco_999 shows [ QKreuz, QHerz ]
+Coco_999 collected [ 0,60 $ ]
+
+
+
+#Game No : 474690944
+***** 888poker Hand History for Game 474690944 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:48:29
+Table Bellingham 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,29 $ )
+Seat 2: wenzel2000 ( 2,19 $ )
+Seat 3: Coco_999 ( 2,43 $ )
+Seat 4: Penguin_1980 ( 1,32 $ )
+Seat 5: OKE_RASTA_J ( 2,16 $ )
+Seat 6: GSGS37 ( 1,29 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: kosto2000 ( 2,26 $ )
+Seat 10: whyluckys ( 3,63 $ )
+wenzel2000 posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 8Herz ]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 folds
+whyluckys folds
+Alaloupe folds
+wenzel2000 folds
+** Summary **
+Coco_999 did not show his hand
+Coco_999 collected [ 0,03 $ ]
+
+
+
+#Game No : 474690958
+***** 888poker Hand History for Game 474690958 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:48:54
+Table Bellingham 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,29 $ )
+Seat 2: wenzel2000 ( 2,18 $ )
+Seat 3: Coco_999 ( 2,44 $ )
+Seat 4: Penguin_1980 ( 1,32 $ )
+Seat 5: OKE_RASTA_J ( 2,16 $ )
+Seat 6: GSGS37 ( 1,29 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: kosto2000 ( 2,26 $ )
+Seat 10: whyluckys ( 3,63 $ )
+Coco_999 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 2Herz ]
+OKE_RASTA_J calls [0,02 $]
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 raises [0,08 $]
+whyluckys folds
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J calls [0,06 $]
+** Dealing flop ** [ 9Pik, KKreuz, 2Karo ]
+OKE_RASTA_J checks
+kosto2000 checks
+** Dealing turn ** [ 9Karo ]
+OKE_RASTA_J bets [0,08 $]
+kosto2000 folds
+** Summary **
+OKE_RASTA_J did not show his hand
+OKE_RASTA_J collected [ 0,18 $ ]
+
+
+
+#Game No : 474690984
+***** 888poker Hand History for Game 474690984 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:49:37
+Table Bellingham 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,29 $ )
+Seat 2: wenzel2000 ( 2,18 $ )
+Seat 3: Coco_999 ( 2,43 $ )
+Seat 4: Penguin_1980 ( 1,30 $ )
+Seat 5: OKE_RASTA_J ( 2,26 $ )
+Seat 6: GSGS37 ( 1,29 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: kosto2000 ( 2,18 $ )
+Seat 10: whyluckys ( 3,63 $ )
+Penguin_1980 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 10Kreuz ]
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 raises [0,06 $]
+whyluckys raises [0,18 $]
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+kosto2000 folds
+** Summary **
+whyluckys did not show his hand
+whyluckys collected [ 0,15 $ ]
+
+
+
+#Game No : 474691013
+***** 888poker Hand History for Game 474691013 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:50:20
+Table Bellingham 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,29 $ )
+Seat 2: wenzel2000 ( 2,18 $ )
+Seat 3: Coco_999 ( 2,43 $ )
+Seat 4: Penguin_1980 ( 1,29 $ )
+Seat 5: OKE_RASTA_J ( 2,24 $ )
+Seat 6: GSGS37 ( 1,29 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: kosto2000 ( 2,12 $ )
+Seat 10: whyluckys ( 3,72 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, AKreuz ]
+B2B_Suckouts raises [0,06 $]
+kosto2000 folds
+whyluckys folds
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474691022
+***** 888poker Hand History for Game 474691022 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:50:35
+Table Bellingham 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,29 $ )
+Seat 2: wenzel2000 ( 2,18 $ )
+Seat 3: Coco_999 ( 2,43 $ )
+Seat 4: Penguin_1980 ( 1,29 $ )
+Seat 5: OKE_RASTA_J ( 2,23 $ )
+Seat 6: GSGS37 ( 1,27 $ )
+Seat 7: B2B_Suckouts ( 2,42 $ )
+Seat 9: kosto2000 ( 2,12 $ )
+Seat 10: whyluckys ( 3,72 $ )
+GSGS37 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 8Pik ]
+kosto2000 folds
+whyluckys folds
+Alaloupe raises [0,06 $]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 calls [0,05 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 8Karo, 4Karo, QPik ]
+GSGS37 checks
+Alaloupe bets [0,06 $]
+GSGS37 calls [0,06 $]
+** Dealing turn ** [ KHerz ]
+GSGS37 checks
+Alaloupe bets [0,13 $]
+GSGS37 calls [0,13 $]
+** Dealing river ** [ QHerz ]
+GSGS37 checks
+Alaloupe checks
+** Summary **
+GSGS37 shows [ KPik, JPik ]
+Alaloupe mucks [ JHerz, AKreuz ]
+GSGS37 collected [ 0,49 $ ]
+
+
+
+#Game No : 474691059
+***** 888poker Hand History for Game 474691059 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:51:40
+Table Bellingham 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,04 $ )
+Seat 2: wenzel2000 ( 2,18 $ )
+Seat 3: Coco_999 ( 2,43 $ )
+Seat 4: Penguin_1980 ( 1,29 $ )
+Seat 5: OKE_RASTA_J ( 2,23 $ )
+Seat 6: GSGS37 ( 1,51 $ )
+Seat 7: B2B_Suckouts ( 2,40 $ )
+Seat 9: kosto2000 ( 2,12 $ )
+Seat 10: whyluckys ( 3,72 $ )
+B2B_Suckouts posts small blind [0,01 $]
+kosto2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 3Karo ]
+whyluckys folds
+Alaloupe raises [0,06 $]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 calls [0,04 $]
+** Dealing flop ** [ 3Herz, AHerz, KKreuz ]
+kosto2000 checks
+Alaloupe bets [0,04 $]
+kosto2000 calls [0,04 $]
+** Dealing turn ** [ 6Karo ]
+kosto2000 checks
+Alaloupe bets [0,13 $]
+kosto2000 calls [0,13 $]
+** Dealing river ** [ 8Kreuz ]
+kosto2000 checks
+Alaloupe bets [0,31 $]
+kosto2000 folds
+** Summary **
+Alaloupe collected [ 0,45 $ ]
+
+
+
+#Game No : 474691119
+***** 888poker Hand History for Game 474691119 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:53:10
+Table Bellingham 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,26 $ )
+Seat 2: wenzel2000 ( 2,18 $ )
+Seat 3: Coco_999 ( 2,43 $ )
+Seat 4: Penguin_1980 ( 1,29 $ )
+Seat 5: OKE_RASTA_J ( 2,23 $ )
+Seat 6: GSGS37 ( 1,51 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+kosto2000 posts small blind [0,01 $]
+pokermeister posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 8Pik ]
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 raises [0,04 $]
+pokermeister folds
+** Summary **
+kosto2000 did not show his hand
+kosto2000 collected [ 0,04 $ ]
+
+
+
+#Game No : 474691140
+***** 888poker Hand History for Game 474691140 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:53:46
+Table Bellingham 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,26 $ )
+Seat 2: wenzel2000 ( 2,18 $ )
+Seat 3: Coco_999 ( 2,43 $ )
+Seat 4: Penguin_1980 ( 1,29 $ )
+Seat 5: OKE_RASTA_J ( 2,23 $ )
+Seat 6: GSGS37 ( 1,51 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: kosto2000 ( 2,02 $ )
+Seat 10: pokermeister ( 0,80 $ )
+pokermeister posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 7Herz ]
+wenzel2000 folds
+Coco_999 raises [0,06 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 raises [0,18 $]
+pokermeister folds
+Alaloupe folds
+Coco_999 calls [0,12 $]
+** Dealing flop ** [ 8Herz, 5Herz, 5Kreuz ]
+Coco_999 checks
+kosto2000 checks
+** Dealing turn ** [ 9Herz ]
+Coco_999 checks
+kosto2000 checks
+** Dealing river ** [ 5Karo ]
+Coco_999 bets [0,25 $]
+kosto2000 folds
+** Summary **
+Coco_999 did not show his hand
+Coco_999 collected [ 0,37 $ ]
+
+
+
+#Game No : 474691172
+***** 888poker Hand History for Game 474691172 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:54:44
+Table Bellingham 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,24 $ )
+Seat 2: wenzel2000 ( 2,18 $ )
+Seat 3: Coco_999 ( 2,62 $ )
+Seat 4: Penguin_1980 ( 1,29 $ )
+Seat 5: OKE_RASTA_J ( 2,23 $ )
+Seat 6: GSGS37 ( 1,51 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+Alaloupe posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 6Herz ]
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 raises [0,05 $]
+pokermeister folds
+Alaloupe folds
+wenzel2000 folds
+** Summary **
+kosto2000 did not show his hand
+kosto2000 collected [ 0,05 $ ]
+
+
+
+#Game No : 474691197
+***** 888poker Hand History for Game 474691197 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:55:23
+Table Bellingham 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 1,23 $ )
+Seat 2: wenzel2000 ( 2,16 $ )
+Seat 3: Coco_999 ( 2,62 $ )
+Seat 4: Penguin_1980 ( 1,29 $ )
+Seat 5: OKE_RASTA_J ( 2,23 $ )
+Seat 6: GSGS37 ( 1,51 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: kosto2000 ( 2,03 $ )
+wenzel2000 posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 8Karo ]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 folds
+Alaloupe raises [0,05 $]
+wenzel2000 folds
+Coco_999 folds
+** Summary **
+Alaloupe collected [ 0,05 $ ]
+
+
+
+#Game No : 474691211
+***** 888poker Hand History for Game 474691211 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:55:42
+Table Bellingham 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Alaloupe ( 1,26 $ )
+Seat 2: wenzel2000 ( 2,15 $ )
+Seat 3: Coco_999 ( 2,60 $ )
+Seat 4: Penguin_1980 ( 1,29 $ )
+Seat 5: OKE_RASTA_J ( 2,23 $ )
+Seat 6: GSGS37 ( 1,51 $ )
+Seat 7: B2B_Suckouts ( 2,39 $ )
+Seat 9: kosto2000 ( 2,03 $ )
+Coco_999 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 10Pik ]
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts raises [0,06 $]
+kosto2000 folds
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 calls [0,04 $]
+** Dealing flop ** [ QHerz, AHerz, 2Herz ]
+Penguin_1980 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 8Karo ]
+Penguin_1980 checks
+B2B_Suckouts bets [0,04 $]
+Penguin_1980 folds
+** Summary **
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 474691230
+***** 888poker Hand History for Game 474691230 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:56:19
+Table Bellingham 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,26 $ )
+Seat 2: wenzel2000 ( 2,15 $ )
+Seat 3: Coco_999 ( 2,59 $ )
+Seat 4: Penguin_1980 ( 1,23 $ )
+Seat 5: OKE_RASTA_J ( 2,23 $ )
+Seat 6: GSGS37 ( 1,51 $ )
+Seat 7: B2B_Suckouts ( 2,46 $ )
+Seat 9: kosto2000 ( 2,03 $ )
+Seat 10: pokermeister ( 0,80 $ )
+Penguin_1980 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 3Pik ]
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 folds
+pokermeister folds
+Alaloupe folds
+wenzel2000 folds
+Coco_999 raises [0,06 $]
+Penguin_1980 folds
+OKE_RASTA_J calls [0,04 $]
+** Dealing flop ** [ 2Pik, JHerz, JKaro ]
+OKE_RASTA_J checks
+Coco_999 checks
+** Dealing turn ** [ 5Pik ]
+OKE_RASTA_J checks
+Coco_999 checks
+** Dealing river ** [ 2Kreuz ]
+OKE_RASTA_J bets [0,02 $]
+Coco_999 raises [0,14 $]
+OKE_RASTA_J calls [0,12 $]
+** Summary **
+Coco_999 shows [ 5Karo, 5Kreuz ]
+OKE_RASTA_J mucks [ AKreuz, QHerz ]
+Coco_999 collected [ 0,39 $ ]
+
+
+
+#Game No : 474691259
+***** 888poker Hand History for Game 474691259 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:57:30
+Table Bellingham 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 1,26 $ )
+Seat 2: wenzel2000 ( 2,15 $ )
+Seat 3: Coco_999 ( 2,78 $ )
+Seat 4: Penguin_1980 ( 1,22 $ )
+Seat 5: OKE_RASTA_J ( 2,03 $ )
+Seat 6: GSGS37 ( 1,51 $ )
+Seat 7: B2B_Suckouts ( 2,46 $ )
+Seat 9: kosto2000 ( 2,03 $ )
+Seat 10: pokermeister ( 0,80 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 3Herz ]
+B2B_Suckouts folds
+kosto2000 folds
+pokermeister folds
+Alaloupe raises [0,06 $]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J calls [0,05 $]
+GSGS37 folds
+** Dealing flop ** [ 8Kreuz, 5Karo, JHerz ]
+OKE_RASTA_J checks
+Alaloupe bets [0,07 $]
+OKE_RASTA_J calls [0,07 $]
+** Dealing turn ** [ 8Herz ]
+OKE_RASTA_J checks
+Alaloupe bets [0,14 $]
+OKE_RASTA_J calls [0,14 $]
+** Dealing river ** [ JKaro ]
+OKE_RASTA_J checks
+Alaloupe bets [0,36 $]
+OKE_RASTA_J calls [0,36 $]
+** Summary **
+Alaloupe shows [ 10Herz, QPik ]
+OKE_RASTA_J shows [ 9Karo, 9Pik ]
+OKE_RASTA_J collected [ 1,20 $ ]
+
+
+
+#Game No : 474691304
+***** 888poker Hand History for Game 474691304 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:58:58
+Table Bellingham 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,63 $ )
+Seat 2: wenzel2000 ( 2,15 $ )
+Seat 3: Coco_999 ( 2,78 $ )
+Seat 4: Penguin_1980 ( 1,22 $ )
+Seat 5: OKE_RASTA_J ( 2,60 $ )
+Seat 6: GSGS37 ( 1,49 $ )
+Seat 7: B2B_Suckouts ( 2,46 $ )
+Seat 9: kosto2000 ( 2,03 $ )
+Seat 10: pokermeister ( 0,80 $ )
+GSGS37 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 9Kreuz ]
+kosto2000 folds
+pokermeister folds
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J calls [0,02 $]
+GSGS37 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 2Kreuz, KKaro, QKreuz ]
+B2B_Suckouts bets [0,02 $]
+OKE_RASTA_J calls [0,02 $]
+** Dealing turn ** [ 3Karo ]
+B2B_Suckouts bets [0,02 $]
+OKE_RASTA_J calls [0,02 $]
+** Dealing river ** [ 9Herz ]
+B2B_Suckouts bets [0,26 $]
+OKE_RASTA_J folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 474691342
+***** 888poker Hand History for Game 474691342 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:59:56
+Table Bellingham 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,63 $ )
+Seat 2: wenzel2000 ( 2,15 $ )
+Seat 3: Coco_999 ( 2,78 $ )
+Seat 4: Penguin_1980 ( 1,22 $ )
+Seat 5: OKE_RASTA_J ( 2,54 $ )
+Seat 6: GSGS37 ( 1,48 $ )
+Seat 7: B2B_Suckouts ( 2,53 $ )
+Seat 9: kosto2000 ( 2,03 $ )
+Seat 10: pokermeister ( 0,80 $ )
+B2B_Suckouts posts small blind [0,01 $]
+kosto2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, KKaro ]
+pokermeister raises [0,06 $]
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 calls [0,06 $]
+B2B_Suckouts folds
+kosto2000 calls [0,04 $]
+** Dealing flop ** [ 2Karo, 5Pik, JKreuz ]
+kosto2000 checks
+pokermeister checks
+GSGS37 checks
+** Dealing turn ** [ 9Pik ]
+kosto2000 checks
+pokermeister checks
+GSGS37 bets [0,09 $]
+kosto2000 calls [0,09 $]
+pokermeister folds
+** Dealing river ** [ 2Kreuz ]
+kosto2000 checks
+GSGS37 checks
+** Summary **
+kosto2000 shows [ KHerz, 10Kreuz ]
+GSGS37 shows [ APik, KPik ]
+GSGS37 collected [ 0,35 $ ]
+
+
+
+#Game No : 474691377
+***** 888poker Hand History for Game 474691377 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:01:12
+Table Bellingham 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,63 $ )
+Seat 2: wenzel2000 ( 2,15 $ )
+Seat 3: Coco_999 ( 2,78 $ )
+Seat 4: Penguin_1980 ( 1,22 $ )
+Seat 5: OKE_RASTA_J ( 2,54 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,52 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+kosto2000 posts small blind [0,01 $]
+pokermeister posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, JPik ]
+Alaloupe raises [0,06 $]
+wenzel2000 folds
+Coco_999 raises [0,18 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 folds
+pokermeister folds
+Alaloupe raises [0,57 $]
+Coco_999 folds
+** Summary **
+Alaloupe did not show his hand
+Alaloupe collected [ 0,39 $ ]
+
+
+
+#Game No : 474691402
+***** 888poker Hand History for Game 474691402 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:01:57
+Table Bellingham 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,84 $ )
+Seat 2: wenzel2000 ( 2,15 $ )
+Seat 3: Coco_999 ( 2,60 $ )
+Seat 4: Penguin_1980 ( 1,22 $ )
+Seat 5: OKE_RASTA_J ( 2,54 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,52 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+pokermeister posts small blind [0,01 $]
+Alaloupe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, KPik ]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 raises [0,05 $]
+pokermeister calls [0,04 $]
+Alaloupe folds
+** Dealing flop ** [ 2Herz, 8Kreuz, 6Karo ]
+pokermeister bets [0,06 $]
+kosto2000 folds
+** Summary **
+pokermeister did not show his hand
+pokermeister collected [ 0,12 $ ]
+
+
+
+#Game No : 474691433
+***** 888poker Hand History for Game 474691433 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:02:49
+Table Bellingham 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,82 $ )
+Seat 2: wenzel2000 ( 2,15 $ )
+Seat 3: Coco_999 ( 2,60 $ )
+Seat 4: Penguin_1980 ( 1,22 $ )
+Seat 5: OKE_RASTA_J ( 2,54 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,52 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,87 $ )
+Alaloupe posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 2Pik ]
+Coco_999 raises [0,06 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 folds
+pokermeister calls [0,06 $]
+Alaloupe folds
+wenzel2000 folds
+** Dealing flop ** [ APik, 3Kreuz, 10Kreuz ]
+Coco_999 bets [0,07 $]
+pokermeister calls [0,07 $]
+** Dealing turn ** [ 5Herz ]
+Coco_999 checks
+pokermeister checks
+** Dealing river ** [ 4Kreuz ]
+Coco_999 checks
+pokermeister checks
+** Summary **
+Coco_999 shows [ 8Kreuz, 8Herz ]
+pokermeister mucks [ KHerz, QPik ]
+Coco_999 collected [ 0,28 $ ]
+
+
+
+#Game No : 474691455
+***** 888poker Hand History for Game 474691455 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:03:44
+Table Bellingham 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,81 $ )
+Seat 2: wenzel2000 ( 2,13 $ )
+Seat 3: Coco_999 ( 2,75 $ )
+Seat 4: Penguin_1980 ( 1,22 $ )
+Seat 5: OKE_RASTA_J ( 2,54 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,52 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+wenzel2000 posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, AKreuz ]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 folds
+pokermeister folds
+Alaloupe folds
+wenzel2000 folds
+** Summary **
+Coco_999 did not show his hand
+Coco_999 collected [ 0,03 $ ]
+
+
+
+#Game No : 474691465
+***** 888poker Hand History for Game 474691465 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:03:59
+Table Bellingham 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,81 $ )
+Seat 2: wenzel2000 ( 2,12 $ )
+Seat 3: Coco_999 ( 2,76 $ )
+Seat 4: Penguin_1980 ( 1,22 $ )
+Seat 5: OKE_RASTA_J ( 2,54 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,52 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+Coco_999 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 2Herz ]
+OKE_RASTA_J calls [0,02 $]
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 folds
+pokermeister folds
+Alaloupe raises [0,08 $]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 calls [0,06 $]
+OKE_RASTA_J calls [0,06 $]
+** Dealing flop ** [ 7Herz, 7Kreuz, 6Karo ]
+Penguin_1980 checks
+OKE_RASTA_J checks
+Alaloupe checks
+** Dealing turn ** [ JKreuz ]
+Penguin_1980 checks
+OKE_RASTA_J bets [0,06 $]
+Alaloupe calls [0,06 $]
+Penguin_1980 folds
+** Dealing river ** [ QKaro ]
+OKE_RASTA_J bets [0,10 $]
+Alaloupe folds
+** Summary **
+OKE_RASTA_J did not show his hand
+OKE_RASTA_J collected [ 0,35 $ ]
+
+
+
+#Game No : 474691493
+***** 888poker Hand History for Game 474691493 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:05:05
+Table Bellingham 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,67 $ )
+Seat 2: wenzel2000 ( 2,12 $ )
+Seat 3: Coco_999 ( 2,75 $ )
+Seat 4: Penguin_1980 ( 1,14 $ )
+Seat 5: OKE_RASTA_J ( 2,75 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,52 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+Penguin_1980 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 3Karo ]
+GSGS37 folds
+B2B_Suckouts folds
+kosto2000 folds
+pokermeister folds
+Alaloupe raises [0,06 $]
+wenzel2000 folds
+Coco_999 calls [0,06 $]
+Penguin_1980 folds
+OKE_RASTA_J calls [0,04 $]
+** Dealing flop ** [ 2Herz, 9Pik, 8Karo ]
+OKE_RASTA_J checks
+Alaloupe bets [0,18 $]
+Coco_999 folds
+OKE_RASTA_J folds
+** Summary **
+Alaloupe did not show his hand
+Alaloupe collected [ 0,18 $ ]
+
+
+
+#Game No : 474691511
+***** 888poker Hand History for Game 474691511 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:06:01
+Table Bellingham 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,79 $ )
+Seat 2: wenzel2000 ( 2,12 $ )
+Seat 3: Coco_999 ( 2,69 $ )
+Seat 4: Penguin_1980 ( 1,13 $ )
+Seat 5: OKE_RASTA_J ( 2,69 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,52 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 4Karo ]
+B2B_Suckouts folds
+kosto2000 folds
+pokermeister folds
+Alaloupe folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+** Summary **
+GSGS37 did not show his hand
+GSGS37 collected [ 0,03 $ ]
+
+
+
+#Game No : 474691524
+***** 888poker Hand History for Game 474691524 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:06:24
+Table Bellingham 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,79 $ )
+Seat 2: wenzel2000 ( 2,12 $ )
+Seat 3: Coco_999 ( 2,69 $ )
+Seat 4: Penguin_1980 ( 1,13 $ )
+Seat 5: OKE_RASTA_J ( 2,68 $ )
+Seat 6: GSGS37 ( 1,69 $ )
+Seat 7: B2B_Suckouts ( 2,52 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+GSGS37 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 3Karo ]
+kosto2000 folds
+pokermeister folds
+Alaloupe raises [0,06 $]
+wenzel2000 folds
+Coco_999 calls [0,06 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+** Dealing flop ** [ 9Pik, 4Karo, 7Pik ]
+Alaloupe bets [0,06 $]
+Coco_999 calls [0,06 $]
+** Dealing turn ** [ 9Herz ]
+Alaloupe bets [0,17 $]
+Coco_999 folds
+** Summary **
+Alaloupe did not show his hand
+Alaloupe collected [ 0,26 $ ]
+
+
+
+#Game No : 474691555
+***** 888poker Hand History for Game 474691555 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:07:23
+Table Bellingham 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Alaloupe ( 0,93 $ )
+Seat 2: wenzel2000 ( 2,12 $ )
+Seat 3: Coco_999 ( 2,57 $ )
+Seat 4: Penguin_1980 ( 1,13 $ )
+Seat 5: OKE_RASTA_J ( 2,68 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,50 $ )
+Seat 9: kosto2000 ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+B2B_Suckouts posts small blind [0,01 $]
+kosto2000 folds
+pokermeister posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 5Karo ]
+Alaloupe folds
+wenzel2000 raises [0,06 $]
+Coco_999 raises [0,15 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+pokermeister folds
+wenzel2000 calls [0,09 $]
+** Dealing flop ** [ 8Karo, 9Karo, 8Kreuz ]
+wenzel2000 checks
+Coco_999 checks
+** Dealing turn ** [ 9Kreuz ]
+wenzel2000 checks
+Coco_999 checks
+** Dealing river ** [ 7Kreuz ]
+wenzel2000 checks
+Coco_999 bets [0,21 $]
+wenzel2000 calls [0,21 $]
+** Summary **
+Coco_999 shows [ KKreuz, JKreuz ]
+wenzel2000 mucks [ 10Karo, 10Pik ]
+Coco_999 collected [ 0,71 $ ]
+
+
+
+#Game No : 474691585
+***** 888poker Hand History for Game 474691585 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:08:27
+Table Bellingham 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: IIIpil ( 1,20 $ )
+Seat 2: wenzel2000 ( 2 $ )
+Seat 3: Coco_999 ( 2,92 $ )
+Seat 4: Penguin_1980 ( 1,13 $ )
+Seat 5: OKE_RASTA_J ( 2,68 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,49 $ )
+Seat 10: pokermeister ( 0,80 $ )
+pokermeister posts small blind [0,01 $]
+IIIpil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 9Kreuz ]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J calls [0,02 $]
+GSGS37 folds
+B2B_Suckouts folds
+pokermeister raises [0,07 $]
+IIIpil folds
+OKE_RASTA_J calls [0,06 $]
+** Dealing flop ** [ 10Kreuz, 3Pik, 2Kreuz ]
+pokermeister bets [0,11 $]
+OKE_RASTA_J folds
+** Summary **
+pokermeister collected [ 0,17 $ ]
+
+
+
+#Game No : 474691616
+***** 888poker Hand History for Game 474691616 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:09:11
+Table Bellingham 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: IIIpil ( 1,20 $ )
+Seat 2: wenzel2000 ( 2 $ )
+Seat 3: Coco_999 ( 2,92 $ )
+Seat 4: Penguin_1980 ( 1,13 $ )
+Seat 5: OKE_RASTA_J ( 2,60 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,49 $ )
+Seat 10: pokermeister ( 0,89 $ )
+IIIpil posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 2Herz ]
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 raises [0,06 $]
+B2B_Suckouts folds
+pokermeister folds
+IIIpil folds
+wenzel2000 folds
+** Summary **
+GSGS37 collected [ 0,05 $ ]
+
+
+
+#Game No : 474691625
+***** 888poker Hand History for Game 474691625 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:09:29
+Table Bellingham 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: IIIpil ( 1,20 $ )
+Seat 2: wenzel2000 ( 2 $ )
+Seat 3: Coco_999 ( 2,92 $ )
+Seat 4: Penguin_1980 ( 1,13 $ )
+Seat 5: OKE_RASTA_J ( 2,60 $ )
+Seat 6: GSGS37 ( 1,71 $ )
+Seat 7: B2B_Suckouts ( 2,49 $ )
+Seat 10: pokermeister ( 0,89 $ )
+wenzel2000 posts small blind [0,01 $]
+Coco_999 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 2Karo ]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+pokermeister folds
+IIIpil raises [0,06 $]
+wenzel2000 folds
+Coco_999 calls [0,04 $]
+** Dealing flop ** [ 9Pik, KHerz, 5Karo ]
+Coco_999 checks
+IIIpil bets [0,08 $]
+Coco_999 folds
+** Summary **
+IIIpil collected [ 0,13 $ ]
+
+
+
+#Game No : 474691652
+***** 888poker Hand History for Game 474691652 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:10:12
+Table Bellingham 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: IIIpil ( 1,27 $ )
+Seat 2: wenzel2000 ( 2 $ )
+Seat 3: Coco_999 ( 2,86 $ )
+Seat 4: Penguin_1980 ( 1,13 $ )
+Seat 5: OKE_RASTA_J ( 2,60 $ )
+Seat 6: GSGS37 ( 1,71 $ )
+Seat 7: B2B_Suckouts ( 2,49 $ )
+Seat 10: pokermeister ( 0,89 $ )
+Coco_999 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 5Kreuz ]
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+pokermeister folds
+IIIpil folds
+wenzel2000 folds
+Coco_999 folds
+** Summary **
+Penguin_1980 collected [ 0,03 $ ]
+
+
+
+#Game No : 474691666
+***** 888poker Hand History for Game 474691666 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:10:40
+Table Bellingham 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: IIIpil ( 1,27 $ )
+Seat 2: wenzel2000 ( 2 $ )
+Seat 3: Coco_999 ( 2,85 $ )
+Seat 4: Penguin_1980 ( 1,14 $ )
+Seat 5: OKE_RASTA_J ( 2,60 $ )
+Seat 6: GSGS37 ( 1,71 $ )
+Seat 7: B2B_Suckouts ( 2,49 $ )
+Seat 10: pokermeister ( 0,89 $ )
+Penguin_1980 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, JKreuz ]
+GSGS37 folds
+B2B_Suckouts folds
+pokermeister raises [0,06 $]
+IIIpil folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J calls [0,04 $]
+** Dealing flop ** [ 9Pik, 2Karo, 3Kreuz ]
+OKE_RASTA_J checks
+pokermeister checks
+** Dealing turn ** [ 10Karo ]
+OKE_RASTA_J bets [0,08 $]
+pokermeister calls [0,08 $]
+** Dealing river ** [ JHerz ]
+OKE_RASTA_J bets [0,45 $]
+pokermeister folds
+** Summary **
+OKE_RASTA_J collected [ 0,28 $ ]
+
+
+
+#Game No : 474691706
+***** 888poker Hand History for Game 474691706 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:11:50
+Table Bellingham 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: IIIpil ( 1,27 $ )
+Seat 2: wenzel2000 ( 2 $ )
+Seat 3: Coco_999 ( 2,85 $ )
+Seat 4: Penguin_1980 ( 1,13 $ )
+Seat 5: OKE_RASTA_J ( 2,74 $ )
+Seat 6: GSGS37 ( 1,71 $ )
+Seat 7: B2B_Suckouts ( 2,49 $ )
+Seat 10: pokermeister ( 0,80 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, KPik ]
+B2B_Suckouts folds
+pokermeister folds
+IIIpil raises [0,06 $]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 calls [0,06 $]
+OKE_RASTA_J folds
+GSGS37 folds
+** Dealing flop ** [ 5Herz, 9Herz, 2Herz ]
+IIIpil bets [0,14 $]
+Penguin_1980 folds
+** Summary **
+IIIpil collected [ 0,15 $ ]
+
+
+
+#Game No : 474691726
+***** 888poker Hand History for Game 474691726 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:12:23
+Table Bellingham 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: IIIpil ( 1,36 $ )
+Seat 2: wenzel2000 ( 2 $ )
+Seat 3: Coco_999 ( 2,85 $ )
+Seat 4: Penguin_1980 ( 1,07 $ )
+Seat 5: OKE_RASTA_J ( 2,73 $ )
+Seat 6: GSGS37 ( 1,69 $ )
+Seat 7: B2B_Suckouts ( 2,49 $ )
+Seat 10: pokermeister ( 0,80 $ )
+GSGS37 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 8Herz ]
+pokermeister folds
+IIIpil folds
+wenzel2000 raises [0,06 $]
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 9Kreuz, 10Pik, 5Herz ]
+B2B_Suckouts bets [0,06 $]
+wenzel2000 calls [0,06 $]
+** Dealing turn ** [ 10Kreuz ]
+B2B_Suckouts checks
+wenzel2000 bets [0,16 $]
+B2B_Suckouts folds
+** Summary **
+wenzel2000 collected [ 0,24 $ ]
+
+
+
+#Game No : 474691746
+***** 888poker Hand History for Game 474691746 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:12:57
+Table Bellingham 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: IIIpil ( 1,36 $ )
+Seat 2: wenzel2000 ( 2,12 $ )
+Seat 3: Coco_999 ( 2,85 $ )
+Seat 4: Penguin_1980 ( 1,07 $ )
+Seat 5: OKE_RASTA_J ( 2,73 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,37 $ )
+Seat 9: QuadraD ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+B2B_Suckouts posts small blind [0,01 $]
+QuadraD posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, KKaro ]
+pokermeister folds
+IIIpil folds
+wenzel2000 raises [0,06 $]
+Coco_999 raises [0,18 $]
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+QuadraD folds
+wenzel2000 folds
+** Summary **
+Coco_999 did not show his hand
+Coco_999 collected [ 0,15 $ ]
+
+
+
+#Game No : 474691766
+***** 888poker Hand History for Game 474691766 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:13:29
+Table Bellingham 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: IIIpil ( 1,36 $ )
+Seat 2: wenzel2000 ( 2,06 $ )
+Seat 3: Coco_999 ( 2,94 $ )
+Seat 4: Penguin_1980 ( 1,07 $ )
+Seat 5: OKE_RASTA_J ( 2,73 $ )
+Seat 6: GSGS37 ( 1,68 $ )
+Seat 7: B2B_Suckouts ( 2,36 $ )
+Seat 9: QuadraD ( 2 $ )
+Seat 10: pokermeister ( 0,80 $ )
+QuadraD posts small blind [0,01 $]
+pokermeister posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, KKaro ]
+IIIpil folds
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 raises [0,06 $]
+B2B_Suckouts folds
+QuadraD raises [0,23 $]
+pokermeister folds
+GSGS37 folds
+** Summary **
+QuadraD did not show his hand
+QuadraD collected [ 0,14 $ ]
+
+
+
+#Game No : 474691796
+***** 888poker Hand History for Game 474691796 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:14:21
+Table Bellingham 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: IIIpil ( 1,36 $ )
+Seat 2: wenzel2000 ( 2,06 $ )
+Seat 3: Coco_999 ( 2,94 $ )
+Seat 4: Penguin_1980 ( 1,07 $ )
+Seat 5: OKE_RASTA_J ( 2,73 $ )
+Seat 6: GSGS37 ( 1,62 $ )
+Seat 7: B2B_Suckouts ( 2,36 $ )
+Seat 9: QuadraD ( 2,08 $ )
+Seat 10: pokermeister ( 0,80 $ )
+pokermeister posts small blind [0,01 $]
+IIIpil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, JKaro ]
+wenzel2000 folds
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+QuadraD folds
+pokermeister raises [0,05 $]
+IIIpil folds
+** Summary **
+pokermeister did not show his hand
+pokermeister collected [ 0,04 $ ]
+
+
+
+#Game No : 474691811
+***** 888poker Hand History for Game 474691811 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:14:39
+Table Bellingham 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: IIIpil ( 1,34 $ )
+Seat 2: wenzel2000 ( 2,06 $ )
+Seat 3: Coco_999 ( 2,94 $ )
+Seat 4: Penguin_1980 ( 1,07 $ )
+Seat 5: OKE_RASTA_J ( 2,73 $ )
+Seat 6: GSGS37 ( 1,62 $ )
+Seat 7: B2B_Suckouts ( 2,36 $ )
+Seat 9: QuadraD ( 2,08 $ )
+Seat 10: pokermeister ( 0,82 $ )
+IIIpil posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 9Kreuz ]
+Coco_999 folds
+Penguin_1980 folds
+OKE_RASTA_J folds
+GSGS37 folds
+B2B_Suckouts folds
+QuadraD folds
+pokermeister raises [0,06 $]
+IIIpil folds
+wenzel2000 folds
+** Summary **
+pokermeister did not show his hand
+pokermeister collected [ 0,05 $ ]
+
+
+
