@@ -17,11 +17,11 @@ date <- as.Date(date, "%Y%m%d")
 names(sesh) <- date
 # unlist sessions within list
 sesh <- lapply(sesh, as.vector)
-# Utilize anydate to convert class
+
 
 
 # setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
 saveRDS(sesh, file ="Hand_History_List.rds")
-#####################################################################################################################
+##########################################################################################################################
 
 
