@@ -1,0 +1,1746 @@
+#Game No : 1331468820
+***** 888poker Hand History for Game 1331468820 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:36:04
+Table Corrientes 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: sawa270260 ( 1,83 $ )
+Seat 2: taxi4soup ( 1,86 $ )
+Seat 3: andypeach ( 0,94 $ )
+Seat 4: Sabbel100 ( 2,40 $ )
+Seat 5: wenzel2000 ( 2,02 $ )
+Seat 6: whyluckys ( 4,60 $ )
+Seat 7: TheEngineer9 ( 2,03 $ )
+Seat 9: ponistra7 ( 0,94 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+taxi4soup posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 5Kreuz ]
+Sabbel100 raises [0,04 $]
+wenzel2000 folds
+whyluckys folds
+TheEngineer9 folds
+ponistra7 folds
+B2B_Suckouts calls [0,02 $]
+sawa270260 calls [0,04 $]
+taxi4soup folds
+andypeach calls [0,02 $]
+** Dealing flop ** [ AKreuz, JPik, 7Karo ]
+andypeach bets [0,02 $]
+Sabbel100 calls [0,02 $]
+B2B_Suckouts calls [0,02 $]
+sawa270260 calls [0,02 $]
+** Dealing turn ** [ 9Karo ]
+andypeach checks
+Sabbel100 checks
+B2B_Suckouts checks
+sawa270260 checks
+** Dealing river ** [ 2Karo ]
+andypeach checks
+Sabbel100 checks
+B2B_Suckouts checks
+sawa270260 checks
+** Summary **
+andypeach shows [ 7Kreuz, 3Kreuz ]
+Sabbel100 mucks [ 10Pik, QHerz ]
+B2B_Suckouts mucks [ 5Pik, 5Kreuz ]
+sawa270260 mucks [ 8Kreuz, QKaro ]
+andypeach collected [ 0,24 $ ]
+
+
+
+#Game No : 1331469039
+***** 888poker Hand History for Game 1331469039 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:37:08
+Table Corrientes 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: sawa270260 ( 1,77 $ )
+Seat 2: taxi4soup ( 1,85 $ )
+Seat 3: andypeach ( 1,12 $ )
+Seat 4: Sabbel100 ( 2,34 $ )
+Seat 5: wenzel2000 ( 2,02 $ )
+Seat 6: whyluckys ( 4,60 $ )
+Seat 7: TheEngineer9 ( 2,03 $ )
+Seat 9: ponistra7 ( 0,94 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+andypeach posts small blind [0,01 $]
+Sabbel100 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 9Kreuz ]
+wenzel2000 folds
+whyluckys raises [0,06 $]
+TheEngineer9 folds
+ponistra7 calls [0,06 $]
+B2B_Suckouts folds
+sawa270260 folds
+taxi4soup calls [0,06 $]
+andypeach folds
+Sabbel100 calls [0,04 $]
+** Dealing flop ** [ QKreuz, 9Pik, 4Kreuz ]
+Sabbel100 bets [0,12 $]
+whyluckys folds
+ponistra7 calls [0,12 $]
+taxi4soup folds
+** Dealing turn ** [ 6Karo ]
+Sabbel100 bets [0,16 $]
+ponistra7 calls [0,16 $]
+** Dealing river ** [ QPik ]
+Sabbel100 bets [0,40 $]
+ponistra7 calls [0,40 $]
+** Summary **
+Sabbel100 shows [ QKaro, 7Herz ]
+ponistra7 shows [ 10Karo, QHerz ]
+ponistra7 collected [ 1,51 $ ]
+
+
+
+#Game No : 1331469271
+***** 888poker Hand History for Game 1331469271 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:38:19
+Table Corrientes 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: sawa270260 ( 1,77 $ )
+Seat 2: taxi4soup ( 1,79 $ )
+Seat 3: andypeach ( 1,11 $ )
+Seat 4: Sabbel100 ( 1,60 $ )
+Seat 6: whyluckys ( 4,54 $ )
+Seat 7: TheEngineer9 ( 2,03 $ )
+Seat 9: ponistra7 ( 1,71 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Sabbel100 posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 4Karo ]
+TheEngineer9 raises [0,05 $]
+ponistra7 calls [0,05 $]
+B2B_Suckouts folds
+sawa270260 folds
+taxi4soup folds
+andypeach folds
+Sabbel100 calls [0,04 $]
+whyluckys folds
+** Dealing flop ** [ 3Karo, 8Herz, 8Kreuz ]
+Sabbel100 checks
+TheEngineer9 checks
+ponistra7 checks
+** Dealing turn ** [ KHerz ]
+Sabbel100 checks
+TheEngineer9 bets [0,08 $]
+ponistra7 folds
+Sabbel100 folds
+** Summary **
+TheEngineer9 collected [ 0,16 $ ]
+
+
+
+#Game No : 1331469447
+***** 888poker Hand History for Game 1331469447 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:39:09
+Table Corrientes 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: sawa270260 ( 1,77 $ )
+Seat 2: taxi4soup ( 1,79 $ )
+Seat 3: andypeach ( 1,11 $ )
+Seat 4: Sabbel100 ( 1,55 $ )
+Seat 6: whyluckys ( 4,52 $ )
+Seat 7: TheEngineer9 ( 2,14 $ )
+Seat 9: ponistra7 ( 1,66 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+whyluckys posts small blind [0,01 $]
+TheEngineer9 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 10Herz ]
+ponistra7 calls [0,02 $]
+B2B_Suckouts folds
+sawa270260 folds
+taxi4soup folds
+andypeach folds
+Sabbel100 folds
+whyluckys calls [0,01 $]
+TheEngineer9 checks
+** Dealing flop ** [ 8Pik, APik, KPik ]
+whyluckys checks
+TheEngineer9 checks
+ponistra7 bets [0,02 $]
+whyluckys calls [0,02 $]
+TheEngineer9 folds
+** Dealing turn ** [ JKreuz ]
+whyluckys checks
+ponistra7 bets [0,02 $]
+whyluckys calls [0,02 $]
+** Dealing river ** [ QPik ]
+whyluckys checks
+ponistra7 bets [0,11 $]
+whyluckys raises [0,27 $]
+ponistra7 calls [0,16 $]
+** Summary **
+whyluckys shows [ 4Karo, 4Pik ]
+ponistra7 shows [ 10Pik, KKreuz ]
+ponistra7 collected [ 0,64 $ ]
+
+
+
+#Game No : 1331469707
+***** 888poker Hand History for Game 1331469707 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:40:26
+Table Corrientes 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: sawa270260 ( 1,77 $ )
+Seat 2: taxi4soup ( 1,79 $ )
+Seat 3: andypeach ( 1,11 $ )
+Seat 4: Sabbel100 ( 1,55 $ )
+Seat 6: whyluckys ( 4,19 $ )
+Seat 7: TheEngineer9 ( 2,12 $ )
+Seat 9: ponistra7 ( 1,97 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+TheEngineer9 posts small blind [0,01 $]
+ponistra7 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, QKaro ]
+B2B_Suckouts folds
+sawa270260 folds
+taxi4soup raises [0,05 $]
+andypeach calls [0,05 $]
+Sabbel100 folds
+whyluckys calls [0,05 $]
+TheEngineer9 calls [0,04 $]
+ponistra7 folds
+** Dealing flop ** [ 8Herz, 9Pik, 8Kreuz ]
+TheEngineer9 checks
+taxi4soup bets [0,11 $]
+andypeach folds
+whyluckys folds
+TheEngineer9 calls [0,11 $]
+** Dealing turn ** [ 7Karo ]
+TheEngineer9 checks
+taxi4soup checks
+** Dealing river ** [ AHerz ]
+TheEngineer9 bets [0,14 $]
+taxi4soup calls [0,14 $]
+** Summary **
+TheEngineer9 shows [ 9Karo, JKreuz ]
+taxi4soup shows [ 9Herz, 6Herz ]
+TheEngineer9 collected [ 0,34 $ ]
+taxi4soup collected [ 0,34 $ ]
+
+
+
+#Game No : 1331469929
+***** 888poker Hand History for Game 1331469929 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:41:27
+Table Corrientes 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: sawa270260 ( 1,77 $ )
+Seat 2: taxi4soup ( 1,83 $ )
+Seat 3: andypeach ( 1,06 $ )
+Seat 4: Sabbel100 ( 1,55 $ )
+Seat 6: whyluckys ( 4,14 $ )
+Seat 7: TheEngineer9 ( 2,16 $ )
+Seat 9: ponistra7 ( 1,95 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+ponistra7 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 10Herz ]
+sawa270260 folds
+taxi4soup folds
+andypeach raises [0,04 $]
+Sabbel100 calls [0,04 $]
+whyluckys folds
+TheEngineer9 calls [0,04 $]
+ponistra7 folds
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ APik, QKreuz, 9Pik ]
+B2B_Suckouts bets [0,02 $]
+andypeach folds
+Sabbel100 calls [0,02 $]
+TheEngineer9 raises [0,06 $]
+B2B_Suckouts calls [0,04 $]
+Sabbel100 calls [0,04 $]
+** Dealing turn ** [ KKaro ]
+B2B_Suckouts bets [0,30 $]
+Sabbel100 folds
+TheEngineer9 calls [0,30 $]
+** Dealing river ** [ 5Pik ]
+B2B_Suckouts bets [0,31 $]
+TheEngineer9 calls [0,31 $]
+** Summary **
+B2B_Suckouts shows [ JKaro, 10Herz ]
+TheEngineer9 mucks [ QHerz, 9Herz ]
+B2B_Suckouts collected [ 1,48 $ ]
+
+
+
+#Game No : 1331470241
+***** 888poker Hand History for Game 1331470241 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:42:51
+Table Corrientes 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 2 $ )
+Seat 2: taxi4soup ( 1,83 $ )
+Seat 3: andypeach ( 1,02 $ )
+Seat 4: Sabbel100 ( 1,45 $ )
+Seat 6: whyluckys ( 4,14 $ )
+Seat 7: TheEngineer9 ( 1,45 $ )
+Seat 9: ponistra7 ( 1,94 $ )
+Seat 10: B2B_Suckouts ( 2,77 $ )
+B2B_Suckouts posts small blind [0,01 $]
+MONKIEEZ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 8Herz ]
+taxi4soup raises [0,05 $]
+andypeach calls [0,05 $]
+Sabbel100 folds
+whyluckys folds
+TheEngineer9 folds
+ponistra7 calls [0,05 $]
+B2B_Suckouts folds
+MONKIEEZ folds
+** Dealing flop ** [ KHerz, 10Kreuz, 2Karo ]
+taxi4soup bets [0,09 $]
+andypeach calls [0,09 $]
+ponistra7 calls [0,09 $]
+** Dealing turn ** [ QKreuz ]
+taxi4soup checks
+andypeach bets [0,02 $]
+ponistra7 raises [0,08 $]
+taxi4soup folds
+andypeach calls [0,06 $]
+** Dealing river ** [ 6Pik ]
+andypeach bets [0,30 $]
+ponistra7 calls [0,30 $]
+** Summary **
+andypeach shows [ 2Kreuz, 6Kreuz ]
+ponistra7 shows [ 9Kreuz, JPik ]
+ponistra7 collected [ 1,14 $ ]
+
+
+
+#Game No : 1331470497
+***** 888poker Hand History for Game 1331470497 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:44:03
+Table Corrientes 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 1,98 $ )
+Seat 2: taxi4soup ( 1,69 $ )
+Seat 3: andypeach ( 0,50 $ )
+Seat 6: whyluckys ( 4,14 $ )
+Seat 7: TheEngineer9 ( 1,45 $ )
+Seat 9: ponistra7 ( 2,56 $ )
+Seat 10: B2B_Suckouts ( 2,76 $ )
+MONKIEEZ posts small blind [0,01 $]
+taxi4soup posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 10Karo ]
+andypeach folds
+whyluckys folds
+TheEngineer9 raises [0,06 $]
+ponistra7 calls [0,06 $]
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup folds
+** Dealing flop ** [ 5Kreuz, 10Pik, KPik ]
+TheEngineer9 bets [0,04 $]
+ponistra7 calls [0,04 $]
+** Dealing turn ** [ AKaro ]
+TheEngineer9 checks
+ponistra7 bets [0,07 $]
+TheEngineer9 calls [0,07 $]
+** Dealing river ** [ 10Herz ]
+TheEngineer9 checks
+ponistra7 bets [0,08 $]
+TheEngineer9 raises [0,48 $]
+ponistra7 folds
+** Summary **
+TheEngineer9 collected [ 0,50 $ ]
+
+
+
+#Game No : 1331470741
+***** 888poker Hand History for Game 1331470741 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:45:12
+Table Corrientes 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 1,97 $ )
+Seat 2: taxi4soup ( 1,67 $ )
+Seat 3: andypeach ( 0,50 $ )
+Seat 6: whyluckys ( 4,14 $ )
+Seat 7: TheEngineer9 ( 1,70 $ )
+Seat 9: ponistra7 ( 2,31 $ )
+Seat 10: B2B_Suckouts ( 2,76 $ )
+taxi4soup posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 8Pik ]
+whyluckys folds
+TheEngineer9 raises [0,04 $]
+ponistra7 folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup calls [0,03 $]
+andypeach calls [0,02 $]
+** Dealing flop ** [ 5Kreuz, 2Kreuz, 4Karo ]
+taxi4soup bets [0,06 $]
+andypeach folds
+TheEngineer9 calls [0,06 $]
+** Dealing turn ** [ 8Kreuz ]
+taxi4soup checks
+TheEngineer9 checks
+** Dealing river ** [ KKreuz ]
+taxi4soup bets [0,15 $]
+TheEngineer9 folds
+** Summary **
+taxi4soup collected [ 0,23 $ ]
+
+
+
+#Game No : 1331470859
+***** 888poker Hand History for Game 1331470859 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:45:49
+Table Corrientes 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 1,97 $ )
+Seat 2: taxi4soup ( 1,80 $ )
+Seat 3: andypeach ( 0,46 $ )
+Seat 4: arditmalkja ( 2 $ )
+Seat 6: whyluckys ( 4,14 $ )
+Seat 7: TheEngineer9 ( 1,60 $ )
+Seat 9: ponistra7 ( 2,31 $ )
+Seat 10: B2B_Suckouts ( 2,76 $ )
+andypeach posts small blind [0,01 $]
+arditmalkja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 4Pik ]
+whyluckys raises [0,06 $]
+TheEngineer9 calls [0,06 $]
+ponistra7 folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup raises [0,18 $]
+andypeach folds
+arditmalkja folds
+whyluckys calls [0,12 $]
+TheEngineer9 calls [0,12 $]
+** Dealing flop ** [ AKaro, 4Kreuz, 2Herz ]
+whyluckys checks
+TheEngineer9 checks
+taxi4soup checks
+** Dealing turn ** [ 4Herz ]
+whyluckys checks
+TheEngineer9 checks
+taxi4soup bets [0,28 $]
+whyluckys raises [0,70 $]
+TheEngineer9 folds
+taxi4soup calls [0,42 $]
+** Dealing river ** [ 5Pik ]
+whyluckys bets [0,92 $]
+taxi4soup folds
+** Summary **
+whyluckys collected [ 1,85 $ ]
+
+
+
+#Game No : 1331471375
+***** 888poker Hand History for Game 1331471375 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:48:19
+Table Corrientes 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 1,97 $ )
+Seat 2: taxi4soup ( 0,92 $ )
+Seat 4: arditmalkja ( 1,98 $ )
+Seat 6: whyluckys ( 5,11 $ )
+Seat 7: TheEngineer9 ( 1,42 $ )
+Seat 9: ponistra7 ( 2,31 $ )
+Seat 10: B2B_Suckouts ( 2,76 $ )
+whyluckys posts small blind [0,01 $]
+TheEngineer9 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 5Herz ]
+ponistra7 calls [0,02 $]
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup folds
+arditmalkja raises [0,08 $]
+whyluckys folds
+TheEngineer9 calls [0,06 $]
+ponistra7 calls [0,06 $]
+** Dealing flop ** [ 6Kreuz, JKaro, 3Karo ]
+TheEngineer9 bets [0,08 $]
+ponistra7 calls [0,08 $]
+arditmalkja calls [0,08 $]
+** Dealing turn ** [ 6Karo ]
+TheEngineer9 bets [0,16 $]
+ponistra7 folds
+arditmalkja raises [0,50 $]
+TheEngineer9 raises [1,10 $]
+arditmalkja folds
+** Summary **
+TheEngineer9 collected [ 1,40 $ ]
+
+
+
+#Game No : 1331471622
+***** 888poker Hand History for Game 1331471622 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:49:33
+Table Corrientes 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 1,97 $ )
+Seat 2: taxi4soup ( 0,92 $ )
+Seat 4: arditmalkja ( 1,32 $ )
+Seat 6: whyluckys ( 5,10 $ )
+Seat 7: TheEngineer9 ( 2,16 $ )
+Seat 9: ponistra7 ( 2,15 $ )
+Seat 10: B2B_Suckouts ( 2,76 $ )
+TheEngineer9 posts small blind [0,01 $]
+ponistra7 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, QKreuz ]
+B2B_Suckouts folds
+MONKIEEZ calls [0,02 $]
+taxi4soup folds
+arditmalkja folds
+whyluckys folds
+TheEngineer9 folds
+ponistra7 checks
+** Dealing flop ** [ 8Kreuz, KKaro, 5Pik ]
+ponistra7 checks
+MONKIEEZ bets [0,02 $]
+ponistra7 calls [0,02 $]
+** Dealing turn ** [ 9Pik ]
+ponistra7 checks
+MONKIEEZ bets [0,05 $]
+ponistra7 calls [0,05 $]
+** Dealing river ** [ 4Herz ]
+ponistra7 checks
+MONKIEEZ checks
+** Summary **
+ponistra7 shows [ 10Karo, JKaro ]
+MONKIEEZ shows [ QKaro, 9Herz ]
+MONKIEEZ collected [ 0,18 $ ]
+
+
+
+#Game No : 1331471876
+***** 888poker Hand History for Game 1331471876 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:50:45
+Table Corrientes 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 2,06 $ )
+Seat 2: taxi4soup ( 2 $ )
+Seat 4: arditmalkja ( 2 $ )
+Seat 6: whyluckys ( 5,10 $ )
+Seat 7: TheEngineer9 ( 2,15 $ )
+Seat 9: ponistra7 ( 2,06 $ )
+Seat 10: B2B_Suckouts ( 2,76 $ )
+ponistra7 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 6Karo ]
+MONKIEEZ calls [0,02 $]
+taxi4soup folds
+arditmalkja folds
+whyluckys folds
+TheEngineer9 calls [0,02 $]
+ponistra7 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 3Kreuz, KKaro, 8Herz ]
+ponistra7 bets [0,08 $]
+B2B_Suckouts folds
+MONKIEEZ folds
+TheEngineer9 calls [0,08 $]
+** Dealing turn ** [ 2Kreuz ]
+ponistra7 bets [0,08 $]
+TheEngineer9 calls [0,08 $]
+** Dealing river ** [ 6Herz ]
+ponistra7 bets [0,10 $]
+TheEngineer9 folds
+** Summary **
+ponistra7 collected [ 0,38 $ ]
+
+
+
+#Game No : 1331472059
+***** 888poker Hand History for Game 1331472059 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:51:42
+Table Corrientes 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 2,04 $ )
+Seat 2: taxi4soup ( 2 $ )
+Seat 4: arditmalkja ( 2 $ )
+Seat 6: whyluckys ( 5,10 $ )
+Seat 7: TheEngineer9 ( 1,97 $ )
+Seat 9: ponistra7 ( 2,26 $ )
+Seat 10: B2B_Suckouts ( 2,74 $ )
+B2B_Suckouts posts small blind [0,01 $]
+MONKIEEZ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 8Karo ]
+taxi4soup folds
+arditmalkja folds
+whyluckys folds
+TheEngineer9 raises [0,08 $]
+ponistra7 folds
+B2B_Suckouts folds
+MONKIEEZ folds
+** Summary **
+TheEngineer9 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331472202
+***** 888poker Hand History for Game 1331472202 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:52:24
+Table Corrientes 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 2,02 $ )
+Seat 2: taxi4soup ( 2 $ )
+Seat 4: arditmalkja ( 2 $ )
+Seat 5: wenzel2000 ( 2,02 $ )
+Seat 6: whyluckys ( 5,10 $ )
+Seat 7: TheEngineer9 ( 2 $ )
+Seat 9: ponistra7 ( 2,26 $ )
+Seat 10: B2B_Suckouts ( 2,73 $ )
+MONKIEEZ posts small blind [0,01 $]
+taxi4soup posts big blind [0,02 $]
+wenzel2000 posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 10Kreuz ]
+arditmalkja calls [0,02 $]
+wenzel2000 checks
+whyluckys folds
+TheEngineer9 raises [0,04 $]
+ponistra7 folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup calls [0,02 $]
+arditmalkja calls [0,02 $]
+wenzel2000 calls [0,02 $]
+** Dealing flop ** [ 4Pik, KPik, QKreuz ]
+taxi4soup checks
+arditmalkja checks
+wenzel2000 checks
+TheEngineer9 bets [0,09 $]
+taxi4soup calls [0,09 $]
+arditmalkja folds
+wenzel2000 folds
+** Dealing turn ** [ 3Karo ]
+taxi4soup checks
+TheEngineer9 checks
+** Dealing river ** [ 9Karo ]
+taxi4soup checks
+TheEngineer9 bets [0,18 $]
+taxi4soup calls [0,18 $]
+** Summary **
+TheEngineer9 shows [ KKreuz, 7Herz ]
+taxi4soup mucks [ 4Herz, 2Kreuz ]
+TheEngineer9 collected [ 0,68 $ ]
+
+
+
+#Game No : 1331472419
+***** 888poker Hand History for Game 1331472419 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:53:29
+Table Corrientes 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 2,01 $ )
+Seat 2: taxi4soup ( 1,69 $ )
+Seat 4: arditmalkja ( 1,96 $ )
+Seat 5: wenzel2000 ( 2 $ )
+Seat 6: whyluckys ( 5,10 $ )
+Seat 7: TheEngineer9 ( 2,37 $ )
+Seat 9: ponistra7 ( 2,26 $ )
+taxi4soup posts small blind [0,01 $]
+arditmalkja posts big blind [0,02 $]
+** Dealing down cards **
+wenzel2000 folds
+whyluckys folds
+TheEngineer9 calls [0,02 $]
+ponistra7 raises [0,04 $]
+MONKIEEZ folds
+taxi4soup folds
+arditmalkja folds
+TheEngineer9 calls [0,02 $]
+** Dealing flop ** [ 4Kreuz, 10Herz, 6Herz ]
+TheEngineer9 checks
+ponistra7 checks
+** Dealing turn ** [ 9Kreuz ]
+TheEngineer9 checks
+ponistra7 checks
+** Dealing river ** [ APik ]
+TheEngineer9 checks
+ponistra7 bets [0,04 $]
+TheEngineer9 folds
+** Summary **
+ponistra7 collected [ 0,11 $ ]
+
+
+
+#Game No : 1331472547
+***** 888poker Hand History for Game 1331472547 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:54:06
+Table Corrientes 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 2,01 $ )
+Seat 2: taxi4soup ( 1,68 $ )
+Seat 4: arditmalkja ( 1,94 $ )
+Seat 5: wenzel2000 ( 2 $ )
+Seat 6: whyluckys ( 5,10 $ )
+Seat 7: TheEngineer9 ( 2,33 $ )
+Seat 9: ponistra7 ( 2,33 $ )
+Seat 10: B2B_Suckouts ( 2,73 $ )
+arditmalkja posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, KPik ]
+whyluckys folds
+TheEngineer9 raises [0,04 $]
+ponistra7 folds
+B2B_Suckouts raises [0,16 $]
+MONKIEEZ folds
+taxi4soup folds
+arditmalkja folds
+wenzel2000 folds
+TheEngineer9 calls [0,12 $]
+** Dealing flop ** [ QHerz, AHerz, AKreuz ]
+TheEngineer9 checks
+B2B_Suckouts checks
+** Dealing turn ** [ KKaro ]
+TheEngineer9 checks
+B2B_Suckouts bets [0,11 $]
+TheEngineer9 calls [0,11 $]
+** Dealing river ** [ 5Pik ]
+TheEngineer9 checks
+B2B_Suckouts bets [0,18 $]
+TheEngineer9 calls [0,18 $]
+** Summary **
+B2B_Suckouts shows [ JPik, KPik ]
+TheEngineer9 mucks [ QKreuz, 9Karo ]
+B2B_Suckouts collected [ 0,88 $ ]
+
+
+
+#Game No : 1331472756
+***** 888poker Hand History for Game 1331472756 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:55:11
+Table Corrientes 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: MONKIEEZ ( 2,01 $ )
+Seat 2: taxi4soup ( 1,68 $ )
+Seat 3: s888prs ( 0,80 $ )
+Seat 4: arditmalkja ( 1,93 $ )
+Seat 5: wenzel2000 ( 2 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: TheEngineer9 ( 1,88 $ )
+Seat 9: ponistra7 ( 2,33 $ )
+Seat 10: B2B_Suckouts ( 3,16 $ )
+wenzel2000 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+s888prs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 5Herz ]
+TheEngineer9 calls [0,02 $]
+ponistra7 folds
+B2B_Suckouts folds
+MONKIEEZ calls [0,02 $]
+taxi4soup folds
+s888prs checks
+arditmalkja raises [0,08 $]
+wenzel2000 folds
+getterrrr raises [0,22 $]
+TheEngineer9 calls [0,22 $]
+MONKIEEZ calls [0,22 $]
+s888prs folds
+arditmalkja calls [0,16 $]
+** Dealing flop ** [ 4Karo, 9Kreuz, 6Herz ]
+getterrrr checks
+TheEngineer9 checks
+MONKIEEZ bets [0,28 $]
+arditmalkja folds
+getterrrr folds
+TheEngineer9 raises [1,64 $]
+MONKIEEZ calls [1,36 $]
+** Dealing turn ** [ JHerz ]
+** Dealing river ** [ 4Kreuz ]
+** Summary **
+MONKIEEZ shows [ 9Pik, 9Herz ]
+TheEngineer9 shows [ 2Karo, 2Herz ]
+MONKIEEZ collected [ 4,01 $ ]
+
+
+
+#Game No : 1331473090
+***** 888poker Hand History for Game 1331473090 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:56:48
+Table Corrientes 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,14 $ )
+Seat 2: taxi4soup ( 1,68 $ )
+Seat 3: s888prs ( 0,78 $ )
+Seat 4: arditmalkja ( 1,69 $ )
+Seat 5: wenzel2000 ( 2 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: TheEngineer9 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 3,16 $ )
+getterrrr posts small blind [0,01 $]
+TheEngineer9 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 9Karo ]
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup raises [0,05 $]
+s888prs folds
+arditmalkja calls [0,05 $]
+wenzel2000 folds
+getterrrr folds
+TheEngineer9 folds
+** Dealing flop ** [ AKreuz, QKaro, 6Pik ]
+taxi4soup bets [0,06 $]
+arditmalkja calls [0,06 $]
+** Dealing turn ** [ 10Herz ]
+taxi4soup checks
+arditmalkja checks
+** Dealing river ** [ AKaro ]
+taxi4soup checks
+arditmalkja bets [0,16 $]
+taxi4soup calls [0,16 $]
+** Summary **
+arditmalkja shows [ 6Karo, 8Karo ]
+taxi4soup shows [ 7Herz, QHerz ]
+taxi4soup collected [ 0,54 $ ]
+
+
+
+#Game No : 1331473459
+***** 888poker Hand History for Game 1331473459 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:58:34
+Table Corrientes 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 4,14 $ )
+Seat 2: taxi4soup ( 1,95 $ )
+Seat 3: s888prs ( 0,78 $ )
+Seat 4: arditmalkja ( 1,42 $ )
+Seat 5: wenzel2000 ( 2 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 10: B2B_Suckouts ( 3,16 $ )
+B2B_Suckouts posts small blind [0,01 $]
+MONKIEEZ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 5Kreuz ]
+taxi4soup folds
+s888prs calls [0,02 $]
+arditmalkja folds
+wenzel2000 raises [0,08 $]
+getterrrr raises [0,24 $]
+B2B_Suckouts folds
+MONKIEEZ folds
+s888prs folds
+wenzel2000 folds
+** Summary **
+getterrrr collected [ 0,21 $ ]
+
+
+
+#Game No : 1331473609
+***** 888poker Hand History for Game 1331473609 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:59:16
+Table Corrientes 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,12 $ )
+Seat 2: taxi4soup ( 1,95 $ )
+Seat 3: s888prs ( 0,76 $ )
+Seat 4: arditmalkja ( 2 $ )
+Seat 5: wenzel2000 ( 2 $ )
+Seat 6: getterrrr ( 2,13 $ )
+Seat 9: ZERO_SUM ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 3,15 $ )
+MONKIEEZ posts small blind [0,01 $]
+taxi4soup posts big blind [0,02 $]
+ZERO_SUM posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 8Pik ]
+s888prs folds
+arditmalkja raises [0,10 $]
+wenzel2000 folds
+getterrrr folds
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup folds
+** Summary **
+arditmalkja collected [ 0,07 $ ]
+
+
+
+#Game No : 1331473687
+***** 888poker Hand History for Game 1331473687 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:59:41
+Table Corrientes 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,11 $ )
+Seat 2: taxi4soup ( 1,93 $ )
+Seat 3: s888prs ( 0,76 $ )
+Seat 4: arditmalkja ( 2,05 $ )
+Seat 5: wenzel2000 ( 2 $ )
+Seat 6: getterrrr ( 2,13 $ )
+Seat 9: ZERO_SUM ( 0,78 $ )
+Seat 10: B2B_Suckouts ( 3,15 $ )
+taxi4soup posts small blind [0,01 $]
+s888prs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 2Kreuz ]
+arditmalkja folds
+wenzel2000 folds
+getterrrr folds
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup calls [0,01 $]
+s888prs checks
+** Dealing flop ** [ AKreuz, 4Herz, 10Pik ]
+taxi4soup checks
+s888prs checks
+** Dealing turn ** [ 8Kreuz ]
+taxi4soup bets [0,02 $]
+s888prs folds
+** Summary **
+taxi4soup collected [ 0,04 $ ]
+
+
+
+#Game No : 1331473798
+***** 888poker Hand History for Game 1331473798 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:00:13
+Table Corrientes 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,11 $ )
+Seat 2: taxi4soup ( 1,95 $ )
+Seat 3: s888prs ( 0,74 $ )
+Seat 4: arditmalkja ( 2,05 $ )
+Seat 5: wenzel2000 ( 2 $ )
+Seat 6: getterrrr ( 2,13 $ )
+Seat 9: ZERO_SUM ( 0,78 $ )
+Seat 10: B2B_Suckouts ( 3,15 $ )
+s888prs posts small blind [0,01 $]
+arditmalkja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 7Karo ]
+wenzel2000 raises [0,06 $]
+getterrrr folds
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup folds
+s888prs folds
+arditmalkja folds
+** Summary **
+wenzel2000 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331473847
+***** 888poker Hand History for Game 1331473847 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:00:28
+Table Corrientes 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,11 $ )
+Seat 2: taxi4soup ( 1,95 $ )
+Seat 3: s888prs ( 0,73 $ )
+Seat 4: arditmalkja ( 2,03 $ )
+Seat 5: wenzel2000 ( 2,03 $ )
+Seat 6: getterrrr ( 2,13 $ )
+Seat 9: ZERO_SUM ( 0,78 $ )
+Seat 10: B2B_Suckouts ( 3,15 $ )
+arditmalkja posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 4Pik ]
+getterrrr folds
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup folds
+s888prs folds
+arditmalkja calls [0,01 $]
+wenzel2000 checks
+** Dealing flop ** [ JPik, JKaro, 5Herz ]
+arditmalkja bets [0,04 $]
+wenzel2000 folds
+** Summary **
+arditmalkja collected [ 0,04 $ ]
+
+
+
+#Game No : 1331473960
+***** 888poker Hand History for Game 1331473960 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:01:00
+Table Corrientes 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,11 $ )
+Seat 2: taxi4soup ( 1,95 $ )
+Seat 3: s888prs ( 0,73 $ )
+Seat 4: arditmalkja ( 2,05 $ )
+Seat 5: wenzel2000 ( 2,01 $ )
+Seat 6: getterrrr ( 2,13 $ )
+Seat 9: ZERO_SUM ( 0,78 $ )
+Seat 10: B2B_Suckouts ( 3,15 $ )
+wenzel2000 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 9Kreuz ]
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup raises [0,05 $]
+s888prs folds
+arditmalkja folds
+wenzel2000 folds
+getterrrr calls [0,03 $]
+** Dealing flop ** [ 8Karo, 4Herz, 2Pik ]
+getterrrr checks
+taxi4soup bets [0,05 $]
+getterrrr folds
+** Summary **
+taxi4soup collected [ 0,11 $ ]
+
+
+
+#Game No : 1331474102
+***** 888poker Hand History for Game 1331474102 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:01:45
+Table Corrientes 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: MONKIEEZ ( 4,11 $ )
+Seat 2: taxi4soup ( 2,01 $ )
+Seat 3: s888prs ( 0,73 $ )
+Seat 4: arditmalkja ( 2,05 $ )
+Seat 5: wenzel2000 ( 2 $ )
+Seat 6: getterrrr ( 2,08 $ )
+Seat 7: TheEngineer9 ( 0,78 $ )
+Seat 9: ZERO_SUM ( 0,78 $ )
+Seat 10: B2B_Suckouts ( 3,15 $ )
+getterrrr posts small blind [0,01 $]
+TheEngineer9 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, QHerz ]
+ZERO_SUM folds
+B2B_Suckouts raises [0,06 $]
+MONKIEEZ folds
+taxi4soup folds
+s888prs folds
+arditmalkja folds
+wenzel2000 calls [0,06 $]
+getterrrr folds
+TheEngineer9 calls [0,04 $]
+** Dealing flop ** [ 3Pik, 9Pik, 10Pik ]
+TheEngineer9 checks
+B2B_Suckouts bets [0,02 $]
+wenzel2000 raises [0,12 $]
+TheEngineer9 folds
+B2B_Suckouts folds
+** Summary **
+wenzel2000 did not show his hand
+wenzel2000 collected [ 0,22 $ ]
+
+
+
+#Game No : 1331474294
+***** 888poker Hand History for Game 1331474294 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:02:38
+Table Corrientes 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: MONKIEEZ ( 4,11 $ )
+Seat 2: taxi4soup ( 2,01 $ )
+Seat 3: s888prs ( 0,73 $ )
+Seat 4: arditmalkja ( 2,05 $ )
+Seat 5: wenzel2000 ( 2,14 $ )
+Seat 6: getterrrr ( 2,07 $ )
+Seat 7: TheEngineer9 ( 0,72 $ )
+Seat 9: ZERO_SUM ( 0,78 $ )
+Seat 10: B2B_Suckouts ( 3,07 $ )
+TheEngineer9 posts small blind [0,01 $]
+ZERO_SUM posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, KKaro ]
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup raises [0,05 $]
+s888prs folds
+arditmalkja folds
+wenzel2000 folds
+getterrrr folds
+TheEngineer9 calls [0,04 $]
+ZERO_SUM folds
+** Dealing flop ** [ 8Herz, QHerz, 2Herz ]
+TheEngineer9 checks
+taxi4soup bets [0,06 $]
+TheEngineer9 folds
+** Summary **
+taxi4soup did not show his hand
+taxi4soup collected [ 0,12 $ ]
+
+
+
+#Game No : 1331474419
+***** 888poker Hand History for Game 1331474419 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:03:14
+Table Corrientes 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: MONKIEEZ ( 4,11 $ )
+Seat 2: taxi4soup ( 2,08 $ )
+Seat 3: s888prs ( 0,73 $ )
+Seat 4: arditmalkja ( 2,05 $ )
+Seat 5: wenzel2000 ( 2,14 $ )
+Seat 6: getterrrr ( 2,07 $ )
+Seat 7: TheEngineer9 ( 0,67 $ )
+Seat 9: ZERO_SUM ( 0,76 $ )
+Seat 10: B2B_Suckouts ( 3,07 $ )
+ZERO_SUM posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, KPik ]
+MONKIEEZ folds
+taxi4soup folds
+s888prs calls [0,02 $]
+arditmalkja folds
+wenzel2000 folds
+getterrrr folds
+TheEngineer9 raises [0,06 $]
+ZERO_SUM folds
+B2B_Suckouts folds
+s888prs calls [0,04 $]
+** Dealing flop ** [ 4Herz, KHerz, JPik ]
+s888prs checks
+TheEngineer9 bets [0,07 $]
+s888prs calls [0,07 $]
+** Dealing turn ** [ QPik ]
+s888prs checks
+TheEngineer9 checks
+** Dealing river ** [ 4Kreuz ]
+s888prs bets [0,04 $]
+TheEngineer9 raises [0,16 $]
+s888prs folds
+** Summary **
+TheEngineer9 did not show his hand
+TheEngineer9 collected [ 0,35 $ ]
+
+
+
+#Game No : 1331474607
+***** 888poker Hand History for Game 1331474607 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:04:13
+Table Corrientes 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: MONKIEEZ ( 4,11 $ )
+Seat 2: taxi4soup ( 2,08 $ )
+Seat 3: s888prs ( 0,56 $ )
+Seat 4: arditmalkja ( 2,05 $ )
+Seat 5: wenzel2000 ( 2,14 $ )
+Seat 6: getterrrr ( 2,07 $ )
+Seat 7: TheEngineer9 ( 0,85 $ )
+Seat 9: ZERO_SUM ( 0,75 $ )
+Seat 10: B2B_Suckouts ( 3,05 $ )
+B2B_Suckouts posts small blind [0,01 $]
+MONKIEEZ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, KKreuz ]
+taxi4soup folds
+s888prs folds
+arditmalkja folds
+wenzel2000 folds
+getterrrr raises [0,06 $]
+TheEngineer9 calls [0,06 $]
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ raises [0,16 $]
+getterrrr calls [0,12 $]
+TheEngineer9 calls [0,12 $]
+** Dealing flop ** [ 3Herz, 2Karo, 5Karo ]
+MONKIEEZ bets [0,18 $]
+getterrrr calls [0,18 $]
+TheEngineer9 calls [0,18 $]
+** Dealing turn ** [ QKaro ]
+MONKIEEZ bets [0,54 $]
+getterrrr folds
+TheEngineer9 folds
+** Summary **
+MONKIEEZ did not show his hand
+MONKIEEZ collected [ 1,03 $ ]
+
+
+
+#Game No : 1331474875
+***** 888poker Hand History for Game 1331474875 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:05:32
+Table Corrientes 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: MONKIEEZ ( 4,78 $ )
+Seat 2: taxi4soup ( 2,08 $ )
+Seat 3: s888prs ( 0,56 $ )
+Seat 4: arditmalkja ( 2,05 $ )
+Seat 5: wenzel2000 ( 2,14 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: TheEngineer9 ( 0,49 $ )
+Seat 9: ZERO_SUM ( 0,75 $ )
+Seat 10: B2B_Suckouts ( 3,04 $ )
+MONKIEEZ posts small blind [0,01 $]
+taxi4soup posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 9Kreuz ]
+s888prs raises [0,04 $]
+arditmalkja folds
+wenzel2000 raises [0,14 $]
+getterrrr folds
+TheEngineer9 folds
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup folds
+s888prs calls [0,10 $]
+** Dealing flop ** [ 3Herz, 3Kreuz, 10Karo ]
+s888prs checks
+wenzel2000 bets [0,42 $]
+s888prs folds
+** Summary **
+wenzel2000 did not show his hand
+wenzel2000 collected [ 0,30 $ ]
+
+
+
+#Game No : 1331474996
+***** 888poker Hand History for Game 1331474996 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:06:12
+Table Corrientes 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: MONKIEEZ ( 4,77 $ )
+Seat 2: taxi4soup ( 2,06 $ )
+Seat 3: s888prs ( 0,42 $ )
+Seat 4: arditmalkja ( 2,05 $ )
+Seat 5: wenzel2000 ( 2,30 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: TheEngineer9 ( 0,49 $ )
+Seat 9: ZERO_SUM ( 0,75 $ )
+Seat 10: B2B_Suckouts ( 3,04 $ )
+taxi4soup posts small blind [0,01 $]
+s888prs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 4Pik ]
+arditmalkja calls [0,02 $]
+wenzel2000 folds
+getterrrr folds
+TheEngineer9 calls [0,02 $]
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup calls [0,01 $]
+s888prs checks
+** Dealing flop ** [ 4Herz, 5Herz, 7Pik ]
+taxi4soup checks
+s888prs bets [0,04 $]
+arditmalkja calls [0,04 $]
+TheEngineer9 calls [0,04 $]
+taxi4soup folds
+** Dealing turn ** [ 5Pik ]
+s888prs bets [0,20 $]
+arditmalkja raises [0,40 $]
+TheEngineer9 raises [0,43 $]
+s888prs calls [0,16 $]
+arditmalkja calls [0,03 $]
+** Dealing river ** [ 2Karo ]
+** Summary **
+s888prs shows [ 5Kreuz, 6Kreuz ]
+arditmalkja shows [ APik, 3Pik ]
+TheEngineer9 shows [ 4Kreuz, KPik ]
+arditmalkja collected [ 1,20 $ ]
+arditmalkja collected [ 0,14 $ ]
+
+
+
+#Game No : 1331475191
+***** 888poker Hand History for Game 1331475191 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:07:15
+Table Corrientes 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 4,77 $ )
+Seat 2: taxi4soup ( 2,04 $ )
+Seat 4: arditmalkja ( 2,90 $ )
+Seat 5: wenzel2000 ( 2,30 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 9: ZERO_SUM ( 0,75 $ )
+Seat 10: B2B_Suckouts ( 3,04 $ )
+arditmalkja posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, KHerz ]
+getterrrr folds
+ZERO_SUM calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+MONKIEEZ folds
+taxi4soup folds
+arditmalkja folds
+wenzel2000 folds
+ZERO_SUM calls [0,04 $]
+** Dealing flop ** [ 2Kreuz, 3Herz, KPik ]
+ZERO_SUM checks
+B2B_Suckouts bets [0,07 $]
+ZERO_SUM folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 1331475284
+***** 888poker Hand History for Game 1331475284 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:07:46
+Table Corrientes 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 4,77 $ )
+Seat 2: taxi4soup ( 2,04 $ )
+Seat 4: arditmalkja ( 2,89 $ )
+Seat 5: wenzel2000 ( 2,28 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 9: ZERO_SUM ( 0,69 $ )
+Seat 10: B2B_Suckouts ( 3,13 $ )
+wenzel2000 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, QPik ]
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup raises [0,05 $]
+arditmalkja calls [0,05 $]
+wenzel2000 calls [0,04 $]
+getterrrr folds
+** Dealing flop ** [ AHerz, 6Karo, 9Pik ]
+wenzel2000 checks
+taxi4soup bets [0,08 $]
+arditmalkja folds
+wenzel2000 folds
+** Summary **
+taxi4soup collected [ 0,16 $ ]
+
+
+
+#Game No : 1331475422
+***** 888poker Hand History for Game 1331475422 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:08:30
+Table Corrientes 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,77 $ )
+Seat 2: taxi4soup ( 2,15 $ )
+Seat 4: arditmalkja ( 2,84 $ )
+Seat 5: wenzel2000 ( 2,23 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: NSK72 ( 0,80 $ )
+Seat 9: ZERO_SUM ( 0,69 $ )
+Seat 10: B2B_Suckouts ( 3,13 $ )
+getterrrr posts small blind [0,01 $]
+NSK72 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 6Kreuz ]
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ raises [0,06 $]
+taxi4soup folds
+arditmalkja folds
+wenzel2000 folds
+getterrrr folds
+NSK72 folds
+** Summary **
+MONKIEEZ collected [ 0,05 $ ]
+
+
+
+#Game No : 1331475475
+***** 888poker Hand History for Game 1331475475 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:08:47
+Table Corrientes 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,80 $ )
+Seat 2: taxi4soup ( 2,15 $ )
+Seat 4: arditmalkja ( 2,84 $ )
+Seat 5: wenzel2000 ( 2,23 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: NSK72 ( 0,80 $ )
+Seat 9: ZERO_SUM ( 0,69 $ )
+Seat 10: B2B_Suckouts ( 3,13 $ )
+NSK72 posts small blind [0,01 $]
+ZERO_SUM posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 3Herz ]
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup folds
+arditmalkja folds
+wenzel2000 folds
+getterrrr folds
+NSK72 folds
+** Summary **
+ZERO_SUM collected [ 0,03 $ ]
+
+
+
+#Game No : 1331475529
+***** 888poker Hand History for Game 1331475529 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:09:03
+Table Corrientes 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,80 $ )
+Seat 2: taxi4soup ( 2,15 $ )
+Seat 4: arditmalkja ( 2,84 $ )
+Seat 5: wenzel2000 ( 2,23 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: NSK72 ( 0,80 $ )
+Seat 9: ZERO_SUM ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 3,13 $ )
+ZERO_SUM posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 8Karo ]
+MONKIEEZ folds
+taxi4soup folds
+arditmalkja raises [0,08 $]
+wenzel2000 folds
+getterrrr folds
+NSK72 folds
+ZERO_SUM calls [0,07 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 3Pik, 7Karo, KPik ]
+ZERO_SUM bets [0,62 $]
+arditmalkja folds
+** Summary **
+ZERO_SUM collected [ 0,17 $ ]
+
+
+
+#Game No : 1331475633
+***** 888poker Hand History for Game 1331475633 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:09:36
+Table Corrientes 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,80 $ )
+Seat 2: taxi4soup ( 2,15 $ )
+Seat 4: arditmalkja ( 2,76 $ )
+Seat 5: wenzel2000 ( 2,23 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: NSK72 ( 0,80 $ )
+Seat 9: ZERO_SUM ( 0,79 $ )
+Seat 10: B2B_Suckouts ( 3,11 $ )
+B2B_Suckouts posts small blind [0,01 $]
+MONKIEEZ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, JKreuz ]
+taxi4soup folds
+arditmalkja folds
+wenzel2000 folds
+getterrrr folds
+NSK72 folds
+ZERO_SUM folds
+B2B_Suckouts raises [0,05 $]
+MONKIEEZ folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 1331475702
+***** 888poker Hand History for Game 1331475702 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:09:59
+Table Corrientes 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,78 $ )
+Seat 2: taxi4soup ( 2,15 $ )
+Seat 4: arditmalkja ( 2,76 $ )
+Seat 5: wenzel2000 ( 2,23 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: NSK72 ( 0,80 $ )
+Seat 9: ZERO_SUM ( 0,79 $ )
+Seat 10: B2B_Suckouts ( 3,13 $ )
+MONKIEEZ posts small blind [0,01 $]
+taxi4soup posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, JPik ]
+arditmalkja raises [0,08 $]
+wenzel2000 folds
+getterrrr folds
+NSK72 folds
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup folds
+** Summary **
+arditmalkja collected [ 0,05 $ ]
+
+
+
+#Game No : 1331475767
+***** 888poker Hand History for Game 1331475767 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:10:20
+Table Corrientes 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,77 $ )
+Seat 2: taxi4soup ( 2,13 $ )
+Seat 4: arditmalkja ( 2,79 $ )
+Seat 5: wenzel2000 ( 2,23 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: NSK72 ( 0,80 $ )
+Seat 9: ZERO_SUM ( 0,79 $ )
+Seat 10: B2B_Suckouts ( 3,13 $ )
+taxi4soup posts small blind [0,01 $]
+arditmalkja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 6Herz ]
+wenzel2000 folds
+getterrrr folds
+NSK72 folds
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ folds
+taxi4soup calls [0,01 $]
+arditmalkja raises [0,06 $]
+taxi4soup calls [0,06 $]
+** Dealing flop ** [ 3Karo, JHerz, 9Pik ]
+taxi4soup checks
+arditmalkja bets [0,10 $]
+taxi4soup calls [0,10 $]
+** Dealing turn ** [ 6Pik ]
+taxi4soup checks
+arditmalkja bets [0,25 $]
+taxi4soup calls [0,25 $]
+** Dealing river ** [ 10Kreuz ]
+taxi4soup bets [0,43 $]
+arditmalkja calls [0,43 $]
+** Summary **
+taxi4soup shows [ 3Pik, 10Pik ]
+arditmalkja mucks [ 8Kreuz, JPik ]
+taxi4soup collected [ 1,62 $ ]
+
+
+
+#Game No : 1331475963
+***** 888poker Hand History for Game 1331475963 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:11:21
+Table Corrientes 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,77 $ )
+Seat 2: taxi4soup ( 2,89 $ )
+Seat 4: arditmalkja ( 1,93 $ )
+Seat 5: wenzel2000 ( 2,23 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: NSK72 ( 0,80 $ )
+Seat 9: ZERO_SUM ( 0,79 $ )
+Seat 10: B2B_Suckouts ( 3,13 $ )
+arditmalkja posts small blind [0,01 $]
+wenzel2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 8Pik ]
+getterrrr folds
+NSK72 folds
+ZERO_SUM folds
+B2B_Suckouts raises [0,06 $]
+MONKIEEZ folds
+taxi4soup folds
+arditmalkja calls [0,05 $]
+wenzel2000 calls [0,04 $]
+** Dealing flop ** [ QKaro, 9Kreuz, JPik ]
+arditmalkja checks
+wenzel2000 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 4Pik ]
+arditmalkja checks
+wenzel2000 checks
+B2B_Suckouts bets [0,05 $]
+arditmalkja folds
+wenzel2000 calls [0,05 $]
+** Dealing river ** [ KHerz ]
+wenzel2000 checks
+B2B_Suckouts checks
+** Summary **
+wenzel2000 shows [ 10Pik, 9Pik ]
+B2B_Suckouts mucks [ 8Karo, 8Pik ]
+wenzel2000 collected [ 0,27 $ ]
+
+
+
+#Game No : 1331476162
+***** 888poker Hand History for Game 1331476162 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:12:19
+Table Corrientes 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: MONKIEEZ ( 4,77 $ )
+Seat 2: taxi4soup ( 2,89 $ )
+Seat 4: arditmalkja ( 1,87 $ )
+Seat 5: wenzel2000 ( 2,39 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: NSK72 ( 0,80 $ )
+Seat 9: ZERO_SUM ( 0,79 $ )
+Seat 10: B2B_Suckouts ( 3,02 $ )
+wenzel2000 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, KKaro ]
+NSK72 folds
+ZERO_SUM folds
+B2B_Suckouts folds
+MONKIEEZ raises [0,08 $]
+taxi4soup folds
+arditmalkja raises [0,32 $]
+wenzel2000 folds
+getterrrr folds
+MONKIEEZ folds
+** Summary **
+arditmalkja collected [ 0,19 $ ]
+
+
+
+#Game No : 1331476319
+***** 888poker Hand History for Game 1331476319 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:13:10
+Table Corrientes 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 4,69 $ )
+Seat 4: arditmalkja ( 1,98 $ )
+Seat 5: wenzel2000 ( 2,38 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 7: NSK72 ( 0,80 $ )
+Seat 9: ZERO_SUM ( 0,79 $ )
+Seat 10: B2B_Suckouts ( 3,02 $ )
+getterrrr posts small blind [0,01 $]
+NSK72 folds
+ZERO_SUM posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 4Kreuz ]
+B2B_Suckouts folds
+MONKIEEZ calls [0,02 $]
+arditmalkja raises [0,10 $]
+wenzel2000 folds
+getterrrr folds
+ZERO_SUM folds
+MONKIEEZ calls [0,08 $]
+** Dealing flop ** [ 10Karo, APik, 8Karo ]
+MONKIEEZ checks
+arditmalkja bets [0,17 $]
+MONKIEEZ calls [0,17 $]
+** Dealing turn ** [ 3Herz ]
+MONKIEEZ checks
+arditmalkja bets [0,41 $]
+MONKIEEZ raises [0,82 $]
+arditmalkja raises [1,30 $]
+MONKIEEZ calls [0,89 $]
+** Dealing river ** [ 5Pik ]
+** Summary **
+MONKIEEZ shows [ AHerz, 10Herz ]
+arditmalkja shows [ AKreuz, JPik ]
+MONKIEEZ collected [ 3,75 $ ]
+
+
+
+#Game No : 1331476544
+***** 888poker Hand History for Game 1331476544 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:14:19
+Table Corrientes 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: MONKIEEZ ( 6,46 $ )
+Seat 2: taxi4soup ( 2,89 $ )
+Seat 5: wenzel2000 ( 2,38 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 9: ZERO_SUM ( 0,77 $ )
+Seat 10: B2B_Suckouts ( 3,02 $ )
+ZERO_SUM posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 2Kreuz ]
+MONKIEEZ folds
+taxi4soup raises [0,05 $]
+wenzel2000 folds
+getterrrr folds
+ZERO_SUM folds
+B2B_Suckouts folds
+** Summary **
+taxi4soup collected [ 0,05 $ ]
+
+
+
+#Game No : 1331476598
+***** 888poker Hand History for Game 1331476598 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:14:37
+Table Corrientes 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: MONKIEEZ ( 6,46 $ )
+Seat 2: taxi4soup ( 2,92 $ )
+Seat 4: arditmalkja ( 2 $ )
+Seat 5: wenzel2000 ( 2,38 $ )
+Seat 6: getterrrr ( 2 $ )
+Seat 9: ZERO_SUM ( 0,76 $ )
+Seat 10: B2B_Suckouts ( 3 $ )
+B2B_Suckouts posts small blind [0,01 $]
+MONKIEEZ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, AHerz ]
+taxi4soup folds
+arditmalkja calls [0,02 $]
+wenzel2000 folds
+getterrrr folds
+ZERO_SUM folds
+B2B_Suckouts calls [0,01 $]
+MONKIEEZ checks
+** Dealing flop ** [ 3Pik, 10Pik, 5Herz ]
+B2B_Suckouts checks
+MONKIEEZ checks
+arditmalkja bets [0,04 $]
+B2B_Suckouts calls [0,04 $]
+MONKIEEZ folds
+** Dealing turn ** [ 4Herz ]
+B2B_Suckouts checks
+arditmalkja bets [0,09 $]
+B2B_Suckouts folds
+** Summary **
+arditmalkja collected [ 0,14 $ ]
+
+
+
