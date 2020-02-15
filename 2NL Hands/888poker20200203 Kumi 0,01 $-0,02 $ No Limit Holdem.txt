@@ -1,0 +1,3274 @@
+#Game No : 474335966
+***** 888poker Hand History for Game 474335966 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 19:57:36
+Table Kumi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,06 $ )
+Seat 2: Imlucky88 ( 2,21 $ )
+Seat 4: fisherman016 ( 0,63 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: ffev78 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: kamenk ( 2 $ )
+AJIEKCAHgPA posts small blind [0,01 $]
+Imlucky88 folds
+fisherman016 posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 2Pik ]
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts raises [0,04 $]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fisherman016 calls [0,04 $]
+** Dealing flop ** [ QPik, 8Herz, AKreuz ]
+fisherman016 checks
+B2B_Suckouts bets [0,04 $]
+fisherman016 calls [0,04 $]
+** Dealing turn ** [ JKreuz ]
+fisherman016 checks
+B2B_Suckouts bets [0,06 $]
+fisherman016 raises [0,24 $]
+B2B_Suckouts folds
+** Summary **
+fisherman016 collected [ 0,31 $ ]
+
+
+
+#Game No : 474336006
+***** 888poker Hand History for Game 474336006 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 19:58:31
+Table Kumi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 4: fisherman016 ( 0,78 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: ffev78 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: kamenk ( 2 $ )
+fisherman016 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 5Pik ]
+ffev78 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk raises [0,06 $]
+AJIEKCAHgPA folds
+fisherman016 folds
+trixiehorne folds
+** Summary **
+kamenk collected [ 0,05 $ ]
+
+
+
+#Game No : 474336022
+***** 888poker Hand History for Game 474336022 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 19:59:01
+Table Kumi 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,40 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: ffev78 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: kamenk ( 2,03 $ )
+trixiehorne posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+fabiokfb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 3Pik ]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,02 $]
+fisherman016 calls [0,04 $]
+trixiehorne calls [0,03 $]
+ffev78 folds
+** Dealing flop ** [ 10Karo, 3Kreuz, QPik ]
+trixiehorne checks
+fabiokfb bets [0,08 $]
+fisherman016 folds
+trixiehorne calls [0,08 $]
+** Dealing turn ** [ AKaro ]
+trixiehorne checks
+fabiokfb checks
+** Dealing river ** [ 8Kreuz ]
+trixiehorne checks
+fabiokfb checks
+** Summary **
+trixiehorne shows [ QKaro, JKreuz ]
+fabiokfb mucks [ 8Karo, KKaro ]
+trixiehorne collected [ 0,29 $ ]
+
+
+
+#Game No : 474336072
+***** 888poker Hand History for Game 474336072 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 19:59:58
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,28 $ )
+Seat 4: fisherman016 ( 0,73 $ )
+Seat 5: trixiehorne ( 2,17 $ )
+Seat 6: ffev78 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: kamenk ( 2,03 $ )
+ffev78 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 7Karo ]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+fisherman016 folds
+trixiehorne folds
+ffev78 folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474336096
+***** 888poker Hand History for Game 474336096 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:00:24
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,28 $ )
+Seat 4: fisherman016 ( 0,73 $ )
+Seat 5: trixiehorne ( 2,17 $ )
+Seat 6: ffev78 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,01 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: kamenk ( 2,03 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 7Kreuz ]
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+fisherman016 folds
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+** Summary **
+pokerosen collected [ 0,03 $ ]
+
+
+
+#Game No : 474336107
+***** 888poker Hand History for Game 474336107 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:00:44
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,28 $ )
+Seat 4: fisherman016 ( 0,73 $ )
+Seat 5: trixiehorne ( 2,17 $ )
+Seat 6: ffev78 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: pokerosen ( 2,52 $ )
+Seat 10: kamenk ( 2,03 $ )
+pokerosen posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 8Herz ]
+AJIEKCAHgPA folds
+fabiokfb folds
+fisherman016 folds
+trixiehorne folds
+ffev78 raises [0,06 $]
+B2B_Suckouts folds
+pokerosen calls [0,05 $]
+kamenk folds
+** Dealing flop ** [ JHerz, 8Karo, QHerz ]
+pokerosen checks
+ffev78 bets [0,09 $]
+pokerosen folds
+** Summary **
+ffev78 collected [ 0,14 $ ]
+
+
+
+#Game No : 474336133
+***** 888poker Hand History for Game 474336133 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:01:18
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,28 $ )
+Seat 4: fisherman016 ( 0,73 $ )
+Seat 5: trixiehorne ( 2,17 $ )
+Seat 6: ffev78 ( 2,08 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: pokerosen ( 2,46 $ )
+Seat 10: kamenk ( 2,01 $ )
+kamenk posts small blind [0,01 $]
+AJIEKCAHgPA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 7Pik ]
+fabiokfb folds
+fisherman016 calls [0,02 $]
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts calls [0,02 $]
+pokerosen folds
+kamenk calls [0,01 $]
+AJIEKCAHgPA checks
+** Dealing flop ** [ 10Pik, 9Herz, 5Herz ]
+kamenk checks
+AJIEKCAHgPA checks
+fisherman016 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 3Kreuz ]
+kamenk checks
+AJIEKCAHgPA checks
+fisherman016 bets [0,08 $]
+B2B_Suckouts folds
+kamenk folds
+AJIEKCAHgPA calls [0,08 $]
+** Dealing river ** [ 8Karo ]
+AJIEKCAHgPA checks
+fisherman016 checks
+** Summary **
+AJIEKCAHgPA shows [ 9Pik, 8Pik ]
+fisherman016 mucks [ 3Herz, AHerz ]
+AJIEKCAHgPA collected [ 0,23 $ ]
+
+
+
+#Game No : 474336192
+***** 888poker Hand History for Game 474336192 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:02:48
+Table Kumi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,18 $ )
+Seat 2: fabiokfb ( 1,28 $ )
+Seat 3: pandemick ( 0,80 $ )
+Seat 4: fisherman016 ( 0,63 $ )
+Seat 5: trixiehorne ( 2,17 $ )
+Seat 6: ffev78 ( 2,08 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: pokerosen ( 2,46 $ )
+Seat 10: kamenk ( 2 $ )
+AJIEKCAHgPA posts small blind [0,01 $]
+fabiokfb posts big blind [0,02 $]
+pandemick posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 3Pik ]
+pandemick checks
+fisherman016 folds
+trixiehorne folds
+ffev78 raises [0,06 $]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb calls [0,04 $]
+pandemick folds
+** Dealing flop ** [ 5Karo, QKreuz, JKreuz ]
+fabiokfb bets [0,08 $]
+ffev78 calls [0,08 $]
+** Dealing turn ** [ 6Karo ]
+fabiokfb checks
+ffev78 checks
+** Dealing river ** [ AKaro ]
+fabiokfb bets [0,18 $]
+ffev78 calls [0,18 $]
+** Summary **
+fabiokfb shows [ AHerz, JHerz ]
+ffev78 shows [ 10Kreuz, KKreuz ]
+ffev78 collected [ 0,63 $ ]
+
+
+
+#Game No : 474336245
+***** 888poker Hand History for Game 474336245 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:03:43
+Table Kumi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,17 $ )
+Seat 2: fabiokfb ( 0,96 $ )
+Seat 3: pandemick ( 0,78 $ )
+Seat 4: fisherman016 ( 0,63 $ )
+Seat 5: trixiehorne ( 2,17 $ )
+Seat 6: ffev78 ( 2,39 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: pokerosen ( 2,46 $ )
+Seat 10: kamenk ( 2 $ )
+fabiokfb posts small blind [0,01 $]
+pandemick posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 6Karo ]
+fisherman016 calls [0,02 $]
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick checks
+** Dealing flop ** [ JKaro, AKaro, QKaro ]
+pandemick checks
+fisherman016 bets [0,03 $]
+pandemick folds
+** Summary **
+fisherman016 did not show his hand
+fisherman016 collected [ 0,05 $ ]
+
+
+
+#Game No : 474336289
+***** 888poker Hand History for Game 474336289 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:04:26
+Table Kumi 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,17 $ )
+Seat 2: fabiokfb ( 0,95 $ )
+Seat 3: pandemick ( 0,76 $ )
+Seat 4: fisherman016 ( 0,66 $ )
+Seat 5: trixiehorne ( 2,17 $ )
+Seat 6: ffev78 ( 2,39 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: pokerosen ( 2,46 $ )
+Seat 10: kamenk ( 2 $ )
+pandemick posts small blind [0,01 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 8Pik ]
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+pokerosen raises [0,06 $]
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+fisherman016 calls [0,04 $]
+** Dealing flop ** [ 6Karo, 10Pik, AKaro ]
+fisherman016 checks
+pokerosen bets [0,06 $]
+fisherman016 calls [0,06 $]
+** Dealing turn ** [ JKaro ]
+fisherman016 checks
+pokerosen checks
+** Dealing river ** [ AHerz ]
+fisherman016 checks
+pokerosen checks
+** Summary **
+fisherman016 shows [ KKreuz, JHerz ]
+pokerosen mucks [ 8Kreuz, 7Kreuz ]
+fisherman016 collected [ 0,24 $ ]
+
+
+
+#Game No : 474336347
+***** 888poker Hand History for Game 474336347 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:05:45
+Table Kumi 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,17 $ )
+Seat 2: fabiokfb ( 0,95 $ )
+Seat 3: pandemick ( 0,75 $ )
+Seat 4: fisherman016 ( 0,78 $ )
+Seat 5: trixiehorne ( 2,17 $ )
+Seat 6: ffev78 ( 2,39 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2 $ )
+fisherman016 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, QHerz ]
+ffev78 folds
+B2B_Suckouts raises [0,06 $]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb calls [0,06 $]
+pandemick folds
+fisherman016 folds
+trixiehorne folds
+** Dealing flop ** [ 5Pik, 3Herz, KHerz ]
+B2B_Suckouts bets [0,04 $]
+fabiokfb calls [0,04 $]
+** Dealing turn ** [ 2Pik ]
+B2B_Suckouts checks
+fabiokfb checks
+** Dealing river ** [ AHerz ]
+B2B_Suckouts checks
+fabiokfb checks
+** Summary **
+B2B_Suckouts shows [ QKaro, QHerz ]
+fabiokfb mucks [ QPik, JHerz ]
+B2B_Suckouts collected [ 0,22 $ ]
+
+
+
+#Game No : 474336398
+***** 888poker Hand History for Game 474336398 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:06:51
+Table Kumi 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,17 $ )
+Seat 2: fabiokfb ( 0,85 $ )
+Seat 3: pandemick ( 0,75 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,15 $ )
+Seat 6: ffev78 ( 2,39 $ )
+Seat 7: B2B_Suckouts ( 2,12 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2 $ )
+trixiehorne posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 5Pik ]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,08 $]
+pandemick calls [0,08 $]
+fisherman016 folds
+trixiehorne folds
+ffev78 folds
+** Dealing flop ** [ 7Pik, 5Kreuz, 6Karo ]
+fabiokfb bets [0,06 $]
+pandemick calls [0,06 $]
+** Dealing turn ** [ 8Herz ]
+fabiokfb checks
+pandemick checks
+** Dealing river ** [ 9Kreuz ]
+fabiokfb checks
+pandemick checks
+** Summary **
+fabiokfb shows [ 7Kreuz, 7Herz ]
+pandemick shows [ 8Kreuz, KKreuz ]
+pandemick collected [ 0,15 $ ]
+fabiokfb collected [ 0,15 $ ]
+
+
+
+#Game No : 474336440
+***** 888poker Hand History for Game 474336440 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:07:51
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,17 $ )
+Seat 2: fabiokfb ( 0,86 $ )
+Seat 3: pandemick ( 0,76 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,14 $ )
+Seat 6: ffev78 ( 2,37 $ )
+Seat 7: B2B_Suckouts ( 2,12 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2 $ )
+ffev78 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 2Kreuz ]
+pokerosen folds
+kamenk raises [0,07 $]
+AJIEKCAHgPA folds
+fabiokfb calls [0,07 $]
+pandemick folds
+fisherman016 folds
+trixiehorne calls [0,07 $]
+ffev78 folds
+B2B_Suckouts folds
+** Dealing flop ** [ 10Pik, KKreuz, 10Kreuz ]
+kamenk checks
+fabiokfb checks
+trixiehorne checks
+** Dealing turn ** [ QKaro ]
+kamenk checks
+fabiokfb bets [0,10 $]
+trixiehorne folds
+kamenk folds
+** Summary **
+fabiokfb did not show his hand
+fabiokfb collected [ 0,23 $ ]
+
+
+
+#Game No : 474336484
+***** 888poker Hand History for Game 474336484 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:08:51
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,17 $ )
+Seat 2: fabiokfb ( 1,02 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,07 $ )
+Seat 6: ffev78 ( 2,36 $ )
+Seat 7: B2B_Suckouts ( 2,10 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 6Kreuz ]
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+fisherman016 folds
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts raises [0,05 $]
+pokerosen folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 474336517
+***** 888poker Hand History for Game 474336517 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:09:39
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,17 $ )
+Seat 2: fabiokfb ( 1,02 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,07 $ )
+Seat 6: ffev78 ( 2,36 $ )
+Seat 7: B2B_Suckouts ( 2,12 $ )
+Seat 9: pokerosen ( 2,32 $ )
+Seat 10: kamenk ( 2 $ )
+pokerosen posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 5Pik ]
+AJIEKCAHgPA folds
+fabiokfb folds
+fisherman016 folds
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+pokerosen calls [0,01 $]
+kamenk raises [0,06 $]
+pokerosen folds
+** Summary **
+kamenk collected [ 0,04 $ ]
+
+
+
+#Game No : 474336547
+***** 888poker Hand History for Game 474336547 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:10:14
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,17 $ )
+Seat 2: fabiokfb ( 1,02 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,07 $ )
+Seat 6: ffev78 ( 2,36 $ )
+Seat 7: B2B_Suckouts ( 2,12 $ )
+Seat 9: pokerosen ( 2,30 $ )
+Seat 10: kamenk ( 2,02 $ )
+kamenk posts small blind [0,01 $]
+AJIEKCAHgPA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, AKreuz ]
+fabiokfb folds
+fisherman016 folds
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts raises [0,06 $]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA calls [0,04 $]
+** Dealing flop ** [ 9Karo, 8Herz, 9Herz ]
+AJIEKCAHgPA checks
+B2B_Suckouts checks
+** Dealing turn ** [ 8Kreuz ]
+AJIEKCAHgPA bets [0,08 $]
+B2B_Suckouts calls [0,08 $]
+** Dealing river ** [ 4Kreuz ]
+AJIEKCAHgPA checks
+B2B_Suckouts checks
+** Summary **
+AJIEKCAHgPA shows [ KHerz, JKreuz ]
+B2B_Suckouts shows [ 3Herz, AKreuz ]
+B2B_Suckouts collected [ 0,28 $ ]
+
+
+
+#Game No : 474336602
+***** 888poker Hand History for Game 474336602 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:11:25
+Table Kumi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,03 $ )
+Seat 2: fabiokfb ( 1,02 $ )
+Seat 3: pandemick ( 0,76 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,07 $ )
+Seat 6: ffev78 ( 2,36 $ )
+Seat 7: B2B_Suckouts ( 2,26 $ )
+Seat 9: pokerosen ( 2,30 $ )
+Seat 10: kamenk ( 2,01 $ )
+AJIEKCAHgPA posts small blind [0,01 $]
+fabiokfb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 10Karo ]
+pandemick folds
+fisherman016 folds
+trixiehorne raises [0,06 $]
+ffev78 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+** Summary **
+trixiehorne did not show his hand
+trixiehorne collected [ 0,05 $ ]
+
+
+
+#Game No : 474336627
+***** 888poker Hand History for Game 474336627 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:11:55
+Table Kumi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,02 $ )
+Seat 2: fabiokfb ( 1 $ )
+Seat 3: pandemick ( 0,76 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,10 $ )
+Seat 6: ffev78 ( 2,36 $ )
+Seat 7: B2B_Suckouts ( 2,26 $ )
+Seat 9: pokerosen ( 2,30 $ )
+Seat 10: kamenk ( 2,01 $ )
+fabiokfb posts small blind [0,01 $]
+pandemick posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 7Pik ]
+fisherman016 folds
+trixiehorne folds
+ffev78 raises [0,06 $]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb calls [0,05 $]
+pandemick folds
+** Dealing flop ** [ 2Herz, 10Karo, KKaro ]
+fabiokfb checks
+ffev78 checks
+** Dealing turn ** [ 3Herz ]
+fabiokfb checks
+ffev78 checks
+** Dealing river ** [ 5Karo ]
+fabiokfb checks
+ffev78 checks
+** Summary **
+fabiokfb shows [ 4Kreuz, 4Herz ]
+ffev78 mucks [ AKreuz, 6Kreuz ]
+fabiokfb collected [ 0,14 $ ]
+
+
+
+#Game No : 474336688
+***** 888poker Hand History for Game 474336688 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:13:02
+Table Kumi 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,02 $ )
+Seat 2: fabiokfb ( 1,08 $ )
+Seat 3: pandemick ( 0,74 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,10 $ )
+Seat 6: ffev78 ( 2,30 $ )
+Seat 7: B2B_Suckouts ( 2,26 $ )
+Seat 9: pokerosen ( 2,30 $ )
+Seat 10: kamenk ( 2,01 $ )
+pandemick posts small blind [0,01 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 3Pik ]
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA raises [0,05 $]
+fabiokfb folds
+pandemick folds
+fisherman016 folds
+** Summary **
+AJIEKCAHgPA did not show his hand
+AJIEKCAHgPA collected [ 0,05 $ ]
+
+
+
+#Game No : 474336706
+***** 888poker Hand History for Game 474336706 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:13:24
+Table Kumi 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,08 $ )
+Seat 3: pandemick ( 0,73 $ )
+Seat 4: fisherman016 ( 0,75 $ )
+Seat 5: trixiehorne ( 2,10 $ )
+Seat 6: ffev78 ( 2,30 $ )
+Seat 7: B2B_Suckouts ( 2,26 $ )
+Seat 9: pokerosen ( 2,30 $ )
+Seat 10: kamenk ( 2,01 $ )
+fisherman016 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 6Herz ]
+ffev78 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,04 $]
+pandemick calls [0,04 $]
+fisherman016 folds
+trixiehorne folds
+** Dealing flop ** [ 7Karo, QHerz, 6Kreuz ]
+fabiokfb bets [0,14 $]
+pandemick folds
+** Summary **
+fabiokfb did not show his hand
+fabiokfb collected [ 0,11 $ ]
+
+
+
+#Game No : 474336746
+***** 888poker Hand History for Game 474336746 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:14:18
+Table Kumi 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,15 $ )
+Seat 3: pandemick ( 0,69 $ )
+Seat 4: fisherman016 ( 0,74 $ )
+Seat 5: trixiehorne ( 2,08 $ )
+Seat 6: ffev78 ( 2,30 $ )
+Seat 7: B2B_Suckouts ( 2,26 $ )
+Seat 9: pokerosen ( 2,30 $ )
+Seat 10: kamenk ( 2,01 $ )
+trixiehorne posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, QPik ]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick calls [0,02 $]
+fisherman016 calls [0,02 $]
+trixiehorne folds
+ffev78 checks
+** Dealing flop ** [ KKaro, 6Kreuz, 4Pik ]
+ffev78 checks
+pandemick checks
+fisherman016 checks
+** Dealing turn ** [ 5Karo ]
+ffev78 checks
+pandemick checks
+fisherman016 checks
+** Dealing river ** [ 6Herz ]
+ffev78 checks
+pandemick checks
+fisherman016 checks
+** Summary **
+ffev78 shows [ 10Kreuz, 9Pik ]
+pandemick shows [ JHerz, 10Karo ]
+fisherman016 shows [ AKreuz, 9Karo ]
+fisherman016 collected [ 0,07 $ ]
+
+
+
+#Game No : 474336802
+***** 888poker Hand History for Game 474336802 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:15:32
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,15 $ )
+Seat 3: pandemick ( 0,67 $ )
+Seat 4: fisherman016 ( 0,79 $ )
+Seat 5: trixiehorne ( 2,07 $ )
+Seat 6: ffev78 ( 2,28 $ )
+Seat 7: B2B_Suckouts ( 2,26 $ )
+Seat 9: pokerosen ( 2,30 $ )
+Seat 10: kamenk ( 2,01 $ )
+ffev78 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 2Herz ]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,06 $]
+pandemick folds
+fisherman016 folds
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+** Summary **
+fabiokfb did not show his hand
+fabiokfb collected [ 0,05 $ ]
+
+
+
+#Game No : 474336828
+***** 888poker Hand History for Game 474336828 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:16:09
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,18 $ )
+Seat 3: pandemick ( 0,67 $ )
+Seat 4: fisherman016 ( 0,79 $ )
+Seat 5: trixiehorne ( 2,07 $ )
+Seat 6: ffev78 ( 2,27 $ )
+Seat 7: B2B_Suckouts ( 2,24 $ )
+Seat 9: pokerosen ( 2,30 $ )
+Seat 10: kamenk ( 2,01 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 3Herz ]
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+fisherman016 folds
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts calls [0,01 $]
+pokerosen checks
+** Dealing flop ** [ 6Pik, 9Herz, 9Karo ]
+B2B_Suckouts checks
+pokerosen checks
+** Dealing turn ** [ 8Pik ]
+B2B_Suckouts checks
+pokerosen checks
+** Dealing river ** [ 6Kreuz ]
+B2B_Suckouts bets [0,02 $]
+pokerosen folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 474336897
+***** 888poker Hand History for Game 474336897 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:17:36
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,18 $ )
+Seat 3: pandemick ( 0,67 $ )
+Seat 4: fisherman016 ( 0,79 $ )
+Seat 5: trixiehorne ( 2,07 $ )
+Seat 6: ffev78 ( 2,27 $ )
+Seat 7: B2B_Suckouts ( 2,26 $ )
+Seat 9: pokerosen ( 2,28 $ )
+Seat 10: kamenk ( 2,01 $ )
+pokerosen posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 2Kreuz ]
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick calls [0,02 $]
+fisherman016 calls [0,02 $]
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+pokerosen calls [0,01 $]
+kamenk checks
+** Dealing flop ** [ 7Kreuz, QKreuz, 2Pik ]
+pokerosen checks
+kamenk checks
+pandemick checks
+fisherman016 checks
+** Dealing turn ** [ 6Herz ]
+pokerosen bets [0,06 $]
+kamenk folds
+pandemick folds
+fisherman016 folds
+** Summary **
+pokerosen did not show his hand
+pokerosen collected [ 0,08 $ ]
+
+
+
+#Game No : 474336937
+***** 888poker Hand History for Game 474336937 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:18:40
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,05 $ )
+Seat 2: fabiokfb ( 1,18 $ )
+Seat 3: pandemick ( 0,65 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,07 $ )
+Seat 6: ffev78 ( 2,27 $ )
+Seat 7: B2B_Suckouts ( 2,26 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2 $ )
+kamenk posts small blind [0,01 $]
+AJIEKCAHgPA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 4Kreuz ]
+fabiokfb folds
+pandemick calls [0,02 $]
+fisherman016 folds
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts raises [0,06 $]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+pandemick calls [0,04 $]
+** Dealing flop ** [ 4Karo, 3Karo, 10Pik ]
+pandemick checks
+B2B_Suckouts bets [0,04 $]
+pandemick folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 474336993
+***** 888poker Hand History for Game 474336993 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:19:48
+Table Kumi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,03 $ )
+Seat 2: fabiokfb ( 1,18 $ )
+Seat 3: pandemick ( 0,59 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,07 $ )
+Seat 6: ffev78 ( 2,27 $ )
+Seat 7: B2B_Suckouts ( 2,35 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2 $ )
+AJIEKCAHgPA posts small blind [0,01 $]
+fabiokfb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 5Herz ]
+pandemick folds
+fisherman016 folds
+trixiehorne calls [0,02 $]
+ffev78 raises [0,08 $]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+trixiehorne folds
+** Summary **
+ffev78 did not show his hand
+ffev78 collected [ 0,07 $ ]
+
+
+
+#Game No : 474337024
+***** 888poker Hand History for Game 474337024 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:20:25
+Table Kumi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,02 $ )
+Seat 2: fabiokfb ( 1,16 $ )
+Seat 4: fisherman016 ( 0,77 $ )
+Seat 5: trixiehorne ( 2,05 $ )
+Seat 6: ffev78 ( 2,32 $ )
+Seat 7: B2B_Suckouts ( 2,35 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2 $ )
+fabiokfb posts small blind [0,01 $]
+fisherman016 folds
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, KHerz ]
+ffev78 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk raises [0,06 $]
+AJIEKCAHgPA folds
+fabiokfb calls [0,05 $]
+trixiehorne folds
+** Dealing flop ** [ QKreuz, AKreuz, KKreuz ]
+fabiokfb bets [0,10 $]
+kamenk folds
+** Summary **
+fabiokfb collected [ 0,14 $ ]
+
+
+
+#Game No : 474337061
+***** 888poker Hand History for Game 474337061 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:21:07
+Table Kumi 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 2,02 $ )
+Seat 2: fabiokfb ( 1,24 $ )
+Seat 5: trixiehorne ( 2,03 $ )
+Seat 6: ffev78 ( 2,32 $ )
+Seat 7: B2B_Suckouts ( 2,35 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2 $ )
+trixiehorne posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 2Kreuz ]
+B2B_Suckouts folds
+pokerosen folds
+kamenk raises [0,06 $]
+AJIEKCAHgPA folds
+fabiokfb folds
+trixiehorne folds
+ffev78 folds
+** Summary **
+kamenk collected [ 0,05 $ ]
+
+
+
+#Game No : 474337088
+***** 888poker Hand History for Game 474337088 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:21:47
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 2,02 $ )
+Seat 2: fabiokfb ( 1,24 $ )
+Seat 5: trixiehorne ( 2,02 $ )
+Seat 6: ffev78 ( 2,30 $ )
+Seat 7: B2B_Suckouts ( 2,35 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2,03 $ )
+ffev78 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 3Karo ]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+trixiehorne folds
+ffev78 folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474337103
+***** 888poker Hand History for Game 474337103 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:22:03
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 2,02 $ )
+Seat 2: fabiokfb ( 1,24 $ )
+Seat 5: trixiehorne ( 2,02 $ )
+Seat 6: ffev78 ( 2,29 $ )
+Seat 7: B2B_Suckouts ( 2,36 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2,03 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 8Pik ]
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts calls [0,01 $]
+pokerosen checks
+** Dealing flop ** [ 10Kreuz, KKaro, AKreuz ]
+B2B_Suckouts checks
+pokerosen checks
+** Dealing turn ** [ APik ]
+B2B_Suckouts checks
+pokerosen bets [0,06 $]
+B2B_Suckouts folds
+** Summary **
+pokerosen collected [ 0,04 $ ]
+
+
+
+#Game No : 474337132
+***** 888poker Hand History for Game 474337132 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:22:46
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 2,02 $ )
+Seat 2: fabiokfb ( 1,24 $ )
+Seat 5: trixiehorne ( 2,02 $ )
+Seat 6: ffev78 ( 2,29 $ )
+Seat 7: B2B_Suckouts ( 2,34 $ )
+Seat 9: pokerosen ( 2,36 $ )
+Seat 10: kamenk ( 2,03 $ )
+pokerosen posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, APik ]
+AJIEKCAHgPA folds
+fabiokfb folds
+trixiehorne folds
+ffev78 raises [0,06 $]
+B2B_Suckouts calls [0,06 $]
+pokerosen folds
+kamenk folds
+** Dealing flop ** [ 10Karo, 5Karo, 9Pik ]
+ffev78 bets [0,07 $]
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ 9Herz ]
+ffev78 checks
+B2B_Suckouts bets [0,09 $]
+ffev78 calls [0,09 $]
+** Dealing river ** [ 4Herz ]
+ffev78 checks
+B2B_Suckouts bets [0,38 $]
+ffev78 folds
+** Summary **
+B2B_Suckouts collected [ 0,45 $ ]
+
+
+
+#Game No : 474337177
+***** 888poker Hand History for Game 474337177 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:23:51
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 2,02 $ )
+Seat 2: fabiokfb ( 1,24 $ )
+Seat 5: trixiehorne ( 2,02 $ )
+Seat 6: ffev78 ( 2,07 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: pokerosen ( 2,35 $ )
+Seat 10: kamenk ( 2,01 $ )
+kamenk posts small blind [0,01 $]
+AJIEKCAHgPA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 6Herz ]
+fabiokfb raises [0,06 $]
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+** Summary **
+fabiokfb collected [ 0,05 $ ]
+
+
+
+#Game No : 474337197
+***** 888poker Hand History for Game 474337197 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:24:15
+Table Kumi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,27 $ )
+Seat 5: trixiehorne ( 2,02 $ )
+Seat 6: ffev78 ( 2,07 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: pokerosen ( 2,35 $ )
+Seat 10: kamenk ( 2 $ )
+AJIEKCAHgPA posts small blind [0,01 $]
+fabiokfb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 10Pik ]
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk raises [0,07 $]
+AJIEKCAHgPA folds
+fabiokfb folds
+** Summary **
+kamenk collected [ 0,05 $ ]
+
+
+
+#Game No : 474337216
+***** 888poker Hand History for Game 474337216 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:24:43
+Table Kumi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,25 $ )
+Seat 3: pandemick ( 0,59 $ )
+Seat 5: trixiehorne ( 2,02 $ )
+Seat 6: ffev78 ( 2,07 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: pokerosen ( 2,35 $ )
+Seat 10: kamenk ( 2,03 $ )
+fabiokfb posts small blind [0,01 $]
+pandemick posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, KPik ]
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,03 $]
+pandemick calls [0,02 $]
+** Dealing flop ** [ 9Kreuz, KKaro, 10Herz ]
+fabiokfb checks
+pandemick bets [0,05 $]
+fabiokfb calls [0,05 $]
+** Dealing turn ** [ 10Karo ]
+fabiokfb checks
+pandemick checks
+** Dealing river ** [ 8Karo ]
+fabiokfb checks
+pandemick checks
+** Summary **
+fabiokfb shows [ QKreuz, 4Herz ]
+pandemick shows [ QKaro, KHerz ]
+pandemick collected [ 0,17 $ ]
+
+
+
+#Game No : 474337262
+***** 888poker Hand History for Game 474337262 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:25:39
+Table Kumi 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,16 $ )
+Seat 3: pandemick ( 0,67 $ )
+Seat 4: fireball37 ( 0,80 $ )
+Seat 5: trixiehorne ( 2,02 $ )
+Seat 6: ffev78 ( 2,07 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: pokerosen ( 2,35 $ )
+Seat 10: kamenk ( 2,03 $ )
+pandemick posts small blind [0,01 $]
+fireball37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 2Kreuz ]
+trixiehorne folds
+ffev78 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,04 $]
+pandemick folds
+fireball37 calls [0,02 $]
+** Dealing flop ** [ 2Karo, AHerz, 5Karo ]
+fireball37 bets [0,04 $]
+fabiokfb folds
+** Summary **
+fireball37 did not show his hand
+fireball37 collected [ 0,09 $ ]
+
+
+
+#Game No : 474337297
+***** 888poker Hand History for Game 474337297 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:26:22
+Table Kumi 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,12 $ )
+Seat 3: pandemick ( 0,66 $ )
+Seat 4: fireball37 ( 0,85 $ )
+Seat 5: trixiehorne ( 2,02 $ )
+Seat 6: ffev78 ( 2,07 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: pokerosen ( 2,35 $ )
+Seat 10: kamenk ( 2,03 $ )
+fireball37 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 6Karo ]
+ffev78 folds
+B2B_Suckouts raises [0,06 $]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+fireball37 folds
+trixiehorne folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474337316
+***** 888poker Hand History for Game 474337316 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:26:50
+Table Kumi 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,12 $ )
+Seat 3: pandemick ( 0,66 $ )
+Seat 4: fireball37 ( 0,84 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: ffev78 ( 2,07 $ )
+Seat 7: B2B_Suckouts ( 2,60 $ )
+Seat 9: pokerosen ( 2,35 $ )
+Seat 10: kamenk ( 2,03 $ )
+trixiehorne posts small blind [0,01 $]
+ffev78 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 10Herz ]
+B2B_Suckouts folds
+pokerosen folds
+kamenk raises [0,07 $]
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick calls [0,07 $]
+fireball37 calls [0,07 $]
+trixiehorne folds
+ffev78 folds
+** Dealing flop ** [ 10Kreuz, 6Kreuz, 2Karo ]
+kamenk bets [0,15 $]
+pandemick raises [0,59 $]
+fireball37 folds
+kamenk folds
+** Summary **
+pandemick did not show his hand
+pandemick collected [ 0,51 $ ]
+
+
+
+#Game No : 474337358
+***** 888poker Hand History for Game 474337358 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:27:41
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,12 $ )
+Seat 3: pandemick ( 0,95 $ )
+Seat 4: fireball37 ( 0,77 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: ffev78 ( 2,05 $ )
+Seat 7: B2B_Suckouts ( 2,60 $ )
+Seat 9: pokerosen ( 2,35 $ )
+Seat 10: kamenk ( 2 $ )
+ffev78 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, JKaro ]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+fireball37 folds
+trixiehorne folds
+ffev78 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474337427
+***** 888poker Hand History for Game 474337427 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:29:10
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,12 $ )
+Seat 3: pandemick ( 0,95 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,61 $ )
+Seat 9: pokerosen ( 2,35 $ )
+Seat 10: kamenk ( 2 $ )
+pokerosen posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 10Karo ]
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+trixiehorne folds
+B2B_Suckouts folds
+pokerosen folds
+** Summary **
+kamenk collected [ 0,03 $ ]
+
+
+
+#Game No : 474337443
+***** 888poker Hand History for Game 474337443 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:29:30
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,12 $ )
+Seat 3: pandemick ( 0,95 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,61 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2,01 $ )
+kamenk posts small blind [0,01 $]
+AJIEKCAHgPA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 3Herz ]
+fabiokfb folds
+pandemick folds
+trixiehorne folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+** Summary **
+AJIEKCAHgPA collected [ 0,03 $ ]
+
+
+
+#Game No : 474337461
+***** 888poker Hand History for Game 474337461 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:29:59
+Table Kumi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 2,01 $ )
+Seat 2: fabiokfb ( 1,12 $ )
+Seat 3: pandemick ( 0,95 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,61 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2 $ )
+AJIEKCAHgPA posts small blind [0,01 $]
+fabiokfb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 7Herz ]
+pandemick calls [0,02 $]
+trixiehorne folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,02 $]
+pandemick calls [0,02 $]
+** Dealing flop ** [ 2Karo, 8Pik, 9Kreuz ]
+fabiokfb bets [0,10 $]
+pandemick folds
+** Summary **
+fabiokfb collected [ 0,09 $ ]
+
+
+
+#Game No : 474337504
+***** 888poker Hand History for Game 474337504 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:30:52
+Table Kumi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,17 $ )
+Seat 3: pandemick ( 0,91 $ )
+Seat 4: fireball37 ( 0,77 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,61 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2 $ )
+fabiokfb posts small blind [0,01 $]
+pandemick posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 2Kreuz ]
+fireball37 folds
+trixiehorne folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk raises [0,07 $]
+AJIEKCAHgPA calls [0,07 $]
+fabiokfb folds
+pandemick folds
+** Dealing flop ** [ 2Herz, 5Herz, QHerz ]
+kamenk checks
+AJIEKCAHgPA checks
+** Dealing turn ** [ QPik ]
+kamenk checks
+AJIEKCAHgPA bets [0,11 $]
+kamenk raises [0,31 $]
+AJIEKCAHgPA folds
+** Summary **
+kamenk collected [ 0,37 $ ]
+
+
+
+#Game No : 474337557
+***** 888poker Hand History for Game 474337557 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:32:00
+Table Kumi 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,16 $ )
+Seat 3: pandemick ( 0,89 $ )
+Seat 4: fireball37 ( 0,77 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,61 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2,19 $ )
+pandemick posts small blind [0,01 $]
+fireball37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, AHerz ]
+trixiehorne folds
+B2B_Suckouts raises [0,06 $]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA raises [0,18 $]
+fabiokfb folds
+pandemick folds
+fireball37 folds
+B2B_Suckouts calls [0,12 $]
+** Dealing flop ** [ 10Herz, 6Herz, 9Pik ]
+B2B_Suckouts bets [0,12 $]
+AJIEKCAHgPA raises [0,37 $]
+B2B_Suckouts calls [0,25 $]
+** Dealing turn ** [ 9Herz ]
+B2B_Suckouts bets [0,37 $]
+AJIEKCAHgPA folds
+** Summary **
+B2B_Suckouts collected [ 1,06 $ ]
+
+
+
+#Game No : 474337609
+***** 888poker Hand History for Game 474337609 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:32:56
+Table Kumi 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,16 $ )
+Seat 3: pandemick ( 0,88 $ )
+Seat 4: fireball37 ( 0,75 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 3,12 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2,19 $ )
+fireball37 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 7Kreuz ]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,04 $]
+pandemick folds
+fireball37 folds
+trixiehorne calls [0,02 $]
+** Dealing flop ** [ 8Karo, 4Kreuz, 8Pik ]
+trixiehorne checks
+fabiokfb checks
+** Dealing turn ** [ 9Herz ]
+trixiehorne checks
+fabiokfb bets [0,16 $]
+trixiehorne folds
+** Summary **
+fabiokfb collected [ 0,09 $ ]
+
+
+
+#Game No : 474337651
+***** 888poker Hand History for Game 474337651 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:33:44
+Table Kumi 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,21 $ )
+Seat 3: pandemick ( 0,88 $ )
+Seat 4: fireball37 ( 0,74 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 3,12 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2,19 $ )
+trixiehorne posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 3Karo ]
+pokerosen raises [0,06 $]
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+fireball37 folds
+trixiehorne folds
+B2B_Suckouts folds
+** Summary **
+pokerosen collected [ 0,05 $ ]
+
+
+
+#Game No : 474337675
+***** 888poker Hand History for Game 474337675 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:34:08
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,21 $ )
+Seat 3: pandemick ( 0,88 $ )
+Seat 4: fireball37 ( 0,74 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 3,10 $ )
+Seat 9: pokerosen ( 2,37 $ )
+Seat 10: kamenk ( 2,19 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 7Kreuz ]
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,04 $]
+pandemick folds
+fireball37 folds
+trixiehorne folds
+B2B_Suckouts folds
+pokerosen folds
+** Summary **
+fabiokfb collected [ 0,05 $ ]
+
+
+
+#Game No : 474337706
+***** 888poker Hand History for Game 474337706 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:34:32
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,24 $ )
+Seat 3: pandemick ( 0,88 $ )
+Seat 4: fireball37 ( 0,74 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 3,09 $ )
+Seat 9: pokerosen ( 2,35 $ )
+Seat 10: kamenk ( 2,19 $ )
+pokerosen posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, AKaro ]
+AJIEKCAHgPA folds
+fabiokfb raises [0,06 $]
+pandemick folds
+fireball37 folds
+trixiehorne folds
+B2B_Suckouts raises [0,18 $]
+pokerosen folds
+kamenk folds
+fabiokfb calls [0,12 $]
+** Dealing flop ** [ 6Herz, 9Herz, 7Herz ]
+fabiokfb bets [0,08 $]
+B2B_Suckouts calls [0,08 $]
+** Dealing turn ** [ 8Kreuz ]
+fabiokfb bets [0,40 $]
+B2B_Suckouts folds
+** Summary **
+fabiokfb collected [ 0,52 $ ]
+
+
+
+#Game No : 474337747
+***** 888poker Hand History for Game 474337747 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:35:24
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,50 $ )
+Seat 3: pandemick ( 0,88 $ )
+Seat 4: fireball37 ( 0,74 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,83 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2,17 $ )
+kamenk posts small blind [0,01 $]
+AJIEKCAHgPA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, KPik ]
+fabiokfb folds
+pandemick folds
+fireball37 folds
+trixiehorne folds
+B2B_Suckouts raises [0,06 $]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474337781
+***** 888poker Hand History for Game 474337781 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:36:05
+Table Kumi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,50 $ )
+Seat 3: pandemick ( 0,88 $ )
+Seat 4: fireball37 ( 0,74 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,86 $ )
+Seat 9: pokerosen ( 2,34 $ )
+Seat 10: kamenk ( 2,16 $ )
+AJIEKCAHgPA posts small blind [0,01 $]
+fabiokfb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 4Pik ]
+pandemick raises [0,08 $]
+fireball37 folds
+trixiehorne folds
+B2B_Suckouts folds
+pokerosen calls [0,08 $]
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+** Dealing flop ** [ APik, 6Kreuz, KHerz ]
+pandemick bets [0,02 $]
+pokerosen calls [0,02 $]
+** Dealing turn ** [ KKreuz ]
+pandemick checks
+pokerosen checks
+** Dealing river ** [ 2Herz ]
+pandemick checks
+pokerosen checks
+** Summary **
+pandemick shows [ JPik, JKaro ]
+pokerosen shows [ AKreuz, 9Kreuz ]
+pokerosen collected [ 0,22 $ ]
+
+
+
+#Game No : 474337821
+***** 888poker Hand History for Game 474337821 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:36:59
+Table Kumi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2 $ )
+Seat 2: fabiokfb ( 1,48 $ )
+Seat 3: pandemick ( 0,78 $ )
+Seat 4: ParkerKid9 ( 0,80 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,86 $ )
+Seat 9: pokerosen ( 2,46 $ )
+Seat 10: kamenk ( 2,16 $ )
+fabiokfb posts small blind [0,01 $]
+pandemick posts big blind [0,02 $]
+ParkerKid9 folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, JKreuz ]
+trixiehorne folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA raises [0,05 $]
+fabiokfb folds
+pandemick calls [0,03 $]
+** Dealing flop ** [ 2Pik, 3Kreuz, KKaro ]
+pandemick checks
+AJIEKCAHgPA bets [0,07 $]
+pandemick folds
+** Summary **
+AJIEKCAHgPA collected [ 0,11 $ ]
+
+
+
+#Game No : 474337855
+***** 888poker Hand History for Game 474337855 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:37:38
+Table Kumi 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,06 $ )
+Seat 2: fabiokfb ( 1,47 $ )
+Seat 3: pandemick ( 0,73 $ )
+Seat 4: ParkerKid9 ( 0,80 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,86 $ )
+Seat 9: pokerosen ( 2,46 $ )
+Seat 10: kamenk ( 2,16 $ )
+pandemick posts small blind [0,01 $]
+ParkerKid9 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 8Kreuz ]
+trixiehorne folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk raises [0,06 $]
+AJIEKCAHgPA folds
+fabiokfb calls [0,06 $]
+pandemick folds
+ParkerKid9 calls [0,04 $]
+** Dealing flop ** [ 10Herz, 8Pik, 6Pik ]
+ParkerKid9 bets [0,02 $]
+kamenk folds
+fabiokfb raises [0,06 $]
+ParkerKid9 calls [0,04 $]
+** Dealing turn ** [ 4Pik ]
+ParkerKid9 checks
+fabiokfb checks
+** Dealing river ** [ 10Kreuz ]
+ParkerKid9 checks
+fabiokfb checks
+** Summary **
+ParkerKid9 shows [ QPik, 9Karo ]
+fabiokfb shows [ QKreuz, JKreuz ]
+fabiokfb collected [ 0,30 $ ]
+
+
+
+#Game No : 474337917
+***** 888poker Hand History for Game 474337917 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:38:43
+Table Kumi 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,06 $ )
+Seat 2: fabiokfb ( 1,65 $ )
+Seat 3: pandemick ( 0,72 $ )
+Seat 4: ParkerKid9 ( 0,68 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,86 $ )
+Seat 9: pokerosen ( 2,46 $ )
+Seat 10: kamenk ( 2,10 $ )
+ParkerKid9 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, JPik ]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA raises [0,06 $]
+fabiokfb calls [0,06 $]
+pandemick calls [0,06 $]
+ParkerKid9 folds
+trixiehorne calls [0,04 $]
+** Dealing flop ** [ 7Kreuz, 4Pik, 4Karo ]
+trixiehorne checks
+AJIEKCAHgPA bets [0,16 $]
+fabiokfb folds
+pandemick raises [0,66 $]
+trixiehorne folds
+AJIEKCAHgPA calls [0,50 $]
+** Dealing turn ** [ 10Pik ]
+** Dealing river ** [ AKreuz ]
+** Summary **
+AJIEKCAHgPA shows [ APik, AHerz ]
+pandemick shows [ 7Karo, 7Pik ]
+AJIEKCAHgPA collected [ 1,48 $ ]
+
+
+
+#Game No : 474337976
+***** 888poker Hand History for Game 474337976 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:39:48
+Table Kumi 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,82 $ )
+Seat 2: fabiokfb ( 1,59 $ )
+Seat 4: ParkerKid9 ( 0,67 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,86 $ )
+Seat 9: pokerosen ( 2,46 $ )
+Seat 10: kamenk ( 2,10 $ )
+trixiehorne posts small blind [0,01 $]
+Judas080 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 7Kreuz ]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,04 $]
+ParkerKid9 calls [0,04 $]
+trixiehorne calls [0,03 $]
+Judas080 calls [0,02 $]
+** Dealing flop ** [ 3Karo, QKaro, 9Kreuz ]
+trixiehorne checks
+Judas080 bets [0,05 $]
+fabiokfb folds
+ParkerKid9 raises [0,63 $]
+trixiehorne folds
+Judas080 folds
+** Summary **
+ParkerKid9 collected [ 0,25 $ ]
+
+
+
+#Game No : 474338011
+***** 888poker Hand History for Game 474338011 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:40:45
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,82 $ )
+Seat 2: fabiokfb ( 1,55 $ )
+Seat 3: pandemick ( 0,80 $ )
+Seat 4: ParkerKid9 ( 0,83 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 1,91 $ )
+Seat 7: B2B_Suckouts ( 2,86 $ )
+Seat 9: pokerosen ( 2,46 $ )
+Seat 10: kamenk ( 2,10 $ )
+Judas080 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 4Herz ]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,04 $]
+pandemick folds
+ParkerKid9 folds
+trixiehorne folds
+Judas080 calls [0,03 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 7Herz, QPik, 10Karo ]
+Judas080 checks
+fabiokfb bets [0,08 $]
+Judas080 calls [0,08 $]
+** Dealing turn ** [ 2Pik ]
+Judas080 checks
+fabiokfb checks
+** Dealing river ** [ 4Kreuz ]
+Judas080 checks
+fabiokfb checks
+** Summary **
+Judas080 shows [ 4Pik, 4Karo ]
+fabiokfb mucks [ 7Pik, APik ]
+Judas080 collected [ 0,25 $ ]
+
+
+
+#Game No : 474338046
+***** 888poker Hand History for Game 474338046 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:41:36
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,82 $ )
+Seat 2: fabiokfb ( 1,43 $ )
+Seat 3: pandemick ( 0,80 $ )
+Seat 4: ParkerKid9 ( 0,83 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,04 $ )
+Seat 7: B2B_Suckouts ( 2,84 $ )
+Seat 9: pokerosen ( 2,46 $ )
+Seat 10: kamenk ( 2,10 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 3Herz ]
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb raises [0,10 $]
+pandemick folds
+ParkerKid9 folds
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+pokerosen folds
+** Summary **
+fabiokfb did not show his hand
+fabiokfb collected [ 0,05 $ ]
+
+
+
+#Game No : 474338087
+***** 888poker Hand History for Game 474338087 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:42:25
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,82 $ )
+Seat 2: fabiokfb ( 1,46 $ )
+Seat 3: pandemick ( 0,80 $ )
+Seat 4: ParkerKid9 ( 0,83 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,04 $ )
+Seat 7: B2B_Suckouts ( 2,83 $ )
+Seat 9: pokerosen ( 2,44 $ )
+Seat 10: kamenk ( 2,10 $ )
+pokerosen posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 8Pik ]
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+ParkerKid9 raises [0,08 $]
+trixiehorne folds
+Judas080 calls [0,08 $]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+** Dealing flop ** [ 5Pik, 2Kreuz, JPik ]
+ParkerKid9 bets [0,75 $]
+Judas080 calls [0,75 $]
+** Dealing turn ** [ AHerz ]
+** Dealing river ** [ 8Karo ]
+** Summary **
+ParkerKid9 shows [ JHerz, 10Herz ]
+Judas080 shows [ KKaro, KHerz ]
+Judas080 collected [ 1,59 $ ]
+
+
+
+#Game No : 474338121
+***** 888poker Hand History for Game 474338121 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:43:10
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,82 $ )
+Seat 2: fabiokfb ( 1,46 $ )
+Seat 3: pandemick ( 0,80 $ )
+Seat 4: ParkerKid9 ( 0,80 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,80 $ )
+Seat 7: B2B_Suckouts ( 2,83 $ )
+Seat 9: pokerosen ( 2,43 $ )
+Seat 10: kamenk ( 2,08 $ )
+kamenk posts small blind [0,01 $]
+AJIEKCAHgPA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 2Herz ]
+fabiokfb folds
+pandemick folds
+ParkerKid9 raises [0,07 $]
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA calls [0,05 $]
+** Dealing flop ** [ KKaro, 6Karo, 3Pik ]
+AJIEKCAHgPA checks
+ParkerKid9 bets [0,07 $]
+AJIEKCAHgPA folds
+** Summary **
+ParkerKid9 did not show his hand
+ParkerKid9 collected [ 0,15 $ ]
+
+
+
+#Game No : 474338156
+***** 888poker Hand History for Game 474338156 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:43:51
+Table Kumi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,75 $ )
+Seat 2: fabiokfb ( 1,46 $ )
+Seat 3: pandemick ( 0,80 $ )
+Seat 4: ParkerKid9 ( 0,88 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,80 $ )
+Seat 7: B2B_Suckouts ( 2,83 $ )
+Seat 9: pokerosen ( 2,43 $ )
+Seat 10: kamenk ( 2,07 $ )
+AJIEKCAHgPA posts small blind [0,01 $]
+fabiokfb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, JKreuz ]
+pandemick raises [0,08 $]
+ParkerKid9 folds
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+** Summary **
+pandemick did not show his hand
+pandemick collected [ 0,05 $ ]
+
+
+
+#Game No : 474338187
+***** 888poker Hand History for Game 474338187 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:44:25
+Table Kumi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,74 $ )
+Seat 2: fabiokfb ( 1,44 $ )
+Seat 3: pandemick ( 0,83 $ )
+Seat 4: ParkerKid9 ( 0,88 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,80 $ )
+Seat 7: B2B_Suckouts ( 2,83 $ )
+Seat 9: pokerosen ( 2,43 $ )
+Seat 10: kamenk ( 2,07 $ )
+fabiokfb posts small blind [0,01 $]
+pandemick posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Pik ]
+ParkerKid9 folds
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts raises [0,06 $]
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474338221
+***** 888poker Hand History for Game 474338221 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:44:59
+Table Kumi 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,74 $ )
+Seat 2: fabiokfb ( 1,43 $ )
+Seat 3: pandemick ( 0,81 $ )
+Seat 4: ParkerKid9 ( 0,88 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,80 $ )
+Seat 7: B2B_Suckouts ( 2,86 $ )
+Seat 9: pokerosen ( 2,43 $ )
+Seat 10: kamenk ( 2,07 $ )
+pandemick posts small blind [0,01 $]
+ParkerKid9 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 5Pik ]
+trixiehorne folds
+Judas080 calls [0,02 $]
+B2B_Suckouts folds
+pokerosen folds
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick calls [0,01 $]
+ParkerKid9 checks
+** Dealing flop ** [ 7Pik, 7Kreuz, AKreuz ]
+pandemick checks
+ParkerKid9 checks
+Judas080 checks
+** Dealing turn ** [ KHerz ]
+pandemick checks
+ParkerKid9 checks
+Judas080 bets [0,27 $]
+pandemick folds
+ParkerKid9 folds
+** Summary **
+Judas080 did not show his hand
+Judas080 collected [ 0,06 $ ]
+
+
+
+#Game No : 474338288
+***** 888poker Hand History for Game 474338288 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:46:13
+Table Kumi 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,74 $ )
+Seat 2: fabiokfb ( 1,43 $ )
+Seat 3: pandemick ( 0,79 $ )
+Seat 4: ParkerKid9 ( 0,86 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,84 $ )
+Seat 7: B2B_Suckouts ( 2,86 $ )
+Seat 9: pokerosen ( 2,43 $ )
+Seat 10: kamenk ( 2,07 $ )
+ParkerKid9 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 7Kreuz ]
+Judas080 calls [0,02 $]
+B2B_Suckouts folds
+pokerosen raises [0,06 $]
+kamenk folds
+AJIEKCAHgPA folds
+fabiokfb calls [0,06 $]
+pandemick folds
+ParkerKid9 folds
+trixiehorne folds
+Judas080 calls [0,04 $]
+** Dealing flop ** [ 7Pik, 3Kreuz, QPik ]
+Judas080 checks
+pokerosen bets [0,10 $]
+fabiokfb folds
+Judas080 folds
+** Summary **
+pokerosen did not show his hand
+pokerosen collected [ 0,20 $ ]
+
+
+
+#Game No : 474338322
+***** 888poker Hand History for Game 474338322 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:46:54
+Table Kumi 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: AJIEKCAHgPA ( 2,74 $ )
+Seat 2: fabiokfb ( 1,37 $ )
+Seat 3: pandemick ( 0,79 $ )
+Seat 4: ParkerKid9 ( 0,85 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,78 $ )
+Seat 7: B2B_Suckouts ( 2,86 $ )
+Seat 9: pokerosen ( 2,57 $ )
+trixiehorne posts small blind [0,01 $]
+Judas080 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 6Herz ]
+B2B_Suckouts folds
+pokerosen folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+ParkerKid9 folds
+trixiehorne folds
+** Summary **
+Judas080 collected [ 0,03 $ ]
+
+
+
+#Game No : 474338340
+***** 888poker Hand History for Game 474338340 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:47:14
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 2,74 $ )
+Seat 2: fabiokfb ( 1,37 $ )
+Seat 3: pandemick ( 0,79 $ )
+Seat 4: ParkerKid9 ( 0,85 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,79 $ )
+Seat 7: B2B_Suckouts ( 2,86 $ )
+Seat 9: pokerosen ( 2,57 $ )
+Seat 10: Lascarica87 ( 1,61 $ )
+Judas080 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+Lascarica87 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 10Kreuz ]
+pokerosen folds
+Lascarica87 raises [0,05 $]
+AJIEKCAHgPA raises [0,21 $]
+fabiokfb folds
+pandemick folds
+ParkerKid9 calls [0,21 $]
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+Lascarica87 raises [0,80 $]
+AJIEKCAHgPA raises [2,53 $]
+ParkerKid9 calls [0,64 $]
+Lascarica87 calls [0,74 $]
+** Dealing flop ** [ AHerz, 2Kreuz, 2Karo ]
+** Dealing turn ** [ 3Karo ]
+** Dealing river ** [ 7Karo ]
+** Summary **
+AJIEKCAHgPA shows [ AKreuz, QKaro ]
+ParkerKid9 shows [ 10Pik, QPik ]
+Lascarica87 shows [ KHerz, JPik ]
+AJIEKCAHgPA collected [ 2,42 $ ]
+AJIEKCAHgPA collected [ 1,43 $ ]
+
+
+
+#Game No : 474338385
+***** 888poker Hand History for Game 474338385 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:48:15
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,98 $ )
+Seat 2: fabiokfb ( 1,37 $ )
+Seat 3: pandemick ( 0,79 $ )
+Seat 4: ParkerKid9 ( 0,80 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,78 $ )
+Seat 7: B2B_Suckouts ( 2,84 $ )
+Seat 9: pokerosen ( 2,57 $ )
+Seat 10: Lascarica87 ( 0,80 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 6Karo ]
+Lascarica87 folds
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick calls [0,02 $]
+ParkerKid9 raises [0,09 $]
+trixiehorne folds
+Judas080 calls [0,09 $]
+B2B_Suckouts folds
+pokerosen folds
+pandemick folds
+** Dealing flop ** [ 9Pik, 3Herz, QKaro ]
+ParkerKid9 checks
+Judas080 checks
+** Dealing turn ** [ 8Herz ]
+ParkerKid9 bets [0,71 $]
+Judas080 calls [0,71 $]
+** Dealing river ** [ 4Kreuz ]
+** Summary **
+ParkerKid9 shows [ QKreuz, APik ]
+Judas080 shows [ QPik, JHerz ]
+ParkerKid9 collected [ 1,55 $ ]
+
+
+
+#Game No : 474338483
+***** 888poker Hand History for Game 474338483 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:50:11
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,98 $ )
+Seat 2: fabiokfb ( 1,37 $ )
+Seat 3: pandemick ( 0,77 $ )
+Seat 4: ParkerKid9 ( 1,55 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 1,98 $ )
+Seat 7: B2B_Suckouts ( 2,83 $ )
+Seat 9: pokerosen ( 2,55 $ )
+Seat 10: Lascarica87 ( 0,80 $ )
+pokerosen posts small blind [0,01 $]
+Lascarica87 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 2Karo ]
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+ParkerKid9 calls [0,02 $]
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+pokerosen calls [0,01 $]
+Lascarica87 checks
+** Dealing flop ** [ AHerz, JHerz, QKreuz ]
+pokerosen checks
+Lascarica87 checks
+ParkerKid9 bets [0,04 $]
+pokerosen folds
+Lascarica87 calls [0,04 $]
+** Dealing turn ** [ 9Kreuz ]
+Lascarica87 checks
+ParkerKid9 checks
+** Dealing river ** [ KPik ]
+Lascarica87 checks
+ParkerKid9 checks
+** Summary **
+Lascarica87 shows [ 3Karo, JPik ]
+ParkerKid9 shows [ 8Herz, APik ]
+ParkerKid9 collected [ 0,14 $ ]
+
+
+
+#Game No : 474338534
+***** 888poker Hand History for Game 474338534 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:51:12
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,98 $ )
+Seat 2: fabiokfb ( 1,37 $ )
+Seat 3: pandemick ( 0,77 $ )
+Seat 4: ParkerKid9 ( 1,63 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 1,98 $ )
+Seat 7: B2B_Suckouts ( 2,83 $ )
+Seat 9: pokerosen ( 2,53 $ )
+Seat 10: Lascarica87 ( 0,80 $ )
+Lascarica87 posts small blind [0,01 $]
+AJIEKCAHgPA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, QHerz ]
+fabiokfb raises [0,06 $]
+pandemick folds
+ParkerKid9 folds
+trixiehorne calls [0,06 $]
+Judas080 folds
+B2B_Suckouts folds
+pokerosen folds
+Lascarica87 raises [0,25 $]
+AJIEKCAHgPA folds
+fabiokfb folds
+trixiehorne folds
+** Summary **
+Lascarica87 did not show his hand
+Lascarica87 collected [ 0,20 $ ]
+
+
+
+#Game No : 474338566
+***** 888poker Hand History for Game 474338566 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:51:45
+Table Kumi 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,96 $ )
+Seat 2: fabiokfb ( 1,31 $ )
+Seat 3: pandemick ( 0,77 $ )
+Seat 4: ParkerKid9 ( 1,63 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 1,98 $ )
+Seat 7: B2B_Suckouts ( 2,83 $ )
+Seat 9: pokerosen ( 2,53 $ )
+Seat 10: Lascarica87 ( 0,94 $ )
+AJIEKCAHgPA posts small blind [0,01 $]
+fabiokfb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, JPik ]
+pandemick folds
+ParkerKid9 folds
+trixiehorne folds
+Judas080 calls [0,02 $]
+B2B_Suckouts folds
+pokerosen calls [0,02 $]
+Lascarica87 calls [0,02 $]
+AJIEKCAHgPA folds
+fabiokfb checks
+** Dealing flop ** [ 10Karo, 6Kreuz, 8Herz ]
+fabiokfb checks
+Judas080 bets [0,10 $]
+pokerosen folds
+Lascarica87 folds
+fabiokfb folds
+** Summary **
+Judas080 did not show his hand
+Judas080 collected [ 0,09 $ ]
+
+
+
+#Game No : 474338609
+***** 888poker Hand History for Game 474338609 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:52:34
+Table Kumi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,95 $ )
+Seat 2: fabiokfb ( 1,29 $ )
+Seat 3: pandemick ( 0,77 $ )
+Seat 4: ParkerKid9 ( 1,63 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,05 $ )
+Seat 7: B2B_Suckouts ( 2,83 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: Lascarica87 ( 0,92 $ )
+fabiokfb posts small blind [0,01 $]
+pandemick posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 10Pik ]
+ParkerKid9 folds
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts raises [0,06 $]
+pokerosen folds
+Lascarica87 calls [0,06 $]
+AJIEKCAHgPA raises [0,24 $]
+fabiokfb folds
+pandemick folds
+B2B_Suckouts folds
+Lascarica87 calls [0,18 $]
+** Dealing flop ** [ QHerz, 4Herz, 7Kreuz ]
+Lascarica87 bets [0,08 $]
+AJIEKCAHgPA calls [0,08 $]
+** Dealing turn ** [ 4Karo ]
+Lascarica87 bets [0,12 $]
+AJIEKCAHgPA calls [0,12 $]
+** Dealing river ** [ 5Kreuz ]
+Lascarica87 bets [0,24 $]
+AJIEKCAHgPA folds
+** Summary **
+Lascarica87 collected [ 0,91 $ ]
+
+
+
+#Game No : 474338688
+***** 888poker Hand History for Game 474338688 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:54:01
+Table Kumi 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,51 $ )
+Seat 2: fabiokfb ( 1,28 $ )
+Seat 3: pandemick ( 0,75 $ )
+Seat 4: SevenThousan ( 2 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,05 $ )
+Seat 7: B2B_Suckouts ( 2,77 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: Lascarica87 ( 1,39 $ )
+pandemick posts small blind [0,01 $]
+SevenThousan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 3Kreuz ]
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+pokerosen folds
+Lascarica87 calls [0,02 $]
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+SevenThousan checks
+** Dealing flop ** [ 10Pik, 4Karo, 2Pik ]
+SevenThousan checks
+Lascarica87 checks
+** Dealing turn ** [ AHerz ]
+SevenThousan checks
+Lascarica87 checks
+** Dealing river ** [ 6Pik ]
+SevenThousan checks
+Lascarica87 bets [0,05 $]
+SevenThousan folds
+** Summary **
+Lascarica87 did not show his hand
+Lascarica87 collected [ 0,05 $ ]
+
+
+
+#Game No : 474338720
+***** 888poker Hand History for Game 474338720 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:54:37
+Table Kumi 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,51 $ )
+Seat 2: fabiokfb ( 1,28 $ )
+Seat 3: pandemick ( 0,74 $ )
+Seat 4: SevenThousan ( 2 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,05 $ )
+Seat 7: B2B_Suckouts ( 2,77 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: Lascarica87 ( 1,42 $ )
+SevenThousan posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 2Herz ]
+Judas080 folds
+B2B_Suckouts folds
+pokerosen folds
+Lascarica87 raises [1,42 $]
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+SevenThousan raises [1,99 $]
+trixiehorne folds
+** Dealing flop ** [ QKreuz, 7Karo, QPik ]
+** Dealing turn ** [ 5Herz ]
+** Dealing river ** [ 10Herz ]
+** Summary **
+SevenThousan shows [ APik, KHerz ]
+Lascarica87 shows [ 9Pik, QHerz ]
+Lascarica87 collected [ 2,69 $ ]
+
+
+
+#Game No : 474338759
+***** 888poker Hand History for Game 474338759 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:55:15
+Table Kumi 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,51 $ )
+Seat 2: fabiokfb ( 1,28 $ )
+Seat 3: pandemick ( 0,74 $ )
+Seat 4: SevenThousan ( 2 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,05 $ )
+Seat 7: B2B_Suckouts ( 2,77 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: Lascarica87 ( 2,69 $ )
+trixiehorne posts small blind [0,01 $]
+Judas080 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, QPik ]
+B2B_Suckouts folds
+pokerosen folds
+Lascarica87 raises [2,69 $]
+AJIEKCAHgPA raises [4,51 $]
+fabiokfb calls [1,28 $]
+pandemick folds
+SevenThousan folds
+trixiehorne folds
+Judas080 folds
+** Dealing flop ** [ APik, 8Karo, KKaro ]
+** Dealing turn ** [ 8Herz ]
+** Dealing river ** [ 9Karo ]
+** Summary **
+AJIEKCAHgPA shows [ QKaro, QKreuz ]
+fabiokfb shows [ AHerz, AKreuz ]
+Lascarica87 shows [ 2Karo, 10Pik ]
+fabiokfb collected [ 3,63 $ ]
+AJIEKCAHgPA collected [ 2,65 $ ]
+
+
+
+#Game No : 474338796
+***** 888poker Hand History for Game 474338796 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:55:53
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,47 $ )
+Seat 2: fabiokfb ( 3,63 $ )
+Seat 3: pandemick ( 0,74 $ )
+Seat 4: SevenThousan ( 2 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,03 $ )
+Seat 7: B2B_Suckouts ( 2,77 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: Lascarica87 ( 0,80 $ )
+Judas080 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, JHerz ]
+pokerosen folds
+Lascarica87 raises [0,80 $]
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick calls [0,74 $]
+SevenThousan folds
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+** Dealing flop ** [ 9Pik, 9Karo, 4Karo ]
+** Dealing turn ** [ 10Kreuz ]
+** Dealing river ** [ 9Kreuz ]
+** Summary **
+pandemick shows [ JKaro, AKreuz ]
+Lascarica87 shows [ KHerz, JKreuz ]
+pandemick collected [ 1,42 $ ]
+
+
+
+#Game No : 474338821
+***** 888poker Hand History for Game 474338821 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:56:28
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,47 $ )
+Seat 2: fabiokfb ( 3,63 $ )
+Seat 3: pandemick ( 1,42 $ )
+Seat 4: SevenThousan ( 2 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,02 $ )
+Seat 7: B2B_Suckouts ( 2,75 $ )
+Seat 9: pokerosen ( 2,51 $ )
+Seat 10: Lascarica87 ( 0,80 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 8Karo ]
+Lascarica87 raises [0,80 $]
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+SevenThousan folds
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+pokerosen folds
+** Summary **
+Lascarica87 did not show his hand
+Lascarica87 collected [ 0,05 $ ]
+
+
+
+#Game No : 474338839
+***** 888poker Hand History for Game 474338839 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:56:49
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,47 $ )
+Seat 2: fabiokfb ( 3,63 $ )
+Seat 3: pandemick ( 1,42 $ )
+Seat 4: SevenThousan ( 2 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,02 $ )
+Seat 7: B2B_Suckouts ( 2,74 $ )
+Seat 9: pokerosen ( 2,49 $ )
+Seat 10: Lascarica87 ( 0,83 $ )
+pokerosen posts small blind [0,01 $]
+Lascarica87 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 7Karo ]
+AJIEKCAHgPA folds
+fabiokfb folds
+pandemick folds
+SevenThousan folds
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+pokerosen folds
+** Summary **
+Lascarica87 did not show his hand
+Lascarica87 collected [ 0,03 $ ]
+
+
+
+#Game No : 474338856
+***** 888poker Hand History for Game 474338856 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:57:06
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: AJIEKCAHgPA ( 4,47 $ )
+Seat 2: fabiokfb ( 3,63 $ )
+Seat 3: pandemick ( 1,42 $ )
+Seat 4: SevenThousan ( 2 $ )
+Seat 5: trixiehorne ( 2 $ )
+Seat 6: Judas080 ( 2,02 $ )
+Seat 7: B2B_Suckouts ( 2,74 $ )
+Seat 9: pokerosen ( 2,48 $ )
+Seat 10: Lascarica87 ( 0,84 $ )
+Lascarica87 posts small blind [0,01 $]
+AJIEKCAHgPA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 7Karo ]
+fabiokfb folds
+pandemick calls [0,02 $]
+SevenThousan folds
+trixiehorne raises [0,10 $]
+Judas080 folds
+B2B_Suckouts folds
+pokerosen folds
+Lascarica87 raises [0,83 $]
+AJIEKCAHgPA folds
+pandemick folds
+trixiehorne calls [0,74 $]
+** Dealing flop ** [ 8Karo, 2Kreuz, 7Pik ]
+** Dealing turn ** [ 5Kreuz ]
+** Dealing river ** [ 10Karo ]
+** Summary **
+trixiehorne shows [ KHerz, AKaro ]
+Lascarica87 shows [ APik, 6Pik ]
+trixiehorne collected [ 1,62 $ ]
+
+
+
+#Game No : 474338898
+***** 888poker Hand History for Game 474338898 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:57:56
+Table Kumi 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 4,45 $ )
+Seat 3: pandemick ( 1,40 $ )
+Seat 4: SevenThousan ( 2 $ )
+Seat 5: trixiehorne ( 2,78 $ )
+Seat 6: Judas080 ( 2,02 $ )
+Seat 7: B2B_Suckouts ( 2,74 $ )
+Seat 9: pokerosen ( 2,48 $ )
+pandemick posts small blind [0,01 $]
+SevenThousan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 10Herz ]
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+pokerosen folds
+AJIEKCAHgPA folds
+pandemick folds
+** Summary **
+SevenThousan collected [ 0,03 $ ]
+
+
+
+#Game No : 474338907
+***** 888poker Hand History for Game 474338907 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:58:07
+Table Kumi 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: AJIEKCAHgPA ( 4,45 $ )
+Seat 4: SevenThousan ( 2,01 $ )
+Seat 5: trixiehorne ( 2,78 $ )
+Seat 6: Judas080 ( 2,02 $ )
+Seat 7: B2B_Suckouts ( 2,74 $ )
+Seat 9: pokerosen ( 2,48 $ )
+trixiehorne posts small blind [0,01 $]
+Judas080 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 7Herz ]
+B2B_Suckouts folds
+pokerosen folds
+AJIEKCAHgPA raises [0,05 $]
+SevenThousan folds
+trixiehorne folds
+Judas080 calls [0,03 $]
+** Dealing flop ** [ 2Karo, 2Herz, AKreuz ]
+Judas080 checks
+AJIEKCAHgPA bets [0,07 $]
+Judas080 folds
+** Summary **
+AJIEKCAHgPA collected [ 0,11 $ ]
+
+
+
+#Game No : 474338937
+***** 888poker Hand History for Game 474338937 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:58:43
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 4,51 $ )
+Seat 3: pandemick ( 1,39 $ )
+Seat 4: SevenThousan ( 2,01 $ )
+Seat 5: trixiehorne ( 2,77 $ )
+Seat 6: Judas080 ( 1,97 $ )
+Seat 7: B2B_Suckouts ( 2,74 $ )
+Seat 9: pokerosen ( 2,48 $ )
+Judas080 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 2Pik ]
+pokerosen folds
+AJIEKCAHgPA folds
+pandemick calls [0,02 $]
+SevenThousan folds
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 5Kreuz, 3Herz, JPik ]
+B2B_Suckouts checks
+pandemick bets [0,10 $]
+B2B_Suckouts folds
+** Summary **
+pandemick collected [ 0,05 $ ]
+
+
+
+#Game No : 474338991
+***** 888poker Hand History for Game 474338991 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 20:59:38
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: AJIEKCAHgPA ( 4,51 $ )
+Seat 3: pandemick ( 1,42 $ )
+Seat 4: SevenThousan ( 2,01 $ )
+Seat 5: trixiehorne ( 2,77 $ )
+Seat 6: Judas080 ( 1,96 $ )
+Seat 7: B2B_Suckouts ( 2,72 $ )
+Seat 9: pokerosen ( 2,48 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 5Karo ]
+AJIEKCAHgPA folds
+pandemick calls [0,02 $]
+SevenThousan folds
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+pokerosen checks
+** Dealing flop ** [ 10Pik, 10Herz, QKaro ]
+pokerosen checks
+pandemick bets [0,02 $]
+pokerosen folds
+** Summary **
+pandemick collected [ 0,05 $ ]
+
+
+
+#Game No : 474339015
+***** 888poker Hand History for Game 474339015 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:00:12
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 2: burgerpantz ( 0,80 $ )
+Seat 3: pandemick ( 1,45 $ )
+Seat 5: trixiehorne ( 2,77 $ )
+Seat 6: Judas080 ( 1,96 $ )
+Seat 7: B2B_Suckouts ( 2,71 $ )
+Seat 9: pokerosen ( 2,46 $ )
+pokerosen posts small blind [0,01 $]
+burgerpantz posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 4Kreuz ]
+pandemick folds
+trixiehorne folds
+Judas080 folds
+B2B_Suckouts folds
+pokerosen raises [0,06 $]
+burgerpantz raises [0,19 $]
+pokerosen folds
+** Summary **
+burgerpantz did not show his hand
+burgerpantz collected [ 0,14 $ ]
+
+
+
+#Game No : 474339043
+***** 888poker Hand History for Game 474339043 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:00:42
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 4
+Seat 2: burgerpantz ( 0,87 $ )
+Seat 6: Judas080 ( 1,96 $ )
+Seat 7: B2B_Suckouts ( 2,71 $ )
+Seat 9: pokerosen ( 2,39 $ )
+burgerpantz posts small blind [0,01 $]
+Judas080 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, QPik ]
+B2B_Suckouts calls [0,02 $]
+pokerosen folds
+burgerpantz folds
+Judas080 checks
+** Dealing flop ** [ 10Pik, KKaro, JPik ]
+Judas080 checks
+B2B_Suckouts bets [0,02 $]
+Judas080 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474339085
+***** 888poker Hand History for Game 474339085 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:01:21
+Table Kumi 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 2: burgerpantz ( 0,86 $ )
+Seat 6: Judas080 ( 1,94 $ )
+Seat 7: B2B_Suckouts ( 2,74 $ )
+Seat 9: pokerosen ( 2,39 $ )
+Judas080 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, JHerz ]
+pokerosen folds
+burgerpantz folds
+Judas080 calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+Judas080 folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 474339099
+***** 888poker Hand History for Game 474339099 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:01:42
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 2: burgerpantz ( 0,86 $ )
+Seat 6: Judas080 ( 1,92 $ )
+Seat 7: B2B_Suckouts ( 2,76 $ )
+Seat 9: pokerosen ( 2,39 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 3Pik ]
+burgerpantz folds
+Judas080 calls [0,02 $]
+B2B_Suckouts folds
+pokerosen checks
+** Dealing flop ** [ 8Karo, 8Herz, 5Pik ]
+pokerosen checks
+Judas080 bets [0,09 $]
+pokerosen folds
+** Summary **
+Judas080 collected [ 0,05 $ ]
+
+
+
+#Game No : 474339129
+***** 888poker Hand History for Game 474339129 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:02:06
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 4
+Seat 2: burgerpantz ( 0,86 $ )
+Seat 6: Judas080 ( 1,95 $ )
+Seat 7: B2B_Suckouts ( 2,75 $ )
+Seat 9: pokerosen ( 2,37 $ )
+pokerosen posts small blind [0,01 $]
+burgerpantz folds
+Judas080 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, KHerz ]
+B2B_Suckouts raises [0,06 $]
+pokerosen folds
+Judas080 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474339142
+***** 888poker Hand History for Game 474339142 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:02:19
+Table Kumi 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 3
+Seat 6: Judas080 ( 1,93 $ )
+Seat 7: B2B_Suckouts ( 2,78 $ )
+Seat 9: pokerosen ( 2,36 $ )
+Judas080 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 6Kreuz ]
+pokerosen folds
+Judas080 folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474339152
+***** 888poker Hand History for Game 474339152 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:02:26
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 7: B2B_Suckouts ( 2,79 $ )
+Seat 9: pokerosen ( 2,36 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pokerosen folds
+** Summary **
+B2B_Suckouts collected [ 0,01 $ ]
+
+
+
+#Game No : 474339153
+***** 888poker Hand History for Game 474339153 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:02:30
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Judas080 ( 1,92 $ )
+Seat 7: B2B_Suckouts ( 2,79 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Judas080 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 3Pik ]
+B2B_Suckouts raises [0,03 $]
+Judas080 folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 474339164
+***** 888poker Hand History for Game 474339164 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:02:37
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Judas080 ( 1,90 $ )
+Seat 7: B2B_Suckouts ( 2,81 $ )
+Judas080 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, AHerz ]
+Judas080 folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474339172
+***** 888poker Hand History for Game 474339172 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:02:47
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Judas080 ( 1,89 $ )
+Seat 7: B2B_Suckouts ( 2,82 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Judas080 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, KPik ]
+B2B_Suckouts calls [0,01 $]
+Judas080 checks
+** Dealing flop ** [ JKaro, 9Karo, 4Herz ]
+Judas080 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 5Karo ]
+Judas080 checks
+B2B_Suckouts bets [0,02 $]
+Judas080 folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 474339206
+***** 888poker Hand History for Game 474339206 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:03:22
+Table Kumi 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 2
+Seat 6: Judas080 ( 1,87 $ )
+Seat 7: B2B_Suckouts ( 2,84 $ )
+Judas080 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 3Kreuz ]
+Judas080 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 10Kreuz, 10Herz, 7Kreuz ]
+B2B_Suckouts bets [0,02 $]
+Judas080 raises [0,08 $]
+B2B_Suckouts folds
+** Summary **
+Judas080 collected [ 0,08 $ ]
+
+
+
+#Game No : 474339229
+***** 888poker Hand History for Game 474339229 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:03:49
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 6: Judas080 ( 1,91 $ )
+Seat 7: B2B_Suckouts ( 2,80 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Judas080 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 10Herz ]
+B2B_Suckouts raises [0,03 $]
+Judas080 folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 474339238
+***** 888poker Hand History for Game 474339238 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:04:01
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: BeFiWerth ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,82 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BeFiWerth posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 2Pik ]
+B2B_Suckouts folds
+** Summary **
+BeFiWerth collected [ 0,03 $ ]
+
+
+
+#Game No : 474339245
+***** 888poker Hand History for Game 474339245 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:04:07
+Table Kumi 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 2
+Seat 5: BeFiWerth ( 2,01 $ )
+Seat 7: B2B_Suckouts ( 2,81 $ )
+BeFiWerth posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 8Herz ]
+BeFiWerth folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474339251
+***** 888poker Hand History for Game 474339251 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:04:15
+Table Kumi 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 2
+Seat 5: BeFiWerth ( 2 $ )
+Seat 7: B2B_Suckouts ( 2,82 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BeFiWerth posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 4Kreuz ]
+B2B_Suckouts folds
+** Summary **
+BeFiWerth collected [ 0,03 $ ]
+
+
+
