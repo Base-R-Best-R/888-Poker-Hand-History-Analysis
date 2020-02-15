@@ -1,0 +1,397 @@
+#Game No : 512810968
+***** 888poker Hand History for Game 512810968 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 16:30:49
+Table Ravenna 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( $2 )
+Seat 2: bumbarach15 ( $1 )
+Seat 3: EBIN123 ( $3.03 )
+Seat 4: woggan ( $1.31 )
+Seat 5: mihail7100 ( $2.20 )
+Seat 6: Vladimir_Pv ( $0.77 )
+Seat 7: newmarch14 ( $2.07 )
+Seat 9: NoIgLeo ( $1.93 )
+Seat 10: 1gadfly1 ( $2.55 )
+1gadfly1 posts small blind [$0.01]
+B2B_Suckouts posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Qs, Tc ]
+bumbarach15 folds
+EBIN123 folds
+woggan calls [$0.02]
+mihail7100 folds
+Vladimir_Pv folds
+newmarch14 calls [$0.02]
+NoIgLeo folds
+1gadfly1 folds
+B2B_Suckouts checks
+** Dealing flop ** [ As, Jd, Qd ]
+B2B_Suckouts checks
+woggan checks
+newmarch14 checks
+** Dealing turn ** [ Td ]
+B2B_Suckouts bets [$0.02]
+woggan raises [$0.04]
+newmarch14 folds
+B2B_Suckouts raises [$0.04]
+woggan calls [$0.02]
+** Dealing river ** [ 9d ]
+B2B_Suckouts bets [$0.02]
+woggan calls [$0.02]
+** Summary **
+B2B_Suckouts shows [ Qs, Tc ]
+woggan shows [ 2d, Ac ]
+woggan collected [ $0.22 ]
+
+
+
+#Game No : 512811033
+***** 888poker Hand History for Game 512811033 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 16:32:05
+Table Ravenna 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( $1.90 )
+Seat 2: bumbarach15 ( $1 )
+Seat 3: EBIN123 ( $3.03 )
+Seat 4: woggan ( $1.43 )
+Seat 5: mihail7100 ( $2.20 )
+Seat 6: Vladimir_Pv ( $0.77 )
+Seat 7: newmarch14 ( $2.05 )
+Seat 9: NoIgLeo ( $1.93 )
+Seat 10: 1gadfly1 ( $2.54 )
+B2B_Suckouts posts small blind [$0.01]
+bumbarach15 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7c, Ks ]
+EBIN123 raises [$0.07]
+woggan folds
+mihail7100 calls [$0.07]
+Vladimir_Pv folds
+newmarch14 folds
+NoIgLeo folds
+1gadfly1 folds
+B2B_Suckouts folds
+bumbarach15 folds
+** Dealing flop ** [ 3c, Ac, 6d ]
+EBIN123 bets [$0.11]
+mihail7100 folds
+** Summary **
+EBIN123 did not show his hand
+EBIN123 collected [ $0.16 ]
+
+
+
+#Game No : 512811075
+***** 888poker Hand History for Game 512811075 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 16:32:56
+Table Ravenna 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( $1.89 )
+Seat 2: bumbarach15 ( $1 )
+Seat 3: EBIN123 ( $3.12 )
+Seat 4: woggan ( $1.43 )
+Seat 5: mihail7100 ( $2.13 )
+Seat 6: Vladimir_Pv ( $0.77 )
+Seat 7: newmarch14 ( $2.05 )
+Seat 9: NoIgLeo ( $1.93 )
+Seat 10: 1gadfly1 ( $2.54 )
+bumbarach15 posts small blind [$0.01]
+EBIN123 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6s, 9s ]
+woggan folds
+mihail7100 folds
+Vladimir_Pv folds
+newmarch14 folds
+NoIgLeo folds
+1gadfly1 folds
+B2B_Suckouts calls [$0.02]
+bumbarach15 folds
+EBIN123 checks
+** Dealing flop ** [ 8d, 6h, 2s ]
+EBIN123 checks
+B2B_Suckouts bets [$0.02]
+EBIN123 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ $0.05 ]
+
+
+
+#Game No : 512811107
+***** 888poker Hand History for Game 512811107 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 16:33:31
+Table Ravenna 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( $1.92 )
+Seat 2: bumbarach15 ( $1 )
+Seat 3: EBIN123 ( $3.10 )
+Seat 4: woggan ( $1.43 )
+Seat 5: mihail7100 ( $2.13 )
+Seat 6: Vladimir_Pv ( $0.77 )
+Seat 7: newmarch14 ( $2.05 )
+Seat 9: NoIgLeo ( $1.93 )
+Seat 10: 1gadfly1 ( $2.54 )
+EBIN123 posts small blind [$0.01]
+woggan posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Th, 7d ]
+mihail7100 folds
+Vladimir_Pv folds
+newmarch14 folds
+NoIgLeo folds
+1gadfly1 folds
+B2B_Suckouts folds
+bumbarach15 folds
+EBIN123 folds
+** Summary **
+woggan did not show his hand
+woggan collected [ $0.03 ]
+
+
+
+#Game No : 512811136
+***** 888poker Hand History for Game 512811136 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 16:34:01
+Table Ravenna 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( $1.92 )
+Seat 2: bumbarach15 ( $1 )
+Seat 3: EBIN123 ( $3.09 )
+Seat 4: woggan ( $1.44 )
+Seat 5: mihail7100 ( $2.13 )
+Seat 6: Vladimir_Pv ( $0.77 )
+Seat 7: newmarch14 ( $2.05 )
+Seat 9: NoIgLeo ( $1.93 )
+Seat 10: 1gadfly1 ( $2.54 )
+woggan posts small blind [$0.01]
+mihail7100 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7d, Ah ]
+Vladimir_Pv folds
+newmarch14 folds
+NoIgLeo folds
+1gadfly1 folds
+B2B_Suckouts raises [$0.04]
+bumbarach15 folds
+EBIN123 folds
+woggan calls [$0.03]
+mihail7100 folds
+** Dealing flop ** [ 6h, 4c, 5s ]
+woggan bets [$0.02]
+B2B_Suckouts calls [$0.02]
+** Dealing turn ** [ As ]
+woggan bets [$0.02]
+B2B_Suckouts raises [$0.04]
+woggan calls [$0.02]
+** Dealing river ** [ Kc ]
+woggan checks
+B2B_Suckouts bets [$0.06]
+woggan calls [$0.06]
+** Summary **
+B2B_Suckouts shows [ 7d, Ah ]
+woggan mucks [ Qh, Qs ]
+B2B_Suckouts collected [ $0.32 ]
+
+
+
+#Game No : 512811204
+***** 888poker Hand History for Game 512811204 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 16:35:05
+Table Ravenna 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( $2.08 )
+Seat 2: bumbarach15 ( $1 )
+Seat 3: EBIN123 ( $3.09 )
+Seat 4: woggan ( $1.28 )
+Seat 5: mihail7100 ( $2.11 )
+Seat 6: TESORO2512 ( $2 )
+Seat 7: newmarch14 ( $2.05 )
+Seat 9: NoIgLeo ( $1.93 )
+Seat 10: 1gadfly1 ( $2.54 )
+mihail7100 posts small blind [$0.01]
+TESORO2512 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Kc, 7d ]
+newmarch14 folds
+NoIgLeo calls [$0.02]
+1gadfly1 folds
+B2B_Suckouts calls [$0.02]
+bumbarach15 raises [$0.06]
+EBIN123 calls [$0.06]
+woggan calls [$0.06]
+mihail7100 folds
+TESORO2512 folds
+NoIgLeo calls [$0.04]
+B2B_Suckouts calls [$0.04]
+** Dealing flop ** [ Tc, 5h, 2s ]
+NoIgLeo checks
+B2B_Suckouts checks
+bumbarach15 checks
+EBIN123 checks
+woggan bets [$0.02]
+NoIgLeo calls [$0.02]
+B2B_Suckouts calls [$0.02]
+bumbarach15 calls [$0.02]
+EBIN123 folds
+** Dealing turn ** [ 8d ]
+NoIgLeo checks
+B2B_Suckouts checks
+bumbarach15 checks
+woggan bets [$0.27]
+NoIgLeo folds
+B2B_Suckouts folds
+bumbarach15 folds
+** Summary **
+woggan did not show his hand
+woggan collected [ $0.39 ]
+
+
+
+#Game No : 512811305
+***** 888poker Hand History for Game 512811305 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 16:36:55
+Table Ravenna 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( $2 )
+Seat 2: bumbarach15 ( $1 )
+Seat 3: EBIN123 ( $3.03 )
+Seat 4: woggan ( $1.59 )
+Seat 5: mihail7100 ( $2.10 )
+Seat 6: TESORO2512 ( $2 )
+Seat 7: newmarch14 ( $2.05 )
+Seat 9: NoIgLeo ( $1.85 )
+Seat 10: 1gadfly1 ( $2.54 )
+TESORO2512 posts small blind [$0.01]
+newmarch14 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9h, Qs ]
+NoIgLeo calls [$0.02]
+1gadfly1 folds
+B2B_Suckouts calls [$0.02]
+bumbarach15 folds
+EBIN123 folds
+woggan folds
+mihail7100 folds
+TESORO2512 folds
+newmarch14 checks
+** Dealing flop ** [ Ac, 7h, 3s ]
+newmarch14 checks
+NoIgLeo checks
+B2B_Suckouts checks
+** Dealing turn ** [ Qc ]
+newmarch14 checks
+NoIgLeo bets [$0.02]
+B2B_Suckouts calls [$0.02]
+newmarch14 calls [$0.02]
+** Dealing river ** [ Td ]
+newmarch14 checks
+NoIgLeo bets [$0.17]
+B2B_Suckouts folds
+newmarch14 folds
+** Summary **
+NoIgLeo did not show his hand
+NoIgLeo collected [ $0.13 ]
+
+
+
+#Game No : 512811380
+***** 888poker Hand History for Game 512811380 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 16:38:16
+Table Ravenna 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( $1.96 )
+Seat 2: bumbarach15 ( $1 )
+Seat 3: EBIN123 ( $3.03 )
+Seat 4: woggan ( $1.59 )
+Seat 5: mihail7100 ( $2.10 )
+Seat 6: TESORO2512 ( $2 )
+Seat 7: newmarch14 ( $2.01 )
+Seat 9: NoIgLeo ( $1.94 )
+Seat 10: 1gadfly1 ( $2.54 )
+newmarch14 posts small blind [$0.01]
+NoIgLeo posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9h, 9s ]
+1gadfly1 folds
+B2B_Suckouts calls [$0.02]
+bumbarach15 folds
+EBIN123 folds
+woggan calls [$0.02]
+mihail7100 folds
+TESORO2512 folds
+newmarch14 folds
+NoIgLeo raises [$0.07]
+B2B_Suckouts folds
+woggan calls [$0.07]
+** Dealing flop ** [ As, Jc, Jd ]
+NoIgLeo bets [$0.10]
+woggan calls [$0.10]
+** Dealing turn ** [ Qh ]
+NoIgLeo checks
+woggan bets [$0.27]
+NoIgLeo calls [$0.27]
+** Dealing river ** [ 4h ]
+NoIgLeo checks
+woggan checks
+** Summary **
+NoIgLeo shows [ Ah, Kc ]
+woggan mucks [ Qs, Kd ]
+NoIgLeo collected [ $0.90 ]
+
+
+
+#Game No : 512811458
+***** 888poker Hand History for Game 512811458 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 27 01 2019 16:39:53
+Table Ravenna 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( $1.94 )
+Seat 2: bumbarach15 ( $1 )
+Seat 3: EBIN123 ( $3.03 )
+Seat 4: woggan ( $1.13 )
+Seat 5: mihail7100 ( $2.10 )
+Seat 6: TESORO2512 ( $2 )
+Seat 7: newmarch14 ( $2 )
+Seat 9: NoIgLeo ( $2.38 )
+Seat 10: 1gadfly1 ( $2.54 )
+NoIgLeo posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Kd, Ac ]
+B2B_Suckouts calls [$0.02]
+bumbarach15 raises [$0.08]
+EBIN123 folds
+woggan folds
+mihail7100 folds
+TESORO2512 folds
+newmarch14 folds
+NoIgLeo folds
+1gadfly1 folds
+B2B_Suckouts calls [$0.06]
+** Dealing flop ** [ 4h, Kc, Qc ]
+B2B_Suckouts bets [$0.04]
+bumbarach15 raises [$0.12]
+B2B_Suckouts calls [$0.08]
+** Dealing turn ** [ 2s ]
+B2B_Suckouts checks
+bumbarach15 bets [$0.21]
+B2B_Suckouts calls [$0.21]
+** Dealing river ** [ 6h ]
+B2B_Suckouts bets [$1.53]
+bumbarach15 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ $0.80 ]
+
+
+
