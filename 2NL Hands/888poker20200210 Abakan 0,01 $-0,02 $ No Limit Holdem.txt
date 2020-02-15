@@ -1,0 +1,1471 @@
+#Game No : 1331026309
+***** 888poker Hand History for Game 1331026309 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 18:54:42
+Table Abakan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: overcranky ( 3,09 $ )
+Seat 2: JPepss ( 0,75 $ )
+Seat 3: BlueChipMD01 ( 2,66 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: IIIpil ( 1,65 $ )
+Seat 6: Zamglai ( 2 $ )
+Seat 7: 1gadfly1 ( 2,33 $ )
+Seat 9: ellen279 ( 0,71 $ )
+Seat 10: NL_OP ( 3,31 $ )
+BlueChipMD01 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 8Pik ]
+IIIpil folds
+Zamglai folds
+1gadfly1 folds
+ellen279 folds
+NL_OP folds
+overcranky folds
+JPepss folds
+BlueChipMD01 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 4Herz, 7Kreuz, 4Karo ]
+BlueChipMD01 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ 6Herz ]
+BlueChipMD01 checks
+B2B_Suckouts bets [0,04 $]
+BlueChipMD01 calls [0,04 $]
+** Dealing river ** [ APik ]
+BlueChipMD01 checks
+B2B_Suckouts bets [0,16 $]
+BlueChipMD01 calls [0,16 $]
+** Summary **
+B2B_Suckouts shows [ KPik, 8Pik ]
+BlueChipMD01 shows [ QKaro, 7Karo ]
+BlueChipMD01 collected [ 0,45 $ ]
+
+
+
+#Game No : 1331026650
+***** 888poker Hand History for Game 1331026650 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 18:56:08
+Table Abakan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: overcranky ( 3,09 $ )
+Seat 2: JPepss ( 0,75 $ )
+Seat 3: BlueChipMD01 ( 2,87 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: IIIpil ( 1,65 $ )
+Seat 7: 1gadfly1 ( 2,33 $ )
+Seat 9: ellen279 ( 0,71 $ )
+Seat 10: NL_OP ( 3,31 $ )
+B2B_Suckouts posts small blind [0,01 $]
+IIIpil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 9Herz ]
+1gadfly1 raises [0,05 $]
+ellen279 calls [0,05 $]
+NL_OP folds
+overcranky calls [0,05 $]
+JPepss folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+IIIpil raises [0,25 $]
+1gadfly1 folds
+ellen279 raises [0,44 $]
+overcranky folds
+IIIpil raises [0,44 $]
+ellen279 calls [0,22 $]
+** Dealing flop ** [ 3Herz, 3Kreuz, 3Karo ]
+** Dealing turn ** [ 2Pik ]
+** Dealing river ** [ 10Kreuz ]
+** Summary **
+IIIpil shows [ AKreuz, AHerz ]
+ellen279 shows [ KKreuz, QKreuz ]
+IIIpil collected [ 1,44 $ ]
+
+
+
+#Game No : 1331026859
+***** 888poker Hand History for Game 1331026859 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 18:57:05
+Table Abakan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: overcranky ( 3,04 $ )
+Seat 2: JPepss ( 0,75 $ )
+Seat 3: BlueChipMD01 ( 2,87 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: IIIpil ( 2,38 $ )
+Seat 7: 1gadfly1 ( 2,28 $ )
+Seat 10: NL_OP ( 3,31 $ )
+IIIpil posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 2Herz ]
+NL_OP folds
+overcranky folds
+JPepss folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+IIIpil folds
+** Summary **
+1gadfly1 collected [ 0,03 $ ]
+
+
+
+#Game No : 1331026896
+***** 888poker Hand History for Game 1331026896 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 18:57:16
+Table Abakan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: overcranky ( 3,04 $ )
+Seat 2: JPepss ( 0,75 $ )
+Seat 3: BlueChipMD01 ( 2,87 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: IIIpil ( 2,37 $ )
+Seat 7: 1gadfly1 ( 2,29 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 3,31 $ )
+1gadfly1 posts small blind [0,01 $]
+Yanno7 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, QPik ]
+NL_OP folds
+overcranky folds
+JPepss raises [0,06 $]
+BlueChipMD01 folds
+B2B_Suckouts calls [0,06 $]
+IIIpil folds
+1gadfly1 folds
+Yanno7 folds
+** Dealing flop ** [ 8Kreuz, 3Kreuz, 3Herz ]
+JPepss checks
+B2B_Suckouts checks
+** Dealing turn ** [ AHerz ]
+JPepss checks
+B2B_Suckouts checks
+** Dealing river ** [ 6Kreuz ]
+JPepss checks
+B2B_Suckouts checks
+** Summary **
+JPepss shows [ 6Karo, 7Karo ]
+B2B_Suckouts mucks [ KHerz, QPik ]
+JPepss collected [ 0,15 $ ]
+
+
+
+#Game No : 1331027053
+***** 888poker Hand History for Game 1331027053 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 18:57:57
+Table Abakan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: overcranky ( 3,04 $ )
+Seat 2: JPepss ( 0,84 $ )
+Seat 3: BlueChipMD01 ( 2,87 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: IIIpil ( 2,37 $ )
+Seat 7: 1gadfly1 ( 2,28 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 3,31 $ )
+Yanno7 posts small blind [0,01 $]
+NL_OP posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, QPik ]
+overcranky raises [0,06 $]
+JPepss folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+IIIpil folds
+1gadfly1 folds
+Yanno7 folds
+NL_OP folds
+** Summary **
+overcranky collected [ 0,05 $ ]
+
+
+
+#Game No : 1331027097
+***** 888poker Hand History for Game 1331027097 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 18:58:09
+Table Abakan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: overcranky ( 3,07 $ )
+Seat 3: BlueChipMD01 ( 2,87 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: IIIpil ( 2,37 $ )
+Seat 7: 1gadfly1 ( 2,28 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 3,29 $ )
+NL_OP posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 5Kreuz ]
+BlueChipMD01 folds
+B2B_Suckouts folds
+IIIpil raises [0,07 $]
+1gadfly1 folds
+Yanno7 folds
+NL_OP folds
+overcranky folds
+** Summary **
+IIIpil collected [ 0,05 $ ]
+
+
+
+#Game No : 1331027166
+***** 888poker Hand History for Game 1331027166 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 18:58:29
+Table Abakan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: overcranky ( 3,05 $ )
+Seat 2: PaddyRC ( 2 $ )
+Seat 3: BlueChipMD01 ( 2,87 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: IIIpil ( 2,40 $ )
+Seat 7: 1gadfly1 ( 2,28 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 3,28 $ )
+overcranky posts small blind [0,01 $]
+PaddyRC posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 4Herz ]
+BlueChipMD01 folds
+B2B_Suckouts folds
+IIIpil folds
+1gadfly1 folds
+Yanno7 folds
+NL_OP folds
+overcranky folds
+** Summary **
+PaddyRC collected [ 0,03 $ ]
+
+
+
+#Game No : 1331027226
+***** 888poker Hand History for Game 1331027226 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 18:58:45
+Table Abakan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: overcranky ( 3,04 $ )
+Seat 2: PaddyRC ( 2,01 $ )
+Seat 3: BlueChipMD01 ( 2,87 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: IIIpil ( 2,40 $ )
+Seat 7: 1gadfly1 ( 2,28 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 3,28 $ )
+PaddyRC posts small blind [0,01 $]
+BlueChipMD01 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 5Herz ]
+B2B_Suckouts folds
+IIIpil folds
+1gadfly1 raises [0,05 $]
+Yanno7 folds
+NL_OP raises [0,17 $]
+overcranky folds
+PaddyRC folds
+BlueChipMD01 folds
+1gadfly1 calls [0,12 $]
+** Dealing flop ** [ 2Kreuz, 2Karo, 3Herz ]
+1gadfly1 checks
+NL_OP checks
+** Dealing turn ** [ QKaro ]
+1gadfly1 checks
+NL_OP bets [0,18 $]
+1gadfly1 calls [0,18 $]
+** Dealing river ** [ AKreuz ]
+1gadfly1 checks
+NL_OP checks
+** Summary **
+1gadfly1 shows [ 9Pik, QPik ]
+NL_OP mucks [ 10Kreuz, KKreuz ]
+1gadfly1 collected [ 0,69 $ ]
+
+
+
+#Game No : 1331027445
+***** 888poker Hand History for Game 1331027445 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 18:59:41
+Table Abakan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: overcranky ( 3,04 $ )
+Seat 2: PaddyRC ( 2 $ )
+Seat 3: BlueChipMD01 ( 2,85 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: IIIpil ( 2,40 $ )
+Seat 7: 1gadfly1 ( 2,62 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 2,93 $ )
+BlueChipMD01 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 8Herz ]
+IIIpil folds
+1gadfly1 folds
+Yanno7 folds
+NL_OP folds
+overcranky folds
+PaddyRC folds
+BlueChipMD01 raises [0,03 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ JKreuz, 3Pik, KKreuz ]
+BlueChipMD01 bets [0,02 $]
+B2B_Suckouts folds
+** Summary **
+BlueChipMD01 collected [ 0,08 $ ]
+
+
+
+#Game No : 1331027592
+***** 888poker Hand History for Game 1331027592 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:00:22
+Table Abakan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: overcranky ( 3,04 $ )
+Seat 2: PaddyRC ( 2 $ )
+Seat 3: BlueChipMD01 ( 2,89 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: IIIpil ( 2,40 $ )
+Seat 6: Zamglai ( 2 $ )
+Seat 7: 1gadfly1 ( 2,62 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 2,93 $ )
+B2B_Suckouts posts small blind [0,01 $]
+IIIpil folds
+Zamglai posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 9Pik ]
+1gadfly1 folds
+Yanno7 folds
+NL_OP folds
+overcranky folds
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+** Summary **
+Zamglai did not show his hand
+Zamglai collected [ 0,03 $ ]
+
+
+
+#Game No : 1331027660
+***** 888poker Hand History for Game 1331027660 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:00:38
+Table Abakan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: overcranky ( 3,04 $ )
+Seat 2: PaddyRC ( 2 $ )
+Seat 3: BlueChipMD01 ( 2,89 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 6: Zamglai ( 2,01 $ )
+Seat 7: 1gadfly1 ( 2,62 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 2,93 $ )
+Zamglai posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 5Herz ]
+Yanno7 folds
+NL_OP raises [0,06 $]
+overcranky folds
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts calls [0,06 $]
+Zamglai folds
+1gadfly1 calls [0,04 $]
+** Dealing flop ** [ JPik, KKaro, QKaro ]
+1gadfly1 checks
+NL_OP bets [0,12 $]
+B2B_Suckouts folds
+1gadfly1 raises [0,40 $]
+NL_OP calls [0,28 $]
+** Dealing turn ** [ 4Herz ]
+1gadfly1 bets [0,66 $]
+NL_OP calls [0,66 $]
+** Dealing river ** [ 8Pik ]
+1gadfly1 bets [1,50 $]
+NL_OP calls [1,50 $]
+** Summary **
+1gadfly1 shows [ AKaro, 6Karo ]
+NL_OP shows [ APik, KHerz ]
+NL_OP collected [ 4,98 $ ]
+
+
+
+#Game No : 1331027968
+***** 888poker Hand History for Game 1331027968 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:01:56
+Table Abakan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: overcranky ( 3,04 $ )
+Seat 2: PaddyRC ( 2 $ )
+Seat 3: BlueChipMD01 ( 2,89 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: BiggBoss8866 ( 0,80 $ )
+Seat 6: Zamglai ( 2 $ )
+Seat 7: 1gadfly1 ( 2 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 5,29 $ )
+1gadfly1 posts small blind [0,01 $]
+Yanno7 posts big blind [0,02 $]
+BiggBoss8866 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, JPik ]
+NL_OP folds
+overcranky raises [0,10 $]
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 calls [0,08 $]
+Zamglai folds
+1gadfly1 folds
+Yanno7 folds
+** Dealing flop ** [ 7Herz, 8Kreuz, JKaro ]
+overcranky checks
+BiggBoss8866 checks
+** Dealing turn ** [ 7Kreuz ]
+overcranky checks
+BiggBoss8866 checks
+** Dealing river ** [ 5Herz ]
+overcranky checks
+BiggBoss8866 bets [0,06 $]
+overcranky folds
+** Summary **
+BiggBoss8866 did not show his hand
+BiggBoss8866 collected [ 0,22 $ ]
+
+
+
+#Game No : 1331028136
+***** 888poker Hand History for Game 1331028136 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:02:42
+Table Abakan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2,94 $ )
+Seat 2: PaddyRC ( 2 $ )
+Seat 3: BlueChipMD01 ( 2,89 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: BiggBoss8866 ( 0,92 $ )
+Seat 6: Zamglai ( 2 $ )
+Seat 7: 1gadfly1 ( 2 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 5,29 $ )
+Yanno7 posts small blind [0,01 $]
+NL_OP posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 9Kreuz ]
+overcranky folds
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 calls [0,02 $]
+Zamglai folds
+1gadfly1 folds
+Yanno7 calls [0,01 $]
+NL_OP checks
+** Dealing flop ** [ QPik, AHerz, 6Kreuz ]
+Yanno7 checks
+NL_OP checks
+BiggBoss8866 bets [0,02 $]
+Yanno7 folds
+NL_OP folds
+** Summary **
+BiggBoss8866 did not show his hand
+BiggBoss8866 collected [ 0,06 $ ]
+
+
+
+#Game No : 1331028332
+***** 888poker Hand History for Game 1331028332 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:03:33
+Table Abakan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2,94 $ )
+Seat 2: PaddyRC ( 2 $ )
+Seat 3: BlueChipMD01 ( 2,89 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: BiggBoss8866 ( 0,96 $ )
+Seat 6: Zamglai ( 2 $ )
+Seat 7: 1gadfly1 ( 2 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 5,27 $ )
+NL_OP posts small blind [0,01 $]
+overcranky folds
+PaddyRC posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, QHerz ]
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 folds
+Zamglai folds
+1gadfly1 raises [0,05 $]
+Yanno7 folds
+NL_OP folds
+PaddyRC folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331028460
+***** 888poker Hand History for Game 1331028460 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:04:04
+Table Abakan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: PaddyRC ( 2 $ )
+Seat 3: BlueChipMD01 ( 2,89 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: BiggBoss8866 ( 0,96 $ )
+Seat 6: Zamglai ( 2 $ )
+Seat 7: 1gadfly1 ( 2,03 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 5,26 $ )
+PaddyRC posts small blind [0,01 $]
+BlueChipMD01 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 7Kreuz ]
+B2B_Suckouts folds
+BiggBoss8866 calls [0,02 $]
+Zamglai folds
+1gadfly1 folds
+Yanno7 folds
+NL_OP folds
+PaddyRC raises [0,11 $]
+BlueChipMD01 calls [0,10 $]
+BiggBoss8866 calls [0,10 $]
+** Dealing flop ** [ 2Kreuz, 2Herz, 6Kreuz ]
+PaddyRC bets [0,21 $]
+BlueChipMD01 folds
+BiggBoss8866 folds
+** Summary **
+PaddyRC collected [ 0,34 $ ]
+
+
+
+#Game No : 1331028647
+***** 888poker Hand History for Game 1331028647 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:04:52
+Table Abakan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: PaddyRC ( 2,22 $ )
+Seat 3: BlueChipMD01 ( 2,77 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: BiggBoss8866 ( 0,84 $ )
+Seat 6: Zamglai ( 2 $ )
+Seat 7: 1gadfly1 ( 2,03 $ )
+Seat 9: Yanno7 ( 2 $ )
+Seat 10: NL_OP ( 5,26 $ )
+BlueChipMD01 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 4Karo ]
+BiggBoss8866 calls [0,02 $]
+Zamglai raises [0,10 $]
+1gadfly1 folds
+Yanno7 folds
+NL_OP folds
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 calls [$0.08]
+** Dealing flop ** [ 8s, 5c, Qh ]
+BiggBoss8866 bets [$0.11]
+Zamglai raises [$0.27]
+BiggBoss8866 calls [$0.16]
+** Dealing turn ** [ 2c ]
+BiggBoss8866 checks
+Zamglai bets [$0.51]
+BiggBoss8866 calls [$0.47]
+** Dealing river ** [ 8c ]
+** Summary **
+BiggBoss8866 shows [ Kc, Ac ]
+Zamglai shows [ Kh, Ks ]
+BiggBoss8866 collected [ $1.61 ]
+
+
+
+#Game No : 1331028926
+***** 888poker Hand History for Game 1331028926 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:06:03
+Table Abakan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: PaddyRC ( $2.22 )
+Seat 3: BlueChipMD01 ( $2.76 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.61 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2.03 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: NL_OP ( $5.26 )
+B2B_Suckouts posts small blind [$0.01]
+BiggBoss8866 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6s, Qh ]
+Zamglai folds
+1gadfly1 folds
+Yanno7 folds
+NL_OP folds
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+** Summary **
+BiggBoss8866 collected [ $0.03 ]
+
+
+
+#Game No : 1331028996
+***** 888poker Hand History for Game 1331028996 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:06:20
+Table Abakan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: PaddyRC ( $2.22 )
+Seat 3: BlueChipMD01 ( $2.76 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.62 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2.03 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: NL_OP ( $5.26 )
+BiggBoss8866 posts small blind [$0.01]
+Zamglai posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5s, Kh ]
+1gadfly1 folds
+Yanno7 calls [$0.02]
+NL_OP folds
+PaddyRC folds
+BlueChipMD01 raises [$0.08]
+B2B_Suckouts folds
+BiggBoss8866 folds
+Zamglai folds
+Yanno7 calls [$0.06]
+** Dealing flop ** [ As, 5h, Qd ]
+Yanno7 checks
+BlueChipMD01 bets [$0.10]
+Yanno7 folds
+** Summary **
+BlueChipMD01 collected [ $0.18 ]
+
+
+
+#Game No : 1331029215
+***** 888poker Hand History for Game 1331029215 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:07:12
+Table Abakan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: PaddyRC ( $2.22 )
+Seat 3: BlueChipMD01 ( $2.86 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.61 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2.03 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: NL_OP ( $5.26 )
+Zamglai posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Ac, 6c ]
+Yanno7 folds
+NL_OP folds
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 raises [$0.06]
+Zamglai folds
+1gadfly1 calls [$0.04]
+** Dealing flop ** [ Jh, 5s, As ]
+1gadfly1 checks
+BiggBoss8866 bets [$0.02]
+1gadfly1 calls [$0.02]
+** Dealing turn ** [ 4s ]
+1gadfly1 checks
+BiggBoss8866 bets [$0.08]
+1gadfly1 calls [$0.08]
+** Dealing river ** [ Ah ]
+1gadfly1 checks
+BiggBoss8866 checks
+** Summary **
+1gadfly1 shows [ 6h, 6s ]
+BiggBoss8866 mucks [ 4d, 5c ]
+1gadfly1 collected [ $0.31 ]
+
+
+
+#Game No : 1331029425
+***** 888poker Hand History for Game 1331029425 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:08:06
+Table Abakan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: PaddyRC ( $2.22 )
+Seat 3: BlueChipMD01 ( $2.86 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.45 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2.18 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: NL_OP ( $5.26 )
+1gadfly1 posts small blind [$0.01]
+Yanno7 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2d, 6h ]
+NL_OP folds
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 raises [$0.07]
+Zamglai folds
+1gadfly1 folds
+Yanno7 folds
+** Summary **
+BiggBoss8866 collected [ $0.05 ]
+
+
+
+#Game No : 1331029471
+***** 888poker Hand History for Game 1331029471 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:08:17
+Table Abakan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $2.22 )
+Seat 3: BlueChipMD01 ( $2.86 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.48 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2.17 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: NL_OP ( $5.26 )
+Yanno7 posts small blind [$0.01]
+NL_OP folds
+PQ7po posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4d, Kd ]
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 raises [$0.04]
+Zamglai folds
+1gadfly1 raises [$0.15]
+Yanno7 folds
+PQ7po folds
+BiggBoss8866 calls [$0.11]
+** Dealing flop ** [ 3c, 5s, 7d ]
+BiggBoss8866 bets [$0.16]
+1gadfly1 calls [$0.16]
+** Dealing turn ** [ 4h ]
+BiggBoss8866 bets [$0.32]
+1gadfly1 folds
+** Summary **
+BiggBoss8866 collected [ $0.61 ]
+
+
+
+#Game No : 1331029753
+***** 888poker Hand History for Game 1331029753 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:09:25
+Table Abakan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: PQ7po ( $0.78 )
+Seat 2: PaddyRC ( $2.22 )
+Seat 3: BlueChipMD01 ( $2.86 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.78 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2 )
+Seat 9: Yanno7 ( $2 )
+PQ7po posts small blind [$0.01]
+PaddyRC posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Js, 5h ]
+BlueChipMD01 raises [$0.06]
+B2B_Suckouts folds
+BiggBoss8866 calls [$0.06]
+Zamglai folds
+1gadfly1 calls [$0.06]
+Yanno7 folds
+PQ7po folds
+PaddyRC calls [$0.04]
+** Dealing flop ** [ 8s, 2c, Jc ]
+PaddyRC checks
+BlueChipMD01 bets [$0.14]
+BiggBoss8866 folds
+1gadfly1 folds
+PaddyRC raises [$0.42]
+BlueChipMD01 calls [$0.28]
+** Dealing turn ** [ 6c ]
+PaddyRC bets [$0.81]
+BlueChipMD01 calls [$0.81]
+** Dealing river ** [ 3s ]
+PaddyRC bets [$0.93]
+BlueChipMD01 calls [$0.93]
+** Summary **
+PaddyRC shows [ 8d, Jd ]
+BlueChipMD01 shows [ Kh, Jh ]
+PaddyRC collected [ $4.29 ]
+
+
+
+#Game No : 1331030167
+***** 888poker Hand History for Game 1331030167 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:11:08
+Table Abakan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.29 )
+Seat 3: BlueChipMD01 ( $0.64 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.72 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $2 )
+PaddyRC posts small blind [$0.01]
+BlueChipMD01 posts big blind [$0.02]
+vicces58 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7c, 2d ]
+B2B_Suckouts folds
+BiggBoss8866 raises [$0.09]
+Zamglai folds
+1gadfly1 calls [$0.09]
+Yanno7 folds
+vicces58 calls [$0.07]
+PQ7po folds
+PaddyRC calls [$0.08]
+BlueChipMD01 calls [$0.07]
+** Dealing flop ** [ Ah, 9h, 7d ]
+PaddyRC checks
+BlueChipMD01 bets [$0.55]
+BiggBoss8866 folds
+1gadfly1 folds
+vicces58 folds
+PaddyRC folds
+** Summary **
+BlueChipMD01 did not show his hand
+BlueChipMD01 collected [ $0.43 ]
+
+
+
+#Game No : 1331030398
+***** 888poker Hand History for Game 1331030398 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:12:05
+Table Abakan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.20 )
+Seat 3: BlueChipMD01 ( $0.98 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.63 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $1.91 )
+BlueChipMD01 posts small blind [$0.01]
+B2B_Suckouts posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9s, Kd ]
+BiggBoss8866 raises [$0.04]
+Zamglai folds
+1gadfly1 folds
+Yanno7 folds
+vicces58 folds
+PQ7po folds
+PaddyRC folds
+BlueChipMD01 raises [$0.15]
+B2B_Suckouts folds
+BiggBoss8866 folds
+** Summary **
+BlueChipMD01 did not show his hand
+BlueChipMD01 collected [ $0.10 ]
+
+
+
+#Game No : 1331030546
+***** 888poker Hand History for Game 1331030546 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:12:42
+Table Abakan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.20 )
+Seat 3: BlueChipMD01 ( $1.04 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.59 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $1.91 )
+B2B_Suckouts posts small blind [$0.01]
+BiggBoss8866 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8d, 4d ]
+Zamglai folds
+1gadfly1 folds
+Yanno7 raises [$0.04]
+vicces58 folds
+PQ7po folds
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 calls [$0.02]
+** Dealing flop ** [ 3s, 2c, 5d ]
+BiggBoss8866 bets [$0.04]
+Yanno7 folds
+** Summary **
+BiggBoss8866 did not show his hand
+BiggBoss8866 collected [ $0.09 ]
+
+
+
+#Game No : 1331030672
+***** 888poker Hand History for Game 1331030672 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:13:15
+Table Abakan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.20 )
+Seat 3: BlueChipMD01 ( $1.04 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.64 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $1.91 )
+BiggBoss8866 posts small blind [$0.01]
+Zamglai posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Kh, Qs ]
+1gadfly1 folds
+Yanno7 folds
+vicces58 folds
+PQ7po folds
+PaddyRC folds
+BlueChipMD01 raises [$0.04]
+B2B_Suckouts calls [$0.04]
+BiggBoss8866 folds
+Zamglai folds
+** Dealing flop ** [ 4d, 8s, 2s ]
+BlueChipMD01 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 9h ]
+BlueChipMD01 checks
+B2B_Suckouts checks
+** Dealing river ** [ 3d ]
+BlueChipMD01 checks
+B2B_Suckouts checks
+** Summary **
+BlueChipMD01 shows [ Ts, Kc ]
+B2B_Suckouts shows [ Kh, Qs ]
+B2B_Suckouts collected [ $0.11 ]
+
+
+
+#Game No : 1331030939
+***** 888poker Hand History for Game 1331030939 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:14:19
+Table Abakan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.20 )
+Seat 3: BlueChipMD01 ( $1 )
+Seat 4: B2B_Suckouts ( $2.07 )
+Seat 5: BiggBoss8866 ( $1.63 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $1.91 )
+Zamglai posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2h, Jh ]
+Yanno7 folds
+vicces58 folds
+PQ7po folds
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 raises [$0.04]
+Zamglai folds
+1gadfly1 calls [$0.02]
+** Dealing flop ** [ Js, Qs, 3s ]
+1gadfly1 checks
+BiggBoss8866 bets [$0.02]
+1gadfly1 calls [$0.02]
+** Dealing turn ** [ Td ]
+1gadfly1 checks
+BiggBoss8866 bets [$0.06]
+1gadfly1 raises [$0.22]
+BiggBoss8866 calls [$0.16]
+** Dealing river ** [ 6s ]
+1gadfly1 checks
+BiggBoss8866 bets [$0.42]
+1gadfly1 calls [$0.42]
+** Summary **
+BiggBoss8866 shows [ Kd, 6d ]
+1gadfly1 shows [ Qc, Tc ]
+1gadfly1 collected [ $1.33 ]
+
+
+
+#Game No : 1331031175
+***** 888poker Hand History for Game 1331031175 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:15:15
+Table Abakan 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.20 )
+Seat 3: BlueChipMD01 ( $1 )
+Seat 4: B2B_Suckouts ( $2.07 )
+Seat 5: BiggBoss8866 ( $0.93 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2.63 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $1.91 )
+1gadfly1 posts small blind [$0.01]
+Yanno7 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Ac, 8d ]
+vicces58 folds
+PQ7po calls [$0.02]
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 folds
+Zamglai folds
+1gadfly1 calls [$0.01]
+Yanno7 checks
+** Dealing flop ** [ Ts, 3h, 5s ]
+1gadfly1 checks
+Yanno7 checks
+PQ7po checks
+** Dealing turn ** [ Qd ]
+1gadfly1 checks
+Yanno7 checks
+PQ7po checks
+** Dealing river ** [ Jh ]
+1gadfly1 bets [$0.03]
+Yanno7 folds
+PQ7po folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ $0.06 ]
+
+
+
+#Game No : 1331031471
+***** 888poker Hand History for Game 1331031471 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:16:29
+Table Abakan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.78 )
+Seat 2: PaddyRC ( $4.20 )
+Seat 3: BlueChipMD01 ( $1 )
+Seat 4: B2B_Suckouts ( $2.07 )
+Seat 5: BiggBoss8866 ( $0.93 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2.67 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $1.91 )
+Yanno7 posts small blind [$0.01]
+vicces58 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Qc, Js ]
+PQ7po folds
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts raises [$0.06]
+BiggBoss8866 raises [$0.10]
+Zamglai folds
+1gadfly1 folds
+Yanno7 folds
+vicces58 folds
+B2B_Suckouts calls [$0.04]
+** Dealing flop ** [ 2h, Kc, Jc ]
+B2B_Suckouts checks
+BiggBoss8866 bets [$0.08]
+B2B_Suckouts folds
+** Summary **
+BiggBoss8866 did not show his hand
+BiggBoss8866 collected [ $0.22 ]
+
+
+
+#Game No : 1331031645
+***** 888poker Hand History for Game 1331031645 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:17:11
+Table Abakan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.20 )
+Seat 3: BlueChipMD01 ( $1 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.05 )
+Seat 6: Zamglai ( $2 )
+Seat 7: 1gadfly1 ( $2.67 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $1.89 )
+vicces58 posts small blind [$0.01]
+PQ7po posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Ts, 6s ]
+PaddyRC folds
+BlueChipMD01 folds
+B2B_Suckouts folds
+BiggBoss8866 folds
+Zamglai raises [$0.06]
+1gadfly1 folds
+Yanno7 folds
+vicces58 folds
+PQ7po folds
+** Summary **
+Zamglai did not show his hand
+Zamglai collected [ $0.05 ]
+
+
+
+#Game No : 1331031722
+***** 888poker Hand History for Game 1331031722 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:17:31
+Table Abakan 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.20 )
+Seat 3: BlueChipMD01 ( $1 )
+Seat 5: BiggBoss8866 ( $1.05 )
+Seat 6: Zamglai ( $2.03 )
+Seat 7: 1gadfly1 ( $2.67 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $1.88 )
+PQ7po posts small blind [$0.01]
+PaddyRC posts big blind [$0.02]
+** Dealing down cards **
+BlueChipMD01 folds
+BiggBoss8866 raises [$0.04]
+Zamglai folds
+1gadfly1 folds
+Yanno7 folds
+vicces58 folds
+PQ7po folds
+PaddyRC calls [$0.02]
+** Dealing flop ** [ 4h, Ts, Tc ]
+PaddyRC checks
+BiggBoss8866 checks
+** Dealing turn ** [ Qs ]
+PaddyRC bets [$0.05]
+BiggBoss8866 calls [$0.05]
+** Dealing river ** [ Th ]
+PaddyRC checks
+BiggBoss8866 bets [$0.09]
+PaddyRC folds
+** Summary **
+BiggBoss8866 collected [ $0.18 ]
+
+
+
+#Game No : 1331031963
+***** 888poker Hand History for Game 1331031963 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:18:30
+Table Abakan 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.11 )
+Seat 3: BlueChipMD01 ( $1 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.14 )
+Seat 6: Zamglai ( $2.03 )
+Seat 7: 1gadfly1 ( $2.67 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $1.88 )
+PaddyRC posts small blind [$0.01]
+BlueChipMD01 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3h, 8d ]
+B2B_Suckouts folds
+BiggBoss8866 raises [$0.05]
+Zamglai folds
+1gadfly1 folds
+Yanno7 folds
+vicces58 calls [$0.05]
+PQ7po folds
+PaddyRC folds
+BlueChipMD01 calls [$0.03]
+** Dealing flop ** [ Jh, Th, 4s ]
+BlueChipMD01 checks
+BiggBoss8866 bets [$0.02]
+vicces58 raises [$0.08]
+BlueChipMD01 folds
+BiggBoss8866 calls [$0.06]
+** Dealing turn ** [ Kd ]
+BiggBoss8866 checks
+vicces58 bets [$0.32]
+BiggBoss8866 folds
+** Summary **
+vicces58 did not show his hand
+vicces58 collected [ $0.30 ]
+
+
+
+#Game No : 1331032192
+***** 888poker Hand History for Game 1331032192 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:19:33
+Table Abakan 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.10 )
+Seat 3: BlueChipMD01 ( $0.95 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.01 )
+Seat 6: Zamglai ( $2.03 )
+Seat 7: 1gadfly1 ( $2.67 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $2.05 )
+BlueChipMD01 posts small blind [$0.01]
+B2B_Suckouts posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3d, Tc ]
+BiggBoss8866 folds
+Zamglai folds
+1gadfly1 folds
+Yanno7 folds
+vicces58 folds
+PQ7po folds
+PaddyRC raises [$0.06]
+BlueChipMD01 raises [$0.23]
+B2B_Suckouts folds
+PaddyRC folds
+** Summary **
+BlueChipMD01 did not show his hand
+BlueChipMD01 collected [ $0.14 ]
+
+
+
+#Game No : 1331032290
+***** 888poker Hand History for Game 1331032290 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:19:57
+Table Abakan 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.04 )
+Seat 3: BlueChipMD01 ( $1.03 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.01 )
+Seat 6: Zamglai ( $2.03 )
+Seat 7: 1gadfly1 ( $2.67 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $2.05 )
+B2B_Suckouts posts small blind [$0.01]
+BiggBoss8866 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Jc, Kh ]
+Zamglai folds
+1gadfly1 folds
+Yanno7 folds
+vicces58 folds
+PQ7po folds
+PaddyRC raises [$0.06]
+BlueChipMD01 folds
+B2B_Suckouts calls [$0.05]
+BiggBoss8866 folds
+** Dealing flop ** [ 3h, 4s, 7d ]
+B2B_Suckouts bets [$0.04]
+PaddyRC calls [$0.04]
+** Dealing turn ** [ 6c ]
+B2B_Suckouts checks
+PaddyRC checks
+** Dealing river ** [ 5c ]
+B2B_Suckouts bets [$0.22]
+PaddyRC raises [$0.66]
+B2B_Suckouts calls [$0.44]
+** Summary **
+PaddyRC shows [ 7s, 8s ]
+B2B_Suckouts mucks [ Jc, Kh ]
+PaddyRC collected [ $1.45 ]
+
+
+
+#Game No : 1331032660
+***** 888poker Hand History for Game 1331032660 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:21:33
+Table Abakan 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.73 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $0.99 )
+Seat 7: 1gadfly1 ( $2.67 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $2.05 )
+BiggBoss8866 posts small blind [$0.01]
+1gadfly1 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Ks, 3d ]
+Yanno7 folds
+vicces58 calls [$0.02]
+PQ7po folds
+PaddyRC raises [$0.08]
+B2B_Suckouts folds
+BiggBoss8866 calls [$0.07]
+1gadfly1 folds
+vicces58 folds
+** Dealing flop ** [ 8s, 8h, 7h ]
+BiggBoss8866 bets [$0.15]
+PaddyRC folds
+** Summary **
+BiggBoss8866 collected [ $0.19 ]
+
+
+
+#Game No : 1331032829
+***** 888poker Hand History for Game 1331032829 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:22:15
+Table Abakan 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.65 )
+Seat 3: pirat1961v ( $0.80 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $1.10 )
+Seat 7: 1gadfly1 ( $2.65 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $2.03 )
+1gadfly1 posts small blind [$0.01]
+Yanno7 posts big blind [$0.02]
+pirat1961v posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3s, 9h ]
+vicces58 calls [$0.02]
+PQ7po folds
+PaddyRC folds
+pirat1961v checks
+B2B_Suckouts folds
+BiggBoss8866 raises [$0.10]
+1gadfly1 folds
+Yanno7 folds
+vicces58 calls [$0.08]
+pirat1961v folds
+** Dealing flop ** [ 6c, Ad, Qs ]
+vicces58 checks
+BiggBoss8866 bets [$0.12]
+vicces58 calls [$0.12]
+** Dealing turn ** [ 4h ]
+vicces58 checks
+BiggBoss8866 bets [$0.14]
+vicces58 raises [$0.28]
+BiggBoss8866 calls [$0.14]
+** Dealing river ** [ 7h ]
+vicces58 bets [$0.40]
+BiggBoss8866 raises [$0.60]
+vicces58 calls [$0.20]
+** Summary **
+BiggBoss8866 shows [ Qc, Qh ]
+vicces58 shows [ Ac, Ah ]
+vicces58 collected [ $2.11 ]
+
+
+
+#Game No : 1331033331
+***** 888poker Hand History for Game 1331033331 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:24:18
+Table Abakan 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.65 )
+Seat 3: pirat1961v ( $0.78 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $0.80 )
+Seat 7: 1gadfly1 ( $2.64 )
+Seat 9: Yanno7 ( $2 )
+Seat 10: vicces58 ( $3.04 )
+Yanno7 posts small blind [$0.01]
+vicces58 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4s, Qc ]
+PQ7po folds
+PaddyRC folds
+pirat1961v folds
+B2B_Suckouts folds
+BiggBoss8866 folds
+1gadfly1 raises [$0.05]
+Yanno7 calls [$0.04]
+vicces58 calls [$0.03]
+** Dealing flop ** [ 6h, Jh, 6s ]
+Yanno7 checks
+vicces58 checks
+1gadfly1 checks
+** Dealing turn ** [ 7d ]
+Yanno7 checks
+vicces58 checks
+1gadfly1 checks
+** Dealing river ** [ 7s ]
+Yanno7 bets [$0.02]
+vicces58 folds
+1gadfly1 folds
+** Summary **
+Yanno7 collected [ $0.15 ]
+
+
+
+#Game No : 1331033536
+***** 888poker Hand History for Game 1331033536 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 19:25:10
+Table Abakan 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: PQ7po ( $0.80 )
+Seat 2: PaddyRC ( $4.65 )
+Seat 3: pirat1961v ( $0.78 )
+Seat 4: B2B_Suckouts ( $2 )
+Seat 5: BiggBoss8866 ( $0.80 )
+Seat 7: 1gadfly1 ( $2.59 )
+Seat 9: Yanno7 ( $2.10 )
+PQ7po posts small blind [$0.01]
+PaddyRC posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ Kc, Td ]
+pirat1961v raises [$0.05]
+B2B_Suckouts folds
+BiggBoss8866 folds
+1gadfly1 folds
+Yanno7 folds
+PQ7po folds
+PaddyRC folds
+** Summary **
+pirat1961v collected [ $0.05 ]
+
+
+
