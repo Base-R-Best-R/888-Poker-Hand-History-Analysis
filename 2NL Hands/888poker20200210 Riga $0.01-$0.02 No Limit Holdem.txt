@@ -1,0 +1,112 @@
+#Game No : 551600673
+***** 888poker Hand History for Game 551600673 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2020 19:38:52
+Table Riga 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: B2B_Suckouts ( $2 )
+Seat 4: ahtoh24 ( $1.12 )
+Seat 5: w3sby ( $2.09 )
+Seat 6: RaisaMih ( $0.16 )
+Seat 7: vavan129 ( $2 )
+Seat 9: AlexUr11 ( $2.30 )
+Seat 10: apxap ( $2 )
+apxap posts small blind [$0.01]
+B2B_Suckouts posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6h, 3c ]
+ahtoh24 folds
+w3sby raises [$0.06]
+RaisaMih folds
+vavan129 folds
+AlexUr11 calls [$0.06]
+apxap calls [$0.05]
+B2B_Suckouts folds
+** Dealing flop ** [ 9c, 7d, 3d ]
+apxap bets [$0.10]
+w3sby calls [$0.10]
+AlexUr11 calls [$0.10]
+** Dealing turn ** [ 2c ]
+apxap bets [$0.25]
+w3sby folds
+AlexUr11 calls [$0.25]
+** Dealing river ** [ Tc ]
+apxap bets [$0.68]
+AlexUr11 calls [$0.68]
+** Summary **
+apxap shows [ Th, Ts ]
+AlexUr11 mucks [ Ks, 9s ]
+apxap collected [ $2.22 ]
+
+
+
+#Game No : 551600802
+***** 888poker Hand History for Game 551600802 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2020 19:40:04
+Table Riga 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( $2 )
+Seat 3: rokop56243 ( $2 )
+Seat 4: ahtoh24 ( $1.12 )
+Seat 5: w3sby ( $1.93 )
+Seat 6: RaisaMih ( $0.16 )
+Seat 7: vavan129 ( $2 )
+Seat 9: AlexUr11 ( $1.21 )
+Seat 10: apxap ( $3.13 )
+B2B_Suckouts posts small blind [$0.01]
+rokop56243 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8s, 9c ]
+ahtoh24 folds
+w3sby folds
+RaisaMih folds
+vavan129 folds
+AlexUr11 folds
+apxap folds
+B2B_Suckouts raises [$0.03]
+rokop56243 folds
+** Summary **
+B2B_Suckouts collected [ $0.04 ]
+
+
+
+#Game No : 551600863
+***** 888poker Hand History for Game 551600863 *****
+$0.01/$0.02 Blinds No Limit Holdem - *** 10 02 2020 19:40:32
+Table Riga 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: B2B_Suckouts ( $2.02 )
+Seat 3: rokop56243 ( $1.98 )
+Seat 4: ahtoh24 ( $1.12 )
+Seat 5: w3sby ( $1.93 )
+Seat 6: RaisaMih ( $0.16 )
+Seat 7: vavan129 ( $2 )
+Seat 9: AlexUr11 ( $1.21 )
+Seat 10: apxap ( $3.13 )
+rokop56243 posts small blind [$0.01]
+ahtoh24 posts big blind [$0.02]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6h, 7s ]
+w3sby folds
+RaisaMih calls [$0.02]
+vavan129 folds
+AlexUr11 calls [$0.02]
+apxap calls [$0.02]
+B2B_Suckouts folds
+rokop56243 calls [$0.01]
+ahtoh24 checks
+** Dealing flop ** [ Kd, Ts, 4d ]
+rokop56243 checks
+ahtoh24 checks
+RaisaMih bets [$0.14]
+AlexUr11 folds
+apxap folds
+rokop56243 folds
+ahtoh24 folds
+** Summary **
+RaisaMih collected [ $0.10 ]
+
+
+
