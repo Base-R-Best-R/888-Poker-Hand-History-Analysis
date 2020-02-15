@@ -1,0 +1,4806 @@
+#Game No : 551316631
+***** 888poker Hand History for Game 551316631 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:30:21
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Crazyace1976 ( 1,70 $ )
+Seat 2: andypeach ( 1,29 $ )
+Seat 3: tekiller243 ( 2,32 $ )
+Seat 4: waimanc ( 2,10 $ )
+Seat 5: Lin24 ( 2,19 $ )
+Seat 6: Penguin_1980 ( 0,68 $ )
+Seat 7: crucialfield ( 4,26 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,27 $ )
+crucialfield posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 7Pik ]
+PRO100Marina folds
+Crazyace1976 folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+Lin24 folds
+Penguin_1980 folds
+crucialfield calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ JKaro, JKreuz, AHerz ]
+crucialfield bets [0,02 $]
+B2B_Suckouts folds
+** Summary **
+crucialfield did not show his hand
+crucialfield collected [ 0,04 $ ]
+
+
+
+#Game No : 551316653
+***** 888poker Hand History for Game 551316653 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:31:15
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Crazyace1976 ( 1,70 $ )
+Seat 2: andypeach ( 1,29 $ )
+Seat 3: tekiller243 ( 2,32 $ )
+Seat 4: waimanc ( 2,10 $ )
+Seat 5: Lin24 ( 2,19 $ )
+Seat 6: Penguin_1980 ( 0,68 $ )
+Seat 7: crucialfield ( 4,28 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,27 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 3Herz ]
+Crazyace1976 folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+Lin24 folds
+Penguin_1980 folds
+crucialfield raises [0,08 $]
+B2B_Suckouts folds
+PRO100Marina folds
+** Summary **
+crucialfield did not show his hand
+crucialfield collected [ 0,05 $ ]
+
+
+
+#Game No : 551316669
+***** 888poker Hand History for Game 551316669 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:31:39
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Crazyace1976 ( 1,70 $ )
+Seat 2: andypeach ( 1,29 $ )
+Seat 3: tekiller243 ( 2,32 $ )
+Seat 4: waimanc ( 2,10 $ )
+Seat 5: Lin24 ( 2,19 $ )
+Seat 6: Penguin_1980 ( 0,68 $ )
+Seat 7: crucialfield ( 4,31 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,25 $ )
+PRO100Marina posts small blind [0,01 $]
+Crazyace1976 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 7Pik ]
+andypeach folds
+tekiller243 folds
+waimanc folds
+Lin24 folds
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+PRO100Marina folds
+** Summary **
+Crazyace1976 did not show his hand
+Crazyace1976 collected [ 0,03 $ ]
+
+
+
+#Game No : 551316678
+***** 888poker Hand History for Game 551316678 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:31:57
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Crazyace1976 ( 1,71 $ )
+Seat 2: andypeach ( 1,29 $ )
+Seat 3: tekiller243 ( 2,32 $ )
+Seat 4: waimanc ( 2,10 $ )
+Seat 5: Lin24 ( 2,19 $ )
+Seat 6: Penguin_1980 ( 0,68 $ )
+Seat 7: crucialfield ( 4,31 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,24 $ )
+Crazyace1976 posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, KPik ]
+tekiller243 folds
+waimanc folds
+Lin24 raises [0,06 $]
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+PRO100Marina folds
+Crazyace1976 folds
+andypeach calls [0,04 $]
+** Dealing flop ** [ QKaro, 9Herz, 3Herz ]
+andypeach checks
+Lin24 bets [0,08 $]
+andypeach calls [0,08 $]
+** Dealing turn ** [ 4Kreuz ]
+andypeach bets [0,29 $]
+Lin24 folds
+** Summary **
+andypeach did not show his hand
+andypeach collected [ 0,28 $ ]
+
+
+
+#Game No : 551316709
+***** 888poker Hand History for Game 551316709 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:32:59
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Crazyace1976 ( 1,70 $ )
+Seat 2: andypeach ( 1,43 $ )
+Seat 3: tekiller243 ( 2,32 $ )
+Seat 4: waimanc ( 2,10 $ )
+Seat 5: Lin24 ( 2,05 $ )
+Seat 6: Penguin_1980 ( 0,68 $ )
+Seat 7: crucialfield ( 4,31 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,24 $ )
+andypeach posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, JKaro ]
+waimanc folds
+Lin24 raises [0,06 $]
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+PRO100Marina folds
+Crazyace1976 folds
+andypeach folds
+tekiller243 folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,05 $ ]
+
+
+
+#Game No : 551316718
+***** 888poker Hand History for Game 551316718 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:33:15
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: andypeach ( 1,42 $ )
+Seat 3: tekiller243 ( 2,30 $ )
+Seat 4: waimanc ( 2,10 $ )
+Seat 5: Lin24 ( 2,08 $ )
+Seat 6: Penguin_1980 ( 0,68 $ )
+Seat 7: crucialfield ( 4,31 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,24 $ )
+tekiller243 posts small blind [0,01 $]
+waimanc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, QKaro ]
+Lin24 folds
+Penguin_1980 folds
+crucialfield raises [0,06 $]
+B2B_Suckouts folds
+PRO100Marina folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+** Summary **
+crucialfield collected [ 0,05 $ ]
+
+
+
+#Game No : 551316733
+***** 888poker Hand History for Game 551316733 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:33:49
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: andypeach ( 1,42 $ )
+Seat 3: tekiller243 ( 2,29 $ )
+Seat 4: waimanc ( 2,08 $ )
+Seat 6: Penguin_1980 ( 0,68 $ )
+Seat 7: crucialfield ( 4,34 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,24 $ )
+waimanc posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 2Pik ]
+crucialfield folds
+B2B_Suckouts folds
+PRO100Marina folds
+andypeach folds
+tekiller243 folds
+waimanc raises [0,07 $]
+Penguin_1980 folds
+** Summary **
+waimanc collected [ 0,04 $ ]
+
+
+
+#Game No : 551316748
+***** 888poker Hand History for Game 551316748 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:34:09
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,42 $ )
+Seat 3: tekiller243 ( 2,29 $ )
+Seat 4: waimanc ( 2,10 $ )
+Seat 6: Penguin_1980 ( 0,66 $ )
+Seat 7: crucialfield ( 4,34 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,24 $ )
+Penguin_1980 posts small blind [0,01 $]
+crucialfield posts big blind [0,02 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, KPik ]
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners checks
+andypeach folds
+tekiller243 folds
+waimanc calls [0,02 $]
+Penguin_1980 calls [0,01 $]
+crucialfield checks
+** Dealing flop ** [ KKaro, 10Pik, 10Kreuz ]
+Penguin_1980 checks
+crucialfield checks
+AooGoonners checks
+waimanc checks
+** Dealing turn ** [ 9Herz ]
+Penguin_1980 checks
+crucialfield bets [0,02 $]
+AooGoonners folds
+waimanc calls [0,02 $]
+Penguin_1980 folds
+** Dealing river ** [ QPik ]
+crucialfield bets [0,02 $]
+waimanc raises [0,30 $]
+crucialfield folds
+** Summary **
+waimanc did not show his hand
+waimanc collected [ 0,15 $ ]
+
+
+
+#Game No : 551316781
+***** 888poker Hand History for Game 551316781 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:35:30
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,42 $ )
+Seat 3: tekiller243 ( 2,29 $ )
+Seat 4: waimanc ( 2,19 $ )
+Seat 6: Penguin_1980 ( 0,64 $ )
+Seat 7: crucialfield ( 4,28 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,24 $ )
+crucialfield posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 6Pik ]
+PRO100Marina folds
+AooGoonners folds
+andypeach raises [0,06 $]
+tekiller243 folds
+waimanc calls [0,06 $]
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+** Dealing flop ** [ QKreuz, 8Herz, 4Herz ]
+andypeach checks
+waimanc bets [0,09 $]
+andypeach folds
+** Summary **
+waimanc collected [ 0,15 $ ]
+
+
+
+#Game No : 551316810
+***** 888poker Hand History for Game 551316810 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:36:13
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,36 $ )
+Seat 3: tekiller243 ( 2,29 $ )
+Seat 4: waimanc ( 2,28 $ )
+Seat 5: Mebius666 ( 1,70 $ )
+Seat 6: Penguin_1980 ( 0,64 $ )
+Seat 7: crucialfield ( 4,27 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,24 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+Mebius666 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, KPik ]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 checks
+Penguin_1980 folds
+crucialfield raises [0,04 $]
+B2B_Suckouts calls [0,03 $]
+PRO100Marina calls [0,02 $]
+Mebius666 calls [0,02 $]
+** Dealing flop ** [ 9Herz, 7Karo, AKaro ]
+B2B_Suckouts checks
+PRO100Marina checks
+Mebius666 checks
+crucialfield bets [0,08 $]
+B2B_Suckouts folds
+PRO100Marina folds
+Mebius666 folds
+** Summary **
+crucialfield did not show his hand
+crucialfield collected [ 0,15 $ ]
+
+
+
+#Game No : 551316828
+***** 888poker Hand History for Game 551316828 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:36:53
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,36 $ )
+Seat 3: tekiller243 ( 2,29 $ )
+Seat 4: waimanc ( 2,28 $ )
+Seat 5: Mebius666 ( 1,66 $ )
+Seat 6: Penguin_1980 ( 0,64 $ )
+Seat 7: crucialfield ( 4,38 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,20 $ )
+PRO100Marina posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 2Pik ]
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 calls [0,02 $]
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+PRO100Marina calls [0,01 $]
+AooGoonners checks
+** Dealing flop ** [ 8Herz, 5Pik, 3Herz ]
+PRO100Marina checks
+AooGoonners checks
+Mebius666 bets [0,06 $]
+PRO100Marina folds
+AooGoonners folds
+** Summary **
+Mebius666 did not show his hand
+Mebius666 collected [ 0,06 $ ]
+
+
+
+#Game No : 551316846
+***** 888poker Hand History for Game 551316846 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:37:30
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,36 $ )
+Seat 3: tekiller243 ( 2,29 $ )
+Seat 4: waimanc ( 2,28 $ )
+Seat 5: Mebius666 ( 1,70 $ )
+Seat 6: Penguin_1980 ( 0,64 $ )
+Seat 7: crucialfield ( 4,38 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: PRO100Marina ( 0,18 $ )
+AooGoonners posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, QKreuz ]
+tekiller243 raises [0,06 $]
+waimanc calls [0,06 $]
+Mebius666 folds
+Penguin_1980 folds
+crucialfield calls [0,06 $]
+B2B_Suckouts raises [0,24 $]
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 calls [0,18 $]
+waimanc folds
+crucialfield folds
+** Dealing flop ** [ QHerz, 5Kreuz, 3Herz ]
+tekiller243 checks
+B2B_Suckouts bets [0,20 $]
+tekiller243 calls [0,20 $]
+** Dealing turn ** [ 6Pik ]
+tekiller243 checks
+B2B_Suckouts bets [0,51 $]
+tekiller243 calls [0,51 $]
+** Dealing river ** [ 9Herz ]
+tekiller243 checks
+B2B_Suckouts checks
+** Summary **
+tekiller243 shows [ 7Pik, 7Kreuz ]
+B2B_Suckouts shows [ KPik, QKreuz ]
+B2B_Suckouts collected [ 1,93 $ ]
+
+
+
+#Game No : 551316885
+***** 888poker Hand History for Game 551316885 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:38:26
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,34 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,22 $ )
+Seat 5: Mebius666 ( 1,70 $ )
+Seat 6: Penguin_1980 ( 0,64 $ )
+Seat 7: crucialfield ( 4,32 $ )
+Seat 9: B2B_Suckouts ( 2,98 $ )
+Seat 10: PRO100Marina ( 0,18 $ )
+andypeach posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, KKreuz ]
+waimanc folds
+Mebius666 folds
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts raises [0,06 $]
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551316898
+***** 888poker Hand History for Game 551316898 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:38:47
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,33 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,22 $ )
+Seat 5: Mebius666 ( 1,70 $ )
+Seat 6: Penguin_1980 ( 0,64 $ )
+Seat 7: crucialfield ( 4,32 $ )
+Seat 9: B2B_Suckouts ( 3,01 $ )
+Seat 10: PRO100Marina ( 0,18 $ )
+tekiller243 posts small blind [0,01 $]
+waimanc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 5Karo ]
+Mebius666 raises [0,04 $]
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+** Summary **
+Mebius666 did not show his hand
+Mebius666 collected [ 0,05 $ ]
+
+
+
+#Game No : 551316920
+***** 888poker Hand History for Game 551316920 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:39:17
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,33 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,20 $ )
+Seat 5: Mebius666 ( 1,73 $ )
+Seat 6: Penguin_1980 ( 0,64 $ )
+Seat 7: crucialfield ( 4,32 $ )
+Seat 9: B2B_Suckouts ( 3,01 $ )
+Seat 10: PRO100Marina ( 0,18 $ )
+waimanc posts small blind [0,01 $]
+Mebius666 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 6Herz ]
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc raises [0,07 $]
+Mebius666 folds
+PRO100Marina calls [0,06 $]
+** Dealing flop ** [ QHerz, 8Pik, 2Karo ]
+waimanc bets [0,11 $]
+PRO100Marina calls [0,10 $]
+** Dealing turn ** [ 8Karo ]
+** Dealing river ** [ 3Herz ]
+** Summary **
+waimanc shows [ KHerz, AHerz ]
+PRO100Marina shows [ 2Kreuz, APik ]
+PRO100Marina collected [ 0,36 $ ]
+
+
+
+#Game No : 551316945
+***** 888poker Hand History for Game 551316945 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:39:56
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,33 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,02 $ )
+Seat 5: Mebius666 ( 1,71 $ )
+Seat 6: Penguin_1980 ( 0,64 $ )
+Seat 7: crucialfield ( 4,32 $ )
+Seat 9: B2B_Suckouts ( 3,01 $ )
+Seat 10: PRO100Marina ( 0,36 $ )
+Mebius666 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, JHerz ]
+crucialfield raises [0,06 $]
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 folds
+Penguin_1980 folds
+** Summary **
+crucialfield did not show his hand
+crucialfield collected [ 0,05 $ ]
+
+
+
+#Game No : 551316959
+***** 888poker Hand History for Game 551316959 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:40:19
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,33 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,02 $ )
+Seat 5: Mebius666 ( 1,70 $ )
+Seat 6: Penguin_1980 ( 0,62 $ )
+Seat 7: crucialfield ( 4,35 $ )
+Seat 9: B2B_Suckouts ( 3,01 $ )
+Seat 10: PRO100Marina ( 0,36 $ )
+Penguin_1980 posts small blind [0,01 $]
+crucialfield posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 5Kreuz ]
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach calls [0,02 $]
+tekiller243 folds
+waimanc folds
+Mebius666 folds
+Penguin_1980 calls [0,01 $]
+crucialfield checks
+** Dealing flop ** [ KKaro, 4Herz, 9Kreuz ]
+Penguin_1980 checks
+crucialfield bets [0,02 $]
+andypeach folds
+Penguin_1980 calls [0,02 $]
+** Dealing turn ** [ 5Karo ]
+Penguin_1980 checks
+crucialfield bets [0,05 $]
+Penguin_1980 folds
+** Summary **
+crucialfield did not show his hand
+crucialfield collected [ 0,10 $ ]
+
+
+
+#Game No : 551316991
+***** 888poker Hand History for Game 551316991 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:41:06
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,31 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,02 $ )
+Seat 5: Mebius666 ( 1,70 $ )
+Seat 6: Penguin_1980 ( 0,58 $ )
+Seat 7: crucialfield ( 4,41 $ )
+Seat 9: B2B_Suckouts ( 3,01 $ )
+Seat 10: PRO100Marina ( 0,36 $ )
+crucialfield posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 7Pik ]
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 raises [0,06 $]
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+** Summary **
+Mebius666 did not show his hand
+Mebius666 collected [ 0,05 $ ]
+
+
+
+#Game No : 551317008
+***** 888poker Hand History for Game 551317008 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:41:31
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,31 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,02 $ )
+Seat 5: Mebius666 ( 1,73 $ )
+Seat 6: Penguin_1980 ( 0,58 $ )
+Seat 7: crucialfield ( 4,40 $ )
+Seat 9: B2B_Suckouts ( 2,99 $ )
+Seat 10: PRO100Marina ( 0,36 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 10Pik ]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 folds
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+** Summary **
+PRO100Marina did not show his hand
+PRO100Marina collected [ 0,03 $ ]
+
+
+
+#Game No : 551317020
+***** 888poker Hand History for Game 551317020 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:41:56
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,31 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,02 $ )
+Seat 5: Mebius666 ( 1,73 $ )
+Seat 6: Penguin_1980 ( 0,58 $ )
+Seat 7: crucialfield ( 4,40 $ )
+Seat 9: B2B_Suckouts ( 2,98 $ )
+Seat 10: PRO100Marina ( 0,37 $ )
+PRO100Marina posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 7Herz ]
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 folds
+Penguin_1980 calls [0,02 $]
+crucialfield folds
+B2B_Suckouts raises [0,06 $]
+PRO100Marina calls [0,05 $]
+AooGoonners calls [0,04 $]
+Penguin_1980 calls [0,04 $]
+** Dealing flop ** [ 9Karo, KKreuz, 6Pik ]
+PRO100Marina bets [0,31 $]
+AooGoonners calls [0,31 $]
+Penguin_1980 folds
+B2B_Suckouts folds
+** Dealing turn ** [ JPik ]
+** Dealing river ** [ 2Karo ]
+** Summary **
+AooGoonners shows [ AKreuz, KKaro ]
+PRO100Marina shows [ 9Herz, KHerz ]
+PRO100Marina collected [ 0,81 $ ]
+
+
+
+#Game No : 551317071
+***** 888poker Hand History for Game 551317071 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:43:09
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,80 $ )
+Seat 2: andypeach ( 1,31 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,02 $ )
+Seat 5: Mebius666 ( 1,73 $ )
+Seat 6: Penguin_1980 ( 0,52 $ )
+Seat 7: crucialfield ( 4,40 $ )
+Seat 9: B2B_Suckouts ( 2,92 $ )
+Seat 10: PRO100Marina ( 0,81 $ )
+AooGoonners posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 3Pik ]
+tekiller243 folds
+waimanc folds
+Mebius666 folds
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners calls [0,01 $]
+andypeach checks
+** Dealing flop ** [ KPik, 6Kreuz, 3Kreuz ]
+AooGoonners checks
+andypeach checks
+PRO100Marina checks
+** Dealing turn ** [ 8Herz ]
+AooGoonners bets [0,04 $]
+andypeach calls [0,04 $]
+PRO100Marina folds
+** Dealing river ** [ 8Kreuz ]
+AooGoonners checks
+andypeach checks
+** Summary **
+AooGoonners shows [ AHerz, KKreuz ]
+andypeach mucks [ AKreuz, 2Karo ]
+AooGoonners collected [ 0,14 $ ]
+
+
+
+#Game No : 551317095
+***** 888poker Hand History for Game 551317095 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:43:48
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,88 $ )
+Seat 2: andypeach ( 1,25 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,02 $ )
+Seat 5: Mebius666 ( 1,73 $ )
+Seat 6: Penguin_1980 ( 0,52 $ )
+Seat 7: crucialfield ( 4,40 $ )
+Seat 9: B2B_Suckouts ( 2,92 $ )
+Seat 10: PRO100Marina ( 0,79 $ )
+andypeach posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 8Pik ]
+waimanc folds
+Mebius666 folds
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach folds
+tekiller243 checks
+** Dealing flop ** [ 10Kreuz, 7Kreuz, 10Pik ]
+tekiller243 checks
+PRO100Marina bets [0,02 $]
+tekiller243 folds
+** Summary **
+PRO100Marina did not show his hand
+PRO100Marina collected [ 0,05 $ ]
+
+
+
+#Game No : 551317114
+***** 888poker Hand History for Game 551317114 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:44:11
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 0,88 $ )
+Seat 2: andypeach ( 1,24 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2,02 $ )
+Seat 5: Mebius666 ( 1,73 $ )
+Seat 6: Penguin_1980 ( 0,52 $ )
+Seat 7: crucialfield ( 4,40 $ )
+Seat 9: B2B_Suckouts ( 2,92 $ )
+Seat 10: PRO100Marina ( 0,82 $ )
+tekiller243 posts small blind [0,01 $]
+waimanc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 8Kreuz ]
+Mebius666 folds
+Penguin_1980 folds
+crucialfield folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach calls [0,02 $]
+tekiller243 folds
+waimanc checks
+** Dealing flop ** [ QKaro, 2Karo, 7Karo ]
+waimanc checks
+PRO100Marina checks
+andypeach checks
+** Dealing turn ** [ 2Herz ]
+waimanc checks
+PRO100Marina checks
+andypeach checks
+** Dealing river ** [ KKreuz ]
+waimanc checks
+PRO100Marina checks
+andypeach folds
+** Summary **
+waimanc shows [ 6Kreuz, 8Karo ]
+PRO100Marina shows [ 3Herz, JHerz ]
+PRO100Marina collected [ 0,07 $ ]
+
+
+
+#Game No : 551317151
+***** 888poker Hand History for Game 551317151 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:45:02
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,88 $ )
+Seat 2: andypeach ( 1,22 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,73 $ )
+Seat 6: Penguin_1980 ( 0,52 $ )
+Seat 9: B2B_Suckouts ( 2,92 $ )
+Seat 10: PRO100Marina ( 0,87 $ )
+waimanc posts small blind [0,01 $]
+Mebius666 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 7Kreuz ]
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners calls [0,02 $]
+andypeach folds
+tekiller243 raises [0,10 $]
+waimanc folds
+Mebius666 folds
+PRO100Marina folds
+AooGoonners folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,09 $ ]
+
+
+
+#Game No : 551317186
+***** 888poker Hand History for Game 551317186 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:45:39
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,86 $ )
+Seat 2: andypeach ( 1,22 $ )
+Seat 3: tekiller243 ( 2,07 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,71 $ )
+Seat 6: Penguin_1980 ( 0,52 $ )
+Seat 9: B2B_Suckouts ( 2,92 $ )
+Seat 10: PRO100Marina ( 0,85 $ )
+Mebius666 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 8Pik ]
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 raises [0,05 $]
+waimanc folds
+Mebius666 folds
+Penguin_1980 calls [0,03 $]
+** Dealing flop ** [ 6Kreuz, 10Kreuz, KHerz ]
+Penguin_1980 checks
+tekiller243 checks
+** Dealing turn ** [ 10Pik ]
+Penguin_1980 checks
+tekiller243 checks
+** Dealing river ** [ 6Herz ]
+Penguin_1980 checks
+tekiller243 checks
+** Summary **
+Penguin_1980 shows [ 9Pik, JPik ]
+tekiller243 shows [ 4Pik, APik ]
+tekiller243 collected [ 0,11 $ ]
+
+
+
+#Game No : 551317215
+***** 888poker Hand History for Game 551317215 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:46:17
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,86 $ )
+Seat 2: andypeach ( 1,22 $ )
+Seat 3: tekiller243 ( 2,13 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,70 $ )
+Seat 6: Penguin_1980 ( 0,47 $ )
+Seat 9: B2B_Suckouts ( 2,92 $ )
+Seat 10: PRO100Marina ( 0,85 $ )
+Penguin_1980 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, JHerz ]
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 calls [0,02 $]
+Penguin_1980 folds
+B2B_Suckouts checks
+** Dealing flop ** [ AHerz, 6Karo, KHerz ]
+B2B_Suckouts bets [0,02 $]
+PRO100Marina calls [0,02 $]
+Mebius666 folds
+** Dealing turn ** [ 7Herz ]
+B2B_Suckouts bets [0,05 $]
+PRO100Marina folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,11 $ ]
+
+
+
+#Game No : 551317239
+***** 888poker Hand History for Game 551317239 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:46:52
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,86 $ )
+Seat 2: andypeach ( 1,22 $ )
+Seat 3: tekiller243 ( 2,13 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,68 $ )
+Seat 6: Penguin_1980 ( 0,46 $ )
+Seat 9: B2B_Suckouts ( 2,99 $ )
+Seat 10: PRO100Marina ( 0,81 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, KPik ]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc raises [0,08 $]
+Mebius666 folds
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina folds
+** Summary **
+waimanc did not show his hand
+waimanc collected [ 0,05 $ ]
+
+
+
+#Game No : 551317255
+***** 888poker Hand History for Game 551317255 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:47:09
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,86 $ )
+Seat 2: andypeach ( 1,22 $ )
+Seat 3: tekiller243 ( 2,13 $ )
+Seat 4: waimanc ( 2,03 $ )
+Seat 5: Mebius666 ( 1,68 $ )
+Seat 6: Penguin_1980 ( 0,46 $ )
+Seat 9: B2B_Suckouts ( 2,98 $ )
+Seat 10: PRO100Marina ( 0,79 $ )
+PRO100Marina posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 6Herz ]
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 folds
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina folds
+** Summary **
+AooGoonners did not show his hand
+AooGoonners collected [ 0,03 $ ]
+
+
+
+#Game No : 551317261
+***** 888poker Hand History for Game 551317261 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:47:19
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,87 $ )
+Seat 2: andypeach ( 1,22 $ )
+Seat 3: tekiller243 ( 2,13 $ )
+Seat 4: waimanc ( 2,03 $ )
+Seat 5: Mebius666 ( 1,68 $ )
+Seat 6: Penguin_1980 ( 0,46 $ )
+Seat 9: B2B_Suckouts ( 2,98 $ )
+Seat 10: PRO100Marina ( 0,78 $ )
+AooGoonners posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 6Pik ]
+tekiller243 folds
+waimanc raises [0,08 $]
+Mebius666 folds
+Penguin_1980 calls [0,08 $]
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+** Dealing flop ** [ 2Herz, 10Karo, 2Pik ]
+waimanc checks
+Penguin_1980 checks
+** Dealing turn ** [ 8Karo ]
+waimanc checks
+Penguin_1980 checks
+** Dealing river ** [ JKreuz ]
+waimanc checks
+Penguin_1980 checks
+** Summary **
+waimanc shows [ AKreuz, KKaro ]
+Penguin_1980 shows [ 6Herz, 6Kreuz ]
+Penguin_1980 collected [ 0,18 $ ]
+
+
+
+#Game No : 551317284
+***** 888poker Hand History for Game 551317284 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:47:55
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,86 $ )
+Seat 2: andypeach ( 1,20 $ )
+Seat 3: tekiller243 ( 2,13 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,68 $ )
+Seat 6: Penguin_1980 ( 0,56 $ )
+Seat 9: B2B_Suckouts ( 2,98 $ )
+Seat 10: PRO100Marina ( 0,78 $ )
+andypeach posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 3Karo ]
+waimanc folds
+Mebius666 folds
+Penguin_1980 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach calls [0,01 $]
+tekiller243 checks
+** Dealing flop ** [ JKaro, 5Herz, 9Karo ]
+andypeach checks
+tekiller243 checks
+Penguin_1980 checks
+** Dealing turn ** [ 2Karo ]
+andypeach bets [0,02 $]
+tekiller243 folds
+Penguin_1980 folds
+** Summary **
+andypeach did not show his hand
+andypeach collected [ 0,06 $ ]
+
+
+
+#Game No : 551317332
+***** 888poker Hand History for Game 551317332 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:48:58
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,86 $ )
+Seat 2: andypeach ( 1,24 $ )
+Seat 3: tekiller243 ( 2,11 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,68 $ )
+Seat 6: Penguin_1980 ( 0,54 $ )
+Seat 9: B2B_Suckouts ( 2,98 $ )
+Seat 10: PRO100Marina ( 0,78 $ )
+tekiller243 posts small blind [0,01 $]
+waimanc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, JKreuz ]
+Mebius666 raises [0,06 $]
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+** Summary **
+Mebius666 did not show his hand
+Mebius666 collected [ 0,05 $ ]
+
+
+
+#Game No : 551317340
+***** 888poker Hand History for Game 551317340 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:49:14
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,86 $ )
+Seat 2: andypeach ( 1,24 $ )
+Seat 3: tekiller243 ( 2,10 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,71 $ )
+Seat 6: Penguin_1980 ( 0,54 $ )
+Seat 9: B2B_Suckouts ( 2,98 $ )
+Seat 10: PRO100Marina ( 0,78 $ )
+waimanc posts small blind [0,01 $]
+Mebius666 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 7Herz ]
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+** Summary **
+Mebius666 did not show his hand
+Mebius666 collected [ 0,03 $ ]
+
+
+
+#Game No : 551317361
+***** 888poker Hand History for Game 551317361 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:49:47
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,86 $ )
+Seat 2: andypeach ( 1,24 $ )
+Seat 3: tekiller243 ( 2,10 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,72 $ )
+Seat 6: Penguin_1980 ( 0,54 $ )
+Seat 9: B2B_Suckouts ( 2,98 $ )
+Seat 10: PRO100Marina ( 0,78 $ )
+Mebius666 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 5Karo ]
+B2B_Suckouts raises [0,04 $]
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 calls [0,03 $]
+Penguin_1980 folds
+** Dealing flop ** [ 7Kreuz, KHerz, 5Herz ]
+Mebius666 checks
+B2B_Suckouts bets [0,02 $]
+Mebius666 calls [0,02 $]
+** Dealing turn ** [ 3Herz ]
+Mebius666 bets [0,06 $]
+B2B_Suckouts folds
+** Summary **
+Mebius666 did not show his hand
+Mebius666 collected [ 0,14 $ ]
+
+
+
+#Game No : 551317394
+***** 888poker Hand History for Game 551317394 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:50:35
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 0,86 $ )
+Seat 2: andypeach ( 1,24 $ )
+Seat 3: tekiller243 ( 2,10 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,80 $ )
+Seat 6: Penguin_1980 ( 0,52 $ )
+Seat 9: B2B_Suckouts ( 2,92 $ )
+Seat 10: PRO100Marina ( 0,78 $ )
+Penguin_1980 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, QHerz ]
+PRO100Marina folds
+AooGoonners calls [0,02 $]
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 folds
+Penguin_1980 calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+AooGoonners raises [0,22 $]
+Penguin_1980 folds
+B2B_Suckouts calls [0,18 $]
+** Dealing flop ** [ 10Pik, 9Herz, 7Kreuz ]
+B2B_Suckouts bets [0,16 $]
+AooGoonners raises [0,62 $]
+B2B_Suckouts folds
+** Summary **
+AooGoonners did not show his hand
+AooGoonners collected [ 0,77 $ ]
+
+
+
+#Game No : 551317430
+***** 888poker Hand History for Game 551317430 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:51:38
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 1,23 $ )
+Seat 2: andypeach ( 1,24 $ )
+Seat 3: tekiller243 ( 2,10 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,80 $ )
+Seat 6: Penguin_1980 ( 0,50 $ )
+Seat 9: B2B_Suckouts ( 2,52 $ )
+Seat 10: PRO100Marina ( 0,78 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, KHerz ]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+waimanc calls [0,02 $]
+Mebius666 folds
+Penguin_1980 folds
+B2B_Suckouts calls [0,01 $]
+PRO100Marina checks
+** Dealing flop ** [ APik, 9Herz, 8Kreuz ]
+B2B_Suckouts checks
+PRO100Marina checks
+waimanc bets [0,03 $]
+B2B_Suckouts folds
+PRO100Marina calls [0,03 $]
+** Dealing turn ** [ QKaro ]
+PRO100Marina checks
+waimanc bets [0,07 $]
+PRO100Marina calls [0,07 $]
+** Dealing river ** [ 10Herz ]
+PRO100Marina checks
+waimanc checks
+** Summary **
+PRO100Marina shows [ KPik, JHerz ]
+waimanc mucks [ AKaro, 8Karo ]
+PRO100Marina collected [ 0,25 $ ]
+
+
+
+#Game No : 551317469
+***** 888poker Hand History for Game 551317469 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:52:36
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 1,23 $ )
+Seat 2: andypeach ( 1,24 $ )
+Seat 3: tekiller243 ( 2,10 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,80 $ )
+Seat 6: Penguin_1980 ( 0,50 $ )
+Seat 9: B2B_Suckouts ( 2,50 $ )
+Seat 10: PRO100Marina ( 0,91 $ )
+PRO100Marina posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, QKaro ]
+andypeach folds
+tekiller243 folds
+waimanc folds
+Mebius666 folds
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina calls [0,01 $]
+AooGoonners checks
+** Dealing flop ** [ 7Herz, AKreuz, KPik ]
+PRO100Marina bets [0,02 $]
+AooGoonners folds
+** Summary **
+PRO100Marina did not show his hand
+PRO100Marina collected [ 0,04 $ ]
+
+
+
+#Game No : 551317482
+***** 888poker Hand History for Game 551317482 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:52:56
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 1,21 $ )
+Seat 2: andypeach ( 1,24 $ )
+Seat 3: tekiller243 ( 2,10 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,80 $ )
+Seat 6: Penguin_1980 ( 0,50 $ )
+Seat 9: B2B_Suckouts ( 2,50 $ )
+Seat 10: PRO100Marina ( 0,93 $ )
+AooGoonners posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 6Herz ]
+tekiller243 raises [0,06 $]
+waimanc folds
+Mebius666 folds
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach calls [0,04 $]
+** Dealing flop ** [ QHerz, 8Pik, 7Pik ]
+andypeach checks
+tekiller243 bets [0,09 $]
+andypeach folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,13 $ ]
+
+
+
+#Game No : 551317504
+***** 888poker Hand History for Game 551317504 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:53:24
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 1,20 $ )
+Seat 2: andypeach ( 1,18 $ )
+Seat 3: tekiller243 ( 2,17 $ )
+Seat 4: waimanc ( 2 $ )
+Seat 5: Mebius666 ( 1,80 $ )
+Seat 6: Penguin_1980 ( 0,50 $ )
+Seat 9: B2B_Suckouts ( 2,50 $ )
+Seat 10: PRO100Marina ( 0,93 $ )
+andypeach posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 8Karo ]
+waimanc folds
+Mebius666 raises [0,08 $]
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+** Summary **
+Mebius666 did not show his hand
+Mebius666 collected [ 0,05 $ ]
+
+
+
+#Game No : 551317512
+***** 888poker Hand History for Game 551317512 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:53:46
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: AooGoonners ( 1,20 $ )
+Seat 2: andypeach ( 1,17 $ )
+Seat 3: tekiller243 ( 2,15 $ )
+Seat 6: Penguin_1980 ( 0,50 $ )
+Seat 9: B2B_Suckouts ( 2,50 $ )
+Seat 10: PRO100Marina ( 0,93 $ )
+tekiller243 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 7Karo ]
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+Penguin_1980 checks
+** Dealing flop ** [ 10Karo, 8Pik, 5Herz ]
+Penguin_1980 checks
+PRO100Marina bets [0,05 $]
+Penguin_1980 folds
+** Summary **
+PRO100Marina did not show his hand
+PRO100Marina collected [ 0,05 $ ]
+
+
+
+#Game No : 551317531
+***** 888poker Hand History for Game 551317531 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:54:10
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: AooGoonners ( 1,20 $ )
+Seat 2: andypeach ( 1,17 $ )
+Seat 3: tekiller243 ( 2,14 $ )
+Seat 6: Penguin_1980 ( 0,48 $ )
+Seat 9: B2B_Suckouts ( 2,50 $ )
+Seat 10: PRO100Marina ( 0,96 $ )
+Penguin_1980 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 6Pik ]
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach folds
+tekiller243 raises [0,08 $]
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,07 $ ]
+
+
+
+#Game No : 551317543
+***** 888poker Hand History for Game 551317543 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:54:25
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: AooGoonners ( 1,20 $ )
+Seat 2: andypeach ( 1,17 $ )
+Seat 3: tekiller243 ( 2,19 $ )
+Seat 6: Penguin_1980 ( 0,47 $ )
+Seat 9: B2B_Suckouts ( 2,48 $ )
+Seat 10: PRO100Marina ( 0,94 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 10Pik ]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+Penguin_1980 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina checks
+** Dealing flop ** [ 9Kreuz, 8Herz, 2Pik ]
+PRO100Marina checks
+Penguin_1980 checks
+** Dealing turn ** [ KKreuz ]
+PRO100Marina bets [0,02 $]
+Penguin_1980 calls [0,02 $]
+** Dealing river ** [ 6Karo ]
+PRO100Marina bets [0,04 $]
+Penguin_1980 folds
+** Summary **
+PRO100Marina did not show his hand
+PRO100Marina collected [ 0,09 $ ]
+
+
+
+#Game No : 551317560
+***** 888poker Hand History for Game 551317560 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:54:59
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: AooGoonners ( 1,20 $ )
+Seat 2: andypeach ( 1,17 $ )
+Seat 3: tekiller243 ( 2,19 $ )
+Seat 6: Penguin_1980 ( 0,43 $ )
+Seat 9: B2B_Suckouts ( 2,47 $ )
+Seat 10: PRO100Marina ( 0,99 $ )
+PRO100Marina posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 5Pik ]
+andypeach raises [0,06 $]
+tekiller243 folds
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+** Summary **
+andypeach did not show his hand
+andypeach collected [ 0,05 $ ]
+
+
+
+#Game No : 551317569
+***** 888poker Hand History for Game 551317569 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:55:11
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: AooGoonners ( 1,18 $ )
+Seat 2: andypeach ( 1,20 $ )
+Seat 3: tekiller243 ( 2,19 $ )
+Seat 6: Penguin_1980 ( 0,43 $ )
+Seat 9: B2B_Suckouts ( 2,47 $ )
+Seat 10: PRO100Marina ( 0,98 $ )
+AooGoonners posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 5Karo ]
+tekiller243 folds
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach checks
+** Dealing flop ** [ 6Karo, 2Kreuz, 5Herz ]
+andypeach bets [0,02 $]
+PRO100Marina calls [0,02 $]
+** Dealing turn ** [ 10Kreuz ]
+andypeach bets [0,02 $]
+PRO100Marina raises [0,08 $]
+andypeach calls [0,06 $]
+** Dealing river ** [ 10Karo ]
+andypeach checks
+PRO100Marina checks
+** Summary **
+andypeach shows [ 8Herz, 7Karo ]
+PRO100Marina shows [ 4Herz, 10Herz ]
+PRO100Marina collected [ 0,24 $ ]
+
+
+
+#Game No : 551317593
+***** 888poker Hand History for Game 551317593 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:55:49
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: AooGoonners ( 1,17 $ )
+Seat 2: andypeach ( 1,08 $ )
+Seat 3: tekiller243 ( 2,19 $ )
+Seat 6: Penguin_1980 ( 0,43 $ )
+Seat 9: B2B_Suckouts ( 2,47 $ )
+Seat 10: PRO100Marina ( 1,10 $ )
+andypeach posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 4Karo ]
+Penguin_1980 folds
+B2B_Suckouts raises [0,04 $]
+PRO100Marina calls [0,04 $]
+AooGoonners folds
+andypeach calls [0,03 $]
+tekiller243 calls [0,02 $]
+** Dealing flop ** [ 2Kreuz, 7Herz, 3Herz ]
+andypeach checks
+tekiller243 checks
+B2B_Suckouts checks
+PRO100Marina checks
+** Dealing turn ** [ 7Kreuz ]
+andypeach bets [0,16 $]
+tekiller243 folds
+B2B_Suckouts folds
+PRO100Marina folds
+** Summary **
+andypeach collected [ 0,15 $ ]
+
+
+
+#Game No : 551317628
+***** 888poker Hand History for Game 551317628 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:56:38
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: AooGoonners ( 1,17 $ )
+Seat 2: andypeach ( 1,19 $ )
+Seat 3: tekiller243 ( 2,15 $ )
+Seat 4: corcass49 ( 2 $ )
+Seat 6: Penguin_1980 ( 0,43 $ )
+Seat 9: B2B_Suckouts ( 2,43 $ )
+Seat 10: PRO100Marina ( 1,06 $ )
+tekiller243 posts small blind [0,01 $]
+corcass49 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 6Karo ]
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+corcass49 checks
+** Dealing flop ** [ 5Kreuz, 4Karo, JPik ]
+corcass49 bets [0,02 $]
+PRO100Marina calls [0,02 $]
+** Dealing turn ** [ 8Karo ]
+corcass49 bets [0,02 $]
+PRO100Marina calls [0,02 $]
+** Dealing river ** [ 7Herz ]
+corcass49 bets [0,06 $]
+PRO100Marina folds
+** Summary **
+corcass49 collected [ 0,13 $ ]
+
+
+
+#Game No : 551317652
+***** 888poker Hand History for Game 551317652 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:57:14
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 1,17 $ )
+Seat 2: andypeach ( 1,19 $ )
+Seat 3: tekiller243 ( 2,14 $ )
+Seat 4: corcass49 ( 2,07 $ )
+Seat 5: balwasik_19 ( 0,80 $ )
+Seat 6: Penguin_1980 ( 0,43 $ )
+Seat 9: B2B_Suckouts ( 2,43 $ )
+Seat 10: PRO100Marina ( 1 $ )
+corcass49 posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, QKaro ]
+Penguin_1980 folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+corcass49 calls [0,01 $]
+balwasik_19 checks
+** Dealing flop ** [ 7Herz, 10Herz, 5Pik ]
+corcass49 checks
+balwasik_19 bets [0,03 $]
+PRO100Marina calls [0,03 $]
+corcass49 folds
+** Dealing turn ** [ 9Pik ]
+balwasik_19 bets [0,03 $]
+PRO100Marina calls [0,03 $]
+** Dealing river ** [ 2Herz ]
+balwasik_19 checks
+PRO100Marina bets [0,11 $]
+balwasik_19 folds
+** Summary **
+PRO100Marina collected [ 0,17 $ ]
+
+
+
+#Game No : 551317683
+***** 888poker Hand History for Game 551317683 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:58:08
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 1,17 $ )
+Seat 2: andypeach ( 1,19 $ )
+Seat 3: tekiller243 ( 2,14 $ )
+Seat 4: corcass49 ( 2,05 $ )
+Seat 5: balwasik_19 ( 0,72 $ )
+Seat 6: Penguin_1980 ( 0,43 $ )
+Seat 7: nikolas19910 ( 1,02 $ )
+Seat 9: B2B_Suckouts ( 2,43 $ )
+Seat 10: PRO100Marina ( 1,09 $ )
+balwasik_19 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+nikolas19910 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, KKreuz ]
+nikolas19910 checks
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach folds
+tekiller243 folds
+corcass49 folds
+balwasik_19 calls [0,01 $]
+Penguin_1980 checks
+** Dealing flop ** [ 3Karo, 5Kreuz, 4Pik ]
+balwasik_19 checks
+Penguin_1980 checks
+nikolas19910 checks
+PRO100Marina checks
+** Dealing turn ** [ 8Herz ]
+balwasik_19 checks
+Penguin_1980 checks
+nikolas19910 checks
+PRO100Marina checks
+** Dealing river ** [ JHerz ]
+balwasik_19 checks
+Penguin_1980 checks
+nikolas19910 checks
+PRO100Marina checks
+** Summary **
+balwasik_19 shows [ 9Karo, 7Kreuz ]
+Penguin_1980 shows [ QHerz, 4Kreuz ]
+nikolas19910 shows [ AHerz, 4Karo ]
+PRO100Marina shows [ KKaro, JPik ]
+PRO100Marina collected [ 0,08 $ ]
+
+
+
+#Game No : 551317718
+***** 888poker Hand History for Game 551317718 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:59:03
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 1,17 $ )
+Seat 2: andypeach ( 1,19 $ )
+Seat 3: tekiller243 ( 2,14 $ )
+Seat 4: corcass49 ( 2,05 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: Penguin_1980 ( 0,41 $ )
+Seat 7: nikolas19910 ( 1 $ )
+Seat 9: B2B_Suckouts ( 2,43 $ )
+Seat 10: PRO100Marina ( 1,15 $ )
+Penguin_1980 posts small blind [0,01 $]
+nikolas19910 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 9Herz ]
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach calls [0,02 $]
+tekiller243 folds
+corcass49 folds
+balwasik_19 folds
+Penguin_1980 folds
+nikolas19910 checks
+** Dealing flop ** [ KKaro, 4Herz, 6Kreuz ]
+nikolas19910 checks
+andypeach bets [0,02 $]
+nikolas19910 folds
+** Summary **
+andypeach did not show his hand
+andypeach collected [ 0,05 $ ]
+
+
+
+#Game No : 551317730
+***** 888poker Hand History for Game 551317730 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:59:32
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 1,17 $ )
+Seat 2: andypeach ( 1,22 $ )
+Seat 3: tekiller243 ( 2,14 $ )
+Seat 4: corcass49 ( 2,05 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: Penguin_1980 ( 0,40 $ )
+Seat 7: nikolas19910 ( 0,98 $ )
+Seat 9: B2B_Suckouts ( 2,43 $ )
+Seat 10: PRO100Marina ( 1,15 $ )
+nikolas19910 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 8Pik ]
+PRO100Marina folds
+AooGoonners folds
+andypeach folds
+tekiller243 calls [0,02 $]
+corcass49 folds
+balwasik_19 folds
+Penguin_1980 calls [0,02 $]
+nikolas19910 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 9Herz, QKreuz, 7Pik ]
+nikolas19910 checks
+B2B_Suckouts bets [0,02 $]
+tekiller243 calls [0,02 $]
+Penguin_1980 folds
+nikolas19910 folds
+** Dealing turn ** [ KPik ]
+B2B_Suckouts bets [0,03 $]
+tekiller243 calls [0,03 $]
+** Dealing river ** [ 4Herz ]
+B2B_Suckouts bets [0,02 $]
+tekiller243 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,17 $ ]
+
+
+
+#Game No : 551317763
+***** 888poker Hand History for Game 551317763 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:00:37
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 1,17 $ )
+Seat 2: andypeach ( 1,22 $ )
+Seat 3: tekiller243 ( 2,07 $ )
+Seat 4: corcass49 ( 2,05 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: Penguin_1980 ( 0,38 $ )
+Seat 7: nikolas19910 ( 0,96 $ )
+Seat 9: B2B_Suckouts ( 2,53 $ )
+Seat 10: PRO100Marina ( 1,15 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 6Herz ]
+AooGoonners folds
+andypeach calls [0,02 $]
+tekiller243 raises [0,08 $]
+corcass49 folds
+balwasik_19 folds
+Penguin_1980 folds
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina folds
+andypeach calls [0,06 $]
+** Dealing flop ** [ 5Kreuz, 3Pik, JKreuz ]
+andypeach checks
+tekiller243 checks
+** Dealing turn ** [ 4Pik ]
+andypeach bets [0,19 $]
+tekiller243 folds
+** Summary **
+andypeach did not show his hand
+andypeach collected [ 0,18 $ ]
+
+
+
+#Game No : 551317783
+***** 888poker Hand History for Game 551317783 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:01:13
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 1,17 $ )
+Seat 2: andypeach ( 1,32 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: corcass49 ( 2,05 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: Penguin_1980 ( 0,38 $ )
+Seat 7: nikolas19910 ( 0,96 $ )
+Seat 9: B2B_Suckouts ( 2,52 $ )
+Seat 10: PRO100Marina ( 1,13 $ )
+PRO100Marina posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 3Karo ]
+andypeach folds
+tekiller243 folds
+corcass49 folds
+balwasik_19 folds
+Penguin_1980 folds
+nikolas19910 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina calls [0,01 $]
+AooGoonners checks
+** Dealing flop ** [ 2Kreuz, 5Kreuz, QPik ]
+PRO100Marina checks
+AooGoonners checks
+nikolas19910 checks
+** Dealing turn ** [ 9Pik ]
+PRO100Marina checks
+AooGoonners checks
+nikolas19910 checks
+** Dealing river ** [ 9Herz ]
+PRO100Marina checks
+AooGoonners checks
+nikolas19910 bets [0,04 $]
+PRO100Marina folds
+AooGoonners folds
+** Summary **
+nikolas19910 did not show his hand
+nikolas19910 collected [ 0,06 $ ]
+
+
+
+#Game No : 551317815
+***** 888poker Hand History for Game 551317815 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:02:12
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 1,15 $ )
+Seat 2: andypeach ( 1,32 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: corcass49 ( 2,05 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: Penguin_1980 ( 0,38 $ )
+Seat 7: nikolas19910 ( 1 $ )
+Seat 9: B2B_Suckouts ( 2,52 $ )
+Seat 10: PRO100Marina ( 1,11 $ )
+AooGoonners posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 9Karo ]
+tekiller243 folds
+corcass49 folds
+balwasik_19 folds
+Penguin_1980 calls [0,02 $]
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach checks
+** Dealing flop ** [ 3Kreuz, 7Kreuz, KHerz ]
+andypeach checks
+Penguin_1980 checks
+** Dealing turn ** [ 7Karo ]
+andypeach bets [0,02 $]
+Penguin_1980 calls [0,02 $]
+** Dealing river ** [ 2Pik ]
+andypeach checks
+Penguin_1980 checks
+** Summary **
+andypeach shows [ 2Kreuz, 4Karo ]
+Penguin_1980 mucks [ 6Karo, 5Karo ]
+andypeach collected [ 0,09 $ ]
+
+
+
+#Game No : 551317843
+***** 888poker Hand History for Game 551317843 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:03:06
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 1,14 $ )
+Seat 2: andypeach ( 1,37 $ )
+Seat 3: tekiller243 ( 2 $ )
+Seat 4: corcass49 ( 2,05 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: Penguin_1980 ( 0,34 $ )
+Seat 7: nikolas19910 ( 1 $ )
+Seat 9: B2B_Suckouts ( 2,52 $ )
+Seat 10: PRO100Marina ( 1,11 $ )
+andypeach posts small blind [0,01 $]
+tekiller243 folds
+corcass49 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 5Herz ]
+balwasik_19 folds
+Penguin_1980 folds
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach calls [0,01 $]
+corcass49 checks
+** Dealing flop ** [ 10Karo, APik, 10Pik ]
+andypeach checks
+corcass49 checks
+** Dealing turn ** [ 7Kreuz ]
+andypeach checks
+corcass49 checks
+** Dealing river ** [ 3Pik ]
+andypeach checks
+corcass49 bets [0,04 $]
+andypeach folds
+** Summary **
+corcass49 collected [ 0,04 $ ]
+
+
+
+#Game No : 551317869
+***** 888poker Hand History for Game 551317869 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:03:59
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 1,14 $ )
+Seat 2: andypeach ( 1,35 $ )
+Seat 4: corcass49 ( 2,07 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: Penguin_1980 ( 0,34 $ )
+Seat 7: nikolas19910 ( 1 $ )
+Seat 9: B2B_Suckouts ( 2,52 $ )
+Seat 10: PRO100Marina ( 1,11 $ )
+corcass49 posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 3Karo ]
+Penguin_1980 folds
+nikolas19910 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach calls [0,02 $]
+corcass49 calls [0,01 $]
+balwasik_19 checks
+** Dealing flop ** [ 7Pik, 9Karo, QKreuz ]
+corcass49 checks
+balwasik_19 checks
+nikolas19910 checks
+andypeach checks
+** Dealing turn ** [ 2Kreuz ]
+corcass49 checks
+balwasik_19 checks
+nikolas19910 checks
+andypeach checks
+** Dealing river ** [ JHerz ]
+corcass49 bets [0,06 $]
+balwasik_19 folds
+nikolas19910 folds
+andypeach folds
+** Summary **
+corcass49 collected [ 0,08 $ ]
+
+
+
+#Game No : 551317902
+***** 888poker Hand History for Game 551317902 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:05:01
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: AooGoonners ( 1,14 $ )
+Seat 2: andypeach ( 1,33 $ )
+Seat 4: corcass49 ( 2,13 $ )
+Seat 5: balwasik_19 ( 0,68 $ )
+Seat 7: nikolas19910 ( 0,98 $ )
+Seat 9: B2B_Suckouts ( 2,52 $ )
+Seat 10: PRO100Marina ( 1,11 $ )
+balwasik_19 posts small blind [0,01 $]
+nikolas19910 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, KPik ]
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach calls [0,02 $]
+corcass49 folds
+balwasik_19 calls [0,01 $]
+nikolas19910 checks
+** Dealing flop ** [ 6Pik, 4Kreuz, 7Karo ]
+balwasik_19 checks
+nikolas19910 checks
+andypeach checks
+** Dealing turn ** [ 2Karo ]
+balwasik_19 bets [0,03 $]
+nikolas19910 folds
+andypeach folds
+** Summary **
+balwasik_19 collected [ 0,06 $ ]
+
+
+
+#Game No : 551317925
+***** 888poker Hand History for Game 551317925 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:05:45
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: AooGoonners ( 1,14 $ )
+Seat 2: andypeach ( 1,31 $ )
+Seat 4: corcass49 ( 2,13 $ )
+Seat 5: balwasik_19 ( 0,72 $ )
+Seat 7: nikolas19910 ( 0,96 $ )
+Seat 9: B2B_Suckouts ( 2,52 $ )
+Seat 10: PRO100Marina ( 1,11 $ )
+nikolas19910 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, QKreuz ]
+PRO100Marina calls [0,02 $]
+AooGoonners folds
+andypeach calls [0,02 $]
+corcass49 folds
+balwasik_19 folds
+nikolas19910 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 7Pik, JKaro, APik ]
+nikolas19910 checks
+B2B_Suckouts checks
+PRO100Marina checks
+andypeach checks
+** Dealing turn ** [ KKaro ]
+nikolas19910 checks
+B2B_Suckouts checks
+PRO100Marina bets [0,04 $]
+andypeach folds
+nikolas19910 folds
+B2B_Suckouts folds
+** Summary **
+PRO100Marina collected [ 0,08 $ ]
+
+
+
+#Game No : 551317957
+***** 888poker Hand History for Game 551317957 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:06:41
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 1,14 $ )
+Seat 2: andypeach ( 1,29 $ )
+Seat 4: corcass49 ( 2,13 $ )
+Seat 5: balwasik_19 ( 0,72 $ )
+Seat 6: heureka2 ( 0,80 $ )
+Seat 7: nikolas19910 ( 0,94 $ )
+Seat 9: B2B_Suckouts ( 2,50 $ )
+Seat 10: PRO100Marina ( 1,17 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 6Kreuz ]
+AooGoonners folds
+andypeach raises [0,08 $]
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina folds
+** Summary **
+andypeach collected [ 0,07 $ ]
+
+
+
+#Game No : 551317970
+***** 888poker Hand History for Game 551317970 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:07:05
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 1,14 $ )
+Seat 2: andypeach ( 1,34 $ )
+Seat 4: corcass49 ( 2,13 $ )
+Seat 5: balwasik_19 ( 0,72 $ )
+Seat 6: heureka2 ( 0,78 $ )
+Seat 7: nikolas19910 ( 0,94 $ )
+Seat 9: B2B_Suckouts ( 2,49 $ )
+Seat 10: PRO100Marina ( 1,15 $ )
+PRO100Marina posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 5Karo ]
+andypeach folds
+corcass49 calls [0,02 $]
+balwasik_19 raises [0,04 $]
+heureka2 folds
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina calls [0,03 $]
+AooGoonners folds
+corcass49 calls [0,02 $]
+** Dealing flop ** [ 2Karo, 5Pik, 7Kreuz ]
+PRO100Marina checks
+corcass49 bets [0,02 $]
+balwasik_19 calls [0,02 $]
+PRO100Marina calls [0,02 $]
+** Dealing turn ** [ 8Pik ]
+PRO100Marina checks
+corcass49 bets [0,04 $]
+balwasik_19 calls [0,04 $]
+PRO100Marina calls [0,04 $]
+** Dealing river ** [ 9Pik ]
+PRO100Marina checks
+corcass49 bets [0,04 $]
+balwasik_19 calls [0,04 $]
+PRO100Marina calls [0,04 $]
+** Summary **
+corcass49 shows [ 8Herz, 8Kreuz ]
+balwasik_19 mucks [ QKaro, 9Karo ]
+PRO100Marina shows [ AHerz, 6Pik ]
+PRO100Marina collected [ 0,42 $ ]
+
+
+
+#Game No : 551318010
+***** 888poker Hand History for Game 551318010 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:08:23
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: AooGoonners ( 1,12 $ )
+Seat 2: andypeach ( 1,34 $ )
+Seat 4: corcass49 ( 1,99 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 0,78 $ )
+Seat 7: nikolas19910 ( 0,94 $ )
+Seat 9: B2B_Suckouts ( 2,49 $ )
+Seat 10: PRO100Marina ( 1,43 $ )
+AooGoonners posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 5Herz ]
+corcass49 calls [0,02 $]
+balwasik_19 folds
+heureka2 folds
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners calls [0,01 $]
+andypeach checks
+** Dealing flop ** [ 3Karo, JHerz, AHerz ]
+AooGoonners checks
+andypeach folds
+corcass49 checks
+** Dealing turn ** [ JKreuz ]
+AooGoonners checks
+corcass49 checks
+** Dealing river ** [ APik ]
+AooGoonners checks
+corcass49 bets [0,06 $]
+AooGoonners folds
+** Summary **
+corcass49 collected [ 0,06 $ ]
+
+
+
+#Game No : 551318036
+***** 888poker Hand History for Game 551318036 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:09:24
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 1,10 $ )
+Seat 2: andypeach ( 1,32 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 2,03 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 0,78 $ )
+Seat 7: nikolas19910 ( 0,94 $ )
+Seat 9: B2B_Suckouts ( 2,49 $ )
+Seat 10: PRO100Marina ( 1,43 $ )
+andypeach posts small blind [0,01 $]
+alex79v posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 10Herz ]
+corcass49 calls [0,02 $]
+balwasik_19 folds
+heureka2 folds
+nikolas19910 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+AooGoonners calls [0,02 $]
+andypeach folds
+alex79v checks
+** Dealing flop ** [ 10Pik, 5Karo, 9Herz ]
+alex79v checks
+corcass49 checks
+nikolas19910 checks
+PRO100Marina checks
+AooGoonners checks
+** Dealing turn ** [ 5Kreuz ]
+alex79v checks
+corcass49 checks
+nikolas19910 checks
+PRO100Marina checks
+AooGoonners checks
+** Dealing river ** [ 2Herz ]
+alex79v checks
+corcass49 checks
+nikolas19910 checks
+PRO100Marina checks
+AooGoonners checks
+** Summary **
+alex79v shows [ 6Karo, 6Pik ]
+corcass49 mucks [ QKreuz, JHerz ]
+nikolas19910 mucks [ 8Kreuz, AKaro ]
+PRO100Marina mucks [ 4Pik, JPik ]
+AooGoonners shows [ QKaro, QHerz ]
+AooGoonners collected [ 0,11 $ ]
+
+
+
+#Game No : 551318065
+***** 888poker Hand History for Game 551318065 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:10:28
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 1,19 $ )
+Seat 2: andypeach ( 1,31 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 2,01 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 0,78 $ )
+Seat 7: nikolas19910 ( 0,92 $ )
+Seat 9: B2B_Suckouts ( 2,49 $ )
+Seat 10: PRO100Marina ( 1,41 $ )
+alex79v posts small blind [0,01 $]
+corcass49 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 5Pik ]
+balwasik_19 folds
+heureka2 raises [0,08 $]
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina calls [0,08 $]
+AooGoonners folds
+andypeach folds
+alex79v folds
+corcass49 folds
+** Dealing flop ** [ 9Karo, JPik, 10Pik ]
+heureka2 bets [0,09 $]
+PRO100Marina raises [0,27 $]
+heureka2 raises [0,61 $]
+PRO100Marina calls [0,43 $]
+** Dealing turn ** [ 2Pik ]
+** Dealing river ** [ 7Herz ]
+** Summary **
+heureka2 shows [ AKaro, APik ]
+PRO100Marina shows [ KHerz, KPik ]
+heureka2 collected [ 1,50 $ ]
+
+
+
+#Game No : 551318081
+***** 888poker Hand History for Game 551318081 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:11:10
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: AooGoonners ( 1,19 $ )
+Seat 2: andypeach ( 1,31 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,99 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 1,50 $ )
+Seat 7: nikolas19910 ( 0,92 $ )
+Seat 9: B2B_Suckouts ( 2,49 $ )
+Seat 10: PRO100Marina ( 0,63 $ )
+corcass49 posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 5Pik ]
+heureka2 folds
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina folds
+AooGoonners folds
+andypeach raises [0,06 $]
+alex79v folds
+corcass49 folds
+balwasik_19 folds
+** Summary **
+andypeach collected [ 0,05 $ ]
+
+
+
+#Game No : 551318100
+***** 888poker Hand History for Game 551318100 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:11:39
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,80 $ )
+Seat 2: andypeach ( 1,34 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,98 $ )
+Seat 5: balwasik_19 ( 0,56 $ )
+Seat 6: heureka2 ( 1,50 $ )
+Seat 7: nikolas19910 ( 0,92 $ )
+Seat 9: B2B_Suckouts ( 2,49 $ )
+Seat 10: PRO100Marina ( 0,63 $ )
+balwasik_19 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+BSokolov folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 9Pik ]
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina folds
+andypeach folds
+alex79v folds
+corcass49 folds
+balwasik_19 raises [0,04 $]
+heureka2 folds
+** Summary **
+balwasik_19 did not show his hand
+balwasik_19 collected [ 0,04 $ ]
+
+
+
+#Game No : 551318119
+***** 888poker Hand History for Game 551318119 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:12:14
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: andypeach ( 1,34 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,98 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 1,48 $ )
+Seat 7: nikolas19910 ( 0,92 $ )
+Seat 9: B2B_Suckouts ( 2,49 $ )
+Seat 10: PRO100Marina ( 0,63 $ )
+heureka2 posts small blind [0,01 $]
+nikolas19910 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, KKreuz ]
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+andypeach calls [0,02 $]
+alex79v folds
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+nikolas19910 checks
+** Dealing flop ** [ 4Kreuz, QKreuz, 9Herz ]
+nikolas19910 checks
+PRO100Marina checks
+andypeach bets [0,02 $]
+nikolas19910 calls [0,02 $]
+PRO100Marina calls [0,02 $]
+** Dealing turn ** [ 3Karo ]
+nikolas19910 checks
+PRO100Marina checks
+andypeach bets [0,04 $]
+nikolas19910 calls [0,04 $]
+PRO100Marina calls [0,04 $]
+** Dealing river ** [ 5Karo ]
+nikolas19910 bets [0,20 $]
+PRO100Marina folds
+andypeach folds
+** Summary **
+nikolas19910 collected [ 0,24 $ ]
+
+
+
+#Game No : 551318143
+***** 888poker Hand History for Game 551318143 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:13:00
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: andypeach ( 1,26 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,98 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 1,47 $ )
+Seat 7: nikolas19910 ( 1,08 $ )
+Seat 9: B2B_Suckouts ( 2,49 $ )
+Seat 10: PRO100Marina ( 0,55 $ )
+nikolas19910 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 9Kreuz ]
+PRO100Marina folds
+andypeach raises [0,06 $]
+alex79v folds
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+nikolas19910 folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 4Pik, 5Kreuz, 5Karo ]
+B2B_Suckouts checks
+andypeach bets [0,12 $]
+B2B_Suckouts folds
+** Summary **
+andypeach collected [ 0,13 $ ]
+
+
+
+#Game No : 551318164
+***** 888poker Hand History for Game 551318164 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:13:38
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: andypeach ( 1,33 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,98 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 1,47 $ )
+Seat 7: nikolas19910 ( 1,07 $ )
+Seat 9: B2B_Suckouts ( 2,43 $ )
+Seat 10: PRO100Marina ( 0,55 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 3Pik ]
+andypeach folds
+alex79v folds
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+nikolas19910 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina checks
+** Dealing flop ** [ QPik, 6Kreuz, QKaro ]
+PRO100Marina checks
+nikolas19910 checks
+** Dealing turn ** [ JPik ]
+PRO100Marina checks
+nikolas19910 bets [0,02 $]
+PRO100Marina calls [0,02 $]
+** Dealing river ** [ 9Pik ]
+PRO100Marina checks
+nikolas19910 bets [0,06 $]
+PRO100Marina folds
+** Summary **
+nikolas19910 collected [ 0,09 $ ]
+
+
+
+#Game No : 551318188
+***** 888poker Hand History for Game 551318188 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:14:14
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,80 $ )
+Seat 2: andypeach ( 1,33 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,98 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 1,47 $ )
+Seat 7: nikolas19910 ( 1,12 $ )
+Seat 9: B2B_Suckouts ( 2,42 $ )
+Seat 10: PRO100Marina ( 0,51 $ )
+PRO100Marina posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, KKaro ]
+andypeach folds
+alex79v raises [0,06 $]
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov calls [0,04 $]
+** Dealing flop ** [ 10Herz, 5Pik, 10Kreuz ]
+BSokolov checks
+alex79v checks
+** Dealing turn ** [ 7Kreuz ]
+BSokolov bets [0,02 $]
+alex79v calls [0,02 $]
+** Dealing river ** [ JKreuz ]
+BSokolov bets [0,02 $]
+alex79v folds
+** Summary **
+BSokolov did not show his hand
+BSokolov collected [ 0,16 $ ]
+
+
+
+#Game No : 551318207
+***** 888poker Hand History for Game 551318207 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:14:46
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,88 $ )
+Seat 2: andypeach ( 1,33 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,98 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 1,47 $ )
+Seat 7: nikolas19910 ( 1,12 $ )
+Seat 9: B2B_Suckouts ( 2,42 $ )
+Seat 10: PRO100Marina ( 0,50 $ )
+BSokolov posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, AKreuz ]
+alex79v folds
+corcass49 calls [0,02 $]
+balwasik_19 folds
+heureka2 folds
+nikolas19910 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov calls [0,01 $]
+andypeach checks
+** Dealing flop ** [ 2Kreuz, QKaro, QPik ]
+BSokolov checks
+andypeach checks
+corcass49 checks
+nikolas19910 checks
+** Dealing turn ** [ 7Kreuz ]
+BSokolov checks
+andypeach folds
+corcass49 bets [0,04 $]
+nikolas19910 calls [0,04 $]
+BSokolov folds
+** Dealing river ** [ 4Kreuz ]
+corcass49 bets [0,04 $]
+nikolas19910 calls [0,04 $]
+** Summary **
+corcass49 shows [ JPik, JHerz ]
+nikolas19910 shows [ KHerz, KKreuz ]
+nikolas19910 collected [ 0,23 $ ]
+
+
+
+#Game No : 551318243
+***** 888poker Hand History for Game 551318243 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:15:36
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,86 $ )
+Seat 2: andypeach ( 1,31 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,88 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 1,47 $ )
+Seat 7: nikolas19910 ( 1,25 $ )
+Seat 9: B2B_Suckouts ( 2,42 $ )
+Seat 10: PRO100Marina ( 0,50 $ )
+andypeach posts small blind [0,01 $]
+alex79v posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 4Karo ]
+corcass49 calls [0,02 $]
+balwasik_19 folds
+heureka2 calls [0,02 $]
+nikolas19910 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+andypeach folds
+alex79v checks
+** Dealing flop ** [ 4Pik, 10Herz, 6Karo ]
+alex79v checks
+corcass49 checks
+heureka2 bets [0,04 $]
+nikolas19910 calls [0,04 $]
+alex79v folds
+corcass49 folds
+** Dealing turn ** [ 2Pik ]
+heureka2 checks
+nikolas19910 checks
+** Dealing river ** [ 3Kreuz ]
+heureka2 checks
+nikolas19910 bets [0,10 $]
+heureka2 folds
+** Summary **
+nikolas19910 did not show his hand
+nikolas19910 collected [ 0,16 $ ]
+
+
+
+#Game No : 551318290
+***** 888poker Hand History for Game 551318290 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:16:32
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,86 $ )
+Seat 2: andypeach ( 1,30 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,86 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 1,41 $ )
+Seat 7: nikolas19910 ( 1,35 $ )
+Seat 9: B2B_Suckouts ( 2,42 $ )
+Seat 10: PRO100Marina ( 0,50 $ )
+alex79v posts small blind [0,01 $]
+corcass49 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 3Pik ]
+balwasik_19 folds
+heureka2 folds
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+andypeach calls [0,02 $]
+alex79v folds
+corcass49 checks
+** Dealing flop ** [ 2Karo, 8Karo, 9Pik ]
+corcass49 checks
+andypeach bets [0,02 $]
+corcass49 calls [0,02 $]
+** Dealing turn ** [ 9Karo ]
+corcass49 checks
+andypeach checks
+** Dealing river ** [ 2Kreuz ]
+corcass49 bets [0,04 $]
+andypeach calls [0,04 $]
+** Summary **
+corcass49 shows [ 3Karo, 10Karo ]
+andypeach shows [ 2Pik, QPik ]
+andypeach collected [ 0,16 $ ]
+
+
+
+#Game No : 551318325
+***** 888poker Hand History for Game 551318325 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:17:22
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,86 $ )
+Seat 2: andypeach ( 1,38 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,78 $ )
+Seat 5: balwasik_19 ( 0,58 $ )
+Seat 6: heureka2 ( 1,41 $ )
+Seat 7: nikolas19910 ( 1,35 $ )
+Seat 9: B2B_Suckouts ( 2,42 $ )
+Seat 10: PRO100Marina ( 0,50 $ )
+corcass49 posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 2Kreuz ]
+heureka2 folds
+nikolas19910 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+andypeach folds
+alex79v calls [0,02 $]
+corcass49 calls [0,01 $]
+balwasik_19 raises [0,04 $]
+nikolas19910 calls [0,04 $]
+alex79v folds
+corcass49 folds
+** Dealing flop ** [ KPik, 8Karo, AHerz ]
+balwasik_19 checks
+nikolas19910 checks
+** Dealing turn ** [ 4Pik ]
+balwasik_19 checks
+nikolas19910 checks
+** Dealing river ** [ 6Karo ]
+balwasik_19 bets [0,07 $]
+nikolas19910 calls [0,07 $]
+** Summary **
+balwasik_19 shows [ KHerz, KKaro ]
+nikolas19910 mucks [ 9Herz, 9Pik ]
+balwasik_19 collected [ 0,29 $ ]
+
+
+
+#Game No : 551318377
+***** 888poker Hand History for Game 551318377 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:18:35
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,86 $ )
+Seat 2: andypeach ( 1,38 $ )
+Seat 3: alex79v ( 2 $ )
+Seat 4: corcass49 ( 1,76 $ )
+Seat 5: balwasik_19 ( 0,74 $ )
+Seat 6: heureka2 ( 1,41 $ )
+Seat 7: nikolas19910 ( 1,22 $ )
+Seat 9: B2B_Suckouts ( 2,42 $ )
+Seat 10: PRO100Marina ( 0,50 $ )
+balwasik_19 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, KHerz ]
+nikolas19910 folds
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+andypeach calls [0,02 $]
+alex79v raises [0,06 $]
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+andypeach calls [0,04 $]
+** Dealing flop ** [ 4Herz, 5Karo, APik ]
+andypeach checks
+alex79v bets [0,10 $]
+andypeach folds
+** Summary **
+alex79v did not show his hand
+alex79v collected [ 0,15 $ ]
+
+
+
+#Game No : 551318413
+***** 888poker Hand History for Game 551318413 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:19:25
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,86 $ )
+Seat 2: andypeach ( 1,32 $ )
+Seat 3: alex79v ( 2,09 $ )
+Seat 4: corcass49 ( 1,76 $ )
+Seat 5: balwasik_19 ( 0,73 $ )
+Seat 6: heureka2 ( 1,39 $ )
+Seat 7: nikolas19910 ( 1,22 $ )
+Seat 9: B2B_Suckouts ( 2,42 $ )
+Seat 10: PRO100Marina ( 0,50 $ )
+heureka2 posts small blind [0,01 $]
+nikolas19910 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, JKreuz ]
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+BSokolov folds
+andypeach calls [0,02 $]
+alex79v folds
+corcass49 folds
+balwasik_19 calls [0,02 $]
+heureka2 calls [0,01 $]
+nikolas19910 checks
+** Dealing flop ** [ 3Kreuz, 7Herz, 9Herz ]
+heureka2 checks
+nikolas19910 checks
+PRO100Marina checks
+andypeach bets [0,02 $]
+balwasik_19 folds
+heureka2 calls [0,02 $]
+nikolas19910 folds
+PRO100Marina calls [0,02 $]
+** Dealing turn ** [ AKaro ]
+heureka2 checks
+PRO100Marina bets [0,06 $]
+andypeach folds
+heureka2 folds
+** Summary **
+PRO100Marina did not show his hand
+PRO100Marina collected [ 0,15 $ ]
+
+
+
+#Game No : 551318441
+***** 888poker Hand History for Game 551318441 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:20:12
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,86 $ )
+Seat 2: andypeach ( 1,28 $ )
+Seat 3: alex79v ( 2,09 $ )
+Seat 4: corcass49 ( 1,76 $ )
+Seat 5: balwasik_19 ( 0,71 $ )
+Seat 6: heureka2 ( 1,35 $ )
+Seat 7: nikolas19910 ( 1,20 $ )
+Seat 9: B2B_Suckouts ( 2,42 $ )
+Seat 10: PRO100Marina ( 0,61 $ )
+nikolas19910 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 2Herz ]
+PRO100Marina folds
+BSokolov calls [0,02 $]
+andypeach folds
+alex79v folds
+corcass49 folds
+balwasik_19 calls [0,02 $]
+heureka2 calls [0,02 $]
+nikolas19910 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 4Herz, 5Herz, 3Herz ]
+nikolas19910 checks
+B2B_Suckouts bets [0,05 $]
+BSokolov calls [0,05 $]
+balwasik_19 folds
+heureka2 calls [0,05 $]
+nikolas19910 folds
+** Dealing turn ** [ AKaro ]
+B2B_Suckouts bets [0,08 $]
+BSokolov raises [0,16 $]
+heureka2 calls [0,16 $]
+B2B_Suckouts calls [0,08 $]
+** Dealing river ** [ KHerz ]
+B2B_Suckouts checks
+BSokolov bets [0,02 $]
+heureka2 raises [0,18 $]
+B2B_Suckouts folds
+BSokolov calls [0,16 $]
+** Summary **
+heureka2 shows [ AHerz, 4Karo ]
+BSokolov mucks [ QHerz, 8Herz ]
+heureka2 collected [ 1,03 $ ]
+
+
+
+#Game No : 551318492
+***** 888poker Hand History for Game 551318492 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:21:25
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,45 $ )
+Seat 2: andypeach ( 1,28 $ )
+Seat 3: alex79v ( 2,09 $ )
+Seat 4: corcass49 ( 1,76 $ )
+Seat 5: balwasik_19 ( 0,69 $ )
+Seat 6: heureka2 ( 1,97 $ )
+Seat 7: nikolas19910 ( 1,18 $ )
+Seat 9: B2B_Suckouts ( 2,19 $ )
+Seat 10: PRO100Marina ( 0,61 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 3Pik ]
+BSokolov folds
+andypeach folds
+alex79v folds
+corcass49 calls [0,02 $]
+balwasik_19 folds
+heureka2 calls [0,02 $]
+nikolas19910 calls [0,02 $]
+B2B_Suckouts raises [0,05 $]
+PRO100Marina folds
+corcass49 folds
+heureka2 calls [0,04 $]
+nikolas19910 calls [0,04 $]
+** Dealing flop ** [ APik, 6Herz, KPik ]
+B2B_Suckouts checks
+heureka2 bets [0,11 $]
+nikolas19910 folds
+B2B_Suckouts folds
+** Summary **
+heureka2 did not show his hand
+heureka2 collected [ 0,21 $ ]
+
+
+
+#Game No : 551318526
+***** 888poker Hand History for Game 551318526 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:22:07
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,45 $ )
+Seat 2: andypeach ( 1,28 $ )
+Seat 3: alex79v ( 2,09 $ )
+Seat 4: corcass49 ( 1,74 $ )
+Seat 5: balwasik_19 ( 0,69 $ )
+Seat 6: heureka2 ( 2,12 $ )
+Seat 7: nikolas19910 ( 1,12 $ )
+Seat 9: B2B_Suckouts ( 2,13 $ )
+Seat 10: PRO100Marina ( 0,59 $ )
+PRO100Marina posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 6Pik ]
+andypeach folds
+alex79v folds
+corcass49 folds
+balwasik_19 folds
+heureka2 calls [0,02 $]
+nikolas19910 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina calls [0,01 $]
+BSokolov checks
+** Dealing flop ** [ KKreuz, 4Herz, 6Herz ]
+PRO100Marina checks
+BSokolov checks
+heureka2 checks
+nikolas19910 checks
+** Dealing turn ** [ 2Kreuz ]
+PRO100Marina bets [0,02 $]
+BSokolov folds
+heureka2 calls [0,02 $]
+nikolas19910 calls [0,02 $]
+** Dealing river ** [ 7Pik ]
+PRO100Marina bets [0,04 $]
+heureka2 folds
+nikolas19910 folds
+** Summary **
+PRO100Marina did not show his hand
+PRO100Marina collected [ 0,14 $ ]
+
+
+
+#Game No : 551318557
+***** 888poker Hand History for Game 551318557 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:22:47
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,43 $ )
+Seat 2: andypeach ( 1,28 $ )
+Seat 3: alex79v ( 2,09 $ )
+Seat 4: corcass49 ( 1,74 $ )
+Seat 5: balwasik_19 ( 0,69 $ )
+Seat 6: heureka2 ( 2,08 $ )
+Seat 9: B2B_Suckouts ( 2,13 $ )
+Seat 10: PRO100Marina ( 0,69 $ )
+BSokolov posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, QKreuz ]
+alex79v folds
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov calls [0,01 $]
+andypeach checks
+** Dealing flop ** [ 10Pik, QKaro, KHerz ]
+BSokolov checks
+andypeach checks
+** Dealing turn ** [ 9Kreuz ]
+BSokolov checks
+andypeach checks
+** Dealing river ** [ 3Kreuz ]
+BSokolov checks
+andypeach bets [0,02 $]
+BSokolov folds
+** Summary **
+andypeach did not show his hand
+andypeach collected [ 0,04 $ ]
+
+
+
+#Game No : 551318584
+***** 888poker Hand History for Game 551318584 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:23:19
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,41 $ )
+Seat 2: andypeach ( 1,30 $ )
+Seat 3: alex79v ( 2,09 $ )
+Seat 4: corcass49 ( 1,74 $ )
+Seat 5: balwasik_19 ( 0,69 $ )
+Seat 6: heureka2 ( 2,08 $ )
+Seat 9: B2B_Suckouts ( 2,13 $ )
+Seat 10: PRO100Marina ( 0,69 $ )
+andypeach posts small blind [0,01 $]
+alex79v posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, AKaro ]
+corcass49 calls [0,02 $]
+balwasik_19 raises [0,05 $]
+heureka2 folds
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+andypeach folds
+alex79v folds
+corcass49 calls [0,03 $]
+** Dealing flop ** [ 5Herz, 5Pik, QKreuz ]
+corcass49 bets [0,02 $]
+balwasik_19 raises [0,05 $]
+corcass49 calls [0,03 $]
+** Dealing turn ** [ 2Kreuz ]
+corcass49 checks
+balwasik_19 bets [0,07 $]
+corcass49 calls [0,07 $]
+** Dealing river ** [ 3Kreuz ]
+corcass49 checks
+balwasik_19 bets [0,18 $]
+corcass49 folds
+** Summary **
+balwasik_19 did not show his hand
+balwasik_19 collected [ 0,35 $ ]
+
+
+
+#Game No : 551318609
+***** 888poker Hand History for Game 551318609 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:24:05
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: BSokolov ( 0,41 $ )
+Seat 2: andypeach ( 1,29 $ )
+Seat 4: corcass49 ( 1,57 $ )
+Seat 5: balwasik_19 ( 0,87 $ )
+Seat 6: heureka2 ( 2,08 $ )
+Seat 9: B2B_Suckouts ( 2,13 $ )
+Seat 10: PRO100Marina ( 0,69 $ )
+corcass49 posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, JKreuz ]
+heureka2 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov calls [0,02 $]
+andypeach calls [0,02 $]
+corcass49 calls [0,01 $]
+balwasik_19 checks
+** Dealing flop ** [ AKaro, 8Karo, 7Herz ]
+corcass49 checks
+balwasik_19 checks
+heureka2 bets [0,05 $]
+BSokolov folds
+andypeach folds
+corcass49 folds
+balwasik_19 folds
+** Summary **
+heureka2 collected [ 0,10 $ ]
+
+
+
+#Game No : 551318638
+***** 888poker Hand History for Game 551318638 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:24:42
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: BSokolov ( 0,39 $ )
+Seat 2: andypeach ( 1,27 $ )
+Seat 4: corcass49 ( 1,55 $ )
+Seat 5: balwasik_19 ( 0,85 $ )
+Seat 6: heureka2 ( 2,16 $ )
+Seat 9: B2B_Suckouts ( 2,13 $ )
+Seat 10: PRO100Marina ( 0,69 $ )
+balwasik_19 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 7Karo ]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov calls [0,02 $]
+andypeach folds
+corcass49 folds
+balwasik_19 calls [0,01 $]
+heureka2 checks
+** Dealing flop ** [ KPik, 8Herz, 5Herz ]
+balwasik_19 checks
+heureka2 checks
+BSokolov bets [0,06 $]
+balwasik_19 folds
+heureka2 folds
+** Summary **
+BSokolov collected [ 0,06 $ ]
+
+
+
+#Game No : 551318657
+***** 888poker Hand History for Game 551318657 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:25:22
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,43 $ )
+Seat 2: andypeach ( 1,27 $ )
+Seat 4: corcass49 ( 1,55 $ )
+Seat 5: balwasik_19 ( 0,83 $ )
+Seat 6: heureka2 ( 2,14 $ )
+Seat 7: alex79v ( 2,07 $ )
+Seat 9: B2B_Suckouts ( 2,13 $ )
+Seat 10: PRO100Marina ( 0,69 $ )
+heureka2 posts small blind [0,01 $]
+alex79v posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 3Pik ]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov calls [0,02 $]
+andypeach folds
+corcass49 calls [0,02 $]
+balwasik_19 raises [0,04 $]
+heureka2 folds
+alex79v folds
+BSokolov calls [0,02 $]
+corcass49 calls [0,02 $]
+** Dealing flop ** [ 5Kreuz, 7Pik, 10Karo ]
+BSokolov bets [0,02 $]
+corcass49 calls [0,02 $]
+balwasik_19 calls [0,02 $]
+** Dealing turn ** [ 9Herz ]
+BSokolov bets [0,10 $]
+corcass49 folds
+balwasik_19 calls [0,10 $]
+** Dealing river ** [ 2Herz ]
+BSokolov bets [0,27 $]
+balwasik_19 folds
+** Summary **
+BSokolov collected [ 0,39 $ ]
+
+
+
+#Game No : 551318689
+***** 888poker Hand History for Game 551318689 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:26:15
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,66 $ )
+Seat 2: andypeach ( 1,27 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,49 $ )
+Seat 5: balwasik_19 ( 0,67 $ )
+Seat 6: heureka2 ( 2,13 $ )
+Seat 7: alex79v ( 2,05 $ )
+Seat 9: B2B_Suckouts ( 2,13 $ )
+Seat 10: PRO100Marina ( 0,69 $ )
+alex79v posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 10Karo ]
+PRO100Marina folds
+BSokolov calls [0,02 $]
+andypeach raises [0,08 $]
+sundwig folds
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+alex79v folds
+B2B_Suckouts folds
+BSokolov folds
+** Summary **
+andypeach did not show his hand
+andypeach collected [ 0,09 $ ]
+
+
+
+#Game No : 551318705
+***** 888poker Hand History for Game 551318705 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:26:44
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,64 $ )
+Seat 2: andypeach ( 1,34 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,49 $ )
+Seat 5: balwasik_19 ( 0,67 $ )
+Seat 6: heureka2 ( 2,13 $ )
+Seat 7: alex79v ( 2,04 $ )
+Seat 9: B2B_Suckouts ( 2,11 $ )
+Seat 10: PRO100Marina ( 0,69 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 4Herz ]
+BSokolov folds
+andypeach folds
+sundwig folds
+corcass49 folds
+balwasik_19 calls [0,02 $]
+heureka2 folds
+alex79v folds
+B2B_Suckouts folds
+PRO100Marina checks
+** Dealing flop ** [ 8Kreuz, JPik, 10Karo ]
+PRO100Marina checks
+balwasik_19 bets [0,03 $]
+PRO100Marina folds
+** Summary **
+balwasik_19 did not show his hand
+balwasik_19 collected [ 0,05 $ ]
+
+
+
+#Game No : 551318721
+***** 888poker Hand History for Game 551318721 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:27:13
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,64 $ )
+Seat 2: andypeach ( 1,34 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,49 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: heureka2 ( 2,13 $ )
+Seat 7: alex79v ( 2,04 $ )
+Seat 9: B2B_Suckouts ( 2,10 $ )
+Seat 10: PRO100Marina ( 0,67 $ )
+PRO100Marina posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, KKreuz ]
+andypeach folds
+sundwig folds
+corcass49 folds
+balwasik_19 folds
+heureka2 calls [0,02 $]
+alex79v folds
+B2B_Suckouts folds
+PRO100Marina calls [0,01 $]
+BSokolov checks
+** Dealing flop ** [ 5Kreuz, 9Pik, 4Pik ]
+PRO100Marina checks
+BSokolov checks
+heureka2 checks
+** Dealing turn ** [ 6Herz ]
+PRO100Marina bets [0,05 $]
+BSokolov folds
+heureka2 calls [0,05 $]
+** Dealing river ** [ KPik ]
+PRO100Marina checks
+heureka2 bets [0,08 $]
+PRO100Marina calls [0,08 $]
+** Summary **
+heureka2 shows [ QKaro, KHerz ]
+PRO100Marina shows [ 5Pik, 6Karo ]
+PRO100Marina collected [ 0,30 $ ]
+
+
+
+#Game No : 551318741
+***** 888poker Hand History for Game 551318741 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:27:59
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,62 $ )
+Seat 2: andypeach ( 1,34 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,49 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: heureka2 ( 1,98 $ )
+Seat 7: alex79v ( 2,04 $ )
+Seat 9: B2B_Suckouts ( 2,10 $ )
+Seat 10: PRO100Marina ( 0,82 $ )
+BSokolov posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 9Kreuz ]
+sundwig folds
+corcass49 folds
+balwasik_19 folds
+heureka2 calls [0,02 $]
+alex79v folds
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov calls [0,01 $]
+andypeach checks
+** Dealing flop ** [ 7Kreuz, 7Herz, 8Kreuz ]
+BSokolov bets [0,02 $]
+andypeach folds
+heureka2 calls [0,02 $]
+** Dealing turn ** [ 5Karo ]
+BSokolov bets [0,02 $]
+heureka2 calls [0,02 $]
+** Dealing river ** [ 10Karo ]
+BSokolov bets [0,02 $]
+heureka2 folds
+** Summary **
+BSokolov did not show his hand
+BSokolov collected [ 0,14 $ ]
+
+
+
+#Game No : 551318757
+***** 888poker Hand History for Game 551318757 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:28:35
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,70 $ )
+Seat 2: andypeach ( 1,32 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,49 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: heureka2 ( 1,92 $ )
+Seat 7: alex79v ( 2,04 $ )
+Seat 9: B2B_Suckouts ( 2,10 $ )
+Seat 10: PRO100Marina ( 0,82 $ )
+andypeach posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, KKaro ]
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+alex79v folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+BSokolov folds
+andypeach calls [0,01 $]
+sundwig checks
+** Dealing flop ** [ 5Herz, JKreuz, 2Karo ]
+andypeach bets [0,02 $]
+sundwig calls [0,02 $]
+PRO100Marina calls [0,02 $]
+** Dealing turn ** [ 5Karo ]
+andypeach bets [0,02 $]
+sundwig folds
+PRO100Marina folds
+** Summary **
+andypeach did not show his hand
+andypeach collected [ 0,12 $ ]
+
+
+
+#Game No : 551318774
+***** 888poker Hand History for Game 551318774 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:29:08
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,70 $ )
+Seat 2: andypeach ( 1,40 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,49 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: heureka2 ( 1,92 $ )
+Seat 7: alex79v ( 2,04 $ )
+Seat 9: B2B_Suckouts ( 2,10 $ )
+Seat 10: PRO100Marina ( 0,78 $ )
+sundwig posts small blind [0,01 $]
+corcass49 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, KKreuz ]
+balwasik_19 folds
+heureka2 folds
+alex79v folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+BSokolov folds
+andypeach calls [0,02 $]
+sundwig calls [0,01 $]
+corcass49 checks
+** Dealing flop ** [ 3Kreuz, 2Karo, KKaro ]
+sundwig checks
+corcass49 checks
+PRO100Marina checks
+andypeach checks
+** Dealing turn ** [ 10Karo ]
+sundwig checks
+corcass49 checks
+PRO100Marina checks
+andypeach checks
+** Dealing river ** [ 6Kreuz ]
+sundwig checks
+corcass49 bets [0,02 $]
+PRO100Marina folds
+andypeach folds
+sundwig folds
+** Summary **
+corcass49 did not show his hand
+corcass49 collected [ 0,08 $ ]
+
+
+
+#Game No : 551318801
+***** 888poker Hand History for Game 551318801 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:30:18
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,70 $ )
+Seat 2: andypeach ( 1,38 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,55 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 6: heureka2 ( 1,92 $ )
+Seat 7: alex79v ( 2,04 $ )
+Seat 9: B2B_Suckouts ( 2,10 $ )
+Seat 10: PRO100Marina ( 0,76 $ )
+corcass49 posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 4Karo ]
+heureka2 folds
+alex79v folds
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov calls [0,02 $]
+andypeach folds
+sundwig folds
+corcass49 calls [0,01 $]
+balwasik_19 checks
+** Dealing flop ** [ 7Kreuz, 3Karo, 10Pik ]
+corcass49 checks
+balwasik_19 checks
+BSokolov bets [0,04 $]
+corcass49 folds
+balwasik_19 folds
+** Summary **
+BSokolov did not show his hand
+BSokolov collected [ 0,06 $ ]
+
+
+
+#Game No : 551318818
+***** 888poker Hand History for Game 551318818 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:30:58
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,74 $ )
+Seat 2: andypeach ( 1,38 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,53 $ )
+Seat 5: balwasik_19 ( 0,68 $ )
+Seat 6: heureka2 ( 1,92 $ )
+Seat 7: alex79v ( 2,04 $ )
+Seat 9: B2B_Suckouts ( 2,10 $ )
+Seat 10: PRO100Marina ( 0,76 $ )
+balwasik_19 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 5Karo ]
+alex79v folds
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov calls [0,02 $]
+andypeach folds
+sundwig folds
+corcass49 calls [0,02 $]
+balwasik_19 calls [0,01 $]
+heureka2 checks
+** Dealing flop ** [ 10Pik, 4Karo, QPik ]
+balwasik_19 checks
+heureka2 bets [0,02 $]
+BSokolov calls [0,02 $]
+corcass49 calls [0,02 $]
+balwasik_19 folds
+** Dealing turn ** [ JKaro ]
+heureka2 checks
+BSokolov checks
+corcass49 bets [0,04 $]
+heureka2 calls [0,04 $]
+BSokolov calls [0,04 $]
+** Dealing river ** [ 9Karo ]
+heureka2 checks
+BSokolov bets [0,13 $]
+corcass49 folds
+heureka2 folds
+** Summary **
+BSokolov did not show his hand
+BSokolov collected [ 0,25 $ ]
+
+
+
+#Game No : 551318855
+***** 888poker Hand History for Game 551318855 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:32:06
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,91 $ )
+Seat 2: andypeach ( 1,38 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,45 $ )
+Seat 5: balwasik_19 ( 0,66 $ )
+Seat 6: heureka2 ( 1,84 $ )
+Seat 7: alex79v ( 2,04 $ )
+Seat 9: B2B_Suckouts ( 2,10 $ )
+Seat 10: PRO100Marina ( 0,76 $ )
+heureka2 posts small blind [0,01 $]
+alex79v posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 10Pik ]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+andypeach folds
+sundwig folds
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+** Summary **
+alex79v did not show his hand
+alex79v collected [ 0,03 $ ]
+
+
+
+#Game No : 551318866
+***** 888poker Hand History for Game 551318866 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:32:26
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,91 $ )
+Seat 2: andypeach ( 1,38 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,45 $ )
+Seat 5: balwasik_19 ( 0,66 $ )
+Seat 6: heureka2 ( 1,83 $ )
+Seat 7: alex79v ( 2,05 $ )
+Seat 9: B2B_Suckouts ( 2,10 $ )
+Seat 10: PRO100Marina ( 0,76 $ )
+alex79v posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 8Herz ]
+PRO100Marina folds
+BSokolov folds
+andypeach folds
+sundwig folds
+corcass49 calls [0,02 $]
+balwasik_19 folds
+heureka2 calls [0,02 $]
+alex79v calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 4Pik, 4Kreuz, 8Kreuz ]
+alex79v checks
+B2B_Suckouts bets [0,02 $]
+corcass49 folds
+heureka2 calls [0,02 $]
+alex79v folds
+** Dealing turn ** [ AKaro ]
+B2B_Suckouts checks
+heureka2 bets [0,04 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing river ** [ 10Kreuz ]
+B2B_Suckouts checks
+heureka2 checks
+** Summary **
+B2B_Suckouts shows [ 10Pik, 8Herz ]
+heureka2 mucks [ 7Karo, 7Herz ]
+B2B_Suckouts collected [ 0,19 $ ]
+
+
+
+#Game No : 551318888
+***** 888poker Hand History for Game 551318888 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:33:12
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,91 $ )
+Seat 2: andypeach ( 1,38 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,43 $ )
+Seat 5: balwasik_19 ( 0,66 $ )
+Seat 6: heureka2 ( 1,75 $ )
+Seat 7: alex79v ( 2,03 $ )
+Seat 9: B2B_Suckouts ( 2,21 $ )
+Seat 10: PRO100Marina ( 0,76 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 7Kreuz ]
+BSokolov calls [0,02 $]
+andypeach folds
+sundwig folds
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+alex79v folds
+B2B_Suckouts folds
+PRO100Marina checks
+** Dealing flop ** [ JHerz, 10Pik, 3Kreuz ]
+PRO100Marina checks
+BSokolov bets [0,02 $]
+PRO100Marina calls [0,02 $]
+** Dealing turn ** [ KPik ]
+PRO100Marina bets [0,02 $]
+BSokolov calls [0,02 $]
+** Dealing river ** [ 9Karo ]
+PRO100Marina bets [0,02 $]
+BSokolov calls [0,02 $]
+** Summary **
+PRO100Marina shows [ JKreuz, 5Kreuz ]
+BSokolov shows [ 10Herz, 9Herz ]
+BSokolov collected [ 0,16 $ ]
+
+
+
+#Game No : 551318904
+***** 888poker Hand History for Game 551318904 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:33:43
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,99 $ )
+Seat 2: andypeach ( 1,38 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,43 $ )
+Seat 5: balwasik_19 ( 0,66 $ )
+Seat 6: heureka2 ( 1,75 $ )
+Seat 7: alex79v ( 2,03 $ )
+Seat 9: B2B_Suckouts ( 2,20 $ )
+Seat 10: PRO100Marina ( 0,68 $ )
+PRO100Marina posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, AKaro ]
+andypeach folds
+sundwig folds
+corcass49 folds
+balwasik_19 folds
+heureka2 folds
+alex79v folds
+B2B_Suckouts raises [0,06 $]
+PRO100Marina folds
+BSokolov folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551318912
+***** 888poker Hand History for Game 551318912 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:34:09
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,97 $ )
+Seat 2: andypeach ( 1,38 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,43 $ )
+Seat 5: balwasik_19 ( 0,66 $ )
+Seat 6: heureka2 ( 1,75 $ )
+Seat 9: B2B_Suckouts ( 2,23 $ )
+Seat 10: PRO100Marina ( 0,67 $ )
+BSokolov posts small blind [0,01 $]
+andypeach posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, AKaro ]
+sundwig raises [0,06 $]
+corcass49 folds
+balwasik_19 calls [0,06 $]
+heureka2 folds
+B2B_Suckouts calls [0,06 $]
+PRO100Marina calls [0,06 $]
+BSokolov folds
+andypeach calls [0,04 $]
+** Dealing flop ** [ 7Kreuz, 3Pik, QKaro ]
+andypeach bets [0,31 $]
+sundwig folds
+balwasik_19 folds
+B2B_Suckouts folds
+PRO100Marina calls [0,31 $]
+** Dealing turn ** [ 9Herz ]
+andypeach bets [0,46 $]
+PRO100Marina calls [0,30 $]
+** Dealing river ** [ 4Herz ]
+** Summary **
+andypeach shows [ KPik, QHerz ]
+PRO100Marina shows [ QKreuz, AHerz ]
+PRO100Marina collected [ 1,44 $ ]
+
+
+
+#Game No : 551318938
+***** 888poker Hand History for Game 551318938 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:34:56
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,96 $ )
+Seat 2: andypeach ( 0,71 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: corcass49 ( 1,43 $ )
+Seat 5: balwasik_19 ( 0,60 $ )
+Seat 6: heureka2 ( 1,75 $ )
+Seat 9: B2B_Suckouts ( 2,17 $ )
+Seat 10: PRO100Marina ( 1,44 $ )
+andypeach posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 2Pik ]
+corcass49 folds
+balwasik_19 folds
+heureka2 calls [0,02 $]
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+BSokolov calls [0,02 $]
+andypeach calls [0,01 $]
+sundwig checks
+** Dealing flop ** [ 9Karo, 5Pik, 8Karo ]
+andypeach folds
+sundwig checks
+heureka2 bets [0,06 $]
+PRO100Marina folds
+BSokolov folds
+sundwig folds
+** Summary **
+heureka2 collected [ 0,10 $ ]
+
+
+
+#Game No : 551318960
+***** 888poker Hand History for Game 551318960 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:35:33
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: BSokolov ( 0,94 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 5: balwasik_19 ( 0,60 $ )
+Seat 6: heureka2 ( 1,83 $ )
+Seat 9: B2B_Suckouts ( 2,17 $ )
+Seat 10: PRO100Marina ( 1,42 $ )
+balwasik_19 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 3Herz ]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+sundwig folds
+balwasik_19 calls [0,01 $]
+heureka2 checks
+** Dealing flop ** [ QPik, 8Kreuz, 2Kreuz ]
+balwasik_19 checks
+heureka2 checks
+** Dealing turn ** [ 3Pik ]
+balwasik_19 bets [0,04 $]
+heureka2 calls [0,04 $]
+** Dealing river ** [ 5Karo ]
+balwasik_19 bets [0,09 $]
+heureka2 folds
+** Summary **
+balwasik_19 collected [ 0,12 $ ]
+
+
+
+#Game No : 551318982
+***** 888poker Hand History for Game 551318982 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:36:11
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: BSokolov ( 0,94 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 5: balwasik_19 ( 0,66 $ )
+Seat 6: heureka2 ( 1,77 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: B2B_Suckouts ( 2,17 $ )
+Seat 10: PRO100Marina ( 1,42 $ )
+heureka2 posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, JPik ]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+sundwig folds
+balwasik_19 folds
+heureka2 calls [0,01 $]
+Msigo_ checks
+** Dealing flop ** [ 7Herz, 3Karo, QKreuz ]
+heureka2 checks
+Msigo_ checks
+** Dealing turn ** [ 3Pik ]
+heureka2 bets [0,04 $]
+Msigo_ folds
+** Summary **
+heureka2 collected [ 0,04 $ ]
+
+
+
+#Game No : 551319004
+***** 888poker Hand History for Game 551319004 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:37:00
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: BSokolov ( 0,94 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 5: balwasik_19 ( 0,66 $ )
+Seat 6: heureka2 ( 1,79 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: B2B_Suckouts ( 2,17 $ )
+Seat 10: PRO100Marina ( 1,42 $ )
+Msigo_ posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, AKreuz ]
+PRO100Marina calls [0,02 $]
+BSokolov folds
+sundwig folds
+balwasik_19 calls [0,02 $]
+heureka2 folds
+Msigo_ folds
+B2B_Suckouts raises [0,04 $]
+PRO100Marina calls [0,04 $]
+balwasik_19 calls [0,04 $]
+** Dealing flop ** [ 8Pik, 9Karo, 2Karo ]
+B2B_Suckouts checks
+PRO100Marina checks
+balwasik_19 checks
+** Dealing turn ** [ 2Herz ]
+B2B_Suckouts checks
+PRO100Marina checks
+balwasik_19 checks
+** Dealing river ** [ 10Herz ]
+B2B_Suckouts bets [0,16 $]
+PRO100Marina folds
+balwasik_19 folds
+** Summary **
+B2B_Suckouts collected [ 0,18 $ ]
+
+
+
+#Game No : 551319034
+***** 888poker Hand History for Game 551319034 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:38:17
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: BSokolov ( 0,94 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 5: balwasik_19 ( 0,60 $ )
+Seat 6: heureka2 ( 1,79 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: B2B_Suckouts ( 2,29 $ )
+Seat 10: PRO100Marina ( 1,36 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 9Pik ]
+BSokolov folds
+sundwig folds
+balwasik_19 raises [0,04 $]
+heureka2 folds
+Msigo_ folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+** Dealing flop ** [ 5Pik, 2Pik, QKaro ]
+PRO100Marina bets [0,02 $]
+balwasik_19 raises [0,06 $]
+PRO100Marina calls [0,04 $]
+** Dealing turn ** [ KKaro ]
+PRO100Marina bets [0,02 $]
+balwasik_19 calls [0,02 $]
+** Dealing river ** [ 8Herz ]
+PRO100Marina checks
+balwasik_19 checks
+** Summary **
+PRO100Marina shows [ 4Herz, 3Karo ]
+balwasik_19 shows [ 5Herz, 6Herz ]
+balwasik_19 collected [ 0,24 $ ]
+
+
+
+#Game No : 551319050
+***** 888poker Hand History for Game 551319050 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:38:53
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: BSokolov ( 0,94 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 5: balwasik_19 ( 0,72 $ )
+Seat 6: heureka2 ( 1,79 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: B2B_Suckouts ( 2,28 $ )
+Seat 10: PRO100Marina ( 1,24 $ )
+PRO100Marina posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 2Kreuz ]
+sundwig folds
+balwasik_19 raises [0,05 $]
+heureka2 folds
+Msigo_ folds
+B2B_Suckouts folds
+PRO100Marina calls [0,04 $]
+BSokolov folds
+** Dealing flop ** [ QHerz, 4Kreuz, 7Pik ]
+PRO100Marina checks
+balwasik_19 bets [0,06 $]
+PRO100Marina folds
+** Summary **
+balwasik_19 collected [ 0,12 $ ]
+
+
+
+#Game No : 551319070
+***** 888poker Hand History for Game 551319070 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:39:35
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,92 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 5: balwasik_19 ( 0,79 $ )
+Seat 6: heureka2 ( 1,79 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: B2B_Suckouts ( 2,28 $ )
+Seat 10: PRO100Marina ( 1,19 $ )
+BSokolov posts small blind [0,01 $]
+Improvisium posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 9Pik ]
+sundwig folds
+balwasik_19 raises [0,04 $]
+heureka2 folds
+Msigo_ calls [0,04 $]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+Improvisium calls [0,02 $]
+** Dealing flop ** [ QHerz, QKaro, 2Karo ]
+Improvisium checks
+balwasik_19 checks
+Msigo_ checks
+** Dealing turn ** [ 10Kreuz ]
+Improvisium checks
+balwasik_19 bets [0,06 $]
+Msigo_ calls [0,06 $]
+Improvisium folds
+** Dealing river ** [ 8Karo ]
+balwasik_19 checks
+Msigo_ checks
+** Summary **
+balwasik_19 shows [ 9Karo, APik ]
+Msigo_ shows [ 3Herz, 3Karo ]
+Msigo_ collected [ 0,24 $ ]
+
+
+
+#Game No : 551319090
+***** 888poker Hand History for Game 551319090 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:40:29
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,91 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 5: balwasik_19 ( 0,69 $ )
+Seat 6: heureka2 ( 1,79 $ )
+Seat 7: Msigo_ ( 2,14 $ )
+Seat 9: B2B_Suckouts ( 2,28 $ )
+Seat 10: PRO100Marina ( 1,19 $ )
+Improvisium posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 6Kreuz ]
+balwasik_19 raises [0,04 $]
+heureka2 folds
+Msigo_ folds
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+Improvisium folds
+sundwig folds
+** Summary **
+balwasik_19 collected [ 0,05 $ ]
+
+
+
+#Game No : 551319099
+***** 888poker Hand History for Game 551319099 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:40:48
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,91 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 0,72 $ )
+Seat 6: heureka2 ( 1,79 $ )
+Seat 7: Msigo_ ( 2,14 $ )
+Seat 9: B2B_Suckouts ( 2,28 $ )
+Seat 10: PRO100Marina ( 1,19 $ )
+sundwig posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 7Kreuz ]
+balwasik_19 folds
+heureka2 folds
+Msigo_ raises [0,06 $]
+B2B_Suckouts folds
+PRO100Marina calls [0,06 $]
+BSokolov folds
+Improvisium folds
+sundwig calls [0,05 $]
+gimeurchips folds
+** Dealing flop ** [ 3Pik, KPik, 5Kreuz ]
+sundwig checks
+Msigo_ bets [0,08 $]
+PRO100Marina raises [0,16 $]
+sundwig folds
+Msigo_ calls [0,08 $]
+** Dealing turn ** [ 9Karo ]
+Msigo_ bets [0,34 $]
+PRO100Marina calls [0,34 $]
+** Dealing river ** [ 9Pik ]
+Msigo_ bets [0,39 $]
+PRO100Marina calls [0,39 $]
+** Summary **
+Msigo_ shows [ 5Herz, 5Pik ]
+PRO100Marina mucks [ APik, KKaro ]
+Msigo_ collected [ 1,86 $ ]
+
+
+
+#Game No : 551319132
+***** 888poker Hand History for Game 551319132 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:42:05
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,91 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 0,72 $ )
+Seat 6: heureka2 ( 1,79 $ )
+Seat 7: Msigo_ ( 3,05 $ )
+Seat 9: B2B_Suckouts ( 2,28 $ )
+Seat 10: PRO100Marina ( 0,24 $ )
+gimeurchips posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, APik ]
+heureka2 folds
+Msigo_ folds
+B2B_Suckouts raises [0,06 $]
+PRO100Marina folds
+BSokolov folds
+Improvisium folds
+sundwig folds
+gimeurchips folds
+balwasik_19 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551319150
+***** 888poker Hand History for Game 551319150 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:42:27
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,91 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 0,70 $ )
+Seat 7: Msigo_ ( 3,05 $ )
+Seat 9: B2B_Suckouts ( 2,31 $ )
+Seat 10: PRO100Marina ( 0,24 $ )
+balwasik_19 posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 9Kreuz ]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+Improvisium folds
+sundwig raises [0,06 $]
+gimeurchips folds
+balwasik_19 folds
+Msigo_ folds
+** Summary **
+sundwig collected [ 0,05 $ ]
+
+
+
+#Game No : 551319157
+***** 888poker Hand History for Game 551319157 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:42:48
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,91 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2,03 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 0,69 $ )
+Seat 7: Msigo_ ( 3,03 $ )
+Seat 9: B2B_Suckouts ( 2,31 $ )
+Seat 10: PRO100Marina ( 0,24 $ )
+Msigo_ posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, KPik ]
+PRO100Marina calls [0,02 $]
+BSokolov folds
+Improvisium folds
+sundwig folds
+gimeurchips folds
+balwasik_19 folds
+Msigo_ folds
+B2B_Suckouts checks
+** Dealing flop ** [ 2Herz, 10Herz, 4Herz ]
+B2B_Suckouts checks
+PRO100Marina checks
+** Dealing turn ** [ 2Karo ]
+B2B_Suckouts checks
+PRO100Marina checks
+** Dealing river ** [ 7Karo ]
+B2B_Suckouts bets [0,02 $]
+PRO100Marina folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551319172
+***** 888poker Hand History for Game 551319172 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:43:21
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,91 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2,03 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 0,69 $ )
+Seat 7: Msigo_ ( 3,02 $ )
+Seat 9: B2B_Suckouts ( 2,34 $ )
+Seat 10: PRO100Marina ( 0,22 $ )
+B2B_Suckouts posts small blind [0,01 $]
+PRO100Marina posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 7Pik ]
+BSokolov calls [0,02 $]
+Improvisium folds
+sundwig folds
+gimeurchips folds
+balwasik_19 folds
+Msigo_ folds
+B2B_Suckouts raises [0,05 $]
+PRO100Marina calls [0,04 $]
+BSokolov calls [0,04 $]
+** Dealing flop ** [ 8Kreuz, 9Herz, 8Herz ]
+B2B_Suckouts bets [0,05 $]
+PRO100Marina folds
+BSokolov folds
+** Summary **
+B2B_Suckouts collected [ 0,17 $ ]
+
+
+
+#Game No : 551319192
+***** 888poker Hand History for Game 551319192 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:44:01
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,85 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2,03 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 0,69 $ )
+Seat 7: Msigo_ ( 3,02 $ )
+Seat 9: B2B_Suckouts ( 2,45 $ )
+Seat 10: PRO100Marina ( 0,16 $ )
+PRO100Marina posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, JHerz ]
+Improvisium folds
+sundwig folds
+gimeurchips folds
+balwasik_19 folds
+Msigo_ folds
+B2B_Suckouts raises [0,06 $]
+PRO100Marina folds
+BSokolov folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551319214
+***** 888poker Hand History for Game 551319214 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:44:35
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,83 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2,03 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 0,69 $ )
+Seat 7: Msigo_ ( 3,02 $ )
+Seat 9: B2B_Suckouts ( 2,48 $ )
+Seat 10: PRO100Marina ( 0,15 $ )
+BSokolov posts small blind [0,01 $]
+Improvisium posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 2Karo ]
+sundwig folds
+gimeurchips folds
+balwasik_19 raises [0,05 $]
+Msigo_ folds
+B2B_Suckouts folds
+PRO100Marina calls [0,05 $]
+BSokolov folds
+Improvisium folds
+** Dealing flop ** [ 8Pik, 2Herz, 6Kreuz ]
+balwasik_19 checks
+PRO100Marina checks
+** Dealing turn ** [ KHerz ]
+balwasik_19 bets [0,02 $]
+PRO100Marina folds
+** Summary **
+balwasik_19 collected [ 0,13 $ ]
+
+
+
+#Game No : 551319233
+***** 888poker Hand History for Game 551319233 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:45:20
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,82 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2,03 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 0,77 $ )
+Seat 7: Msigo_ ( 3,02 $ )
+Seat 9: B2B_Suckouts ( 2,48 $ )
+Seat 10: PRO100Marina ( 0,10 $ )
+Improvisium posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 6Herz ]
+gimeurchips folds
+balwasik_19 raises [0,04 $]
+Msigo_ calls [0,04 $]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+Improvisium folds
+sundwig calls [0,02 $]
+** Dealing flop ** [ 10Herz, 4Karo, JKreuz ]
+sundwig checks
+balwasik_19 checks
+Msigo_ bets [0,06 $]
+sundwig folds
+balwasik_19 folds
+** Summary **
+Msigo_ collected [ 0,13 $ ]
+
+
+
+#Game No : 551319256
+***** 888poker Hand History for Game 551319256 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:45:54
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,82 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 0,73 $ )
+Seat 7: Msigo_ ( 3,11 $ )
+Seat 9: B2B_Suckouts ( 2,48 $ )
+Seat 10: PRO100Marina ( 0,10 $ )
+sundwig posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, KKaro ]
+balwasik_19 folds
+Msigo_ folds
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov calls [0,02 $]
+Improvisium raises [0,06 $]
+sundwig calls [0,05 $]
+gimeurchips folds
+BSokolov calls [0,04 $]
+** Dealing flop ** [ 2Karo, 9Herz, APik ]
+sundwig checks
+BSokolov checks
+Improvisium bets [0,06 $]
+sundwig folds
+BSokolov folds
+** Summary **
+Improvisium collected [ 0,19 $ ]
+
+
+
+#Game No : 551319276
+***** 888poker Hand History for Game 551319276 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:46:40
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,76 $ )
+Seat 2: Improvisium ( 2,13 $ )
+Seat 3: sundwig ( 1,94 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 0,73 $ )
+Seat 7: Msigo_ ( 3,11 $ )
+Seat 9: B2B_Suckouts ( 2,48 $ )
+Seat 10: PRO100Marina ( 0,10 $ )
+gimeurchips posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 7Pik ]
+Msigo_ raises [0,06 $]
+B2B_Suckouts folds
+PRO100Marina folds
+BSokolov folds
+Improvisium calls [0,06 $]
+sundwig folds
+gimeurchips folds
+balwasik_19 calls [0,04 $]
+** Dealing flop ** [ 3Karo, 7Karo, 5Herz ]
+balwasik_19 checks
+Msigo_ bets [0,09 $]
+Improvisium folds
+balwasik_19 calls [0,09 $]
+** Dealing turn ** [ JKaro ]
+balwasik_19 checks
+Msigo_ bets [0,18 $]
+balwasik_19 calls [0,18 $]
+** Dealing river ** [ JKreuz ]
+balwasik_19 checks
+Msigo_ checks
+** Summary **
+balwasik_19 shows [ 3Herz, 3Pik ]
+Msigo_ mucks [ QKreuz, QPik ]
+balwasik_19 collected [ 0,69 $ ]
+
+
+
+#Game No : 551319311
+***** 888poker Hand History for Game 551319311 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:47:30
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,76 $ )
+Seat 2: Improvisium ( 2,07 $ )
+Seat 3: sundwig ( 1,94 $ )
+Seat 4: gimeurchips ( 2 $ )
+Seat 5: balwasik_19 ( 1,09 $ )
+Seat 6: rojser ( 2 $ )
+Seat 7: Msigo_ ( 2,78 $ )
+Seat 9: B2B_Suckouts ( 2,48 $ )
+Seat 10: PRO100Marina ( 0,10 $ )
+balwasik_19 posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, QHerz ]
+Msigo_ folds
+B2B_Suckouts folds
+PRO100Marina calls [0,02 $]
+BSokolov folds
+Improvisium calls [0,02 $]
+sundwig folds
+gimeurchips raises [0,12 $]
+balwasik_19 folds
+rojser folds
+PRO100Marina calls [0,08 $]
+Improvisium folds
+** Dealing flop ** [ 7Kreuz, 9Kreuz, 6Herz ]
+** Dealing turn ** [ APik ]
+** Dealing river ** [ JKreuz ]
+** Summary **
+gimeurchips shows [ AHerz, 8Herz ]
+PRO100Marina shows [ 3Pik, QPik ]
+gimeurchips collected [ 0,24 $ ]
+
+
+
+#Game No : 551319343
+***** 888poker Hand History for Game 551319343 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:48:20
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,76 $ )
+Seat 2: Improvisium ( 2,05 $ )
+Seat 3: sundwig ( 1,94 $ )
+Seat 4: gimeurchips ( 2,14 $ )
+Seat 5: balwasik_19 ( 1,08 $ )
+Seat 6: rojser ( 2 $ )
+Seat 7: Msigo_ ( 2,78 $ )
+Seat 9: B2B_Suckouts ( 2,48 $ )
+rojser posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, JPik ]
+B2B_Suckouts raises [0,06 $]
+BSokolov folds
+Improvisium folds
+sundwig calls [0,06 $]
+gimeurchips folds
+balwasik_19 folds
+rojser folds
+Msigo_ calls [0,04 $]
+** Dealing flop ** [ QPik, KHerz, 6Karo ]
+Msigo_ checks
+B2B_Suckouts checks
+sundwig checks
+** Dealing turn ** [ AHerz ]
+Msigo_ checks
+B2B_Suckouts checks
+sundwig bets [0,09 $]
+Msigo_ folds
+B2B_Suckouts folds
+** Summary **
+sundwig collected [ 0,18 $ ]
+
+
+
+#Game No : 551319364
+***** 888poker Hand History for Game 551319364 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:49:03
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,76 $ )
+Seat 2: Improvisium ( 2,05 $ )
+Seat 3: sundwig ( 2,06 $ )
+Seat 4: gimeurchips ( 2,14 $ )
+Seat 5: balwasik_19 ( 1,08 $ )
+Seat 6: rojser ( 2 $ )
+Seat 7: Msigo_ ( 2,72 $ )
+Seat 9: B2B_Suckouts ( 2,42 $ )
+Msigo_ posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, KPik ]
+BSokolov folds
+Improvisium folds
+sundwig folds
+gimeurchips folds
+balwasik_19 folds
+rojser folds
+Msigo_ raises [0,05 $]
+B2B_Suckouts raises [0,16 $]
+Msigo_ folds
+** Summary **
+B2B_Suckouts collected [ 0,12 $ ]
+
+
+
+#Game No : 551319374
+***** 888poker Hand History for Game 551319374 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:49:24
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,76 $ )
+Seat 2: Improvisium ( 2,05 $ )
+Seat 3: sundwig ( 2,06 $ )
+Seat 4: gimeurchips ( 2,14 $ )
+Seat 5: balwasik_19 ( 1,08 $ )
+Seat 6: rojser ( 2 $ )
+Seat 7: Msigo_ ( 2,66 $ )
+Seat 9: B2B_Suckouts ( 2,48 $ )
+Seat 10: IvanLepkyi ( 1,40 $ )
+B2B_Suckouts posts small blind [0,01 $]
+IvanLepkyi posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, APik ]
+BSokolov calls [0,02 $]
+Improvisium calls [0,02 $]
+sundwig folds
+gimeurchips folds
+balwasik_19 folds
+rojser folds
+Msigo_ folds
+B2B_Suckouts raises [0,05 $]
+IvanLepkyi folds
+BSokolov calls [0,04 $]
+Improvisium calls [0,04 $]
+** Dealing flop ** [ 6Karo, KPik, 9Karo ]
+B2B_Suckouts checks
+BSokolov checks
+Improvisium checks
+** Dealing turn ** [ JPik ]
+B2B_Suckouts bets [0,06 $]
+BSokolov calls [0,06 $]
+Improvisium folds
+** Dealing river ** [ AKreuz ]
+B2B_Suckouts bets [0,16 $]
+BSokolov folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,30 $ ]
+
+
+
+#Game No : 551319417
+***** 888poker Hand History for Game 551319417 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:50:39
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,64 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2,06 $ )
+Seat 4: gimeurchips ( 2,14 $ )
+Seat 5: balwasik_19 ( 1,08 $ )
+Seat 6: rojser ( 2 $ )
+Seat 7: Msigo_ ( 2,66 $ )
+Seat 9: B2B_Suckouts ( 2,66 $ )
+Seat 10: IvanLepkyi ( 1,40 $ )
+IvanLepkyi posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, JPik ]
+Improvisium folds
+sundwig folds
+gimeurchips folds
+balwasik_19 folds
+rojser folds
+Msigo_ folds
+B2B_Suckouts folds
+IvanLepkyi folds
+** Summary **
+BSokolov did not show his hand
+BSokolov collected [ 0,03 $ ]
+
+
+
+#Game No : 551319425
+***** 888poker Hand History for Game 551319425 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:50:59
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: BSokolov ( 0,65 $ )
+Seat 2: Improvisium ( 2 $ )
+Seat 3: sundwig ( 2,06 $ )
+Seat 4: gimeurchips ( 2,14 $ )
+Seat 5: balwasik_19 ( 1,08 $ )
+Seat 6: rojser ( 2 $ )
+Seat 7: Msigo_ ( 2,66 $ )
+Seat 9: B2B_Suckouts ( 2,66 $ )
+Seat 10: IvanLepkyi ( 1,40 $ )
+BSokolov posts small blind [0,01 $]
+Improvisium posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 7Herz ]
+sundwig folds
+gimeurchips folds
+balwasik_19 folds
+rojser folds
+Msigo_ folds
+B2B_Suckouts folds
+IvanLepkyi folds
+BSokolov calls [0,01 $]
+Improvisium checks
+** Dealing flop ** [ 5Karo, 7Karo, 9Herz ]
+BSokolov checks
+Improvisium checks
+** Dealing turn ** [ 6Pik ]
+BSokolov checks
+Improvisium checks
+** Dealing river ** [ QKreuz ]
+BSokolov checks
+Improvisium checks
+** Summary **
+BSokolov shows [ 2Karo, APik ]
+Improvisium mucks [ 3Kreuz, KPik ]
+BSokolov collected [ 0,04 $ ]
+
+
+
+#Game No : 551319452
+***** 888poker Hand History for Game 551319452 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:51:48
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,67 $ )
+Seat 3: sundwig ( 2,06 $ )
+Seat 4: gimeurchips ( 2,14 $ )
+Seat 5: balwasik_19 ( 1,08 $ )
+Seat 6: rojser ( 2 $ )
+Seat 7: Msigo_ ( 2,66 $ )
+Seat 9: B2B_Suckouts ( 2,66 $ )
+Seat 10: IvanLepkyi ( 1,40 $ )
+sundwig posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 7Kreuz ]
+balwasik_19 folds
+rojser raises [0,05 $]
+Msigo_ folds
+B2B_Suckouts folds
+IvanLepkyi folds
+BSokolov calls [0,05 $]
+sundwig calls [0,04 $]
+gimeurchips folds
+** Dealing flop ** [ 7Karo, 9Karo, 7Pik ]
+sundwig checks
+rojser checks
+BSokolov bets [0,02 $]
+sundwig folds
+rojser folds
+** Summary **
+BSokolov collected [ 0,16 $ ]
+
+
+
+#Game No : 551319463
+***** 888poker Hand History for Game 551319463 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:52:27
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,78 $ )
+Seat 3: sundwig ( 2,01 $ )
+Seat 4: gimeurchips ( 2,12 $ )
+Seat 5: balwasik_19 ( 1,08 $ )
+Seat 6: rojser ( 2 $ )
+Seat 7: Msigo_ ( 2,66 $ )
+Seat 9: B2B_Suckouts ( 2,66 $ )
+Seat 10: IvanLepkyi ( 1,40 $ )
+gimeurchips posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 8Herz ]
+rojser folds
+Msigo_ folds
+B2B_Suckouts folds
+IvanLepkyi folds
+BSokolov calls [0,02 $]
+sundwig folds
+gimeurchips folds
+balwasik_19 checks
+** Dealing flop ** [ 6Karo, AKaro, 8Karo ]
+balwasik_19 bets [0,05 $]
+BSokolov folds
+** Summary **
+balwasik_19 collected [ 0,05 $ ]
+
+
+
+#Game No : 551319485
+***** 888poker Hand History for Game 551319485 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:53:04
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: BSokolov ( 0,76 $ )
+Seat 3: sundwig ( 2,01 $ )
+Seat 4: gimeurchips ( 2,11 $ )
+Seat 5: balwasik_19 ( 1,11 $ )
+Seat 6: rojser ( 2 $ )
+Seat 7: Msigo_ ( 2,66 $ )
+Seat 9: B2B_Suckouts ( 2,66 $ )
+Seat 10: IvanLepkyi ( 1,40 $ )
+balwasik_19 posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 9Herz ]
+Msigo_ folds
+B2B_Suckouts folds
+IvanLepkyi folds
+BSokolov folds
+sundwig folds
+gimeurchips folds
+balwasik_19 calls [0,01 $]
+rojser checks
+** Dealing flop ** [ KHerz, 3Pik, 6Herz ]
+balwasik_19 bets [0,02 $]
+rojser raises [0,07 $]
+balwasik_19 calls [0,05 $]
+** Dealing turn ** [ AHerz ]
+balwasik_19 checks
+rojser bets [0,09 $]
+balwasik_19 folds
+** Summary **
+rojser collected [ 0,17 $ ]
+
+
+
