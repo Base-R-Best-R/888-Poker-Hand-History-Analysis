@@ -1,0 +1,1161 @@
+#Game No : 1327681785
+***** 888poker Hand History for Game 1327681785 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 16:57:06
+Table Dortmund 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: betto173 ( 0,77 $ )
+Seat 2: visobom ( 0,90 $ )
+Seat 3: ynottony14 ( 1,74 $ )
+Seat 4: polosatiy199 ( 1,20 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 0,76 $ )
+Seat 7: podrevnik2 ( 2,23 $ )
+visobom posts small blind [0,01 $]
+ynottony14 posts big blind [0,02 $]
+polosatiy199 posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, QPik ]
+polosatiy199 checks
+B2B_Suckouts raises [0,03 $]
+Svenni3772 raises [0,08 $]
+podrevnik2 folds
+betto173 folds
+visobom folds
+ynottony14 calls [0,06 $]
+polosatiy199 calls [0,06 $]
+B2B_Suckouts calls [0,03 $]
+** Dealing flop ** [ 10Herz, 8Herz, 3Pik ]
+ynottony14 checks
+polosatiy199 checks
+B2B_Suckouts checks
+Svenni3772 bets [0,68 $]
+ynottony14 calls [0,68 $]
+polosatiy199 folds
+B2B_Suckouts folds
+** Dealing turn ** [ 2Pik ]
+** Dealing river ** [ 3Herz ]
+** Summary **
+ynottony14 shows [ 4Karo, 4Kreuz ]
+Svenni3772 shows [ QHerz, QKreuz ]
+Svenni3772 collected [ 1,59 $ ]
+
+
+
+#Game No : 1327682054
+***** 888poker Hand History for Game 1327682054 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 16:57:59
+Table Dortmund 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: betto173 ( 0,77 $ )
+Seat 2: visobom ( 0,89 $ )
+Seat 3: ynottony14 ( 0,98 $ )
+Seat 4: polosatiy199 ( 1,12 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 1,59 $ )
+Seat 7: podrevnik2 ( 2,23 $ )
+Seat 9: Student1994 ( 0,80 $ )
+ynottony14 posts small blind [0,01 $]
+polosatiy199 posts big blind [0,02 $]
+Student1994 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 10Herz ]
+B2B_Suckouts raises [0,06 $]
+Svenni3772 folds
+podrevnik2 folds
+Student1994 calls [0,04 $]
+betto173 calls [0,06 $]
+visobom folds
+ynottony14 calls [0,05 $]
+polosatiy199 folds
+** Dealing flop ** [ 8Karo, 2Pik, QHerz ]
+ynottony14 checks
+B2B_Suckouts checks
+Student1994 checks
+betto173 checks
+** Dealing turn ** [ QKaro ]
+ynottony14 checks
+B2B_Suckouts checks
+Student1994 checks
+betto173 checks
+** Dealing river ** [ 2Herz ]
+ynottony14 bets [0,02 $]
+B2B_Suckouts folds
+Student1994 folds
+betto173 calls [0,02 $]
+** Summary **
+ynottony14 shows [ KKaro, 8Kreuz ]
+betto173 mucks [ JHerz, KKreuz ]
+ynottony14 collected [ 0,29 $ ]
+
+
+
+#Game No : 1327682423
+***** 888poker Hand History for Game 1327682423 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 16:59:20
+Table Dortmund 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: betto173 ( 0,69 $ )
+Seat 2: visobom ( 0,89 $ )
+Seat 3: ynottony14 ( 1,19 $ )
+Seat 4: polosatiy199 ( 1,10 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 1,59 $ )
+Seat 7: podrevnik2 ( 2,23 $ )
+Seat 9: Student1994 ( 0,74 $ )
+polosatiy199 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 2Pik ]
+Svenni3772 calls [0,02 $]
+podrevnik2 folds
+Student1994 folds
+betto173 folds
+visobom folds
+ynottony14 folds
+polosatiy199 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 6Kreuz, 7Karo, QKaro ]
+polosatiy199 checks
+B2B_Suckouts bets [0,03 $]
+Svenni3772 folds
+polosatiy199 folds
+** Summary **
+B2B_Suckouts collected [ 0,06 $ ]
+
+
+
+#Game No : 1327682593
+***** 888poker Hand History for Game 1327682593 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 16:59:54
+Table Dortmund 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: betto173 ( 0,69 $ )
+Seat 2: visobom ( 0,89 $ )
+Seat 3: ynottony14 ( 1,19 $ )
+Seat 4: polosatiy199 ( 1,08 $ )
+Seat 5: B2B_Suckouts ( 2,04 $ )
+Seat 6: Svenni3772 ( 1,57 $ )
+Seat 7: podrevnik2 ( 2,23 $ )
+Seat 9: Student1994 ( 0,74 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Svenni3772 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, KHerz ]
+podrevnik2 folds
+Student1994 calls [0,02 $]
+betto173 calls [0,02 $]
+visobom calls [0,02 $]
+ynottony14 calls [0,02 $]
+polosatiy199 folds
+B2B_Suckouts calls [0,01 $]
+Svenni3772 checks
+** Dealing flop ** [ AKaro, 2Kreuz, 4Herz ]
+B2B_Suckouts checks
+Svenni3772 bets [0,02 $]
+Student1994 calls [0,02 $]
+betto173 raises [0,08 $]
+visobom calls [0,08 $]
+ynottony14 folds
+B2B_Suckouts folds
+Svenni3772 calls [0,06 $]
+Student1994 calls [0,06 $]
+** Dealing turn ** [ KPik ]
+Svenni3772 checks
+Student1994 checks
+betto173 checks
+visobom checks
+** Dealing river ** [ 7Herz ]
+Svenni3772 checks
+Student1994 bets [0,29 $]
+betto173 calls [0,29 $]
+visobom folds
+Svenni3772 folds
+** Summary **
+Student1994 shows [ APik, 10Herz ]
+betto173 shows [ AHerz, JKaro ]
+betto173 collected [ 0,96 $ ]
+
+
+
+#Game No : 1327683077
+***** 888poker Hand History for Game 1327683077 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:01:39
+Table Dortmund 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: betto173 ( 1,26 $ )
+Seat 2: visobom ( 0,79 $ )
+Seat 3: ynottony14 ( 1,17 $ )
+Seat 4: polosatiy199 ( 1,08 $ )
+Seat 5: B2B_Suckouts ( 2,02 $ )
+Seat 6: Svenni3772 ( 1,47 $ )
+Seat 7: podrevnik2 ( 2,23 $ )
+Seat 9: Student1994 ( 0,35 $ )
+Svenni3772 posts small blind [0,01 $]
+podrevnik2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 8Karo ]
+Student1994 folds
+betto173 folds
+visobom folds
+ynottony14 calls [0,02 $]
+polosatiy199 folds
+B2B_Suckouts folds
+Svenni3772 folds
+podrevnik2 checks
+** Dealing flop ** [ 10Herz, 10Karo, 5Kreuz ]
+podrevnik2 checks
+ynottony14 checks
+** Dealing turn ** [ 8Herz ]
+podrevnik2 checks
+ynottony14 checks
+** Dealing river ** [ JKaro ]
+podrevnik2 bets [0,04 $]
+ynottony14 calls [0,04 $]
+** Summary **
+podrevnik2 shows [ KKreuz, QPik ]
+ynottony14 mucks [ 3Pik, KKaro ]
+podrevnik2 collected [ 0,13 $ ]
+
+
+
+#Game No : 1327683317
+***** 888poker Hand History for Game 1327683317 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:02:35
+Table Dortmund 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: betto173 ( 1,26 $ )
+Seat 2: visobom ( 0,79 $ )
+Seat 3: ynottony14 ( 1,11 $ )
+Seat 4: polosatiy199 ( 1,08 $ )
+Seat 5: B2B_Suckouts ( 2,02 $ )
+Seat 6: Svenni3772 ( 1,46 $ )
+Seat 7: podrevnik2 ( 2,30 $ )
+Seat 9: Student1994 ( 0,35 $ )
+podrevnik2 posts small blind [0,01 $]
+Student1994 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, APik ]
+betto173 folds
+visobom folds
+ynottony14 calls [0,02 $]
+polosatiy199 folds
+B2B_Suckouts raises [0,06 $]
+Svenni3772 folds
+podrevnik2 folds
+Student1994 calls [0,04 $]
+ynottony14 calls [0,04 $]
+** Dealing flop ** [ 7Pik, QKaro, KHerz ]
+Student1994 bets [0,09 $]
+ynottony14 folds
+B2B_Suckouts folds
+** Summary **
+Student1994 collected [ 0,18 $ ]
+
+
+
+#Game No : 1327683641
+***** 888poker Hand History for Game 1327683641 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:03:54
+Table Dortmund 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: betto173 ( 1,26 $ )
+Seat 2: visobom ( 0,79 $ )
+Seat 3: ynottony14 ( 1,05 $ )
+Seat 4: polosatiy199 ( 1,08 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 1,46 $ )
+Seat 7: podrevnik2 ( 2,29 $ )
+Seat 9: Student1994 ( 0,47 $ )
+Seat 10: OmgAKs ( 2 $ )
+Student1994 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 2Pik ]
+betto173 calls [0,02 $]
+visobom folds
+ynottony14 folds
+polosatiy199 folds
+B2B_Suckouts folds
+Svenni3772 folds
+podrevnik2 folds
+Student1994 folds
+OmgAKs raises [0,06 $]
+betto173 folds
+** Summary **
+OmgAKs did not show his hand
+OmgAKs collected [ 0,05 $ ]
+
+
+
+#Game No : 1327683787
+***** 888poker Hand History for Game 1327683787 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:04:28
+Table Dortmund 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: betto173 ( 1,24 $ )
+Seat 2: visobom ( 0,79 $ )
+Seat 3: ynottony14 ( 1,05 $ )
+Seat 4: polosatiy199 ( 1,08 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 1,46 $ )
+Seat 7: podrevnik2 ( 2,29 $ )
+Seat 9: Student1994 ( 0,46 $ )
+Seat 10: OmgAKs ( 2,03 $ )
+OmgAKs posts small blind [0,01 $]
+betto173 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, AKaro ]
+visobom folds
+ynottony14 folds
+polosatiy199 raises [0,05 $]
+B2B_Suckouts folds
+Svenni3772 folds
+podrevnik2 folds
+Student1994 calls [0,05 $]
+OmgAKs folds
+betto173 calls [0,03 $]
+** Dealing flop ** [ KPik, 10Herz, 10Kreuz ]
+betto173 checks
+polosatiy199 bets [0,08 $]
+Student1994 folds
+betto173 folds
+** Summary **
+polosatiy199 did not show his hand
+polosatiy199 collected [ 0,15 $ ]
+
+
+
+#Game No : 1327684045
+***** 888poker Hand History for Game 1327684045 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:05:28
+Table Dortmund 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: betto173 ( 1,19 $ )
+Seat 2: visobom ( 0,79 $ )
+Seat 3: ynottony14 ( 1,05 $ )
+Seat 4: polosatiy199 ( 1,18 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 1,46 $ )
+Seat 7: podrevnik2 ( 2,29 $ )
+Seat 9: Student1994 ( 0,41 $ )
+Seat 10: OmgAKs ( 2,02 $ )
+betto173 posts small blind [0,01 $]
+visobom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, AHerz ]
+ynottony14 folds
+polosatiy199 folds
+B2B_Suckouts folds
+Svenni3772 calls [0,02 $]
+podrevnik2 raises [0,06 $]
+Student1994 calls [0,06 $]
+OmgAKs folds
+betto173 folds
+visobom calls [0,04 $]
+Svenni3772 calls [0,04 $]
+** Dealing flop ** [ 3Herz, 3Karo, QHerz ]
+visobom bets [0,12 $]
+Svenni3772 folds
+podrevnik2 folds
+Student1994 raises [0,35 $]
+visobom calls [0,23 $]
+** Dealing turn ** [ 10Herz ]
+** Dealing river ** [ 6Kreuz ]
+** Summary **
+visobom shows [ QKaro, 4Karo ]
+Student1994 shows [ 2Pik, QPik ]
+Student1994 collected [ 0,45 $ ]
+visobom collected [ 0,45 $ ]
+
+
+
+#Game No : 1327684368
+***** 888poker Hand History for Game 1327684368 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:06:44
+Table Dortmund 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: betto173 ( 1,18 $ )
+Seat 2: visobom ( 0,83 $ )
+Seat 3: ynottony14 ( 1,05 $ )
+Seat 4: polosatiy199 ( 1,18 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 1,40 $ )
+Seat 7: podrevnik2 ( 2,23 $ )
+Seat 9: Student1994 ( 0,45 $ )
+Seat 10: OmgAKs ( 2,02 $ )
+visobom posts small blind [0,01 $]
+ynottony14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 9Pik ]
+polosatiy199 raises [0,04 $]
+B2B_Suckouts folds
+Svenni3772 calls [0,04 $]
+podrevnik2 folds
+Student1994 folds
+OmgAKs folds
+betto173 calls [0,04 $]
+visobom calls [0,03 $]
+ynottony14 calls [0,02 $]
+** Dealing flop ** [ QKaro, JHerz, 2Pik ]
+visobom checks
+ynottony14 checks
+polosatiy199 checks
+Svenni3772 checks
+betto173 checks
+** Dealing turn ** [ 9Karo ]
+visobom checks
+ynottony14 checks
+polosatiy199 checks
+Svenni3772 bets [0,06 $]
+betto173 calls [0,06 $]
+visobom folds
+ynottony14 folds
+polosatiy199 folds
+** Dealing river ** [ 8Kreuz ]
+Svenni3772 checks
+betto173 bets [0,16 $]
+Svenni3772 folds
+** Summary **
+betto173 did not show his hand
+betto173 collected [ 0,30 $ ]
+
+
+
+#Game No : 1327684756
+***** 888poker Hand History for Game 1327684756 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:08:12
+Table Dortmund 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: betto173 ( 1,38 $ )
+Seat 2: visobom ( 0,79 $ )
+Seat 3: ynottony14 ( 1,01 $ )
+Seat 4: polosatiy199 ( 1,14 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 1,30 $ )
+Seat 7: podrevnik2 ( 2,23 $ )
+Seat 9: Student1994 ( 0,45 $ )
+Seat 10: OmgAKs ( 2,02 $ )
+ynottony14 posts small blind [0,01 $]
+polosatiy199 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 6Herz ]
+B2B_Suckouts folds
+Svenni3772 folds
+podrevnik2 folds
+Student1994 folds
+OmgAKs raises [0,05 $]
+betto173 folds
+visobom folds
+ynottony14 calls [0,04 $]
+polosatiy199 folds
+** Dealing flop ** [ 3Kreuz, KKaro, 2Karo ]
+ynottony14 checks
+OmgAKs checks
+** Dealing turn ** [ KHerz ]
+ynottony14 checks
+OmgAKs checks
+** Dealing river ** [ APik ]
+ynottony14 checks
+OmgAKs bets [0,06 $]
+ynottony14 raises [0,12 $]
+OmgAKs folds
+** Summary **
+ynottony14 did not show his hand
+ynottony14 collected [ 0,23 $ ]
+
+
+
+#Game No : 1327685113
+***** 888poker Hand History for Game 1327685113 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:09:32
+Table Dortmund 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: betto173 ( 1,38 $ )
+Seat 2: visobom ( 0,79 $ )
+Seat 3: ynottony14 ( 1,13 $ )
+Seat 4: polosatiy199 ( 1,12 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 1,30 $ )
+Seat 7: podrevnik2 ( 2,23 $ )
+Seat 9: Student1994 ( 0,45 $ )
+Seat 10: OmgAKs ( 2 $ )
+polosatiy199 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 4Karo ]
+Svenni3772 folds
+podrevnik2 calls [0,02 $]
+Student1994 calls [0,02 $]
+OmgAKs folds
+betto173 folds
+visobom folds
+ynottony14 calls [0,02 $]
+polosatiy199 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 2Pik, 7Pik, AHerz ]
+polosatiy199 checks
+B2B_Suckouts checks
+podrevnik2 checks
+Student1994 checks
+ynottony14 checks
+** Dealing turn ** [ 4Herz ]
+polosatiy199 bets [0,05 $]
+B2B_Suckouts folds
+podrevnik2 folds
+Student1994 calls [0,05 $]
+ynottony14 folds
+** Dealing river ** [ 5Karo ]
+polosatiy199 bets [0,10 $]
+Student1994 folds
+** Summary **
+polosatiy199 did not show his hand
+polosatiy199 collected [ 0,19 $ ]
+
+
+
+#Game No : 1327685620
+***** 888poker Hand History for Game 1327685620 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:11:30
+Table Dortmund 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: betto173 ( 1,38 $ )
+Seat 2: visobom ( 0,79 $ )
+Seat 3: ynottony14 ( 1,11 $ )
+Seat 4: polosatiy199 ( 1,24 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 1,30 $ )
+Seat 7: podrevnik2 ( 2,21 $ )
+Seat 9: Student1994 ( 0,38 $ )
+Seat 10: OmgAKs ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Svenni3772 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, QKreuz ]
+podrevnik2 folds
+Student1994 raises [0,06 $]
+OmgAKs folds
+betto173 folds
+visobom calls [0,06 $]
+ynottony14 folds
+polosatiy199 raises [0,20 $]
+B2B_Suckouts folds
+Svenni3772 folds
+Student1994 raises [0,32 $]
+visobom folds
+polosatiy199 calls [0,18 $]
+** Dealing flop ** [ 6Pik, 10Herz, 4Herz ]
+** Dealing turn ** [ 2Pik ]
+** Dealing river ** [ 4Karo ]
+** Summary **
+polosatiy199 shows [ AKreuz, APik ]
+Student1994 shows [ 4Pik, 3Pik ]
+Student1994 collected [ 0,80 $ ]
+
+
+
+#Game No : 1327685851
+***** 888poker Hand History for Game 1327685851 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:12:23
+Table Dortmund 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: betto173 ( 1,38 $ )
+Seat 2: visobom ( 0,73 $ )
+Seat 3: ynottony14 ( 1,11 $ )
+Seat 4: polosatiy199 ( 0,86 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Svenni3772 ( 1,28 $ )
+Seat 7: podrevnik2 ( 2,21 $ )
+Seat 9: Student1994 ( 0,80 $ )
+Seat 10: OmgAKs ( 2 $ )
+Svenni3772 posts small blind [0,01 $]
+podrevnik2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, AKaro ]
+Student1994 calls [0,02 $]
+OmgAKs folds
+betto173 folds
+visobom folds
+ynottony14 calls [0,02 $]
+polosatiy199 calls [0,02 $]
+B2B_Suckouts raises [0,16 $]
+Svenni3772 raises [0,29 $]
+podrevnik2 folds
+Student1994 folds
+ynottony14 folds
+polosatiy199 folds
+B2B_Suckouts calls [0,14 $]
+** Dealing flop ** [ 10Herz, 4Pik, 3Pik ]
+Svenni3772 checks
+B2B_Suckouts bets [0,34 $]
+Svenni3772 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,64 $ ]
+
+
+
+#Game No : 1327686174
+***** 888poker Hand History for Game 1327686174 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:13:32
+Table Dortmund 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: betto173 ( 1,38 $ )
+Seat 2: visobom ( 0,73 $ )
+Seat 4: polosatiy199 ( 0,84 $ )
+Seat 5: B2B_Suckouts ( 2,34 $ )
+Seat 6: Svenni3772 ( 0,98 $ )
+Seat 7: podrevnik2 ( 2,19 $ )
+Seat 9: Student1994 ( 0,78 $ )
+Seat 10: OmgAKs ( 2 $ )
+podrevnik2 posts small blind [0,01 $]
+Student1994 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, JPik ]
+OmgAKs folds
+betto173 folds
+visobom folds
+polosatiy199 folds
+B2B_Suckouts raises [0,04 $]
+Svenni3772 calls [0,04 $]
+podrevnik2 calls [0,03 $]
+Student1994 calls [0,02 $]
+** Dealing flop ** [ 5Pik, 6Pik, 6Herz ]
+podrevnik2 checks
+Student1994 checks
+B2B_Suckouts checks
+Svenni3772 bets [0,02 $]
+podrevnik2 folds
+Student1994 folds
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ 9Kreuz ]
+B2B_Suckouts checks
+Svenni3772 bets [0,02 $]
+B2B_Suckouts folds
+** Summary **
+Svenni3772 did not show his hand
+Svenni3772 collected [ 0,19 $ ]
+
+
+
+#Game No : 1327686471
+***** 888poker Hand History for Game 1327686471 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:14:37
+Table Dortmund 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: betto173 ( 1,38 $ )
+Seat 2: visobom ( 0,73 $ )
+Seat 4: polosatiy199 ( 0,84 $ )
+Seat 5: B2B_Suckouts ( 2,28 $ )
+Seat 6: Svenni3772 ( 1,11 $ )
+Seat 7: podrevnik2 ( 2,15 $ )
+Seat 9: Student1994 ( 0,74 $ )
+Seat 10: OmgAKs ( 2 $ )
+Student1994 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, AKaro ]
+betto173 folds
+visobom raises [0,06 $]
+polosatiy199 folds
+B2B_Suckouts calls [0,06 $]
+Svenni3772 folds
+podrevnik2 folds
+Student1994 folds
+OmgAKs folds
+** Dealing flop ** [ 9Herz, 3Herz, 6Karo ]
+visobom bets [0,07 $]
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ 7Pik ]
+visobom bets [0,09 $]
+B2B_Suckouts folds
+** Summary **
+visobom collected [ 0,28 $ ]
+
+
+
+#Game No : 1327686849
+***** 888poker Hand History for Game 1327686849 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:16:00
+Table Dortmund 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: visobom ( 0,88 $ )
+Seat 4: polosatiy199 ( 0,84 $ )
+Seat 5: B2B_Suckouts ( 2,15 $ )
+Seat 6: Svenni3772 ( 1,11 $ )
+Seat 7: podrevnik2 ( 2,15 $ )
+Seat 9: Student1994 ( 0,73 $ )
+Seat 10: OmgAKs ( 2 $ )
+OmgAKs posts small blind [0,01 $]
+visobom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 7Herz ]
+polosatiy199 folds
+B2B_Suckouts folds
+Svenni3772 calls [0,02 $]
+podrevnik2 folds
+Student1994 folds
+OmgAKs raises [0,07 $]
+visobom folds
+Svenni3772 calls [0,06 $]
+** Dealing flop ** [ QPik, JHerz, 2Karo ]
+OmgAKs bets [0,09 $]
+Svenni3772 calls [0,09 $]
+** Dealing turn ** [ 5Kreuz ]
+OmgAKs bets [0,17 $]
+Svenni3772 raises [0,34 $]
+OmgAKs folds
+** Summary **
+Svenni3772 collected [ 0,66 $ ]
+
+
+
+#Game No : 1327687266
+***** 888poker Hand History for Game 1327687266 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:17:37
+Table Dortmund 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: visobom ( 0,86 $ )
+Seat 3: klvrtr ( 0,80 $ )
+Seat 4: polosatiy199 ( 0,84 $ )
+Seat 5: B2B_Suckouts ( 2,15 $ )
+Seat 6: Svenni3772 ( 1,43 $ )
+Seat 7: podrevnik2 ( 2,15 $ )
+Seat 9: Student1994 ( 0,73 $ )
+Seat 10: OmgAKs ( 2 $ )
+visobom posts small blind [0,01 $]
+klvrtr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 4Pik ]
+polosatiy199 raises [0,05 $]
+B2B_Suckouts folds
+Svenni3772 folds
+podrevnik2 folds
+Student1994 calls [0,05 $]
+OmgAKs raises [0,25 $]
+visobom folds
+klvrtr raises [0,78 $]
+polosatiy199 raises [0,79 $]
+Student1994 folds
+OmgAKs calls [0,59 $]
+** Dealing flop ** [ KHerz, 9Kreuz, 2Herz ]
+** Dealing turn ** [ 6Herz ]
+** Dealing river ** [ 10Herz ]
+** Summary **
+klvrtr shows [ JKreuz, JPik ]
+polosatiy199 shows [ 9Herz, 9Karo ]
+OmgAKs shows [ APik, AKreuz ]
+polosatiy199 collected [ 2,31 $ ]
+polosatiy199 collected [ 0,08 $ ]
+
+
+
+#Game No : 1327687518
+***** 888poker Hand History for Game 1327687518 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:18:35
+Table Dortmund 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: visobom ( 0,85 $ )
+Seat 4: polosatiy199 ( 2,39 $ )
+Seat 5: B2B_Suckouts ( 2,15 $ )
+Seat 6: Svenni3772 ( 1,43 $ )
+Seat 7: podrevnik2 ( 2,15 $ )
+Seat 9: Student1994 ( 0,68 $ )
+Seat 10: OmgAKs ( 2 $ )
+polosatiy199 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, JKaro ]
+Svenni3772 calls [0,02 $]
+podrevnik2 folds
+Student1994 folds
+OmgAKs folds
+visobom raises [0,04 $]
+polosatiy199 calls [0,03 $]
+B2B_Suckouts folds
+Svenni3772 calls [0,02 $]
+** Dealing flop ** [ 8Karo, QPik, 6Pik ]
+polosatiy199 checks
+Svenni3772 checks
+visobom bets [0,04 $]
+polosatiy199 folds
+Svenni3772 calls [0,04 $]
+** Dealing turn ** [ 7Kreuz ]
+Svenni3772 bets [0,06 $]
+visobom calls [0,06 $]
+** Dealing river ** [ 2Karo ]
+Svenni3772 bets [0,10 $]
+visobom calls [0,10 $]
+** Summary **
+Svenni3772 shows [ JKreuz, 9Pik ]
+visobom shows [ 7Pik, KPik ]
+visobom collected [ 0,51 $ ]
+
+
+
+#Game No : 1327687845
+***** 888poker Hand History for Game 1327687845 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:19:54
+Table Dortmund 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: visobom ( 1,12 $ )
+Seat 3: klvrtr ( 0,80 $ )
+Seat 4: polosatiy199 ( 2,35 $ )
+Seat 5: B2B_Suckouts ( 2,13 $ )
+Seat 6: Svenni3772 ( 1,19 $ )
+Seat 7: podrevnik2 ( 2,15 $ )
+Seat 9: Student1994 ( 0,68 $ )
+Seat 10: OmgAKs ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Svenni3772 posts big blind [0,02 $]
+klvrtr posts dead blind [0,01 $ + 0 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, QKreuz ]
+podrevnik2 folds
+Student1994 raises [0,06 $]
+OmgAKs folds
+visobom folds
+klvrtr folds
+polosatiy199 folds
+B2B_Suckouts folds
+Svenni3772 calls [0,04 $]
+** Dealing flop ** [ 4Kreuz, KHerz, 5Karo ]
+Svenni3772 checks
+Student1994 bets [0,09 $]
+Svenni3772 calls [0,09 $]
+** Dealing turn ** [ 6Karo ]
+Svenni3772 bets [0,02 $]
+Student1994 raises [0,26 $]
+Svenni3772 calls [0,24 $]
+** Dealing river ** [ 4Pik ]
+Svenni3772 bets [0,02 $]
+Student1994 raises [0,27 $]
+Svenni3772 calls [0,25 $]
+** Summary **
+Svenni3772 shows [ 6Herz, 7Herz ]
+Student1994 shows [ 8Herz, 8Karo ]
+Student1994 collected [ 1,30 $ ]
+
+
+
+#Game No : 1327688196
+***** 888poker Hand History for Game 1327688196 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:21:14
+Table Dortmund 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: visobom ( 1,12 $ )
+Seat 3: klvrtr ( 0,79 $ )
+Seat 4: polosatiy199 ( 2,35 $ )
+Seat 5: B2B_Suckouts ( 2,12 $ )
+Seat 6: Svenni3772 ( 0,51 $ )
+Seat 7: podrevnik2 ( 2,15 $ )
+Seat 9: Student1994 ( 1,30 $ )
+Seat 10: OmgAKs ( 2 $ )
+Svenni3772 posts small blind [0,01 $]
+podrevnik2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, KPik ]
+Student1994 folds
+OmgAKs folds
+visobom folds
+klvrtr folds
+polosatiy199 folds
+B2B_Suckouts raises [0,06 $]
+Svenni3772 folds
+podrevnik2 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 1327688318
+***** 888poker Hand History for Game 1327688318 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:21:43
+Table Dortmund 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: visobom ( 1,12 $ )
+Seat 3: klvrtr ( 0,79 $ )
+Seat 5: B2B_Suckouts ( 2,15 $ )
+Seat 6: Svenni3772 ( 0,50 $ )
+Seat 7: podrevnik2 ( 2,13 $ )
+Seat 9: Student1994 ( 1,30 $ )
+Seat 10: OmgAKs ( 2 $ )
+podrevnik2 posts small blind [0,01 $]
+Student1994 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 4Pik ]
+OmgAKs folds
+visobom raises [0,06 $]
+klvrtr calls [0,06 $]
+B2B_Suckouts folds
+Svenni3772 folds
+podrevnik2 folds
+Student1994 folds
+** Dealing flop ** [ KKaro, KPik, 6Karo ]
+visobom bets [0,09 $]
+klvrtr folds
+** Summary **
+visobom collected [ 0,15 $ ]
+
+
+
+#Game No : 1327688572
+***** 888poker Hand History for Game 1327688572 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:22:45
+Table Dortmund 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: visobom ( 1,21 $ )
+Seat 3: klvrtr ( 0,73 $ )
+Seat 4: polosatiy199 ( 2,35 $ )
+Seat 5: B2B_Suckouts ( 2,15 $ )
+Seat 6: Svenni3772 ( 0,50 $ )
+Seat 7: podrevnik2 ( 2,12 $ )
+Seat 9: Student1994 ( 1,28 $ )
+Seat 10: OmgAKs ( 2 $ )
+Student1994 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+polosatiy199 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 10Herz ]
+visobom calls [0,02 $]
+klvrtr calls [0,02 $]
+polosatiy199 checks
+B2B_Suckouts raises [0,04 $]
+Svenni3772 calls [0,04 $]
+podrevnik2 calls [0,04 $]
+Student1994 folds
+OmgAKs calls [0,02 $]
+visobom calls [0,02 $]
+klvrtr raises [0,10 $]
+polosatiy199 folds
+B2B_Suckouts calls [0,08 $]
+Svenni3772 calls [0,08 $]
+podrevnik2 folds
+OmgAKs folds
+visobom folds
+** Dealing flop ** [ 10Kreuz, 2Pik, 2Karo ]
+klvrtr bets [0,18 $]
+B2B_Suckouts raises [2,03 $]
+Svenni3772 folds
+klvrtr folds
+** Summary **
+B2B_Suckouts collected [ 0,82 $ ]
+
+
+
+#Game No : 1327688852
+***** 888poker Hand History for Game 1327688852 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:23:51
+Table Dortmund 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: PERS1AA ( 0,80 $ )
+Seat 2: visobom ( 1,17 $ )
+Seat 3: klvrtr ( 0,43 $ )
+Seat 4: polosatiy199 ( 2,33 $ )
+Seat 5: B2B_Suckouts ( 2,67 $ )
+Seat 6: Svenni3772 ( 0,38 $ )
+Seat 7: podrevnik2 ( 2,08 $ )
+Seat 9: Student1994 ( 1,27 $ )
+Seat 10: OmgAKs ( 2 $ )
+OmgAKs posts small blind [0,01 $]
+PERS1AA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, AHerz ]
+visobom folds
+klvrtr folds
+polosatiy199 folds
+B2B_Suckouts raises [0,06 $]
+Svenni3772 folds
+podrevnik2 folds
+Student1994 calls [0,06 $]
+OmgAKs folds
+PERS1AA calls [0,04 $]
+** Dealing flop ** [ 5Karo, AKaro, QHerz ]
+PERS1AA checks
+B2B_Suckouts bets [0,09 $]
+Student1994 folds
+PERS1AA folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,18 $ ]
+
+
+
+#Game No : 1327689101
+***** 888poker Hand History for Game 1327689101 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:24:56
+Table Dortmund 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: PERS1AA ( 0,74 $ )
+Seat 2: visobom ( 1,17 $ )
+Seat 3: klvrtr ( 0,43 $ )
+Seat 4: polosatiy199 ( 2,33 $ )
+Seat 5: B2B_Suckouts ( 2,79 $ )
+Seat 6: Svenni3772 ( 0,38 $ )
+Seat 7: podrevnik2 ( 2,08 $ )
+Seat 9: Student1994 ( 1,21 $ )
+Seat 10: OmgAKs ( 2 $ )
+PERS1AA posts small blind [0,01 $]
+visobom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 2Kreuz ]
+klvrtr calls [0,02 $]
+polosatiy199 calls [0,02 $]
+B2B_Suckouts folds
+Svenni3772 folds
+podrevnik2 calls [0,02 $]
+Student1994 calls [0,02 $]
+OmgAKs raises [0,14 $]
+PERS1AA folds
+visobom folds
+klvrtr folds
+polosatiy199 calls [0,12 $]
+podrevnik2 folds
+Student1994 folds
+** Dealing flop ** [ 3Pik, 10Karo, 9Kreuz ]
+polosatiy199 checks
+OmgAKs bets [0,18 $]
+polosatiy199 folds
+** Summary **
+OmgAKs did not show his hand
+OmgAKs collected [ 0,35 $ ]
+
+
+
+#Game No : 1327689443
+***** 888poker Hand History for Game 1327689443 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:26:20
+Table Dortmund 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: PERS1AA ( 0,73 $ )
+Seat 3: klvrtr ( 0,41 $ )
+Seat 4: polosatiy199 ( 2,19 $ )
+Seat 5: B2B_Suckouts ( 2,79 $ )
+Seat 6: Svenni3772 ( 0,38 $ )
+Seat 7: podrevnik2 ( 2,06 $ )
+Seat 9: Student1994 ( 1,19 $ )
+Seat 10: OmgAKs ( 2,21 $ )
+klvrtr posts small blind [0,01 $]
+polosatiy199 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 10Karo ]
+B2B_Suckouts raises [0,06 $]
+Svenni3772 folds
+podrevnik2 folds
+Student1994 folds
+OmgAKs folds
+PERS1AA folds
+klvrtr calls [0,05 $]
+polosatiy199 raises [0,22 $]
+B2B_Suckouts folds
+klvrtr raises [0,35 $]
+polosatiy199 calls [0,17 $]
+** Dealing flop ** [ QHerz, 3Karo, 8Karo ]
+** Dealing turn ** [ KKreuz ]
+** Dealing river ** [ 6Pik ]
+** Summary **
+klvrtr shows [ 6Kreuz, 6Herz ]
+polosatiy199 shows [ KKaro, APik ]
+klvrtr collected [ 0,83 $ ]
+
+
+
+#Game No : 1327689632
+***** 888poker Hand History for Game 1327689632 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:27:05
+Table Dortmund 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: PERS1AA ( 0,73 $ )
+Seat 3: klvrtr ( 0,83 $ )
+Seat 4: polosatiy199 ( 1,78 $ )
+Seat 5: B2B_Suckouts ( 2,73 $ )
+Seat 6: Svenni3772 ( 0,38 $ )
+Seat 7: podrevnik2 ( 2,06 $ )
+Seat 9: Student1994 ( 1,19 $ )
+Seat 10: OmgAKs ( 2,21 $ )
+polosatiy199 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 5Herz ]
+Svenni3772 folds
+podrevnik2 folds
+Student1994 folds
+OmgAKs folds
+PERS1AA folds
+klvrtr folds
+polosatiy199 folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 1327689729
+***** 888poker Hand History for Game 1327689729 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 28 01 2020 17:27:29
+Table Dortmund 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: PERS1AA ( 0,73 $ )
+Seat 3: klvrtr ( 0,83 $ )
+Seat 4: polosatiy199 ( 1,77 $ )
+Seat 5: B2B_Suckouts ( 2,74 $ )
+Seat 6: Svenni3772 ( 0,38 $ )
+Seat 7: podrevnik2 ( 2,06 $ )
+Seat 9: Student1994 ( 1,19 $ )
+Seat 10: OmgAKs ( 2,21 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Svenni3772 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 6Herz ]
+podrevnik2 raises [0,04 $]
+Student1994 folds
+OmgAKs folds
+PERS1AA calls [0,04 $]
+klvrtr folds
+polosatiy199 folds
+B2B_Suckouts folds
+Svenni3772 folds
+** Dealing flop ** [ QKaro, 9Karo, KKaro ]
+podrevnik2 bets [0,05 $]
+PERS1AA calls [0,05 $]
+** Dealing turn ** [ AHerz ]
+podrevnik2 bets [0,10 $]
+PERS1AA calls [0,10 $]
+** Dealing river ** [ 4Karo ]
+podrevnik2 bets [0,27 $]
+PERS1AA raises [0,54 $]
+podrevnik2 calls [0,27 $]
+** Summary **
+PERS1AA shows [ KHerz, AKaro ]
+podrevnik2 shows [ 10Karo, 6Karo ]
+PERS1AA collected [ 1,40 $ ]
+
+
+
