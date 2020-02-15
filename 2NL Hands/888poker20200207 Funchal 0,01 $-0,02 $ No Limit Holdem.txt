@@ -1,0 +1,4554 @@
+#Game No : 474483092
+***** 888poker Hand History for Game 474483092 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:25:52
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: magicmikeyb ( 3,44 $ )
+Seat 2: OKE_RASTA_J ( 2,36 $ )
+Seat 3: Woffinden ( 2,38 $ )
+Seat 4: GE_Saniok_MD ( 2,12 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,30 $ )
+Seat 10: gimeurchips ( 2,15 $ )
+GE_Saniok_MD posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, JKreuz ]
+RomaGR folds
+Msigo_ folds
+mcgerry57 folds
+gimeurchips raises [0,06 $]
+magicmikeyb folds
+OKE_RASTA_J folds
+Woffinden folds
+GE_Saniok_MD folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 4Karo, 6Herz, 7Herz ]
+B2B_Suckouts bets [0,04 $]
+gimeurchips raises [0,16 $]
+B2B_Suckouts folds
+** Summary **
+gimeurchips did not show his hand
+gimeurchips collected [ 0,20 $ ]
+
+
+
+#Game No : 474483110
+***** 888poker Hand History for Game 474483110 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:26:35
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: magicmikeyb ( 3,44 $ )
+Seat 2: OKE_RASTA_J ( 2,36 $ )
+Seat 3: Woffinden ( 2,38 $ )
+Seat 4: GE_Saniok_MD ( 2,11 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,30 $ )
+Seat 10: gimeurchips ( 2,25 $ )
+B2B_Suckouts posts small blind [0,01 $]
+RomaGR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 5Kreuz ]
+Msigo_ folds
+mcgerry57 folds
+gimeurchips folds
+magicmikeyb folds
+OKE_RASTA_J folds
+Woffinden raises [0,08 $]
+GE_Saniok_MD folds
+B2B_Suckouts folds
+RomaGR calls [0,06 $]
+** Dealing flop ** [ QKaro, 6Karo, JHerz ]
+RomaGR checks
+Woffinden bets [0,11 $]
+RomaGR raises [0,34 $]
+Woffinden raises [2,19 $]
+RomaGR folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,80 $ ]
+
+
+
+#Game No : 474483133
+***** 888poker Hand History for Game 474483133 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:27:37
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: magicmikeyb ( 3,44 $ )
+Seat 2: OKE_RASTA_J ( 2,36 $ )
+Seat 3: Woffinden ( 2,76 $ )
+Seat 4: GE_Saniok_MD ( 2,11 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,30 $ )
+Seat 10: gimeurchips ( 2,25 $ )
+RomaGR posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, AKaro ]
+mcgerry57 folds
+gimeurchips folds
+magicmikeyb folds
+OKE_RASTA_J folds
+Woffinden folds
+GE_Saniok_MD folds
+B2B_Suckouts raises [0,06 $]
+RomaGR folds
+Msigo_ folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474483152
+***** 888poker Hand History for Game 474483152 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:28:17
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: magicmikeyb ( 3,44 $ )
+Seat 2: OKE_RASTA_J ( 2,36 $ )
+Seat 3: Woffinden ( 2,76 $ )
+Seat 4: GE_Saniok_MD ( 2,11 $ )
+Seat 5: B2B_Suckouts ( 2,03 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,30 $ )
+Seat 10: gimeurchips ( 2,25 $ )
+Msigo_ posts small blind [0,01 $]
+mcgerry57 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, APik ]
+gimeurchips folds
+magicmikeyb folds
+OKE_RASTA_J folds
+Woffinden folds
+GE_Saniok_MD folds
+B2B_Suckouts raises [0,06 $]
+RomaGR raises [0,18 $]
+Msigo_ folds
+mcgerry57 folds
+B2B_Suckouts calls [0,12 $]
+** Dealing flop ** [ KPik, 8Pik, JHerz ]
+B2B_Suckouts bets [0,19 $]
+RomaGR calls [0,19 $]
+** Dealing turn ** [ 3Kreuz ]
+B2B_Suckouts bets [1,66 $]
+RomaGR folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,73 $ ]
+
+
+
+#Game No : 474483180
+***** 888poker Hand History for Game 474483180 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:29:06
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: magicmikeyb ( 3,44 $ )
+Seat 2: OKE_RASTA_J ( 2,36 $ )
+Seat 3: Woffinden ( 2,76 $ )
+Seat 4: GE_Saniok_MD ( 2,11 $ )
+Seat 5: B2B_Suckouts ( 2,39 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,28 $ )
+Seat 10: gimeurchips ( 2,25 $ )
+mcgerry57 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 6Kreuz ]
+magicmikeyb folds
+OKE_RASTA_J folds
+Woffinden folds
+GE_Saniok_MD folds
+B2B_Suckouts folds
+RomaGR folds
+Msigo_ folds
+mcgerry57 calls [0,01 $]
+gimeurchips checks
+** Dealing flop ** [ APik, 6Herz, 2Pik ]
+mcgerry57 checks
+gimeurchips checks
+** Dealing turn ** [ 8Karo ]
+mcgerry57 checks
+gimeurchips checks
+** Dealing river ** [ 9Pik ]
+mcgerry57 bets [0,04 $]
+gimeurchips folds
+** Summary **
+mcgerry57 did not show his hand
+mcgerry57 collected [ 0,04 $ ]
+
+
+
+#Game No : 474483192
+***** 888poker Hand History for Game 474483192 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:29:44
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: magicmikeyb ( 3,44 $ )
+Seat 2: OKE_RASTA_J ( 2,36 $ )
+Seat 3: Woffinden ( 2,76 $ )
+Seat 4: GE_Saniok_MD ( 2,11 $ )
+Seat 5: B2B_Suckouts ( 2,39 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,30 $ )
+Seat 10: gimeurchips ( 2,23 $ )
+gimeurchips posts small blind [0,01 $]
+magicmikeyb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 4Pik ]
+OKE_RASTA_J folds
+Woffinden folds
+GE_Saniok_MD folds
+B2B_Suckouts folds
+RomaGR folds
+Msigo_ folds
+mcgerry57 folds
+gimeurchips folds
+** Summary **
+magicmikeyb did not show his hand
+magicmikeyb collected [ 0,03 $ ]
+
+
+
+#Game No : 474483203
+***** 888poker Hand History for Game 474483203 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:30:08
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: magicmikeyb ( 3,45 $ )
+Seat 2: OKE_RASTA_J ( 2,36 $ )
+Seat 3: Woffinden ( 2,76 $ )
+Seat 4: GE_Saniok_MD ( 2,11 $ )
+Seat 5: B2B_Suckouts ( 2,39 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,30 $ )
+Seat 10: gimeurchips ( 2,22 $ )
+magicmikeyb posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, JKreuz ]
+Woffinden folds
+GE_Saniok_MD raises [0,06 $]
+B2B_Suckouts folds
+RomaGR folds
+Msigo_ folds
+mcgerry57 calls [0,06 $]
+gimeurchips folds
+magicmikeyb folds
+OKE_RASTA_J folds
+** Dealing flop ** [ JPik, JHerz, 6Herz ]
+GE_Saniok_MD bets [0,07 $]
+mcgerry57 folds
+** Summary **
+GE_Saniok_MD did not show his hand
+GE_Saniok_MD collected [ 0,15 $ ]
+
+
+
+#Game No : 474483221
+***** 888poker Hand History for Game 474483221 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:30:50
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 2,34 $ )
+Seat 3: Woffinden ( 2,76 $ )
+Seat 4: GE_Saniok_MD ( 2,20 $ )
+Seat 5: B2B_Suckouts ( 2,39 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,24 $ )
+Seat 10: gimeurchips ( 2,22 $ )
+Woffinden posts small blind [0,01 $]
+GE_Saniok_MD folds
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 4Herz ]
+RomaGR folds
+Msigo_ folds
+mcgerry57 calls [0,02 $]
+gimeurchips folds
+OKE_RASTA_J folds
+Woffinden folds
+B2B_Suckouts checks
+** Dealing flop ** [ KPik, 5Herz, 3Pik ]
+B2B_Suckouts checks
+mcgerry57 checks
+** Dealing turn ** [ 10Kreuz ]
+B2B_Suckouts bets [0,02 $]
+mcgerry57 calls [0,02 $]
+** Dealing river ** [ 8Herz ]
+B2B_Suckouts bets [0,02 $]
+mcgerry57 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,09 $ ]
+
+
+
+#Game No : 474483245
+***** 888poker Hand History for Game 474483245 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:31:40
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: OKE_RASTA_J ( 2,34 $ )
+Seat 3: Woffinden ( 2,75 $ )
+Seat 5: B2B_Suckouts ( 2,44 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,20 $ )
+Seat 10: gimeurchips ( 2,22 $ )
+B2B_Suckouts posts small blind [0,01 $]
+RomaGR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 9Kreuz ]
+Msigo_ folds
+mcgerry57 folds
+gimeurchips folds
+OKE_RASTA_J folds
+Woffinden raises [0,08 $]
+B2B_Suckouts folds
+RomaGR folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,05 $ ]
+
+
+
+#Game No : 474483251
+***** 888poker Hand History for Game 474483251 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:32:05
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: OKE_RASTA_J ( 2,34 $ )
+Seat 3: Woffinden ( 2,78 $ )
+Seat 5: B2B_Suckouts ( 2,43 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,20 $ )
+Seat 10: gimeurchips ( 2,22 $ )
+RomaGR posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, JHerz ]
+mcgerry57 folds
+gimeurchips folds
+OKE_RASTA_J folds
+Woffinden folds
+B2B_Suckouts raises [0,06 $]
+RomaGR folds
+Msigo_ calls [0,04 $]
+** Dealing flop ** [ JPik, 3Pik, 4Karo ]
+Msigo_ checks
+B2B_Suckouts bets [0,04 $]
+Msigo_ calls [0,04 $]
+** Dealing turn ** [ 3Karo ]
+Msigo_ checks
+B2B_Suckouts bets [0,10 $]
+Msigo_ folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,20 $ ]
+
+
+
+#Game No : 474483272
+***** 888poker Hand History for Game 474483272 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:32:50
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: OKE_RASTA_J ( 2,34 $ )
+Seat 3: Woffinden ( 2,78 $ )
+Seat 5: B2B_Suckouts ( 2,53 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,20 $ )
+Seat 10: gimeurchips ( 2,22 $ )
+Msigo_ posts small blind [0,01 $]
+mcgerry57 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 10Pik ]
+gimeurchips raises [0,06 $]
+OKE_RASTA_J folds
+Woffinden folds
+B2B_Suckouts folds
+RomaGR folds
+Msigo_ folds
+mcgerry57 calls [0,04 $]
+** Dealing flop ** [ 10Kreuz, APik, 7Pik ]
+mcgerry57 checks
+gimeurchips bets [0,04 $]
+mcgerry57 calls [0,04 $]
+** Dealing turn ** [ 3Karo ]
+mcgerry57 checks
+gimeurchips checks
+** Dealing river ** [ 6Karo ]
+mcgerry57 bets [0,21 $]
+gimeurchips calls [0,21 $]
+** Summary **
+mcgerry57 shows [ 6Herz, 6Kreuz ]
+gimeurchips mucks [ JPik, JHerz ]
+mcgerry57 collected [ 0,60 $ ]
+
+
+
+#Game No : 474483301
+***** 888poker Hand History for Game 474483301 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:33:44
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: budgr88n ( 2 $ )
+Seat 2: OKE_RASTA_J ( 2,34 $ )
+Seat 3: Woffinden ( 2,78 $ )
+Seat 5: B2B_Suckouts ( 2,53 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,49 $ )
+Seat 10: gimeurchips ( 2 $ )
+mcgerry57 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+budgr88n posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 10Herz ]
+budgr88n checks
+OKE_RASTA_J folds
+Woffinden folds
+B2B_Suckouts folds
+RomaGR folds
+Msigo_ folds
+mcgerry57 calls [0,01 $]
+gimeurchips checks
+** Dealing flop ** [ 10Karo, JKaro, 10Pik ]
+mcgerry57 checks
+gimeurchips bets [0,03 $]
+budgr88n calls [0,03 $]
+mcgerry57 calls [0,03 $]
+** Dealing turn ** [ QKreuz ]
+mcgerry57 bets [0,06 $]
+gimeurchips folds
+budgr88n folds
+** Summary **
+mcgerry57 collected [ 0,15 $ ]
+
+
+
+#Game No : 474483330
+***** 888poker Hand History for Game 474483330 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:34:47
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: budgr88n ( 1,95 $ )
+Seat 2: OKE_RASTA_J ( 2,34 $ )
+Seat 3: Woffinden ( 2,78 $ )
+Seat 5: B2B_Suckouts ( 2,53 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,59 $ )
+Seat 10: gimeurchips ( 2 $ )
+gimeurchips posts small blind [0,01 $]
+budgr88n posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 3Pik ]
+OKE_RASTA_J folds
+Woffinden folds
+B2B_Suckouts folds
+RomaGR folds
+Msigo_ folds
+mcgerry57 calls [0,02 $]
+gimeurchips folds
+budgr88n checks
+** Dealing flop ** [ 4Pik, 10Pik, AHerz ]
+budgr88n checks
+mcgerry57 checks
+** Dealing turn ** [ 9Karo ]
+budgr88n checks
+mcgerry57 checks
+** Dealing river ** [ 5Herz ]
+budgr88n checks
+mcgerry57 bets [0,08 $]
+budgr88n folds
+** Summary **
+mcgerry57 collected [ 0,05 $ ]
+
+
+
+#Game No : 474483357
+***** 888poker Hand History for Game 474483357 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:35:47
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: budgr88n ( 1,93 $ )
+Seat 2: OKE_RASTA_J ( 2,34 $ )
+Seat 3: Woffinden ( 2,78 $ )
+Seat 5: B2B_Suckouts ( 2,53 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,62 $ )
+Seat 10: gimeurchips ( 2 $ )
+budgr88n posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, JKreuz ]
+Woffinden folds
+B2B_Suckouts raises [0,06 $]
+RomaGR calls [0,06 $]
+Msigo_ folds
+mcgerry57 folds
+gimeurchips folds
+budgr88n folds
+OKE_RASTA_J calls [0,04 $]
+** Dealing flop ** [ 2Herz, 9Herz, 10Karo ]
+OKE_RASTA_J checks
+B2B_Suckouts bets [0,09 $]
+RomaGR folds
+OKE_RASTA_J calls [0,09 $]
+** Dealing turn ** [ 7Karo ]
+OKE_RASTA_J checks
+B2B_Suckouts bets [0,30 $]
+OKE_RASTA_J folds
+** Summary **
+B2B_Suckouts collected [ 0,35 $ ]
+
+
+
+#Game No : 474483407
+***** 888poker Hand History for Game 474483407 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:37:23
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: budgr88n ( 1,92 $ )
+Seat 2: OKE_RASTA_J ( 2,19 $ )
+Seat 3: Woffinden ( 2,78 $ )
+Seat 4: OmgAKs ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,73 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,62 $ )
+Seat 10: gimeurchips ( 2 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+Woffinden folds
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 2Herz ]
+B2B_Suckouts folds
+RomaGR raises [0,06 $]
+Msigo_ folds
+mcgerry57 folds
+gimeurchips folds
+budgr88n folds
+OKE_RASTA_J folds
+OmgAKs folds
+** Summary **
+RomaGR did not show his hand
+RomaGR collected [ 0,05 $ ]
+
+
+
+#Game No : 474483414
+***** 888poker Hand History for Game 474483414 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:37:51
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: OKE_RASTA_J ( 2,18 $ )
+Seat 4: OmgAKs ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,73 $ )
+Seat 6: RomaGR ( 2,03 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: mcgerry57 ( 1,62 $ )
+Seat 10: gimeurchips ( 2 $ )
+OmgAKs posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, AHerz ]
+RomaGR folds
+Msigo_ raises [0,06 $]
+mcgerry57 calls [0,06 $]
+gimeurchips folds
+OKE_RASTA_J folds
+OmgAKs folds
+B2B_Suckouts raises [0,22 $]
+Msigo_ raises [1,94 $]
+mcgerry57 folds
+B2B_Suckouts folds
+** Summary **
+Msigo_ collected [ 0,55 $ ]
+
+
+
+#Game No : 474483442
+***** 888poker Hand History for Game 474483442 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:38:55
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Yurchik1962 ( 0,80 $ )
+Seat 2: OKE_RASTA_J ( 2,18 $ )
+Seat 4: OmgAKs ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,49 $ )
+Seat 6: RomaGR ( 2,03 $ )
+Seat 7: Msigo_ ( 2,31 $ )
+Seat 9: mcgerry57 ( 1,56 $ )
+Seat 10: gimeurchips ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+RomaGR posts big blind [0,02 $]
+Yurchik1962 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 3Herz ]
+Msigo_ folds
+mcgerry57 folds
+gimeurchips folds
+Yurchik1962 checks
+OKE_RASTA_J calls [0,02 $]
+OmgAKs raises [0,10 $]
+B2B_Suckouts folds
+RomaGR folds
+Yurchik1962 folds
+OKE_RASTA_J folds
+** Summary **
+OmgAKs collected [ 0,09 $ ]
+
+
+
+#Game No : 474483457
+***** 888poker Hand History for Game 474483457 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:39:24
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Yurchik1962 ( 0,78 $ )
+Seat 2: OKE_RASTA_J ( 2,16 $ )
+Seat 3: betto173 ( 0,80 $ )
+Seat 4: OmgAKs ( 2,07 $ )
+Seat 5: B2B_Suckouts ( 2,48 $ )
+Seat 6: RomaGR ( 2,01 $ )
+Seat 7: Msigo_ ( 2,31 $ )
+Seat 9: mcgerry57 ( 1,56 $ )
+Seat 10: gimeurchips ( 2 $ )
+RomaGR posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+betto173 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 7Kreuz ]
+mcgerry57 folds
+gimeurchips folds
+Yurchik1962 calls [0,02 $]
+OKE_RASTA_J folds
+betto173 checks
+OmgAKs folds
+B2B_Suckouts raises [0,06 $]
+RomaGR folds
+Msigo_ folds
+Yurchik1962 calls [0,04 $]
+betto173 folds
+** Dealing flop ** [ 4Pik, 8Pik, APik ]
+Yurchik1962 checks
+B2B_Suckouts bets [0,05 $]
+Yurchik1962 folds
+** Summary **
+B2B_Suckouts collected [ 0,16 $ ]
+
+
+
+#Game No : 474483476
+***** 888poker Hand History for Game 474483476 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:40:04
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Yurchik1962 ( 0,72 $ )
+Seat 2: OKE_RASTA_J ( 2,16 $ )
+Seat 3: betto173 ( 0,78 $ )
+Seat 4: OmgAKs ( 2,07 $ )
+Seat 5: B2B_Suckouts ( 2,58 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2,29 $ )
+Seat 9: Los198181 ( 0,80 $ )
+Seat 10: gimeurchips ( 2 $ )
+Msigo_ posts small blind [0,01 $]
+Los198181 folds
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, AHerz ]
+Yurchik1962 calls [0,02 $]
+OKE_RASTA_J calls [0,02 $]
+betto173 calls [0,02 $]
+OmgAKs folds
+B2B_Suckouts raises [0,06 $]
+RomaGR folds
+Msigo_ folds
+gimeurchips folds
+Yurchik1962 calls [0,04 $]
+OKE_RASTA_J calls [0,04 $]
+betto173 folds
+** Dealing flop ** [ 8Karo, QKreuz, 9Kreuz ]
+Yurchik1962 bets [0,66 $]
+OKE_RASTA_J folds
+B2B_Suckouts calls [0,66 $]
+** Dealing turn ** [ APik ]
+** Dealing river ** [ KKaro ]
+** Summary **
+Yurchik1962 shows [ QHerz, 10Herz ]
+B2B_Suckouts shows [ AKreuz, AHerz ]
+B2B_Suckouts collected [ 1,46 $ ]
+
+
+
+#Game No : 474483502
+***** 888poker Hand History for Game 474483502 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:41:12
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Yurchik1962 ( 0,80 $ )
+Seat 2: OKE_RASTA_J ( 2,10 $ )
+Seat 3: betto173 ( 0,76 $ )
+Seat 4: OmgAKs ( 2,07 $ )
+Seat 5: B2B_Suckouts ( 3,32 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2,28 $ )
+Seat 10: gimeurchips ( 2 $ )
+gimeurchips posts small blind [0,01 $]
+Yurchik1962 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 9Pik ]
+OKE_RASTA_J folds
+betto173 calls [0,02 $]
+OmgAKs folds
+B2B_Suckouts folds
+RomaGR folds
+Msigo_ folds
+gimeurchips folds
+Yurchik1962 checks
+** Dealing flop ** [ KKreuz, 2Herz, QKreuz ]
+Yurchik1962 checks
+betto173 checks
+** Dealing turn ** [ 3Karo ]
+Yurchik1962 checks
+betto173 bets [0,05 $]
+Yurchik1962 calls [0,05 $]
+** Dealing river ** [ 9Karo ]
+Yurchik1962 checks
+betto173 bets [0,07 $]
+Yurchik1962 calls [0,07 $]
+** Summary **
+betto173 shows [ 3Pik, 3Herz ]
+Yurchik1962 mucks [ KPik, 7Karo ]
+betto173 collected [ 0,28 $ ]
+
+
+
+#Game No : 474483520
+***** 888poker Hand History for Game 474483520 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:41:54
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Yurchik1962 ( 0,66 $ )
+Seat 2: OKE_RASTA_J ( 2,10 $ )
+Seat 3: betto173 ( 0,90 $ )
+Seat 4: OmgAKs ( 2,07 $ )
+Seat 5: B2B_Suckouts ( 3,32 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2,28 $ )
+Seat 9: Los198181 ( 0,80 $ )
+Seat 10: gimeurchips ( 2 $ )
+Yurchik1962 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+Los198181 posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 6Pik ]
+betto173 folds
+OmgAKs folds
+B2B_Suckouts folds
+RomaGR folds
+Msigo_ folds
+Los198181 raises [0,04 $]
+gimeurchips folds
+Yurchik1962 calls [0,05 $]
+OKE_RASTA_J folds
+** Dealing flop ** [ 10Herz, 9Kreuz, JPik ]
+Yurchik1962 checks
+Los198181 bets [0,06 $]
+Yurchik1962 calls [0,06 $]
+** Dealing turn ** [ 8Karo ]
+Yurchik1962 checks
+Los198181 bets [0,67 $]
+Yurchik1962 calls [0,54 $]
+** Dealing river ** [ 4Kreuz ]
+** Summary **
+Yurchik1962 shows [ 5Karo, 9Pik ]
+Los198181 shows [ KKaro, KHerz ]
+Los198181 collected [ 1,27 $ ]
+
+
+
+#Game No : 474483544
+***** 888poker Hand History for Game 474483544 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:42:51
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 2,08 $ )
+Seat 3: betto173 ( 0,90 $ )
+Seat 4: OmgAKs ( 2,07 $ )
+Seat 5: B2B_Suckouts ( 3,32 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2,28 $ )
+Seat 9: Los198181 ( 1,40 $ )
+Seat 10: gimeurchips ( 2 $ )
+betto173 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 8Kreuz ]
+B2B_Suckouts folds
+RomaGR folds
+Msigo_ folds
+Los198181 folds
+gimeurchips folds
+OKE_RASTA_J folds
+betto173 calls [0,01 $]
+OmgAKs checks
+** Dealing flop ** [ 2Herz, 9Kreuz, 5Karo ]
+betto173 checks
+OmgAKs checks
+** Dealing turn ** [ 9Herz ]
+betto173 checks
+OmgAKs bets [0,03 $]
+betto173 folds
+** Summary **
+OmgAKs collected [ 0,04 $ ]
+
+
+
+#Game No : 474483569
+***** 888poker Hand History for Game 474483569 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:43:52
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 2,08 $ )
+Seat 3: betto173 ( 0,88 $ )
+Seat 4: OmgAKs ( 2,09 $ )
+Seat 5: B2B_Suckouts ( 3,32 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2,28 $ )
+Seat 9: Los198181 ( 1,40 $ )
+Seat 10: gimeurchips ( 2 $ )
+OmgAKs posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 2Herz ]
+RomaGR folds
+Msigo_ folds
+Los198181 folds
+gimeurchips folds
+OKE_RASTA_J folds
+betto173 folds
+OmgAKs folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474483579
+***** 888poker Hand History for Game 474483579 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:44:09
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 2,08 $ )
+Seat 3: betto173 ( 0,88 $ )
+Seat 4: OmgAKs ( 2,08 $ )
+Seat 5: B2B_Suckouts ( 3,33 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2,28 $ )
+Seat 9: Los198181 ( 1,40 $ )
+Seat 10: gimeurchips ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+RomaGR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, JKaro ]
+Msigo_ folds
+Los198181 calls [0,02 $]
+gimeurchips raises [0,09 $]
+OKE_RASTA_J folds
+betto173 folds
+OmgAKs folds
+B2B_Suckouts folds
+RomaGR folds
+Los198181 calls [0,07 $]
+** Dealing flop ** [ AKaro, 10Pik, 3Karo ]
+Los198181 checks
+gimeurchips checks
+** Dealing turn ** [ 8Kreuz ]
+Los198181 checks
+gimeurchips bets [0,10 $]
+Los198181 calls [0,10 $]
+** Dealing river ** [ 10Kreuz ]
+Los198181 checks
+gimeurchips bets [0,13 $]
+Los198181 folds
+** Summary **
+gimeurchips collected [ 0,39 $ ]
+
+
+
+#Game No : 474483600
+***** 888poker Hand History for Game 474483600 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:45:01
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 2,08 $ )
+Seat 3: betto173 ( 0,88 $ )
+Seat 4: OmgAKs ( 2,08 $ )
+Seat 5: B2B_Suckouts ( 3,32 $ )
+Seat 6: RomaGR ( 2 $ )
+Seat 7: Msigo_ ( 2,28 $ )
+Seat 9: Los198181 ( 1,21 $ )
+Seat 10: gimeurchips ( 2,20 $ )
+RomaGR posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 3Kreuz ]
+Los198181 folds
+gimeurchips folds
+OKE_RASTA_J folds
+betto173 folds
+OmgAKs raises [0,05 $]
+B2B_Suckouts folds
+RomaGR raises [0,19 $]
+Msigo_ folds
+OmgAKs folds
+** Summary **
+RomaGR collected [ 0,12 $ ]
+
+
+
+#Game No : 474483614
+***** 888poker Hand History for Game 474483614 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:45:34
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 2,08 $ )
+Seat 3: betto173 ( 0,88 $ )
+Seat 4: OmgAKs ( 2,03 $ )
+Seat 5: B2B_Suckouts ( 3,32 $ )
+Seat 6: RomaGR ( 2,07 $ )
+Seat 7: Msigo_ ( 2,26 $ )
+Seat 9: Los198181 ( 1,21 $ )
+Seat 10: gimeurchips ( 2,20 $ )
+Msigo_ posts small blind [0,01 $]
+Los198181 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, KKaro ]
+gimeurchips folds
+OKE_RASTA_J folds
+betto173 calls [0,02 $]
+OmgAKs folds
+B2B_Suckouts folds
+RomaGR folds
+Msigo_ folds
+Los198181 checks
+** Dealing flop ** [ 3Herz, 6Herz, 6Kreuz ]
+Los198181 checks
+betto173 checks
+** Dealing turn ** [ 5Herz ]
+Los198181 checks
+betto173 checks
+** Dealing river ** [ JKaro ]
+Los198181 checks
+betto173 checks
+** Summary **
+Los198181 shows [ AKreuz, 10Herz ]
+betto173 mucks [ 9Herz, 8Kreuz ]
+Los198181 collected [ 0,05 $ ]
+
+
+
+#Game No : 474483634
+***** 888poker Hand History for Game 474483634 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:46:30
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: OKE_RASTA_J ( 2,08 $ )
+Seat 3: betto173 ( 0,86 $ )
+Seat 4: OmgAKs ( 2,03 $ )
+Seat 5: B2B_Suckouts ( 3,32 $ )
+Seat 7: Msigo_ ( 2,25 $ )
+Seat 9: Los198181 ( 1,24 $ )
+Seat 10: gimeurchips ( 2,20 $ )
+Los198181 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, APik ]
+OKE_RASTA_J calls [0,02 $]
+betto173 calls [0,02 $]
+OmgAKs raises [0,10 $]
+B2B_Suckouts folds
+Msigo_ folds
+Los198181 folds
+gimeurchips folds
+OKE_RASTA_J folds
+betto173 folds
+** Summary **
+OmgAKs collected [ 0,09 $ ]
+
+
+
+#Game No : 474483656
+***** 888poker Hand History for Game 474483656 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:47:21
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: OKE_RASTA_J ( 2,06 $ )
+Seat 3: betto173 ( 0,84 $ )
+Seat 4: OmgAKs ( 2,10 $ )
+Seat 5: B2B_Suckouts ( 3,32 $ )
+Seat 7: Msigo_ ( 2,25 $ )
+Seat 9: Los198181 ( 1,23 $ )
+Seat 10: gimeurchips ( 2,18 $ )
+gimeurchips posts small blind [0,01 $]
+OKE_RASTA_J folds
+betto173 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, JPik ]
+OmgAKs folds
+B2B_Suckouts folds
+Msigo_ folds
+Los198181 calls [0,02 $]
+gimeurchips folds
+betto173 checks
+** Dealing flop ** [ APik, 2Kreuz, 7Herz ]
+betto173 bets [0,05 $]
+Los198181 folds
+** Summary **
+betto173 collected [ 0,05 $ ]
+
+
+
+#Game No : 474483664
+***** 888poker Hand History for Game 474483664 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:47:48
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 3: betto173 ( 0,87 $ )
+Seat 4: OmgAKs ( 2,10 $ )
+Seat 5: B2B_Suckouts ( 3,32 $ )
+Seat 7: Msigo_ ( 2,25 $ )
+Seat 9: Los198181 ( 1,21 $ )
+Seat 10: gimeurchips ( 2,17 $ )
+betto173 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, JKaro ]
+B2B_Suckouts folds
+Msigo_ folds
+Los198181 calls [0,02 $]
+gimeurchips folds
+betto173 calls [0,01 $]
+OmgAKs checks
+** Dealing flop ** [ 6Karo, JPik, 10Karo ]
+betto173 checks
+OmgAKs checks
+Los198181 checks
+** Dealing turn ** [ JHerz ]
+betto173 checks
+OmgAKs checks
+Los198181 checks
+** Dealing river ** [ 3Pik ]
+betto173 checks
+OmgAKs checks
+Los198181 checks
+** Summary **
+betto173 shows [ 9Pik, 4Karo ]
+OmgAKs mucks [ 5Herz, 7Karo ]
+Los198181 shows [ 2Pik, AKaro ]
+Los198181 collected [ 0,06 $ ]
+
+
+
+#Game No : 474483682
+***** 888poker Hand History for Game 474483682 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:48:40
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: betto173 ( 0,85 $ )
+Seat 4: OmgAKs ( 2,08 $ )
+Seat 5: B2B_Suckouts ( 3,32 $ )
+Seat 7: Msigo_ ( 2,25 $ )
+Seat 9: Los198181 ( 1,25 $ )
+Seat 10: gimeurchips ( 2,17 $ )
+OmgAKs posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 9Pik ]
+Msigo_ folds
+Los198181 calls [0,02 $]
+gimeurchips folds
+betto173 folds
+OmgAKs calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 7Kreuz, 3Kreuz, QKreuz ]
+OmgAKs checks
+B2B_Suckouts checks
+Los198181 checks
+** Dealing turn ** [ KKaro ]
+OmgAKs checks
+B2B_Suckouts checks
+Los198181 checks
+** Dealing river ** [ 8Pik ]
+OmgAKs checks
+B2B_Suckouts checks
+Los198181 checks
+** Summary **
+OmgAKs shows [ 3Karo, 2Kreuz ]
+B2B_Suckouts mucks [ 6Herz, 9Pik ]
+Los198181 mucks [ 9Kreuz, 6Karo ]
+OmgAKs collected [ 0,06 $ ]
+
+
+
+#Game No : 474483713
+***** 888poker Hand History for Game 474483713 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:50:07
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 3: betto173 ( 0,85 $ )
+Seat 4: OmgAKs ( 2,12 $ )
+Seat 5: B2B_Suckouts ( 3,30 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 2,25 $ )
+Seat 9: Los198181 ( 1,23 $ )
+Seat 10: gimeurchips ( 2,17 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 9Pik ]
+Msigo_ folds
+Los198181 folds
+gimeurchips folds
+betto173 folds
+OmgAKs folds
+B2B_Suckouts folds
+** Summary **
+Despol collected [ 0,03 $ ]
+
+
+
+#Game No : 474483718
+***** 888poker Hand History for Game 474483718 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:50:26
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: wowsven94 ( 0,80 $ )
+Seat 2: MariusAlexe ( 0,80 $ )
+Seat 3: betto173 ( 0,85 $ )
+Seat 4: OmgAKs ( 2,12 $ )
+Seat 5: B2B_Suckouts ( 3,29 $ )
+Seat 6: Despol ( 2,01 $ )
+Seat 7: Msigo_ ( 2,25 $ )
+Seat 9: Los198181 ( 1,23 $ )
+Seat 10: gimeurchips ( 2,17 $ )
+Despol posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+wowsven94 posts big blind [0,02 $]
+MariusAlexe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 9Kreuz ]
+Los198181 calls [0,02 $]
+gimeurchips folds
+wowsven94 checks
+MariusAlexe checks
+betto173 folds
+OmgAKs folds
+B2B_Suckouts folds
+Despol folds
+Msigo_ raises [0,04 $]
+Los198181 calls [0,04 $]
+wowsven94 calls [0,04 $]
+MariusAlexe folds
+** Dealing flop ** [ 8Kreuz, 8Karo, 9Pik ]
+Msigo_ bets [0,10 $]
+Los198181 folds
+wowsven94 calls [0,10 $]
+** Dealing turn ** [ 2Kreuz ]
+Msigo_ bets [0,20 $]
+wowsven94 calls [0,20 $]
+** Dealing river ** [ 4Kreuz ]
+Msigo_ bets [0,53 $]
+wowsven94 calls [0,44 $]
+** Summary **
+wowsven94 shows [ 5Kreuz, 7Kreuz ]
+Msigo_ shows [ JPik, JKreuz ]
+wowsven94 collected [ 1,59 $ ]
+
+
+
+#Game No : 474483747
+***** 888poker Hand History for Game 474483747 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:51:38
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: wowsven94 ( 1,59 $ )
+Seat 2: MariusAlexe ( 0,78 $ )
+Seat 3: betto173 ( 0,85 $ )
+Seat 4: OmgAKs ( 2,12 $ )
+Seat 5: B2B_Suckouts ( 3,29 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: Los198181 ( 1,17 $ )
+Seat 10: gimeurchips ( 2,17 $ )
+Msigo_ posts small blind [0,01 $]
+Los198181 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 2Herz ]
+gimeurchips folds
+wowsven94 calls [0,02 $]
+MariusAlexe raises [0,06 $]
+betto173 folds
+OmgAKs folds
+B2B_Suckouts folds
+Despol folds
+Msigo_ folds
+Los198181 calls [0,04 $]
+wowsven94 calls [0,04 $]
+** Dealing flop ** [ 9Herz, 4Pik, 10Pik ]
+Los198181 checks
+wowsven94 bets [0,08 $]
+MariusAlexe folds
+Los198181 folds
+** Summary **
+wowsven94 did not show his hand
+wowsven94 collected [ 0,18 $ ]
+
+
+
+#Game No : 474483765
+***** 888poker Hand History for Game 474483765 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:52:33
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: wowsven94 ( 1,71 $ )
+Seat 2: MariusAlexe ( 0,72 $ )
+Seat 3: betto173 ( 0,85 $ )
+Seat 4: OmgAKs ( 2,12 $ )
+Seat 5: B2B_Suckouts ( 3,29 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: Los198181 ( 1,11 $ )
+Seat 10: gimeurchips ( 2,17 $ )
+Los198181 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 7Kreuz ]
+wowsven94 calls [0,02 $]
+MariusAlexe calls [0,02 $]
+betto173 folds
+OmgAKs folds
+B2B_Suckouts folds
+Despol folds
+Msigo_ raises [0,06 $]
+Los198181 folds
+gimeurchips folds
+wowsven94 calls [0,04 $]
+MariusAlexe calls [0,04 $]
+** Dealing flop ** [ KKaro, 4Karo, KHerz ]
+wowsven94 bets [0,06 $]
+MariusAlexe folds
+Msigo_ raises [0,24 $]
+wowsven94 calls [0,18 $]
+** Dealing turn ** [ 2Pik ]
+wowsven94 checks
+Msigo_ checks
+** Dealing river ** [ 6Herz ]
+wowsven94 bets [0,20 $]
+Msigo_ folds
+** Summary **
+wowsven94 did not show his hand
+wowsven94 collected [ 0,65 $ ]
+
+
+
+#Game No : 474483797
+***** 888poker Hand History for Game 474483797 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:53:46
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: wowsven94 ( 2,06 $ )
+Seat 2: MariusAlexe ( 0,66 $ )
+Seat 3: betto173 ( 0,85 $ )
+Seat 4: OmgAKs ( 2,12 $ )
+Seat 5: B2B_Suckouts ( 3,29 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: Los198181 ( 1,10 $ )
+Seat 10: gimeurchips ( 2,15 $ )
+gimeurchips posts small blind [0,01 $]
+wowsven94 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 3Herz ]
+MariusAlexe folds
+betto173 calls [0,02 $]
+OmgAKs folds
+B2B_Suckouts folds
+Despol folds
+Msigo_ raises [0,06 $]
+Los198181 folds
+gimeurchips folds
+wowsven94 calls [0,04 $]
+betto173 raises [0,83 $]
+Msigo_ raises [1,58 $]
+wowsven94 folds
+** Dealing flop ** [ 5Kreuz, 4Kreuz, 6Karo ]
+** Dealing turn ** [ 2Pik ]
+** Dealing river ** [ 2Herz ]
+** Summary **
+betto173 shows [ QKreuz, QHerz ]
+Msigo_ shows [ JPik, APik ]
+betto173 collected [ 1,66 $ ]
+
+
+
+#Game No : 474483837
+***** 888poker Hand History for Game 474483837 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:55:31
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: wowsven94 ( 2 $ )
+Seat 2: MariusAlexe ( 0,66 $ )
+Seat 3: betto173 ( 1,66 $ )
+Seat 4: OmgAKs ( 2,12 $ )
+Seat 5: B2B_Suckouts ( 3,29 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: Los198181 ( 1,10 $ )
+MariusAlexe posts small blind [0,01 $]
+betto173 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 10Herz ]
+OmgAKs raises [0,05 $]
+B2B_Suckouts folds
+Despol folds
+Msigo_ folds
+Los198181 calls [0,05 $]
+wowsven94 calls [0,05 $]
+MariusAlexe folds
+betto173 folds
+** Dealing flop ** [ 9Herz, 10Karo, AHerz ]
+OmgAKs bets [0,09 $]
+Los198181 calls [0,09 $]
+wowsven94 calls [0,09 $]
+** Dealing turn ** [ 2Pik ]
+OmgAKs bets [0,19 $]
+Los198181 calls [0,19 $]
+wowsven94 calls [0,19 $]
+** Dealing river ** [ 3Karo ]
+OmgAKs bets [0,29 $]
+Los198181 calls [0,29 $]
+wowsven94 folds
+** Summary **
+OmgAKs shows [ AKreuz, QPik ]
+Los198181 mucks [ 7Herz, AKaro ]
+OmgAKs collected [ 1,50 $ ]
+
+
+
+#Game No : 474483867
+***** 888poker Hand History for Game 474483867 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:56:38
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: wowsven94 ( 1,67 $ )
+Seat 2: MariusAlexe ( 0,65 $ )
+Seat 4: OmgAKs ( 3 $ )
+Seat 5: B2B_Suckouts ( 3,29 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: Los198181 ( 0,48 $ )
+OmgAKs posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 5Kreuz ]
+Despol folds
+Msigo_ folds
+Los198181 folds
+wowsven94 calls [0,02 $]
+MariusAlexe calls [0,02 $]
+OmgAKs calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ QPik, 10Karo, AHerz ]
+OmgAKs bets [0,02 $]
+B2B_Suckouts folds
+wowsven94 calls [0,02 $]
+MariusAlexe calls [0,02 $]
+** Dealing turn ** [ KPik ]
+OmgAKs checks
+wowsven94 bets [0,02 $]
+MariusAlexe calls [0,02 $]
+OmgAKs calls [0,02 $]
+** Dealing river ** [ 4Kreuz ]
+OmgAKs checks
+wowsven94 bets [0,02 $]
+MariusAlexe calls [0,02 $]
+OmgAKs calls [0,02 $]
+** Summary **
+wowsven94 shows [ 10Kreuz, JKaro ]
+MariusAlexe mucks [ KHerz, 8Karo ]
+OmgAKs mucks [ APik, 4Pik ]
+wowsven94 collected [ 0,25 $ ]
+
+
+
+#Game No : 474483880
+***** 888poker Hand History for Game 474483880 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:57:28
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: wowsven94 ( 1,84 $ )
+Seat 2: MariusAlexe ( 0,57 $ )
+Seat 4: OmgAKs ( 2,92 $ )
+Seat 5: B2B_Suckouts ( 3,27 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: Los198181 ( 0,48 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, KPik ]
+Msigo_ folds
+Los198181 calls [0,02 $]
+wowsven94 calls [0,02 $]
+MariusAlexe folds
+OmgAKs folds
+B2B_Suckouts calls [0,01 $]
+Despol raises [0,10 $]
+Los198181 folds
+wowsven94 calls [0,10 $]
+B2B_Suckouts folds
+** Dealing flop ** [ JKreuz, 3Herz, AHerz ]
+Despol bets [0,14 $]
+wowsven94 calls [0,14 $]
+** Dealing turn ** [ 9Pik ]
+Despol checks
+wowsven94 bets [0,30 $]
+Despol folds
+** Summary **
+wowsven94 did not show his hand
+wowsven94 collected [ 0,53 $ ]
+
+
+
+#Game No : 474483899
+***** 888poker Hand History for Game 474483899 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:58:20
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: wowsven94 ( 2,11 $ )
+Seat 2: MariusAlexe ( 0,57 $ )
+Seat 4: OmgAKs ( 2,92 $ )
+Seat 5: B2B_Suckouts ( 3,25 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: Los198181 ( 0,46 $ )
+Despol posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 3Pik ]
+Los198181 folds
+wowsven94 folds
+MariusAlexe folds
+OmgAKs folds
+B2B_Suckouts raises [0,06 $]
+Despol folds
+Msigo_ folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474483912
+***** 888poker Hand History for Game 474483912 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:58:39
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: wowsven94 ( 2,11 $ )
+Seat 2: MariusAlexe ( 0,57 $ )
+Seat 4: OmgAKs ( 2,92 $ )
+Seat 5: B2B_Suckouts ( 3,28 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: Los198181 ( 0,46 $ )
+Seat 10: axford48 ( 0,80 $ )
+Msigo_ posts small blind [0,01 $]
+Los198181 posts big blind [0,02 $]
+axford48 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 5Pik ]
+axford48 checks
+wowsven94 calls [0,02 $]
+MariusAlexe folds
+OmgAKs raises [0,10 $]
+B2B_Suckouts folds
+Despol calls [0,10 $]
+Msigo_ folds
+Los198181 folds
+axford48 folds
+wowsven94 calls [0,08 $]
+** Dealing flop ** [ 6Herz, 10Karo, 3Karo ]
+wowsven94 checks
+OmgAKs bets [0,09 $]
+Despol folds
+wowsven94 folds
+** Summary **
+OmgAKs collected [ 0,33 $ ]
+
+
+
+#Game No : 474483940
+***** 888poker Hand History for Game 474483940 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:59:48
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: wowsven94 ( 2,01 $ )
+Seat 2: MariusAlexe ( 0,57 $ )
+Seat 4: OmgAKs ( 3,15 $ )
+Seat 5: B2B_Suckouts ( 3,28 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 2 $ )
+Seat 9: Los198181 ( 0,44 $ )
+Seat 10: axford48 ( 0,78 $ )
+Los198181 posts small blind [0,01 $]
+axford48 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, JHerz ]
+wowsven94 calls [0,02 $]
+MariusAlexe folds
+OmgAKs folds
+B2B_Suckouts folds
+Despol folds
+Msigo_ raises [0,06 $]
+Los198181 folds
+axford48 calls [0,04 $]
+wowsven94 calls [0,04 $]
+** Dealing flop ** [ 7Herz, AHerz, QKaro ]
+axford48 checks
+wowsven94 bets [0,12 $]
+Msigo_ raises [0,48 $]
+axford48 folds
+wowsven94 calls [0,36 $]
+** Dealing turn ** [ 9Pik ]
+wowsven94 checks
+Msigo_ bets [0,57 $]
+wowsven94 calls [0,57 $]
+** Dealing river ** [ 10Herz ]
+wowsven94 checks
+Msigo_ bets [0,75 $]
+wowsven94 raises [0,90 $]
+Msigo_ calls [0,14 $]
+** Summary **
+wowsven94 shows [ JPik, APik ]
+Msigo_ shows [ AKreuz, QPik ]
+Msigo_ collected [ 3,82 $ ]
+
+
+
+#Game No : 474483992
+***** 888poker Hand History for Game 474483992 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:01:54
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: MariusAlexe ( 0,57 $ )
+Seat 4: OmgAKs ( 3,15 $ )
+Seat 5: B2B_Suckouts ( 3,28 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 3,82 $ )
+Seat 9: Los198181 ( 0,43 $ )
+Seat 10: axford48 ( 0,72 $ )
+axford48 posts small blind [0,01 $]
+MariusAlexe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 3Karo ]
+OmgAKs folds
+B2B_Suckouts folds
+Despol raises [0,06 $]
+Msigo_ calls [0,06 $]
+Los198181 folds
+axford48 folds
+MariusAlexe folds
+** Dealing flop ** [ 8Karo, 4Herz, 9Herz ]
+Despol bets [0,07 $]
+Msigo_ calls [0,07 $]
+** Dealing turn ** [ 10Herz ]
+Despol checks
+Msigo_ bets [0,14 $]
+Despol calls [0,14 $]
+** Dealing river ** [ 7Herz ]
+Despol checks
+Msigo_ bets [3,55 $]
+Despol folds
+** Summary **
+Msigo_ collected [ 0,54 $ ]
+
+
+
+#Game No : 474484034
+***** 888poker Hand History for Game 474484034 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:03:20
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: MariusAlexe ( 0,55 $ )
+Seat 3: 5lattam6 ( 2 $ )
+Seat 4: OmgAKs ( 3,15 $ )
+Seat 5: B2B_Suckouts ( 3,28 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 4,09 $ )
+Seat 9: Los198181 ( 0,43 $ )
+Seat 10: axford48 ( 0,71 $ )
+MariusAlexe posts small blind [0,01 $]
+5lattam6 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 5Herz ]
+OmgAKs folds
+B2B_Suckouts folds
+Despol folds
+Msigo_ raises [0,06 $]
+Los198181 folds
+axford48 folds
+MariusAlexe calls [0,05 $]
+5lattam6 folds
+** Dealing flop ** [ 6Karo, AHerz, 10Pik ]
+MariusAlexe checks
+Msigo_ bets [0,07 $]
+MariusAlexe calls [0,07 $]
+** Dealing turn ** [ 5Karo ]
+MariusAlexe checks
+Msigo_ bets [3,96 $]
+MariusAlexe folds
+** Summary **
+Msigo_ collected [ 0,27 $ ]
+
+
+
+#Game No : 474484054
+***** 888poker Hand History for Game 474484054 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:04:15
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: MariusAlexe ( 0,42 $ )
+Seat 3: 5lattam6 ( 1,98 $ )
+Seat 4: OmgAKs ( 3,15 $ )
+Seat 5: B2B_Suckouts ( 3,28 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 4,23 $ )
+Seat 9: Los198181 ( 0,43 $ )
+Seat 10: axford48 ( 0,71 $ )
+5lattam6 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 4Karo ]
+B2B_Suckouts folds
+Despol folds
+Msigo_ folds
+Los198181 folds
+axford48 folds
+MariusAlexe calls [0,02 $]
+5lattam6 calls [0,01 $]
+OmgAKs checks
+** Dealing flop ** [ JKaro, KPik, AHerz ]
+5lattam6 checks
+OmgAKs checks
+MariusAlexe checks
+** Dealing turn ** [ 6Pik ]
+5lattam6 bets [0,02 $]
+OmgAKs folds
+MariusAlexe raises [0,08 $]
+5lattam6 calls [0,06 $]
+** Dealing river ** [ AKaro ]
+5lattam6 checks
+MariusAlexe bets [0,32 $]
+5lattam6 folds
+** Summary **
+MariusAlexe collected [ 0,21 $ ]
+
+
+
+#Game No : 474484070
+***** 888poker Hand History for Game 474484070 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:05:00
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: MariusAlexe ( 0,53 $ )
+Seat 3: 5lattam6 ( 1,88 $ )
+Seat 4: OmgAKs ( 3,13 $ )
+Seat 5: B2B_Suckouts ( 3,28 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 4,23 $ )
+Seat 9: Los198181 ( 0,43 $ )
+Seat 10: axford48 ( 0,71 $ )
+OmgAKs posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 4Pik ]
+Despol folds
+Msigo_ folds
+Los198181 calls [0,02 $]
+axford48 calls [0,02 $]
+MariusAlexe raises [0,06 $]
+5lattam6 folds
+OmgAKs folds
+B2B_Suckouts folds
+Los198181 calls [0,04 $]
+axford48 calls [0,04 $]
+** Dealing flop ** [ 8Pik, 7Pik, 7Kreuz ]
+Los198181 checks
+axford48 checks
+MariusAlexe checks
+** Dealing turn ** [ 10Pik ]
+Los198181 checks
+axford48 checks
+MariusAlexe checks
+** Dealing river ** [ 10Kreuz ]
+Los198181 checks
+axford48 checks
+MariusAlexe bets [0,02 $]
+Los198181 folds
+axford48 calls [0,02 $]
+** Summary **
+MariusAlexe shows [ QKreuz, JKreuz ]
+axford48 shows [ AKreuz, QKaro ]
+axford48 collected [ 0,24 $ ]
+
+
+
+#Game No : 474484107
+***** 888poker Hand History for Game 474484107 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:06:25
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: MariusAlexe ( 0,45 $ )
+Seat 3: 5lattam6 ( 1,88 $ )
+Seat 4: OmgAKs ( 3,12 $ )
+Seat 5: B2B_Suckouts ( 3,26 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 4,23 $ )
+Seat 9: Los198181 ( 0,37 $ )
+Seat 10: axford48 ( 0,87 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 7Herz ]
+Msigo_ folds
+Los198181 calls [0,02 $]
+axford48 folds
+MariusAlexe folds
+5lattam6 calls [0,02 $]
+OmgAKs folds
+B2B_Suckouts raises [0,05 $]
+Despol folds
+Los198181 calls [0,04 $]
+5lattam6 calls [0,04 $]
+** Dealing flop ** [ 5Pik, AKreuz, KKaro ]
+B2B_Suckouts checks
+Los198181 checks
+5lattam6 bets [0,10 $]
+B2B_Suckouts folds
+Los198181 folds
+** Summary **
+5lattam6 collected [ 0,19 $ ]
+
+
+
+#Game No : 474484121
+***** 888poker Hand History for Game 474484121 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:07:08
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: MariusAlexe ( 0,45 $ )
+Seat 3: 5lattam6 ( 2,01 $ )
+Seat 4: OmgAKs ( 3,12 $ )
+Seat 5: B2B_Suckouts ( 3,20 $ )
+Seat 6: Despol ( 2 $ )
+Seat 7: Msigo_ ( 4,23 $ )
+Seat 9: Los198181 ( 0,31 $ )
+Seat 10: axford48 ( 0,87 $ )
+Despol posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 9Herz ]
+Los198181 raises [0,31 $]
+axford48 folds
+MariusAlexe folds
+5lattam6 folds
+OmgAKs folds
+B2B_Suckouts folds
+Despol folds
+Msigo_ folds
+** Summary **
+Los198181 collected [ 0,05 $ ]
+
+
+
+#Game No : 474488468
+***** 888poker Hand History for Game 474488468 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:41:19
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: apxap ( 2,23 $ )
+Seat 2: AwwwMann ( 1,76 $ )
+Seat 4: fisherman016 ( 1,40 $ )
+Seat 5: 1gadfly1 ( 2,44 $ )
+Seat 7: gimeurchips ( 2,14 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: mcgerry57 ( 0,90 $ )
+1gadfly1 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, KKaro ]
+B2B_Suckouts raises [0,02 $]
+mcgerry57 folds
+apxap calls [0,04 $]
+AwwwMann folds
+fisherman016 folds
+1gadfly1 folds
+gimeurchips calls [0,02 $]
+** Dealing flop ** [ 2Kreuz, 6Herz, 2Herz ]
+gimeurchips checks
+B2B_Suckouts bets [0,02 $]
+apxap calls [0,02 $]
+gimeurchips folds
+** Dealing turn ** [ 8Kreuz ]
+B2B_Suckouts bets [0,02 $]
+apxap calls [0,02 $]
+** Dealing river ** [ 9Kreuz ]
+B2B_Suckouts bets [0,20 $]
+apxap calls [0,20 $]
+** Summary **
+B2B_Suckouts shows [ JHerz, KKaro ]
+apxap shows [ KKreuz, JKreuz ]
+apxap collected [ 0,58 $ ]
+
+
+
+#Game No : 474488514
+***** 888poker Hand History for Game 474488514 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:42:30
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: apxap ( 2,53 $ )
+Seat 2: AwwwMann ( 1,76 $ )
+Seat 3: cekrox ( 1,12 $ )
+Seat 4: fisherman016 ( 1,40 $ )
+Seat 5: 1gadfly1 ( 2,43 $ )
+Seat 7: gimeurchips ( 2,10 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: mcgerry57 ( 0,90 $ )
+gimeurchips posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+cekrox posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 2Karo ]
+mcgerry57 folds
+apxap folds
+AwwwMann folds
+cekrox raises [0,02 $]
+fisherman016 folds
+1gadfly1 folds
+gimeurchips folds
+B2B_Suckouts folds
+** Summary **
+cekrox collected [ 0,05 $ ]
+
+
+
+#Game No : 474488545
+***** 888poker Hand History for Game 474488545 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:43:20
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: apxap ( 2,53 $ )
+Seat 2: AwwwMann ( 1,76 $ )
+Seat 3: cekrox ( 1,15 $ )
+Seat 4: fisherman016 ( 1,40 $ )
+Seat 7: gimeurchips ( 2,09 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: mcgerry57 ( 0,90 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mcgerry57 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, AKaro ]
+apxap folds
+AwwwMann folds
+cekrox raises [0,04 $]
+fisherman016 folds
+gimeurchips folds
+B2B_Suckouts raises [0,11 $]
+mcgerry57 folds
+cekrox calls [0,08 $]
+** Dealing flop ** [ 7Herz, KKreuz, 7Kreuz ]
+B2B_Suckouts bets [0,08 $]
+cekrox raises [0,20 $]
+B2B_Suckouts calls [0,12 $]
+** Dealing turn ** [ 8Pik ]
+B2B_Suckouts bets [0,21 $]
+cekrox raises [0,83 $]
+B2B_Suckouts calls [0,62 $]
+** Dealing river ** [ 4Herz ]
+** Summary **
+cekrox shows [ AKreuz, 6Pik ]
+B2B_Suckouts shows [ KKaro, AKaro ]
+B2B_Suckouts collected [ 2,18 $ ]
+
+
+
+#Game No : 474488587
+***** 888poker Hand History for Game 474488587 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:44:36
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: apxap ( 2,53 $ )
+Seat 2: AwwwMann ( 1,76 $ )
+Seat 4: fisherman016 ( 1,40 $ )
+Seat 5: 1gadfly1 ( 2,43 $ )
+Seat 7: gimeurchips ( 2,09 $ )
+Seat 9: B2B_Suckouts ( 3,03 $ )
+Seat 10: mcgerry57 ( 0,88 $ )
+mcgerry57 posts small blind [0,01 $]
+apxap posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, QHerz ]
+AwwwMann folds
+fisherman016 calls [0,02 $]
+1gadfly1 folds
+gimeurchips folds
+B2B_Suckouts raises [0,06 $]
+mcgerry57 calls [0,05 $]
+apxap folds
+fisherman016 calls [0,04 $]
+** Dealing flop ** [ 9Pik, KKaro, 10Karo ]
+mcgerry57 bets [0,04 $]
+fisherman016 folds
+B2B_Suckouts raises [0,08 $]
+mcgerry57 calls [0,04 $]
+** Dealing turn ** [ 4Herz ]
+mcgerry57 bets [0,04 $]
+B2B_Suckouts raises [0,08 $]
+mcgerry57 calls [0,04 $]
+** Dealing river ** [ 8Herz ]
+mcgerry57 checks
+B2B_Suckouts bets [0,17 $]
+mcgerry57 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,49 $ ]
+
+
+
+#Game No : 474488626
+***** 888poker Hand History for Game 474488626 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:45:40
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: apxap ( 2,51 $ )
+Seat 2: AwwwMann ( 1,76 $ )
+Seat 4: fisherman016 ( 1,34 $ )
+Seat 5: 1gadfly1 ( 2,43 $ )
+Seat 7: gimeurchips ( 2,09 $ )
+Seat 9: B2B_Suckouts ( 3,30 $ )
+Seat 10: mcgerry57 ( 0,66 $ )
+apxap posts small blind [0,01 $]
+AwwwMann posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 9Kreuz ]
+fisherman016 folds
+1gadfly1 folds
+gimeurchips raises [0,06 $]
+B2B_Suckouts folds
+mcgerry57 folds
+apxap folds
+AwwwMann folds
+** Summary **
+gimeurchips did not show his hand
+gimeurchips collected [ 0,05 $ ]
+
+
+
+#Game No : 474488640
+***** 888poker Hand History for Game 474488640 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:45:58
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: apxap ( 2,50 $ )
+Seat 2: AwwwMann ( 1,74 $ )
+Seat 4: fisherman016 ( 1,34 $ )
+Seat 5: 1gadfly1 ( 2,43 $ )
+Seat 7: gimeurchips ( 2,12 $ )
+Seat 9: B2B_Suckouts ( 3,30 $ )
+Seat 10: mcgerry57 ( 0,66 $ )
+AwwwMann posts small blind [0,01 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 5Herz ]
+1gadfly1 folds
+gimeurchips folds
+B2B_Suckouts folds
+mcgerry57 folds
+apxap folds
+AwwwMann folds
+** Summary **
+fisherman016 did not show his hand
+fisherman016 collected [ 0,03 $ ]
+
+
+
+#Game No : 474488657
+***** 888poker Hand History for Game 474488657 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:46:24
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: apxap ( 2,50 $ )
+Seat 2: AwwwMann ( 1,73 $ )
+Seat 4: fisherman016 ( 1,35 $ )
+Seat 5: 1gadfly1 ( 2,43 $ )
+Seat 7: gimeurchips ( 2,12 $ )
+Seat 9: B2B_Suckouts ( 3,30 $ )
+Seat 10: mcgerry57 ( 0,66 $ )
+fisherman016 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 8Kreuz ]
+gimeurchips folds
+B2B_Suckouts folds
+mcgerry57 folds
+apxap folds
+AwwwMann calls [0,02 $]
+fisherman016 calls [0,01 $]
+1gadfly1 checks
+** Dealing flop ** [ KHerz, 9Herz, 3Herz ]
+fisherman016 checks
+1gadfly1 checks
+AwwwMann checks
+** Dealing turn ** [ QKaro ]
+fisherman016 checks
+1gadfly1 bets [0,02 $]
+AwwwMann calls [0,02 $]
+fisherman016 calls [0,02 $]
+** Dealing river ** [ 4Karo ]
+fisherman016 checks
+1gadfly1 bets [0,12 $]
+AwwwMann folds
+fisherman016 folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ 0,12 $ ]
+
+
+
+#Game No : 474488709
+***** 888poker Hand History for Game 474488709 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:47:49
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: apxap ( 2,50 $ )
+Seat 2: AwwwMann ( 1,69 $ )
+Seat 4: fisherman016 ( 1,31 $ )
+Seat 5: 1gadfly1 ( 2,51 $ )
+Seat 9: B2B_Suckouts ( 3,30 $ )
+Seat 10: mcgerry57 ( 0,66 $ )
+1gadfly1 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, KKaro ]
+mcgerry57 calls [0,02 $]
+apxap raises [0,06 $]
+AwwwMann calls [0,06 $]
+fisherman016 folds
+1gadfly1 folds
+B2B_Suckouts calls [0,04 $]
+mcgerry57 calls [0,04 $]
+** Dealing flop ** [ 7Kreuz, 8Karo, 3Pik ]
+B2B_Suckouts checks
+mcgerry57 bets [0,02 $]
+apxap raises [0,06 $]
+AwwwMann raises [0,24 $]
+B2B_Suckouts folds
+mcgerry57 folds
+apxap calls [0,18 $]
+** Dealing turn ** [ 2Herz ]
+apxap checks
+AwwwMann bets [0,49 $]
+apxap folds
+** Summary **
+AwwwMann did not show his hand
+AwwwMann collected [ 0,71 $ ]
+
+
+
+#Game No : 474488745
+***** 888poker Hand History for Game 474488745 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:48:55
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: apxap ( 2,20 $ )
+Seat 2: AwwwMann ( 2,10 $ )
+Seat 4: fisherman016 ( 1,31 $ )
+Seat 5: 1gadfly1 ( 2,50 $ )
+Seat 9: B2B_Suckouts ( 3,24 $ )
+Seat 10: mcgerry57 ( 0,58 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mcgerry57 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, KKreuz ]
+apxap folds
+AwwwMann folds
+fisherman016 folds
+1gadfly1 folds
+B2B_Suckouts folds
+** Summary **
+mcgerry57 collected [ 0,03 $ ]
+
+
+
+#Game No : 474488758
+***** 888poker Hand History for Game 474488758 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:49:13
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: apxap ( 2,20 $ )
+Seat 2: AwwwMann ( 2,10 $ )
+Seat 4: fisherman016 ( 1,31 $ )
+Seat 5: 1gadfly1 ( 2,50 $ )
+Seat 9: B2B_Suckouts ( 3,23 $ )
+Seat 10: mcgerry57 ( 0,59 $ )
+mcgerry57 posts small blind [0,01 $]
+apxap posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 5Pik ]
+AwwwMann folds
+fisherman016 folds
+1gadfly1 folds
+B2B_Suckouts folds
+mcgerry57 calls [0,01 $]
+apxap checks
+** Dealing flop ** [ 5Herz, 4Pik, APik ]
+mcgerry57 checks
+apxap checks
+** Dealing turn ** [ 7Karo ]
+mcgerry57 bets [0,02 $]
+apxap folds
+** Summary **
+mcgerry57 collected [ 0,04 $ ]
+
+
+
+#Game No : 474488778
+***** 888poker Hand History for Game 474488778 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:49:57
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: apxap ( 2,18 $ )
+Seat 2: AwwwMann ( 2,10 $ )
+Seat 4: fisherman016 ( 1,31 $ )
+Seat 5: 1gadfly1 ( 2,50 $ )
+Seat 9: B2B_Suckouts ( 3,23 $ )
+Seat 10: mcgerry57 ( 0,61 $ )
+apxap posts small blind [0,01 $]
+AwwwMann posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, QKaro ]
+fisherman016 raises [0,08 $]
+1gadfly1 folds
+B2B_Suckouts folds
+mcgerry57 calls [0,08 $]
+apxap folds
+AwwwMann folds
+** Dealing flop ** [ 5Karo, 9Karo, 6Pik ]
+fisherman016 bets [0,12 $]
+mcgerry57 folds
+** Summary **
+fisherman016 collected [ 0,18 $ ]
+
+
+
+#Game No : 474488800
+***** 888poker Hand History for Game 474488800 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:50:42
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: apxap ( 2,17 $ )
+Seat 2: AwwwMann ( 2,08 $ )
+Seat 3: Tricksta18 ( 0,80 $ )
+Seat 4: fisherman016 ( 1,41 $ )
+Seat 5: 1gadfly1 ( 2,50 $ )
+Seat 9: B2B_Suckouts ( 3,23 $ )
+Seat 10: mcgerry57 ( 0,53 $ )
+AwwwMann posts small blind [0,01 $]
+Tricksta18 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, JKaro ]
+fisherman016 folds
+1gadfly1 raises [0,05 $]
+B2B_Suckouts folds
+mcgerry57 calls [0,05 $]
+apxap raises [0,15 $]
+AwwwMann calls [0,14 $]
+Tricksta18 folds
+1gadfly1 calls [0,10 $]
+mcgerry57 calls [0,10 $]
+** Dealing flop ** [ 4Kreuz, 6Herz, 10Karo ]
+AwwwMann bets [0,31 $]
+1gadfly1 folds
+mcgerry57 folds
+apxap folds
+** Summary **
+AwwwMann collected [ 0,59 $ ]
+
+
+
+#Game No : 474488829
+***** 888poker Hand History for Game 474488829 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:51:43
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: apxap ( 2,02 $ )
+Seat 2: AwwwMann ( 2,52 $ )
+Seat 3: Tricksta18 ( 0,80 $ )
+Seat 4: fisherman016 ( 1,41 $ )
+Seat 5: 1gadfly1 ( 2,35 $ )
+Seat 9: B2B_Suckouts ( 3,23 $ )
+Seat 10: mcgerry57 ( 0,38 $ )
+Tricksta18 posts small blind [0,01 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 8Karo ]
+1gadfly1 folds
+B2B_Suckouts folds
+mcgerry57 calls [0,02 $]
+apxap folds
+AwwwMann calls [0,02 $]
+Tricksta18 calls [0,01 $]
+fisherman016 checks
+** Dealing flop ** [ QHerz, 6Karo, 10Herz ]
+Tricksta18 checks
+fisherman016 bets [0,02 $]
+mcgerry57 calls [0,02 $]
+AwwwMann calls [0,02 $]
+Tricksta18 folds
+** Dealing turn ** [ 6Kreuz ]
+fisherman016 bets [0,02 $]
+mcgerry57 calls [0,02 $]
+AwwwMann calls [0,02 $]
+** Dealing river ** [ 3Herz ]
+fisherman016 bets [0,13 $]
+mcgerry57 folds
+AwwwMann folds
+** Summary **
+fisherman016 collected [ 0,19 $ ]
+
+
+
+#Game No : 474488854
+***** 888poker Hand History for Game 474488854 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:52:30
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: apxap ( 2,02 $ )
+Seat 2: AwwwMann ( 2,46 $ )
+Seat 3: Tricksta18 ( 0,80 $ )
+Seat 4: fisherman016 ( 1,54 $ )
+Seat 5: 1gadfly1 ( 2,35 $ )
+Seat 9: B2B_Suckouts ( 3,23 $ )
+Seat 10: mcgerry57 ( 0,32 $ )
+fisherman016 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 5Kreuz ]
+B2B_Suckouts folds
+mcgerry57 calls [0,02 $]
+apxap folds
+AwwwMann folds
+Tricksta18 calls [0,02 $]
+fisherman016 folds
+1gadfly1 checks
+** Dealing flop ** [ 4Pik, QKaro, 9Kreuz ]
+1gadfly1 checks
+mcgerry57 checks
+Tricksta18 checks
+** Dealing turn ** [ 2Herz ]
+1gadfly1 checks
+mcgerry57 checks
+Tricksta18 checks
+** Dealing river ** [ APik ]
+1gadfly1 checks
+mcgerry57 checks
+Tricksta18 bets [0,06 $]
+1gadfly1 raises [0,25 $]
+mcgerry57 folds
+Tricksta18 folds
+** Summary **
+1gadfly1 collected [ 0,18 $ ]
+
+
+
+#Game No : 474488883
+***** 888poker Hand History for Game 474488883 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:53:28
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: apxap ( 2,02 $ )
+Seat 2: AwwwMann ( 2,46 $ )
+Seat 3: Tricksta18 ( 0,80 $ )
+Seat 4: fisherman016 ( 1,53 $ )
+Seat 5: 1gadfly1 ( 2,45 $ )
+Seat 6: vavan129 ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,23 $ )
+Seat 10: mcgerry57 ( 0,30 $ )
+1gadfly1 posts small blind [0,01 $]
+vavan129 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 4Kreuz ]
+B2B_Suckouts folds
+mcgerry57 folds
+apxap folds
+AwwwMann folds
+Tricksta18 folds
+fisherman016 folds
+1gadfly1 folds
+** Summary **
+vavan129 did not show his hand
+vavan129 collected [ 0,03 $ ]
+
+
+
+#Game No : 474488895
+***** 888poker Hand History for Game 474488895 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:53:44
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: apxap ( 2,02 $ )
+Seat 2: AwwwMann ( 2,46 $ )
+Seat 3: Tricksta18 ( 0,80 $ )
+Seat 4: fisherman016 ( 1,53 $ )
+Seat 5: 1gadfly1 ( 2,44 $ )
+Seat 6: vavan129 ( 2,01 $ )
+Seat 9: B2B_Suckouts ( 3,23 $ )
+vavan129 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 3Karo ]
+apxap calls [0,02 $]
+AwwwMann folds
+Tricksta18 folds
+fisherman016 folds
+1gadfly1 folds
+vavan129 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 8Herz, 8Pik, 4Karo ]
+B2B_Suckouts bets [0,02 $]
+apxap folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474488911
+***** 888poker Hand History for Game 474488911 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:54:17
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: apxap ( 2 $ )
+Seat 2: AwwwMann ( 2,46 $ )
+Seat 3: Tricksta18 ( 0,80 $ )
+Seat 4: fisherman016 ( 1,53 $ )
+Seat 5: 1gadfly1 ( 2,44 $ )
+Seat 6: vavan129 ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,26 $ )
+B2B_Suckouts posts small blind [0,01 $]
+apxap posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 10Karo ]
+AwwwMann folds
+Tricksta18 calls [0,02 $]
+fisherman016 folds
+1gadfly1 calls [0,02 $]
+vavan129 folds
+B2B_Suckouts folds
+apxap checks
+** Dealing flop ** [ QHerz, 2Herz, JPik ]
+apxap checks
+Tricksta18 checks
+1gadfly1 checks
+** Dealing turn ** [ 10Pik ]
+apxap checks
+Tricksta18 checks
+1gadfly1 checks
+** Dealing river ** [ 9Pik ]
+apxap checks
+Tricksta18 checks
+1gadfly1 checks
+** Summary **
+apxap shows [ 7Kreuz, 8Herz ]
+Tricksta18 mucks [ AHerz, 5Herz ]
+1gadfly1 mucks [ AKreuz, 5Kreuz ]
+apxap collected [ 0,07 $ ]
+
+
+
+#Game No : 474488961
+***** 888poker Hand History for Game 474488961 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:55:30
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: apxap ( 2,05 $ )
+Seat 2: AwwwMann ( 2,46 $ )
+Seat 3: Tricksta18 ( 0,80 $ )
+Seat 4: fisherman016 ( 1,53 $ )
+Seat 5: 1gadfly1 ( 2,42 $ )
+Seat 6: vavan129 ( 2 $ )
+Seat 7: head1714 ( 0,80 $ )
+Seat 9: B2B_Suckouts ( 3,25 $ )
+apxap posts small blind [0,01 $]
+AwwwMann posts big blind [0,02 $]
+head1714 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 8Karo ]
+Tricksta18 folds
+fisherman016 folds
+1gadfly1 folds
+vavan129 folds
+head1714 checks
+B2B_Suckouts raises [0,06 $]
+apxap folds
+AwwwMann folds
+head1714 calls [0,04 $]
+** Dealing flop ** [ 10Karo, 6Herz, JHerz ]
+head1714 checks
+B2B_Suckouts bets [0,07 $]
+head1714 calls [0,07 $]
+** Dealing turn ** [ QHerz ]
+head1714 checks
+B2B_Suckouts bets [0,09 $]
+head1714 calls [0,09 $]
+** Dealing river ** [ 9Pik ]
+head1714 bets [0,16 $]
+B2B_Suckouts calls [0,16 $]
+** Summary **
+head1714 shows [ 7Kreuz, APik ]
+B2B_Suckouts shows [ 9Karo, 8Karo ]
+B2B_Suckouts collected [ 0,75 $ ]
+
+
+
+#Game No : 474488998
+***** 888poker Hand History for Game 474488998 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:56:46
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: apxap ( 2,04 $ )
+Seat 2: AwwwMann ( 2,44 $ )
+Seat 3: Tricksta18 ( 0,80 $ )
+Seat 4: fisherman016 ( 1,53 $ )
+Seat 5: 1gadfly1 ( 2,42 $ )
+Seat 6: vavan129 ( 2 $ )
+Seat 7: head1714 ( 0,42 $ )
+Seat 9: B2B_Suckouts ( 3,62 $ )
+AwwwMann posts small blind [0,01 $]
+Tricksta18 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, KPik ]
+fisherman016 calls [0,02 $]
+1gadfly1 folds
+vavan129 folds
+head1714 calls [0,02 $]
+B2B_Suckouts raises [0,08 $]
+apxap folds
+AwwwMann folds
+Tricksta18 folds
+fisherman016 calls [0,06 $]
+head1714 raises [0,14 $]
+B2B_Suckouts calls [0,08 $]
+fisherman016 calls [0,08 $]
+** Dealing flop ** [ 8Kreuz, QKreuz, 6Karo ]
+fisherman016 checks
+head1714 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+fisherman016 calls [0,02 $]
+** Dealing turn ** [ 5Herz ]
+fisherman016 checks
+head1714 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+fisherman016 calls [0,02 $]
+** Dealing river ** [ AHerz ]
+fisherman016 checks
+head1714 bets [0,02 $]
+B2B_Suckouts raises [0,20 $]
+fisherman016 folds
+head1714 folds
+** Summary **
+B2B_Suckouts collected [ 0,63 $ ]
+
+
+
+#Game No : 474489037
+***** 888poker Hand History for Game 474489037 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:58:09
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: apxap ( 2,04 $ )
+Seat 2: AwwwMann ( 2,43 $ )
+Seat 3: Tricksta18 ( 0,80 $ )
+Seat 4: fisherman016 ( 1,33 $ )
+Seat 5: 1gadfly1 ( 2,42 $ )
+Seat 6: vavan129 ( 2 $ )
+Seat 7: head1714 ( 0,20 $ )
+Seat 9: B2B_Suckouts ( 4,03 $ )
+Tricksta18 posts small blind [0,01 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 5Herz ]
+1gadfly1 folds
+vavan129 folds
+head1714 calls [0,02 $]
+B2B_Suckouts calls [0,02 $]
+apxap raises [0,06 $]
+AwwwMann folds
+Tricksta18 calls [0,05 $]
+fisherman016 calls [0,04 $]
+head1714 raises [0,18 $]
+B2B_Suckouts calls [0,18 $]
+apxap calls [0,14 $]
+Tricksta18 calls [0,14 $]
+fisherman016 calls [0,14 $]
+** Dealing flop ** [ 7Karo, 3Herz, 7Kreuz ]
+Tricksta18 checks
+fisherman016 checks
+B2B_Suckouts bets [3,83 $]
+apxap folds
+Tricksta18 folds
+fisherman016 folds
+** Dealing turn ** [ 5Pik ]
+** Dealing river ** [ 6Pik ]
+** Summary **
+head1714 shows [ JKaro, 8Herz ]
+B2B_Suckouts shows [ 5Karo, 5Herz ]
+B2B_Suckouts collected [ 0,94 $ ]
+
+
+
+#Game No : 474489081
+***** 888poker Hand History for Game 474489081 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:59:26
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: apxap ( 1,84 $ )
+Seat 2: AwwwMann ( 2,43 $ )
+Seat 4: fisherman016 ( 1,13 $ )
+Seat 5: 1gadfly1 ( 2,42 $ )
+Seat 6: vavan129 ( 2 $ )
+Seat 9: B2B_Suckouts ( 4,77 $ )
+1gadfly1 posts small blind [0,01 $]
+vavan129 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 5Kreuz ]
+B2B_Suckouts folds
+apxap folds
+AwwwMann folds
+fisherman016 folds
+1gadfly1 folds
+** Summary **
+vavan129 collected [ 0,03 $ ]
+
+
+
+#Game No : 474489089
+***** 888poker Hand History for Game 474489089 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:59:44
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: apxap ( 1,84 $ )
+Seat 2: AwwwMann ( 2,43 $ )
+Seat 4: fisherman016 ( 1,13 $ )
+Seat 5: 1gadfly1 ( 2,41 $ )
+Seat 6: vavan129 ( 2,01 $ )
+Seat 9: B2B_Suckouts ( 4,77 $ )
+vavan129 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 8Karo ]
+apxap folds
+AwwwMann folds
+fisherman016 calls [0,02 $]
+1gadfly1 raises [0,09 $]
+vavan129 folds
+B2B_Suckouts calls [0,07 $]
+fisherman016 folds
+** Dealing flop ** [ QKreuz, 2Kreuz, 4Herz ]
+B2B_Suckouts checks
+1gadfly1 bets [0,14 $]
+B2B_Suckouts folds
+** Summary **
+1gadfly1 collected [ 0,20 $ ]
+
+
+
+#Game No : 474489112
+***** 888poker Hand History for Game 474489112 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:00:21
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 2: AwwwMann ( 2,43 $ )
+Seat 4: fisherman016 ( 1,11 $ )
+Seat 5: 1gadfly1 ( 2,52 $ )
+Seat 6: vavan129 ( 2 $ )
+Seat 9: B2B_Suckouts ( 4,68 $ )
+Seat 10: overcranky ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 2Herz ]
+AwwwMann folds
+fisherman016 folds
+1gadfly1 folds
+vavan129 folds
+B2B_Suckouts folds
+** Summary **
+overcranky collected [ 0,03 $ ]
+
+
+
+#Game No : 474494734
+***** 888poker Hand History for Game 474494734 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:28:26
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ton6517 ( 2,37 $ )
+Seat 4: SKDynasty ( 2,77 $ )
+Seat 6: VasilijZavgo ( 1,36 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 10: algrud ( 1 $ )
+algrud posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 3Pik ]
+ton6517 folds
+SKDynasty folds
+VasilijZavgo folds
+blackbeer15 folds
+algrud folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474494744
+***** 888poker Hand History for Game 474494744 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:28:42
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,01 $ )
+Seat 3: ton6517 ( 2,37 $ )
+Seat 4: SKDynasty ( 2,77 $ )
+Seat 6: VasilijZavgo ( 1,36 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: algrud ( 1 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ton6517 posts big blind [0,02 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, JHerz ]
+SKDynasty folds
+VasilijZavgo folds
+blackbeer15 folds
+trixiehorne checks
+algrud folds
+B2B_Suckouts folds
+ton6517 checks
+** Dealing flop ** [ 2Herz, 9Pik, AKaro ]
+ton6517 checks
+trixiehorne checks
+** Dealing turn ** [ 6Pik ]
+ton6517 bets [0,02 $]
+trixiehorne calls [0,02 $]
+** Dealing river ** [ 10Pik ]
+ton6517 checks
+trixiehorne checks
+** Summary **
+ton6517 shows [ 6Karo, AKreuz ]
+trixiehorne mucks [ 3Pik, 6Kreuz ]
+ton6517 collected [ 0,09 $ ]
+
+
+
+#Game No : 474494773
+***** 888poker Hand History for Game 474494773 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:29:27
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ton6517 ( 2,42 $ )
+Seat 4: SKDynasty ( 2,77 $ )
+Seat 6: VasilijZavgo ( 1,36 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: algrud ( 1 $ )
+ton6517 posts small blind [0,01 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 8Herz ]
+VasilijZavgo calls [0,02 $]
+blackbeer15 raises [0,08 $]
+trixiehorne calls [0,08 $]
+algrud folds
+B2B_Suckouts folds
+ton6517 folds
+SKDynasty folds
+VasilijZavgo calls [0,06 $]
+** Dealing flop ** [ 5Kreuz, 10Herz, 5Herz ]
+VasilijZavgo checks
+blackbeer15 checks
+trixiehorne checks
+** Dealing turn ** [ APik ]
+VasilijZavgo checks
+blackbeer15 bets [0,13 $]
+trixiehorne calls [0,13 $]
+VasilijZavgo folds
+** Dealing river ** [ 3Kreuz ]
+blackbeer15 checks
+trixiehorne checks
+** Summary **
+blackbeer15 shows [ 10Pik, 9Pik ]
+trixiehorne shows [ JKaro, AKreuz ]
+trixiehorne collected [ 0,50 $ ]
+
+
+
+#Game No : 474494811
+***** 888poker Hand History for Game 474494811 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:30:20
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ton6517 ( 2,41 $ )
+Seat 4: SKDynasty ( 2,75 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: trixiehorne ( 2,29 $ )
+Seat 10: algrud ( 1 $ )
+SKDynasty posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 3Pik ]
+trixiehorne folds
+algrud folds
+B2B_Suckouts folds
+ton6517 folds
+SKDynasty folds
+** Summary **
+blackbeer15 collected [ 0,03 $ ]
+
+
+
+#Game No : 474494832
+***** 888poker Hand History for Game 474494832 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:30:45
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 5
+Seat 3: ton6517 ( 2,41 $ )
+Seat 4: SKDynasty ( 2,74 $ )
+Seat 7: blackbeer15 ( 2,01 $ )
+Seat 9: trixiehorne ( 2,29 $ )
+Seat 10: algrud ( 1 $ )
+blackbeer15 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+algrud folds
+ton6517 calls [0,02 $]
+SKDynasty folds
+blackbeer15 raises [0,11 $]
+trixiehorne folds
+ton6517 calls [0,10 $]
+** Dealing flop ** [ 3Pik, 4Pik, QKaro ]
+blackbeer15 bets [0,21 $]
+ton6517 folds
+** Summary **
+blackbeer15 collected [ 0,25 $ ]
+
+
+
+#Game No : 474494870
+***** 888poker Hand History for Game 474494870 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:31:22
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ton6517 ( 2,29 $ )
+Seat 4: SKDynasty ( 2,74 $ )
+Seat 6: heaguerom ( 2 $ )
+Seat 7: blackbeer15 ( 2,14 $ )
+Seat 9: trixiehorne ( 2,27 $ )
+Seat 10: algrud ( 1 $ )
+trixiehorne posts small blind [0,01 $]
+algrud folds
+B2B_Suckouts posts big blind [0,02 $]
+heaguerom posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 7Pik ]
+ton6517 folds
+SKDynasty folds
+heaguerom checks
+blackbeer15 folds
+trixiehorne calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 3Karo, QKreuz, 8Kreuz ]
+trixiehorne checks
+B2B_Suckouts checks
+heaguerom bets [0,04 $]
+trixiehorne folds
+B2B_Suckouts folds
+** Summary **
+heaguerom collected [ 0,06 $ ]
+
+
+
+#Game No : 474494919
+***** 888poker Hand History for Game 474494919 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:32:35
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: SinisterKid ( 2 $ )
+Seat 4: SKDynasty ( 2,74 $ )
+Seat 7: blackbeer15 ( 2,14 $ )
+Seat 9: trixiehorne ( 2,25 $ )
+B2B_Suckouts posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 7Kreuz ]
+SKDynasty folds
+blackbeer15 folds
+trixiehorne folds
+B2B_Suckouts folds
+** Summary **
+SinisterKid collected [ 0,03 $ ]
+
+
+
+#Game No : 474494934
+***** 888poker Hand History for Game 474494934 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:32:58
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: SinisterKid ( 2,01 $ )
+Seat 4: SKDynasty ( 2,74 $ )
+Seat 7: blackbeer15 ( 2,14 $ )
+Seat 9: trixiehorne ( 2,25 $ )
+SinisterKid posts small blind [0,01 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 9Kreuz ]
+blackbeer15 raises [0,06 $]
+trixiehorne folds
+B2B_Suckouts folds
+SinisterKid folds
+SKDynasty folds
+** Summary **
+blackbeer15 collected [ 0,05 $ ]
+
+
+
+#Game No : 474494950
+***** 888poker Hand History for Game 474494950 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:33:23
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: pescebrut ( 0,80 $ )
+Seat 3: SinisterKid ( 2 $ )
+Seat 4: SKDynasty ( 2,72 $ )
+Seat 5: Optimus40KER ( 2,62 $ )
+Seat 7: blackbeer15 ( 2,17 $ )
+Seat 9: trixiehorne ( 2,25 $ )
+SKDynasty posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+pescebrut posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 3Pik ]
+blackbeer15 folds
+trixiehorne folds
+B2B_Suckouts folds
+pescebrut raises [0,06 $]
+SinisterKid folds
+SKDynasty folds
+Optimus40KER folds
+** Summary **
+pescebrut collected [ 0,05 $ ]
+
+
+
+#Game No : 474494969
+***** 888poker Hand History for Game 474494969 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:33:44
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: pescebrut ( 0,83 $ )
+Seat 3: SinisterKid ( 2 $ )
+Seat 4: SKDynasty ( 2,71 $ )
+Seat 5: Optimus40KER ( 2,60 $ )
+Seat 6: Nim72 ( 2 $ )
+Seat 7: blackbeer15 ( 2,17 $ )
+Seat 9: trixiehorne ( 2,25 $ )
+Optimus40KER posts small blind [0,01 $]
+Nim72 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, QHerz ]
+blackbeer15 folds
+trixiehorne folds
+B2B_Suckouts folds
+pescebrut folds
+SinisterKid folds
+SKDynasty folds
+Optimus40KER raises [0,05 $]
+Nim72 calls [0,04 $]
+** Dealing flop ** [ 3Karo, KHerz, 8Herz ]
+Optimus40KER bets [0,05 $]
+Nim72 folds
+** Summary **
+Optimus40KER collected [ 0,12 $ ]
+
+
+
+#Game No : 474494995
+***** 888poker Hand History for Game 474494995 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:34:16
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: pescebrut ( 0,83 $ )
+Seat 3: SinisterKid ( 2 $ )
+Seat 4: SKDynasty ( 2,71 $ )
+Seat 5: Optimus40KER ( 2,66 $ )
+Seat 6: Nim72 ( 2 $ )
+Seat 7: blackbeer15 ( 2,17 $ )
+Seat 9: trixiehorne ( 2,25 $ )
+Nim72 posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, QPik ]
+trixiehorne raises [0,06 $]
+B2B_Suckouts folds
+pescebrut folds
+SinisterKid folds
+SKDynasty calls [0,06 $]
+Optimus40KER folds
+Nim72 folds
+blackbeer15 folds
+** Dealing flop ** [ KPik, 8Karo, JKreuz ]
+trixiehorne bets [0,11 $]
+SKDynasty folds
+** Summary **
+trixiehorne collected [ 0,15 $ ]
+
+
+
+#Game No : 474495012
+***** 888poker Hand History for Game 474495012 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:34:40
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: pescebrut ( 0,83 $ )
+Seat 3: SinisterKid ( 2 $ )
+Seat 4: SKDynasty ( 2,65 $ )
+Seat 5: Optimus40KER ( 2,66 $ )
+Seat 6: Nim72 ( 2 $ )
+Seat 7: blackbeer15 ( 2,15 $ )
+Seat 9: trixiehorne ( 2,34 $ )
+blackbeer15 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 9Herz ]
+B2B_Suckouts folds
+pescebrut folds
+SinisterKid folds
+SKDynasty folds
+Optimus40KER folds
+Nim72 raises [0,07 $]
+blackbeer15 raises [0,20 $]
+trixiehorne folds
+Nim72 calls [0,14 $]
+** Dealing flop ** [ 6Pik, 9Pik, 8Kreuz ]
+blackbeer15 checks
+Nim72 bets [0,14 $]
+blackbeer15 folds
+** Summary **
+Nim72 collected [ 0,42 $ ]
+
+
+
+#Game No : 474495079
+***** 888poker Hand History for Game 474495079 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:36:18
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: pescebrut ( 0,83 $ )
+Seat 3: SinisterKid ( 2 $ )
+Seat 4: SKDynasty ( 2,65 $ )
+Seat 5: Optimus40KER ( 2,66 $ )
+Seat 6: Nim72 ( 2,21 $ )
+Seat 7: blackbeer15 ( 1,94 $ )
+Seat 9: trixiehorne ( 2,32 $ )
+Seat 10: Despol ( 2 $ )
+trixiehorne posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, QKaro ]
+B2B_Suckouts folds
+pescebrut raises [0,04 $]
+SinisterKid folds
+SKDynasty calls [0,04 $]
+Optimus40KER folds
+Nim72 folds
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+** Dealing flop ** [ QPik, 7Karo, 5Herz ]
+pescebrut bets [0,07 $]
+SKDynasty folds
+** Summary **
+pescebrut did not show his hand
+pescebrut collected [ 0,11 $ ]
+
+
+
+#Game No : 474495112
+***** 888poker Hand History for Game 474495112 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:37:01
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: pescebrut ( 0,90 $ )
+Seat 3: SinisterKid ( 2 $ )
+Seat 4: SKDynasty ( 2,61 $ )
+Seat 5: Optimus40KER ( 2,66 $ )
+Seat 6: Nim72 ( 2,21 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: trixiehorne ( 2,31 $ )
+Seat 10: Despol ( 2 $ )
+Despol posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 8Karo ]
+pescebrut raises [0,08 $]
+SinisterKid folds
+SKDynasty folds
+Optimus40KER folds
+Nim72 calls [0,08 $]
+blackbeer15 folds
+trixiehorne folds
+Despol calls [0,07 $]
+B2B_Suckouts folds
+** Dealing flop ** [ AHerz, 10Herz, JKreuz ]
+Despol checks
+pescebrut bets [0,82 $]
+Nim72 folds
+Despol folds
+** Summary **
+pescebrut did not show his hand
+pescebrut collected [ 0,25 $ ]
+
+
+
+#Game No : 474495158
+***** 888poker Hand History for Game 474495158 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:38:11
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: pescebrut ( 1,07 $ )
+Seat 3: SinisterKid ( 2 $ )
+Seat 4: SKDynasty ( 2,61 $ )
+Seat 5: Optimus40KER ( 2,66 $ )
+Seat 6: Nim72 ( 2,13 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: trixiehorne ( 2,31 $ )
+Seat 10: Despol ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+pescebrut posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, QKaro ]
+SinisterKid raises [0,06 $]
+SKDynasty folds
+Optimus40KER folds
+Nim72 calls [0,06 $]
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+pescebrut calls [0,04 $]
+** Dealing flop ** [ 3Herz, 5Kreuz, 8Herz ]
+pescebrut checks
+SinisterKid bets [0,14 $]
+Nim72 folds
+pescebrut calls [0,14 $]
+** Dealing turn ** [ 9Karo ]
+pescebrut checks
+SinisterKid bets [0,22 $]
+pescebrut folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,45 $ ]
+
+
+
+#Game No : 474495199
+***** 888poker Hand History for Game 474495199 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:39:06
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: pescebrut ( 0,87 $ )
+Seat 3: SinisterKid ( 2,25 $ )
+Seat 4: SKDynasty ( 2,61 $ )
+Seat 5: Optimus40KER ( 2,66 $ )
+Seat 6: Nim72 ( 2,07 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: trixiehorne ( 2,31 $ )
+Seat 10: Despol ( 2 $ )
+pescebrut posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 6Kreuz ]
+SKDynasty folds
+Optimus40KER folds
+Nim72 folds
+blackbeer15 folds
+trixiehorne folds
+Despol raises [0,06 $]
+B2B_Suckouts folds
+pescebrut folds
+SinisterKid folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,05 $ ]
+
+
+
+#Game No : 474495220
+***** 888poker Hand History for Game 474495220 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:39:35
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: pescebrut ( 0,86 $ )
+Seat 3: SinisterKid ( 2,23 $ )
+Seat 4: SKDynasty ( 2,61 $ )
+Seat 5: Optimus40KER ( 2,66 $ )
+Seat 6: Nim72 ( 2,07 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: trixiehorne ( 2,31 $ )
+Seat 10: Despol ( 2,03 $ )
+SinisterKid posts small blind [0,01 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 7Karo ]
+Optimus40KER calls [0,02 $]
+Nim72 calls [0,02 $]
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+pescebrut calls [0,02 $]
+SinisterKid raises [0,09 $]
+SKDynasty folds
+Optimus40KER calls [0,08 $]
+Nim72 calls [0,08 $]
+pescebrut calls [0,08 $]
+** Dealing flop ** [ 2Herz, 3Karo, 3Pik ]
+SinisterKid bets [0,26 $]
+Optimus40KER folds
+Nim72 calls [0,26 $]
+pescebrut folds
+** Dealing turn ** [ 4Karo ]
+SinisterKid bets [0,32 $]
+Nim72 calls [0,32 $]
+** Dealing river ** [ 2Kreuz ]
+SinisterKid bets [0,34 $]
+Nim72 calls [0,34 $]
+** Summary **
+SinisterKid shows [ QPik, QHerz ]
+Nim72 mucks [ 6Herz, 6Pik ]
+SinisterKid collected [ 2,12 $ ]
+
+
+
+#Game No : 474495324
+***** 888poker Hand History for Game 474495324 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:41:42
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: pescebrut ( 0,76 $ )
+Seat 3: SinisterKid ( 3,33 $ )
+Seat 4: SKDynasty ( 2,59 $ )
+Seat 5: Optimus40KER ( 2,56 $ )
+Seat 6: Nim72 ( 2 $ )
+Seat 7: blackbeer15 ( 2 $ )
+Seat 9: trixiehorne ( 2,31 $ )
+Seat 10: Despol ( 2,03 $ )
+SKDynasty posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 3Karo ]
+Nim72 folds
+blackbeer15 raises [0,06 $]
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+pescebrut raises [0,76 $]
+SinisterKid folds
+SKDynasty folds
+Optimus40KER folds
+blackbeer15 calls [0,70 $]
+** Dealing flop ** [ KKreuz, 5Karo, 10Pik ]
+** Dealing turn ** [ 8Pik ]
+** Dealing river ** [ QKreuz ]
+** Summary **
+pescebrut shows [ 10Kreuz, AKaro ]
+blackbeer15 shows [ JHerz, AHerz ]
+blackbeer15 collected [ 1,46 $ ]
+
+
+
+#Game No : 474495349
+***** 888poker Hand History for Game 474495349 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:42:24
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: SinisterKid ( 3,33 $ )
+Seat 4: SKDynasty ( 2,58 $ )
+Seat 5: Optimus40KER ( 2,54 $ )
+Seat 6: Nim72 ( 2 $ )
+Seat 7: blackbeer15 ( 2,70 $ )
+Seat 9: trixiehorne ( 2,31 $ )
+Seat 10: Despol ( 2,03 $ )
+Optimus40KER posts small blind [0,01 $]
+Nim72 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, QKaro ]
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+SinisterKid folds
+SKDynasty folds
+Optimus40KER folds
+** Summary **
+Nim72 did not show his hand
+Nim72 collected [ 0,03 $ ]
+
+
+
+#Game No : 474495377
+***** 888poker Hand History for Game 474495377 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:42:57
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: SinisterKid ( 3,33 $ )
+Seat 4: SKDynasty ( 2,58 $ )
+Seat 5: Optimus40KER ( 2,53 $ )
+Seat 6: Nim72 ( 2,01 $ )
+Seat 7: blackbeer15 ( 2,70 $ )
+Seat 9: trixiehorne ( 2,31 $ )
+Seat 10: Despol ( 2,03 $ )
+Nim72 posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 8Pik ]
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+SinisterKid folds
+SKDynasty raises [0,06 $]
+Optimus40KER raises [0,18 $]
+Nim72 folds
+blackbeer15 folds
+SKDynasty folds
+** Summary **
+Optimus40KER did not show his hand
+Optimus40KER collected [ 0,15 $ ]
+
+
+
+#Game No : 474495399
+***** 888poker Hand History for Game 474495399 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:43:38
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: SinisterKid ( 3,33 $ )
+Seat 4: SKDynasty ( 2,52 $ )
+Seat 5: Optimus40KER ( 2,62 $ )
+Seat 7: blackbeer15 ( 2,68 $ )
+Seat 9: trixiehorne ( 2,31 $ )
+Seat 10: Despol ( 2,03 $ )
+trixiehorne posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, JPik ]
+B2B_Suckouts folds
+SinisterKid folds
+SKDynasty folds
+Optimus40KER folds
+blackbeer15 raises [0,04 $]
+trixiehorne folds
+Despol folds
+** Summary **
+blackbeer15 collected [ 0,05 $ ]
+
+
+
+#Game No : 474495415
+***** 888poker Hand History for Game 474495415 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:44:04
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: SinisterKid ( 3,33 $ )
+Seat 4: SKDynasty ( 2,52 $ )
+Seat 5: Optimus40KER ( 2,62 $ )
+Seat 7: blackbeer15 ( 2,71 $ )
+Seat 9: trixiehorne ( 2,30 $ )
+Seat 10: Despol ( 2,01 $ )
+Despol posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 9Kreuz ]
+SinisterKid folds
+SKDynasty folds
+Optimus40KER folds
+blackbeer15 folds
+trixiehorne folds
+Despol raises [0,05 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 7Pik, 7Herz, 6Karo ]
+Despol checks
+B2B_Suckouts bets [0,06 $]
+Despol folds
+** Summary **
+B2B_Suckouts collected [ 0,12 $ ]
+
+
+
+#Game No : 474495454
+***** 888poker Hand History for Game 474495454 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:44:52
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,06 $ )
+Seat 2: ddklug ( 2 $ )
+Seat 3: SinisterKid ( 3,33 $ )
+Seat 4: SKDynasty ( 2,52 $ )
+Seat 5: Optimus40KER ( 2,62 $ )
+Seat 7: blackbeer15 ( 2,71 $ )
+Seat 9: trixiehorne ( 2,30 $ )
+Seat 10: Despol ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ddklug posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 10Herz ]
+SinisterKid folds
+SKDynasty folds
+Optimus40KER folds
+blackbeer15 raises [0,06 $]
+trixiehorne calls [0,06 $]
+Despol folds
+B2B_Suckouts folds
+ddklug folds
+** Dealing flop ** [ APik, 8Karo, 4Kreuz ]
+blackbeer15 checks
+trixiehorne checks
+** Dealing turn ** [ 3Herz ]
+blackbeer15 checks
+trixiehorne checks
+** Dealing river ** [ 10Karo ]
+blackbeer15 checks
+trixiehorne checks
+** Summary **
+blackbeer15 shows [ KKaro, QKaro ]
+trixiehorne mucks [ KPik, JKaro ]
+blackbeer15 collected [ 0,15 $ ]
+
+
+
+#Game No : 474495488
+***** 888poker Hand History for Game 474495488 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:45:45
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: ddklug ( 1,98 $ )
+Seat 3: SinisterKid ( 3,33 $ )
+Seat 4: SKDynasty ( 2,52 $ )
+Seat 5: Optimus40KER ( 2,62 $ )
+Seat 7: blackbeer15 ( 2,80 $ )
+Seat 9: trixiehorne ( 2,24 $ )
+Seat 10: Despol ( 2 $ )
+ddklug posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, QKaro ]
+SKDynasty folds
+Optimus40KER folds
+blackbeer15 folds
+trixiehorne calls [0,02 $]
+Despol folds
+B2B_Suckouts folds
+ddklug raises [0,03 $]
+SinisterKid folds
+trixiehorne calls [0,02 $]
+** Dealing flop ** [ 2Pik, QHerz, 5Karo ]
+ddklug bets [0,06 $]
+trixiehorne calls [0,06 $]
+** Dealing turn ** [ 5Kreuz ]
+ddklug checks
+trixiehorne bets [0,16 $]
+ddklug folds
+** Summary **
+trixiehorne collected [ 0,21 $ ]
+
+
+
+#Game No : 474495526
+***** 888poker Hand History for Game 474495526 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:46:32
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: ddklug ( 1,88 $ )
+Seat 3: SinisterKid ( 3,31 $ )
+Seat 4: SKDynasty ( 2,52 $ )
+Seat 5: Optimus40KER ( 2,62 $ )
+Seat 7: blackbeer15 ( 2,80 $ )
+Seat 9: trixiehorne ( 2,35 $ )
+Seat 10: Despol ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 2Karo ]
+Optimus40KER folds
+blackbeer15 folds
+trixiehorne folds
+Despol raises [0,06 $]
+B2B_Suckouts calls [0,06 $]
+ddklug folds
+SinisterKid raises [0,25 $]
+SKDynasty folds
+Despol folds
+B2B_Suckouts folds
+** Summary **
+SinisterKid collected [ 0,20 $ ]
+
+
+
+#Game No : 474495584
+***** 888poker Hand History for Game 474495584 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:47:46
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 1,88 $ )
+Seat 3: SinisterKid ( 3,45 $ )
+Seat 4: SKDynasty ( 2,50 $ )
+Seat 5: Optimus40KER ( 2,62 $ )
+Seat 7: blackbeer15 ( 2,80 $ )
+Seat 9: trixiehorne ( 2,35 $ )
+Seat 10: Despol ( 2 $ )
+SKDynasty posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 7Herz ]
+blackbeer15 folds
+trixiehorne raises [0,06 $]
+Despol folds
+B2B_Suckouts folds
+ddklug calls [0,06 $]
+SinisterKid folds
+SKDynasty folds
+Optimus40KER folds
+** Dealing flop ** [ 3Herz, KKreuz, 7Karo ]
+trixiehorne bets [0,11 $]
+ddklug calls [0,11 $]
+** Dealing turn ** [ 10Pik ]
+trixiehorne checks
+ddklug bets [0,18 $]
+trixiehorne calls [0,18 $]
+** Dealing river ** [ 8Karo ]
+trixiehorne checks
+ddklug checks
+** Summary **
+trixiehorne shows [ JHerz, AHerz ]
+ddklug shows [ APik, KKaro ]
+ddklug collected [ 0,69 $ ]
+
+
+
+#Game No : 474495614
+***** 888poker Hand History for Game 474495614 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:48:38
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,22 $ )
+Seat 3: SinisterKid ( 3,45 $ )
+Seat 4: SKDynasty ( 2,49 $ )
+Seat 5: Optimus40KER ( 2,60 $ )
+Seat 7: blackbeer15 ( 2,80 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2 $ )
+Optimus40KER posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 4Herz ]
+trixiehorne folds
+Despol folds
+B2B_Suckouts calls [0,02 $]
+ddklug folds
+SinisterKid folds
+SKDynasty calls [0,02 $]
+Optimus40KER folds
+blackbeer15 raises [0,10 $]
+B2B_Suckouts folds
+SKDynasty folds
+** Summary **
+blackbeer15 collected [ 0,07 $ ]
+
+
+
+#Game No : 474495656
+***** 888poker Hand History for Game 474495656 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:49:32
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,22 $ )
+Seat 3: SinisterKid ( 3,45 $ )
+Seat 4: SKDynasty ( 2,47 $ )
+Seat 5: Optimus40KER ( 2,59 $ )
+Seat 7: blackbeer15 ( 2,85 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2 $ )
+blackbeer15 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, JKreuz ]
+Despol folds
+B2B_Suckouts folds
+ddklug folds
+SinisterKid raises [0,06 $]
+SKDynasty folds
+Optimus40KER folds
+blackbeer15 folds
+trixiehorne folds
+** Summary **
+SinisterKid collected [ 0,05 $ ]
+
+
+
+#Game No : 474495681
+***** 888poker Hand History for Game 474495681 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:50:14
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: SinisterKid ( 3,48 $ )
+Seat 4: SKDynasty ( 2,47 $ )
+Seat 5: Optimus40KER ( 2,59 $ )
+Seat 7: blackbeer15 ( 2,84 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2 $ )
+trixiehorne posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, QHerz ]
+B2B_Suckouts folds
+SinisterKid folds
+SKDynasty folds
+Optimus40KER folds
+blackbeer15 raises [0,04 $]
+trixiehorne folds
+Despol folds
+** Summary **
+blackbeer15 collected [ 0,05 $ ]
+
+
+
+#Game No : 474495701
+***** 888poker Hand History for Game 474495701 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:50:37
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,22 $ )
+Seat 3: SinisterKid ( 3,48 $ )
+Seat 4: SKDynasty ( 2,47 $ )
+Seat 5: Optimus40KER ( 2,59 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2 $ )
+Despol posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 4Karo ]
+ddklug folds
+SinisterKid raises [0,06 $]
+SKDynasty folds
+Optimus40KER folds
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,05 $ ]
+
+
+
+#Game No : 474495729
+***** 888poker Hand History for Game 474495729 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:51:13
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,22 $ )
+Seat 3: SinisterKid ( 3,51 $ )
+Seat 4: SKDynasty ( 2,47 $ )
+Seat 5: Optimus40KER ( 2,59 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ddklug posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, JKreuz ]
+SinisterKid folds
+SKDynasty folds
+Optimus40KER calls [0,02 $]
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+ddklug checks
+** Dealing flop ** [ 6Herz, KPik, 4Pik ]
+ddklug checks
+Optimus40KER bets [0,02 $]
+ddklug calls [0,02 $]
+** Dealing turn ** [ QKaro ]
+ddklug checks
+Optimus40KER bets [0,08 $]
+ddklug folds
+** Summary **
+Optimus40KER collected [ 0,09 $ ]
+
+
+
+#Game No : 474495785
+***** 888poker Hand History for Game 474495785 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:52:41
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,18 $ )
+Seat 4: SKDynasty ( 2,47 $ )
+Seat 5: Optimus40KER ( 2,64 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2 $ )
+ddklug posts small blind [0,01 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 7Kreuz ]
+Optimus40KER folds
+blackbeer15 folds
+trixiehorne folds
+Despol raises [0,06 $]
+B2B_Suckouts folds
+ddklug folds
+SKDynasty folds
+** Summary **
+Despol collected [ 0,05 $ ]
+
+
+
+#Game No : 474495803
+***** 888poker Hand History for Game 474495803 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:53:00
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,17 $ )
+Seat 4: SKDynasty ( 2,45 $ )
+Seat 5: Optimus40KER ( 2,64 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,03 $ )
+SKDynasty posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 4Karo ]
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+ddklug calls [0,02 $]
+SKDynasty raises [0,17 $]
+Optimus40KER folds
+ddklug folds
+** Summary **
+SKDynasty collected [ 0,06 $ ]
+
+
+
+#Game No : 474495822
+***** 888poker Hand History for Game 474495822 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:53:33
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,15 $ )
+Seat 4: SKDynasty ( 2,49 $ )
+Seat 5: Optimus40KER ( 2,62 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,03 $ )
+Optimus40KER posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 4Pik ]
+blackbeer15 folds
+trixiehorne raises [0,06 $]
+Despol folds
+B2B_Suckouts folds
+ddklug folds
+SKDynasty calls [0,06 $]
+Optimus40KER folds
+kamenk calls [0,04 $]
+** Dealing flop ** [ 5Karo, KKreuz, QHerz ]
+kamenk checks
+trixiehorne bets [0,14 $]
+SKDynasty folds
+kamenk folds
+** Summary **
+trixiehorne collected [ 0,18 $ ]
+
+
+
+#Game No : 474495863
+***** 888poker Hand History for Game 474495863 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:54:36
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,15 $ )
+Seat 4: SKDynasty ( 2,43 $ )
+Seat 5: Optimus40KER ( 2,61 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2,12 $ )
+Seat 10: Despol ( 2,03 $ )
+kamenk posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 4Pik ]
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+ddklug folds
+SKDynasty folds
+Optimus40KER raises [0,05 $]
+kamenk folds
+blackbeer15 folds
+** Summary **
+Optimus40KER collected [ 0,05 $ ]
+
+
+
+#Game No : 474495892
+***** 888poker Hand History for Game 474495892 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:55:07
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,15 $ )
+Seat 4: SKDynasty ( 2,43 $ )
+Seat 5: Optimus40KER ( 2,64 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,85 $ )
+Seat 9: trixiehorne ( 2,12 $ )
+Seat 10: Despol ( 2,03 $ )
+blackbeer15 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 6Herz ]
+Despol folds
+B2B_Suckouts folds
+ddklug folds
+SKDynasty folds
+Optimus40KER raises [0,05 $]
+kamenk folds
+blackbeer15 folds
+trixiehorne calls [0,03 $]
+** Dealing flop ** [ JKaro, 3Karo, 3Pik ]
+trixiehorne bets [0,10 $]
+Optimus40KER calls [0,10 $]
+** Dealing turn ** [ AHerz ]
+trixiehorne checks
+Optimus40KER bets [0,15 $]
+trixiehorne folds
+** Summary **
+Optimus40KER collected [ 0,30 $ ]
+
+
+
+#Game No : 474495946
+***** 888poker Hand History for Game 474495946 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:56:16
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,15 $ )
+Seat 4: SKDynasty ( 2,43 $ )
+Seat 5: Optimus40KER ( 2,79 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,84 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,03 $ )
+trixiehorne posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 5Herz ]
+B2B_Suckouts folds
+ddklug folds
+SKDynasty folds
+Optimus40KER folds
+kamenk folds
+blackbeer15 raises [0,04 $]
+trixiehorne folds
+Despol folds
+** Summary **
+blackbeer15 collected [ 0,05 $ ]
+
+
+
+#Game No : 474495964
+***** 888poker Hand History for Game 474495964 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:56:39
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,15 $ )
+Seat 4: SKDynasty ( 2,43 $ )
+Seat 5: Optimus40KER ( 2,79 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,01 $ )
+Despol posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 9Herz ]
+ddklug folds
+SKDynasty folds
+Optimus40KER folds
+kamenk folds
+blackbeer15 folds
+trixiehorne folds
+Despol raises [0,05 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 8Herz, KHerz, JPik ]
+Despol bets [0,06 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing turn ** [ 10Pik ]
+Despol bets [0,12 $]
+B2B_Suckouts folds
+** Summary **
+Despol collected [ 0,23 $ ]
+
+
+
+#Game No : 474496005
+***** 888poker Hand History for Game 474496005 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:57:29
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: ddklug ( 2,15 $ )
+Seat 4: SKDynasty ( 2,43 $ )
+Seat 5: Optimus40KER ( 2,79 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,12 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ddklug posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, APik ]
+SKDynasty folds
+Optimus40KER folds
+kamenk folds
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts raises [0,05 $]
+ddklug folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 474496027
+***** 888poker Hand History for Game 474496027 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:57:56
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,02 $ )
+Seat 2: ddklug ( 2,13 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 5: Optimus40KER ( 2,79 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,12 $ )
+ddklug posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, KKreuz ]
+Optimus40KER folds
+kamenk folds
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts raises [0,06 $]
+ddklug folds
+Sherlok1295 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474496043
+***** 888poker Hand History for Game 474496043 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:58:22
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: ddklug ( 2,12 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: jac2020 ( 1,40 $ )
+Seat 5: Optimus40KER ( 2,79 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,12 $ )
+Sherlok1295 posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, APik ]
+Optimus40KER folds
+kamenk folds
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts raises [0,06 $]
+ddklug folds
+Sherlok1295 folds
+jac2020 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474496076
+***** 888poker Hand History for Game 474496076 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:58:56
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,08 $ )
+Seat 2: ddklug ( 2,12 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: jac2020 ( 1,38 $ )
+Seat 5: Optimus40KER ( 2,79 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,12 $ )
+jac2020 posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 8Karo ]
+kamenk folds
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+ddklug calls [0,02 $]
+Sherlok1295 folds
+jac2020 calls [0,01 $]
+Optimus40KER checks
+** Dealing flop ** [ 4Karo, 3Pik, KHerz ]
+jac2020 checks
+Optimus40KER bets [0,03 $]
+ddklug folds
+jac2020 folds
+** Summary **
+Optimus40KER did not show his hand
+Optimus40KER collected [ 0,06 $ ]
+
+
+
+#Game No : 474496109
+***** 888poker Hand History for Game 474496109 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:59:39
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,08 $ )
+Seat 2: ddklug ( 2,10 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: jac2020 ( 1,36 $ )
+Seat 5: Optimus40KER ( 2,83 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,12 $ )
+Optimus40KER posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, KKreuz ]
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+ddklug calls [0,02 $]
+Sherlok1295 folds
+jac2020 calls [0,02 $]
+Optimus40KER raises [0,21 $]
+kamenk folds
+ddklug folds
+jac2020 folds
+** Summary **
+Optimus40KER did not show his hand
+Optimus40KER collected [ 0,08 $ ]
+
+
+
+#Game No : 474496146
+***** 888poker Hand History for Game 474496146 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:00:34
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,08 $ )
+Seat 2: ddklug ( 2,08 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: jac2020 ( 1,34 $ )
+Seat 5: Optimus40KER ( 2,89 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,87 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,12 $ )
+kamenk posts small blind [0,01 $]
+blackbeer15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 5Pik ]
+trixiehorne folds
+Despol raises [0,06 $]
+B2B_Suckouts folds
+ddklug folds
+Sherlok1295 folds
+jac2020 folds
+Optimus40KER folds
+kamenk folds
+blackbeer15 folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,05 $ ]
+
+
+
+#Game No : 474496173
+***** 888poker Hand History for Game 474496173 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:01:01
+Table Funchal 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,08 $ )
+Seat 2: ddklug ( 2,08 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: jac2020 ( 1,34 $ )
+Seat 5: Optimus40KER ( 2,89 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,85 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,15 $ )
+blackbeer15 posts small blind [0,01 $]
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 3Karo ]
+Despol raises [0,06 $]
+B2B_Suckouts folds
+ddklug folds
+Sherlok1295 folds
+jac2020 folds
+Optimus40KER folds
+kamenk folds
+blackbeer15 folds
+trixiehorne calls [0,04 $]
+** Dealing flop ** [ QPik, JHerz, 4Kreuz ]
+trixiehorne checks
+Despol bets [0,06 $]
+trixiehorne folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,13 $ ]
+
+
+
+#Game No : 474496233
+***** 888poker Hand History for Game 474496233 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:02:13
+Table Funchal 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,08 $ )
+Seat 2: ddklug ( 2,08 $ )
+Seat 4: jac2020 ( 1,34 $ )
+Seat 5: Optimus40KER ( 2,89 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,84 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,22 $ )
+trixiehorne posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, JHerz ]
+B2B_Suckouts raises [0,06 $]
+ddklug folds
+jac2020 folds
+Optimus40KER folds
+kamenk folds
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474496263
+***** 888poker Hand History for Game 474496263 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:02:46
+Table Funchal 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,11 $ )
+Seat 2: ddklug ( 2,08 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: jac2020 ( 1,34 $ )
+Seat 5: Optimus40KER ( 2,89 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,84 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,20 $ )
+Despol posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 7Pik ]
+ddklug folds
+Sherlok1295 folds
+jac2020 raises [0,06 $]
+Optimus40KER folds
+kamenk folds
+blackbeer15 folds
+trixiehorne folds
+Despol calls [0,05 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 9Kreuz, QHerz, 4Karo ]
+Despol bets [0,07 $]
+jac2020 calls [0,07 $]
+** Dealing turn ** [ KKaro ]
+Despol bets [0,14 $]
+jac2020 calls [0,14 $]
+** Dealing river ** [ QKreuz ]
+Despol bets [0,28 $]
+jac2020 calls [0,28 $]
+** Summary **
+Despol shows [ JKaro, QKaro ]
+jac2020 mucks [ AHerz, AKaro ]
+Despol collected [ 1,05 $ ]
+
+
+
+#Game No : 474496324
+***** 888poker Hand History for Game 474496324 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:03:50
+Table Funchal 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,09 $ )
+Seat 2: ddklug ( 2,08 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: jac2020 ( 0,79 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,84 $ )
+Seat 9: trixiehorne ( 2 $ )
+Seat 10: Despol ( 2,70 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ddklug posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 6Karo ]
+Sherlok1295 folds
+jac2020 folds
+kamenk folds
+blackbeer15 folds
+trixiehorne raises [0,10 $]
+Despol calls [0,10 $]
+B2B_Suckouts folds
+ddklug folds
+** Dealing flop ** [ 2Kreuz, 2Pik, QKaro ]
+trixiehorne bets [0,17 $]
+Despol folds
+** Summary **
+trixiehorne collected [ 0,22 $ ]
+
+
+
+#Game No : 474496353
+***** 888poker Hand History for Game 474496353 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:04:23
+Table Funchal 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,08 $ )
+Seat 2: ddklug ( 2,06 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: jac2020 ( 1,40 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,84 $ )
+Seat 9: trixiehorne ( 2,12 $ )
+Seat 10: Despol ( 2,60 $ )
+ddklug posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, QKaro ]
+jac2020 folds
+kamenk folds
+blackbeer15 folds
+trixiehorne folds
+Despol folds
+B2B_Suckouts folds
+ddklug calls [0,01 $]
+Sherlok1295 checks
+** Dealing flop ** [ 5Herz, 9Karo, AKreuz ]
+ddklug checks
+Sherlok1295 checks
+** Dealing turn ** [ 4Kreuz ]
+ddklug bets [0,02 $]
+Sherlok1295 folds
+** Summary **
+ddklug collected [ 0,04 $ ]
+
+
+
+#Game No : 474496387
+***** 888poker Hand History for Game 474496387 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:05:05
+Table Funchal 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,08 $ )
+Seat 2: ddklug ( 2,08 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: jac2020 ( 1,40 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,84 $ )
+Seat 9: trixiehorne ( 2,12 $ )
+Seat 10: Despol ( 2,60 $ )
+Sherlok1295 posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 3Herz ]
+kamenk folds
+blackbeer15 folds
+trixiehorne folds
+Despol raises [0,06 $]
+B2B_Suckouts folds
+ddklug calls [0,06 $]
+Sherlok1295 calls [0,05 $]
+jac2020 folds
+** Dealing flop ** [ 4Pik, 9Pik, JHerz ]
+Sherlok1295 checks
+Despol bets [0,10 $]
+ddklug calls [0,10 $]
+Sherlok1295 calls [0,10 $]
+** Dealing turn ** [ 8Kreuz ]
+Sherlok1295 checks
+Despol checks
+ddklug checks
+** Dealing river ** [ 8Herz ]
+Sherlok1295 checks
+Despol checks
+ddklug bets [0,02 $]
+Sherlok1295 calls [0,02 $]
+Despol folds
+** Summary **
+ddklug shows [ JKaro, QHerz ]
+Sherlok1295 mucks [ 10Karo, JPik ]
+ddklug collected [ 0,51 $ ]
+
+
+
+#Game No : 474496453
+***** 888poker Hand History for Game 474496453 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:06:29
+Table Funchal 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,08 $ )
+Seat 2: ddklug ( 2,41 $ )
+Seat 3: Sherlok1295 ( 2 $ )
+Seat 4: jac2020 ( 1,38 $ )
+Seat 5: Optimus40KER ( 2,89 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,84 $ )
+Seat 9: trixiehorne ( 2,12 $ )
+Seat 10: Despol ( 2,44 $ )
+jac2020 posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 9Pik ]
+kamenk folds
+blackbeer15 folds
+trixiehorne folds
+Despol raises [0,06 $]
+B2B_Suckouts folds
+ddklug folds
+Sherlok1295 raises [0,18 $]
+jac2020 folds
+Optimus40KER folds
+Despol calls [0,12 $]
+** Dealing flop ** [ 10Karo, 10Kreuz, 6Pik ]
+Despol checks
+Sherlok1295 bets [0,12 $]
+Despol calls [0,12 $]
+** Dealing turn ** [ 2Kreuz ]
+Despol checks
+Sherlok1295 bets [0,35 $]
+Despol folds
+** Summary **
+Sherlok1295 did not show his hand
+Sherlok1295 collected [ 0,60 $ ]
+
+
+
+#Game No : 474496504
+***** 888poker Hand History for Game 474496504 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:07:39
+Table Funchal 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,08 $ )
+Seat 2: ddklug ( 2,41 $ )
+Seat 3: Sherlok1295 ( 2,30 $ )
+Seat 4: jac2020 ( 1,37 $ )
+Seat 5: Optimus40KER ( 2,87 $ )
+Seat 6: kamenk ( 2 $ )
+Seat 7: blackbeer15 ( 2,84 $ )
+Seat 9: trixiehorne ( 2,12 $ )
+Seat 10: Despol ( 2,14 $ )
+Optimus40KER posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 5Herz ]
+blackbeer15 folds
+trixiehorne folds
+Despol raises [0,06 $]
+B2B_Suckouts folds
+ddklug folds
+Sherlok1295 folds
+jac2020 folds
+Optimus40KER folds
+kamenk folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,05 $ ]
+
+
+
+#Game No : 474496538
+***** 888poker Hand History for Game 474496538 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:08:19
+Table Funchal 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,08 $ )
+Seat 2: ddklug ( 2,41 $ )
+Seat 3: Sherlok1295 ( 2,30 $ )
+Seat 4: jac2020 ( 1,37 $ )
+Seat 5: Optimus40KER ( 2,86 $ )
+Seat 6: kamenk ( 1,98 $ )
+Seat 7: blackbeer15 ( 2,84 $ )
+Seat 9: trixiehorne ( 2,12 $ )
+Seat 10: Despol ( 2,17 $ )
+kamenk posts small blind [0,01 $]
+blackbeer15 folds
+trixiehorne posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, JKreuz ]
+Despol folds
+B2B_Suckouts raises [0,06 $]
+ddklug folds
+Sherlok1295 folds
+jac2020 calls [0,06 $]
+Optimus40KER calls [0,06 $]
+kamenk folds
+trixiehorne folds
+** Dealing flop ** [ 5Karo, 5Pik, 3Herz ]
+B2B_Suckouts bets [0,02 $]
+jac2020 folds
+Optimus40KER calls [0,02 $]
+** Dealing turn ** [ 8Pik ]
+B2B_Suckouts bets [0,08 $]
+Optimus40KER calls [0,08 $]
+** Dealing river ** [ 2Pik ]
+B2B_Suckouts checks
+Optimus40KER bets [0,12 $]
+B2B_Suckouts folds
+** Summary **
+Optimus40KER did not show his hand
+Optimus40KER collected [ 0,39 $ ]
+
+
+
