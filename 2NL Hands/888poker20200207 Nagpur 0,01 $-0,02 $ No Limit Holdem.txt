@@ -1,0 +1,1800 @@
+#Game No : 1330321746
+***** 888poker Hand History for Game 1330321746 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:06:12
+Table Nagpur 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,56 $ )
+Seat 2: overcranky ( 2,22 $ )
+Seat 3: stiks66 ( 1,68 $ )
+Seat 4: jabba6971 ( 2,10 $ )
+Seat 5: Liverpool08g ( 0,66 $ )
+Seat 6: pokerwil14 ( 2 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 4,24 $ )
+Seat 10: MarkMclean ( 0,95 $ )
+pokerwil14 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 6Herz ]
+livyathan folds
+MarkMclean folds
+Despol folds
+overcranky folds
+stiks66 folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 1330321821
+***** 888poker Hand History for Game 1330321821 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:06:33
+Table Nagpur 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,56 $ )
+Seat 2: overcranky ( 2,22 $ )
+Seat 3: stiks66 ( 1,68 $ )
+Seat 4: jabba6971 ( 2,10 $ )
+Seat 5: Liverpool08g ( 0,66 $ )
+Seat 6: pokerwil14 ( 1,99 $ )
+Seat 7: B2B_Suckouts ( 2,01 $ )
+Seat 9: livyathan ( 4,24 $ )
+Seat 10: MarkMclean ( 0,95 $ )
+B2B_Suckouts posts small blind [0,01 $]
+livyathan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, AKaro ]
+MarkMclean folds
+Despol folds
+overcranky folds
+stiks66 folds
+jabba6971 folds
+Liverpool08g raises [0,05 $]
+pokerwil14 folds
+B2B_Suckouts calls [0,04 $]
+livyathan calls [0,03 $]
+** Dealing flop ** [ 8Karo, 10Kreuz, 4Pik ]
+B2B_Suckouts checks
+livyathan bets [0,07 $]
+Liverpool08g folds
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ KKreuz ]
+B2B_Suckouts checks
+livyathan checks
+** Dealing river ** [ KKaro ]
+B2B_Suckouts bets [0,14 $]
+livyathan calls [0,14 $]
+** Summary **
+B2B_Suckouts shows [ QHerz, AKaro ]
+livyathan shows [ 8Herz, 7Kreuz ]
+livyathan collected [ 0,54 $ ]
+
+
+
+#Game No : 1330322115
+***** 888poker Hand History for Game 1330322115 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:07:55
+Table Nagpur 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,56 $ )
+Seat 2: overcranky ( 2,22 $ )
+Seat 3: stiks66 ( 1,68 $ )
+Seat 4: jabba6971 ( 2,10 $ )
+Seat 5: Liverpool08g ( 0,61 $ )
+Seat 6: pokerwil14 ( 1,99 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 4,52 $ )
+Seat 10: MarkMclean ( 0,95 $ )
+livyathan posts small blind [0,01 $]
+MarkMclean posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, AKaro ]
+Despol raises [0,06 $]
+overcranky raises [0,18 $]
+stiks66 folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts folds
+livyathan folds
+MarkMclean folds
+Despol folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,15 $ ]
+
+
+
+#Game No : 1330322335
+***** 888poker Hand History for Game 1330322335 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:09:02
+Table Nagpur 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,50 $ )
+Seat 2: overcranky ( 2,31 $ )
+Seat 3: stiks66 ( 1,68 $ )
+Seat 4: jabba6971 ( 2,10 $ )
+Seat 5: Liverpool08g ( 0,61 $ )
+Seat 6: pokerwil14 ( 1,99 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 4,51 $ )
+Seat 10: MarkMclean ( 0,93 $ )
+MarkMclean posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 7Kreuz ]
+overcranky folds
+stiks66 folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts folds
+livyathan folds
+MarkMclean folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,03 $ ]
+
+
+
+#Game No : 1330322389
+***** 888poker Hand History for Game 1330322389 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:09:19
+Table Nagpur 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,51 $ )
+Seat 2: overcranky ( 2,31 $ )
+Seat 3: stiks66 ( 1,68 $ )
+Seat 4: jabba6971 ( 2,10 $ )
+Seat 5: Liverpool08g ( 0,80 $ )
+Seat 6: pokerwil14 ( 1,99 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 4,51 $ )
+Seat 10: MarkMclean ( 0,92 $ )
+Despol posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, JKreuz ]
+stiks66 folds
+jabba6971 raises [0,07 $]
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts calls [0,07 $]
+livyathan raises [0,21 $]
+MarkMclean folds
+Despol folds
+overcranky folds
+jabba6971 calls [0,14 $]
+B2B_Suckouts raises [1,93 $]
+livyathan folds
+jabba6971 calls [1,79 $]
+** Dealing flop ** [ 2Kreuz, 6Herz, 5Karo ]
+** Dealing turn ** [ 8Herz ]
+** Dealing river ** [ 3Herz ]
+** Summary **
+jabba6971 shows [ QKaro, QPik ]
+B2B_Suckouts shows [ JPik, JKreuz ]
+jabba6971 collected [ 3,98 $ ]
+
+
+
+#Game No : 1330322636
+***** 888poker Hand History for Game 1330322636 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:10:32
+Table Nagpur 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,50 $ )
+Seat 2: overcranky ( 2,29 $ )
+Seat 3: stiks66 ( 1,68 $ )
+Seat 4: jabba6971 ( 4,08 $ )
+Seat 5: Liverpool08g ( 0,80 $ )
+Seat 6: pokerwil14 ( 1,99 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 4,30 $ )
+Seat 10: MarkMclean ( 0,92 $ )
+overcranky posts small blind [0,01 $]
+stiks66 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 2Kreuz ]
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 raises [0,04 $]
+B2B_Suckouts folds
+livyathan raises [0,12 $]
+MarkMclean folds
+Despol folds
+overcranky calls [0,11 $]
+stiks66 calls [0,10 $]
+pokerwil14 calls [0,08 $]
+** Dealing flop ** [ 2Herz, 5Pik, 2Karo ]
+overcranky checks
+stiks66 checks
+pokerwil14 checks
+livyathan bets [0,15 $]
+overcranky calls [0,15 $]
+stiks66 folds
+pokerwil14 folds
+** Dealing turn ** [ 9Kreuz ]
+overcranky checks
+livyathan checks
+** Dealing river ** [ 6Pik ]
+overcranky checks
+livyathan checks
+** Summary **
+overcranky shows [ KKaro, AKaro ]
+livyathan mucks [ QHerz, AKreuz ]
+overcranky collected [ 0,74 $ ]
+
+
+
+#Game No : 1330322910
+***** 888poker Hand History for Game 1330322910 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:11:56
+Table Nagpur 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,50 $ )
+Seat 2: overcranky ( 2,76 $ )
+Seat 3: stiks66 ( 1,56 $ )
+Seat 4: jabba6971 ( 4,08 $ )
+Seat 5: Liverpool08g ( 0,80 $ )
+Seat 6: pokerwil14 ( 1,87 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 4,03 $ )
+Seat 10: MarkMclean ( 0,92 $ )
+stiks66 posts small blind [0,01 $]
+jabba6971 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 2Karo ]
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts folds
+livyathan calls [0,02 $]
+MarkMclean folds
+Despol folds
+overcranky folds
+stiks66 raises [0,06 $]
+jabba6971 folds
+livyathan calls [0,05 $]
+** Dealing flop ** [ QKreuz, AKaro, QKaro ]
+stiks66 bets [0,10 $]
+livyathan calls [0,10 $]
+** Dealing turn ** [ KHerz ]
+stiks66 bets [0,23 $]
+livyathan folds
+** Summary **
+stiks66 did not show his hand
+stiks66 collected [ 0,34 $ ]
+
+
+
+#Game No : 1330323210
+***** 888poker Hand History for Game 1330323210 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:13:23
+Table Nagpur 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,50 $ )
+Seat 2: overcranky ( 2,76 $ )
+Seat 3: stiks66 ( 1,73 $ )
+Seat 4: jabba6971 ( 4,06 $ )
+Seat 5: Liverpool08g ( 0,80 $ )
+Seat 6: pokerwil14 ( 1,87 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,86 $ )
+Seat 10: MarkMclean ( 0,92 $ )
+jabba6971 posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 4Herz ]
+pokerwil14 calls [0,02 $]
+B2B_Suckouts folds
+livyathan folds
+MarkMclean folds
+Despol folds
+overcranky folds
+stiks66 raises [0,06 $]
+jabba6971 folds
+Liverpool08g calls [0,04 $]
+pokerwil14 folds
+** Dealing flop ** [ 2Karo, 3Herz, KKreuz ]
+Liverpool08g checks
+stiks66 bets [0,11 $]
+Liverpool08g folds
+** Summary **
+stiks66 did not show his hand
+stiks66 collected [ 0,15 $ ]
+
+
+
+#Game No : 1330323414
+***** 888poker Hand History for Game 1330323414 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:14:27
+Table Nagpur 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,50 $ )
+Seat 2: overcranky ( 2,76 $ )
+Seat 3: stiks66 ( 1,82 $ )
+Seat 4: jabba6971 ( 4,05 $ )
+Seat 5: Liverpool08g ( 0,74 $ )
+Seat 6: pokerwil14 ( 1,85 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,86 $ )
+Seat 10: MarkMclean ( 0,92 $ )
+Liverpool08g posts small blind [0,01 $]
+pokerwil14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 7Herz ]
+B2B_Suckouts folds
+livyathan calls [0,02 $]
+MarkMclean folds
+Despol raises [0,10 $]
+overcranky folds
+stiks66 folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+livyathan calls [0,08 $]
+** Dealing flop ** [ KKreuz, 7Pik, 5Pik ]
+livyathan checks
+Despol bets [0,11 $]
+livyathan folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,22 $ ]
+
+
+
+#Game No : 1330323634
+***** 888poker Hand History for Game 1330323634 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:15:33
+Table Nagpur 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,62 $ )
+Seat 2: overcranky ( 2,76 $ )
+Seat 3: stiks66 ( 1,82 $ )
+Seat 4: jabba6971 ( 4,05 $ )
+Seat 5: Liverpool08g ( 0,73 $ )
+Seat 6: pokerwil14 ( 1,83 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,76 $ )
+Seat 10: MarkMclean ( 0,92 $ )
+pokerwil14 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 3Pik ]
+livyathan calls [0,02 $]
+MarkMclean folds
+Despol raises [0,10 $]
+overcranky folds
+stiks66 folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts folds
+livyathan calls [0,08 $]
+** Dealing flop ** [ 6Herz, 4Karo, 10Karo ]
+livyathan checks
+Despol bets [0,11 $]
+livyathan calls [0,11 $]
+** Dealing turn ** [ QHerz ]
+livyathan bets [3,55 $]
+Despol folds
+** Summary **
+livyathan did not show his hand
+livyathan collected [ 0,43 $ ]
+
+
+
+#Game No : 1330323928
+***** 888poker Hand History for Game 1330323928 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:16:55
+Table Nagpur 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,41 $ )
+Seat 2: overcranky ( 2,76 $ )
+Seat 3: stiks66 ( 1,82 $ )
+Seat 4: jabba6971 ( 4,05 $ )
+Seat 5: Liverpool08g ( 0,73 $ )
+Seat 6: pokerwil14 ( 1,82 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,98 $ )
+Seat 10: MarkMclean ( 0,92 $ )
+B2B_Suckouts posts small blind [0,01 $]
+livyathan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 7Kreuz ]
+MarkMclean folds
+Despol raises [0,06 $]
+overcranky folds
+stiks66 folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts calls [0,05 $]
+livyathan calls [0,04 $]
+** Dealing flop ** [ AKreuz, 10Herz, 2Herz ]
+B2B_Suckouts bets [0,02 $]
+livyathan folds
+Despol calls [0,02 $]
+** Dealing turn ** [ 6Karo ]
+B2B_Suckouts bets [0,02 $]
+Despol raises [0,34 $]
+B2B_Suckouts folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,25 $ ]
+
+
+
+#Game No : 1330324265
+***** 888poker Hand History for Game 1330324265 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:18:33
+Table Nagpur 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Despol ( 2,56 $ )
+Seat 2: overcranky ( 2,76 $ )
+Seat 4: jabba6971 ( 4,05 $ )
+Seat 5: Liverpool08g ( 0,73 $ )
+Seat 6: pokerwil14 ( 1,82 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,92 $ )
+Seat 10: MarkMclean ( 0,92 $ )
+livyathan posts small blind [0,01 $]
+MarkMclean posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 4Karo ]
+Despol folds
+overcranky folds
+jabba6971 folds
+Liverpool08g raises [0,05 $]
+pokerwil14 calls [0,05 $]
+B2B_Suckouts folds
+livyathan raises [0,07 $]
+MarkMclean folds
+Liverpool08g calls [0,03 $]
+pokerwil14 calls [0,03 $]
+** Dealing flop ** [ 2Herz, 10Karo, AKaro ]
+livyathan checks
+Liverpool08g checks
+pokerwil14 bets [0,02 $]
+livyathan calls [0,02 $]
+Liverpool08g calls [0,02 $]
+** Dealing turn ** [ KKaro ]
+livyathan checks
+Liverpool08g checks
+pokerwil14 checks
+** Dealing river ** [ QHerz ]
+livyathan bets [0,10 $]
+Liverpool08g folds
+pokerwil14 calls [0,10 $]
+** Summary **
+livyathan shows [ AHerz, 8Herz ]
+pokerwil14 shows [ JKaro, APik ]
+pokerwil14 collected [ 0,49 $ ]
+
+
+
+#Game No : 1330324543
+***** 888poker Hand History for Game 1330324543 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:19:54
+Table Nagpur 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Despol ( 2,56 $ )
+Seat 2: overcranky ( 2,76 $ )
+Seat 4: jabba6971 ( 4,05 $ )
+Seat 5: Liverpool08g ( 0,80 $ )
+Seat 6: pokerwil14 ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,72 $ )
+Seat 10: MarkMclean ( 0,90 $ )
+MarkMclean posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 2Kreuz ]
+overcranky folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts folds
+livyathan calls [0,02 $]
+MarkMclean folds
+Despol checks
+** Dealing flop ** [ QHerz, 3Herz, 6Karo ]
+Despol bets [0,02 $]
+livyathan raises [0,06 $]
+Despol calls [0,04 $]
+** Dealing turn ** [ QKreuz ]
+Despol checks
+livyathan bets [0,08 $]
+Despol calls [0,08 $]
+** Dealing river ** [ 2Pik ]
+Despol checks
+livyathan bets [0,30 $]
+Despol folds
+** Summary **
+livyathan collected [ 0,31 $ ]
+
+
+
+#Game No : 1330325065
+***** 888poker Hand History for Game 1330325065 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:22:23
+Table Nagpur 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Despol ( 2,40 $ )
+Seat 2: overcranky ( 2,76 $ )
+Seat 3: stiks66 ( 1,82 $ )
+Seat 4: jabba6971 ( 4,05 $ )
+Seat 5: Liverpool08g ( 0,80 $ )
+Seat 6: pokerwil14 ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,87 $ )
+Seat 10: MarkMclean ( 0,89 $ )
+Despol posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 7Pik ]
+stiks66 folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts raises [0,04 $]
+livyathan calls [0,04 $]
+MarkMclean folds
+Despol raises [0,15 $]
+overcranky calls [0,14 $]
+B2B_Suckouts folds
+livyathan calls [0,12 $]
+** Dealing flop ** [ 8Pik, 8Herz, 3Karo ]
+Despol checks
+overcranky bets [0,25 $]
+livyathan folds
+Despol folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,49 $ ]
+
+
+
+#Game No : 1330325622
+***** 888poker Hand History for Game 1330325622 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:25:01
+Table Nagpur 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: overcranky ( 3,09 $ )
+Seat 3: stiks66 ( 1,82 $ )
+Seat 4: jabba6971 ( 4,05 $ )
+Seat 5: Liverpool08g ( 0,80 $ )
+Seat 6: pokerwil14 ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,71 $ )
+Seat 10: MarkMclean ( 0,89 $ )
+stiks66 posts small blind [0,01 $]
+jabba6971 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, AKreuz ]
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts raises [0,06 $]
+livyathan folds
+MarkMclean folds
+overcranky folds
+stiks66 calls [0,05 $]
+jabba6971 folds
+** Dealing flop ** [ QKreuz, 10Pik, AKaro ]
+stiks66 checks
+B2B_Suckouts bets [0,04 $]
+stiks66 calls [0,04 $]
+** Dealing turn ** [ 8Pik ]
+stiks66 checks
+B2B_Suckouts bets [0,07 $]
+stiks66 calls [0,07 $]
+** Dealing river ** [ 9Karo ]
+stiks66 checks
+B2B_Suckouts bets [0,22 $]
+stiks66 folds
+** Summary **
+B2B_Suckouts collected [ 0,34 $ ]
+
+
+
+#Game No : 1330325833
+***** 888poker Hand History for Game 1330325833 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:26:00
+Table Nagpur 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: overcranky ( 3,09 $ )
+Seat 3: stiks66 ( 1,65 $ )
+Seat 4: jabba6971 ( 4,03 $ )
+Seat 5: Liverpool08g ( 0,80 $ )
+Seat 6: pokerwil14 ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2,17 $ )
+Seat 9: livyathan ( 3,71 $ )
+Seat 10: MarkMclean ( 0,89 $ )
+jabba6971 posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, KKaro ]
+pokerwil14 folds
+B2B_Suckouts folds
+livyathan folds
+MarkMclean calls [0,02 $]
+overcranky folds
+stiks66 folds
+jabba6971 calls [0,01 $]
+Liverpool08g checks
+** Dealing flop ** [ JPik, APik, 4Kreuz ]
+jabba6971 checks
+Liverpool08g checks
+MarkMclean checks
+** Dealing turn ** [ QHerz ]
+jabba6971 bets [0,16 $]
+Liverpool08g folds
+MarkMclean folds
+** Summary **
+jabba6971 collected [ 0,06 $ ]
+
+
+
+#Game No : 1330326011
+***** 888poker Hand History for Game 1330326011 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:26:49
+Table Nagpur 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: overcranky ( 3,09 $ )
+Seat 3: stiks66 ( 1,65 $ )
+Seat 4: jabba6971 ( 4,07 $ )
+Seat 5: Liverpool08g ( 0,78 $ )
+Seat 6: pokerwil14 ( 2,11 $ )
+Seat 7: B2B_Suckouts ( 2,17 $ )
+Seat 9: livyathan ( 3,71 $ )
+Seat 10: MarkMclean ( 0,87 $ )
+Liverpool08g posts small blind [0,01 $]
+pokerwil14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 3Herz ]
+B2B_Suckouts folds
+livyathan calls [0,02 $]
+MarkMclean folds
+overcranky raises [0,10 $]
+stiks66 folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+livyathan calls [0,08 $]
+** Dealing flop ** [ 4Karo, 6Kreuz, 9Pik ]
+livyathan checks
+overcranky checks
+** Dealing turn ** [ 8Herz ]
+livyathan bets [0,07 $]
+overcranky calls [0,07 $]
+** Dealing river ** [ 8Pik ]
+livyathan bets [0,12 $]
+overcranky calls [0,12 $]
+** Summary **
+livyathan shows [ QKreuz, 10Herz ]
+overcranky shows [ AHerz, JPik ]
+overcranky collected [ 0,58 $ ]
+
+
+
+#Game No : 1330326208
+***** 888poker Hand History for Game 1330326208 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:27:49
+Table Nagpur 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: overcranky ( 3,38 $ )
+Seat 3: stiks66 ( 1,65 $ )
+Seat 4: jabba6971 ( 4,07 $ )
+Seat 5: Liverpool08g ( 0,77 $ )
+Seat 6: pokerwil14 ( 2,09 $ )
+Seat 7: B2B_Suckouts ( 2,17 $ )
+Seat 9: livyathan ( 3,42 $ )
+Seat 10: MarkMclean ( 0,87 $ )
+pokerwil14 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Karo ]
+livyathan folds
+MarkMclean folds
+overcranky raises [0,06 $]
+stiks66 calls [0,06 $]
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ KKreuz, 3Pik, 8Pik ]
+B2B_Suckouts checks
+overcranky bets [0,12 $]
+stiks66 calls [0,12 $]
+B2B_Suckouts folds
+** Dealing turn ** [ AKaro ]
+overcranky bets [0,28 $]
+stiks66 folds
+** Summary **
+overcranky collected [ 0,41 $ ]
+
+
+
+#Game No : 1330326354
+***** 888poker Hand History for Game 1330326354 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:28:34
+Table Nagpur 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: overcranky ( 3,61 $ )
+Seat 3: stiks66 ( 1,47 $ )
+Seat 4: jabba6971 ( 4,07 $ )
+Seat 5: Liverpool08g ( 0,77 $ )
+Seat 6: pokerwil14 ( 2,08 $ )
+Seat 7: B2B_Suckouts ( 2,11 $ )
+Seat 9: livyathan ( 3,42 $ )
+Seat 10: MarkMclean ( 0,87 $ )
+B2B_Suckouts posts small blind [0,01 $]
+livyathan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, KHerz ]
+MarkMclean raises [0,06 $]
+overcranky folds
+stiks66 calls [0,06 $]
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts folds
+livyathan calls [0,04 $]
+** Dealing flop ** [ JKaro, 6Herz, 9Kreuz ]
+livyathan checks
+MarkMclean bets [0,09 $]
+stiks66 calls [0,09 $]
+livyathan folds
+** Dealing turn ** [ QHerz ]
+MarkMclean bets [0,24 $]
+stiks66 calls [0,24 $]
+** Dealing river ** [ 2Herz ]
+MarkMclean checks
+stiks66 checks
+** Summary **
+MarkMclean shows [ KKaro, APik ]
+stiks66 shows [ 10Herz, QPik ]
+stiks66 collected [ 0,80 $ ]
+
+
+
+#Game No : 1330326613
+***** 888poker Hand History for Game 1330326613 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:29:47
+Table Nagpur 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 3: stiks66 ( 1,88 $ )
+Seat 4: jabba6971 ( 4,07 $ )
+Seat 5: Liverpool08g ( 0,77 $ )
+Seat 6: pokerwil14 ( 2,08 $ )
+Seat 7: B2B_Suckouts ( 2,10 $ )
+Seat 9: livyathan ( 3,36 $ )
+Seat 10: MarkMclean ( 0,48 $ )
+livyathan posts small blind [0,01 $]
+MarkMclean posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 4Pik ]
+stiks66 folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 calls [0,02 $]
+B2B_Suckouts folds
+livyathan calls [0,01 $]
+MarkMclean checks
+** Dealing flop ** [ KKreuz, 10Herz, 9Karo ]
+livyathan checks
+MarkMclean checks
+pokerwil14 checks
+** Dealing turn ** [ 5Herz ]
+livyathan checks
+MarkMclean bets [0,06 $]
+pokerwil14 folds
+livyathan calls [0,06 $]
+** Dealing river ** [ QKaro ]
+livyathan checks
+MarkMclean checks
+** Summary **
+livyathan shows [ JPik, 10Karo ]
+MarkMclean mucks [ 2Kreuz, QKreuz ]
+livyathan collected [ 0,17 $ ]
+
+
+
+#Game No : 1330326765
+***** 888poker Hand History for Game 1330326765 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:30:29
+Table Nagpur 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 3: stiks66 ( 1,88 $ )
+Seat 4: jabba6971 ( 4,07 $ )
+Seat 5: Liverpool08g ( 0,77 $ )
+Seat 6: pokerwil14 ( 2,06 $ )
+Seat 7: B2B_Suckouts ( 2,10 $ )
+Seat 9: livyathan ( 3,45 $ )
+Seat 10: MarkMclean ( 0,40 $ )
+MarkMclean posts small blind [0,01 $]
+stiks66 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 2Herz ]
+jabba6971 folds
+Liverpool08g raises [0,05 $]
+pokerwil14 folds
+B2B_Suckouts calls [0,05 $]
+livyathan calls [0,05 $]
+MarkMclean raises [0,39 $]
+stiks66 folds
+Liverpool08g calls [0,35 $]
+B2B_Suckouts folds
+livyathan folds
+** Dealing flop ** [ 10Herz, QKreuz, 5Pik ]
+** Dealing turn ** [ 7Herz ]
+** Dealing river ** [ 6Pik ]
+** Summary **
+Liverpool08g shows [ QHerz, APik ]
+MarkMclean shows [ AKaro, 10Karo ]
+Liverpool08g collected [ 0,87 $ ]
+
+
+
+#Game No : 1330326934
+***** 888poker Hand History for Game 1330326934 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:31:15
+Table Nagpur 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 3: stiks66 ( 1,86 $ )
+Seat 4: jabba6971 ( 4,07 $ )
+Seat 5: Liverpool08g ( 1,24 $ )
+Seat 6: pokerwil14 ( 2,06 $ )
+Seat 7: B2B_Suckouts ( 2,05 $ )
+Seat 9: livyathan ( 3,40 $ )
+jabba6971 posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 2Pik ]
+pokerwil14 raises [0,08 $]
+B2B_Suckouts folds
+livyathan folds
+stiks66 calls [0,08 $]
+jabba6971 folds
+Liverpool08g folds
+** Dealing flop ** [ 5Karo, 6Karo, AKreuz ]
+pokerwil14 bets [0,06 $]
+stiks66 folds
+** Summary **
+pokerwil14 collected [ 0,18 $ ]
+
+
+
+#Game No : 1330327048
+***** 888poker Hand History for Game 1330327048 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:31:50
+Table Nagpur 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 3: stiks66 ( 1,78 $ )
+Seat 4: jabba6971 ( 4,06 $ )
+Seat 5: Liverpool08g ( 1,22 $ )
+Seat 6: pokerwil14 ( 2,16 $ )
+Seat 7: B2B_Suckouts ( 2,05 $ )
+Seat 9: livyathan ( 3,40 $ )
+Liverpool08g posts small blind [0,01 $]
+pokerwil14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 2Herz ]
+B2B_Suckouts folds
+livyathan raises [0,04 $]
+stiks66 calls [0,04 $]
+jabba6971 calls [0,04 $]
+Liverpool08g calls [0,03 $]
+pokerwil14 folds
+** Dealing flop ** [ 5Kreuz, 9Herz, 8Karo ]
+Liverpool08g checks
+livyathan bets [0,05 $]
+stiks66 folds
+jabba6971 calls [0,05 $]
+Liverpool08g folds
+** Dealing turn ** [ JKaro ]
+livyathan checks
+jabba6971 checks
+** Dealing river ** [ 8Herz ]
+livyathan bets [0,14 $]
+jabba6971 folds
+** Summary **
+livyathan collected [ 0,27 $ ]
+
+
+
+#Game No : 1330327306
+***** 888poker Hand History for Game 1330327306 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:33:03
+Table Nagpur 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 3: stiks66 ( 1,74 $ )
+Seat 4: jabba6971 ( 3,97 $ )
+Seat 5: Liverpool08g ( 1,18 $ )
+Seat 6: pokerwil14 ( 2,14 $ )
+Seat 7: B2B_Suckouts ( 2,05 $ )
+Seat 9: livyathan ( 3,58 $ )
+pokerwil14 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 8Kreuz ]
+livyathan calls [0,02 $]
+stiks66 folds
+jabba6971 folds
+Liverpool08g folds
+pokerwil14 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 6Pik, AKaro, 10Pik ]
+pokerwil14 checks
+B2B_Suckouts checks
+livyathan checks
+** Dealing turn ** [ AHerz ]
+pokerwil14 checks
+B2B_Suckouts checks
+livyathan checks
+** Dealing river ** [ 8Herz ]
+pokerwil14 checks
+B2B_Suckouts bets [0,03 $]
+livyathan raises [0,12 $]
+pokerwil14 folds
+B2B_Suckouts folds
+** Summary **
+livyathan collected [ 0,12 $ ]
+
+
+
+#Game No : 1330327484
+***** 888poker Hand History for Game 1330327484 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:33:49
+Table Nagpur 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 3: stiks66 ( 1,74 $ )
+Seat 5: Liverpool08g ( 1,18 $ )
+Seat 6: pokerwil14 ( 2,12 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,65 $ )
+B2B_Suckouts posts small blind [0,01 $]
+livyathan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 9Kreuz ]
+stiks66 folds
+Liverpool08g folds
+pokerwil14 raises [0,06 $]
+B2B_Suckouts folds
+livyathan calls [0,04 $]
+** Dealing flop ** [ 4Kreuz, 10Pik, JKaro ]
+livyathan checks
+pokerwil14 checks
+** Dealing turn ** [ KKaro ]
+livyathan checks
+pokerwil14 bets [0,04 $]
+livyathan calls [0,04 $]
+** Dealing river ** [ 7Karo ]
+livyathan checks
+pokerwil14 checks
+** Summary **
+livyathan shows [ 5Karo, QKreuz ]
+pokerwil14 shows [ KKreuz, AHerz ]
+pokerwil14 collected [ 0,20 $ ]
+
+
+
+#Game No : 1330327635
+***** 888poker Hand History for Game 1330327635 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:34:28
+Table Nagpur 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 3: stiks66 ( 1,74 $ )
+Seat 5: Liverpool08g ( 1,18 $ )
+Seat 6: pokerwil14 ( 2,22 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,55 $ )
+Seat 10: SHEL727 ( 2 $ )
+livyathan posts small blind [0,01 $]
+SHEL727 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, KPik ]
+stiks66 folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts raises [0,04 $]
+livyathan raises [0,05 $]
+SHEL727 folds
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 9Herz, 3Herz, 10Kreuz ]
+livyathan checks
+B2B_Suckouts bets [0,04 $]
+livyathan calls [0,04 $]
+** Dealing turn ** [ AKaro ]
+livyathan checks
+B2B_Suckouts checks
+** Dealing river ** [ 9Pik ]
+livyathan bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+livyathan collected [ 0,21 $ ]
+
+
+
+#Game No : 1330327780
+***** 888poker Hand History for Game 1330327780 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:35:08
+Table Nagpur 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: xxflashxxx ( 0,80 $ )
+Seat 3: stiks66 ( 1,74 $ )
+Seat 5: Liverpool08g ( 1,18 $ )
+Seat 6: pokerwil14 ( 2,22 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,66 $ )
+Seat 10: SHEL727 ( 2 $ )
+SHEL727 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 3Karo ]
+stiks66 folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts folds
+livyathan folds
+SHEL727 raises [0,08 $]
+xxflashxxx folds
+** Summary **
+SHEL727 collected [ 0,04 $ ]
+
+
+
+#Game No : 1330327844
+***** 888poker Hand History for Game 1330327844 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:35:25
+Table Nagpur 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,78 $ )
+Seat 2: overcranky ( 3,61 $ )
+Seat 3: stiks66 ( 1,74 $ )
+Seat 5: Liverpool08g ( 1,18 $ )
+Seat 6: pokerwil14 ( 2,22 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,66 $ )
+Seat 10: SHEL727 ( 2,02 $ )
+xxflashxxx posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 10Pik ]
+stiks66 raises [0,06 $]
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts folds
+livyathan folds
+SHEL727 folds
+xxflashxxx calls [0,05 $]
+overcranky folds
+** Dealing flop ** [ KKaro, 3Herz, 7Pik ]
+xxflashxxx bets [0,07 $]
+stiks66 raises [0,28 $]
+xxflashxxx raises [0,65 $]
+stiks66 calls [0,44 $]
+** Dealing turn ** [ 5Kreuz ]
+** Dealing river ** [ 9Herz ]
+** Summary **
+xxflashxxx shows [ KHerz, AHerz ]
+stiks66 shows [ AKreuz, KPik ]
+stiks66 collected [ 0,74 $ ]
+xxflashxxx collected [ 0,75 $ ]
+
+
+
+#Game No : 1330328063
+***** 888poker Hand History for Game 1330328063 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:36:25
+Table Nagpur 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,75 $ )
+Seat 2: overcranky ( 3,59 $ )
+Seat 3: stiks66 ( 1,70 $ )
+Seat 5: Liverpool08g ( 1,18 $ )
+Seat 6: pokerwil14 ( 2,22 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,66 $ )
+Seat 10: SHEL727 ( 2,02 $ )
+overcranky posts small blind [0,01 $]
+stiks66 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 5Karo ]
+Liverpool08g folds
+pokerwil14 raises [0,08 $]
+B2B_Suckouts folds
+livyathan folds
+SHEL727 folds
+xxflashxxx folds
+overcranky folds
+stiks66 calls [0,06 $]
+** Dealing flop ** [ 3Kreuz, 3Herz, QPik ]
+stiks66 checks
+pokerwil14 bets [0,11 $]
+stiks66 folds
+** Summary **
+pokerwil14 collected [ 0,16 $ ]
+
+
+
+#Game No : 1330328209
+***** 888poker Hand History for Game 1330328209 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:37:05
+Table Nagpur 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,75 $ )
+Seat 2: overcranky ( 3,58 $ )
+Seat 3: stiks66 ( 1,62 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,18 $ )
+Seat 6: pokerwil14 ( 2,30 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,66 $ )
+Seat 10: SHEL727 ( 2,02 $ )
+stiks66 posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, JHerz ]
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts raises [0,06 $]
+livyathan folds
+SHEL727 folds
+xxflashxxx calls [0,06 $]
+overcranky folds
+stiks66 folds
+btlbtl folds
+** Dealing flop ** [ 10Karo, 6Karo, KPik ]
+B2B_Suckouts checks
+xxflashxxx bets [0,10 $]
+B2B_Suckouts folds
+** Summary **
+xxflashxxx did not show his hand
+xxflashxxx collected [ 0,15 $ ]
+
+
+
+#Game No : 1330328375
+***** 888poker Hand History for Game 1330328375 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:37:49
+Table Nagpur 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,84 $ )
+Seat 2: overcranky ( 3,58 $ )
+Seat 3: stiks66 ( 1,61 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,18 $ )
+Seat 6: pokerwil14 ( 2,30 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,66 $ )
+Seat 10: SHEL727 ( 2,02 $ )
+btlbtl posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, AKreuz ]
+pokerwil14 folds
+B2B_Suckouts folds
+livyathan calls [0,02 $]
+SHEL727 folds
+xxflashxxx folds
+overcranky folds
+stiks66 folds
+btlbtl folds
+Liverpool08g checks
+** Dealing flop ** [ 9Karo, 2Pik, QPik ]
+Liverpool08g checks
+livyathan checks
+** Dealing turn ** [ 10Herz ]
+Liverpool08g checks
+livyathan bets [0,02 $]
+Liverpool08g calls [0,02 $]
+** Dealing river ** [ 7Herz ]
+Liverpool08g checks
+livyathan bets [0,02 $]
+Liverpool08g calls [0,02 $]
+** Summary **
+livyathan shows [ 3Kreuz, 2Kreuz ]
+Liverpool08g shows [ 9Kreuz, 4Pik ]
+Liverpool08g collected [ 0,13 $ ]
+
+
+
+#Game No : 1330328644
+***** 888poker Hand History for Game 1330328644 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:39:03
+Table Nagpur 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,84 $ )
+Seat 2: overcranky ( 3,58 $ )
+Seat 3: stiks66 ( 1,61 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,25 $ )
+Seat 6: pokerwil14 ( 2,30 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: livyathan ( 3,60 $ )
+Seat 10: SHEL727 ( 2,02 $ )
+Liverpool08g posts small blind [0,01 $]
+pokerwil14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, AHerz ]
+B2B_Suckouts raises [0,06 $]
+livyathan folds
+SHEL727 folds
+xxflashxxx folds
+overcranky folds
+stiks66 folds
+btlbtl folds
+Liverpool08g folds
+pokerwil14 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 1330328733
+***** 888poker Hand History for Game 1330328733 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:39:26
+Table Nagpur 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,84 $ )
+Seat 2: overcranky ( 3,58 $ )
+Seat 3: stiks66 ( 1,61 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,24 $ )
+Seat 6: pokerwil14 ( 2,28 $ )
+Seat 7: B2B_Suckouts ( 2,03 $ )
+Seat 9: livyathan ( 3,60 $ )
+Seat 10: SHEL727 ( 2,02 $ )
+pokerwil14 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, KKaro ]
+livyathan folds
+SHEL727 folds
+xxflashxxx folds
+overcranky folds
+stiks66 raises [0,06 $]
+btlbtl folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts raises [0,13 $]
+stiks66 calls [0,09 $]
+** Dealing flop ** [ 8Pik, QKreuz, 7Pik ]
+B2B_Suckouts bets [1,88 $]
+stiks66 calls [1,46 $]
+** Dealing turn ** [ 3Herz ]
+** Dealing river ** [ AHerz ]
+** Summary **
+stiks66 shows [ QHerz, KKreuz ]
+B2B_Suckouts shows [ KPik, KKaro ]
+B2B_Suckouts collected [ 3,03 $ ]
+
+
+
+#Game No : 1330328927
+***** 888poker Hand History for Game 1330328927 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:40:19
+Table Nagpur 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,84 $ )
+Seat 2: overcranky ( 3,58 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,24 $ )
+Seat 6: pokerwil14 ( 2,27 $ )
+Seat 7: B2B_Suckouts ( 3,45 $ )
+Seat 9: livyathan ( 3,60 $ )
+Seat 10: SHEL727 ( 2,02 $ )
+B2B_Suckouts posts small blind [0,01 $]
+livyathan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, KPik ]
+SHEL727 folds
+xxflashxxx folds
+overcranky folds
+btlbtl folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts calls [0,01 $]
+livyathan checks
+** Dealing flop ** [ 2Herz, KKreuz, 7Herz ]
+B2B_Suckouts bets [0,02 $]
+livyathan folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 1330329019
+***** 888poker Hand History for Game 1330329019 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:40:46
+Table Nagpur 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,84 $ )
+Seat 2: overcranky ( 3,58 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,24 $ )
+Seat 6: pokerwil14 ( 2,27 $ )
+Seat 7: B2B_Suckouts ( 3,47 $ )
+Seat 9: livyathan ( 3,58 $ )
+Seat 10: SHEL727 ( 2,02 $ )
+livyathan posts small blind [0,01 $]
+SHEL727 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 9Herz ]
+xxflashxxx folds
+overcranky folds
+btlbtl folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts raises [0,04 $]
+livyathan calls [0,03 $]
+SHEL727 folds
+** Dealing flop ** [ AKaro, 3Herz, 3Pik ]
+livyathan checks
+B2B_Suckouts bets [0,05 $]
+livyathan folds
+** Summary **
+B2B_Suckouts collected [ 0,10 $ ]
+
+
+
+#Game No : 1330329153
+***** 888poker Hand History for Game 1330329153 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:41:22
+Table Nagpur 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,84 $ )
+Seat 2: overcranky ( 3,58 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,24 $ )
+Seat 6: pokerwil14 ( 2,27 $ )
+Seat 7: B2B_Suckouts ( 3,53 $ )
+Seat 9: livyathan ( 3,54 $ )
+Seat 10: SHEL727 ( 2 $ )
+SHEL727 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 6Kreuz ]
+overcranky folds
+btlbtl folds
+Liverpool08g folds
+pokerwil14 raises [0,04 $]
+B2B_Suckouts calls [0,04 $]
+livyathan raises [0,12 $]
+SHEL727 folds
+xxflashxxx folds
+pokerwil14 folds
+B2B_Suckouts folds
+** Summary **
+livyathan collected [ 0,15 $ ]
+
+
+
+#Game No : 1330329320
+***** 888poker Hand History for Game 1330329320 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:42:07
+Table Nagpur 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: xxflashxxx ( 0,82 $ )
+Seat 2: overcranky ( 3,58 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,24 $ )
+Seat 6: pokerwil14 ( 2,23 $ )
+Seat 7: B2B_Suckouts ( 3,49 $ )
+Seat 10: SHEL727 ( 2 $ )
+xxflashxxx posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 7Pik ]
+btlbtl folds
+Liverpool08g folds
+pokerwil14 folds
+B2B_Suckouts folds
+SHEL727 raises [0,08 $]
+xxflashxxx folds
+overcranky folds
+** Summary **
+SHEL727 collected [ 0,05 $ ]
+
+
+
+#Game No : 1330329416
+***** 888poker Hand History for Game 1330329416 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:42:34
+Table Nagpur 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,81 $ )
+Seat 2: overcranky ( 3,56 $ )
+Seat 3: Planty.1 ( 2 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,24 $ )
+Seat 6: pokerwil14 ( 2,23 $ )
+Seat 7: B2B_Suckouts ( 3,49 $ )
+Seat 10: SHEL727 ( 2,03 $ )
+overcranky posts small blind [0,01 $]
+Planty.1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, JKaro ]
+btlbtl folds
+Liverpool08g folds
+pokerwil14 calls [0,02 $]
+B2B_Suckouts folds
+SHEL727 folds
+xxflashxxx raises [0,06 $]
+overcranky folds
+Planty.1 calls [0,04 $]
+pokerwil14 folds
+** Dealing flop ** [ 8Herz, KKaro, KHerz ]
+Planty.1 checks
+xxflashxxx bets [0,10 $]
+Planty.1 folds
+** Summary **
+xxflashxxx collected [ 0,15 $ ]
+
+
+
+#Game No : 1330329559
+***** 888poker Hand History for Game 1330329559 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:43:17
+Table Nagpur 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,90 $ )
+Seat 2: overcranky ( 3,55 $ )
+Seat 3: Planty.1 ( 2 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,24 $ )
+Seat 6: pokerwil14 ( 2,21 $ )
+Seat 7: B2B_Suckouts ( 3,49 $ )
+Seat 10: SHEL727 ( 2,03 $ )
+Planty.1 posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, APik ]
+Liverpool08g calls [0,02 $]
+pokerwil14 folds
+B2B_Suckouts folds
+SHEL727 folds
+xxflashxxx folds
+overcranky folds
+Planty.1 folds
+btlbtl checks
+** Dealing flop ** [ 8Kreuz, 10Pik, AHerz ]
+btlbtl checks
+Liverpool08g checks
+** Dealing turn ** [ 8Karo ]
+btlbtl checks
+Liverpool08g checks
+** Dealing river ** [ JHerz ]
+btlbtl checks
+Liverpool08g checks
+** Summary **
+btlbtl shows [ 4Pik, 5Karo ]
+Liverpool08g shows [ 10Herz, QHerz ]
+Liverpool08g collected [ 0,05 $ ]
+
+
+
+#Game No : 1330329761
+***** 888poker Hand History for Game 1330329761 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:44:14
+Table Nagpur 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,90 $ )
+Seat 2: overcranky ( 3,55 $ )
+Seat 3: Planty.1 ( 2 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,27 $ )
+Seat 6: pokerwil14 ( 2,21 $ )
+Seat 7: B2B_Suckouts ( 3,49 $ )
+Seat 10: SHEL727 ( 2,03 $ )
+btlbtl posts small blind [0,01 $]
+Liverpool08g posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, JKreuz ]
+pokerwil14 folds
+B2B_Suckouts folds
+SHEL727 raises [0,08 $]
+xxflashxxx folds
+overcranky folds
+Planty.1 folds
+btlbtl folds
+Liverpool08g folds
+** Summary **
+SHEL727 collected [ 0,05 $ ]
+
+
+
+#Game No : 1330329888
+***** 888poker Hand History for Game 1330329888 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:44:50
+Table Nagpur 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: xxflashxxx ( 0,90 $ )
+Seat 3: Planty.1 ( 2 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,25 $ )
+Seat 6: pokerwil14 ( 2,21 $ )
+Seat 7: B2B_Suckouts ( 3,49 $ )
+Seat 10: SHEL727 ( 2,06 $ )
+Liverpool08g posts small blind [0,01 $]
+pokerwil14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 8Herz ]
+B2B_Suckouts folds
+SHEL727 folds
+xxflashxxx folds
+Planty.1 folds
+btlbtl raises [0,05 $]
+Liverpool08g raises [0,19 $]
+pokerwil14 folds
+btlbtl folds
+** Summary **
+Liverpool08g collected [ 0,12 $ ]
+
+
+
+#Game No : 1330330019
+***** 888poker Hand History for Game 1330330019 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:45:28
+Table Nagpur 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: xxflashxxx ( 0,90 $ )
+Seat 3: Planty.1 ( 2 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Liverpool08g ( 1,32 $ )
+Seat 6: pokerwil14 ( 2,19 $ )
+Seat 7: B2B_Suckouts ( 3,49 $ )
+Seat 10: SHEL727 ( 2,06 $ )
+pokerwil14 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 2Karo ]
+SHEL727 folds
+xxflashxxx folds
+Planty.1 raises [0,06 $]
+btlbtl folds
+Liverpool08g calls [0,06 $]
+pokerwil14 folds
+B2B_Suckouts folds
+** Dealing flop ** [ 5Pik, 7Kreuz, 10Herz ]
+Planty.1 bets [0,09 $]
+Liverpool08g calls [0,09 $]
+** Dealing turn ** [ AKreuz ]
+Planty.1 bets [0,21 $]
+Liverpool08g folds
+** Summary **
+Planty.1 collected [ 0,31 $ ]
+
+
+
+#Game No : 1330330244
+***** 888poker Hand History for Game 1330330244 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:46:33
+Table Nagpur 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: xxflashxxx ( 0,90 $ )
+Seat 3: Planty.1 ( 2,16 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 6: pokerwil14 ( 2,18 $ )
+Seat 7: B2B_Suckouts ( 3,47 $ )
+Seat 9: DominicWolf ( 2 $ )
+Seat 10: SHEL727 ( 2,06 $ )
+B2B_Suckouts posts small blind [0,01 $]
+DominicWolf posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 3Herz ]
+SHEL727 folds
+xxflashxxx folds
+Planty.1 folds
+btlbtl folds
+pokerwil14 raises [0,04 $]
+B2B_Suckouts calls [0,03 $]
+DominicWolf folds
+** Dealing flop ** [ 2Pik, 7Kreuz, 10Pik ]
+B2B_Suckouts checks
+pokerwil14 bets [0,05 $]
+B2B_Suckouts folds
+** Summary **
+pokerwil14 collected [ 0,10 $ ]
+
+
+
+#Game No : 1330330386
+***** 888poker Hand History for Game 1330330386 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:47:16
+Table Nagpur 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: xxflashxxx ( 0,90 $ )
+Seat 3: Planty.1 ( 2,16 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 7: B2B_Suckouts ( 3,43 $ )
+Seat 9: DominicWolf ( 2 $ )
+Seat 10: SHEL727 ( 2,06 $ )
+DominicWolf posts small blind [0,01 $]
+SHEL727 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, KPik ]
+xxflashxxx folds
+Planty.1 folds
+btlbtl folds
+B2B_Suckouts raises [0,06 $]
+DominicWolf calls [0,05 $]
+SHEL727 folds
+** Dealing flop ** [ 3Karo, 6Karo, 4Kreuz ]
+DominicWolf checks
+B2B_Suckouts checks
+** Dealing turn ** [ APik ]
+DominicWolf checks
+B2B_Suckouts bets [0,04 $]
+DominicWolf folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 1330330750
+***** 888poker Hand History for Game 1330330750 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:48:55
+Table Nagpur 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,90 $ )
+Seat 2: SinisterKid ( 2 $ )
+Seat 3: Planty.1 ( 2,16 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Aleks5126 ( 0,80 $ )
+Seat 6: fisherman016 ( 2 $ )
+Seat 7: B2B_Suckouts ( 3,51 $ )
+Seat 9: DominicWolf ( 2 $ )
+xxflashxxx posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+Aleks5126 posts big blind [0,02 $]
+fisherman016 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 7Karo ]
+Planty.1 folds
+btlbtl calls [0,02 $]
+Aleks5126 checks
+fisherman016 checks
+B2B_Suckouts folds
+DominicWolf calls [0,02 $]
+xxflashxxx folds
+SinisterKid checks
+** Dealing flop ** [ APik, 8Herz, KKaro ]
+SinisterKid checks
+btlbtl checks
+Aleks5126 bets [0,02 $]
+fisherman016 raises [0,06 $]
+DominicWolf folds
+SinisterKid folds
+btlbtl folds
+Aleks5126 calls [0,04 $]
+** Dealing turn ** [ 4Herz ]
+Aleks5126 checks
+fisherman016 bets [0,11 $]
+Aleks5126 calls [0,11 $]
+** Dealing river ** [ 2Herz ]
+Aleks5126 checks
+fisherman016 bets [0,29 $]
+Aleks5126 folds
+** Summary **
+fisherman016 collected [ 0,43 $ ]
+
+
+
+#Game No : 1330331305
+***** 888poker Hand History for Game 1330331305 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:51:33
+Table Nagpur 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,89 $ )
+Seat 3: Planty.1 ( 2,16 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Aleks5126 ( 0,61 $ )
+Seat 6: fisherman016 ( 2,24 $ )
+Seat 7: B2B_Suckouts ( 3,51 $ )
+Seat 9: DominicWolf ( 2 $ )
+Seat 10: BlackOrWhite ( 2 $ )
+Planty.1 posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+BlackOrWhite posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 6Herz ]
+Aleks5126 folds
+fisherman016 folds
+B2B_Suckouts folds
+DominicWolf folds
+BlackOrWhite raises [0,04 $]
+xxflashxxx folds
+Planty.1 folds
+btlbtl folds
+** Summary **
+BlackOrWhite did not show his hand
+BlackOrWhite collected [ 0,05 $ ]
+
+
+
+#Game No : 1330331391
+***** 888poker Hand History for Game 1330331391 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 18:51:55
+Table Nagpur 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,89 $ )
+Seat 3: Planty.1 ( 2,15 $ )
+Seat 4: btlbtl ( 2 $ )
+Seat 5: Aleks5126 ( 0,61 $ )
+Seat 6: fisherman016 ( 2,24 $ )
+Seat 7: B2B_Suckouts ( 3,51 $ )
+Seat 9: DominicWolf ( 2 $ )
+Seat 10: BlackOrWhite ( 2,03 $ )
+btlbtl posts small blind [0,01 $]
+Aleks5126 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 5Karo ]
+fisherman016 folds
+B2B_Suckouts folds
+DominicWolf folds
+BlackOrWhite raises [0,06 $]
+xxflashxxx folds
+Planty.1 folds
+btlbtl raises [0,18 $]
+Aleks5126 folds
+BlackOrWhite folds
+** Summary **
+btlbtl did not show his hand
+btlbtl collected [ 0,14 $ ]
+
+
+
