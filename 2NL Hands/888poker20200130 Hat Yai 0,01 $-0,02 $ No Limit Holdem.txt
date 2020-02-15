@@ -1,0 +1,883 @@
+#Game No : 1328199823
+***** 888poker Hand History for Game 1328199823 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:54:35
+Table Hat Yai 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,69 $ )
+Seat 2: jac2020 ( 1,63 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 0,99 $ )
+Seat 5: Woffinden ( 3,06 $ )
+Seat 6: 1gadfly1 ( 2,32 $ )
+Seat 7: Imed_Marb ( 1,13 $ )
+Seat 9: Carlovindo ( 5,82 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+PlexcomUK20 posts small blind [0,01 $]
+jac2020 posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 2Pik ]
+B2B_Suckouts checks
+SkyRokeT raises [0,08 $]
+Woffinden folds
+1gadfly1 folds
+Imed_Marb folds
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+jac2020 folds
+B2B_Suckouts folds
+** Summary **
+SkyRokeT did not show his hand
+SkyRokeT collected [ 0,07 $ ]
+
+
+
+#Game No : 1328199908
+***** 888poker Hand History for Game 1328199908 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:54:59
+Table Hat Yai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,68 $ )
+Seat 2: jac2020 ( 1,61 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,04 $ )
+Seat 5: Woffinden ( 3,06 $ )
+Seat 6: 1gadfly1 ( 2,32 $ )
+Seat 7: Imed_Marb ( 1,13 $ )
+Seat 9: Carlovindo ( 5,82 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+jac2020 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, JHerz ]
+SkyRokeT folds
+Woffinden folds
+1gadfly1 folds
+Imed_Marb raises [0,06 $]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 calls [0,06 $]
+jac2020 folds
+B2B_Suckouts folds
+** Dealing flop ** [ AHerz, 4Herz, KKreuz ]
+Imed_Marb bets [0,04 $]
+PlexcomUK20 calls [0,04 $]
+** Dealing turn ** [ 8Pik ]
+Imed_Marb checks
+PlexcomUK20 checks
+** Dealing river ** [ 2Kreuz ]
+Imed_Marb bets [0,11 $]
+PlexcomUK20 folds
+** Summary **
+Imed_Marb did not show his hand
+Imed_Marb collected [ 0,22 $ ]
+
+
+
+#Game No : 1328200054
+***** 888poker Hand History for Game 1328200054 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:55:42
+Table Hat Yai 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,58 $ )
+Seat 2: jac2020 ( 1,60 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,04 $ )
+Seat 5: Woffinden ( 3,06 $ )
+Seat 6: 1gadfly1 ( 2,32 $ )
+Seat 7: Imed_Marb ( 1,25 $ )
+Seat 9: Carlovindo ( 5,82 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+B2B_Suckouts posts small blind [0,01 $]
+SkyRokeT posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 6Kreuz ]
+Woffinden folds
+1gadfly1 folds
+Imed_Marb raises [0,06 $]
+Carlovindo calls [0,06 $]
+OmgAKs folds
+PlexcomUK20 folds
+jac2020 folds
+B2B_Suckouts folds
+SkyRokeT folds
+** Dealing flop ** [ QKaro, 2Karo, 5Pik ]
+Imed_Marb bets [0,04 $]
+Carlovindo folds
+** Summary **
+Imed_Marb did not show his hand
+Imed_Marb collected [ 0,15 $ ]
+
+
+
+#Game No : 1328200176
+***** 888poker Hand History for Game 1328200176 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:56:18
+Table Hat Yai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: PlexcomUK20 ( 0,58 $ )
+Seat 2: jac2020 ( 1,60 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,02 $ )
+Seat 6: 1gadfly1 ( 2,32 $ )
+Seat 7: Imed_Marb ( 1,34 $ )
+Seat 9: Carlovindo ( 5,76 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+SkyRokeT posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 8Pik ]
+Imed_Marb raises [0,05 $]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+jac2020 folds
+B2B_Suckouts folds
+SkyRokeT folds
+1gadfly1 folds
+** Summary **
+Imed_Marb did not show his hand
+Imed_Marb collected [ 0,05 $ ]
+
+
+
+#Game No : 1328200274
+***** 888poker Hand History for Game 1328200274 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:56:45
+Table Hat Yai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: PlexcomUK20 ( 0,58 $ )
+Seat 2: jac2020 ( 1,60 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,01 $ )
+Seat 6: 1gadfly1 ( 2,30 $ )
+Seat 7: Imed_Marb ( 1,37 $ )
+Seat 9: Carlovindo ( 5,76 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+1gadfly1 posts small blind [0,01 $]
+Imed_Marb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, KKaro ]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+jac2020 calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+SkyRokeT folds
+1gadfly1 folds
+Imed_Marb calls [0,04 $]
+jac2020 calls [0,04 $]
+** Dealing flop ** [ JKaro, 10Herz, AKreuz ]
+Imed_Marb bets [0,06 $]
+jac2020 calls [0,06 $]
+B2B_Suckouts raises [0,12 $]
+Imed_Marb calls [0,06 $]
+jac2020 calls [0,06 $]
+** Dealing turn ** [ 9Herz ]
+Imed_Marb bets [0,27 $]
+jac2020 calls [0,27 $]
+B2B_Suckouts calls [0,27 $]
+** Dealing river ** [ 6Karo ]
+Imed_Marb checks
+jac2020 checks
+B2B_Suckouts bets [0,38 $]
+Imed_Marb folds
+jac2020 calls [0,38 $]
+** Summary **
+B2B_Suckouts shows [ AHerz, KKaro ]
+jac2020 shows [ 10Kreuz, AKaro ]
+jac2020 collected [ 1,99 $ ]
+
+
+
+#Game No : 1328200588
+***** 888poker Hand History for Game 1328200588 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:58:19
+Table Hat Yai 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: PlexcomUK20 ( 0,58 $ )
+Seat 2: jac2020 ( 2,76 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,01 $ )
+Seat 6: 1gadfly1 ( 2,29 $ )
+Seat 7: Imed_Marb ( 0,92 $ )
+Seat 9: Carlovindo ( 5,76 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+Imed_Marb posts small blind [0,01 $]
+Carlovindo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, QHerz ]
+OmgAKs folds
+PlexcomUK20 folds
+jac2020 calls [0,02 $]
+B2B_Suckouts folds
+SkyRokeT raises [0,08 $]
+1gadfly1 folds
+Imed_Marb folds
+Carlovindo folds
+jac2020 folds
+** Summary **
+SkyRokeT collected [ 0,07 $ ]
+
+
+
+#Game No : 1328200672
+***** 888poker Hand History for Game 1328200672 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:58:44
+Table Hat Yai 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: PlexcomUK20 ( 0,58 $ )
+Seat 2: jac2020 ( 2,74 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,06 $ )
+Seat 6: 1gadfly1 ( 2,29 $ )
+Seat 7: Imed_Marb ( 0,91 $ )
+Seat 9: Carlovindo ( 5,74 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+Carlovindo posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, QKreuz ]
+PlexcomUK20 folds
+jac2020 folds
+B2B_Suckouts folds
+SkyRokeT raises [0,06 $]
+1gadfly1 folds
+Imed_Marb folds
+Carlovindo folds
+OmgAKs folds
+** Summary **
+SkyRokeT collected [ 0,05 $ ]
+
+
+
+#Game No : 1328200749
+***** 888poker Hand History for Game 1328200749 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:59:05
+Table Hat Yai 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: PlexcomUK20 ( 0,58 $ )
+Seat 2: jac2020 ( 2,74 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,09 $ )
+Seat 6: 1gadfly1 ( 2,29 $ )
+Seat 7: Imed_Marb ( 0,91 $ )
+Seat 9: Carlovindo ( 5,73 $ )
+Seat 10: OmgAKs ( 2,02 $ )
+OmgAKs posts small blind [0,01 $]
+PlexcomUK20 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 4Karo ]
+jac2020 folds
+B2B_Suckouts folds
+SkyRokeT folds
+1gadfly1 folds
+Imed_Marb folds
+Carlovindo folds
+OmgAKs raises [0,04 $]
+PlexcomUK20 folds
+** Summary **
+OmgAKs collected [ 0,04 $ ]
+
+
+
+#Game No : 1328200826
+***** 888poker Hand History for Game 1328200826 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:59:26
+Table Hat Yai 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: PlexcomUK20 ( 0,56 $ )
+Seat 2: jac2020 ( 2,74 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,09 $ )
+Seat 6: 1gadfly1 ( 2,29 $ )
+Seat 7: Imed_Marb ( 0,91 $ )
+Seat 9: Carlovindo ( 5,73 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+PlexcomUK20 posts small blind [0,01 $]
+jac2020 folds
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 9Karo ]
+SkyRokeT folds
+1gadfly1 folds
+Imed_Marb raises [0,06 $]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+B2B_Suckouts folds
+** Summary **
+Imed_Marb collected [ 0,05 $ ]
+
+
+
+#Game No : 1328200898
+***** 888poker Hand History for Game 1328200898 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:59:46
+Table Hat Yai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: PlexcomUK20 ( 0,55 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,09 $ )
+Seat 6: 1gadfly1 ( 2,29 $ )
+Seat 7: Imed_Marb ( 0,94 $ )
+Seat 9: Carlovindo ( 5,73 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+B2B_Suckouts posts small blind [0,01 $]
+SkyRokeT posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 5Kreuz ]
+1gadfly1 folds
+Imed_Marb raises [0,06 $]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 calls [0,06 $]
+B2B_Suckouts folds
+SkyRokeT folds
+** Dealing flop ** [ QKaro, 3Pik, 10Pik ]
+Imed_Marb bets [0,07 $]
+PlexcomUK20 calls [0,07 $]
+** Dealing turn ** [ QHerz ]
+Imed_Marb checks
+PlexcomUK20 checks
+** Dealing river ** [ 4Herz ]
+Imed_Marb bets [0,14 $]
+PlexcomUK20 folds
+** Summary **
+Imed_Marb collected [ 0,28 $ ]
+
+
+
+#Game No : 1328201014
+***** 888poker Hand History for Game 1328201014 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:00:18
+Table Hat Yai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: PlexcomUK20 ( 0,42 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,07 $ )
+Seat 5: igore414 ( 1,40 $ )
+Seat 6: 1gadfly1 ( 2,29 $ )
+Seat 7: Imed_Marb ( 1,09 $ )
+Seat 9: Carlovindo ( 5,73 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+SkyRokeT posts small blind [0,01 $]
+igore414 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 4Pik ]
+1gadfly1 folds
+Imed_Marb folds
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+B2B_Suckouts folds
+SkyRokeT folds
+** Summary **
+igore414 did not show his hand
+igore414 collected [ 0,03 $ ]
+
+
+
+#Game No : 1328201071
+***** 888poker Hand History for Game 1328201071 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:00:33
+Table Hat Yai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: PlexcomUK20 ( 0,42 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,06 $ )
+Seat 5: igore414 ( 1,41 $ )
+Seat 6: 1gadfly1 ( 2,29 $ )
+Seat 7: Imed_Marb ( 1,09 $ )
+Seat 9: Carlovindo ( 5,73 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+igore414 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 7Herz ]
+Imed_Marb raises [0,06 $]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+B2B_Suckouts folds
+SkyRokeT folds
+igore414 folds
+1gadfly1 folds
+** Summary **
+Imed_Marb collected [ 0,05 $ ]
+
+
+
+#Game No : 1328201222
+***** 888poker Hand History for Game 1328201222 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:01:16
+Table Hat Yai 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,42 $ )
+Seat 2: 007Krutoi007 ( 0,80 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,06 $ )
+Seat 5: igore414 ( 1,40 $ )
+Seat 6: 1gadfly1 ( 2,27 $ )
+Seat 7: Imed_Marb ( 1,12 $ )
+Seat 9: Carlovindo ( 5,73 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+1gadfly1 posts small blind [0,01 $]
+Imed_Marb posts big blind [0,02 $]
+007Krutoi007 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 7Herz ]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+007Krutoi007 checks
+B2B_Suckouts folds
+SkyRokeT folds
+igore414 calls [0,02 $]
+1gadfly1 folds
+Imed_Marb raises [0,04 $]
+007Krutoi007 calls [0,04 $]
+igore414 calls [0,04 $]
+** Dealing flop ** [ QKaro, 5Kreuz, 2Kreuz ]
+Imed_Marb bets [0,06 $]
+007Krutoi007 calls [0,06 $]
+igore414 calls [0,06 $]
+** Dealing turn ** [ 8Karo ]
+Imed_Marb checks
+007Krutoi007 bets [0,18 $]
+igore414 folds
+Imed_Marb calls [0,18 $]
+** Dealing river ** [ 6Pik ]
+Imed_Marb checks
+007Krutoi007 bets [0,36 $]
+Imed_Marb raises [0,82 $]
+007Krutoi007 folds
+** Summary **
+Imed_Marb did not show his hand
+Imed_Marb collected [ 1,36 $ ]
+
+
+
+#Game No : 1328201587
+***** 888poker Hand History for Game 1328201587 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:03:04
+Table Hat Yai 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,42 $ )
+Seat 2: 007Krutoi007 ( 0,80 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,06 $ )
+Seat 5: igore414 ( 1,28 $ )
+Seat 6: 1gadfly1 ( 2,26 $ )
+Seat 7: Imed_Marb ( 1,82 $ )
+Seat 9: Carlovindo ( 5,73 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+Imed_Marb posts small blind [0,01 $]
+Carlovindo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 4Karo ]
+OmgAKs folds
+PlexcomUK20 folds
+007Krutoi007 folds
+B2B_Suckouts folds
+SkyRokeT folds
+igore414 raises [0,06 $]
+1gadfly1 folds
+Imed_Marb folds
+Carlovindo folds
+** Summary **
+igore414 did not show his hand
+igore414 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328201697
+***** 888poker Hand History for Game 1328201697 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:03:33
+Table Hat Yai 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,42 $ )
+Seat 2: 007Krutoi007 ( 0,80 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,06 $ )
+Seat 5: igore414 ( 1,31 $ )
+Seat 6: 1gadfly1 ( 2,26 $ )
+Seat 7: Imed_Marb ( 1,81 $ )
+Seat 9: Carlovindo ( 5,71 $ )
+Seat 10: OmgAKs ( 2,04 $ )
+Carlovindo posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 3Pik ]
+PlexcomUK20 folds
+007Krutoi007 calls [0,02 $]
+B2B_Suckouts folds
+SkyRokeT folds
+igore414 folds
+1gadfly1 folds
+Imed_Marb folds
+Carlovindo raises [0,07 $]
+OmgAKs folds
+007Krutoi007 calls [0,06 $]
+** Dealing flop ** [ 6Kreuz, 8Kreuz, 8Herz ]
+Carlovindo checks
+007Krutoi007 bets [0,09 $]
+Carlovindo folds
+** Summary **
+007Krutoi007 did not show his hand
+007Krutoi007 collected [ 0,17 $ ]
+
+
+
+#Game No : 1328201907
+***** 888poker Hand History for Game 1328201907 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:04:35
+Table Hat Yai 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,42 $ )
+Seat 2: 007Krutoi007 ( 0,89 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,06 $ )
+Seat 5: igore414 ( 1,31 $ )
+Seat 6: 1gadfly1 ( 2,26 $ )
+Seat 7: Imed_Marb ( 1,81 $ )
+Seat 9: Carlovindo ( 5,63 $ )
+Seat 10: OmgAKs ( 2,02 $ )
+OmgAKs posts small blind [0,01 $]
+PlexcomUK20 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, JKaro ]
+007Krutoi007 folds
+B2B_Suckouts folds
+SkyRokeT folds
+igore414 calls [0,02 $]
+1gadfly1 folds
+Imed_Marb folds
+Carlovindo folds
+OmgAKs calls [0,01 $]
+PlexcomUK20 checks
+** Dealing flop ** [ 5Karo, 7Karo, 3Karo ]
+OmgAKs checks
+PlexcomUK20 bets [0,02 $]
+igore414 calls [0,02 $]
+OmgAKs folds
+** Dealing turn ** [ 3Herz ]
+PlexcomUK20 bets [0,20 $]
+igore414 folds
+** Summary **
+PlexcomUK20 did not show his hand
+PlexcomUK20 collected [ 0,10 $ ]
+
+
+
+#Game No : 1328202139
+***** 888poker Hand History for Game 1328202139 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:05:42
+Table Hat Yai 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,48 $ )
+Seat 2: 007Krutoi007 ( 0,89 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,06 $ )
+Seat 5: igore414 ( 1,27 $ )
+Seat 6: 1gadfly1 ( 2,26 $ )
+Seat 7: Imed_Marb ( 1,81 $ )
+Seat 9: Carlovindo ( 5,63 $ )
+Seat 10: OmgAKs ( 2 $ )
+PlexcomUK20 posts small blind [0,01 $]
+007Krutoi007 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 10Pik ]
+B2B_Suckouts folds
+SkyRokeT folds
+igore414 calls [0,02 $]
+1gadfly1 raises [0,08 $]
+Imed_Marb folds
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+007Krutoi007 folds
+igore414 calls [0,06 $]
+** Dealing flop ** [ KKreuz, APik, 9Karo ]
+igore414 checks
+1gadfly1 bets [0,12 $]
+igore414 folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ 0,18 $ ]
+
+
+
+#Game No : 1328202262
+***** 888poker Hand History for Game 1328202262 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:06:19
+Table Hat Yai 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,47 $ )
+Seat 2: 007Krutoi007 ( 0,87 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: SkyRokeT ( 1,06 $ )
+Seat 5: igore414 ( 1,19 $ )
+Seat 6: 1gadfly1 ( 2,36 $ )
+Seat 7: Imed_Marb ( 1,81 $ )
+Seat 9: Carlovindo ( 5,63 $ )
+Seat 10: OmgAKs ( 2 $ )
+007Krutoi007 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, JPik ]
+SkyRokeT folds
+igore414 folds
+1gadfly1 folds
+Imed_Marb raises [0,06 $]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+007Krutoi007 folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 4Pik, 8Kreuz, QKaro ]
+B2B_Suckouts checks
+Imed_Marb checks
+** Dealing turn ** [ QKreuz ]
+B2B_Suckouts bets [0,04 $]
+Imed_Marb calls [0,04 $]
+** Dealing river ** [ KHerz ]
+B2B_Suckouts bets [0,10 $]
+Imed_Marb folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,20 $ ]
+
+
+
+#Game No : 1328202409
+***** 888poker Hand History for Game 1328202409 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:07:01
+Table Hat Yai 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,47 $ )
+Seat 2: 007Krutoi007 ( 0,86 $ )
+Seat 3: B2B_Suckouts ( 2,10 $ )
+Seat 4: SkyRokeT ( 1,06 $ )
+Seat 5: igore414 ( 1,19 $ )
+Seat 6: 1gadfly1 ( 2,36 $ )
+Seat 7: Imed_Marb ( 1,71 $ )
+Seat 9: Carlovindo ( 5,63 $ )
+Seat 10: OmgAKs ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+SkyRokeT posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 6Pik ]
+igore414 folds
+1gadfly1 folds
+Imed_Marb raises [0,06 $]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+007Krutoi007 calls [0,06 $]
+B2B_Suckouts folds
+SkyRokeT folds
+** Dealing flop ** [ 10Pik, 3Herz, 4Herz ]
+Imed_Marb checks
+007Krutoi007 checks
+** Dealing turn ** [ JPik ]
+Imed_Marb bets [0,04 $]
+007Krutoi007 calls [0,04 $]
+** Dealing river ** [ JHerz ]
+Imed_Marb checks
+007Krutoi007 checks
+** Summary **
+Imed_Marb shows [ 8Karo, 8Pik ]
+007Krutoi007 mucks [ AKaro, 9Karo ]
+Imed_Marb collected [ 0,22 $ ]
+
+
+
+#Game No : 1328202572
+***** 888poker Hand History for Game 1328202572 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:07:47
+Table Hat Yai 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,47 $ )
+Seat 2: 007Krutoi007 ( 0,76 $ )
+Seat 3: B2B_Suckouts ( 2,09 $ )
+Seat 4: SkyRokeT ( 1,04 $ )
+Seat 5: igore414 ( 1,19 $ )
+Seat 6: 1gadfly1 ( 2,36 $ )
+Seat 7: Imed_Marb ( 1,83 $ )
+Seat 9: Carlovindo ( 5,63 $ )
+Seat 10: OmgAKs ( 2 $ )
+SkyRokeT posts small blind [0,01 $]
+igore414 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 8Pik ]
+1gadfly1 folds
+Imed_Marb folds
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+007Krutoi007 folds
+B2B_Suckouts folds
+SkyRokeT folds
+** Summary **
+igore414 did not show his hand
+igore414 collected [ 0,03 $ ]
+
+
+
+#Game No : 1328202648
+***** 888poker Hand History for Game 1328202648 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:08:06
+Table Hat Yai 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,47 $ )
+Seat 2: 007Krutoi007 ( 0,76 $ )
+Seat 3: B2B_Suckouts ( 2,09 $ )
+Seat 4: SkyRokeT ( 1,03 $ )
+Seat 5: igore414 ( 1,20 $ )
+Seat 6: 1gadfly1 ( 2,36 $ )
+Seat 7: Imed_Marb ( 1,83 $ )
+Seat 9: Carlovindo ( 5,63 $ )
+Seat 10: OmgAKs ( 2 $ )
+igore414 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 8Karo ]
+Imed_Marb raises [0,06 $]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+007Krutoi007 folds
+B2B_Suckouts folds
+SkyRokeT calls [0,06 $]
+igore414 folds
+1gadfly1 folds
+** Dealing flop ** [ 6Karo, 10Karo, 10Pik ]
+Imed_Marb checks
+SkyRokeT checks
+** Dealing turn ** [ QHerz ]
+Imed_Marb bets [0,07 $]
+SkyRokeT calls [0,07 $]
+** Dealing river ** [ 5Pik ]
+Imed_Marb checks
+SkyRokeT bets [0,14 $]
+Imed_Marb folds
+** Summary **
+SkyRokeT did not show his hand
+SkyRokeT collected [ 0,28 $ ]
+
+
+
+#Game No : 1328202880
+***** 888poker Hand History for Game 1328202880 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:09:07
+Table Hat Yai 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,47 $ )
+Seat 2: 007Krutoi007 ( 0,76 $ )
+Seat 3: B2B_Suckouts ( 2,09 $ )
+Seat 4: SkyRokeT ( 1,18 $ )
+Seat 5: igore414 ( 1,19 $ )
+Seat 6: 1gadfly1 ( 2,34 $ )
+Seat 7: Imed_Marb ( 1,70 $ )
+Seat 9: Carlovindo ( 5,63 $ )
+Seat 10: OmgAKs ( 2 $ )
+1gadfly1 posts small blind [0,01 $]
+Imed_Marb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 8Karo ]
+Carlovindo folds
+OmgAKs folds
+PlexcomUK20 folds
+007Krutoi007 folds
+B2B_Suckouts raises [0,06 $]
+SkyRokeT folds
+igore414 calls [0,06 $]
+1gadfly1 folds
+Imed_Marb folds
+** Dealing flop ** [ 6Kreuz, QHerz, KPik ]
+B2B_Suckouts checks
+igore414 checks
+** Dealing turn ** [ 5Karo ]
+B2B_Suckouts checks
+igore414 bets [0,02 $]
+B2B_Suckouts raises [0,04 $]
+igore414 calls [0,02 $]
+** Dealing river ** [ 10Pik ]
+B2B_Suckouts bets [0,18 $]
+igore414 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,22 $ ]
+
+
+
+#Game No : 1328203181
+***** 888poker Hand History for Game 1328203181 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 16:10:30
+Table Hat Yai 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: PlexcomUK20 ( 0,47 $ )
+Seat 2: 007Krutoi007 ( 0,76 $ )
+Seat 3: B2B_Suckouts ( 2,21 $ )
+Seat 4: SkyRokeT ( 1,18 $ )
+Seat 5: igore414 ( 1,09 $ )
+Seat 6: 1gadfly1 ( 2,33 $ )
+Seat 7: Imed_Marb ( 1,68 $ )
+Seat 9: Carlovindo ( 5,63 $ )
+Seat 10: OmgAKs ( 2 $ )
+Imed_Marb posts small blind [0,01 $]
+Carlovindo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, APik ]
+OmgAKs folds
+PlexcomUK20 folds
+007Krutoi007 folds
+B2B_Suckouts raises [0,06 $]
+SkyRokeT calls [0,06 $]
+igore414 calls [0,06 $]
+1gadfly1 folds
+Imed_Marb folds
+Carlovindo folds
+** Dealing flop ** [ 4Herz, 5Herz, JPik ]
+B2B_Suckouts checks
+SkyRokeT checks
+igore414 checks
+** Dealing turn ** [ 5Karo ]
+B2B_Suckouts bets [0,10 $]
+SkyRokeT folds
+igore414 calls [0,10 $]
+** Dealing river ** [ KHerz ]
+B2B_Suckouts bets [0,36 $]
+igore414 calls [0,36 $]
+** Summary **
+B2B_Suckouts shows [ 8Pik, APik ]
+igore414 shows [ 7Herz, QHerz ]
+igore414 collected [ 1,06 $ ]
+
+
+
