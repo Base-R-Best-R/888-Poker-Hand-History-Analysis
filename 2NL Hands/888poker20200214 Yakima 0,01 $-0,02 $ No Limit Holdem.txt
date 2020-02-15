@@ -1,0 +1,3123 @@
+#Game No : 1331890187
+***** 888poker Hand History for Game 1331890187 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:08:47
+Table Yakima 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: delboy889 ( 3,29 $ )
+Seat 3: GSGS37 ( 2,38 $ )
+Seat 4: Vegucated100 ( 1,10 $ )
+Seat 5: Stason224 ( 2,13 $ )
+Seat 6: tekiller243 ( 2 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 1,03 $ )
+Seat 10: SevenThousan ( 2,27 $ )
+SevenThousan posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, KPik ]
+delboy889 folds
+GSGS37 folds
+Vegucated100 folds
+Stason224 calls [0,02 $]
+tekiller243 folds
+YASAV folds
+kkestt calls [0,02 $]
+SevenThousan calls [0,01 $]
+B2B_Suckouts raises [0,08 $]
+Stason224 folds
+kkestt folds
+SevenThousan folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,08 $ ]
+
+
+
+#Game No : 1331890301
+***** 888poker Hand History for Game 1331890301 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:09:30
+Table Yakima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,06 $ )
+Seat 2: delboy889 ( 3,29 $ )
+Seat 3: GSGS37 ( 2,38 $ )
+Seat 4: Vegucated100 ( 1,10 $ )
+Seat 5: Stason224 ( 2,11 $ )
+Seat 6: tekiller243 ( 2 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 1,01 $ )
+Seat 10: SevenThousan ( 2,25 $ )
+B2B_Suckouts posts small blind [0,01 $]
+delboy889 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 6Karo ]
+GSGS37 folds
+Vegucated100 folds
+Stason224 raises [0,08 $]
+tekiller243 raises [0,24 $]
+YASAV folds
+kkestt folds
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 calls [0,22 $]
+Stason224 calls [0,16 $]
+** Dealing flop ** [ JKreuz, AKaro, 9Pik ]
+delboy889 bets [0,02 $]
+Stason224 calls [0,02 $]
+tekiller243 raises [0,41 $]
+delboy889 folds
+Stason224 folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,75 $ ]
+
+
+
+#Game No : 1331890401
+***** 888poker Hand History for Game 1331890401 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:10:07
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: delboy889 ( 3,03 $ )
+Seat 3: GSGS37 ( 2,38 $ )
+Seat 4: Vegucated100 ( 1,10 $ )
+Seat 5: Stason224 ( 1,85 $ )
+Seat 6: tekiller243 ( 2,49 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 1,01 $ )
+Seat 10: SevenThousan ( 2,25 $ )
+delboy889 posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 4Herz ]
+Vegucated100 folds
+Stason224 raises [0,08 $]
+tekiller243 folds
+YASAV folds
+kkestt folds
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+** Summary **
+Stason224 did not show his hand
+Stason224 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331890442
+***** 888poker Hand History for Game 1331890442 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:10:24
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: delboy889 ( 3,02 $ )
+Seat 3: GSGS37 ( 2,36 $ )
+Seat 4: Vegucated100 ( 1,10 $ )
+Seat 5: Stason224 ( 1,88 $ )
+Seat 6: tekiller243 ( 2,49 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 1,01 $ )
+Seat 10: SevenThousan ( 2,25 $ )
+GSGS37 posts small blind [0,01 $]
+Vegucated100 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 2Pik ]
+Stason224 raises [0,08 $]
+tekiller243 folds
+YASAV folds
+kkestt calls [0,08 $]
+SevenThousan calls [0,08 $]
+B2B_Suckouts folds
+delboy889 calls [0,08 $]
+GSGS37 folds
+Vegucated100 folds
+** Dealing flop ** [ AKaro, 5Herz, 5Kreuz ]
+Stason224 checks
+kkestt checks
+SevenThousan checks
+delboy889 bets [0,06 $]
+Stason224 folds
+kkestt folds
+SevenThousan calls [0,06 $]
+** Dealing turn ** [ JPik ]
+SevenThousan checks
+delboy889 bets [0,08 $]
+SevenThousan folds
+** Summary **
+delboy889 did not show his hand
+delboy889 collected [ 0,45 $ ]
+
+
+
+#Game No : 1331890581
+***** 888poker Hand History for Game 1331890581 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:11:21
+Table Yakima 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: delboy889 ( 3,33 $ )
+Seat 3: GSGS37 ( 2,35 $ )
+Seat 4: Vegucated100 ( 1,08 $ )
+Seat 5: Stason224 ( 1,80 $ )
+Seat 6: tekiller243 ( 2,49 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 0,93 $ )
+Seat 10: SevenThousan ( 2,11 $ )
+Vegucated100 posts small blind [0,01 $]
+Stason224 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, KKreuz ]
+tekiller243 folds
+YASAV raises [0,06 $]
+kkestt folds
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 calls [0,06 $]
+GSGS37 folds
+Vegucated100 calls [0,05 $]
+Stason224 calls [0,04 $]
+** Dealing flop ** [ 8Herz, 3Kreuz, JKaro ]
+Vegucated100 checks
+Stason224 checks
+YASAV checks
+delboy889 checks
+** Dealing turn ** [ 8Kreuz ]
+Vegucated100 checks
+Stason224 checks
+YASAV checks
+delboy889 checks
+** Dealing river ** [ 7Pik ]
+Vegucated100 bets [0,12 $]
+Stason224 folds
+YASAV folds
+delboy889 folds
+** Summary **
+Vegucated100 did not show his hand
+Vegucated100 collected [ 0,23 $ ]
+
+
+
+#Game No : 1331890822
+***** 888poker Hand History for Game 1331890822 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:12:53
+Table Yakima 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: delboy889 ( 3,27 $ )
+Seat 3: GSGS37 ( 2,35 $ )
+Seat 4: Vegucated100 ( 1,25 $ )
+Seat 5: Stason224 ( 1,74 $ )
+Seat 6: tekiller243 ( 2,49 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 0,93 $ )
+Seat 10: SevenThousan ( 2,11 $ )
+Stason224 posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 6Karo ]
+YASAV folds
+kkestt folds
+SevenThousan raises [0,04 $]
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+Vegucated100 calls [0,04 $]
+Stason224 calls [0,03 $]
+tekiller243 calls [0,02 $]
+** Dealing flop ** [ 7Kreuz, 10Kreuz, 8Karo ]
+Stason224 checks
+tekiller243 checks
+SevenThousan bets [0,10 $]
+Vegucated100 calls [0,10 $]
+Stason224 folds
+tekiller243 folds
+** Dealing turn ** [ 6Kreuz ]
+SevenThousan bets [0,20 $]
+Vegucated100 calls [0,20 $]
+** Dealing river ** [ KKreuz ]
+SevenThousan checks
+Vegucated100 checks
+** Summary **
+SevenThousan shows [ 9Pik, 8Pik ]
+Vegucated100 shows [ AHerz, 9Kreuz ]
+Vegucated100 collected [ 0,72 $ ]
+
+
+
+#Game No : 1331891036
+***** 888poker Hand History for Game 1331891036 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:14:14
+Table Yakima 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: delboy889 ( 3,27 $ )
+Seat 3: GSGS37 ( 2,35 $ )
+Seat 4: Vegucated100 ( 1,63 $ )
+Seat 5: Stason224 ( 1,70 $ )
+Seat 6: tekiller243 ( 2,45 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 0,93 $ )
+Seat 10: SevenThousan ( 2 $ )
+tekiller243 posts small blind [0,01 $]
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, KKreuz ]
+kkestt calls [0,02 $]
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 calls [0,02 $]
+GSGS37 folds
+Vegucated100 calls [0,02 $]
+Stason224 raises [0,08 $]
+tekiller243 folds
+YASAV folds
+kkestt calls [0,06 $]
+delboy889 calls [0,06 $]
+Vegucated100 calls [0,06 $]
+** Dealing flop ** [ 7Kreuz, 3Karo, 4Kreuz ]
+kkestt checks
+delboy889 checks
+Vegucated100 bets [0,17 $]
+Stason224 folds
+kkestt folds
+delboy889 folds
+** Summary **
+Vegucated100 did not show his hand
+Vegucated100 collected [ 0,33 $ ]
+
+
+
+#Game No : 1331891335
+***** 888poker Hand History for Game 1331891335 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:16:09
+Table Yakima 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: delboy889 ( 3,19 $ )
+Seat 3: GSGS37 ( 2,35 $ )
+Seat 4: Vegucated100 ( 1,88 $ )
+Seat 5: Stason224 ( 1,62 $ )
+Seat 6: tekiller243 ( 2,44 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 0,85 $ )
+Seat 10: SevenThousan ( 2 $ )
+YASAV posts small blind [0,01 $]
+kkestt posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 5Herz ]
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+Vegucated100 calls [0,02 $]
+Stason224 calls [0,02 $]
+tekiller243 raises [0,10 $]
+YASAV folds
+kkestt folds
+Vegucated100 folds
+Stason224 calls [0,08 $]
+** Dealing flop ** [ 8Pik, 7Herz, 6Karo ]
+Stason224 checks
+tekiller243 checks
+** Dealing turn ** [ 9Kreuz ]
+Stason224 checks
+tekiller243 bets [0,16 $]
+Stason224 folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,24 $ ]
+
+
+
+#Game No : 1331891511
+***** 888poker Hand History for Game 1331891511 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:17:17
+Table Yakima 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: delboy889 ( 3,19 $ )
+Seat 3: GSGS37 ( 2,35 $ )
+Seat 4: Vegucated100 ( 1,86 $ )
+Seat 5: Stason224 ( 1,52 $ )
+Seat 6: tekiller243 ( 2,58 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 0,83 $ )
+Seat 10: SevenThousan ( 2 $ )
+kkestt posts small blind [0,01 $]
+SevenThousan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 10Karo ]
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 calls [0,02 $]
+Vegucated100 calls [0,02 $]
+Stason224 calls [0,02 $]
+tekiller243 folds
+YASAV folds
+kkestt calls [0,01 $]
+SevenThousan checks
+** Dealing flop ** [ JKreuz, 7Karo, 6Herz ]
+kkestt checks
+SevenThousan checks
+GSGS37 checks
+Vegucated100 checks
+Stason224 checks
+** Dealing turn ** [ 4Pik ]
+kkestt checks
+SevenThousan checks
+GSGS37 bets [0,05 $]
+Vegucated100 calls [0,05 $]
+Stason224 calls [0,05 $]
+kkestt folds
+SevenThousan folds
+** Dealing river ** [ 9Herz ]
+GSGS37 checks
+Vegucated100 bets [0,12 $]
+Stason224 folds
+GSGS37 calls [0,12 $]
+** Summary **
+Vegucated100 shows [ QKreuz, KKreuz ]
+GSGS37 shows [ 5Pik, 6Pik ]
+GSGS37 collected [ 0,46 $ ]
+
+
+
+#Game No : 1331891698
+***** 888poker Hand History for Game 1331891698 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:18:28
+Table Yakima 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: delboy889 ( 3,19 $ )
+Seat 3: GSGS37 ( 2,62 $ )
+Seat 4: Vegucated100 ( 1,67 $ )
+Seat 6: tekiller243 ( 2,58 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 0,81 $ )
+Seat 10: SevenThousan ( 2 $ )
+SevenThousan posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 9Kreuz ]
+delboy889 calls [0,02 $]
+GSGS37 calls [0,02 $]
+Vegucated100 calls [0,02 $]
+tekiller243 folds
+YASAV folds
+kkestt calls [0,02 $]
+SevenThousan folds
+B2B_Suckouts checks
+** Dealing flop ** [ 2Kreuz, 10Karo, KKreuz ]
+B2B_Suckouts bets [0,02 $]
+delboy889 raises [0,04 $]
+GSGS37 calls [0,04 $]
+Vegucated100 calls [0,04 $]
+kkestt calls [0,04 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ 6Kreuz ]
+B2B_Suckouts bets [0,10 $]
+delboy889 calls [0,10 $]
+GSGS37 folds
+Vegucated100 calls [0,10 $]
+kkestt folds
+** Dealing river ** [ 2Karo ]
+B2B_Suckouts bets [0,20 $]
+delboy889 folds
+Vegucated100 calls [0,20 $]
+** Summary **
+B2B_Suckouts shows [ JKreuz, 9Kreuz ]
+Vegucated100 mucks [ KHerz, JPik ]
+B2B_Suckouts collected [ 0,95 $ ]
+
+
+
+#Game No : 1331891922
+***** 888poker Hand History for Game 1331891922 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:19:49
+Table Yakima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,64 $ )
+Seat 2: delboy889 ( 3,03 $ )
+Seat 3: GSGS37 ( 2,56 $ )
+Seat 4: Vegucated100 ( 1,31 $ )
+Seat 5: avramia1 ( 2 $ )
+Seat 6: tekiller243 ( 2,58 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 0,75 $ )
+Seat 10: SevenThousan ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+delboy889 posts big blind [0,02 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 9Kreuz ]
+GSGS37 calls [0,02 $]
+Vegucated100 folds
+avramia1 checks
+tekiller243 folds
+YASAV raises [0,10 $]
+kkestt folds
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 calls [0,08 $]
+avramia1 folds
+** Dealing flop ** [ 7Kreuz, 8Kreuz, 2Herz ]
+GSGS37 checks
+YASAV checks
+** Dealing turn ** [ 6Pik ]
+GSGS37 bets [0,25 $]
+YASAV folds
+** Summary **
+GSGS37 did not show his hand
+GSGS37 collected [ 0,24 $ ]
+
+
+
+#Game No : 1331892044
+***** 888poker Hand History for Game 1331892044 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:20:36
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 2: delboy889 ( 3,01 $ )
+Seat 3: GSGS37 ( 2,70 $ )
+Seat 4: Vegucated100 ( 1,31 $ )
+Seat 5: avramia1 ( 1,98 $ )
+Seat 6: tekiller243 ( 2,58 $ )
+Seat 7: YASAV ( 0,80 $ )
+Seat 9: kkestt ( 0,75 $ )
+Seat 10: SevenThousan ( 2 $ )
+delboy889 posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 5Pik ]
+Vegucated100 calls [0,02 $]
+avramia1 folds
+tekiller243 folds
+YASAV raises [0,08 $]
+kkestt folds
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+Vegucated100 calls [0,06 $]
+** Dealing flop ** [ 4Pik, 2Kreuz, 6Herz ]
+Vegucated100 checks
+YASAV bets [0,14 $]
+Vegucated100 raises [1,23 $]
+YASAV calls [0,58 $]
+** Dealing turn ** [ JKreuz ]
+** Dealing river ** [ JPik ]
+** Summary **
+Vegucated100 shows [ 6Karo, 9Karo ]
+YASAV shows [ AHerz, AKreuz ]
+YASAV collected [ 1,53 $ ]
+
+
+
+#Game No : 1331892182
+***** 888poker Hand History for Game 1331892182 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:21:29
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 2: delboy889 ( 3 $ )
+Seat 3: GSGS37 ( 2,68 $ )
+Seat 4: Vegucated100 ( 0,51 $ )
+Seat 5: avramia1 ( 1,98 $ )
+Seat 6: tekiller243 ( 2,58 $ )
+Seat 7: YASAV ( 1,53 $ )
+Seat 9: kkestt ( 0,75 $ )
+Seat 10: SevenThousan ( 2 $ )
+GSGS37 posts small blind [0,01 $]
+Vegucated100 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 4Karo ]
+avramia1 folds
+tekiller243 folds
+YASAV folds
+kkestt folds
+SevenThousan raises [0,06 $]
+B2B_Suckouts folds
+delboy889 calls [0,06 $]
+GSGS37 calls [0,05 $]
+Vegucated100 raises [0,49 $]
+SevenThousan folds
+delboy889 calls [0,45 $]
+GSGS37 calls [0,45 $]
+** Dealing flop ** [ 4Pik, QKaro, 4Kreuz ]
+GSGS37 checks
+delboy889 bets [0,52 $]
+GSGS37 calls [0,52 $]
+** Dealing turn ** [ 2Karo ]
+GSGS37 checks
+delboy889 checks
+** Dealing river ** [ 4Herz ]
+GSGS37 bets [1,65 $]
+delboy889 calls [1,65 $]
+** Summary **
+delboy889 shows [ KKreuz, KKaro ]
+GSGS37 shows [ 9Karo, 9Pik ]
+Vegucated100 shows [ KHerz, QKreuz ]
+delboy889 collected [ 1,50 $ ]
+delboy889 collected [ 4,06 $ ]
+
+
+
+#Game No : 1331892323
+***** 888poker Hand History for Game 1331892323 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:22:26
+Table Yakima 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 2: delboy889 ( 5,88 $ )
+Seat 3: GSGS37 ( 0,80 $ )
+Seat 5: avramia1 ( 1,98 $ )
+Seat 6: tekiller243 ( 2,58 $ )
+Seat 7: YASAV ( 1,53 $ )
+Seat 9: kkestt ( 0,75 $ )
+Seat 10: SevenThousan ( 2 $ )
+avramia1 posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, QKaro ]
+YASAV folds
+kkestt folds
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+avramia1 calls [0,01 $]
+tekiller243 checks
+** Dealing flop ** [ 5Kreuz, 3Kreuz, KKaro ]
+avramia1 checks
+tekiller243 bets [0,03 $]
+avramia1 calls [0,03 $]
+** Dealing turn ** [ 7Herz ]
+avramia1 checks
+tekiller243 bets [0,07 $]
+avramia1 calls [0,07 $]
+** Dealing river ** [ 7Pik ]
+avramia1 checks
+tekiller243 bets [0,12 $]
+avramia1 folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,23 $ ]
+
+
+
+#Game No : 1331892495
+***** 888poker Hand History for Game 1331892495 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:23:37
+Table Yakima 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 2: delboy889 ( 5,88 $ )
+Seat 3: GSGS37 ( 0,80 $ )
+Seat 5: avramia1 ( 2 $ )
+Seat 6: tekiller243 ( 2,69 $ )
+Seat 7: YASAV ( 1,53 $ )
+Seat 9: kkestt ( 0,75 $ )
+Seat 10: SevenThousan ( 2 $ )
+tekiller243 posts small blind [0,01 $]
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 6Kreuz ]
+kkestt folds
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 raises [0,06 $]
+avramia1 folds
+tekiller243 raises [0,19 $]
+YASAV folds
+GSGS37 calls [0,14 $]
+** Dealing flop ** [ QHerz, 4Kreuz, 6Herz ]
+tekiller243 checks
+GSGS37 checks
+** Dealing turn ** [ KKreuz ]
+tekiller243 bets [0,28 $]
+GSGS37 folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,40 $ ]
+
+
+
+#Game No : 1331892621
+***** 888poker Hand History for Game 1331892621 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:24:21
+Table Yakima 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 2: delboy889 ( 5,88 $ )
+Seat 3: GSGS37 ( 0,60 $ )
+Seat 5: avramia1 ( 2 $ )
+Seat 6: tekiller243 ( 2,89 $ )
+Seat 7: YASAV ( 1,51 $ )
+Seat 9: kkestt ( 0,75 $ )
+Seat 10: SevenThousan ( 2 $ )
+YASAV posts small blind [0,01 $]
+kkestt posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 4Pik ]
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+avramia1 folds
+tekiller243 folds
+YASAV folds
+** Summary **
+kkestt did not show his hand
+kkestt collected [ 0,03 $ ]
+
+
+
+#Game No : 1331892649
+***** 888poker Hand History for Game 1331892649 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:24:35
+Table Yakima 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 2: delboy889 ( 5,88 $ )
+Seat 3: GSGS37 ( 0,60 $ )
+Seat 5: avramia1 ( 2 $ )
+Seat 6: tekiller243 ( 2,89 $ )
+Seat 7: YASAV ( 1,50 $ )
+Seat 9: kkestt ( 0,76 $ )
+Seat 10: SevenThousan ( 2 $ )
+kkestt posts small blind [0,01 $]
+SevenThousan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 10Karo ]
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 raises [0,06 $]
+avramia1 folds
+tekiller243 folds
+YASAV folds
+kkestt calls [0,05 $]
+SevenThousan calls [0,04 $]
+** Dealing flop ** [ 2Herz, JPik, 9Herz ]
+kkestt checks
+SevenThousan checks
+GSGS37 bets [0,09 $]
+kkestt calls [0,09 $]
+SevenThousan folds
+** Dealing turn ** [ AKaro ]
+kkestt checks
+GSGS37 bets [0,24 $]
+kkestt calls [0,24 $]
+** Dealing river ** [ QKreuz ]
+kkestt checks
+GSGS37 bets [0,21 $]
+kkestt calls [0,21 $]
+** Summary **
+GSGS37 shows [ JHerz, AKreuz ]
+kkestt shows [ QPik, 10Herz ]
+GSGS37 collected [ 1,19 $ ]
+
+
+
+#Game No : 1331892807
+***** 888poker Hand History for Game 1331892807 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:25:38
+Table Yakima 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 2: delboy889 ( 5,88 $ )
+Seat 3: GSGS37 ( 1,19 $ )
+Seat 5: avramia1 ( 2 $ )
+Seat 6: tekiller243 ( 2,89 $ )
+Seat 7: YASAV ( 1,50 $ )
+Seat 10: SevenThousan ( 2 $ )
+SevenThousan posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, JKaro ]
+delboy889 calls [0,02 $]
+GSGS37 folds
+avramia1 folds
+tekiller243 folds
+YASAV folds
+SevenThousan folds
+B2B_Suckouts checks
+** Dealing flop ** [ QPik, 10Karo, 4Kreuz ]
+B2B_Suckouts checks
+delboy889 checks
+** Dealing turn ** [ AKreuz ]
+B2B_Suckouts bets [0,02 $]
+delboy889 raises [0,10 $]
+B2B_Suckouts folds
+** Summary **
+delboy889 collected [ 0,09 $ ]
+
+
+
+#Game No : 1331892897
+***** 888poker Hand History for Game 1331892897 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:26:12
+Table Yakima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,59 $ )
+Seat 2: delboy889 ( 5,93 $ )
+Seat 3: GSGS37 ( 1,19 $ )
+Seat 5: avramia1 ( 2 $ )
+Seat 6: tekiller243 ( 2,89 $ )
+Seat 7: YASAV ( 1,50 $ )
+Seat 9: axford48 ( 0,80 $ )
+Seat 10: SevenThousan ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+delboy889 posts big blind [0,02 $]
+axford48 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, JPik ]
+GSGS37 folds
+avramia1 calls [0,02 $]
+tekiller243 folds
+YASAV raises [0,10 $]
+axford48 folds
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 calls [0,08 $]
+avramia1 calls [0,08 $]
+** Dealing flop ** [ QPik, 6Kreuz, 2Herz ]
+delboy889 checks
+avramia1 checks
+YASAV bets [0,14 $]
+delboy889 folds
+avramia1 folds
+** Summary **
+YASAV collected [ 0,31 $ ]
+
+
+
+#Game No : 1331893029
+***** 888poker Hand History for Game 1331893029 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:27:05
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,58 $ )
+Seat 2: delboy889 ( 5,83 $ )
+Seat 3: GSGS37 ( 1,19 $ )
+Seat 5: avramia1 ( 1,90 $ )
+Seat 6: tekiller243 ( 2,89 $ )
+Seat 7: YASAV ( 1,71 $ )
+Seat 9: axford48 ( 0,78 $ )
+Seat 10: SevenThousan ( 2 $ )
+delboy889 posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 2Herz ]
+avramia1 folds
+tekiller243 folds
+YASAV folds
+axford48 calls [0,02 $]
+SevenThousan calls [0,02 $]
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 checks
+** Dealing flop ** [ 5Pik, QKaro, KPik ]
+GSGS37 checks
+axford48 checks
+SevenThousan checks
+** Dealing turn ** [ 4Kreuz ]
+GSGS37 checks
+axford48 checks
+SevenThousan bets [0,06 $]
+GSGS37 calls [0,06 $]
+axford48 folds
+** Dealing river ** [ KHerz ]
+GSGS37 checks
+SevenThousan checks
+** Summary **
+GSGS37 shows [ 5Kreuz, 10Pik ]
+SevenThousan mucks [ 3Pik, 4Pik ]
+GSGS37 collected [ 0,18 $ ]
+
+
+
+#Game No : 1331893117
+***** 888poker Hand History for Game 1331893117 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:27:43
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,58 $ )
+Seat 2: delboy889 ( 5,82 $ )
+Seat 3: GSGS37 ( 1,29 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 6: tekiller243 ( 2,89 $ )
+Seat 7: YASAV ( 1,71 $ )
+Seat 9: axford48 ( 0,76 $ )
+Seat 10: SevenThousan ( 2 $ )
+GSGS37 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, KKaro ]
+tekiller243 folds
+YASAV folds
+axford48 folds
+SevenThousan folds
+B2B_Suckouts raises [0,06 $]
+delboy889 calls [0,06 $]
+GSGS37 folds
+xxflashxxx folds
+** Dealing flop ** [ APik, 3Kreuz, QKaro ]
+B2B_Suckouts bets [0,02 $]
+delboy889 calls [0,02 $]
+** Dealing turn ** [ 2Karo ]
+B2B_Suckouts checks
+delboy889 checks
+** Dealing river ** [ 9Karo ]
+B2B_Suckouts bets [0,20 $]
+delboy889 folds
+** Summary **
+B2B_Suckouts collected [ 0,18 $ ]
+
+
+
+#Game No : 1331893300
+***** 888poker Hand History for Game 1331893300 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:28:50
+Table Yakima 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,68 $ )
+Seat 2: delboy889 ( 5,74 $ )
+Seat 3: GSGS37 ( 1,28 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 2 $ )
+Seat 6: tekiller243 ( 2,89 $ )
+Seat 7: YASAV ( 1,71 $ )
+Seat 9: axford48 ( 0,76 $ )
+Seat 10: SevenThousan ( 2 $ )
+xxflashxxx posts small blind [0,01 $]
+borrs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 10Herz ]
+tekiller243 folds
+YASAV folds
+axford48 folds
+SevenThousan folds
+B2B_Suckouts raises [0,06 $]
+delboy889 calls [0,06 $]
+GSGS37 folds
+xxflashxxx folds
+borrs calls [0,04 $]
+** Dealing flop ** [ 9Herz, KKaro, 4Pik ]
+borrs checks
+B2B_Suckouts checks
+delboy889 checks
+** Dealing turn ** [ AHerz ]
+borrs checks
+B2B_Suckouts bets [0,06 $]
+delboy889 calls [0,06 $]
+borrs folds
+** Dealing river ** [ QPik ]
+B2B_Suckouts checks
+delboy889 checks
+** Summary **
+B2B_Suckouts shows [ KKreuz, 10Herz ]
+delboy889 mucks [ 5Kreuz, 9Kreuz ]
+B2B_Suckouts collected [ 0,30 $ ]
+
+
+
+#Game No : 1331893613
+***** 888poker Hand History for Game 1331893613 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:30:50
+Table Yakima 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,86 $ )
+Seat 2: delboy889 ( 5,62 $ )
+Seat 3: GSGS37 ( 1,28 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,94 $ )
+Seat 6: tekiller243 ( 2,89 $ )
+Seat 7: YASAV ( 1,71 $ )
+Seat 9: axford48 ( 0,76 $ )
+Seat 10: SevenThousan ( 2 $ )
+borrs posts small blind [0,01 $]
+tekiller243 folds
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, KKreuz ]
+axford48 calls [0,02 $]
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+xxflashxxx folds
+borrs calls [0,01 $]
+YASAV checks
+** Dealing flop ** [ 9Karo, KPik, JKaro ]
+borrs checks
+YASAV checks
+axford48 checks
+** Dealing turn ** [ 9Kreuz ]
+borrs bets [0,02 $]
+YASAV folds
+axford48 calls [0,02 $]
+** Dealing river ** [ AHerz ]
+borrs checks
+axford48 checks
+** Summary **
+borrs shows [ JHerz, QKreuz ]
+axford48 mucks [ 4Karo, 5Karo ]
+borrs collected [ 0,10 $ ]
+
+
+
+#Game No : 1331893738
+***** 888poker Hand History for Game 1331893738 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:31:37
+Table Yakima 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,86 $ )
+Seat 2: delboy889 ( 5,62 $ )
+Seat 3: GSGS37 ( 1,28 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 2 $ )
+Seat 7: YASAV ( 1,69 $ )
+Seat 9: axford48 ( 0,72 $ )
+Seat 10: SevenThousan ( 2 $ )
+YASAV posts small blind [0,01 $]
+axford48 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 2Kreuz ]
+SevenThousan folds
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 raises [0,06 $]
+xxflashxxx folds
+borrs folds
+YASAV folds
+axford48 folds
+** Summary **
+GSGS37 did not show his hand
+GSGS37 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331893805
+***** 888poker Hand History for Game 1331893805 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:32:01
+Table Yakima 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,86 $ )
+Seat 2: delboy889 ( 5,62 $ )
+Seat 3: GSGS37 ( 1,31 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 2 $ )
+Seat 7: YASAV ( 1,68 $ )
+Seat 9: axford48 ( 0,70 $ )
+axford48 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 9Herz ]
+delboy889 folds
+GSGS37 folds
+xxflashxxx folds
+borrs calls [0,02 $]
+YASAV folds
+axford48 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 5Herz, 3Herz, 3Karo ]
+B2B_Suckouts bets [0,02 $]
+borrs calls [0,02 $]
+** Dealing turn ** [ 9Pik ]
+B2B_Suckouts bets [0,04 $]
+borrs folds
+** Summary **
+B2B_Suckouts collected [ 0,09 $ ]
+
+
+
+#Game No : 1331893976
+***** 888poker Hand History for Game 1331893976 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:33:05
+Table Yakima 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,91 $ )
+Seat 2: delboy889 ( 5,62 $ )
+Seat 3: GSGS37 ( 1,31 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,96 $ )
+Seat 7: YASAV ( 1,68 $ )
+Seat 9: axford48 ( 0,69 $ )
+B2B_Suckouts posts small blind [0,01 $]
+delboy889 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 2Herz ]
+GSGS37 folds
+xxflashxxx folds
+borrs calls [0,02 $]
+YASAV folds
+axford48 folds
+B2B_Suckouts folds
+delboy889 checks
+** Dealing flop ** [ 4Karo, 4Kreuz, QKaro ]
+delboy889 checks
+borrs checks
+** Dealing turn ** [ 8Kreuz ]
+delboy889 checks
+borrs bets [0,02 $]
+delboy889 calls [0,02 $]
+** Dealing river ** [ 4Herz ]
+delboy889 checks
+borrs checks
+** Summary **
+delboy889 shows [ 9Karo, JHerz ]
+borrs shows [ JKaro, 10Kreuz ]
+borrs collected [ 0,04 $ ]
+delboy889 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331894118
+***** 888poker Hand History for Game 1331894118 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:34:01
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,90 $ )
+Seat 2: delboy889 ( 5,63 $ )
+Seat 3: GSGS37 ( 1,31 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,96 $ )
+Seat 7: YASAV ( 1,68 $ )
+Seat 9: axford48 ( 0,69 $ )
+delboy889 posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, KKaro ]
+xxflashxxx folds
+borrs folds
+YASAV folds
+axford48 calls [0,02 $]
+B2B_Suckouts raises [0,04 $]
+delboy889 calls [0,03 $]
+GSGS37 calls [0,02 $]
+axford48 calls [0,02 $]
+** Dealing flop ** [ 8Karo, 7Karo, AKaro ]
+delboy889 bets [0,06 $]
+GSGS37 calls [0,06 $]
+axford48 calls [0,06 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing turn ** [ JKaro ]
+delboy889 checks
+GSGS37 checks
+axford48 bets [0,02 $]
+B2B_Suckouts raises [0,16 $]
+delboy889 folds
+GSGS37 folds
+axford48 calls [0,14 $]
+** Dealing river ** [ 3Herz ]
+axford48 checks
+B2B_Suckouts bets [2,64 $]
+axford48 calls [0,43 $]
+** Summary **
+B2B_Suckouts shows [ 4Karo, KKaro ]
+axford48 shows [ JPik, 9Karo ]
+B2B_Suckouts collected [ 1,49 $ ]
+
+
+
+#Game No : 1331894330
+***** 888poker Hand History for Game 1331894330 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:35:16
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,70 $ )
+Seat 2: delboy889 ( 5,53 $ )
+Seat 3: GSGS37 ( 1,21 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,96 $ )
+Seat 7: YASAV ( 1,68 $ )
+Seat 9: axford48 ( 0,80 $ )
+Seat 10: kep139294 ( 0,80 $ )
+GSGS37 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+kep139294 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 8Karo ]
+borrs folds
+YASAV folds
+axford48 folds
+kep139294 checks
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+xxflashxxx checks
+** Dealing flop ** [ JHerz, 4Herz, JPik ]
+xxflashxxx checks
+kep139294 checks
+** Dealing turn ** [ QKaro ]
+xxflashxxx checks
+kep139294 bets [0,04 $]
+xxflashxxx folds
+** Summary **
+kep139294 collected [ 0,05 $ ]
+
+
+
+#Game No : 1331894477
+***** 888poker Hand History for Game 1331894477 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:36:09
+Table Yakima 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,70 $ )
+Seat 2: delboy889 ( 5,53 $ )
+Seat 3: GSGS37 ( 1,20 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,96 $ )
+Seat 7: YASAV ( 1,68 $ )
+Seat 9: axford48 ( 0,80 $ )
+Seat 10: kep139294 ( 0,83 $ )
+xxflashxxx posts small blind [0,01 $]
+borrs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, KPik ]
+YASAV folds
+axford48 folds
+kep139294 raises [0,04 $]
+B2B_Suckouts folds
+delboy889 calls [0,04 $]
+GSGS37 folds
+xxflashxxx folds
+borrs calls [0,02 $]
+** Dealing flop ** [ 10Kreuz, QKaro, 3Kreuz ]
+borrs bets [0,08 $]
+kep139294 calls [0,08 $]
+delboy889 calls [0,08 $]
+** Dealing turn ** [ 5Kreuz ]
+borrs bets [0,18 $]
+kep139294 folds
+delboy889 calls [0,18 $]
+** Dealing river ** [ AKreuz ]
+borrs checks
+delboy889 checks
+** Summary **
+borrs shows [ 10Herz, 3Karo ]
+delboy889 shows [ QPik, JKreuz ]
+delboy889 collected [ 0,69 $ ]
+
+
+
+#Game No : 1331894685
+***** 888poker Hand History for Game 1331894685 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:37:29
+Table Yakima 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,70 $ )
+Seat 2: delboy889 ( 5,92 $ )
+Seat 3: GSGS37 ( 1,20 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,66 $ )
+Seat 6: SevenThousan ( 2 $ )
+Seat 7: YASAV ( 1,68 $ )
+Seat 10: kep139294 ( 0,71 $ )
+borrs posts small blind [0,01 $]
+SevenThousan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, APik ]
+YASAV folds
+kep139294 folds
+B2B_Suckouts raises [0,04 $]
+delboy889 folds
+GSGS37 folds
+xxflashxxx folds
+borrs calls [0,03 $]
+SevenThousan folds
+** Dealing flop ** [ 7Karo, 9Herz, 8Pik ]
+borrs checks
+B2B_Suckouts bets [0,02 $]
+borrs raises [0,08 $]
+B2B_Suckouts folds
+** Summary **
+borrs collected [ 0,14 $ ]
+
+
+
+#Game No : 1331894852
+***** 888poker Hand History for Game 1331894852 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:38:34
+Table Yakima 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,64 $ )
+Seat 2: delboy889 ( 5,92 $ )
+Seat 3: GSGS37 ( 1,20 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,74 $ )
+Seat 6: SevenThousan ( 2 $ )
+Seat 7: YASAV ( 1,68 $ )
+Seat 10: kep139294 ( 0,71 $ )
+SevenThousan posts small blind [0,01 $]
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, AHerz ]
+kep139294 raises [0,04 $]
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 calls [0,04 $]
+xxflashxxx folds
+borrs folds
+SevenThousan folds
+YASAV calls [0,02 $]
+** Dealing flop ** [ QKreuz, 3Herz, JHerz ]
+YASAV checks
+kep139294 bets [0,06 $]
+GSGS37 calls [0,06 $]
+YASAV calls [0,06 $]
+** Dealing turn ** [ 8Herz ]
+YASAV checks
+kep139294 bets [0,17 $]
+GSGS37 calls [0,17 $]
+YASAV folds
+** Dealing river ** [ AKreuz ]
+kep139294 bets [0,32 $]
+GSGS37 calls [0,32 $]
+** Summary **
+kep139294 shows [ 9Karo, 10Pik ]
+GSGS37 mucks [ 8Kreuz, JKreuz ]
+kep139294 collected [ 1,21 $ ]
+
+
+
+#Game No : 1331895046
+***** 888poker Hand History for Game 1331895046 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:39:48
+Table Yakima 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,64 $ )
+Seat 2: delboy889 ( 5,92 $ )
+Seat 3: GSGS37 ( 0,61 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,74 $ )
+Seat 6: SevenThousan ( 2 $ )
+Seat 7: YASAV ( 1,58 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: kep139294 ( 1,33 $ )
+YASAV posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, APik ]
+kep139294 folds
+B2B_Suckouts raises [0,06 $]
+delboy889 calls [0,06 $]
+GSGS37 folds
+xxflashxxx folds
+borrs calls [0,06 $]
+SevenThousan calls [0,06 $]
+YASAV folds
+gimeurchips folds
+** Dealing flop ** [ 5Pik, 3Kreuz, 2Karo ]
+B2B_Suckouts checks
+delboy889 checks
+borrs checks
+SevenThousan checks
+** Dealing turn ** [ 9Kreuz ]
+B2B_Suckouts bets [0,08 $]
+delboy889 calls [0,08 $]
+borrs folds
+SevenThousan folds
+** Dealing river ** [ 7Kreuz ]
+B2B_Suckouts checks
+delboy889 checks
+** Summary **
+B2B_Suckouts shows [ KHerz, APik ]
+delboy889 mucks [ QHerz, AKreuz ]
+B2B_Suckouts collected [ 0,41 $ ]
+
+
+
+#Game No : 1331895352
+***** 888poker Hand History for Game 1331895352 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:41:34
+Table Yakima 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,91 $ )
+Seat 2: delboy889 ( 5,78 $ )
+Seat 3: GSGS37 ( 0,61 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,68 $ )
+Seat 6: SevenThousan ( 2 $ )
+Seat 7: YASAV ( 1,57 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: kep139294 ( 1,33 $ )
+gimeurchips posts small blind [0,01 $]
+kep139294 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 9Kreuz ]
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+xxflashxxx folds
+borrs folds
+SevenThousan folds
+YASAV folds
+gimeurchips raises [0,05 $]
+kep139294 calls [0,04 $]
+** Dealing flop ** [ 6Karo, 10Kreuz, QKaro ]
+gimeurchips bets [0,04 $]
+kep139294 calls [0,04 $]
+** Dealing turn ** [ 8Herz ]
+gimeurchips checks
+kep139294 bets [0,08 $]
+gimeurchips calls [0,08 $]
+** Dealing river ** [ 2Kreuz ]
+gimeurchips checks
+kep139294 checks
+** Summary **
+gimeurchips shows [ 10Herz, AKaro ]
+kep139294 mucks [ 6Pik, KKaro ]
+gimeurchips collected [ 0,34 $ ]
+
+
+
+#Game No : 1331895510
+***** 888poker Hand History for Game 1331895510 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:42:29
+Table Yakima 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,91 $ )
+Seat 2: delboy889 ( 5,78 $ )
+Seat 3: GSGS37 ( 0,61 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,68 $ )
+Seat 6: SevenThousan ( 2 $ )
+Seat 7: YASAV ( 1,57 $ )
+Seat 9: gimeurchips ( 2,16 $ )
+Seat 10: kep139294 ( 1,15 $ )
+kep139294 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 6Kreuz ]
+delboy889 raises [0,04 $]
+GSGS37 folds
+xxflashxxx folds
+borrs folds
+SevenThousan folds
+YASAV folds
+gimeurchips folds
+kep139294 calls [0,03 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 9Pik, AKaro, 6Pik ]
+kep139294 checks
+B2B_Suckouts checks
+delboy889 bets [0,08 $]
+kep139294 folds
+B2B_Suckouts folds
+** Summary **
+delboy889 did not show his hand
+delboy889 collected [ 0,12 $ ]
+
+
+
+#Game No : 1331895658
+***** 888poker Hand History for Game 1331895658 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:43:19
+Table Yakima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,87 $ )
+Seat 2: delboy889 ( 5,86 $ )
+Seat 3: GSGS37 ( 0,61 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,68 $ )
+Seat 6: SevenThousan ( 2 $ )
+Seat 7: YASAV ( 1,57 $ )
+Seat 9: gimeurchips ( 2,16 $ )
+Seat 10: kep139294 ( 1,11 $ )
+B2B_Suckouts posts small blind [0,01 $]
+delboy889 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 5Kreuz ]
+GSGS37 folds
+xxflashxxx folds
+borrs folds
+SevenThousan folds
+YASAV folds
+gimeurchips folds
+kep139294 folds
+B2B_Suckouts folds
+** Summary **
+delboy889 did not show his hand
+delboy889 collected [ 0,03 $ ]
+
+
+
+#Game No : 1331895714
+***** 888poker Hand History for Game 1331895714 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:43:39
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,86 $ )
+Seat 2: delboy889 ( 5,87 $ )
+Seat 3: GSGS37 ( 0,61 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,68 $ )
+Seat 6: SevenThousan ( 2 $ )
+Seat 7: YASAV ( 1,57 $ )
+Seat 9: gimeurchips ( 2,16 $ )
+Seat 10: kep139294 ( 1,11 $ )
+delboy889 posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 3Kreuz ]
+xxflashxxx folds
+borrs folds
+SevenThousan folds
+YASAV raises [0,06 $]
+gimeurchips folds
+kep139294 folds
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+** Summary **
+YASAV did not show his hand
+YASAV collected [ 0,05 $ ]
+
+
+
+#Game No : 1331895798
+***** 888poker Hand History for Game 1331895798 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:44:08
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,86 $ )
+Seat 2: delboy889 ( 5,86 $ )
+Seat 3: GSGS37 ( 0,59 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,68 $ )
+Seat 6: SevenThousan ( 2 $ )
+Seat 7: YASAV ( 1,60 $ )
+Seat 9: gimeurchips ( 2,16 $ )
+Seat 10: kep139294 ( 1,11 $ )
+GSGS37 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, JPik ]
+borrs folds
+SevenThousan folds
+YASAV folds
+gimeurchips folds
+kep139294 raises [0,05 $]
+B2B_Suckouts raises [0,15 $]
+delboy889 calls [0,15 $]
+GSGS37 folds
+xxflashxxx folds
+kep139294 calls [0,10 $]
+** Dealing flop ** [ KKreuz, 10Herz, AKreuz ]
+kep139294 checks
+B2B_Suckouts bets [0,02 $]
+delboy889 raises [0,10 $]
+kep139294 calls [0,10 $]
+B2B_Suckouts calls [0,08 $]
+** Dealing turn ** [ 6Pik ]
+kep139294 checks
+B2B_Suckouts checks
+delboy889 bets [0,10 $]
+kep139294 calls [0,10 $]
+B2B_Suckouts folds
+** Dealing river ** [ KKaro ]
+kep139294 checks
+delboy889 bets [0,10 $]
+kep139294 calls [0,10 $]
+** Summary **
+delboy889 shows [ 5Herz, AHerz ]
+kep139294 mucks [ QHerz, 10Karo ]
+delboy889 collected [ 1,11 $ ]
+
+
+
+#Game No : 1331896094
+***** 888poker Hand History for Game 1331896094 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:45:48
+Table Yakima 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,61 $ )
+Seat 2: delboy889 ( 6,52 $ )
+Seat 3: GSGS37 ( 0,58 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,68 $ )
+Seat 6: SoveTnik90 ( 2 $ )
+Seat 7: YASAV ( 1,60 $ )
+Seat 9: gimeurchips ( 2,16 $ )
+Seat 10: kep139294 ( 0,66 $ )
+xxflashxxx posts small blind [0,01 $]
+borrs posts big blind [0,02 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, JKreuz ]
+SoveTnik90 checks
+YASAV folds
+gimeurchips raises [0,09 $]
+kep139294 calls [0,09 $]
+B2B_Suckouts folds
+delboy889 folds
+GSGS37 folds
+xxflashxxx folds
+borrs calls [0,07 $]
+SoveTnik90 folds
+** Dealing flop ** [ 8Kreuz, 8Pik, 4Pik ]
+borrs checks
+gimeurchips bets [0,22 $]
+kep139294 raises [0,44 $]
+borrs folds
+gimeurchips raises [1,10 $]
+kep139294 calls [0,13 $]
+** Dealing turn ** [ 4Kreuz ]
+** Dealing river ** [ 4Karo ]
+** Summary **
+gimeurchips shows [ 10Kreuz, 10Karo ]
+kep139294 shows [ APik, 6Pik ]
+gimeurchips collected [ 1,35 $ ]
+
+
+
+#Game No : 1331896266
+***** 888poker Hand History for Game 1331896266 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:46:43
+Table Yakima 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 3,61 $ )
+Seat 3: GSGS37 ( 0,58 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,59 $ )
+Seat 6: SoveTnik90 ( 1,98 $ )
+Seat 7: YASAV ( 1,60 $ )
+Seat 9: gimeurchips ( 2,85 $ )
+borrs posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 7Herz ]
+YASAV folds
+gimeurchips folds
+B2B_Suckouts folds
+GSGS37 folds
+xxflashxxx raises [0,04 $]
+borrs calls [0,03 $]
+SoveTnik90 folds
+** Dealing flop ** [ 5Herz, 10Pik, AHerz ]
+borrs checks
+xxflashxxx checks
+** Dealing turn ** [ 8Karo ]
+borrs checks
+xxflashxxx checks
+** Dealing river ** [ QPik ]
+borrs checks
+xxflashxxx checks
+** Summary **
+borrs shows [ KPik, QKreuz ]
+xxflashxxx mucks [ 5Kreuz, JKreuz ]
+borrs collected [ 0,10 $ ]
+
+
+
+#Game No : 1331896373
+***** 888poker Hand History for Game 1331896373 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:47:19
+Table Yakima 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,61 $ )
+Seat 3: GSGS37 ( 0,58 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,65 $ )
+Seat 6: SoveTnik90 ( 1,96 $ )
+Seat 7: YASAV ( 1,60 $ )
+Seat 9: gimeurchips ( 2,85 $ )
+Seat 10: kep139294 ( 0,80 $ )
+SoveTnik90 posts small blind [0,01 $]
+YASAV folds
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, JKreuz ]
+kep139294 folds
+B2B_Suckouts folds
+GSGS37 folds
+xxflashxxx folds
+borrs folds
+SoveTnik90 calls [0,01 $]
+gimeurchips checks
+** Dealing flop ** [ 3Pik, AKreuz, 5Pik ]
+SoveTnik90 bets [0,04 $]
+gimeurchips folds
+** Summary **
+SoveTnik90 collected [ 0,04 $ ]
+
+
+
+#Game No : 1331896443
+***** 888poker Hand History for Game 1331896443 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:47:44
+Table Yakima 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 3,61 $ )
+Seat 3: GSGS37 ( 0,58 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,65 $ )
+Seat 6: SoveTnik90 ( 1,98 $ )
+Seat 9: gimeurchips ( 2,83 $ )
+Seat 10: kep139294 ( 0,80 $ )
+gimeurchips posts small blind [0,01 $]
+kep139294 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 8Pik ]
+B2B_Suckouts folds
+GSGS37 raises [0,06 $]
+xxflashxxx folds
+borrs folds
+SoveTnik90 folds
+gimeurchips folds
+kep139294 calls [0,04 $]
+** Dealing flop ** [ QHerz, 2Kreuz, KKaro ]
+kep139294 checks
+GSGS37 checks
+** Dealing turn ** [ 7Karo ]
+kep139294 checks
+GSGS37 bets [0,06 $]
+kep139294 calls [0,06 $]
+** Dealing river ** [ 3Pik ]
+kep139294 checks
+GSGS37 bets [0,12 $]
+kep139294 folds
+** Summary **
+GSGS37 collected [ 0,24 $ ]
+
+
+
+#Game No : 1331896650
+***** 888poker Hand History for Game 1331896650 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:48:49
+Table Yakima 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 3,61 $ )
+Seat 3: GSGS37 ( 0,70 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,65 $ )
+Seat 6: SoveTnik90 ( 1,98 $ )
+Seat 9: gimeurchips ( 2,82 $ )
+Seat 10: kep139294 ( 0,68 $ )
+kep139294 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 7Karo ]
+GSGS37 folds
+xxflashxxx folds
+borrs raises [0,04 $]
+SoveTnik90 folds
+gimeurchips folds
+kep139294 raises [0,17 $]
+B2B_Suckouts folds
+borrs calls [0,14 $]
+** Dealing flop ** [ 9Herz, 2Herz, 4Herz ]
+kep139294 bets [0,19 $]
+borrs folds
+** Summary **
+kep139294 collected [ 0,36 $ ]
+
+
+
+#Game No : 1331896833
+***** 888poker Hand History for Game 1331896833 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:49:47
+Table Yakima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,59 $ )
+Seat 2: defmoon ( 2 $ )
+Seat 3: GSGS37 ( 0,70 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,47 $ )
+Seat 6: SoveTnik90 ( 1,98 $ )
+Seat 9: gimeurchips ( 2,82 $ )
+Seat 10: kep139294 ( 0,86 $ )
+B2B_Suckouts posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, AKaro ]
+GSGS37 folds
+xxflashxxx calls [0,02 $]
+borrs calls [0,02 $]
+SoveTnik90 folds
+gimeurchips folds
+kep139294 folds
+B2B_Suckouts raises [0,05 $]
+defmoon calls [0,04 $]
+xxflashxxx calls [0,04 $]
+borrs calls [0,04 $]
+** Dealing flop ** [ 9Karo, 6Karo, 8Herz ]
+B2B_Suckouts bets [0,02 $]
+defmoon raises [0,16 $]
+xxflashxxx folds
+borrs folds
+B2B_Suckouts folds
+** Summary **
+defmoon collected [ 0,27 $ ]
+
+
+
+#Game No : 1331897142
+***** 888poker Hand History for Game 1331897142 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:51:33
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,51 $ )
+Seat 2: defmoon ( 2,19 $ )
+Seat 3: GSGS37 ( 0,70 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,41 $ )
+Seat 6: SoveTnik90 ( 1,98 $ )
+Seat 9: gimeurchips ( 2,82 $ )
+Seat 10: kep139294 ( 0,86 $ )
+defmoon posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, AHerz ]
+xxflashxxx folds
+borrs folds
+SoveTnik90 folds
+gimeurchips folds
+kep139294 raises [0,05 $]
+B2B_Suckouts folds
+defmoon calls [0,04 $]
+GSGS37 folds
+** Dealing flop ** [ APik, AKreuz, AKaro ]
+defmoon checks
+kep139294 bets [0,07 $]
+defmoon folds
+** Summary **
+kep139294 collected [ 0,12 $ ]
+
+
+
+#Game No : 1331897224
+***** 888poker Hand History for Game 1331897224 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:52:02
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,51 $ )
+Seat 2: defmoon ( 2,14 $ )
+Seat 3: GSGS37 ( 0,68 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,41 $ )
+Seat 6: SoveTnik90 ( 1,98 $ )
+Seat 9: gimeurchips ( 2,82 $ )
+Seat 10: kep139294 ( 0,93 $ )
+GSGS37 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 4Herz ]
+borrs calls [0,02 $]
+SoveTnik90 folds
+gimeurchips folds
+kep139294 calls [0,02 $]
+B2B_Suckouts folds
+defmoon folds
+GSGS37 calls [0,01 $]
+xxflashxxx checks
+** Dealing flop ** [ 3Pik, 10Pik, 8Karo ]
+GSGS37 checks
+xxflashxxx checks
+borrs bets [0,04 $]
+kep139294 calls [0,04 $]
+GSGS37 folds
+xxflashxxx calls [0,04 $]
+** Dealing turn ** [ 4Karo ]
+xxflashxxx checks
+borrs checks
+kep139294 bets [0,12 $]
+xxflashxxx folds
+borrs calls [0,12 $]
+** Dealing river ** [ 8Herz ]
+borrs bets [0,22 $]
+kep139294 folds
+** Summary **
+borrs collected [ 0,42 $ ]
+
+
+
+#Game No : 1331897505
+***** 888poker Hand History for Game 1331897505 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:53:30
+Table Yakima 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,51 $ )
+Seat 2: defmoon ( 2,14 $ )
+Seat 3: GSGS37 ( 0,66 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,65 $ )
+Seat 6: SoveTnik90 ( 1,98 $ )
+Seat 9: gimeurchips ( 2,82 $ )
+Seat 10: kep139294 ( 0,75 $ )
+xxflashxxx posts small blind [0,01 $]
+borrs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 2Pik ]
+SoveTnik90 folds
+gimeurchips folds
+kep139294 raises [0,04 $]
+B2B_Suckouts folds
+defmoon folds
+GSGS37 folds
+xxflashxxx folds
+borrs raises [0,08 $]
+kep139294 calls [0,06 $]
+** Dealing flop ** [ JHerz, 9Herz, 5Kreuz ]
+borrs bets [0,10 $]
+kep139294 calls [0,10 $]
+** Dealing turn ** [ 8Herz ]
+borrs bets [1,45 $]
+kep139294 folds
+** Summary **
+borrs collected [ 0,39 $ ]
+
+
+
+#Game No : 1331897650
+***** 888poker Hand History for Game 1331897650 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:54:18
+Table Yakima 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,51 $ )
+Seat 2: defmoon ( 2,14 $ )
+Seat 3: GSGS37 ( 0,66 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,84 $ )
+Seat 6: SoveTnik90 ( 1,98 $ )
+Seat 9: gimeurchips ( 2,82 $ )
+Seat 10: kep139294 ( 0,55 $ )
+borrs posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, JPik ]
+gimeurchips folds
+kep139294 folds
+B2B_Suckouts raises [0,06 $]
+defmoon folds
+GSGS37 folds
+xxflashxxx folds
+borrs folds
+SoveTnik90 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 1331897706
+***** 888poker Hand History for Game 1331897706 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:54:36
+Table Yakima 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,54 $ )
+Seat 2: defmoon ( 2,14 $ )
+Seat 3: GSGS37 ( 0,66 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,83 $ )
+Seat 6: SoveTnik90 ( 1,96 $ )
+Seat 7: Moro94 ( 2 $ )
+Seat 9: gimeurchips ( 2,82 $ )
+Seat 10: kep139294 ( 0,55 $ )
+SoveTnik90 posts small blind [0,01 $]
+Moro94 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 8Herz ]
+gimeurchips folds
+kep139294 folds
+B2B_Suckouts folds
+defmoon folds
+GSGS37 folds
+xxflashxxx folds
+borrs folds
+SoveTnik90 folds
+** Summary **
+Moro94 did not show his hand
+Moro94 collected [ 0,03 $ ]
+
+
+
+#Game No : 1331897759
+***** 888poker Hand History for Game 1331897759 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:54:54
+Table Yakima 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,54 $ )
+Seat 2: defmoon ( 2,14 $ )
+Seat 3: GSGS37 ( 0,66 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,83 $ )
+Seat 6: SoveTnik90 ( 1,95 $ )
+Seat 7: Moro94 ( 2,01 $ )
+Seat 9: gimeurchips ( 2,82 $ )
+Seat 10: kep139294 ( 0,55 $ )
+Moro94 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 5Herz ]
+kep139294 raises [0,05 $]
+B2B_Suckouts folds
+defmoon folds
+GSGS37 folds
+xxflashxxx folds
+borrs folds
+SoveTnik90 calls [0,05 $]
+Moro94 folds
+gimeurchips folds
+** Dealing flop ** [ 7Karo, QPik, 9Kreuz ]
+kep139294 bets [0,08 $]
+SoveTnik90 folds
+** Summary **
+kep139294 did not show his hand
+kep139294 collected [ 0,13 $ ]
+
+
+
+#Game No : 1331897901
+***** 888poker Hand History for Game 1331897901 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:55:37
+Table Yakima 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,54 $ )
+Seat 2: defmoon ( 2,14 $ )
+Seat 3: GSGS37 ( 0,66 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 1,83 $ )
+Seat 7: Moro94 ( 2 $ )
+Seat 9: gimeurchips ( 2,80 $ )
+Seat 10: kep139294 ( 0,63 $ )
+gimeurchips posts small blind [0,01 $]
+kep139294 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 4Pik ]
+B2B_Suckouts folds
+defmoon folds
+GSGS37 folds
+xxflashxxx folds
+borrs calls [0,02 $]
+Moro94 raises [0,06 $]
+gimeurchips folds
+kep139294 calls [0,04 $]
+borrs calls [0,04 $]
+** Dealing flop ** [ 6Kreuz, 9Herz, 8Karo ]
+kep139294 checks
+borrs bets [0,12 $]
+Moro94 folds
+kep139294 calls [0,12 $]
+** Dealing turn ** [ KKaro ]
+kep139294 checks
+borrs bets [0,28 $]
+kep139294 calls [0,28 $]
+** Dealing river ** [ APik ]
+kep139294 bets [0,17 $]
+borrs calls [0,17 $]
+** Summary **
+borrs shows [ KHerz, QHerz ]
+kep139294 shows [ 7Herz, 8Kreuz ]
+borrs collected [ 1,25 $ ]
+
+
+
+#Game No : 1331898182
+***** 888poker Hand History for Game 1331898182 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:57:01
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 3,54 $ )
+Seat 2: defmoon ( 2,14 $ )
+Seat 3: GSGS37 ( 0,66 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 2,45 $ )
+Seat 7: Moro94 ( 1,94 $ )
+defmoon posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 8Karo ]
+xxflashxxx folds
+borrs folds
+Moro94 folds
+B2B_Suckouts folds
+defmoon raises [0,04 $]
+GSGS37 calls [0,03 $]
+** Dealing flop ** [ 4Herz, 4Kreuz, 7Karo ]
+defmoon bets [0,05 $]
+GSGS37 calls [0,05 $]
+** Dealing turn ** [ 4Pik ]
+defmoon bets [0,13 $]
+GSGS37 calls [0,13 $]
+** Dealing river ** [ APik ]
+defmoon bets [0,46 $]
+GSGS37 calls [0,43 $]
+** Summary **
+defmoon shows [ 3Karo, 5Kreuz ]
+GSGS37 shows [ 5Pik, AKaro ]
+GSGS37 collected [ 1,24 $ ]
+
+
+
+#Game No : 1331898351
+***** 888poker Hand History for Game 1331898351 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:57:51
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 3,54 $ )
+Seat 2: defmoon ( 1,48 $ )
+Seat 3: GSGS37 ( 1,24 $ )
+Seat 4: xxflashxxx ( 2 $ )
+Seat 5: borrs ( 2,45 $ )
+Seat 6: SinisterKid ( 2 $ )
+Seat 7: Moro94 ( 1,94 $ )
+GSGS37 posts small blind [0,01 $]
+xxflashxxx folds
+borrs folds
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 3Kreuz ]
+Moro94 raises [0,06 $]
+B2B_Suckouts folds
+defmoon folds
+GSGS37 calls [0,05 $]
+SinisterKid folds
+** Dealing flop ** [ 10Kreuz, AKaro, 9Kreuz ]
+GSGS37 checks
+Moro94 bets [0,09 $]
+GSGS37 calls [0,09 $]
+** Dealing turn ** [ 5Pik ]
+GSGS37 checks
+Moro94 bets [0,21 $]
+GSGS37 folds
+** Summary **
+Moro94 collected [ 0,30 $ ]
+
+
+
+#Game No : 1331898539
+***** 888poker Hand History for Game 1331898539 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:58:53
+Table Yakima 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 1: B2B_Suckouts ( 3,54 $ )
+Seat 2: defmoon ( 1,48 $ )
+Seat 3: GSGS37 ( 1,09 $ )
+Seat 6: SinisterKid ( 2 $ )
+Seat 7: Moro94 ( 2,09 $ )
+SinisterKid posts small blind [0,01 $]
+Moro94 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, JKaro ]
+B2B_Suckouts folds
+defmoon folds
+GSGS37 folds
+SinisterKid raises [0,07 $]
+Moro94 folds
+** Summary **
+SinisterKid collected [ 0,04 $ ]
+
+
+
+#Game No : 1331898583
+***** 888poker Hand History for Game 1331898583 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:59:08
+Table Yakima 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 3,54 $ )
+Seat 2: defmoon ( 1,48 $ )
+Seat 3: GSGS37 ( 1,09 $ )
+Seat 6: SinisterKid ( 2,02 $ )
+Seat 7: Moro94 ( 2,07 $ )
+Seat 9: Woffinden ( 2 $ )
+Moro94 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, AHerz ]
+B2B_Suckouts raises [0,06 $]
+defmoon folds
+GSGS37 calls [0,06 $]
+SinisterKid folds
+Moro94 folds
+Woffinden folds
+** Dealing flop ** [ 2Karo, 9Herz, JPik ]
+B2B_Suckouts checks
+GSGS37 bets [0,07 $]
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ 10Karo ]
+B2B_Suckouts bets [0,09 $]
+GSGS37 raises [0,32 $]
+B2B_Suckouts folds
+** Summary **
+GSGS37 collected [ 0,45 $ ]
+
+
+
+#Game No : 1331898741
+***** 888poker Hand History for Game 1331898741 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:59:57
+Table Yakima 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 3,32 $ )
+Seat 2: defmoon ( 1,48 $ )
+Seat 3: GSGS37 ( 1,32 $ )
+Seat 6: SinisterKid ( 2,02 $ )
+Seat 7: Moro94 ( 2,06 $ )
+Seat 9: Woffinden ( 2 $ )
+Seat 10: QuadraD ( 2 $ )
+Woffinden posts small blind [0,01 $]
+QuadraD posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, AKreuz ]
+B2B_Suckouts folds
+defmoon folds
+GSGS37 calls [0,02 $]
+SinisterKid raises [0,08 $]
+Moro94 folds
+Woffinden folds
+QuadraD folds
+GSGS37 calls [0,06 $]
+** Dealing flop ** [ 8Herz, QKreuz, JPik ]
+GSGS37 checks
+SinisterKid checks
+** Dealing turn ** [ 7Kreuz ]
+GSGS37 bets [0,09 $]
+SinisterKid folds
+** Summary **
+GSGS37 collected [ 0,18 $ ]
+
+
+
+#Game No : 1331898928
+***** 888poker Hand History for Game 1331898928 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:00:57
+Table Yakima 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,32 $ )
+Seat 2: defmoon ( 1,48 $ )
+Seat 3: GSGS37 ( 1,42 $ )
+Seat 5: berniebolt44 ( 1,40 $ )
+Seat 6: SinisterKid ( 2 $ )
+Seat 7: Moro94 ( 2,06 $ )
+Seat 9: Woffinden ( 2 $ )
+Seat 10: QuadraD ( 2 $ )
+QuadraD posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+berniebolt44 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, QHerz ]
+defmoon raises [0,08 $]
+GSGS37 folds
+berniebolt44 folds
+SinisterKid folds
+Moro94 folds
+Woffinden folds
+QuadraD folds
+B2B_Suckouts folds
+** Summary **
+defmoon collected [ 0,07 $ ]
+
+
+
+#Game No : 1331899003
+***** 888poker Hand History for Game 1331899003 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:01:21
+Table Yakima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,30 $ )
+Seat 2: defmoon ( 1,53 $ )
+Seat 3: GSGS37 ( 1,42 $ )
+Seat 5: berniebolt44 ( 1,38 $ )
+Seat 6: SinisterKid ( 2 $ )
+Seat 7: Moro94 ( 2,06 $ )
+Seat 9: Woffinden ( 2 $ )
+Seat 10: QuadraD ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, JKaro ]
+GSGS37 folds
+berniebolt44 calls [0,02 $]
+SinisterKid folds
+Moro94 folds
+Woffinden folds
+QuadraD folds
+B2B_Suckouts raises [0,05 $]
+defmoon raises [0,17 $]
+berniebolt44 calls [0,17 $]
+B2B_Suckouts calls [0,13 $]
+** Dealing flop ** [ 3Kreuz, AKaro, JPik ]
+B2B_Suckouts checks
+defmoon checks
+berniebolt44 checks
+** Dealing turn ** [ 10Herz ]
+B2B_Suckouts bets [0,28 $]
+defmoon calls [0,28 $]
+berniebolt44 folds
+** Dealing river ** [ 4Herz ]
+B2B_Suckouts bets [1,06 $]
+defmoon folds
+** Summary **
+B2B_Suckouts collected [ 1,06 $ ]
+
+
+
+#Game No : 1331899392
+***** 888poker Hand History for Game 1331899392 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:03:30
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,89 $ )
+Seat 2: defmoon ( 1,06 $ )
+Seat 3: GSGS37 ( 1,42 $ )
+Seat 5: berniebolt44 ( 1,19 $ )
+Seat 6: SinisterKid ( 2 $ )
+Seat 7: Moro94 ( 2,06 $ )
+Seat 9: Woffinden ( 2 $ )
+Seat 10: QuadraD ( 2 $ )
+defmoon posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 3Herz ]
+berniebolt44 folds
+SinisterKid raises [0,06 $]
+Moro94 folds
+Woffinden folds
+QuadraD calls [0,06 $]
+B2B_Suckouts folds
+defmoon folds
+GSGS37 calls [0,04 $]
+** Dealing flop ** [ 8Karo, 9Kreuz, KHerz ]
+GSGS37 checks
+SinisterKid bets [0,14 $]
+QuadraD folds
+GSGS37 calls [0,14 $]
+** Dealing turn ** [ 7Karo ]
+GSGS37 checks
+SinisterKid bets [0,38 $]
+GSGS37 calls [0,38 $]
+** Dealing river ** [ APik ]
+GSGS37 checks
+SinisterKid checks
+** Summary **
+GSGS37 shows [ 9Herz, 7Herz ]
+SinisterKid shows [ 9Pik, KPik ]
+SinisterKid collected [ 1,16 $ ]
+
+
+
+#Game No : 1331899649
+***** 888poker Hand History for Game 1331899649 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:04:56
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,89 $ )
+Seat 2: defmoon ( 2 $ )
+Seat 3: GSGS37 ( 0,84 $ )
+Seat 5: berniebolt44 ( 1,19 $ )
+Seat 6: SinisterKid ( 2,58 $ )
+Seat 7: Moro94 ( 2,06 $ )
+Seat 9: Woffinden ( 2 $ )
+Seat 10: QuadraD ( 2 $ )
+GSGS37 posts small blind [0,01 $]
+berniebolt44 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 5Herz ]
+SinisterKid folds
+Moro94 folds
+Woffinden folds
+QuadraD folds
+B2B_Suckouts folds
+defmoon raises [0,06 $]
+GSGS37 calls [0,05 $]
+berniebolt44 folds
+** Dealing flop ** [ 6Pik, 3Kreuz, 4Kreuz ]
+GSGS37 checks
+defmoon bets [0,07 $]
+GSGS37 calls [0,07 $]
+** Dealing turn ** [ JPik ]
+GSGS37 checks
+defmoon bets [0,18 $]
+GSGS37 calls [0,18 $]
+** Dealing river ** [ 3Pik ]
+GSGS37 checks
+defmoon bets [0,64 $]
+GSGS37 calls [0,53 $]
+** Summary **
+defmoon shows [ 7Kreuz, QKreuz ]
+GSGS37 shows [ 9Herz, 9Karo ]
+GSGS37 collected [ 1,60 $ ]
+
+
+
+#Game No : 1331899869
+***** 888poker Hand History for Game 1331899869 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:06:06
+Table Yakima 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,89 $ )
+Seat 2: defmoon ( 1,16 $ )
+Seat 3: GSGS37 ( 1,60 $ )
+Seat 5: berniebolt44 ( 1,17 $ )
+Seat 6: SinisterKid ( 2,58 $ )
+Seat 7: Moro94 ( 2,06 $ )
+Seat 9: Woffinden ( 2 $ )
+Seat 10: QuadraD ( 2 $ )
+berniebolt44 posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 3Herz ]
+Moro94 folds
+Woffinden folds
+QuadraD folds
+B2B_Suckouts folds
+defmoon raises [0,06 $]
+GSGS37 folds
+berniebolt44 calls [0,05 $]
+SinisterKid folds
+** Dealing flop ** [ 9Kreuz, KPik, 4Herz ]
+berniebolt44 checks
+defmoon checks
+** Dealing turn ** [ QPik ]
+berniebolt44 bets [0,07 $]
+defmoon raises [0,21 $]
+berniebolt44 calls [0,14 $]
+** Dealing river ** [ 6Herz ]
+berniebolt44 checks
+defmoon checks
+** Summary **
+berniebolt44 shows [ 9Herz, AKreuz ]
+defmoon mucks [ 10Pik, APik ]
+berniebolt44 collected [ 0,53 $ ]
+
+
+
+#Game No : 1331900107
+***** 888poker Hand History for Game 1331900107 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:07:22
+Table Yakima 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,89 $ )
+Seat 2: defmoon ( 0,89 $ )
+Seat 3: GSGS37 ( 1,60 $ )
+Seat 5: berniebolt44 ( 1,43 $ )
+Seat 6: SinisterKid ( 2,56 $ )
+Seat 7: Moro94 ( 2,06 $ )
+Seat 9: Woffinden ( 2 $ )
+Seat 10: QuadraD ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+Moro94 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, AKaro ]
+Woffinden folds
+QuadraD folds
+B2B_Suckouts folds
+defmoon folds
+GSGS37 folds
+berniebolt44 calls [0,02 $]
+SinisterKid folds
+Moro94 checks
+** Dealing flop ** [ 8Karo, 6Kreuz, 2Kreuz ]
+Moro94 bets [0,02 $]
+berniebolt44 calls [0,02 $]
+** Dealing turn ** [ 9Kreuz ]
+Moro94 bets [0,02 $]
+berniebolt44 calls [0,02 $]
+** Dealing river ** [ AKreuz ]
+Moro94 checks
+berniebolt44 checks
+** Summary **
+Moro94 shows [ 2Herz, JKaro ]
+berniebolt44 shows [ 5Pik, 7Pik ]
+berniebolt44 collected [ 0,13 $ ]
+
+
+
+#Game No : 1331900265
+***** 888poker Hand History for Game 1331900265 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:08:11
+Table Yakima 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,89 $ )
+Seat 2: defmoon ( 0,89 $ )
+Seat 3: GSGS37 ( 1,60 $ )
+Seat 5: berniebolt44 ( 1,50 $ )
+Seat 6: SinisterKid ( 2,55 $ )
+Seat 7: Moro94 ( 2 $ )
+Seat 9: Woffinden ( 2 $ )
+Seat 10: QuadraD ( 2 $ )
+Moro94 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, QHerz ]
+QuadraD folds
+B2B_Suckouts folds
+defmoon folds
+GSGS37 folds
+berniebolt44 folds
+SinisterKid folds
+Moro94 calls [0,01 $]
+Woffinden checks
+** Dealing flop ** [ 7Pik, 8Karo, APik ]
+Moro94 checks
+Woffinden checks
+** Dealing turn ** [ 10Pik ]
+Moro94 checks
+Woffinden checks
+** Dealing river ** [ 8Kreuz ]
+Moro94 checks
+Woffinden checks
+** Summary **
+Moro94 shows [ QKreuz, 5Kreuz ]
+Woffinden shows [ 10Karo, 7Herz ]
+Woffinden collected [ 0,04 $ ]
+
+
+
+#Game No : 1331900505
+***** 888poker Hand History for Game 1331900505 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:09:25
+Table Yakima 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,89 $ )
+Seat 2: defmoon ( 0,89 $ )
+Seat 3: GSGS37 ( 1,60 $ )
+Seat 5: berniebolt44 ( 1,50 $ )
+Seat 6: SinisterKid ( 2,55 $ )
+Seat 7: Moro94 ( 1,98 $ )
+Seat 9: Woffinden ( 2,02 $ )
+Seat 10: QuadraD ( 2 $ )
+Woffinden posts small blind [0,01 $]
+QuadraD posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 2Kreuz ]
+B2B_Suckouts folds
+defmoon folds
+GSGS37 folds
+berniebolt44 calls [0,02 $]
+SinisterKid raises [0,08 $]
+Moro94 calls [0,08 $]
+Woffinden folds
+QuadraD folds
+berniebolt44 calls [0,06 $]
+** Dealing flop ** [ 3Pik, 3Herz, 5Pik ]
+berniebolt44 checks
+SinisterKid bets [0,18 $]
+Moro94 calls [0,18 $]
+berniebolt44 folds
+** Dealing turn ** [ AKreuz ]
+SinisterKid checks
+Moro94 bets [0,41 $]
+SinisterKid calls [0,41 $]
+** Dealing river ** [ 10Karo ]
+SinisterKid bets [1,88 $]
+Moro94 calls [1,31 $]
+** Summary **
+SinisterKid shows [ AKaro, 10Pik ]
+Moro94 shows [ JKreuz, JPik ]
+SinisterKid collected [ 3,82 $ ]
+
+
+
+#Game No : 1331900802
+***** 888poker Hand History for Game 1331900802 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:10:58
+Table Yakima 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 3,89 $ )
+Seat 2: defmoon ( 2 $ )
+Seat 3: GSGS37 ( 1,60 $ )
+Seat 5: berniebolt44 ( 1,42 $ )
+Seat 6: SinisterKid ( 4,39 $ )
+Seat 9: Woffinden ( 2,01 $ )
+Seat 10: QuadraD ( 2 $ )
+QuadraD posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 7Kreuz ]
+defmoon raises [0,06 $]
+GSGS37 folds
+berniebolt44 folds
+SinisterKid folds
+Woffinden folds
+QuadraD folds
+B2B_Suckouts folds
+** Summary **
+defmoon collected [ 0,05 $ ]
+
+
+
+#Game No : 1331900875
+***** 888poker Hand History for Game 1331900875 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:11:21
+Table Yakima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,87 $ )
+Seat 2: defmoon ( 2,03 $ )
+Seat 3: GSGS37 ( 1,60 $ )
+Seat 5: berniebolt44 ( 1,42 $ )
+Seat 6: SinisterKid ( 4,39 $ )
+Seat 7: Moro94 ( 2 $ )
+Seat 9: Woffinden ( 2,01 $ )
+Seat 10: QuadraD ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 9Karo ]
+GSGS37 raises [0,04 $]
+berniebolt44 folds
+SinisterKid folds
+Moro94 calls [0,04 $]
+Woffinden folds
+QuadraD folds
+B2B_Suckouts folds
+defmoon calls [0,02 $]
+** Dealing flop ** [ 10Herz, 7Herz, QPik ]
+defmoon checks
+GSGS37 checks
+Moro94 checks
+** Dealing turn ** [ 9Herz ]
+defmoon bets [0,13 $]
+GSGS37 folds
+Moro94 folds
+** Summary **
+defmoon collected [ 0,13 $ ]
+
+
+
+#Game No : 1331901016
+***** 888poker Hand History for Game 1331901016 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:12:06
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,86 $ )
+Seat 2: defmoon ( 2,12 $ )
+Seat 3: GSGS37 ( 1,56 $ )
+Seat 5: berniebolt44 ( 1,42 $ )
+Seat 6: SinisterKid ( 4,39 $ )
+Seat 7: Moro94 ( 1,96 $ )
+Seat 9: Woffinden ( 2,01 $ )
+Seat 10: QuadraD ( 2 $ )
+defmoon posts small blind [0,01 $]
+GSGS37 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 8Kreuz ]
+berniebolt44 folds
+SinisterKid folds
+Moro94 folds
+Woffinden folds
+QuadraD raises [0,06 $]
+B2B_Suckouts folds
+defmoon folds
+GSGS37 calls [0,04 $]
+** Dealing flop ** [ 5Karo, 6Karo, 6Kreuz ]
+GSGS37 checks
+QuadraD bets [0,06 $]
+GSGS37 calls [0,06 $]
+** Dealing turn ** [ 10Pik ]
+GSGS37 checks
+QuadraD bets [0,16 $]
+GSGS37 calls [0,16 $]
+** Dealing river ** [ 3Herz ]
+GSGS37 checks
+QuadraD bets [0,37 $]
+GSGS37 calls [0,37 $]
+** Summary **
+QuadraD shows [ KPik, KKaro ]
+GSGS37 mucks [ 10Herz, AKreuz ]
+QuadraD collected [ 1,23 $ ]
+
+
+
+#Game No : 1331901222
+***** 888poker Hand History for Game 1331901222 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:13:13
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,86 $ )
+Seat 2: defmoon ( 2,11 $ )
+Seat 3: GSGS37 ( 0,91 $ )
+Seat 4: PRO_VEKSINHO ( 1,50 $ )
+Seat 5: berniebolt44 ( 1,42 $ )
+Seat 6: SinisterKid ( 4,39 $ )
+Seat 7: Moro94 ( 1,96 $ )
+Seat 9: Woffinden ( 2,01 $ )
+Seat 10: QuadraD ( 2,58 $ )
+GSGS37 posts small blind [0,01 $]
+PRO_VEKSINHO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 7Kreuz ]
+berniebolt44 calls [0,02 $]
+SinisterKid folds
+Moro94 folds
+Woffinden folds
+QuadraD calls [0,02 $]
+B2B_Suckouts folds
+defmoon raises [0,10 $]
+GSGS37 calls [0,09 $]
+PRO_VEKSINHO folds
+berniebolt44 calls [0,08 $]
+QuadraD calls [0,08 $]
+** Dealing flop ** [ 9Karo, 8Herz, KKreuz ]
+GSGS37 checks
+berniebolt44 checks
+QuadraD checks
+defmoon checks
+** Dealing turn ** [ 7Herz ]
+GSGS37 bets [0,21 $]
+berniebolt44 folds
+QuadraD calls [0,21 $]
+defmoon calls [0,21 $]
+** Dealing river ** [ 8Karo ]
+GSGS37 checks
+QuadraD bets [0,69 $]
+defmoon folds
+GSGS37 folds
+** Summary **
+QuadraD did not show his hand
+QuadraD collected [ 0,99 $ ]
+
+
+
+#Game No : 1331901608
+***** 888poker Hand History for Game 1331901608 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:15:17
+Table Yakima 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,86 $ )
+Seat 2: defmoon ( 1,80 $ )
+Seat 3: GSGS37 ( 0,60 $ )
+Seat 4: PRO_VEKSINHO ( 1,48 $ )
+Seat 5: berniebolt44 ( 1,32 $ )
+Seat 6: SinisterKid ( 4,39 $ )
+Seat 7: Moro94 ( 1,96 $ )
+Seat 9: Woffinden ( 2,01 $ )
+Seat 10: QuadraD ( 3,26 $ )
+PRO_VEKSINHO posts small blind [0,01 $]
+berniebolt44 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, KHerz ]
+SinisterKid folds
+Moro94 folds
+Woffinden raises [0,08 $]
+QuadraD folds
+B2B_Suckouts folds
+defmoon folds
+GSGS37 calls [0,08 $]
+PRO_VEKSINHO folds
+berniebolt44 folds
+** Dealing flop ** [ APik, 8Herz, 9Kreuz ]
+Woffinden bets [0,12 $]
+GSGS37 calls [0,12 $]
+** Dealing turn ** [ 4Kreuz ]
+Woffinden bets [0,28 $]
+GSGS37 folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,41 $ ]
+
+
+
+#Game No : 1331901805
+***** 888poker Hand History for Game 1331901805 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:16:20
+Table Yakima 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,86 $ )
+Seat 2: defmoon ( 1,80 $ )
+Seat 4: PRO_VEKSINHO ( 1,47 $ )
+Seat 5: berniebolt44 ( 1,30 $ )
+Seat 6: SinisterKid ( 4,39 $ )
+Seat 7: Moro94 ( 1,96 $ )
+Seat 9: Woffinden ( 2,22 $ )
+Seat 10: QuadraD ( 3,26 $ )
+berniebolt44 posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 3Karo ]
+Moro94 folds
+Woffinden raises [0,08 $]
+QuadraD folds
+B2B_Suckouts folds
+defmoon folds
+PRO_VEKSINHO folds
+berniebolt44 folds
+SinisterKid folds
+** Summary **
+Woffinden collected [ 0,05 $ ]
+
+
+
+#Game No : 1331901873
+***** 888poker Hand History for Game 1331901873 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:16:43
+Table Yakima 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,86 $ )
+Seat 2: defmoon ( 1,80 $ )
+Seat 4: PRO_VEKSINHO ( 1,47 $ )
+Seat 5: berniebolt44 ( 1,29 $ )
+Seat 6: SinisterKid ( 4,37 $ )
+Seat 7: Moro94 ( 1,96 $ )
+Seat 9: Woffinden ( 2,25 $ )
+Seat 10: QuadraD ( 3,26 $ )
+SinisterKid posts small blind [0,01 $]
+Moro94 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 2Karo ]
+Woffinden raises [0,08 $]
+QuadraD folds
+B2B_Suckouts folds
+defmoon folds
+PRO_VEKSINHO raises [0,27 $]
+berniebolt44 folds
+SinisterKid calls [0,26 $]
+Moro94 folds
+Woffinden folds
+** Dealing flop ** [ JPik, 10Karo, 5Kreuz ]
+SinisterKid checks
+PRO_VEKSINHO bets [0,46 $]
+SinisterKid raises [4,10 $]
+PRO_VEKSINHO calls [0,74 $]
+** Dealing turn ** [ QKaro ]
+** Dealing river ** [ APik ]
+** Summary **
+PRO_VEKSINHO shows [ AKreuz, AKaro ]
+SinisterKid shows [ KHerz, KKaro ]
+SinisterKid collected [ 2,85 $ ]
+
+
+
+#Game No : 1331902097
+***** 888poker Hand History for Game 1331902097 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:17:56
+Table Yakima 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,86 $ )
+Seat 2: defmoon ( 1,80 $ )
+Seat 4: PRO_VEKSINHO ( 1,50 $ )
+Seat 5: berniebolt44 ( 1,29 $ )
+Seat 6: SinisterKid ( 5,75 $ )
+Seat 7: Moro94 ( 1,94 $ )
+Seat 9: Woffinden ( 2,17 $ )
+Seat 10: QuadraD ( 3,26 $ )
+Moro94 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 6Herz ]
+QuadraD folds
+B2B_Suckouts folds
+defmoon raises [0,06 $]
+PRO_VEKSINHO folds
+berniebolt44 folds
+SinisterKid folds
+Moro94 folds
+Woffinden folds
+** Summary **
+defmoon collected [ 0,05 $ ]
+
+
+
+#Game No : 1331902181
+***** 888poker Hand History for Game 1331902181 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:18:24
+Table Yakima 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,86 $ )
+Seat 2: defmoon ( 1,83 $ )
+Seat 4: PRO_VEKSINHO ( 1,50 $ )
+Seat 5: berniebolt44 ( 1,29 $ )
+Seat 6: SinisterKid ( 5,75 $ )
+Seat 7: Moro94 ( 1,93 $ )
+Seat 9: Woffinden ( 2,15 $ )
+Seat 10: QuadraD ( 3,26 $ )
+Woffinden posts small blind [0,01 $]
+QuadraD posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, KHerz ]
+B2B_Suckouts folds
+defmoon folds
+PRO_VEKSINHO folds
+berniebolt44 folds
+SinisterKid raises [0,06 $]
+Moro94 folds
+Woffinden folds
+QuadraD folds
+** Summary **
+SinisterKid collected [ 0,05 $ ]
+
+
+
+#Game No : 1331902272
+***** 888poker Hand History for Game 1331902272 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:18:50
+Table Yakima 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,86 $ )
+Seat 2: defmoon ( 1,83 $ )
+Seat 4: PRO_VEKSINHO ( 1,50 $ )
+Seat 5: berniebolt44 ( 1,29 $ )
+Seat 6: SinisterKid ( 5,78 $ )
+Seat 7: Moro94 ( 1,93 $ )
+Seat 9: Woffinden ( 2,14 $ )
+Seat 10: QuadraD ( 3,24 $ )
+QuadraD posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 5Pik ]
+defmoon folds
+PRO_VEKSINHO folds
+berniebolt44 folds
+SinisterKid folds
+Moro94 folds
+Woffinden folds
+QuadraD raises [0,05 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ QPik, JPik, 6Pik ]
+QuadraD checks
+B2B_Suckouts bets [0,06 $]
+QuadraD folds
+** Summary **
+B2B_Suckouts collected [ 0,12 $ ]
+
+
+
+#Game No : 1331902414
+***** 888poker Hand History for Game 1331902414 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:19:35
+Table Yakima 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,92 $ )
+Seat 2: defmoon ( 1,83 $ )
+Seat 4: PRO_VEKSINHO ( 1,50 $ )
+Seat 5: berniebolt44 ( 1,29 $ )
+Seat 6: SinisterKid ( 5,78 $ )
+Seat 7: Moro94 ( 1,93 $ )
+Seat 9: Woffinden ( 2,14 $ )
+Seat 10: QuadraD ( 3,18 $ )
+B2B_Suckouts posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 9Karo ]
+PRO_VEKSINHO folds
+berniebolt44 folds
+SinisterKid folds
+Moro94 folds
+Woffinden raises [0,08 $]
+QuadraD folds
+B2B_Suckouts folds
+defmoon folds
+** Summary **
+Woffinden collected [ 0,05 $ ]
+
+
+
+#Game No : 1331902542
+***** 888poker Hand History for Game 1331902542 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:20:20
+Table Yakima 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,91 $ )
+Seat 2: defmoon ( 1,81 $ )
+Seat 3: rojser ( 2 $ )
+Seat 4: PRO_VEKSINHO ( 1,50 $ )
+Seat 5: berniebolt44 ( 1,29 $ )
+Seat 6: SinisterKid ( 5,78 $ )
+Seat 7: Moro94 ( 1,93 $ )
+Seat 9: Woffinden ( 2,17 $ )
+Seat 10: QuadraD ( 3,18 $ )
+defmoon posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, QHerz ]
+PRO_VEKSINHO folds
+berniebolt44 calls [0,02 $]
+SinisterKid folds
+Moro94 raises [0,08 $]
+Woffinden folds
+QuadraD folds
+B2B_Suckouts folds
+defmoon folds
+rojser folds
+berniebolt44 calls [0,06 $]
+** Dealing flop ** [ 9Pik, 2Herz, 4Pik ]
+berniebolt44 checks
+Moro94 bets [1,85 $]
+berniebolt44 calls [1,21 $]
+** Dealing turn ** [ 10Karo ]
+** Dealing river ** [ 6Pik ]
+** Summary **
+berniebolt44 shows [ APik, JPik ]
+Moro94 shows [ KHerz, KKaro ]
+berniebolt44 collected [ 2,45 $ ]
+
+
+
+#Game No : 1331902728
+***** 888poker Hand History for Game 1331902728 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:21:21
+Table Yakima 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,91 $ )
+Seat 2: defmoon ( 1,80 $ )
+Seat 3: rojser ( 2 $ )
+Seat 4: PRO_VEKSINHO ( 1,50 $ )
+Seat 5: berniebolt44 ( 2,45 $ )
+Seat 6: SinisterKid ( 5,78 $ )
+Seat 7: Moro94 ( 0,64 $ )
+Seat 9: Woffinden ( 2,17 $ )
+Seat 10: QuadraD ( 3,18 $ )
+rojser posts small blind [0,01 $]
+PRO_VEKSINHO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, KPik ]
+berniebolt44 folds
+SinisterKid folds
+Moro94 folds
+Woffinden folds
+QuadraD folds
+B2B_Suckouts folds
+defmoon folds
+rojser folds
+** Summary **
+PRO_VEKSINHO did not show his hand
+PRO_VEKSINHO collected [ 0,03 $ ]
+
+
+
+#Game No : 1331902780
+***** 888poker Hand History for Game 1331902780 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:21:37
+Table Yakima 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,91 $ )
+Seat 2: defmoon ( 1,80 $ )
+Seat 3: rojser ( 2 $ )
+Seat 4: PRO_VEKSINHO ( 1,51 $ )
+Seat 5: berniebolt44 ( 2,45 $ )
+Seat 6: SinisterKid ( 5,78 $ )
+Seat 7: Moro94 ( 0,64 $ )
+Seat 9: Woffinden ( 2,17 $ )
+Seat 10: QuadraD ( 3,18 $ )
+PRO_VEKSINHO posts small blind [0,01 $]
+berniebolt44 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, JKaro ]
+SinisterKid folds
+Moro94 folds
+Woffinden folds
+QuadraD folds
+B2B_Suckouts folds
+defmoon folds
+rojser folds
+PRO_VEKSINHO folds
+** Summary **
+berniebolt44 did not show his hand
+berniebolt44 collected [ 0,03 $ ]
+
+
+
+#Game No : 1331902873
+***** 888poker Hand History for Game 1331902873 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:22:08
+Table Yakima 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,91 $ )
+Seat 2: defmoon ( 1,80 $ )
+Seat 3: rojser ( 2 $ )
+Seat 4: PRO_VEKSINHO ( 1,50 $ )
+Seat 5: berniebolt44 ( 2,46 $ )
+Seat 6: SinisterKid ( 5,78 $ )
+Seat 7: Moro94 ( 0,64 $ )
+Seat 9: Woffinden ( 2,17 $ )
+berniebolt44 posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 2Karo ]
+Moro94 folds
+Woffinden folds
+B2B_Suckouts folds
+defmoon folds
+rojser folds
+PRO_VEKSINHO folds
+berniebolt44 folds
+** Summary **
+SinisterKid collected [ 0,03 $ ]
+
+
+
