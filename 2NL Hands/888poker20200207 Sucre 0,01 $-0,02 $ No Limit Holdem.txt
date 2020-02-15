@@ -1,0 +1,760 @@
+#Game No : 527562726
+***** 888poker Hand History for Game 527562726 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:09:10
+Table Sucre 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: F1tommy8 ( 1,72 $ )
+Seat 2: overcranky ( 2,40 $ )
+Seat 3: GSGS37 ( 2,61 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: iconqueror ( 2,03 $ )
+Seat 6: prosperous65 ( 2,42 $ )
+Seat 7: Despol ( 1,65 $ )
+Seat 9: Ermak_Hp ( 0,76 $ )
+prosperous65 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 7Kreuz ]
+Ermak_Hp calls [0,02 $]
+F1tommy8 folds
+overcranky folds
+GSGS37 calls [0,02 $]
+B2B_Suckouts raises [0,04 $]
+iconqueror folds
+prosperous65 folds
+Despol folds
+Ermak_Hp folds
+GSGS37 calls [0,04 $]
+** Dealing flop ** [ JKreuz, 6Kreuz, 8Karo ]
+GSGS37 checks
+B2B_Suckouts bets [0,08 $]
+GSGS37 calls [0,08 $]
+** Dealing turn ** [ 3Pik ]
+GSGS37 checks
+B2B_Suckouts bets [0,10 $]
+GSGS37 calls [0,10 $]
+** Dealing river ** [ 4Karo ]
+GSGS37 checks
+B2B_Suckouts checks
+** Summary **
+GSGS37 shows [ 8Herz, AKreuz ]
+B2B_Suckouts mucks [ 8Kreuz, 7Kreuz ]
+GSGS37 collected [ 0,50 $ ]
+
+
+
+#Game No : 527562758
+***** 888poker Hand History for Game 527562758 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:10:32
+Table Sucre 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: F1tommy8 ( 1,72 $ )
+Seat 2: overcranky ( 2,40 $ )
+Seat 3: GSGS37 ( 2,87 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: iconqueror ( 2,03 $ )
+Seat 6: prosperous65 ( 2,41 $ )
+Seat 7: Despol ( 1,63 $ )
+Seat 10: dasmou14 ( 0,80 $ )
+Despol posts small blind [0,01 $]
+dasmou14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 4Karo ]
+F1tommy8 folds
+overcranky folds
+GSGS37 folds
+B2B_Suckouts folds
+iconqueror raises [0,05 $]
+prosperous65 folds
+Despol folds
+dasmou14 calls [0,03 $]
+** Dealing flop ** [ 2Karo, AKreuz, 8Karo ]
+dasmou14 checks
+iconqueror checks
+** Dealing turn ** [ 2Pik ]
+dasmou14 checks
+iconqueror checks
+** Dealing river ** [ 4Pik ]
+dasmou14 bets [0,75 $]
+iconqueror folds
+** Summary **
+dasmou14 did not show his hand
+dasmou14 collected [ 0,11 $ ]
+
+
+
+#Game No : 527562784
+***** 888poker Hand History for Game 527562784 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:11:25
+Table Sucre 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: F1tommy8 ( 1,72 $ )
+Seat 2: overcranky ( 2,40 $ )
+Seat 3: GSGS37 ( 2,87 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: iconqueror ( 2 $ )
+Seat 6: prosperous65 ( 2,41 $ )
+Seat 7: Despol ( 1,62 $ )
+Seat 10: dasmou14 ( 0,86 $ )
+dasmou14 posts small blind [0,01 $]
+F1tommy8 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, AKaro ]
+overcranky raises [0,06 $]
+GSGS37 calls [0,06 $]
+B2B_Suckouts calls [0,06 $]
+iconqueror folds
+prosperous65 folds
+Despol folds
+dasmou14 calls [0,05 $]
+F1tommy8 calls [0,04 $]
+** Dealing flop ** [ 9Kreuz, 3Pik, 7Pik ]
+dasmou14 bets [0,02 $]
+F1tommy8 calls [0,02 $]
+overcranky calls [0,02 $]
+GSGS37 calls [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ 3Karo ]
+dasmou14 bets [0,02 $]
+F1tommy8 calls [0,02 $]
+overcranky calls [0,02 $]
+GSGS37 raises [0,26 $]
+B2B_Suckouts folds
+dasmou14 folds
+F1tommy8 folds
+overcranky folds
+** Summary **
+GSGS37 did not show his hand
+GSGS37 collected [ 0,45 $ ]
+
+
+
+#Game No : 527562809
+***** 888poker Hand History for Game 527562809 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:12:18
+Table Sucre 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: F1tommy8 ( 1,62 $ )
+Seat 2: overcranky ( 2,30 $ )
+Seat 3: GSGS37 ( 3,22 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: iconqueror ( 2 $ )
+Seat 6: prosperous65 ( 2,41 $ )
+Seat 7: Despol ( 1,62 $ )
+Seat 10: dasmou14 ( 0,76 $ )
+F1tommy8 posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 8Pik ]
+GSGS37 raises [0,04 $]
+B2B_Suckouts folds
+iconqueror folds
+prosperous65 folds
+Despol folds
+dasmou14 raises [0,16 $]
+F1tommy8 folds
+overcranky folds
+GSGS37 folds
+** Summary **
+dasmou14 did not show his hand
+dasmou14 collected [ 0,11 $ ]
+
+
+
+#Game No : 527567286
+***** 888poker Hand History for Game 527567286 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:44:20
+Table Sucre 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: vavan129 ( 2 $ )
+Seat 3: waimanc ( 2,43 $ )
+Seat 4: Dundica ( 0,71 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: btlbtl ( 2,03 $ )
+Seat 7: taxi4soup ( 5,98 $ )
+Seat 9: rojser ( 2,04 $ )
+Seat 10: easyACatchA ( 0,81 $ )
+Dundica posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, KHerz ]
+btlbtl folds
+taxi4soup folds
+rojser folds
+easyACatchA folds
+overcranky folds
+vavan129 folds
+waimanc folds
+Dundica folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 527567302
+***** 888poker Hand History for Game 527567302 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:44:51
+Table Sucre 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: vavan129 ( 2 $ )
+Seat 3: waimanc ( 2,43 $ )
+Seat 4: Dundica ( 0,70 $ )
+Seat 5: B2B_Suckouts ( 2,01 $ )
+Seat 6: btlbtl ( 2,03 $ )
+Seat 7: taxi4soup ( 5,98 $ )
+Seat 9: rojser ( 2,04 $ )
+Seat 10: easyACatchA ( 0,81 $ )
+B2B_Suckouts posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 4Kreuz ]
+taxi4soup raises [0,05 $]
+rojser folds
+easyACatchA raises [0,08 $]
+overcranky folds
+vavan129 folds
+waimanc folds
+Dundica folds
+B2B_Suckouts folds
+btlbtl calls [0,06 $]
+taxi4soup calls [0,03 $]
+** Dealing flop ** [ 7Herz, QHerz, JKreuz ]
+btlbtl checks
+taxi4soup checks
+easyACatchA bets [0,25 $]
+btlbtl folds
+taxi4soup raises [0,62 $]
+easyACatchA raises [0,48 $]
+taxi4soup calls [0,11 $]
+** Dealing turn ** [ 10Pik ]
+** Dealing river ** [ 10Kreuz ]
+** Summary **
+taxi4soup shows [ QKaro, JHerz ]
+easyACatchA shows [ AHerz, JKaro ]
+taxi4soup collected [ 1,61 $ ]
+
+
+
+#Game No : 527567335
+***** 888poker Hand History for Game 527567335 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:45:49
+Table Sucre 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: vavan129 ( 2 $ )
+Seat 3: waimanc ( 2,43 $ )
+Seat 4: Dundica ( 0,70 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: btlbtl ( 2 $ )
+Seat 7: taxi4soup ( 6,78 $ )
+Seat 9: rojser ( 2,04 $ )
+btlbtl posts small blind [0,01 $]
+taxi4soup posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 9Herz ]
+rojser folds
+overcranky folds
+vavan129 folds
+waimanc folds
+Dundica calls [0,02 $]
+B2B_Suckouts folds
+btlbtl folds
+taxi4soup raises [0,04 $]
+Dundica calls [0,04 $]
+** Dealing flop ** [ 2Karo, 5Kreuz, 7Pik ]
+taxi4soup bets [0,06 $]
+Dundica calls [0,06 $]
+** Dealing turn ** [ KKreuz ]
+taxi4soup bets [0,12 $]
+Dundica calls [0,12 $]
+** Dealing river ** [ 8Pik ]
+taxi4soup checks
+Dundica checks
+** Summary **
+taxi4soup shows [ AHerz, QKreuz ]
+Dundica shows [ 7Kreuz, 3Kreuz ]
+Dundica collected [ 0,46 $ ]
+
+
+
+#Game No : 527567358
+***** 888poker Hand History for Game 527567358 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:46:21
+Table Sucre 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: vavan129 ( 2 $ )
+Seat 3: waimanc ( 2,43 $ )
+Seat 4: Dundica ( 0,92 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: btlbtl ( 2 $ )
+Seat 7: taxi4soup ( 6,54 $ )
+Seat 9: rojser ( 2,04 $ )
+taxi4soup posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 2Pik ]
+overcranky folds
+vavan129 folds
+waimanc folds
+Dundica raises [0,08 $]
+B2B_Suckouts folds
+btlbtl folds
+taxi4soup calls [0,07 $]
+rojser folds
+** Dealing flop ** [ 8Karo, AKreuz, 7Karo ]
+taxi4soup checks
+Dundica checks
+** Dealing turn ** [ JPik ]
+taxi4soup bets [0,09 $]
+Dundica calls [0,09 $]
+** Dealing river ** [ AHerz ]
+taxi4soup bets [0,18 $]
+Dundica calls [0,18 $]
+** Summary **
+taxi4soup shows [ 6Pik, 5Kreuz ]
+Dundica shows [ QKreuz, QKaro ]
+Dundica collected [ 0,68 $ ]
+
+
+
+#Game No : 527567385
+***** 888poker Hand History for Game 527567385 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:47:04
+Table Sucre 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: vavan129 ( 2 $ )
+Seat 3: waimanc ( 2,43 $ )
+Seat 4: Dundica ( 1,25 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: btlbtl ( 2 $ )
+Seat 7: taxi4soup ( 6,19 $ )
+Seat 9: rojser ( 2,02 $ )
+rojser posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, QPik ]
+vavan129 folds
+waimanc folds
+Dundica calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+btlbtl folds
+taxi4soup folds
+rojser folds
+overcranky folds
+Dundica calls [0,04 $]
+** Dealing flop ** [ 10Karo, 7Herz, 7Pik ]
+Dundica checks
+B2B_Suckouts bets [0,04 $]
+Dundica calls [0,04 $]
+** Dealing turn ** [ 5Kreuz ]
+Dundica checks
+B2B_Suckouts bets [0,11 $]
+Dundica folds
+** Summary **
+B2B_Suckouts collected [ 0,22 $ ]
+
+
+
+#Game No : 527567414
+***** 888poker Hand History for Game 527567414 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:47:55
+Table Sucre 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: vavan129 ( 2 $ )
+Seat 3: waimanc ( 2,43 $ )
+Seat 4: Dundica ( 1,15 $ )
+Seat 5: B2B_Suckouts ( 2,12 $ )
+Seat 6: btlbtl ( 2 $ )
+Seat 7: taxi4soup ( 6,19 $ )
+Seat 9: rojser ( 2,01 $ )
+overcranky posts small blind [0,01 $]
+vavan129 folds
+waimanc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 7Herz ]
+Dundica folds
+B2B_Suckouts folds
+btlbtl raises [0,05 $]
+taxi4soup folds
+rojser folds
+overcranky raises [0,23 $]
+waimanc folds
+btlbtl folds
+** Summary **
+overcranky collected [ 0,12 $ ]
+
+
+
+#Game No : 527567445
+***** 888poker Hand History for Game 527567445 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:48:40
+Table Sucre 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2,07 $ )
+Seat 3: waimanc ( 2,41 $ )
+Seat 4: Dundica ( 1,15 $ )
+Seat 5: B2B_Suckouts ( 2,12 $ )
+Seat 6: btlbtl ( 2 $ )
+Seat 7: taxi4soup ( 6,19 $ )
+Seat 9: rojser ( 2,01 $ )
+waimanc posts small blind [0,01 $]
+Dundica posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 7Pik ]
+B2B_Suckouts folds
+btlbtl folds
+taxi4soup folds
+rojser folds
+overcranky folds
+waimanc calls [0,01 $]
+Dundica checks
+** Dealing flop ** [ 4Pik, KHerz, QPik ]
+waimanc checks
+Dundica bets [0,02 $]
+waimanc folds
+** Summary **
+Dundica collected [ 0,04 $ ]
+
+
+
+#Game No : 527567461
+***** 888poker Hand History for Game 527567461 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:49:08
+Table Sucre 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2,07 $ )
+Seat 3: waimanc ( 2,39 $ )
+Seat 4: Dundica ( 1,17 $ )
+Seat 5: B2B_Suckouts ( 2,12 $ )
+Seat 6: btlbtl ( 2 $ )
+Seat 7: taxi4soup ( 6,19 $ )
+Seat 9: rojser ( 2,01 $ )
+Dundica posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 6Pik ]
+btlbtl raises [0,06 $]
+taxi4soup folds
+rojser folds
+overcranky folds
+waimanc folds
+Dundica folds
+B2B_Suckouts folds
+** Summary **
+btlbtl collected [ 0,05 $ ]
+
+
+
+#Game No : 527567472
+***** 888poker Hand History for Game 527567472 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:49:21
+Table Sucre 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2,07 $ )
+Seat 3: waimanc ( 2,39 $ )
+Seat 4: Dundica ( 1,16 $ )
+Seat 5: B2B_Suckouts ( 2,10 $ )
+Seat 6: btlbtl ( 2,03 $ )
+Seat 7: taxi4soup ( 6,19 $ )
+Seat 9: rojser ( 2,01 $ )
+B2B_Suckouts posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, QKaro ]
+taxi4soup folds
+rojser folds
+overcranky folds
+waimanc raises [0,05 $]
+Dundica folds
+B2B_Suckouts raises [0,14 $]
+btlbtl folds
+waimanc calls [0,10 $]
+** Dealing flop ** [ 8Kreuz, KHerz, APik ]
+B2B_Suckouts checks
+waimanc checks
+** Dealing turn ** [ 10Pik ]
+B2B_Suckouts checks
+waimanc bets [0,21 $]
+B2B_Suckouts folds
+** Summary **
+waimanc collected [ 0,30 $ ]
+
+
+
+#Game No : 527567500
+***** 888poker Hand History for Game 527567500 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:50:10
+Table Sucre 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2,07 $ )
+Seat 3: waimanc ( 2,54 $ )
+Seat 4: Dundica ( 1,16 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: btlbtl ( 2,01 $ )
+Seat 7: taxi4soup ( 6,19 $ )
+Seat 9: rojser ( 2,01 $ )
+btlbtl posts small blind [0,01 $]
+taxi4soup posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 5Karo ]
+rojser folds
+overcranky folds
+waimanc folds
+Dundica calls [0,02 $]
+B2B_Suckouts folds
+btlbtl folds
+taxi4soup checks
+** Dealing flop ** [ 3Kreuz, 5Herz, AKaro ]
+taxi4soup checks
+Dundica checks
+** Dealing turn ** [ JKaro ]
+taxi4soup checks
+Dundica bets [0,02 $]
+taxi4soup folds
+** Summary **
+Dundica collected [ 0,05 $ ]
+
+
+
+#Game No : 527567514
+***** 888poker Hand History for Game 527567514 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:50:39
+Table Sucre 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: overcranky ( 2,07 $ )
+Seat 3: waimanc ( 2,54 $ )
+Seat 4: Dundica ( 1,19 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: taxi4soup ( 6,17 $ )
+Seat 9: rojser ( 2,01 $ )
+taxi4soup posts small blind [0,01 $]
+rojser folds
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 8Karo ]
+waimanc raises [0,08 $]
+Dundica folds
+B2B_Suckouts folds
+taxi4soup folds
+overcranky calls [0,06 $]
+** Dealing flop ** [ AKaro, 3Herz, 9Karo ]
+overcranky checks
+waimanc bets [0,11 $]
+overcranky folds
+** Summary **
+waimanc collected [ 0,16 $ ]
+
+
+
+#Game No : 527567536
+***** 888poker Hand History for Game 527567536 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:51:08
+Table Sucre 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: overcranky ( 2 $ )
+Seat 2: xxflashxxx ( 0,80 $ )
+Seat 3: waimanc ( 2,62 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: taxi4soup ( 6,16 $ )
+overcranky posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 8Herz ]
+waimanc folds
+B2B_Suckouts raises [0,06 $]
+taxi4soup raises [0,15 $]
+overcranky folds
+xxflashxxx folds
+B2B_Suckouts folds
+** Summary **
+taxi4soup collected [ 0,15 $ ]
+
+
+
+#Game No : 527567552
+***** 888poker Hand History for Game 527567552 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:51:38
+Table Sucre 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 5
+Seat 1: overcranky ( 2 $ )
+Seat 2: xxflashxxx ( 0,78 $ )
+Seat 3: waimanc ( 2,62 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: taxi4soup ( 6,25 $ )
+xxflashxxx posts small blind [0,01 $]
+waimanc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 4Herz ]
+B2B_Suckouts folds
+taxi4soup calls [0,02 $]
+overcranky raises [0,10 $]
+xxflashxxx folds
+waimanc folds
+taxi4soup folds
+** Summary **
+overcranky collected [ 0,07 $ ]
+
+
+
+#Game No : 527567567
+***** 888poker Hand History for Game 527567567 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:52:01
+Table Sucre 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: overcranky ( 2,05 $ )
+Seat 2: xxflashxxx ( 0,77 $ )
+Seat 3: waimanc ( 2,60 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: taxi4soup ( 6,23 $ )
+waimanc posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 6Karo ]
+taxi4soup folds
+overcranky folds
+xxflashxxx folds
+waimanc raises [0,05 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 2Karo, QHerz, QPik ]
+waimanc checks
+B2B_Suckouts bets [0,04 $]
+waimanc folds
+** Summary **
+B2B_Suckouts collected [ 0,12 $ ]
+
+
+
+#Game No : 527567595
+***** 888poker Hand History for Game 527567595 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:52:46
+Table Sucre 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 1: overcranky ( 2,05 $ )
+Seat 2: xxflashxxx ( 0,77 $ )
+Seat 3: waimanc ( 2,54 $ )
+Seat 5: B2B_Suckouts ( 2,06 $ )
+Seat 7: taxi4soup ( 6,23 $ )
+B2B_Suckouts posts small blind [0,01 $]
+taxi4soup posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 5Karo ]
+overcranky folds
+xxflashxxx folds
+waimanc raises [0,05 $]
+B2B_Suckouts folds
+taxi4soup folds
+** Summary **
+waimanc did not show his hand
+waimanc collected [ 0,05 $ ]
+
+
+
+#Game No : 527567605
+***** 888poker Hand History for Game 527567605 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:53:04
+Table Sucre 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 1: overcranky ( 2,05 $ )
+Seat 2: xxflashxxx ( 0,77 $ )
+Seat 3: waimanc ( 2,57 $ )
+Seat 5: B2B_Suckouts ( 2,05 $ )
+Seat 7: taxi4soup ( 6,21 $ )
+taxi4soup posts small blind [0,01 $]
+overcranky folds
+xxflashxxx folds
+waimanc posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 4Karo ]
+B2B_Suckouts folds
+taxi4soup raises [0,03 $]
+waimanc folds
+** Summary **
+taxi4soup did not show his hand
+taxi4soup collected [ 0,04 $ ]
+
+
+
+#Game No : 527567620
+***** 888poker Hand History for Game 527567620 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:53:18
+Table Sucre 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 3
+Seat 3: waimanc ( 2,55 $ )
+Seat 5: B2B_Suckouts ( 2,05 $ )
+Seat 7: taxi4soup ( 6,23 $ )
+waimanc posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 10Karo ]
+taxi4soup raises [0,04 $]
+waimanc calls [0,03 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 5Kreuz, KHerz, AKreuz ]
+waimanc checks
+B2B_Suckouts checks
+taxi4soup bets [0,06 $]
+waimanc calls [0,06 $]
+B2B_Suckouts folds
+** Dealing turn ** [ 6Pik ]
+waimanc checks
+taxi4soup bets [0,12 $]
+waimanc calls [0,12 $]
+** Dealing river ** [ 4Pik ]
+waimanc checks
+taxi4soup bets [0,24 $]
+waimanc calls [0,24 $]
+** Summary **
+taxi4soup shows [ APik, 10Kreuz ]
+waimanc shows [ QKreuz, AKaro ]
+waimanc collected [ 0,90 $ ]
+
+
+
+#Game No : 527567645
+***** 888poker Hand History for Game 527567645 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 17:54:03
+Table Sucre 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 3
+Seat 3: waimanc ( 2,99 $ )
+Seat 5: B2B_Suckouts ( 2,01 $ )
+Seat 7: taxi4soup ( 5,77 $ )
+B2B_Suckouts posts small blind [0,01 $]
+taxi4soup posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, QHerz ]
+waimanc folds
+B2B_Suckouts folds
+** Summary **
+taxi4soup collected [ 0,03 $ ]
+
+
+
