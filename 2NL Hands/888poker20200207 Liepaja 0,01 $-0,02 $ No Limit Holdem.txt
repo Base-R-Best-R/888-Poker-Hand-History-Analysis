@@ -1,0 +1,405 @@
+#Game No : 631367482
+***** 888poker Hand History for Game 631367482 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:40:22
+Table Liepaja 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: heroic13 ( 0,54 $ )
+Seat 2: pandemick ( 1,96 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: rojser ( 2 $ )
+Seat 5: IIIpil ( 1,27 $ )
+Seat 6: xxflashxxx ( 1,75 $ )
+Seat 7: SinisterKid ( 7,22 $ )
+Seat 9: Abrakada65 ( 1,83 $ )
+Seat 10: gimeurchips ( 2,38 $ )
+pandemick posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 4Kreuz ]
+rojser folds
+IIIpil folds
+xxflashxxx folds
+SinisterKid raises [0,06 $]
+Abrakada65 folds
+gimeurchips folds
+heroic13 folds
+pandemick folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 8Herz, AKaro, JKreuz ]
+B2B_Suckouts bets [0,06 $]
+SinisterKid calls [0,06 $]
+** Dealing turn ** [ 8Kreuz ]
+B2B_Suckouts bets [0,12 $]
+SinisterKid calls [0,12 $]
+** Dealing river ** [ 5Karo ]
+B2B_Suckouts bets [0,16 $]
+SinisterKid folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,46 $ ]
+
+
+
+#Game No : 631367552
+***** 888poker Hand History for Game 631367552 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:41:46
+Table Liepaja 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: heroic13 ( 0,54 $ )
+Seat 2: pandemick ( 1,95 $ )
+Seat 3: B2B_Suckouts ( 2,22 $ )
+Seat 4: rojser ( 2 $ )
+Seat 5: IIIpil ( 1,27 $ )
+Seat 6: xxflashxxx ( 1,75 $ )
+Seat 7: SinisterKid ( 6,98 $ )
+Seat 9: Abrakada65 ( 1,83 $ )
+Seat 10: gimeurchips ( 2,38 $ )
+B2B_Suckouts posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 4Karo ]
+IIIpil folds
+xxflashxxx folds
+SinisterKid folds
+Abrakada65 folds
+gimeurchips folds
+heroic13 folds
+pandemick folds
+B2B_Suckouts folds
+** Summary **
+rojser did not show his hand
+rojser collected [ 0,03 $ ]
+
+
+
+#Game No : 631367589
+***** 888poker Hand History for Game 631367589 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:42:21
+Table Liepaja 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: heroic13 ( 0,54 $ )
+Seat 2: pandemick ( 1,95 $ )
+Seat 3: B2B_Suckouts ( 2,21 $ )
+Seat 4: rojser ( 2,01 $ )
+Seat 6: xxflashxxx ( 1,75 $ )
+Seat 7: SinisterKid ( 6,98 $ )
+Seat 9: Abrakada65 ( 1,83 $ )
+Seat 10: gimeurchips ( 2,38 $ )
+rojser posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 10Herz ]
+SinisterKid folds
+Abrakada65 folds
+gimeurchips folds
+heroic13 folds
+pandemick calls [0,02 $]
+B2B_Suckouts folds
+rojser folds
+xxflashxxx checks
+** Dealing flop ** [ 2Kreuz, JPik, 7Herz ]
+xxflashxxx checks
+pandemick checks
+** Dealing turn ** [ 8Herz ]
+xxflashxxx checks
+pandemick checks
+** Dealing river ** [ 9Herz ]
+xxflashxxx checks
+pandemick checks
+** Summary **
+xxflashxxx shows [ 6Kreuz, 8Kreuz ]
+pandemick shows [ 4Karo, 8Karo ]
+xxflashxxx collected [ 0,03 $ ]
+pandemick collected [ 0,02 $ ]
+
+
+
+#Game No : 631367625
+***** 888poker Hand History for Game 631367625 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:43:01
+Table Liepaja 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: pandemick ( 1,95 $ )
+Seat 3: B2B_Suckouts ( 2,21 $ )
+Seat 4: rojser ( 2 $ )
+Seat 6: xxflashxxx ( 1,76 $ )
+Seat 7: SinisterKid ( 6,98 $ )
+Seat 9: Abrakada65 ( 1,83 $ )
+Seat 10: gimeurchips ( 2,38 $ )
+xxflashxxx posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 9Herz ]
+Abrakada65 folds
+gimeurchips folds
+pandemick folds
+B2B_Suckouts raises [0,06 $]
+rojser folds
+xxflashxxx folds
+SinisterKid folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 631367643
+***** 888poker Hand History for Game 631367643 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:43:22
+Table Liepaja 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: pandemick ( 1,95 $ )
+Seat 3: B2B_Suckouts ( 2,24 $ )
+Seat 4: rojser ( 2 $ )
+Seat 6: xxflashxxx ( 1,75 $ )
+Seat 7: SinisterKid ( 6,96 $ )
+Seat 9: Abrakada65 ( 1,83 $ )
+Seat 10: gimeurchips ( 2,38 $ )
+SinisterKid posts small blind [0,01 $]
+Abrakada65 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 6Karo ]
+gimeurchips folds
+pandemick folds
+B2B_Suckouts folds
+rojser folds
+xxflashxxx folds
+SinisterKid folds
+** Summary **
+Abrakada65 collected [ 0,03 $ ]
+
+
+
+#Game No : 631367658
+***** 888poker Hand History for Game 631367658 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:43:38
+Table Liepaja 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 2: pandemick ( 1,95 $ )
+Seat 3: B2B_Suckouts ( 2,24 $ )
+Seat 4: rojser ( 2 $ )
+Seat 6: xxflashxxx ( 1,75 $ )
+Seat 7: SinisterKid ( 6,95 $ )
+Seat 9: Abrakada65 ( 1,84 $ )
+Abrakada65 posts small blind [0,01 $]
+pandemick posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, AKaro ]
+B2B_Suckouts raises [0,06 $]
+rojser folds
+xxflashxxx folds
+SinisterKid folds
+Abrakada65 folds
+pandemick folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 631367673
+***** 888poker Hand History for Game 631367673 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:43:55
+Table Liepaja 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 2: pandemick ( 1,93 $ )
+Seat 3: B2B_Suckouts ( 2,27 $ )
+Seat 4: rojser ( 2 $ )
+Seat 6: xxflashxxx ( 1,75 $ )
+Seat 7: SinisterKid ( 6,95 $ )
+Seat 9: Abrakada65 ( 1,83 $ )
+pandemick posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 2Kreuz ]
+rojser folds
+xxflashxxx folds
+SinisterKid raises [0,06 $]
+Abrakada65 calls [0,06 $]
+pandemick folds
+B2B_Suckouts folds
+** Dealing flop ** [ 6Pik, 8Pik, AKreuz ]
+SinisterKid bets [0,10 $]
+Abrakada65 calls [0,10 $]
+** Dealing turn ** [ 10Pik ]
+SinisterKid bets [0,24 $]
+Abrakada65 calls [0,24 $]
+** Dealing river ** [ 10Karo ]
+SinisterKid bets [0,62 $]
+Abrakada65 raises [1,43 $]
+SinisterKid calls [0,81 $]
+** Summary **
+SinisterKid shows [ 10Kreuz, 10Herz ]
+Abrakada65 shows [ 8Kreuz, 8Herz ]
+SinisterKid collected [ 3,46 $ ]
+
+
+
+#Game No : 631367739
+***** 888poker Hand History for Game 631367739 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:44:58
+Table Liepaja 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 2: pandemick ( 1,92 $ )
+Seat 3: B2B_Suckouts ( 2,25 $ )
+Seat 4: rojser ( 2 $ )
+Seat 6: xxflashxxx ( 1,75 $ )
+Seat 7: SinisterKid ( 8,58 $ )
+B2B_Suckouts posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 5Herz ]
+xxflashxxx calls [0,02 $]
+SinisterKid folds
+pandemick raises [0,08 $]
+B2B_Suckouts folds
+rojser folds
+xxflashxxx calls [0,06 $]
+** Dealing flop ** [ 10Karo, 5Kreuz, 2Karo ]
+xxflashxxx bets [0,10 $]
+pandemick raises [0,40 $]
+xxflashxxx raises [1,57 $]
+pandemick calls [1,27 $]
+** Dealing turn ** [ 6Kreuz ]
+** Dealing river ** [ 8Herz ]
+** Summary **
+pandemick shows [ KKreuz, KKaro ]
+xxflashxxx shows [ 2Pik, 2Herz ]
+xxflashxxx collected [ 3,31 $ ]
+
+
+
+#Game No : 631367778
+***** 888poker Hand History for Game 631367778 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:45:52
+Table Liepaja 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 4
+Seat 3: B2B_Suckouts ( 2,24 $ )
+Seat 4: rojser ( 2 $ )
+Seat 6: xxflashxxx ( 3,31 $ )
+Seat 7: SinisterKid ( 8,58 $ )
+rojser posts small blind [0,01 $]
+xxflashxxx folds
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 3Herz ]
+B2B_Suckouts raises [0,06 $]
+rojser folds
+SinisterKid folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 631367796
+***** 888poker Hand History for Game 631367796 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:46:16
+Table Liepaja 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 3
+Seat 3: B2B_Suckouts ( 2,27 $ )
+Seat 4: rojser ( 2 $ )
+Seat 10: mikeOmike ( 2 $ )
+rojser posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, KKreuz ]
+B2B_Suckouts folds
+rojser folds
+** Summary **
+mikeOmike collected [ 0,03 $ ]
+
+
+
+#Game No : 631367802
+***** 888poker Hand History for Game 631367802 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:46:23
+Table Liepaja 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: B2B_Suckouts ( 2,27 $ )
+Seat 4: rojser ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+rojser folds
+** Summary **
+B2B_Suckouts collected [ 0,01 $ ]
+
+
+
+#Game No : 631367805
+***** 888poker Hand History for Game 631367805 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:46:26
+Table Liepaja 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: B2B_Suckouts ( 2,27 $ )
+Seat 10: mikeOmike ( 2,01 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, JPik ]
+B2B_Suckouts raises [0,05 $]
+mikeOmike raises [0,16 $]
+B2B_Suckouts calls [0,12 $]
+** Dealing flop ** [ 3Karo, 3Pik, 4Herz ]
+mikeOmike checks
+B2B_Suckouts bets [0,18 $]
+mikeOmike calls [0,18 $]
+** Dealing turn ** [ 7Pik ]
+mikeOmike checks
+B2B_Suckouts checks
+** Dealing river ** [ KKreuz ]
+mikeOmike bets [0,34 $]
+B2B_Suckouts folds
+** Summary **
+mikeOmike collected [ 0,68 $ ]
+
+
+
+#Game No : 631367826
+***** 888poker Hand History for Game 631367826 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:46:59
+Table Liepaja 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 2
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 10: mikeOmike ( 2,33 $ )
+mikeOmike posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, JKaro ]
+mikeOmike raises [0,05 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 3Kreuz, 2Herz, 2Pik ]
+B2B_Suckouts checks
+mikeOmike checks
+** Dealing turn ** [ 8Herz ]
+B2B_Suckouts bets [0,02 $]
+mikeOmike folds
+** Summary **
+B2B_Suckouts collected [ 0,12 $ ]
+
+
+
+#Game No : 631367847
+***** 888poker Hand History for Game 631367847 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:47:28
+Table Liepaja 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 2
+Seat 3: B2B_Suckouts ( 2,06 $ )
+Seat 10: mikeOmike ( 2,27 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mikeOmike folds
+** Summary **
+B2B_Suckouts collected [ 0,01 $ ]
+
+
+
