@@ -1,0 +1,3559 @@
+#Game No : 551916049
+***** 888poker Hand History for Game 551916049 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:56:50
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: elec_7773 ( 3,22 $ )
+Seat 2: JeggerI ( 2,79 $ )
+Seat 3: Spoiler_Name ( 2,62 $ )
+Seat 4: BreatheLive ( 2,09 $ )
+Seat 5: SoveTnik90 ( 2,77 $ )
+Seat 6: PQ7po ( 1,10 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: thepirate39 ( 2 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 5Herz ]
+thepirate39 folds
+elec_7773 folds
+JeggerI raises [0,06 $]
+Spoiler_Name folds
+BreatheLive folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+** Summary **
+JeggerI collected [ 0,05 $ ]
+
+
+
+#Game No : 551916060
+***** 888poker Hand History for Game 551916060 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:57:10
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: elec_7773 ( 3,22 $ )
+Seat 2: JeggerI ( 2,82 $ )
+Seat 3: Spoiler_Name ( 2,62 $ )
+Seat 4: BreatheLive ( 2,09 $ )
+Seat 5: SoveTnik90 ( 2,77 $ )
+Seat 6: PQ7po ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: thepirate39 ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, APik ]
+elec_7773 folds
+JeggerI folds
+Spoiler_Name raises [0,06 $]
+BreatheLive folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+** Summary **
+Spoiler_Name collected [ 0,05 $ ]
+
+
+
+#Game No : 551916074
+***** 888poker Hand History for Game 551916074 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:57:30
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: elec_7773 ( 3,22 $ )
+Seat 2: JeggerI ( 2,82 $ )
+Seat 3: Spoiler_Name ( 2,65 $ )
+Seat 4: BreatheLive ( 2,09 $ )
+Seat 5: SoveTnik90 ( 2,77 $ )
+Seat 6: PQ7po ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+thepirate39 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 6Karo ]
+elec_7773 folds
+JeggerI folds
+Spoiler_Name raises [0,06 $]
+BreatheLive folds
+SoveTnik90 calls [0,06 $]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 calls [0,05 $]
+getterrrr folds
+** Dealing flop ** [ AHerz, 9Pik, QKreuz ]
+thepirate39 checks
+Spoiler_Name bets [0,10 $]
+SoveTnik90 folds
+thepirate39 folds
+** Summary **
+Spoiler_Name did not show his hand
+Spoiler_Name collected [ 0,19 $ ]
+
+
+
+#Game No : 551916100
+***** 888poker Hand History for Game 551916100 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:58:10
+Table Franca 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: elec_7773 ( 3,22 $ )
+Seat 2: JeggerI ( 2,82 $ )
+Seat 3: Spoiler_Name ( 2,78 $ )
+Seat 4: BreatheLive ( 2,09 $ )
+Seat 5: SoveTnik90 ( 2,71 $ )
+Seat 6: PQ7po ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+getterrrr posts small blind [0,01 $]
+elec_7773 folds
+JeggerI folds
+Spoiler_Name posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, AKaro ]
+BreatheLive folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts raises [0,06 $]
+thepirate39 folds
+getterrrr folds
+Spoiler_Name folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551916110
+***** 888poker Hand History for Game 551916110 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:58:25
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 3: Spoiler_Name ( 2,76 $ )
+Seat 4: BreatheLive ( 2,09 $ )
+Seat 5: SoveTnik90 ( 2,71 $ )
+Seat 6: PQ7po ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2,03 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+Spoiler_Name posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 7Kreuz ]
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+Spoiler_Name folds
+** Summary **
+BreatheLive collected [ 0,03 $ ]
+
+
+
+#Game No : 551916117
+***** 888poker Hand History for Game 551916117 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:58:33
+Table Franca 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 3: Spoiler_Name ( 2,75 $ )
+Seat 4: BreatheLive ( 2,10 $ )
+Seat 5: SoveTnik90 ( 2,71 $ )
+Seat 6: PQ7po ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2,03 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+BreatheLive posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, APik ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+Spoiler_Name folds
+BreatheLive raises [0,05 $]
+SoveTnik90 folds
+** Summary **
+BreatheLive collected [ 0,04 $ ]
+
+
+
+#Game No : 551916127
+***** 888poker Hand History for Game 551916127 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:58:49
+Table Franca 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 3: Spoiler_Name ( 2,75 $ )
+Seat 4: BreatheLive ( 2,12 $ )
+Seat 5: SoveTnik90 ( 2,69 $ )
+Seat 6: PQ7po ( 1,09 $ )
+Seat 7: B2B_Suckouts ( 2,03 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+SoveTnik90 posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 6Herz ]
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr raises [0,06 $]
+Spoiler_Name folds
+BreatheLive folds
+SoveTnik90 raises [0,11 $]
+PQ7po folds
+getterrrr calls [0,06 $]
+** Dealing flop ** [ 10Karo, 6Pik, 3Karo ]
+SoveTnik90 bets [0,08 $]
+getterrrr calls [0,08 $]
+** Dealing turn ** [ 4Karo ]
+SoveTnik90 bets [0,21 $]
+getterrrr calls [0,21 $]
+** Dealing river ** [ 10Pik ]
+SoveTnik90 bets [0,42 $]
+getterrrr calls [0,42 $]
+** Summary **
+SoveTnik90 shows [ AKaro, QKaro ]
+getterrrr mucks [ 8Herz, 8Karo ]
+SoveTnik90 collected [ 1,58 $ ]
+
+
+
+#Game No : 551916154
+***** 888poker Hand History for Game 551916154 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:59:34
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 3: Spoiler_Name ( 2,75 $ )
+Seat 4: BreatheLive ( 2,12 $ )
+Seat 5: SoveTnik90 ( 3,44 $ )
+Seat 6: PQ7po ( 1,07 $ )
+Seat 7: B2B_Suckouts ( 2,03 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 7Pik ]
+thepirate39 folds
+getterrrr folds
+Spoiler_Name folds
+BreatheLive folds
+SoveTnik90 raises [0,06 $]
+PQ7po calls [0,05 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 5Pik, 5Kreuz, KKreuz ]
+PQ7po bets [0,09 $]
+SoveTnik90 calls [0,09 $]
+** Dealing turn ** [ 6Kreuz ]
+PQ7po bets [0,21 $]
+SoveTnik90 folds
+** Summary **
+PQ7po collected [ 0,30 $ ]
+
+
+
+#Game No : 551916177
+***** 888poker Hand History for Game 551916177 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:00:12
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 3: Spoiler_Name ( 2,75 $ )
+Seat 4: BreatheLive ( 2,12 $ )
+Seat 5: SoveTnik90 ( 3,29 $ )
+Seat 6: PQ7po ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,01 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 10Karo ]
+getterrrr folds
+Spoiler_Name folds
+BreatheLive folds
+SoveTnik90 raises [0,06 $]
+PQ7po folds
+B2B_Suckouts raises [0,17 $]
+thepirate39 folds
+SoveTnik90 folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 551916185
+***** 888poker Hand History for Game 551916185 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:00:32
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 3: Spoiler_Name ( 2,75 $ )
+Seat 4: BreatheLive ( 2,12 $ )
+Seat 5: SoveTnik90 ( 3,23 $ )
+Seat 6: PQ7po ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,09 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+thepirate39 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 3Kreuz ]
+Spoiler_Name folds
+BreatheLive folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 raises [0,05 $]
+getterrrr folds
+** Summary **
+thepirate39 collected [ 0,04 $ ]
+
+
+
+#Game No : 551916198
+***** 888poker Hand History for Game 551916198 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:00:55
+Table Franca 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 3: Spoiler_Name ( 2,75 $ )
+Seat 4: BreatheLive ( 2,12 $ )
+Seat 5: SoveTnik90 ( 3,23 $ )
+Seat 6: PQ7po ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,09 $ )
+Seat 9: thepirate39 ( 2,02 $ )
+Seat 10: getterrrr ( 2 $ )
+getterrrr posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 7Kreuz ]
+Spoiler_Name folds
+BreatheLive folds
+SoveTnik90 raises [0,06 $]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx calls [0,04 $]
+** Dealing flop ** [ 6Kreuz, QKreuz, 4Karo ]
+xxflashxxx bets [0,08 $]
+SoveTnik90 folds
+** Summary **
+xxflashxxx collected [ 0,13 $ ]
+
+
+
+#Game No : 551916211
+***** 888poker Hand History for Game 551916211 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:01:22
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,07 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: Spoiler_Name ( 2,75 $ )
+Seat 4: BreatheLive ( 2,12 $ )
+Seat 5: SoveTnik90 ( 3,17 $ )
+Seat 6: PQ7po ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,09 $ )
+Seat 9: thepirate39 ( 2,02 $ )
+Seat 10: getterrrr ( 2 $ )
+xxflashxxx posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, KKreuz ]
+Spoiler_Name folds
+BreatheLive folds
+SoveTnik90 raises [0,06 $]
+PQ7po folds
+B2B_Suckouts raises [0,18 $]
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+SoveTnik90 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 551916227
+***** 888poker Hand History for Game 551916227 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:01:47
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2,06 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 4: BreatheLive ( 2,12 $ )
+Seat 5: SoveTnik90 ( 3,11 $ )
+Seat 6: PQ7po ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,18 $ )
+Seat 9: thepirate39 ( 2,02 $ )
+Seat 10: getterrrr ( 2 $ )
+whyluckys posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 8Pik ]
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys raises [0,05 $]
+BreatheLive folds
+** Summary **
+whyluckys did not show his hand
+whyluckys collected [ 0,04 $ ]
+
+
+
+#Game No : 551916237
+***** 888poker Hand History for Game 551916237 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:02:09
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2,06 $ )
+Seat 2: whyluckys ( 2,02 $ )
+Seat 4: BreatheLive ( 2,10 $ )
+Seat 5: SoveTnik90 ( 3,11 $ )
+Seat 6: PQ7po ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,18 $ )
+Seat 9: thepirate39 ( 2,02 $ )
+Seat 10: getterrrr ( 2 $ )
+BreatheLive posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, AHerz ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+BreatheLive folds
+** Summary **
+SoveTnik90 did not show his hand
+SoveTnik90 collected [ 0,03 $ ]
+
+
+
+#Game No : 551916249
+***** 888poker Hand History for Game 551916249 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:02:32
+Table Franca 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2,06 $ )
+Seat 2: whyluckys ( 2,02 $ )
+Seat 4: BreatheLive ( 2,09 $ )
+Seat 5: SoveTnik90 ( 3,12 $ )
+Seat 6: PQ7po ( 1,22 $ )
+Seat 7: B2B_Suckouts ( 2,18 $ )
+Seat 9: thepirate39 ( 2,02 $ )
+Seat 10: getterrrr ( 2 $ )
+SoveTnik90 posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 9Karo ]
+B2B_Suckouts folds
+thepirate39 raises [0,06 $]
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+BreatheLive folds
+SoveTnik90 folds
+PQ7po folds
+** Summary **
+thepirate39 collected [ 0,05 $ ]
+
+
+
+#Game No : 551916268
+***** 888poker Hand History for Game 551916268 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:03:11
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2,06 $ )
+Seat 2: whyluckys ( 2,02 $ )
+Seat 4: BreatheLive ( 2,09 $ )
+Seat 5: SoveTnik90 ( 3,11 $ )
+Seat 6: PQ7po ( 1,20 $ )
+Seat 7: B2B_Suckouts ( 2,18 $ )
+Seat 9: thepirate39 ( 2,05 $ )
+Seat 10: getterrrr ( 2 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 8Karo ]
+thepirate39 folds
+getterrrr folds
+xxflashxxx raises [0,04 $]
+whyluckys folds
+BreatheLive folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 5Kreuz, 6Herz, 7Karo ]
+B2B_Suckouts bets [0,02 $]
+xxflashxxx raises [0,06 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing turn ** [ 4Herz ]
+B2B_Suckouts bets [0,06 $]
+xxflashxxx raises [0,12 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing river ** [ QHerz ]
+B2B_Suckouts checks
+xxflashxxx bets [0,22 $]
+B2B_Suckouts calls [0,22 $]
+** Summary **
+xxflashxxx shows [ APik, 5Pik ]
+B2B_Suckouts shows [ 10Karo, 8Karo ]
+B2B_Suckouts collected [ 0,84 $ ]
+
+
+
+#Game No : 551916304
+***** 888poker Hand History for Game 551916304 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:04:16
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2,02 $ )
+Seat 4: BreatheLive ( 2,09 $ )
+Seat 5: SoveTnik90 ( 3,11 $ )
+Seat 6: PQ7po ( 1,19 $ )
+Seat 7: B2B_Suckouts ( 2,58 $ )
+Seat 9: thepirate39 ( 2,05 $ )
+Seat 10: getterrrr ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 3Herz ]
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+BreatheLive folds
+SoveTnik90 folds
+PQ7po raises [0,06 $]
+B2B_Suckouts folds
+thepirate39 calls [0,04 $]
+** Dealing flop ** [ KKaro, QKaro, 3Pik ]
+thepirate39 checks
+PQ7po bets [0,08 $]
+thepirate39 calls [0,08 $]
+** Dealing turn ** [ 8Kreuz ]
+thepirate39 checks
+PQ7po checks
+** Dealing river ** [ 2Kreuz ]
+thepirate39 checks
+PQ7po checks
+** Summary **
+thepirate39 shows [ 10Herz, KHerz ]
+PQ7po mucks [ JHerz, JPik ]
+thepirate39 collected [ 0,28 $ ]
+
+
+
+#Game No : 551916342
+***** 888poker Hand History for Game 551916342 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:05:14
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2,02 $ )
+Seat 4: BreatheLive ( 2,09 $ )
+Seat 5: SoveTnik90 ( 3,11 $ )
+Seat 6: PQ7po ( 1,05 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,19 $ )
+Seat 10: getterrrr ( 2 $ )
+thepirate39 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 9Karo ]
+xxflashxxx folds
+whyluckys folds
+BreatheLive raises [0,06 $]
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+** Summary **
+BreatheLive collected [ 0,05 $ ]
+
+
+
+#Game No : 551916351
+***** 888poker Hand History for Game 551916351 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:05:34
+Table Franca 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2,02 $ )
+Seat 4: BreatheLive ( 2,12 $ )
+Seat 5: SoveTnik90 ( 3,11 $ )
+Seat 6: PQ7po ( 1,05 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,18 $ )
+Seat 10: getterrrr ( 2 $ )
+getterrrr posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 2Kreuz ]
+whyluckys folds
+BreatheLive folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 raises [0,05 $]
+getterrrr folds
+xxflashxxx folds
+** Summary **
+thepirate39 collected [ 0,05 $ ]
+
+
+
+#Game No : 551916361
+***** 888poker Hand History for Game 551916361 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:05:50
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2,02 $ )
+Seat 4: BreatheLive ( 2,12 $ )
+Seat 5: SoveTnik90 ( 3,11 $ )
+Seat 6: PQ7po ( 1,05 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,21 $ )
+Seat 10: getterrrr ( 2 $ )
+xxflashxxx posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, APik ]
+BreatheLive folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 raises [0,06 $]
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+** Summary **
+thepirate39 collected [ 0,05 $ ]
+
+
+
+#Game No : 551916379
+***** 888poker Hand History for Game 551916379 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:06:28
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 1,40 $ )
+Seat 4: BreatheLive ( 2,12 $ )
+Seat 5: SoveTnik90 ( 3,11 $ )
+Seat 6: PQ7po ( 1,05 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,24 $ )
+Seat 10: getterrrr ( 2 $ )
+whyluckys posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 10Karo ]
+BreatheLive raises [0,06 $]
+SoveTnik90 calls [0,06 $]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys calls [0,05 $]
+NoahbodyOG calls [0,04 $]
+** Dealing flop ** [ 10Herz, 9Herz, 2Pik ]
+whyluckys checks
+NoahbodyOG checks
+BreatheLive checks
+SoveTnik90 checks
+** Dealing turn ** [ KKreuz ]
+whyluckys checks
+NoahbodyOG bets [0,07 $]
+BreatheLive folds
+SoveTnik90 folds
+whyluckys folds
+** Summary **
+NoahbodyOG did not show his hand
+NoahbodyOG collected [ 0,23 $ ]
+
+
+
+#Game No : 551916402
+***** 888poker Hand History for Game 551916402 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:07:13
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 1,57 $ )
+Seat 4: BreatheLive ( 2,06 $ )
+Seat 5: SoveTnik90 ( 3,05 $ )
+Seat 6: PQ7po ( 1,05 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,24 $ )
+Seat 10: getterrrr ( 2 $ )
+NoahbodyOG posts small blind [0,01 $]
+BreatheLive folds
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, QPik ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+** Summary **
+SoveTnik90 did not show his hand
+SoveTnik90 collected [ 0,03 $ ]
+
+
+
+#Game No : 551916410
+***** 888poker Hand History for Game 551916410 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:07:29
+Table Franca 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 1,56 $ )
+Seat 5: SoveTnik90 ( 3,06 $ )
+Seat 6: PQ7po ( 1,05 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,24 $ )
+Seat 10: getterrrr ( 2 $ )
+SoveTnik90 posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 8Kreuz ]
+B2B_Suckouts folds
+thepirate39 raises [0,06 $]
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+SoveTnik90 folds
+PQ7po folds
+** Summary **
+thepirate39 did not show his hand
+thepirate39 collected [ 0,05 $ ]
+
+
+
+#Game No : 551916420
+***** 888poker Hand History for Game 551916420 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:07:45
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 1,56 $ )
+Seat 5: SoveTnik90 ( 3,05 $ )
+Seat 6: PQ7po ( 1,03 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,27 $ )
+Seat 10: getterrrr ( 2 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, QKaro ]
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+SoveTnik90 raises [0,06 $]
+PQ7po folds
+B2B_Suckouts raises [0,16 $]
+SoveTnik90 folds
+** Summary **
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 551916437
+***** 888poker Hand History for Game 551916437 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:08:14
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 1,56 $ )
+Seat 5: SoveTnik90 ( 2,99 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,64 $ )
+Seat 9: thepirate39 ( 2,27 $ )
+Seat 10: getterrrr ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, QKreuz ]
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+** Summary **
+thepirate39 collected [ 0,03 $ ]
+
+
+
+#Game No : 551916448
+***** 888poker Hand History for Game 551916448 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:08:36
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 1,56 $ )
+Seat 5: SoveTnik90 ( 2,99 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,63 $ )
+Seat 9: thepirate39 ( 2,28 $ )
+Seat 10: getterrrr ( 2 $ )
+thepirate39 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 9Kreuz ]
+xxflashxxx folds
+whyluckys raises [0,06 $]
+NoahbodyOG folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+** Summary **
+whyluckys collected [ 0,05 $ ]
+
+
+
+#Game No : 551916461
+***** 888poker Hand History for Game 551916461 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:08:59
+Table Franca 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2,03 $ )
+Seat 3: NoahbodyOG ( 1,56 $ )
+Seat 5: SoveTnik90 ( 2,99 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,63 $ )
+Seat 9: thepirate39 ( 2,27 $ )
+Seat 10: getterrrr ( 2 $ )
+getterrrr posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 4Kreuz ]
+whyluckys folds
+NoahbodyOG raises [0,06 $]
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+** Summary **
+NoahbodyOG collected [ 0,05 $ ]
+
+
+
+#Game No : 551916470
+***** 888poker Hand History for Game 551916470 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:09:24
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2,03 $ )
+Seat 3: NoahbodyOG ( 1,59 $ )
+Seat 5: SoveTnik90 ( 2,99 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,63 $ )
+Seat 9: thepirate39 ( 2,27 $ )
+Seat 10: getterrrr ( 2 $ )
+xxflashxxx posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, QPik ]
+NoahbodyOG folds
+SoveTnik90 raises [0,06 $]
+PQ7po folds
+B2B_Suckouts calls [0,06 $]
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+** Dealing flop ** [ 9Pik, 10Herz, 7Kreuz ]
+SoveTnik90 bets [0,06 $]
+B2B_Suckouts folds
+** Summary **
+SoveTnik90 collected [ 0,15 $ ]
+
+
+
+#Game No : 551916482
+***** 888poker Hand History for Game 551916482 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:09:52
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2 $ )
+Seat 2: whyluckys ( 2,01 $ )
+Seat 3: NoahbodyOG ( 1,59 $ )
+Seat 5: SoveTnik90 ( 3,08 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,27 $ )
+Seat 10: getterrrr ( 2 $ )
+whyluckys posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, AKreuz ]
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx raises [0,06 $]
+whyluckys folds
+NoahbodyOG folds
+** Summary **
+xxflashxxx collected [ 0,05 $ ]
+
+
+
+#Game No : 551916495
+***** 888poker Hand History for Game 551916495 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:10:17
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,03 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 1,57 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 3,08 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,27 $ )
+Seat 10: getterrrr ( 2 $ )
+NoahbodyOG posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 6Herz ]
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr raises [0,06 $]
+xxflashxxx folds
+whyluckys raises [0,18 $]
+NoahbodyOG folds
+SinisterKid calls [0,16 $]
+getterrrr folds
+** Dealing flop ** [ 2Herz, AKreuz, 6Karo ]
+SinisterKid checks
+whyluckys bets [0,30 $]
+SinisterKid folds
+** Summary **
+whyluckys did not show his hand
+whyluckys collected [ 0,41 $ ]
+
+
+
+#Game No : 551916536
+***** 888poker Hand History for Game 551916536 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:11:25
+Table Franca 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,03 $ )
+Seat 2: whyluckys ( 2,23 $ )
+Seat 3: NoahbodyOG ( 1,56 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 3,08 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,27 $ )
+Seat 10: getterrrr ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 9Karo ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG raises [0,04 $]
+SinisterKid calls [0,03 $]
+SoveTnik90 calls [0,02 $]
+** Dealing flop ** [ AKaro, 5Karo, 7Kreuz ]
+SinisterKid checks
+SoveTnik90 checks
+NoahbodyOG bets [0,06 $]
+SinisterKid raises [0,24 $]
+SoveTnik90 folds
+NoahbodyOG calls [0,18 $]
+** Dealing turn ** [ 3Herz ]
+SinisterKid bets [0,34 $]
+NoahbodyOG raises [0,85 $]
+SinisterKid folds
+** Summary **
+NoahbodyOG did not show his hand
+NoahbodyOG collected [ 1,20 $ ]
+
+
+
+#Game No : 551916611
+***** 888poker Hand History for Game 551916611 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:13:24
+Table Franca 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,03 $ )
+Seat 2: whyluckys ( 2,23 $ )
+Seat 3: NoahbodyOG ( 2,14 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 3,04 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,27 $ )
+Seat 10: getterrrr ( 2 $ )
+SoveTnik90 posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, AKreuz ]
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG raises [0,05 $]
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+** Summary **
+NoahbodyOG did not show his hand
+NoahbodyOG collected [ 0,05 $ ]
+
+
+
+#Game No : 551916634
+***** 888poker Hand History for Game 551916634 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:13:59
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,03 $ )
+Seat 2: whyluckys ( 2,23 $ )
+Seat 3: NoahbodyOG ( 2,17 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 3,03 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,57 $ )
+Seat 9: thepirate39 ( 2,27 $ )
+Seat 10: getterrrr ( 2 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 8Karo ]
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+SoveTnik90 folds
+PQ7po raises [0,05 $]
+B2B_Suckouts folds
+** Summary **
+PQ7po did not show his hand
+PQ7po collected [ 0,04 $ ]
+
+
+
+#Game No : 551916645
+***** 888poker Hand History for Game 551916645 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:14:24
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,03 $ )
+Seat 2: whyluckys ( 2,23 $ )
+Seat 3: NoahbodyOG ( 2,17 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 3,03 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,55 $ )
+Seat 9: thepirate39 ( 2,27 $ )
+Seat 10: getterrrr ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, AHerz ]
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+SoveTnik90 raises [0,06 $]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+** Summary **
+SoveTnik90 did not show his hand
+SoveTnik90 collected [ 0,05 $ ]
+
+
+
+#Game No : 551916659
+***** 888poker Hand History for Game 551916659 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:14:48
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,03 $ )
+Seat 2: whyluckys ( 2,23 $ )
+Seat 3: NoahbodyOG ( 2,17 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: SoveTnik90 ( 3,06 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,54 $ )
+Seat 9: thepirate39 ( 2,25 $ )
+Seat 10: getterrrr ( 2 $ )
+thepirate39 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 10Pik ]
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG calls [0,02 $]
+SinisterKid raises [0,08 $]
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+NoahbodyOG calls [0,06 $]
+** Dealing flop ** [ 3Kreuz, JPik, 7Pik ]
+NoahbodyOG checks
+SinisterKid bets [0,14 $]
+NoahbodyOG folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,18 $ ]
+
+
+
+#Game No : 551916680
+***** 888poker Hand History for Game 551916680 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:15:29
+Table Franca 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,03 $ )
+Seat 2: whyluckys ( 2,23 $ )
+Seat 3: NoahbodyOG ( 2,09 $ )
+Seat 4: SinisterKid ( 2,10 $ )
+Seat 5: SoveTnik90 ( 3,06 $ )
+Seat 6: PQ7po ( 1,02 $ )
+Seat 7: B2B_Suckouts ( 2,54 $ )
+Seat 9: thepirate39 ( 2,24 $ )
+Seat 10: getterrrr ( 2 $ )
+getterrrr posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 6Herz ]
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+SoveTnik90 folds
+PQ7po raises [0,06 $]
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+** Summary **
+PQ7po did not show his hand
+PQ7po collected [ 0,05 $ ]
+
+
+
+#Game No : 551916694
+***** 888poker Hand History for Game 551916694 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:15:49
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,01 $ )
+Seat 2: whyluckys ( 2,23 $ )
+Seat 3: NoahbodyOG ( 2,09 $ )
+Seat 4: SinisterKid ( 2,10 $ )
+Seat 5: SoveTnik90 ( 3,06 $ )
+Seat 6: PQ7po ( 1,05 $ )
+Seat 7: B2B_Suckouts ( 2,54 $ )
+Seat 9: thepirate39 ( 2,24 $ )
+Seat 10: getterrrr ( 2 $ )
+xxflashxxx posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 2Pik ]
+NoahbodyOG folds
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx raises [0,05 $]
+whyluckys raises [0,16 $]
+xxflashxxx raises [0,30 $]
+whyluckys calls [0,18 $]
+** Dealing flop ** [ JHerz, 6Kreuz, JPik ]
+xxflashxxx bets [0,48 $]
+whyluckys folds
+** Summary **
+xxflashxxx did not show his hand
+xxflashxxx collected [ 0,68 $ ]
+
+
+
+#Game No : 551916736
+***** 888poker Hand History for Game 551916736 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:16:49
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2,33 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,10 $ )
+Seat 5: SoveTnik90 ( 3,06 $ )
+Seat 6: PQ7po ( 1,05 $ )
+Seat 7: B2B_Suckouts ( 2,54 $ )
+Seat 9: thepirate39 ( 2,24 $ )
+Seat 10: getterrrr ( 2 $ )
+whyluckys posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 7Pik ]
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+** Summary **
+SinisterKid collected [ 0,03 $ ]
+
+
+
+#Game No : 551916750
+***** 888poker Hand History for Game 551916750 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:17:10
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 2,33 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 4: SinisterKid ( 2,11 $ )
+Seat 5: SoveTnik90 ( 3,06 $ )
+Seat 6: PQ7po ( 1,05 $ )
+Seat 7: B2B_Suckouts ( 2,54 $ )
+Seat 9: thepirate39 ( 2,24 $ )
+Seat 10: getterrrr ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 2Karo ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx raises [0,04 $]
+whyluckys folds
+SinisterKid folds
+SoveTnik90 folds
+** Summary **
+xxflashxxx collected [ 0,05 $ ]
+
+
+
+#Game No : 551916766
+***** 888poker Hand History for Game 551916766 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:17:30
+Table Franca 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,36 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,09 $ )
+Seat 4: SinisterKid ( 2,10 $ )
+Seat 5: SoveTnik90 ( 3,04 $ )
+Seat 6: PQ7po ( 1,05 $ )
+Seat 7: B2B_Suckouts ( 2,54 $ )
+Seat 9: thepirate39 ( 2,24 $ )
+Seat 10: getterrrr ( 2 $ )
+SoveTnik90 posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+NoahbodyOG folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 3Herz ]
+B2B_Suckouts folds
+thepirate39 raises [0,06 $]
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+SinisterKid folds
+SoveTnik90 folds
+PQ7po calls [0,04 $]
+** Dealing flop ** [ QKreuz, 9Kreuz, JKreuz ]
+PQ7po checks
+thepirate39 bets [0,04 $]
+PQ7po folds
+** Summary **
+thepirate39 did not show his hand
+thepirate39 collected [ 0,13 $ ]
+
+
+
+#Game No : 551916791
+***** 888poker Hand History for Game 551916791 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:18:13
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,36 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,09 $ )
+Seat 4: SinisterKid ( 2,10 $ )
+Seat 5: SoveTnik90 ( 3,03 $ )
+Seat 6: PQ7po ( 0,99 $ )
+Seat 7: B2B_Suckouts ( 2,54 $ )
+Seat 9: thepirate39 ( 2,31 $ )
+Seat 10: getterrrr ( 2 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+NoahbodyOG posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 2Kreuz ]
+thepirate39 folds
+getterrrr folds
+xxflashxxx calls [0,02 $]
+whyluckys folds
+NoahbodyOG checks
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts checks
+** Dealing flop ** [ 6Kreuz, 5Kreuz, 10Herz ]
+B2B_Suckouts checks
+xxflashxxx bets [0,08 $]
+NoahbodyOG folds
+B2B_Suckouts folds
+** Summary **
+xxflashxxx did not show his hand
+xxflashxxx collected [ 0,08 $ ]
+
+
+
+#Game No : 551916820
+***** 888poker Hand History for Game 551916820 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:19:02
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,42 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,06 $ )
+Seat 4: SinisterKid ( 2,10 $ )
+Seat 5: SoveTnik90 ( 3,03 $ )
+Seat 6: PQ7po ( 0,98 $ )
+Seat 7: B2B_Suckouts ( 2,52 $ )
+Seat 9: thepirate39 ( 2,31 $ )
+Seat 10: getterrrr ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, JHerz ]
+getterrrr raises [0,06 $]
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+** Summary **
+getterrrr did not show his hand
+getterrrr collected [ 0,05 $ ]
+
+
+
+#Game No : 551916830
+***** 888poker Hand History for Game 551916830 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:19:20
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,42 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,06 $ )
+Seat 4: SinisterKid ( 2,10 $ )
+Seat 5: SoveTnik90 ( 3,03 $ )
+Seat 6: PQ7po ( 0,98 $ )
+Seat 7: B2B_Suckouts ( 2,51 $ )
+Seat 9: thepirate39 ( 2,29 $ )
+Seat 10: getterrrr ( 2,03 $ )
+thepirate39 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 7Pik ]
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+SoveTnik90 raises [0,06 $]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr calls [0,04 $]
+** Dealing flop ** [ 7Karo, 8Herz, 4Herz ]
+getterrrr checks
+SoveTnik90 bets [0,06 $]
+getterrrr folds
+** Summary **
+SoveTnik90 did not show his hand
+SoveTnik90 collected [ 0,13 $ ]
+
+
+
+#Game No : 551916847
+***** 888poker Hand History for Game 551916847 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:19:58
+Table Franca 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,42 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,06 $ )
+Seat 4: SinisterKid ( 2,10 $ )
+Seat 5: SoveTnik90 ( 3,10 $ )
+Seat 6: PQ7po ( 0,98 $ )
+Seat 7: B2B_Suckouts ( 2,51 $ )
+Seat 9: thepirate39 ( 2,28 $ )
+Seat 10: getterrrr ( 2 $ )
+getterrrr posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 7Kreuz ]
+whyluckys folds
+NoahbodyOG folds
+SinisterKid raises [0,06 $]
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 calls [0,06 $]
+getterrrr folds
+xxflashxxx calls [0,04 $]
+** Dealing flop ** [ 5Herz, KKaro, 2Karo ]
+xxflashxxx checks
+SinisterKid bets [0,14 $]
+thepirate39 folds
+xxflashxxx folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,18 $ ]
+
+
+
+#Game No : 551916870
+***** 888poker Hand History for Game 551916870 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:20:37
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,36 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,06 $ )
+Seat 4: SinisterKid ( 2,22 $ )
+Seat 5: SoveTnik90 ( 3,10 $ )
+Seat 6: PQ7po ( 0,98 $ )
+Seat 7: B2B_Suckouts ( 2,51 $ )
+Seat 9: thepirate39 ( 2,22 $ )
+Seat 10: getterrrr ( 2 $ )
+xxflashxxx posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 6Kreuz ]
+NoahbodyOG folds
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr raises [0,06 $]
+xxflashxxx raises [0,11 $]
+whyluckys folds
+getterrrr calls [0,06 $]
+** Dealing flop ** [ 3Pik, 3Herz, 10Kreuz ]
+xxflashxxx bets [0,17 $]
+getterrrr folds
+** Summary **
+xxflashxxx did not show his hand
+xxflashxxx collected [ 0,25 $ ]
+
+
+
+#Game No : 551916884
+***** 888poker Hand History for Game 551916884 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:21:18
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,49 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,06 $ )
+Seat 4: SinisterKid ( 2,22 $ )
+Seat 5: SoveTnik90 ( 3,10 $ )
+Seat 6: PQ7po ( 0,98 $ )
+Seat 7: B2B_Suckouts ( 2,51 $ )
+Seat 9: thepirate39 ( 2,22 $ )
+Seat 10: getterrrr ( 2 $ )
+whyluckys posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 6Herz ]
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 raises [0,06 $]
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG calls [0,04 $]
+** Dealing flop ** [ JPik, QKaro, 9Karo ]
+NoahbodyOG checks
+thepirate39 bets [0,04 $]
+NoahbodyOG calls [0,04 $]
+** Dealing turn ** [ 5Pik ]
+NoahbodyOG checks
+thepirate39 bets [0,06 $]
+NoahbodyOG raises [0,12 $]
+thepirate39 calls [0,06 $]
+** Dealing river ** [ 2Pik ]
+NoahbodyOG checks
+thepirate39 checks
+** Summary **
+NoahbodyOG shows [ QHerz, QKreuz ]
+thepirate39 mucks [ APik, JKaro ]
+NoahbodyOG collected [ 0,43 $ ]
+
+
+
+#Game No : 551916912
+***** 888poker Hand History for Game 551916912 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:22:26
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,49 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,27 $ )
+Seat 4: SinisterKid ( 2,22 $ )
+Seat 5: SoveTnik90 ( 3,10 $ )
+Seat 6: PQ7po ( 0,98 $ )
+Seat 7: B2B_Suckouts ( 2,51 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+NoahbodyOG posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, KKaro ]
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,03 $ ]
+
+
+
+#Game No : 551916917
+***** 888poker Hand History for Game 551916917 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:22:45
+Table Franca 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,49 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,26 $ )
+Seat 4: SinisterKid ( 2,23 $ )
+Seat 5: SoveTnik90 ( 3,10 $ )
+Seat 6: PQ7po ( 0,98 $ )
+Seat 7: B2B_Suckouts ( 2,51 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+SinisterKid posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 7Pik ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid raises [0,07 $]
+SoveTnik90 folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,04 $ ]
+
+
+
+#Game No : 551916927
+***** 888poker Hand History for Game 551916927 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:23:04
+Table Franca 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,49 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,26 $ )
+Seat 4: SinisterKid ( 2,25 $ )
+Seat 5: SoveTnik90 ( 3,08 $ )
+Seat 6: PQ7po ( 0,98 $ )
+Seat 7: B2B_Suckouts ( 2,51 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2 $ )
+SoveTnik90 posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, AKreuz ]
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr raises [0,06 $]
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG calls [0,06 $]
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+** Dealing flop ** [ QKreuz, 9Kreuz, 9Herz ]
+getterrrr bets [0,09 $]
+NoahbodyOG calls [0,09 $]
+** Dealing turn ** [ 9Pik ]
+getterrrr checks
+NoahbodyOG bets [0,10 $]
+getterrrr calls [0,10 $]
+** Dealing river ** [ 10Herz ]
+getterrrr checks
+NoahbodyOG checks
+** Summary **
+getterrrr shows [ 10Kreuz, JKreuz ]
+NoahbodyOG mucks [ 6Kreuz, 6Karo ]
+getterrrr collected [ 0,50 $ ]
+
+
+
+#Game No : 551916955
+***** 888poker Hand History for Game 551916955 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:24:12
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 2,49 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,01 $ )
+Seat 4: SinisterKid ( 2,25 $ )
+Seat 5: SoveTnik90 ( 3,07 $ )
+Seat 6: PQ7po ( 0,96 $ )
+Seat 7: B2B_Suckouts ( 2,51 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,25 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, QKreuz ]
+thepirate39 folds
+getterrrr folds
+xxflashxxx folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+SoveTnik90 raises [0,06 $]
+PQ7po folds
+B2B_Suckouts folds
+** Summary **
+SoveTnik90 collected [ 0,05 $ ]
+
+
+
+#Game No : 551916973
+***** 888poker Hand History for Game 551916973 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:24:47
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,01 $ )
+Seat 4: SinisterKid ( 2,25 $ )
+Seat 5: SoveTnik90 ( 3,10 $ )
+Seat 6: PQ7po ( 0,95 $ )
+Seat 7: B2B_Suckouts ( 2,49 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,25 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 5Karo ]
+getterrrr folds
+whyluckys folds
+NoahbodyOG raises [0,04 $]
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 raises [0,10 $]
+NoahbodyOG calls [0,08 $]
+** Dealing flop ** [ 9Herz, KHerz, 4Kreuz ]
+thepirate39 bets [0,08 $]
+NoahbodyOG calls [0,08 $]
+** Dealing turn ** [ 8Pik ]
+thepirate39 checks
+NoahbodyOG bets [0,20 $]
+thepirate39 folds
+** Summary **
+NoahbodyOG collected [ 0,39 $ ]
+
+
+
+#Game No : 551917003
+***** 888poker Hand History for Game 551917003 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:25:33
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,20 $ )
+Seat 4: SinisterKid ( 2,25 $ )
+Seat 5: SoveTnik90 ( 3,10 $ )
+Seat 6: PQ7po ( 0,95 $ )
+Seat 7: B2B_Suckouts ( 2,48 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,25 $ )
+thepirate39 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, KKaro ]
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 raises [0,03 $]
+getterrrr raises [0,14 $]
+thepirate39 folds
+** Summary **
+getterrrr collected [ 0,08 $ ]
+
+
+
+#Game No : 551917017
+***** 888poker Hand History for Game 551917017 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:26:02
+Table Franca 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,06 $ )
+Seat 2: whyluckys ( 2 $ )
+Seat 3: NoahbodyOG ( 2,20 $ )
+Seat 4: SinisterKid ( 2,25 $ )
+Seat 5: SoveTnik90 ( 3,10 $ )
+Seat 6: PQ7po ( 0,95 $ )
+Seat 7: B2B_Suckouts ( 2,48 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,29 $ )
+getterrrr posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 10Herz ]
+whyluckys raises [0,06 $]
+NoahbodyOG folds
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+** Summary **
+whyluckys did not show his hand
+whyluckys collected [ 0,05 $ ]
+
+
+
+#Game No : 551917041
+***** 888poker Hand History for Game 551917041 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:26:38
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,04 $ )
+Seat 2: whyluckys ( 2,03 $ )
+Seat 3: NoahbodyOG ( 2,20 $ )
+Seat 4: SinisterKid ( 2,25 $ )
+Seat 5: SoveTnik90 ( 3,10 $ )
+Seat 6: PQ7po ( 0,95 $ )
+Seat 7: B2B_Suckouts ( 2,48 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,28 $ )
+BreatheLive posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 4Kreuz ]
+NoahbodyOG calls [0,02 $]
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr raises [0,08 $]
+BreatheLive folds
+whyluckys folds
+NoahbodyOG calls [0,06 $]
+** Dealing flop ** [ 8Pik, 4Herz, 2Pik ]
+NoahbodyOG checks
+getterrrr bets [0,14 $]
+NoahbodyOG folds
+** Summary **
+getterrrr did not show his hand
+getterrrr collected [ 0,18 $ ]
+
+
+
+#Game No : 551917069
+***** 888poker Hand History for Game 551917069 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:27:14
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,03 $ )
+Seat 2: whyluckys ( 2,01 $ )
+Seat 3: NoahbodyOG ( 2,12 $ )
+Seat 4: SinisterKid ( 2,25 $ )
+Seat 5: SoveTnik90 ( 3,10 $ )
+Seat 6: PQ7po ( 0,95 $ )
+Seat 7: B2B_Suckouts ( 2,48 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,38 $ )
+whyluckys posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 10Kreuz ]
+SinisterKid folds
+SoveTnik90 folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys raises [0,07 $]
+NoahbodyOG folds
+** Summary **
+whyluckys did not show his hand
+whyluckys collected [ 0,04 $ ]
+
+
+
+#Game No : 551917083
+***** 888poker Hand History for Game 551917083 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:27:39
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2,03 $ )
+Seat 2: whyluckys ( 2,03 $ )
+Seat 3: NoahbodyOG ( 2,10 $ )
+Seat 4: SinisterKid ( 2,25 $ )
+Seat 6: PQ7po ( 0,95 $ )
+Seat 7: B2B_Suckouts ( 2,48 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,38 $ )
+NoahbodyOG posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 6Herz ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,03 $ ]
+
+
+
+#Game No : 551917093
+***** 888poker Hand History for Game 551917093 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:27:55
+Table Franca 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2,03 $ )
+Seat 2: whyluckys ( 2,03 $ )
+Seat 3: NoahbodyOG ( 2,09 $ )
+Seat 4: SinisterKid ( 2,26 $ )
+Seat 6: PQ7po ( 0,95 $ )
+Seat 7: B2B_Suckouts ( 2,48 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,38 $ )
+SinisterKid posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, KHerz ]
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG calls [0,02 $]
+SinisterKid folds
+PQ7po checks
+** Dealing flop ** [ 3Pik, 4Pik, AHerz ]
+PQ7po checks
+NoahbodyOG checks
+** Dealing turn ** [ 6Kreuz ]
+PQ7po checks
+NoahbodyOG checks
+** Dealing river ** [ 6Herz ]
+PQ7po bets [0,03 $]
+NoahbodyOG folds
+** Summary **
+PQ7po collected [ 0,05 $ ]
+
+
+
+#Game No : 551917240
+***** 888poker Hand History for Game 551917240 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:31:35
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2,34 $ )
+Seat 2: whyluckys ( 2,12 $ )
+Seat 3: NoahbodyOG ( 2,01 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,48 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,35 $ )
+BreatheLive posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+B2B_Suckouts posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 8Pik ]
+NoahbodyOG raises [0,06 $]
+SinisterKid folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+** Summary **
+NoahbodyOG collected [ 0,08 $ ]
+
+
+
+#Game No : 551917251
+***** 888poker Hand History for Game 551917251 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:31:53
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2,33 $ )
+Seat 2: whyluckys ( 2,10 $ )
+Seat 3: NoahbodyOG ( 2,07 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,45 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,35 $ )
+whyluckys posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, KKaro ]
+SinisterKid folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys raises [0,04 $]
+NoahbodyOG calls [0,03 $]
+** Dealing flop ** [ QPik, 7Kreuz, JKreuz ]
+whyluckys checks
+NoahbodyOG checks
+** Dealing turn ** [ 10Herz ]
+whyluckys checks
+NoahbodyOG checks
+** Dealing river ** [ 9Kreuz ]
+whyluckys checks
+NoahbodyOG checks
+** Summary **
+whyluckys shows [ 8Karo, AKreuz ]
+NoahbodyOG mucks [ 6Kreuz, 9Herz ]
+whyluckys collected [ 0,10 $ ]
+
+
+
+#Game No : 551917275
+***** 888poker Hand History for Game 551917275 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:32:39
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2,33 $ )
+Seat 2: whyluckys ( 2,15 $ )
+Seat 3: NoahbodyOG ( 2,02 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,45 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,35 $ )
+NoahbodyOG posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 2Kreuz ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys raises [0,05 $]
+NoahbodyOG calls [0,04 $]
+SinisterKid calls [0,03 $]
+** Dealing flop ** [ 4Karo, QHerz, 3Kreuz ]
+NoahbodyOG checks
+SinisterKid checks
+whyluckys checks
+** Dealing turn ** [ 9Pik ]
+NoahbodyOG checks
+SinisterKid bets [0,12 $]
+whyluckys folds
+NoahbodyOG folds
+** Summary **
+SinisterKid collected [ 0,15 $ ]
+
+
+
+#Game No : 551917316
+***** 888poker Hand History for Game 551917316 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:33:29
+Table Franca 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,33 $ )
+Seat 2: whyluckys ( 2,10 $ )
+Seat 3: NoahbodyOG ( 1,97 $ )
+Seat 4: SinisterKid ( 2,10 $ )
+Seat 5: RBraia ( 2 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,45 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,35 $ )
+SinisterKid posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 7Pik ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive raises [0,06 $]
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+RBraia folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,05 $ ]
+
+
+
+#Game No : 551917334
+***** 888poker Hand History for Game 551917334 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:34:06
+Table Franca 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,36 $ )
+Seat 2: whyluckys ( 2,10 $ )
+Seat 3: NoahbodyOG ( 1,97 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,98 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,45 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,35 $ )
+RBraia posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, KHerz ]
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG calls [0,02 $]
+SinisterKid raises [0,10 $]
+RBraia folds
+PQ7po raises [0,98 $]
+NoahbodyOG folds
+SinisterKid folds
+** Summary **
+PQ7po did not show his hand
+PQ7po collected [ 0,23 $ ]
+
+
+
+#Game No : 551917368
+***** 888poker Hand History for Game 551917368 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:34:56
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,36 $ )
+Seat 2: whyluckys ( 2,10 $ )
+Seat 3: NoahbodyOG ( 1,95 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: RBraia ( 1,97 $ )
+Seat 6: PQ7po ( 1,13 $ )
+Seat 7: B2B_Suckouts ( 2,45 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,35 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 8Kreuz ]
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys raises [0,06 $]
+NoahbodyOG calls [0,06 $]
+SinisterKid calls [0,06 $]
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+** Dealing flop ** [ KHerz, QKreuz, 6Herz ]
+whyluckys checks
+NoahbodyOG checks
+SinisterKid checks
+** Dealing turn ** [ 9Kreuz ]
+whyluckys checks
+NoahbodyOG bets [0,06 $]
+SinisterKid calls [0,06 $]
+whyluckys calls [0,06 $]
+** Dealing river ** [ JPik ]
+whyluckys checks
+NoahbodyOG checks
+SinisterKid checks
+** Summary **
+whyluckys shows [ 9Karo, 10Karo ]
+NoahbodyOG mucks [ 4Herz, 3Herz ]
+SinisterKid mucks [ 7Kreuz, 7Pik ]
+whyluckys collected [ 0,37 $ ]
+
+
+
+#Game No : 551917440
+***** 888poker Hand History for Game 551917440 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:36:32
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,36 $ )
+Seat 2: whyluckys ( 2,35 $ )
+Seat 3: NoahbodyOG ( 1,83 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: RBraia ( 1,97 $ )
+Seat 6: PQ7po ( 1,12 $ )
+Seat 7: B2B_Suckouts ( 2,43 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,35 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 2Pik ]
+getterrrr folds
+BreatheLive folds
+whyluckys raises [0,06 $]
+NoahbodyOG folds
+SinisterKid folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+** Summary **
+whyluckys did not show his hand
+whyluckys collected [ 0,05 $ ]
+
+
+
+#Game No : 551917460
+***** 888poker Hand History for Game 551917460 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:37:01
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,36 $ )
+Seat 2: whyluckys ( 2,38 $ )
+Seat 3: NoahbodyOG ( 1,83 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: RBraia ( 1,97 $ )
+Seat 6: PQ7po ( 1,12 $ )
+Seat 7: B2B_Suckouts ( 2,42 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,35 $ )
+thepirate39 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 3Herz ]
+BreatheLive folds
+whyluckys folds
+NoahbodyOG calls [0,02 $]
+SinisterKid folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr checks
+** Dealing flop ** [ 9Karo, 10Karo, 2Pik ]
+getterrrr checks
+NoahbodyOG bets [0,02 $]
+getterrrr calls [0,02 $]
+** Dealing turn ** [ 5Karo ]
+getterrrr checks
+NoahbodyOG checks
+** Dealing river ** [ 9Kreuz ]
+getterrrr checks
+NoahbodyOG checks
+** Summary **
+getterrrr shows [ JKreuz, KHerz ]
+NoahbodyOG shows [ KPik, 10Pik ]
+NoahbodyOG collected [ 0,09 $ ]
+
+
+
+#Game No : 551917500
+***** 888poker Hand History for Game 551917500 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:37:58
+Table Franca 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,36 $ )
+Seat 2: whyluckys ( 2,38 $ )
+Seat 3: NoahbodyOG ( 1,88 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: RBraia ( 1,97 $ )
+Seat 6: PQ7po ( 1,12 $ )
+Seat 7: B2B_Suckouts ( 2,42 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,31 $ )
+getterrrr posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, QKreuz ]
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts raises [0,04 $]
+thepirate39 folds
+getterrrr folds
+BreatheLive raises [0,14 $]
+B2B_Suckouts folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,09 $ ]
+
+
+
+#Game No : 551917523
+***** 888poker Hand History for Game 551917523 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:38:33
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,41 $ )
+Seat 2: whyluckys ( 2,38 $ )
+Seat 3: NoahbodyOG ( 1,88 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: RBraia ( 1,97 $ )
+Seat 6: PQ7po ( 1,12 $ )
+Seat 7: B2B_Suckouts ( 2,38 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,30 $ )
+BreatheLive posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 2Herz ]
+NoahbodyOG calls [0,02 $]
+SinisterKid folds
+RBraia folds
+PQ7po calls [0,02 $]
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys checks
+** Dealing flop ** [ 9Karo, JKaro, 8Karo ]
+whyluckys checks
+NoahbodyOG checks
+PQ7po checks
+** Dealing turn ** [ 7Karo ]
+whyluckys checks
+NoahbodyOG checks
+PQ7po checks
+** Dealing river ** [ 8Herz ]
+whyluckys checks
+NoahbodyOG checks
+PQ7po checks
+** Summary **
+whyluckys shows [ JHerz, QKreuz ]
+NoahbodyOG shows [ APik, 10Pik ]
+PQ7po shows [ 6Herz, 6Karo ]
+PQ7po collected [ 0,07 $ ]
+
+
+
+#Game No : 551917585
+***** 888poker Hand History for Game 551917585 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:40:08
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,40 $ )
+Seat 2: whyluckys ( 2,36 $ )
+Seat 3: NoahbodyOG ( 1,86 $ )
+Seat 4: SinisterKid ( 2 $ )
+Seat 5: RBraia ( 1,97 $ )
+Seat 6: PQ7po ( 1,17 $ )
+Seat 7: B2B_Suckouts ( 2,38 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,30 $ )
+whyluckys posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 10Pik ]
+SinisterKid raises [0,06 $]
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 calls [0,06 $]
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+** Dealing flop ** [ 2Herz, 3Pik, QKaro ]
+SinisterKid bets [0,10 $]
+thepirate39 folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,15 $ ]
+
+
+
+#Game No : 551917604
+***** 888poker Hand History for Game 551917604 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:40:36
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,40 $ )
+Seat 2: whyluckys ( 2,35 $ )
+Seat 3: NoahbodyOG ( 1,84 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,97 $ )
+Seat 6: PQ7po ( 1,17 $ )
+Seat 7: B2B_Suckouts ( 2,38 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,30 $ )
+NoahbodyOG posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 4Herz ]
+RBraia calls [0,02 $]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive calls [0,02 $]
+whyluckys folds
+NoahbodyOG folds
+SinisterKid checks
+** Dealing flop ** [ 10Kreuz, KHerz, 3Kreuz ]
+SinisterKid checks
+RBraia checks
+BreatheLive bets [0,04 $]
+SinisterKid folds
+RBraia calls [0,04 $]
+** Dealing turn ** [ 8Herz ]
+RBraia checks
+BreatheLive bets [0,07 $]
+RBraia folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,15 $ ]
+
+
+
+#Game No : 551917664
+***** 888poker Hand History for Game 551917664 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:41:48
+Table Franca 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,49 $ )
+Seat 2: whyluckys ( 2,35 $ )
+Seat 3: NoahbodyOG ( 1,83 $ )
+Seat 4: SinisterKid ( 2,07 $ )
+Seat 5: RBraia ( 1,91 $ )
+Seat 6: PQ7po ( 1,17 $ )
+Seat 7: B2B_Suckouts ( 2,38 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,30 $ )
+SinisterKid posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, QHerz ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive raises [0,06 $]
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+RBraia folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,05 $ ]
+
+
+
+#Game No : 551917691
+***** 888poker Hand History for Game 551917691 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:42:18
+Table Franca 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,52 $ )
+Seat 2: whyluckys ( 2,35 $ )
+Seat 3: NoahbodyOG ( 1,83 $ )
+Seat 4: SinisterKid ( 2,06 $ )
+Seat 5: RBraia ( 1,89 $ )
+Seat 6: PQ7po ( 1,17 $ )
+Seat 7: B2B_Suckouts ( 2,38 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,30 $ )
+RBraia posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 7Kreuz ]
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid raises [0,08 $]
+RBraia folds
+PQ7po folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,05 $ ]
+
+
+
+#Game No : 551917709
+***** 888poker Hand History for Game 551917709 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:42:40
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,52 $ )
+Seat 2: whyluckys ( 2,35 $ )
+Seat 3: NoahbodyOG ( 1,83 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,88 $ )
+Seat 6: PQ7po ( 1,15 $ )
+Seat 7: B2B_Suckouts ( 2,38 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,30 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 7Pik ]
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG raises [0,06 $]
+SinisterKid folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+** Summary **
+NoahbodyOG did not show his hand
+NoahbodyOG collected [ 0,05 $ ]
+
+
+
+#Game No : 551917728
+***** 888poker Hand History for Game 551917728 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:43:01
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,52 $ )
+Seat 2: whyluckys ( 2,35 $ )
+Seat 3: NoahbodyOG ( 1,86 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,88 $ )
+Seat 6: PQ7po ( 1,14 $ )
+Seat 7: B2B_Suckouts ( 2,36 $ )
+Seat 9: thepirate39 ( 2 $ )
+Seat 10: getterrrr ( 2,30 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 6Pik ]
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+RBraia folds
+PQ7po raises [0,06 $]
+B2B_Suckouts folds
+thepirate39 calls [0,04 $]
+** Dealing flop ** [ JKreuz, 5Pik, 10Karo ]
+thepirate39 checks
+PQ7po bets [0,08 $]
+thepirate39 calls [0,08 $]
+** Dealing turn ** [ 9Karo ]
+thepirate39 checks
+PQ7po checks
+** Dealing river ** [ AKreuz ]
+thepirate39 bets [0,31 $]
+PQ7po folds
+** Summary **
+thepirate39 did not show his hand
+thepirate39 collected [ 0,28 $ ]
+
+
+
+#Game No : 551917774
+***** 888poker Hand History for Game 551917774 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:43:55
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,52 $ )
+Seat 2: whyluckys ( 2,35 $ )
+Seat 3: NoahbodyOG ( 1,86 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,88 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 2,35 $ )
+Seat 9: thepirate39 ( 2,14 $ )
+Seat 10: getterrrr ( 2,30 $ )
+thepirate39 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 9Pik ]
+BreatheLive raises [0,06 $]
+whyluckys folds
+NoahbodyOG calls [0,06 $]
+SinisterKid folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts raises [0,24 $]
+thepirate39 folds
+getterrrr folds
+BreatheLive raises [2,46 $]
+NoahbodyOG folds
+B2B_Suckouts calls [2,11 $]
+** Dealing flop ** [ JHerz, 4Herz, 6Pik ]
+** Dealing turn ** [ 5Kreuz ]
+** Dealing river ** [ 3Herz ]
+** Summary **
+BreatheLive shows [ APik, KHerz ]
+B2B_Suckouts shows [ 9Herz, 9Pik ]
+B2B_Suckouts collected [ 4,50 $ ]
+
+
+
+#Game No : 551917817
+***** 888poker Hand History for Game 551917817 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:44:45
+Table Franca 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,35 $ )
+Seat 3: NoahbodyOG ( 1,80 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,88 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 4,50 $ )
+Seat 9: thepirate39 ( 2,13 $ )
+Seat 10: getterrrr ( 2,28 $ )
+getterrrr posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 3Pik ]
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+RBraia raises [0,06 $]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+** Summary **
+RBraia did not show his hand
+RBraia collected [ 0,05 $ ]
+
+
+
+#Game No : 551917851
+***** 888poker Hand History for Game 551917851 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:45:24
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,35 $ )
+Seat 3: NoahbodyOG ( 1,80 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,91 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 4,50 $ )
+Seat 9: thepirate39 ( 2,13 $ )
+Seat 10: getterrrr ( 2,27 $ )
+BreatheLive posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, JPik ]
+NoahbodyOG folds
+SinisterKid folds
+RBraia raises [0,08 $]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+** Summary **
+RBraia did not show his hand
+RBraia collected [ 0,05 $ ]
+
+
+
+#Game No : 551917887
+***** 888poker Hand History for Game 551917887 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:46:06
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,33 $ )
+Seat 3: NoahbodyOG ( 1,80 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,94 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 9: thepirate39 ( 2,13 $ )
+Seat 10: getterrrr ( 2,27 $ )
+whyluckys posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+SinisterKid folds
+RBraia folds
+PQ7po folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+** Summary **
+NoahbodyOG collected [ 0,03 $ ]
+
+
+
+#Game No : 551917904
+***** 888poker Hand History for Game 551917904 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:46:32
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,32 $ )
+Seat 3: NoahbodyOG ( 1,81 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,94 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 4,50 $ )
+Seat 9: thepirate39 ( 2,13 $ )
+Seat 10: getterrrr ( 2,27 $ )
+NoahbodyOG posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 2Kreuz ]
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys raises [0,05 $]
+NoahbodyOG folds
+SinisterKid raises [0,16 $]
+whyluckys folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,11 $ ]
+
+
+
+#Game No : 551917944
+***** 888poker Hand History for Game 551917944 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:47:16
+Table Franca 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,27 $ )
+Seat 3: NoahbodyOG ( 1,80 $ )
+Seat 4: SinisterKid ( 2,15 $ )
+Seat 5: RBraia ( 1,94 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 4,50 $ )
+Seat 9: thepirate39 ( 2,13 $ )
+Seat 10: getterrrr ( 2,27 $ )
+SinisterKid posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, KPik ]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr raises [0,06 $]
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid calls [0,05 $]
+RBraia folds
+** Dealing flop ** [ AHerz, JHerz, 5Kreuz ]
+SinisterKid checks
+getterrrr bets [0,11 $]
+SinisterKid folds
+** Summary **
+getterrrr did not show his hand
+getterrrr collected [ 0,14 $ ]
+
+
+
+#Game No : 551917989
+***** 888poker Hand History for Game 551917989 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:48:06
+Table Franca 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,27 $ )
+Seat 3: NoahbodyOG ( 1,80 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,92 $ )
+Seat 6: PQ7po ( 1 $ )
+Seat 7: B2B_Suckouts ( 4,50 $ )
+Seat 9: thepirate39 ( 2,13 $ )
+Seat 10: getterrrr ( 2,35 $ )
+RBraia posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 4Karo ]
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+RBraia raises [0,07 $]
+PQ7po folds
+** Summary **
+RBraia did not show his hand
+RBraia collected [ 0,04 $ ]
+
+
+
+#Game No : 551918020
+***** 888poker Hand History for Game 551918020 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:48:39
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,27 $ )
+Seat 3: NoahbodyOG ( 1,80 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,94 $ )
+Seat 6: PQ7po ( 0,98 $ )
+Seat 7: B2B_Suckouts ( 4,50 $ )
+Seat 9: thepirate39 ( 2,13 $ )
+Seat 10: getterrrr ( 2,35 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 5Pik ]
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG calls [0,02 $]
+SinisterKid folds
+RBraia calls [0,02 $]
+PQ7po folds
+B2B_Suckouts checks
+** Dealing flop ** [ KKaro, KKreuz, 9Pik ]
+B2B_Suckouts bets [0,02 $]
+NoahbodyOG folds
+RBraia calls [0,02 $]
+** Dealing turn ** [ 2Karo ]
+B2B_Suckouts bets [0,02 $]
+RBraia folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,11 $ ]
+
+
+
+#Game No : 551918064
+***** 888poker Hand History for Game 551918064 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:49:30
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,27 $ )
+Seat 3: NoahbodyOG ( 1,78 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 1,90 $ )
+Seat 6: PQ7po ( 0,97 $ )
+Seat 7: B2B_Suckouts ( 4,57 $ )
+Seat 9: thepirate39 ( 2,13 $ )
+Seat 10: getterrrr ( 2,35 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 9Karo ]
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG calls [0,02 $]
+SinisterKid folds
+RBraia raises [0,08 $]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+NoahbodyOG calls [0,06 $]
+** Dealing flop ** [ JHerz, 10Karo, QKaro ]
+NoahbodyOG checks
+RBraia bets [0,09 $]
+NoahbodyOG calls [0,09 $]
+** Dealing turn ** [ APik ]
+NoahbodyOG checks
+RBraia bets [0,18 $]
+NoahbodyOG folds
+** Summary **
+RBraia did not show his hand
+RBraia collected [ 0,35 $ ]
+
+
+
+#Game No : 551918110
+***** 888poker Hand History for Game 551918110 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:50:19
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,27 $ )
+Seat 3: NoahbodyOG ( 1,61 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 2,08 $ )
+Seat 6: PQ7po ( 0,97 $ )
+Seat 7: B2B_Suckouts ( 4,56 $ )
+Seat 9: thepirate39 ( 2,11 $ )
+Seat 10: getterrrr ( 2,35 $ )
+thepirate39 posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, QPik ]
+BreatheLive folds
+whyluckys folds
+NoahbodyOG calls [0,02 $]
+SinisterKid folds
+RBraia raises [0,06 $]
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+NoahbodyOG calls [0,04 $]
+** Dealing flop ** [ KKreuz, KPik, 10Karo ]
+NoahbodyOG checks
+RBraia bets [0,07 $]
+NoahbodyOG folds
+** Summary **
+RBraia did not show his hand
+RBraia collected [ 0,15 $ ]
+
+
+
+#Game No : 551918150
+***** 888poker Hand History for Game 551918150 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:51:12
+Table Franca 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,27 $ )
+Seat 3: NoahbodyOG ( 1,55 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 2,17 $ )
+Seat 6: PQ7po ( 0,97 $ )
+Seat 7: B2B_Suckouts ( 4,56 $ )
+Seat 9: thepirate39 ( 2,10 $ )
+Seat 10: getterrrr ( 2,33 $ )
+getterrrr posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 5Herz ]
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,03 $ ]
+
+
+
+#Game No : 551918176
+***** 888poker Hand History for Game 551918176 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:51:43
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,01 $ )
+Seat 2: whyluckys ( 2,27 $ )
+Seat 3: NoahbodyOG ( 1,55 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 2,17 $ )
+Seat 6: PQ7po ( 0,97 $ )
+Seat 7: B2B_Suckouts ( 4,56 $ )
+Seat 9: thepirate39 ( 2,10 $ )
+Seat 10: getterrrr ( 2,32 $ )
+BreatheLive posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 8Kreuz ]
+NoahbodyOG folds
+SinisterKid folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive raises [0,05 $]
+whyluckys folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,04 $ ]
+
+
+
+#Game No : 551918196
+***** 888poker Hand History for Game 551918196 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:52:08
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,03 $ )
+Seat 2: whyluckys ( 2,25 $ )
+Seat 3: NoahbodyOG ( 1,55 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 2,17 $ )
+Seat 6: PQ7po ( 0,97 $ )
+Seat 7: B2B_Suckouts ( 4,56 $ )
+Seat 9: thepirate39 ( 2,10 $ )
+Seat 10: getterrrr ( 2,32 $ )
+whyluckys posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 4Pik ]
+SinisterKid folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive raises [0,06 $]
+whyluckys folds
+NoahbodyOG folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,05 $ ]
+
+
+
+#Game No : 551918208
+***** 888poker Hand History for Game 551918208 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:52:26
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,06 $ )
+Seat 2: whyluckys ( 2,24 $ )
+Seat 3: NoahbodyOG ( 1,53 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 2,17 $ )
+Seat 6: PQ7po ( 0,97 $ )
+Seat 7: B2B_Suckouts ( 4,56 $ )
+Seat 9: thepirate39 ( 2,10 $ )
+Seat 10: getterrrr ( 2,32 $ )
+NoahbodyOG posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 5Karo ]
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,03 $ ]
+
+
+
+#Game No : 551918238
+***** 888poker Hand History for Game 551918238 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:52:58
+Table Franca 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2,06 $ )
+Seat 2: whyluckys ( 2,24 $ )
+Seat 3: NoahbodyOG ( 1,52 $ )
+Seat 4: SinisterKid ( 2,10 $ )
+Seat 5: RBraia ( 2,17 $ )
+Seat 6: PQ7po ( 0,97 $ )
+Seat 9: thepirate39 ( 2,10 $ )
+Seat 10: getterrrr ( 2,32 $ )
+SinisterKid posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+PQ7po folds
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+** Summary **
+RBraia collected [ 0,03 $ ]
+
+
+
+#Game No : 551918265
+***** 888poker Hand History for Game 551918265 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:53:33
+Table Franca 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2,06 $ )
+Seat 2: whyluckys ( 2,24 $ )
+Seat 3: NoahbodyOG ( 1,52 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 2,18 $ )
+Seat 6: PQ7po ( 0,97 $ )
+Seat 9: thepirate39 ( 2,10 $ )
+Seat 10: getterrrr ( 2,32 $ )
+RBraia posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+thepirate39 folds
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+RBraia raises [0,07 $]
+PQ7po folds
+** Summary **
+RBraia collected [ 0,04 $ ]
+
+
+
+#Game No : 551918294
+***** 888poker Hand History for Game 551918294 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:54:03
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,06 $ )
+Seat 2: whyluckys ( 2,24 $ )
+Seat 3: NoahbodyOG ( 1,52 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 2,20 $ )
+Seat 6: PQ7po ( 0,95 $ )
+Seat 7: B2B_Suckouts ( 4,56 $ )
+Seat 9: thepirate39 ( 2,10 $ )
+Seat 10: getterrrr ( 2,32 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 4Kreuz ]
+thepirate39 folds
+getterrrr folds
+BreatheLive raises [0,06 $]
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,05 $ ]
+
+
+
+#Game No : 551918322
+***** 888poker Hand History for Game 551918322 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:54:43
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: BreatheLive ( 2,09 $ )
+Seat 2: whyluckys ( 2,24 $ )
+Seat 3: NoahbodyOG ( 1,52 $ )
+Seat 4: SinisterKid ( 2,09 $ )
+Seat 5: RBraia ( 2,20 $ )
+Seat 6: PQ7po ( 0,94 $ )
+Seat 7: B2B_Suckouts ( 4,54 $ )
+Seat 9: thepirate39 ( 2,10 $ )
+Seat 10: getterrrr ( 2,32 $ )
+B2B_Suckouts posts small blind [0,01 $]
+thepirate39 folds
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 4Karo ]
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+SinisterKid folds
+RBraia raises [0,08 $]
+PQ7po folds
+B2B_Suckouts folds
+getterrrr folds
+** Summary **
+RBraia did not show his hand
+RBraia collected [ 0,05 $ ]
+
+
+
+#Game No : 551918353
+***** 888poker Hand History for Game 551918353 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:55:26
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: BreatheLive ( 2,09 $ )
+Seat 2: whyluckys ( 2,24 $ )
+Seat 3: NoahbodyOG ( 1,52 $ )
+Seat 5: RBraia ( 2,23 $ )
+Seat 6: PQ7po ( 0,94 $ )
+Seat 7: B2B_Suckouts ( 4,53 $ )
+Seat 10: getterrrr ( 2,30 $ )
+getterrrr posts small blind [0,01 $]
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 6Kreuz ]
+whyluckys folds
+NoahbodyOG raises [0,06 $]
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+getterrrr calls [0,05 $]
+BreatheLive folds
+** Dealing flop ** [ 8Karo, AHerz, 6Herz ]
+getterrrr checks
+NoahbodyOG checks
+** Dealing turn ** [ 2Karo ]
+getterrrr checks
+NoahbodyOG checks
+** Dealing river ** [ 6Karo ]
+getterrrr checks
+NoahbodyOG bets [0,04 $]
+getterrrr calls [0,04 $]
+** Summary **
+NoahbodyOG shows [ QKaro, 10Karo ]
+getterrrr mucks [ 10Pik, 10Kreuz ]
+NoahbodyOG collected [ 0,21 $ ]
+
+
+
+#Game No : 551918419
+***** 888poker Hand History for Game 551918419 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:56:48
+Table Franca 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: BreatheLive ( 2,07 $ )
+Seat 2: whyluckys ( 2,24 $ )
+Seat 3: NoahbodyOG ( 1,63 $ )
+Seat 5: RBraia ( 2,23 $ )
+Seat 6: PQ7po ( 0,94 $ )
+Seat 7: B2B_Suckouts ( 4,53 $ )
+Seat 10: getterrrr ( 2,20 $ )
+BreatheLive posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 6Kreuz ]
+NoahbodyOG folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+getterrrr folds
+BreatheLive folds
+** Summary **
+whyluckys collected [ 0,03 $ ]
+
+
+
+#Game No : 551918432
+***** 888poker Hand History for Game 551918432 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:57:08
+Table Franca 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: BreatheLive ( 2,06 $ )
+Seat 2: whyluckys ( 2,25 $ )
+Seat 3: NoahbodyOG ( 1,63 $ )
+Seat 5: RBraia ( 2,23 $ )
+Seat 6: PQ7po ( 0,94 $ )
+Seat 7: B2B_Suckouts ( 4,53 $ )
+Seat 10: getterrrr ( 2,20 $ )
+whyluckys posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 7Karo ]
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+getterrrr raises [0,06 $]
+BreatheLive calls [0,06 $]
+whyluckys calls [0,05 $]
+NoahbodyOG calls [0,04 $]
+** Dealing flop ** [ KHerz, 8Karo, 3Kreuz ]
+whyluckys checks
+NoahbodyOG checks
+getterrrr bets [0,15 $]
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+** Summary **
+getterrrr collected [ 0,23 $ ]
+
+
+
+#Game No : 551918468
+***** 888poker Hand History for Game 551918468 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:58:10
+Table Franca 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,19 $ )
+Seat 3: NoahbodyOG ( 1,57 $ )
+Seat 4: SithNitrous ( 1 $ )
+Seat 5: RBraia ( 2,23 $ )
+Seat 6: PQ7po ( 0,94 $ )
+Seat 7: B2B_Suckouts ( 4,53 $ )
+Seat 10: getterrrr ( 2,37 $ )
+NoahbodyOG posts small blind [0,01 $]
+SithNitrous posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 2Karo ]
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+getterrrr folds
+BreatheLive raises [0,06 $]
+whyluckys calls [0,06 $]
+NoahbodyOG folds
+SithNitrous raises [0,98 $]
+BreatheLive folds
+whyluckys folds
+** Summary **
+SithNitrous collected [ 0,19 $ ]
+
+
+
+#Game No : 551918494
+***** 888poker Hand History for Game 551918494 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:58:40
+Table Franca 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,13 $ )
+Seat 3: NoahbodyOG ( 1,56 $ )
+Seat 4: SithNitrous ( 1,13 $ )
+Seat 5: RBraia ( 2,23 $ )
+Seat 6: PQ7po ( 0,94 $ )
+Seat 7: B2B_Suckouts ( 4,53 $ )
+Seat 10: getterrrr ( 2,37 $ )
+SithNitrous posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, AKreuz ]
+PQ7po folds
+B2B_Suckouts folds
+getterrrr raises [0,06 $]
+BreatheLive folds
+whyluckys folds
+NoahbodyOG calls [0,06 $]
+SithNitrous folds
+RBraia folds
+** Dealing flop ** [ 6Herz, JKaro, 4Kreuz ]
+getterrrr checks
+NoahbodyOG checks
+** Dealing turn ** [ JKreuz ]
+getterrrr checks
+NoahbodyOG checks
+** Dealing river ** [ 6Pik ]
+getterrrr checks
+NoahbodyOG checks
+** Summary **
+getterrrr shows [ QHerz, KKreuz ]
+NoahbodyOG shows [ 7Pik, AHerz ]
+NoahbodyOG collected [ 0,15 $ ]
+
+
+
+#Game No : 551918536
+***** 888poker Hand History for Game 551918536 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:59:27
+Table Franca 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,13 $ )
+Seat 3: NoahbodyOG ( 1,65 $ )
+Seat 4: SithNitrous ( 1,12 $ )
+Seat 5: RBraia ( 2,21 $ )
+Seat 6: PQ7po ( 0,94 $ )
+Seat 7: B2B_Suckouts ( 4,53 $ )
+Seat 10: getterrrr ( 2,31 $ )
+RBraia posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, AKreuz ]
+B2B_Suckouts folds
+getterrrr folds
+BreatheLive folds
+whyluckys raises [0,06 $]
+NoahbodyOG folds
+SithNitrous folds
+RBraia folds
+PQ7po folds
+** Summary **
+whyluckys collected [ 0,05 $ ]
+
+
+
+#Game No : 551918561
+***** 888poker Hand History for Game 551918561 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:59:57
+Table Franca 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,16 $ )
+Seat 3: NoahbodyOG ( 1,65 $ )
+Seat 4: SithNitrous ( 1,12 $ )
+Seat 5: RBraia ( 2,20 $ )
+Seat 6: PQ7po ( 0,92 $ )
+Seat 7: B2B_Suckouts ( 4,53 $ )
+Seat 10: getterrrr ( 2,31 $ )
+PQ7po posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 8Herz ]
+getterrrr folds
+BreatheLive folds
+whyluckys folds
+NoahbodyOG folds
+SithNitrous folds
+RBraia raises [0,08 $]
+PQ7po folds
+B2B_Suckouts folds
+** Summary **
+RBraia collected [ 0,05 $ ]
+
+
+
+#Game No : 551918594
+***** 888poker Hand History for Game 551918594 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:00:35
+Table Franca 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: BreatheLive ( 2 $ )
+Seat 2: whyluckys ( 2,16 $ )
+Seat 3: NoahbodyOG ( 1,65 $ )
+Seat 4: SithNitrous ( 1,12 $ )
+Seat 5: RBraia ( 2,23 $ )
+Seat 6: PQ7po ( 0,91 $ )
+Seat 7: B2B_Suckouts ( 4,51 $ )
+Seat 10: getterrrr ( 2,31 $ )
+B2B_Suckouts posts small blind [0,01 $]
+getterrrr folds
+BreatheLive posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 5Herz ]
+whyluckys folds
+NoahbodyOG calls [0,02 $]
+SithNitrous folds
+RBraia calls [0,02 $]
+PQ7po folds
+B2B_Suckouts folds
+BreatheLive checks
+** Dealing flop ** [ 6Pik, KKreuz, 6Kreuz ]
+BreatheLive checks
+NoahbodyOG checks
+RBraia checks
+** Dealing turn ** [ 9Pik ]
+BreatheLive bets [0,03 $]
+NoahbodyOG folds
+RBraia folds
+** Summary **
+BreatheLive did not show his hand
+BreatheLive collected [ 0,07 $ ]
+
+
+
+#Game No : 551918662
+***** 888poker Hand History for Game 551918662 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:02:08
+Table Franca 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: BreatheLive ( 2,05 $ )
+Seat 2: whyluckys ( 2,16 $ )
+Seat 3: NoahbodyOG ( 1,63 $ )
+Seat 4: SithNitrous ( 1,12 $ )
+Seat 5: RBraia ( 2,21 $ )
+Seat 6: PQ7po ( 0,91 $ )
+Seat 7: B2B_Suckouts ( 4,50 $ )
+BreatheLive posts small blind [0,01 $]
+whyluckys folds
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 3Kreuz ]
+SithNitrous folds
+RBraia folds
+PQ7po folds
+B2B_Suckouts folds
+BreatheLive folds
+** Summary **
+NoahbodyOG did not show his hand
+NoahbodyOG collected [ 0,03 $ ]
+
+
+
