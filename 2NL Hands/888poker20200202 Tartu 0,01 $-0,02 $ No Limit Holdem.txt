@@ -1,0 +1,3737 @@
+#Game No : 550869726
+***** 888poker Hand History for Game 550869726 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:08:18
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 0,68 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 5: 1gadfly1 ( 4,28 $ )
+Seat 6: Gugusik2010 ( 3,39 $ )
+Seat 7: xxflashxxx ( 0,97 $ )
+Seat 9: Pyziaka2a ( 2,22 $ )
+Seat 10: w3sby ( 3,13 $ )
+Geranja posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 5Karo ]
+1gadfly1 raises [0,05 $]
+Gugusik2010 folds
+xxflashxxx folds
+Pyziaka2a folds
+w3sby calls [0,05 $]
+earthspitter folds
+Geranja calls [0,04 $]
+B2B_Suckouts calls [0,03 $]
+** Dealing flop ** [ 6Pik, 8Kreuz, 7Karo ]
+Geranja bets [0,13 $]
+B2B_Suckouts calls [0,13 $]
+1gadfly1 calls [0,13 $]
+w3sby raises [0,60 $]
+Geranja folds
+B2B_Suckouts folds
+1gadfly1 folds
+** Summary **
+w3sby collected [ 0,68 $ ]
+
+
+
+#Game No : 550869755
+***** 888poker Hand History for Game 550869755 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:09:26
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 0,50 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: BOBA878 ( 2 $ )
+Seat 5: 1gadfly1 ( 4,10 $ )
+Seat 6: Gugusik2010 ( 3,39 $ )
+Seat 7: xxflashxxx ( 0,97 $ )
+Seat 9: Pyziaka2a ( 2,22 $ )
+Seat 10: w3sby ( 3,63 $ )
+B2B_Suckouts posts small blind [0,01 $]
+BOBA878 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, AKaro ]
+1gadfly1 folds
+Gugusik2010 folds
+xxflashxxx folds
+Pyziaka2a raises [0,06 $]
+w3sby folds
+earthspitter calls [0,06 $]
+Geranja folds
+B2B_Suckouts folds
+BOBA878 folds
+** Dealing flop ** [ 7Kreuz, 10Kreuz, JKaro ]
+Pyziaka2a checks
+earthspitter bets [0,08 $]
+Pyziaka2a folds
+** Summary **
+earthspitter did not show his hand
+earthspitter collected [ 0,15 $ ]
+
+
+
+#Game No : 550869767
+***** 888poker Hand History for Game 550869767 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:10:00
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,09 $ )
+Seat 2: Geranja ( 0,50 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: BOBA878 ( 1,98 $ )
+Seat 5: 1gadfly1 ( 4,10 $ )
+Seat 6: Gugusik2010 ( 3,39 $ )
+Seat 7: xxflashxxx ( 0,97 $ )
+Seat 9: Pyziaka2a ( 2,16 $ )
+Seat 10: w3sby ( 3,63 $ )
+BOBA878 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 7Herz ]
+Gugusik2010 folds
+xxflashxxx folds
+Pyziaka2a folds
+w3sby folds
+earthspitter folds
+Geranja folds
+B2B_Suckouts folds
+BOBA878 folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ 0,03 $ ]
+
+
+
+#Game No : 550869776
+***** 888poker Hand History for Game 550869776 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:10:19
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,09 $ )
+Seat 2: Geranja ( 0,50 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: BOBA878 ( 1,97 $ )
+Seat 5: 1gadfly1 ( 4,11 $ )
+Seat 6: Gugusik2010 ( 3,39 $ )
+Seat 7: xxflashxxx ( 0,97 $ )
+Seat 9: Pyziaka2a ( 2,16 $ )
+Seat 10: w3sby ( 3,63 $ )
+1gadfly1 posts small blind [0,01 $]
+Gugusik2010 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 2Pik ]
+xxflashxxx folds
+Pyziaka2a folds
+w3sby folds
+earthspitter raises [0,06 $]
+Geranja folds
+B2B_Suckouts folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 calls [0,04 $]
+** Dealing flop ** [ 7Pik, 7Herz, 5Kreuz ]
+Gugusik2010 checks
+earthspitter checks
+** Dealing turn ** [ 8Karo ]
+Gugusik2010 checks
+earthspitter checks
+** Dealing river ** [ 4Pik ]
+Gugusik2010 bets [0,04 $]
+earthspitter folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,13 $ ]
+
+
+
+#Game No : 550869800
+***** 888poker Hand History for Game 550869800 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:11:07
+Table Tartu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 0,50 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: BOBA878 ( 1,97 $ )
+Seat 5: 1gadfly1 ( 4,10 $ )
+Seat 6: Gugusik2010 ( 3,46 $ )
+Seat 7: xxflashxxx ( 0,97 $ )
+Seat 9: Pyziaka2a ( 2,16 $ )
+Seat 10: w3sby ( 3,63 $ )
+Gugusik2010 posts small blind [0,01 $]
+xxflashxxx folds
+Pyziaka2a posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 10Kreuz ]
+w3sby folds
+earthspitter folds
+Geranja folds
+B2B_Suckouts raises [0,06 $]
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+Pyziaka2a folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 550869811
+***** 888poker Hand History for Game 550869811 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:11:32
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 0,50 $ )
+Seat 3: B2B_Suckouts ( 2,03 $ )
+Seat 4: BOBA878 ( 1,97 $ )
+Seat 5: 1gadfly1 ( 4,10 $ )
+Seat 6: Gugusik2010 ( 3,45 $ )
+Seat 9: Pyziaka2a ( 2,14 $ )
+Seat 10: w3sby ( 3,63 $ )
+Pyziaka2a posts small blind [0,01 $]
+w3sby posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, QKaro ]
+earthspitter folds
+Geranja raises [0,05 $]
+B2B_Suckouts folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+Pyziaka2a folds
+w3sby folds
+** Summary **
+Geranja did not show his hand
+Geranja collected [ 0,05 $ ]
+
+
+
+#Game No : 550869827
+***** 888poker Hand History for Game 550869827 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:12:07
+Table Tartu 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 0,53 $ )
+Seat 3: B2B_Suckouts ( 2,03 $ )
+Seat 4: BOBA878 ( 1,97 $ )
+Seat 5: 1gadfly1 ( 4,10 $ )
+Seat 6: Gugusik2010 ( 3,45 $ )
+Seat 9: Pyziaka2a ( 2,13 $ )
+Seat 10: w3sby ( 3,61 $ )
+w3sby posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, KKaro ]
+Geranja folds
+B2B_Suckouts raises [0,06 $]
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+Pyziaka2a folds
+w3sby folds
+earthspitter folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 550869838
+***** 888poker Hand History for Game 550869838 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:12:34
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,01 $ )
+Seat 2: Geranja ( 0,53 $ )
+Seat 3: B2B_Suckouts ( 2,06 $ )
+Seat 4: BOBA878 ( 1,97 $ )
+Seat 5: 1gadfly1 ( 4,10 $ )
+Seat 6: Gugusik2010 ( 3,45 $ )
+Seat 9: Pyziaka2a ( 2,13 $ )
+Seat 10: w3sby ( 3,60 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 4Herz ]
+B2B_Suckouts folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 raises [0,05 $]
+Pyziaka2a folds
+w3sby folds
+earthspitter folds
+Geranja folds
+** Summary **
+Gugusik2010 collected [ 0,05 $ ]
+
+
+
+#Game No : 550870322
+***** 888poker Hand History for Game 550870322 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:29:32
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,03 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: BOBA878 ( 1,86 $ )
+Seat 5: 1gadfly1 ( 4,22 $ )
+Seat 6: Gugusik2010 ( 2,56 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,09 $ )
+Seat 10: B2B_Suckouts ( 2,04 $ )
+Pyziaka2a posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 8Herz ]
+earthspitter folds
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 550870332
+***** 888poker Hand History for Game 550870332 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:29:44
+Table Tartu 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,03 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: BOBA878 ( 1,86 $ )
+Seat 5: 1gadfly1 ( 4,22 $ )
+Seat 6: Gugusik2010 ( 2,56 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,08 $ )
+Seat 10: B2B_Suckouts ( 2,05 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 8Karo ]
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a folds
+B2B_Suckouts calls [0,01 $]
+earthspitter checks
+** Dealing flop ** [ 7Pik, KKaro, 4Karo ]
+B2B_Suckouts checks
+earthspitter checks
+** Dealing turn ** [ APik ]
+B2B_Suckouts bets [0,02 $]
+earthspitter calls [0,02 $]
+** Dealing river ** [ QKaro ]
+B2B_Suckouts checks
+earthspitter checks
+** Summary **
+B2B_Suckouts shows [ 9Kreuz, 8Karo ]
+earthspitter shows [ 4Pik, 5Pik ]
+earthspitter collected [ 0,08 $ ]
+
+
+
+#Game No : 550870360
+***** 888poker Hand History for Game 550870360 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:30:39
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,07 $ )
+Seat 2: Geranja ( 1,13 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: BOBA878 ( 1,86 $ )
+Seat 5: 1gadfly1 ( 4,22 $ )
+Seat 6: Gugusik2010 ( 2,56 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,08 $ )
+Seat 10: B2B_Suckouts ( 2,01 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 8Kreuz ]
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a raises [0,06 $]
+B2B_Suckouts folds
+earthspitter folds
+Geranja calls [0,04 $]
+** Dealing flop ** [ 6Kreuz, 6Pik, 3Herz ]
+Geranja bets [0,08 $]
+Pyziaka2a calls [0,08 $]
+** Dealing turn ** [ 2Kreuz ]
+Geranja checks
+Pyziaka2a bets [0,14 $]
+Geranja folds
+** Summary **
+Pyziaka2a did not show his hand
+Pyziaka2a collected [ 0,28 $ ]
+
+
+
+#Game No : 550870394
+***** 888poker Hand History for Game 550870394 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:31:42
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 0,99 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: BOBA878 ( 1,86 $ )
+Seat 5: 1gadfly1 ( 4,22 $ )
+Seat 6: Gugusik2010 ( 2,56 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,22 $ )
+Seat 10: B2B_Suckouts ( 2,01 $ )
+Geranja posts small blind [0,01 $]
+FatalGrin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 4Herz ]
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 raises [0,06 $]
+Pyziaka2a folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+** Summary **
+muyb777 did not show his hand
+muyb777 collected [ 0,05 $ ]
+
+
+
+#Game No : 550870406
+***** 888poker Hand History for Game 550870406 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:31:59
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 0,98 $ )
+Seat 3: FatalGrin ( 1,92 $ )
+Seat 4: BOBA878 ( 1,86 $ )
+Seat 5: 1gadfly1 ( 4,22 $ )
+Seat 6: Gugusik2010 ( 2,56 $ )
+Seat 7: muyb777 ( 0,83 $ )
+Seat 9: Pyziaka2a ( 3,22 $ )
+Seat 10: B2B_Suckouts ( 2,01 $ )
+FatalGrin posts small blind [0,01 $]
+BOBA878 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 4Herz ]
+1gadfly1 raises [0,05 $]
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin raises [0,14 $]
+BOBA878 folds
+1gadfly1 calls [0,10 $]
+** Dealing flop ** [ 5Herz, 6Pik, 6Kreuz ]
+FatalGrin checks
+1gadfly1 bets [0,21 $]
+FatalGrin folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ 0,30 $ ]
+
+
+
+#Game No : 550870430
+***** 888poker Hand History for Game 550870430 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:32:39
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 0,98 $ )
+Seat 3: FatalGrin ( 1,77 $ )
+Seat 4: BOBA878 ( 1,84 $ )
+Seat 5: 1gadfly1 ( 4,37 $ )
+Seat 6: Gugusik2010 ( 2,56 $ )
+Seat 7: muyb777 ( 0,83 $ )
+Seat 9: Pyziaka2a ( 3,22 $ )
+Seat 10: B2B_Suckouts ( 2,01 $ )
+BOBA878 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 4Herz ]
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a raises [0,06 $]
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+** Summary **
+Pyziaka2a did not show his hand
+Pyziaka2a collected [ 0,05 $ ]
+
+
+
+#Game No : 550870443
+***** 888poker Hand History for Game 550870443 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:33:12
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 0,98 $ )
+Seat 3: FatalGrin ( 1,77 $ )
+Seat 4: BOBA878 ( 1,83 $ )
+Seat 5: 1gadfly1 ( 4,35 $ )
+Seat 6: Gugusik2010 ( 2,56 $ )
+Seat 7: muyb777 ( 0,83 $ )
+Seat 9: Pyziaka2a ( 3,25 $ )
+Seat 10: B2B_Suckouts ( 2,01 $ )
+1gadfly1 posts small blind [0,01 $]
+Gugusik2010 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, JPik ]
+muyb777 raises [0,06 $]
+Pyziaka2a folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+BOBA878 calls [0,06 $]
+1gadfly1 folds
+Gugusik2010 calls [0,04 $]
+** Dealing flop ** [ 4Pik, KKreuz, 3Karo ]
+Gugusik2010 checks
+muyb777 checks
+BOBA878 checks
+** Dealing turn ** [ 9Pik ]
+Gugusik2010 bets [0,07 $]
+muyb777 folds
+BOBA878 calls [0,07 $]
+** Dealing river ** [ 9Kreuz ]
+Gugusik2010 bets [0,16 $]
+BOBA878 calls [0,16 $]
+** Summary **
+Gugusik2010 shows [ 8Karo, 10Karo ]
+BOBA878 shows [ QKreuz, QKaro ]
+BOBA878 collected [ 0,61 $ ]
+
+
+
+#Game No : 550870470
+***** 888poker Hand History for Game 550870470 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:34:03
+Table Tartu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 0,98 $ )
+Seat 3: FatalGrin ( 1,77 $ )
+Seat 4: BOBA878 ( 2,15 $ )
+Seat 5: 1gadfly1 ( 4,34 $ )
+Seat 6: Gugusik2010 ( 2,27 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,25 $ )
+Seat 10: B2B_Suckouts ( 2,01 $ )
+Gugusik2010 posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, JKreuz ]
+Pyziaka2a folds
+B2B_Suckouts folds
+earthspitter calls [0,02 $]
+Geranja calls [0,02 $]
+FatalGrin calls [0,02 $]
+BOBA878 folds
+1gadfly1 calls [0,02 $]
+Gugusik2010 calls [0,01 $]
+muyb777 checks
+** Dealing flop ** [ 5Karo, 8Kreuz, AKaro ]
+Gugusik2010 checks
+muyb777 checks
+earthspitter checks
+Geranja checks
+FatalGrin bets [0,06 $]
+1gadfly1 raises [0,18 $]
+Gugusik2010 folds
+muyb777 folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ 0,23 $ ]
+
+
+
+#Game No : 550870504
+***** 888poker Hand History for Game 550870504 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:35:09
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,04 $ )
+Seat 2: Geranja ( 0,96 $ )
+Seat 3: FatalGrin ( 1,69 $ )
+Seat 4: BOBA878 ( 2,15 $ )
+Seat 5: 1gadfly1 ( 4,49 $ )
+Seat 6: Gugusik2010 ( 2,25 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,25 $ )
+Seat 10: B2B_Suckouts ( 2,01 $ )
+muyb777 posts small blind [0,01 $]
+Pyziaka2a posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 5Kreuz ]
+B2B_Suckouts folds
+earthspitter folds
+Geranja calls [0,02 $]
+FatalGrin folds
+BOBA878 folds
+1gadfly1 calls [0,02 $]
+Gugusik2010 calls [0,02 $]
+muyb777 calls [0,01 $]
+Pyziaka2a checks
+** Dealing flop ** [ 8Kreuz, 7Herz, AHerz ]
+muyb777 checks
+Pyziaka2a checks
+Geranja bets [0,10 $]
+1gadfly1 folds
+Gugusik2010 calls [0,10 $]
+muyb777 folds
+Pyziaka2a folds
+** Dealing turn ** [ 2Pik ]
+Geranja bets [0,10 $]
+Gugusik2010 calls [0,10 $]
+** Dealing river ** [ JPik ]
+Geranja checks
+Gugusik2010 checks
+** Summary **
+Geranja shows [ AKreuz, 5Pik ]
+Gugusik2010 mucks [ 9Karo, 8Pik ]
+Geranja collected [ 0,47 $ ]
+
+
+
+#Game No : 550870554
+***** 888poker Hand History for Game 550870554 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:36:30
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,04 $ )
+Seat 2: Geranja ( 1,21 $ )
+Seat 3: FatalGrin ( 1,69 $ )
+Seat 4: BOBA878 ( 2,15 $ )
+Seat 5: 1gadfly1 ( 4,47 $ )
+Seat 6: Gugusik2010 ( 2,03 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,23 $ )
+Seat 10: B2B_Suckouts ( 2,01 $ )
+Pyziaka2a posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 6Karo ]
+earthspitter folds
+Geranja folds
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 raises [0,05 $]
+muyb777 folds
+Pyziaka2a folds
+B2B_Suckouts calls [0,03 $]
+** Dealing flop ** [ 5Karo, 7Karo, 8Karo ]
+B2B_Suckouts bets [0,05 $]
+Gugusik2010 calls [0,05 $]
+** Dealing turn ** [ JPik ]
+B2B_Suckouts checks
+Gugusik2010 bets [0,26 $]
+B2B_Suckouts calls [0,26 $]
+** Dealing river ** [ 9Herz ]
+B2B_Suckouts bets [0,42 $]
+Gugusik2010 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,69 $ ]
+
+
+
+#Game No : 550870603
+***** 888poker Hand History for Game 550870603 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:38:08
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,04 $ )
+Seat 2: Geranja ( 1,21 $ )
+Seat 3: FatalGrin ( 1,69 $ )
+Seat 4: BOBA878 ( 2,15 $ )
+Seat 5: 1gadfly1 ( 4,47 $ )
+Seat 6: Gugusik2010 ( 1,67 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, JPik ]
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 folds
+B2B_Suckouts folds
+earthspitter folds
+** Summary **
+Geranja collected [ 0,03 $ ]
+
+
+
+#Game No : 550870612
+***** 888poker Hand History for Game 550870612 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:38:22
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 1,22 $ )
+Seat 3: FatalGrin ( 1,69 $ )
+Seat 4: BOBA878 ( 2,15 $ )
+Seat 5: 1gadfly1 ( 4,47 $ )
+Seat 6: Gugusik2010 ( 1,67 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+Geranja posts small blind [0,01 $]
+FatalGrin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 2Karo ]
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja raises [0,05 $]
+FatalGrin folds
+** Summary **
+Geranja collected [ 0,04 $ ]
+
+
+
+#Game No : 550870625
+***** 888poker Hand History for Game 550870625 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:38:40
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 1,24 $ )
+Seat 3: FatalGrin ( 1,67 $ )
+Seat 4: BOBA878 ( 2,15 $ )
+Seat 5: 1gadfly1 ( 4,47 $ )
+Seat 6: Gugusik2010 ( 1,67 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+FatalGrin posts small blind [0,01 $]
+BOBA878 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, KHerz ]
+1gadfly1 raises [0,05 $]
+Gugusik2010 folds
+muyb777 folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+BOBA878 calls [0,03 $]
+** Dealing flop ** [ QPik, 2Kreuz, AHerz ]
+BOBA878 checks
+1gadfly1 bets [0,07 $]
+BOBA878 folds
+** Summary **
+1gadfly1 collected [ 0,11 $ ]
+
+
+
+#Game No : 550870644
+***** 888poker Hand History for Game 550870644 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:39:21
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 1,24 $ )
+Seat 3: FatalGrin ( 1,66 $ )
+Seat 4: BOBA878 ( 2,10 $ )
+Seat 5: 1gadfly1 ( 4,53 $ )
+Seat 6: Gugusik2010 ( 2 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+BOBA878 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 10Pik ]
+Gugusik2010 folds
+muyb777 folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+BOBA878 folds
+** Summary **
+1gadfly1 collected [ 0,03 $ ]
+
+
+
+#Game No : 550870656
+***** 888poker Hand History for Game 550870656 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:39:43
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 1,24 $ )
+Seat 3: FatalGrin ( 1,66 $ )
+Seat 4: BOBA878 ( 2,09 $ )
+Seat 5: 1gadfly1 ( 4,54 $ )
+Seat 6: Gugusik2010 ( 2 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+1gadfly1 posts small blind [0,01 $]
+Gugusik2010 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 3Herz ]
+muyb777 folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+BOBA878 raises [0,06 $]
+1gadfly1 folds
+Gugusik2010 calls [0,04 $]
+** Dealing flop ** [ 9Karo, JKaro, 4Pik ]
+Gugusik2010 bets [0,02 $]
+BOBA878 raises [0,06 $]
+Gugusik2010 folds
+** Summary **
+BOBA878 collected [ 0,16 $ ]
+
+
+
+#Game No : 550870677
+***** 888poker Hand History for Game 550870677 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:40:23
+Table Tartu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 1,24 $ )
+Seat 3: FatalGrin ( 1,66 $ )
+Seat 4: BOBA878 ( 2,17 $ )
+Seat 5: 1gadfly1 ( 4,53 $ )
+Seat 6: Gugusik2010 ( 1,92 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+Gugusik2010 posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 6Herz ]
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+BOBA878 raises [0,06 $]
+1gadfly1 calls [0,06 $]
+Gugusik2010 calls [0,05 $]
+muyb777 folds
+** Dealing flop ** [ 4Herz, 3Karo, 7Pik ]
+Gugusik2010 checks
+BOBA878 bets [0,06 $]
+1gadfly1 raises [0,27 $]
+Gugusik2010 folds
+BOBA878 folds
+** Summary **
+1gadfly1 collected [ 0,30 $ ]
+
+
+
+#Game No : 550870704
+***** 888poker Hand History for Game 550870704 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:41:14
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 1,24 $ )
+Seat 3: FatalGrin ( 1,66 $ )
+Seat 4: BOBA878 ( 2,05 $ )
+Seat 5: 1gadfly1 ( 4,71 $ )
+Seat 6: Gugusik2010 ( 1,86 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+muyb777 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 10Karo ]
+earthspitter calls [0,02 $]
+Geranja folds
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 calls [0,02 $]
+muyb777 folds
+B2B_Suckouts raises [0,04 $]
+earthspitter calls [0,04 $]
+Gugusik2010 calls [0,04 $]
+** Dealing flop ** [ 5Herz, 4Pik, KPik ]
+B2B_Suckouts bets [0,06 $]
+earthspitter folds
+Gugusik2010 calls [0,06 $]
+** Dealing turn ** [ 8Pik ]
+B2B_Suckouts bets [0,10 $]
+Gugusik2010 raises [0,25 $]
+B2B_Suckouts calls [0,15 $]
+** Dealing river ** [ 10Pik ]
+B2B_Suckouts checks
+Gugusik2010 bets [0,70 $]
+B2B_Suckouts folds
+** Summary **
+Gugusik2010 collected [ 0,76 $ ]
+
+
+
+#Game No : 550870761
+***** 888poker Hand History for Game 550870761 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:42:51
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,24 $ )
+Seat 3: FatalGrin ( 1,66 $ )
+Seat 4: BOBA878 ( 2,05 $ )
+Seat 5: 1gadfly1 ( 4,71 $ )
+Seat 6: Gugusik2010 ( 2,25 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, QKaro ]
+Geranja calls [0,02 $]
+FatalGrin folds
+BOBA878 calls [0,02 $]
+1gadfly1 folds
+Gugusik2010 calls [0,02 $]
+muyb777 folds
+B2B_Suckouts raises [0,05 $]
+earthspitter folds
+Geranja raises [0,24 $]
+BOBA878 folds
+Gugusik2010 folds
+B2B_Suckouts folds
+** Summary **
+Geranja collected [ 0,18 $ ]
+
+
+
+#Game No : 550870786
+***** 888poker Hand History for Game 550870786 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:43:27
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,36 $ )
+Seat 3: FatalGrin ( 1,66 $ )
+Seat 4: BOBA878 ( 2,03 $ )
+Seat 5: 1gadfly1 ( 4,71 $ )
+Seat 6: Gugusik2010 ( 2,23 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 6Herz ]
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 raises [0,06 $]
+B2B_Suckouts folds
+earthspitter calls [0,05 $]
+Geranja folds
+** Dealing flop ** [ 10Kreuz, 8Kreuz, 5Karo ]
+earthspitter checks
+muyb777 checks
+** Dealing turn ** [ JKaro ]
+earthspitter checks
+muyb777 checks
+** Dealing river ** [ AHerz ]
+earthspitter bets [0,10 $]
+muyb777 calls [0,10 $]
+** Summary **
+earthspitter shows [ QPik, KPik ]
+muyb777 mucks [ 6Kreuz, AKaro ]
+earthspitter collected [ 0,32 $ ]
+
+
+
+#Game No : 550870835
+***** 888poker Hand History for Game 550870835 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:44:21
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,16 $ )
+Seat 2: Geranja ( 1,34 $ )
+Seat 3: FatalGrin ( 1,66 $ )
+Seat 4: BOBA878 ( 2,03 $ )
+Seat 5: 1gadfly1 ( 4,71 $ )
+Seat 6: Gugusik2010 ( 2,23 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Geranja posts small blind [0,01 $]
+FatalGrin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 5Karo ]
+BOBA878 calls [0,02 $]
+1gadfly1 folds
+Gugusik2010 calls [0,02 $]
+muyb777 folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja calls [0,01 $]
+FatalGrin checks
+** Dealing flop ** [ 6Herz, JHerz, 5Pik ]
+Geranja checks
+FatalGrin checks
+BOBA878 checks
+Gugusik2010 checks
+** Dealing turn ** [ KPik ]
+Geranja bets [0,08 $]
+FatalGrin folds
+BOBA878 folds
+Gugusik2010 calls [0,08 $]
+** Dealing river ** [ 9Pik ]
+Geranja checks
+Gugusik2010 checks
+** Summary **
+Geranja shows [ KHerz, 2Pik ]
+Gugusik2010 mucks [ QHerz, APik ]
+Geranja collected [ 0,23 $ ]
+
+
+
+#Game No : 550870874
+***** 888poker Hand History for Game 550870874 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:45:24
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,16 $ )
+Seat 2: Geranja ( 1,47 $ )
+Seat 3: FatalGrin ( 1,64 $ )
+Seat 4: BOBA878 ( 2,01 $ )
+Seat 5: 1gadfly1 ( 4,71 $ )
+Seat 6: Gugusik2010 ( 2,13 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+FatalGrin posts small blind [0,01 $]
+BOBA878 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 6Herz ]
+1gadfly1 folds
+Gugusik2010 raises [0,04 $]
+muyb777 folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+BOBA878 folds
+** Summary **
+Gugusik2010 collected [ 0,05 $ ]
+
+
+
+#Game No : 550870887
+***** 888poker Hand History for Game 550870887 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:45:39
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,16 $ )
+Seat 2: Geranja ( 1,47 $ )
+Seat 3: FatalGrin ( 2 $ )
+Seat 4: BOBA878 ( 1,99 $ )
+Seat 5: 1gadfly1 ( 4,71 $ )
+Seat 6: Gugusik2010 ( 2,16 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+BOBA878 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 9Pik ]
+Gugusik2010 raises [0,06 $]
+muyb777 folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+** Summary **
+Gugusik2010 collected [ 0,05 $ ]
+
+
+
+#Game No : 550870902
+***** 888poker Hand History for Game 550870902 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:46:01
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,16 $ )
+Seat 2: Geranja ( 1,47 $ )
+Seat 3: FatalGrin ( 2 $ )
+Seat 4: BOBA878 ( 1,98 $ )
+Seat 5: 1gadfly1 ( 4,69 $ )
+Seat 6: Gugusik2010 ( 2,19 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+1gadfly1 posts small blind [0,01 $]
+Gugusik2010 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 3Kreuz ]
+muyb777 folds
+B2B_Suckouts folds
+earthspitter raises [0,04 $]
+Geranja folds
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 calls [0,02 $]
+** Dealing flop ** [ 2Karo, 7Kreuz, 4Karo ]
+Gugusik2010 checks
+earthspitter checks
+** Dealing turn ** [ 2Kreuz ]
+Gugusik2010 checks
+earthspitter checks
+** Dealing river ** [ AKreuz ]
+Gugusik2010 bets [0,02 $]
+earthspitter raises [0,10 $]
+Gugusik2010 folds
+** Summary **
+earthspitter collected [ 0,13 $ ]
+
+
+
+#Game No : 550870944
+***** 888poker Hand History for Game 550870944 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:46:44
+Table Tartu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,23 $ )
+Seat 2: Geranja ( 1,47 $ )
+Seat 3: FatalGrin ( 2 $ )
+Seat 4: BOBA878 ( 1,98 $ )
+Seat 5: 1gadfly1 ( 4,68 $ )
+Seat 6: Gugusik2010 ( 2,13 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Gugusik2010 posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, AHerz ]
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja folds
+FatalGrin folds
+BOBA878 calls [0,06 $]
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 calls [0,04 $]
+** Dealing flop ** [ 8Karo, AKaro, 5Pik ]
+muyb777 checks
+B2B_Suckouts bets [0,06 $]
+BOBA878 calls [0,06 $]
+muyb777 calls [0,06 $]
+** Dealing turn ** [ 5Karo ]
+muyb777 checks
+B2B_Suckouts checks
+BOBA878 bets [0,06 $]
+muyb777 folds
+B2B_Suckouts calls [0,06 $]
+** Dealing river ** [ KKaro ]
+B2B_Suckouts checks
+BOBA878 bets [0,24 $]
+B2B_Suckouts folds
+** Summary **
+BOBA878 collected [ 0,46 $ ]
+
+
+
+#Game No : 550870993
+***** 888poker Hand History for Game 550870993 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:47:59
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,23 $ )
+Seat 2: Geranja ( 1,47 $ )
+Seat 3: FatalGrin ( 2 $ )
+Seat 4: BOBA878 ( 2,26 $ )
+Seat 5: 1gadfly1 ( 4,68 $ )
+Seat 6: Gugusik2010 ( 2,12 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,22 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+muyb777 posts small blind [0,01 $]
+Pyziaka2a posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, KKreuz ]
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja raises [0,20 $]
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a folds
+B2B_Suckouts folds
+** Summary **
+Geranja did not show his hand
+Geranja collected [ 0,15 $ ]
+
+
+
+#Game No : 550871008
+***** 888poker Hand History for Game 550871008 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:48:25
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,23 $ )
+Seat 2: Geranja ( 1,56 $ )
+Seat 3: FatalGrin ( 2 $ )
+Seat 4: BOBA878 ( 2,26 $ )
+Seat 5: 1gadfly1 ( 4,68 $ )
+Seat 6: Gugusik2010 ( 2,12 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,20 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Pyziaka2a posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 5Kreuz ]
+earthspitter folds
+Geranja calls [0,02 $]
+FatalGrin folds
+BOBA878 folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a folds
+B2B_Suckouts checks
+** Dealing flop ** [ KKaro, 2Pik, 8Pik ]
+B2B_Suckouts checks
+Geranja bets [0,03 $]
+B2B_Suckouts folds
+** Summary **
+Geranja collected [ 0,05 $ ]
+
+
+
+#Game No : 550871029
+***** 888poker Hand History for Game 550871029 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:48:56
+Table Tartu 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,23 $ )
+Seat 2: Geranja ( 1,59 $ )
+Seat 3: FatalGrin ( 2 $ )
+Seat 5: 1gadfly1 ( 4,68 $ )
+Seat 6: Gugusik2010 ( 2,12 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,19 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, JKaro ]
+Geranja raises [0,08 $]
+FatalGrin folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a folds
+B2B_Suckouts folds
+earthspitter calls [0,06 $]
+** Dealing flop ** [ 6Karo, JHerz, 4Karo ]
+earthspitter checks
+Geranja bets [0,20 $]
+earthspitter folds
+** Summary **
+Geranja collected [ 0,16 $ ]
+
+
+
+#Game No : 550871057
+***** 888poker Hand History for Game 550871057 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:49:37
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,15 $ )
+Seat 2: Geranja ( 1,67 $ )
+Seat 3: FatalGrin ( 2 $ )
+Seat 5: 1gadfly1 ( 4,68 $ )
+Seat 6: Gugusik2010 ( 2,12 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 3,19 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, KKreuz ]
+FatalGrin folds
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a raises [0,06 $]
+B2B_Suckouts raises [0,18 $]
+earthspitter folds
+Geranja folds
+Pyziaka2a calls [0,12 $]
+** Dealing flop ** [ 6Pik, QKreuz, 3Herz ]
+Pyziaka2a checks
+B2B_Suckouts checks
+** Dealing turn ** [ AKreuz ]
+Pyziaka2a bets [0,26 $]
+B2B_Suckouts raises [0,52 $]
+Pyziaka2a calls [0,26 $]
+** Dealing river ** [ 8Herz ]
+Pyziaka2a checks
+B2B_Suckouts bets [1,30 $]
+Pyziaka2a folds
+** Summary **
+B2B_Suckouts collected [ 1,35 $ ]
+
+
+
+#Game No : 550871097
+***** 888poker Hand History for Game 550871097 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:50:33
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,65 $ )
+Seat 3: FatalGrin ( 2 $ )
+Seat 5: 1gadfly1 ( 4,68 $ )
+Seat 6: Gugusik2010 ( 2,12 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 2,49 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+Geranja posts small blind [0,01 $]
+FatalGrin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 10Herz ]
+1gadfly1 folds
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja raises [0,05 $]
+FatalGrin folds
+** Summary **
+Geranja collected [ 0,04 $ ]
+
+
+
+#Game No : 550871104
+***** 888poker Hand History for Game 550871104 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:50:47
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,67 $ )
+Seat 3: FatalGrin ( 1,98 $ )
+Seat 4: xxflashxxx ( 1 $ )
+Seat 5: 1gadfly1 ( 4,68 $ )
+Seat 6: Gugusik2010 ( 2,12 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 2,49 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+FatalGrin posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 5Kreuz ]
+1gadfly1 folds
+Gugusik2010 raises [0,05 $]
+muyb777 folds
+Pyziaka2a folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+** Summary **
+Gugusik2010 did not show his hand
+Gugusik2010 collected [ 0,05 $ ]
+
+
+
+#Game No : 550871118
+***** 888poker Hand History for Game 550871118 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:51:13
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,67 $ )
+Seat 3: FatalGrin ( 1,97 $ )
+Seat 4: xxflashxxx ( 0,98 $ )
+Seat 5: 1gadfly1 ( 4,68 $ )
+Seat 6: Gugusik2010 ( 2,15 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 2,49 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+xxflashxxx posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 8Kreuz ]
+Gugusik2010 folds
+muyb777 folds
+Pyziaka2a folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja raises [0,06 $]
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 raises [0,21 $]
+Geranja folds
+** Summary **
+1gadfly1 collected [ 0,13 $ ]
+
+
+
+#Game No : 550871155
+***** 888poker Hand History for Game 550871155 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:52:03
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,61 $ )
+Seat 3: FatalGrin ( 1,97 $ )
+Seat 4: xxflashxxx ( 0,97 $ )
+Seat 5: 1gadfly1 ( 4,75 $ )
+Seat 6: Katerin4ik ( 2 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 2,49 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+1gadfly1 posts small blind [0,01 $]
+Katerin4ik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, JKaro ]
+muyb777 folds
+Pyziaka2a folds
+B2B_Suckouts folds
+earthspitter raises [0,06 $]
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik folds
+** Summary **
+earthspitter did not show his hand
+earthspitter collected [ 0,05 $ ]
+
+
+
+#Game No : 550871174
+***** 888poker Hand History for Game 550871174 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:52:27
+Table Tartu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,17 $ )
+Seat 2: Geranja ( 1,61 $ )
+Seat 3: FatalGrin ( 1,97 $ )
+Seat 4: xxflashxxx ( 0,97 $ )
+Seat 5: 1gadfly1 ( 4,74 $ )
+Seat 6: Katerin4ik ( 1,98 $ )
+Seat 7: muyb777 ( 0,80 $ )
+Seat 9: Pyziaka2a ( 2,49 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+Katerin4ik posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 8Herz ]
+Pyziaka2a folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 raises [0,05 $]
+Katerin4ik calls [0,04 $]
+muyb777 calls [0,03 $]
+** Dealing flop ** [ QKreuz, APik, KHerz ]
+Katerin4ik checks
+muyb777 bets [0,09 $]
+1gadfly1 folds
+Katerin4ik folds
+** Summary **
+muyb777 did not show his hand
+muyb777 collected [ 0,15 $ ]
+
+
+
+#Game No : 550871203
+***** 888poker Hand History for Game 550871203 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:53:11
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,17 $ )
+Seat 2: Geranja ( 1,61 $ )
+Seat 3: FatalGrin ( 1,97 $ )
+Seat 4: xxflashxxx ( 0,97 $ )
+Seat 5: 1gadfly1 ( 4,69 $ )
+Seat 6: Katerin4ik ( 1,93 $ )
+Seat 7: muyb777 ( 0,90 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+muyb777 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 3Kreuz ]
+earthspitter folds
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 raises [0,05 $]
+Katerin4ik calls [0,05 $]
+muyb777 folds
+B2B_Suckouts folds
+** Dealing flop ** [ 8Herz, 7Herz, 4Pik ]
+1gadfly1 bets [0,08 $]
+Katerin4ik calls [0,08 $]
+** Dealing turn ** [ 7Kreuz ]
+1gadfly1 bets [0,19 $]
+Katerin4ik calls [0,19 $]
+** Dealing river ** [ KKreuz ]
+1gadfly1 checks
+Katerin4ik bets [0,33 $]
+1gadfly1 raises [4,37 $]
+Katerin4ik calls [1,28 $]
+** Summary **
+1gadfly1 shows [ 7Karo, AHerz ]
+Katerin4ik shows [ 9Karo, KHerz ]
+1gadfly1 collected [ 3,65 $ ]
+
+
+
+#Game No : 550871256
+***** 888poker Hand History for Game 550871256 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:54:32
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: earthspitter ( 2,17 $ )
+Seat 2: Geranja ( 1,61 $ )
+Seat 3: FatalGrin ( 1,97 $ )
+Seat 4: xxflashxxx ( 0,97 $ )
+Seat 5: 1gadfly1 ( 6,41 $ )
+Seat 7: muyb777 ( 0,89 $ )
+Seat 10: B2B_Suckouts ( 2,63 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 2Herz ]
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 raises [0,05 $]
+muyb777 folds
+B2B_Suckouts folds
+earthspitter folds
+** Summary **
+1gadfly1 collected [ 0,05 $ ]
+
+
+
+#Game No : 550871270
+***** 888poker Hand History for Game 550871270 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:54:58
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,15 $ )
+Seat 2: Geranja ( 1,61 $ )
+Seat 3: FatalGrin ( 1,97 $ )
+Seat 4: xxflashxxx ( 0,97 $ )
+Seat 5: 1gadfly1 ( 6,44 $ )
+Seat 6: Katerin4ik ( 2 $ )
+Seat 7: muyb777 ( 0,89 $ )
+Seat 9: GoVladosGo ( 1 $ )
+Seat 10: B2B_Suckouts ( 2,62 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+GoVladosGo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 3Kreuz ]
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik calls [0,02 $]
+muyb777 folds
+GoVladosGo raises [0,02 $]
+B2B_Suckouts folds
+earthspitter folds
+Geranja calls [0,02 $]
+Katerin4ik calls [0,02 $]
+** Dealing flop ** [ 9Pik, KKaro, 10Kreuz ]
+Geranja checks
+Katerin4ik bets [0,08 $]
+GoVladosGo calls [0,08 $]
+Geranja folds
+** Dealing turn ** [ 2Karo ]
+Katerin4ik bets [0,14 $]
+GoVladosGo calls [0,14 $]
+** Dealing river ** [ KKreuz ]
+Katerin4ik bets [0,28 $]
+GoVladosGo folds
+** Summary **
+Katerin4ik did not show his hand
+Katerin4ik collected [ 0,54 $ ]
+
+
+
+#Game No : 550871314
+***** 888poker Hand History for Game 550871314 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:56:12
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,57 $ )
+Seat 3: FatalGrin ( 1,97 $ )
+Seat 4: xxflashxxx ( 0,97 $ )
+Seat 5: 1gadfly1 ( 6,44 $ )
+Seat 6: Katerin4ik ( 2,28 $ )
+Seat 7: muyb777 ( 0,89 $ )
+Seat 9: GoVladosGo ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2,62 $ )
+Geranja posts small blind [0,01 $]
+FatalGrin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, AHerz ]
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik folds
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja folds
+FatalGrin folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 550871328
+***** 888poker Hand History for Game 550871328 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:56:31
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,56 $ )
+Seat 3: FatalGrin ( 1,95 $ )
+Seat 4: xxflashxxx ( 0,97 $ )
+Seat 5: 1gadfly1 ( 6,44 $ )
+Seat 6: Katerin4ik ( 2,28 $ )
+Seat 7: muyb777 ( 0,89 $ )
+Seat 9: GoVladosGo ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+FatalGrin posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, QKreuz ]
+1gadfly1 folds
+Katerin4ik raises [0,08 $]
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja calls [0,08 $]
+FatalGrin folds
+xxflashxxx folds
+** Dealing flop ** [ JHerz, AKreuz, 7Pik ]
+Katerin4ik bets [0,09 $]
+Geranja folds
+** Summary **
+Katerin4ik did not show his hand
+Katerin4ik collected [ 0,18 $ ]
+
+
+
+#Game No : 550871358
+***** 888poker Hand History for Game 550871358 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:57:27
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,48 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 0,95 $ )
+Seat 6: Katerin4ik ( 2,38 $ )
+Seat 7: muyb777 ( 0,89 $ )
+Seat 9: GoVladosGo ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+xxflashxxx posts small blind [0,01 $]
+Katerin4ik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 5Karo ]
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+xxflashxxx raises [0,05 $]
+Katerin4ik folds
+** Summary **
+xxflashxxx collected [ 0,04 $ ]
+
+
+
+#Game No : 550871371
+***** 888poker Hand History for Game 550871371 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:57:48
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,48 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 0,97 $ )
+Seat 6: Katerin4ik ( 2,36 $ )
+Seat 7: muyb777 ( 0,89 $ )
+Seat 9: GoVladosGo ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+Katerin4ik posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, AHerz ]
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+Katerin4ik calls [0,01 $]
+muyb777 raises [0,04 $]
+Katerin4ik calls [0,04 $]
+** Dealing flop ** [ JHerz, KKreuz, JKaro ]
+Katerin4ik checks
+muyb777 bets [0,06 $]
+Katerin4ik folds
+** Summary **
+muyb777 collected [ 0,12 $ ]
+
+
+
+#Game No : 550871386
+***** 888poker Hand History for Game 550871386 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:58:18
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,48 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 0,97 $ )
+Seat 5: 1gadfly1 ( 6,44 $ )
+Seat 6: Katerin4ik ( 2,30 $ )
+Seat 7: muyb777 ( 0,95 $ )
+Seat 9: GoVladosGo ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+muyb777 posts small blind [0,01 $]
+GoVladosGo posts big blind [0,02 $]
+1gadfly1 folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 6Kreuz ]
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+Katerin4ik calls [0,02 $]
+muyb777 raises [0,07 $]
+GoVladosGo folds
+Katerin4ik calls [0,06 $]
+** Dealing flop ** [ QPik, JKreuz, 10Kreuz ]
+muyb777 bets [0,11 $]
+Katerin4ik folds
+** Summary **
+muyb777 collected [ 0,17 $ ]
+
+
+
+#Game No : 550871414
+***** 888poker Hand History for Game 550871414 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 08:59:07
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,48 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 0,97 $ )
+Seat 6: Katerin4ik ( 2,22 $ )
+Seat 7: muyb777 ( 1,04 $ )
+Seat 9: GoVladosGo ( 0,72 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+GoVladosGo posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 5Karo ]
+earthspitter folds
+Geranja calls [0,02 $]
+FatalGrin folds
+xxflashxxx calls [0,02 $]
+Katerin4ik folds
+muyb777 folds
+GoVladosGo calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+Geranja calls [0,04 $]
+xxflashxxx calls [0,04 $]
+GoVladosGo folds
+** Dealing flop ** [ JKaro, 9Herz, QHerz ]
+B2B_Suckouts checks
+Geranja checks
+xxflashxxx bets [0,10 $]
+B2B_Suckouts folds
+Geranja calls [0,10 $]
+** Dealing turn ** [ 2Herz ]
+Geranja checks
+xxflashxxx checks
+** Dealing river ** [ 4Karo ]
+Geranja checks
+xxflashxxx checks
+** Summary **
+Geranja shows [ 9Pik, 10Pik ]
+xxflashxxx shows [ JPik, KPik ]
+xxflashxxx collected [ 0,38 $ ]
+
+
+
+#Game No : 550871456
+***** 888poker Hand History for Game 550871456 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:00:24
+Table Tartu 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,14 $ )
+Seat 2: Geranja ( 1,32 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 6: Katerin4ik ( 2,22 $ )
+Seat 7: muyb777 ( 1,04 $ )
+Seat 9: GoVladosGo ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 2,59 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 2Kreuz ]
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+Katerin4ik folds
+muyb777 raises [0,06 $]
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+** Summary **
+muyb777 collected [ 0,05 $ ]
+
+
+
+#Game No : 550871473
+***** 888poker Hand History for Game 550871473 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:01:01
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,12 $ )
+Seat 2: Geranja ( 1,32 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 6: Katerin4ik ( 2,22 $ )
+Seat 7: muyb777 ( 1,07 $ )
+Seat 9: GoVladosGo ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 2,58 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 8Karo ]
+FatalGrin folds
+xxflashxxx folds
+Katerin4ik calls [0,02 $]
+muyb777 raises [0,08 $]
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter calls [0,07 $]
+Geranja calls [0,06 $]
+Katerin4ik calls [0,06 $]
+** Dealing flop ** [ 3Kreuz, 2Pik, 4Pik ]
+earthspitter checks
+Geranja checks
+Katerin4ik checks
+muyb777 checks
+** Dealing turn ** [ 10Pik ]
+earthspitter checks
+Geranja checks
+Katerin4ik bets [0,19 $]
+muyb777 folds
+earthspitter folds
+Geranja folds
+** Summary **
+Katerin4ik collected [ 0,30 $ ]
+
+
+
+#Game No : 550871515
+***** 888poker Hand History for Game 550871515 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:02:09
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,04 $ )
+Seat 2: Geranja ( 1,24 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 6: Katerin4ik ( 2,44 $ )
+Seat 7: muyb777 ( 0,99 $ )
+Seat 9: GoVladosGo ( 0,70 $ )
+Seat 10: B2B_Suckouts ( 2,58 $ )
+Geranja posts small blind [0,01 $]
+FatalGrin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 4Pik ]
+xxflashxxx folds
+Katerin4ik folds
+muyb777 raises [0,06 $]
+GoVladosGo calls [0,06 $]
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+** Dealing flop ** [ AKreuz, 6Karo, 3Pik ]
+muyb777 bets [0,09 $]
+GoVladosGo folds
+** Summary **
+muyb777 collected [ 0,15 $ ]
+
+
+
+#Game No : 550871531
+***** 888poker Hand History for Game 550871531 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:02:41
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,04 $ )
+Seat 2: Geranja ( 1,23 $ )
+Seat 3: FatalGrin ( 1,92 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 6: Katerin4ik ( 2,44 $ )
+Seat 7: muyb777 ( 1,08 $ )
+Seat 9: GoVladosGo ( 0,64 $ )
+Seat 10: B2B_Suckouts ( 2,58 $ )
+FatalGrin posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, QHerz ]
+Katerin4ik folds
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+** Summary **
+xxflashxxx collected [ 0,03 $ ]
+
+
+
+#Game No : 550871544
+***** 888poker Hand History for Game 550871544 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:03:03
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,04 $ )
+Seat 2: Geranja ( 1,23 $ )
+Seat 3: FatalGrin ( 1,91 $ )
+Seat 4: xxflashxxx ( 1,20 $ )
+Seat 5: 1gadfly1 ( 6,44 $ )
+Seat 6: Katerin4ik ( 2,44 $ )
+Seat 7: muyb777 ( 1,08 $ )
+Seat 9: GoVladosGo ( 0,64 $ )
+Seat 10: B2B_Suckouts ( 2,58 $ )
+xxflashxxx posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, AHerz ]
+Katerin4ik folds
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin raises [0,06 $]
+xxflashxxx folds
+1gadfly1 folds
+** Summary **
+FatalGrin did not show his hand
+FatalGrin collected [ 0,05 $ ]
+
+
+
+#Game No : 550871559
+***** 888poker Hand History for Game 550871559 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:03:29
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,04 $ )
+Seat 2: Geranja ( 1,23 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 5: 1gadfly1 ( 6,42 $ )
+Seat 6: Katerin4ik ( 2,44 $ )
+Seat 7: muyb777 ( 1,08 $ )
+Seat 9: GoVladosGo ( 0,64 $ )
+Seat 10: B2B_Suckouts ( 2,58 $ )
+1gadfly1 posts small blind [0,01 $]
+Katerin4ik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 5Karo ]
+muyb777 folds
+GoVladosGo raises [0,04 $]
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik calls [0,02 $]
+** Dealing flop ** [ QHerz, 7Pik, 10Herz ]
+Katerin4ik bets [0,06 $]
+GoVladosGo calls [0,06 $]
+** Dealing turn ** [ 2Herz ]
+Katerin4ik bets [0,10 $]
+GoVladosGo raises [0,20 $]
+Katerin4ik folds
+** Summary **
+GoVladosGo did not show his hand
+GoVladosGo collected [ 0,39 $ ]
+
+
+
+#Game No : 550871589
+***** 888poker Hand History for Game 550871589 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:04:14
+Table Tartu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,04 $ )
+Seat 2: Geranja ( 1,23 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 5: 1gadfly1 ( 6,41 $ )
+Seat 6: Katerin4ik ( 2,24 $ )
+Seat 7: muyb777 ( 1,08 $ )
+Seat 9: GoVladosGo ( 0,83 $ )
+Seat 10: B2B_Suckouts ( 2,58 $ )
+Katerin4ik posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, QHerz ]
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter calls [0,02 $]
+Geranja calls [0,02 $]
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik calls [0,01 $]
+muyb777 checks
+** Dealing flop ** [ KHerz, QKreuz, 3Herz ]
+Katerin4ik bets [0,06 $]
+muyb777 folds
+earthspitter folds
+Geranja folds
+** Summary **
+Katerin4ik did not show his hand
+Katerin4ik collected [ 0,08 $ ]
+
+
+
+#Game No : 550871622
+***** 888poker Hand History for Game 550871622 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:04:59
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,02 $ )
+Seat 2: Geranja ( 1,21 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 5: 1gadfly1 ( 6,41 $ )
+Seat 6: Katerin4ik ( 2,30 $ )
+Seat 7: muyb777 ( 1,06 $ )
+Seat 9: GoVladosGo ( 0,83 $ )
+Seat 10: B2B_Suckouts ( 2,58 $ )
+muyb777 posts small blind [0,01 $]
+GoVladosGo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, AKreuz ]
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik calls [0,06 $]
+muyb777 folds
+GoVladosGo calls [0,04 $]
+** Dealing flop ** [ KKreuz, QPik, 3Pik ]
+GoVladosGo checks
+B2B_Suckouts bets [0,06 $]
+Katerin4ik folds
+GoVladosGo calls [0,06 $]
+** Dealing turn ** [ 8Kreuz ]
+GoVladosGo checks
+B2B_Suckouts checks
+** Dealing river ** [ JHerz ]
+GoVladosGo bets [0,15 $]
+B2B_Suckouts calls [0,15 $]
+** Summary **
+GoVladosGo shows [ 7Pik, APik ]
+B2B_Suckouts shows [ JKaro, AKreuz ]
+B2B_Suckouts collected [ 0,58 $ ]
+
+
+
+#Game No : 550871665
+***** 888poker Hand History for Game 550871665 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:06:06
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,02 $ )
+Seat 2: Geranja ( 1,21 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 5: 1gadfly1 ( 6,41 $ )
+Seat 6: Katerin4ik ( 2,24 $ )
+Seat 7: muyb777 ( 1,05 $ )
+Seat 9: GoVladosGo ( 0,56 $ )
+Seat 10: B2B_Suckouts ( 2,89 $ )
+GoVladosGo posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 10Kreuz ]
+earthspitter folds
+Geranja raises [0,04 $]
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik folds
+muyb777 calls [0,04 $]
+GoVladosGo folds
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 6Karo, QKaro, 8Pik ]
+B2B_Suckouts checks
+Geranja checks
+muyb777 bets [0,06 $]
+B2B_Suckouts folds
+Geranja folds
+** Summary **
+muyb777 did not show his hand
+muyb777 collected [ 0,13 $ ]
+
+
+
+#Game No : 550871689
+***** 888poker Hand History for Game 550871689 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:06:52
+Table Tartu 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,02 $ )
+Seat 2: Geranja ( 1,17 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 5: 1gadfly1 ( 6,41 $ )
+Seat 6: Katerin4ik ( 2,24 $ )
+Seat 7: muyb777 ( 1,14 $ )
+Seat 9: GoVladosGo ( 0,55 $ )
+Seat 10: B2B_Suckouts ( 2,85 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 8Pik ]
+Geranja folds
+FatalGrin folds
+xxflashxxx folds
+1gadfly1 raises [0,05 $]
+Katerin4ik folds
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+** Summary **
+1gadfly1 did not show his hand
+1gadfly1 collected [ 0,05 $ ]
+
+
+
+#Game No : 550871711
+***** 888poker Hand History for Game 550871711 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:07:29
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,17 $ )
+Seat 3: FatalGrin ( 1,94 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 5: 1gadfly1 ( 6,44 $ )
+Seat 6: Katerin4ik ( 2,24 $ )
+Seat 7: muyb777 ( 1,14 $ )
+Seat 9: GoVladosGo ( 0,55 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+earthspitter posts small blind [0,01 $]
+Geranja folds
+FatalGrin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 2Karo ]
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik raises [0,10 $]
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+FatalGrin raises [0,22 $]
+Katerin4ik raises [2,14 $]
+FatalGrin folds
+** Summary **
+Katerin4ik did not show his hand
+Katerin4ik collected [ 0,49 $ ]
+
+
+
+#Game No : 550871747
+***** 888poker Hand History for Game 550871747 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:08:28
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: earthspitter ( 2 $ )
+Seat 4: xxflashxxx ( 1,19 $ )
+Seat 5: 1gadfly1 ( 6,44 $ )
+Seat 6: Katerin4ik ( 2,49 $ )
+Seat 7: muyb777 ( 1,14 $ )
+Seat 9: GoVladosGo ( 0,55 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+xxflashxxx posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 2Pik ]
+Katerin4ik folds
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+xxflashxxx raises [0,03 $]
+1gadfly1 folds
+** Summary **
+xxflashxxx collected [ 0,04 $ ]
+
+
+
+#Game No : 550871759
+***** 888poker Hand History for Game 550871759 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:08:45
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: earthspitter ( 2 $ )
+Seat 4: xxflashxxx ( 1,21 $ )
+Seat 5: 1gadfly1 ( 6,42 $ )
+Seat 6: Katerin4ik ( 2,49 $ )
+Seat 7: muyb777 ( 1,14 $ )
+Seat 9: GoVladosGo ( 0,55 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+1gadfly1 posts small blind [0,01 $]
+Katerin4ik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 3Karo ]
+muyb777 folds
+GoVladosGo raises [0,04 $]
+B2B_Suckouts folds
+earthspitter folds
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik calls [0,02 $]
+** Dealing flop ** [ JKreuz, 10Pik, QKaro ]
+Katerin4ik bets [0,06 $]
+GoVladosGo calls [0,06 $]
+** Dealing turn ** [ 5Herz ]
+Katerin4ik bets [0,10 $]
+GoVladosGo calls [0,10 $]
+** Dealing river ** [ AKaro ]
+Katerin4ik checks
+GoVladosGo bets [0,35 $]
+Katerin4ik folds
+** Summary **
+GoVladosGo collected [ 0,39 $ ]
+
+
+
+#Game No : 550871797
+***** 888poker Hand History for Game 550871797 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:09:48
+Table Tartu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,17 $ )
+Seat 4: xxflashxxx ( 1,21 $ )
+Seat 5: 1gadfly1 ( 6,41 $ )
+Seat 6: Katerin4ik ( 2,29 $ )
+Seat 7: muyb777 ( 1,14 $ )
+Seat 9: GoVladosGo ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+Katerin4ik posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+Geranja posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 5Karo ]
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja raises [0,08 $]
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik folds
+muyb777 folds
+** Summary **
+Geranja collected [ 0,06 $ ]
+
+
+
+#Game No : 550871822
+***** 888poker Hand History for Game 550871822 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:10:16
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,20 $ )
+Seat 4: xxflashxxx ( 1,21 $ )
+Seat 5: 1gadfly1 ( 6,41 $ )
+Seat 6: Katerin4ik ( 2,28 $ )
+Seat 7: muyb777 ( 1,12 $ )
+Seat 9: GoVladosGo ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+muyb777 posts small blind [0,01 $]
+GoVladosGo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, KHerz ]
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+xxflashxxx raises [0,06 $]
+1gadfly1 folds
+Katerin4ik calls [0,06 $]
+muyb777 calls [0,05 $]
+GoVladosGo folds
+** Dealing flop ** [ 10Karo, 4Karo, 3Herz ]
+muyb777 checks
+xxflashxxx bets [0,10 $]
+Katerin4ik folds
+muyb777 folds
+** Summary **
+xxflashxxx collected [ 0,19 $ ]
+
+
+
+#Game No : 550871833
+***** 888poker Hand History for Game 550871833 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:10:46
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,20 $ )
+Seat 4: xxflashxxx ( 1,34 $ )
+Seat 5: 1gadfly1 ( 6,41 $ )
+Seat 6: Katerin4ik ( 2,22 $ )
+Seat 7: muyb777 ( 1,06 $ )
+Seat 9: GoVladosGo ( 0,72 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+GoVladosGo posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 5Kreuz ]
+earthspitter folds
+Geranja folds
+xxflashxxx folds
+1gadfly1 raises [0,05 $]
+Katerin4ik raises [0,20 $]
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+1gadfly1 calls [0,15 $]
+** Dealing flop ** [ 6Karo, 4Pik, 8Pik ]
+1gadfly1 checks
+Katerin4ik bets [0,28 $]
+1gadfly1 folds
+** Summary **
+Katerin4ik collected [ 0,41 $ ]
+
+
+
+#Game No : 550871860
+***** 888poker Hand History for Game 550871860 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:11:21
+Table Tartu 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,20 $ )
+Seat 4: xxflashxxx ( 1,34 $ )
+Seat 5: 1gadfly1 ( 6,21 $ )
+Seat 6: Katerin4ik ( 2,43 $ )
+Seat 7: muyb777 ( 1,06 $ )
+Seat 9: GoVladosGo ( 0,71 $ )
+Seat 10: B2B_Suckouts ( 2,82 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, KHerz ]
+Geranja raises [0,06 $]
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik calls [0,06 $]
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+** Dealing flop ** [ 2Kreuz, QPik, 5Kreuz ]
+Geranja bets [0,20 $]
+Katerin4ik folds
+** Summary **
+Geranja collected [ 0,15 $ ]
+
+
+
+#Game No : 550871887
+***** 888poker Hand History for Game 550871887 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:12:09
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,29 $ )
+Seat 4: xxflashxxx ( 1,34 $ )
+Seat 5: 1gadfly1 ( 6,21 $ )
+Seat 6: Katerin4ik ( 2,37 $ )
+Seat 7: muyb777 ( 1,06 $ )
+Seat 9: GoVladosGo ( 0,71 $ )
+Seat 10: B2B_Suckouts ( 2,81 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 4Herz ]
+xxflashxxx raises [0,06 $]
+1gadfly1 folds
+Katerin4ik folds
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+** Summary **
+xxflashxxx collected [ 0,05 $ ]
+
+
+
+#Game No : 550871896
+***** 888poker Hand History for Game 550871896 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:12:26
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,27 $ )
+Seat 3: irk2012 ( 2 $ )
+Seat 4: xxflashxxx ( 1,37 $ )
+Seat 5: 1gadfly1 ( 6,21 $ )
+Seat 6: Katerin4ik ( 2,37 $ )
+Seat 7: muyb777 ( 1,06 $ )
+Seat 9: GoVladosGo ( 0,71 $ )
+Seat 10: B2B_Suckouts ( 2,81 $ )
+Geranja posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 7Pik ]
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik folds
+muyb777 folds
+GoVladosGo raises [0,04 $]
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+irk2012 raises [0,22 $]
+GoVladosGo folds
+** Summary **
+irk2012 did not show his hand
+irk2012 collected [ 0,09 $ ]
+
+
+
+#Game No : 550871920
+***** 888poker Hand History for Game 550871920 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:13:09
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,26 $ )
+Seat 3: irk2012 ( 2,05 $ )
+Seat 4: xxflashxxx ( 1,37 $ )
+Seat 5: 1gadfly1 ( 6,21 $ )
+Seat 6: Katerin4ik ( 2,37 $ )
+Seat 7: muyb777 ( 1,06 $ )
+Seat 9: GoVladosGo ( 0,67 $ )
+Seat 10: B2B_Suckouts ( 2,81 $ )
+irk2012 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 6Kreuz ]
+1gadfly1 folds
+Katerin4ik folds
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja raises [0,06 $]
+irk2012 folds
+xxflashxxx folds
+** Summary **
+Geranja did not show his hand
+Geranja collected [ 0,05 $ ]
+
+
+
+#Game No : 550871936
+***** 888poker Hand History for Game 550871936 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:13:40
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,29 $ )
+Seat 3: irk2012 ( 2,04 $ )
+Seat 4: xxflashxxx ( 1,35 $ )
+Seat 5: 1gadfly1 ( 6,21 $ )
+Seat 6: Katerin4ik ( 2,37 $ )
+Seat 7: muyb777 ( 1,06 $ )
+Seat 9: GoVladosGo ( 0,67 $ )
+Seat 10: B2B_Suckouts ( 2,81 $ )
+xxflashxxx posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, KPik ]
+Katerin4ik folds
+muyb777 folds
+GoVladosGo folds
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja folds
+irk2012 folds
+xxflashxxx folds
+1gadfly1 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 550871950
+***** 888poker Hand History for Game 550871950 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:14:02
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,29 $ )
+Seat 3: irk2012 ( 2,04 $ )
+Seat 4: xxflashxxx ( 1,34 $ )
+Seat 5: 1gadfly1 ( 6,19 $ )
+Seat 6: Katerin4ik ( 2,37 $ )
+Seat 7: muyb777 ( 1,06 $ )
+Seat 9: GoVladosGo ( 0,67 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+1gadfly1 posts small blind [0,01 $]
+Katerin4ik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 6Karo ]
+muyb777 folds
+GoVladosGo raises [0,04 $]
+B2B_Suckouts folds
+earthspitter folds
+Geranja calls [0,04 $]
+irk2012 calls [0,04 $]
+xxflashxxx calls [0,04 $]
+1gadfly1 folds
+Katerin4ik calls [0,02 $]
+** Dealing flop ** [ 5Kreuz, 2Herz, 4Herz ]
+Katerin4ik bets [0,10 $]
+GoVladosGo calls [0,10 $]
+Geranja calls [0,10 $]
+irk2012 raises [0,30 $]
+xxflashxxx folds
+Katerin4ik folds
+GoVladosGo raises [0,53 $]
+Geranja folds
+irk2012 calls [0,33 $]
+** Dealing turn ** [ 7Herz ]
+** Dealing river ** [ AKaro ]
+** Summary **
+irk2012 shows [ 5Karo, 5Pik ]
+GoVladosGo shows [ 8Pik, AHerz ]
+irk2012 collected [ 1,57 $ ]
+
+
+
+#Game No : 550872003
+***** 888poker Hand History for Game 550872003 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:15:23
+Table Tartu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,15 $ )
+Seat 3: irk2012 ( 2,94 $ )
+Seat 4: xxflashxxx ( 1,30 $ )
+Seat 5: 1gadfly1 ( 6,18 $ )
+Seat 6: Katerin4ik ( 2,23 $ )
+Seat 7: muyb777 ( 1,06 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+Katerin4ik posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 10Pik ]
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+irk2012 folds
+xxflashxxx folds
+1gadfly1 raises [0,05 $]
+Katerin4ik folds
+muyb777 calls [0,03 $]
+** Dealing flop ** [ 9Herz, 8Pik, QPik ]
+muyb777 checks
+1gadfly1 checks
+** Dealing turn ** [ APik ]
+muyb777 checks
+1gadfly1 bets [0,07 $]
+muyb777 folds
+** Summary **
+1gadfly1 collected [ 0,11 $ ]
+
+
+
+#Game No : 550872027
+***** 888poker Hand History for Game 550872027 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:16:03
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2 $ )
+Seat 2: Geranja ( 1,15 $ )
+Seat 3: irk2012 ( 2,94 $ )
+Seat 4: xxflashxxx ( 1,30 $ )
+Seat 5: 1gadfly1 ( 6,24 $ )
+Seat 6: Katerin4ik ( 2,22 $ )
+Seat 7: muyb777 ( 1,01 $ )
+Seat 9: overcranky ( 2 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+muyb777 posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, JKreuz ]
+B2B_Suckouts folds
+earthspitter calls [0,02 $]
+Geranja folds
+irk2012 folds
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik folds
+muyb777 folds
+overcranky checks
+** Dealing flop ** [ 8Pik, 9Pik, 5Pik ]
+overcranky checks
+earthspitter checks
+** Dealing turn ** [ 7Karo ]
+overcranky checks
+earthspitter checks
+** Dealing river ** [ 4Herz ]
+overcranky checks
+earthspitter checks
+** Summary **
+overcranky shows [ KHerz, 3Herz ]
+earthspitter shows [ JHerz, KKreuz ]
+earthspitter collected [ 0,05 $ ]
+
+
+
+#Game No : 550872066
+***** 888poker Hand History for Game 550872066 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:17:04
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 1,15 $ )
+Seat 3: irk2012 ( 2,94 $ )
+Seat 4: xxflashxxx ( 1,30 $ )
+Seat 5: 1gadfly1 ( 6,24 $ )
+Seat 6: Katerin4ik ( 2,22 $ )
+Seat 7: muyb777 ( 1 $ )
+Seat 9: overcranky ( 2 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+overcranky posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 5Kreuz ]
+earthspitter folds
+Geranja folds
+irk2012 folds
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik raises [0,08 $]
+muyb777 calls [0,08 $]
+overcranky folds
+B2B_Suckouts calls [0,06 $]
+** Dealing flop ** [ 3Pik, 10Karo, JKaro ]
+B2B_Suckouts checks
+Katerin4ik bets [0,12 $]
+muyb777 calls [0,12 $]
+B2B_Suckouts folds
+** Dealing turn ** [ AKaro ]
+Katerin4ik checks
+muyb777 checks
+** Dealing river ** [ 6Pik ]
+Katerin4ik bets [0,18 $]
+muyb777 calls [0,18 $]
+** Summary **
+Katerin4ik shows [ JHerz, QKreuz ]
+muyb777 shows [ JKreuz, KKaro ]
+muyb777 collected [ 0,80 $ ]
+
+
+
+#Game No : 550872104
+***** 888poker Hand History for Game 550872104 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:18:04
+Table Tartu 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,03 $ )
+Seat 2: Geranja ( 1,15 $ )
+Seat 3: irk2012 ( 2,94 $ )
+Seat 4: xxflashxxx ( 1,30 $ )
+Seat 5: 1gadfly1 ( 6,24 $ )
+Seat 6: Katerin4ik ( 1,84 $ )
+Seat 7: muyb777 ( 1,42 $ )
+Seat 9: overcranky ( 2 $ )
+Seat 10: B2B_Suckouts ( 2,76 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 9Herz ]
+Geranja folds
+irk2012 folds
+xxflashxxx folds
+1gadfly1 folds
+Katerin4ik calls [0,02 $]
+muyb777 folds
+overcranky folds
+B2B_Suckouts calls [0,01 $]
+earthspitter checks
+** Dealing flop ** [ AKreuz, 7Kreuz, 5Kreuz ]
+B2B_Suckouts checks
+earthspitter bets [0,06 $]
+Katerin4ik folds
+B2B_Suckouts folds
+** Summary **
+earthspitter did not show his hand
+earthspitter collected [ 0,06 $ ]
+
+
+
+#Game No : 550872130
+***** 888poker Hand History for Game 550872130 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:18:40
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,07 $ )
+Seat 2: Geranja ( 1,15 $ )
+Seat 3: irk2012 ( 2,94 $ )
+Seat 4: xxflashxxx ( 1,30 $ )
+Seat 5: 1gadfly1 ( 6,24 $ )
+Seat 6: Katerin4ik ( 1,82 $ )
+Seat 7: muyb777 ( 1,42 $ )
+Seat 9: overcranky ( 2 $ )
+Seat 10: B2B_Suckouts ( 2,74 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 4Herz ]
+irk2012 folds
+xxflashxxx folds
+1gadfly1 raises [0,05 $]
+Katerin4ik calls [0,05 $]
+muyb777 folds
+overcranky raises [0,25 $]
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+1gadfly1 folds
+Katerin4ik folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,18 $ ]
+
+
+
+#Game No : 550872154
+***** 888poker Hand History for Game 550872154 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:19:23
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 1,13 $ )
+Seat 3: irk2012 ( 2,94 $ )
+Seat 4: xxflashxxx ( 1,30 $ )
+Seat 5: 1gadfly1 ( 6,19 $ )
+Seat 7: muyb777 ( 1,42 $ )
+Seat 9: overcranky ( 2,13 $ )
+Seat 10: B2B_Suckouts ( 2,74 $ )
+Geranja posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 3Pik ]
+xxflashxxx folds
+1gadfly1 folds
+muyb777 folds
+overcranky folds
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja folds
+irk2012 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 550872168
+***** 888poker Hand History for Game 550872168 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:19:47
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 1,12 $ )
+Seat 3: irk2012 ( 2,92 $ )
+Seat 5: 1gadfly1 ( 6,19 $ )
+Seat 7: muyb777 ( 1,42 $ )
+Seat 9: overcranky ( 2,13 $ )
+Seat 10: B2B_Suckouts ( 2,77 $ )
+irk2012 posts small blind [0,01 $]
+1gadfly1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 8Pik ]
+muyb777 folds
+overcranky folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja raises [0,05 $]
+irk2012 calls [0,04 $]
+1gadfly1 folds
+** Dealing flop ** [ 3Herz, 2Karo, 4Pik ]
+irk2012 checks
+Geranja checks
+** Dealing turn ** [ JKaro ]
+irk2012 checks
+Geranja bets [0,07 $]
+irk2012 folds
+** Summary **
+Geranja did not show his hand
+Geranja collected [ 0,12 $ ]
+
+
+
+#Game No : 550872189
+***** 888poker Hand History for Game 550872189 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:20:33
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 1,19 $ )
+Seat 3: irk2012 ( 2,87 $ )
+Seat 5: 1gadfly1 ( 6,17 $ )
+Seat 7: muyb777 ( 1,42 $ )
+Seat 9: overcranky ( 2,13 $ )
+Seat 10: B2B_Suckouts ( 2,77 $ )
+1gadfly1 posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 10Kreuz ]
+overcranky folds
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja raises [0,20 $]
+irk2012 folds
+1gadfly1 folds
+muyb777 folds
+B2B_Suckouts folds
+** Summary **
+Geranja collected [ 0,15 $ ]
+
+
+
+#Game No : 550872203
+***** 888poker Hand History for Game 550872203 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:21:00
+Table Tartu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 1,28 $ )
+Seat 3: irk2012 ( 2,87 $ )
+Seat 5: 1gadfly1 ( 6,16 $ )
+Seat 7: muyb777 ( 1,40 $ )
+Seat 9: overcranky ( 2,13 $ )
+Seat 10: B2B_Suckouts ( 2,71 $ )
+muyb777 posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, QHerz ]
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja folds
+irk2012 folds
+1gadfly1 folds
+muyb777 folds
+overcranky folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 550872217
+***** 888poker Hand History for Game 550872217 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:21:28
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 1,28 $ )
+Seat 3: irk2012 ( 2,87 $ )
+Seat 5: 1gadfly1 ( 6,16 $ )
+Seat 6: Student1994 ( 1,32 $ )
+Seat 7: muyb777 ( 1,39 $ )
+Seat 9: overcranky ( 2,11 $ )
+Seat 10: B2B_Suckouts ( 2,74 $ )
+overcranky posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+Student1994 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, KKreuz ]
+earthspitter folds
+Geranja raises [0,06 $]
+irk2012 calls [0,06 $]
+1gadfly1 calls [0,06 $]
+Student1994 folds
+muyb777 folds
+overcranky folds
+B2B_Suckouts folds
+** Dealing flop ** [ 5Kreuz, AKreuz, 7Pik ]
+Geranja checks
+irk2012 checks
+1gadfly1 checks
+** Dealing turn ** [ 5Karo ]
+Geranja bets [0,11 $]
+irk2012 folds
+1gadfly1 folds
+** Summary **
+Geranja collected [ 0,22 $ ]
+
+
+
+#Game No : 550872284
+***** 888poker Hand History for Game 550872284 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:23:06
+Table Tartu 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,06 $ )
+Seat 2: Geranja ( 1,44 $ )
+Seat 3: irk2012 ( 2,81 $ )
+Seat 4: Ramazanozay ( 1,20 $ )
+Seat 5: 1gadfly1 ( 6,10 $ )
+Seat 6: Student1994 ( 1,30 $ )
+Seat 7: muyb777 ( 1,39 $ )
+Seat 9: overcranky ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2,72 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+Ramazanozay posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, JKreuz ]
+Geranja folds
+irk2012 folds
+Ramazanozay checks
+1gadfly1 folds
+Student1994 calls [0,02 $]
+muyb777 raises [0,10 $]
+overcranky folds
+B2B_Suckouts folds
+earthspitter folds
+Ramazanozay folds
+Student1994 folds
+** Summary **
+muyb777 did not show his hand
+muyb777 collected [ 0,09 $ ]
+
+
+
+#Game No : 550872308
+***** 888poker Hand History for Game 550872308 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:23:48
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,04 $ )
+Seat 2: Geranja ( 1,44 $ )
+Seat 3: irk2012 ( 2,81 $ )
+Seat 4: Ramazanozay ( 1,18 $ )
+Seat 5: 1gadfly1 ( 6,10 $ )
+Seat 6: Student1994 ( 1,28 $ )
+Seat 7: muyb777 ( 1,46 $ )
+Seat 9: overcranky ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2,71 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 5Karo ]
+irk2012 folds
+Ramazanozay calls [0,02 $]
+1gadfly1 folds
+Student1994 calls [0,02 $]
+muyb777 folds
+overcranky folds
+B2B_Suckouts raises [0,06 $]
+earthspitter calls [0,05 $]
+Geranja calls [0,04 $]
+Ramazanozay calls [0,04 $]
+Student1994 calls [0,04 $]
+** Dealing flop ** [ 7Pik, 6Herz, 9Karo ]
+earthspitter checks
+Geranja checks
+Ramazanozay checks
+Student1994 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 4Karo ]
+earthspitter checks
+Geranja checks
+Ramazanozay checks
+Student1994 checks
+B2B_Suckouts checks
+** Dealing river ** [ 4Pik ]
+earthspitter checks
+Geranja checks
+Ramazanozay checks
+Student1994 checks
+B2B_Suckouts checks
+** Summary **
+earthspitter shows [ KKreuz, APik ]
+Geranja mucks [ 10Pik, QPik ]
+Ramazanozay mucks [ 8Pik, AKreuz ]
+Student1994 mucks [ 10Kreuz, JKreuz ]
+B2B_Suckouts mucks [ AHerz, 5Karo ]
+earthspitter collected [ 0,29 $ ]
+
+
+
+#Game No : 550872396
+***** 888poker Hand History for Game 550872396 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:25:58
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,27 $ )
+Seat 2: Geranja ( 1,38 $ )
+Seat 3: irk2012 ( 2,81 $ )
+Seat 4: Ramazanozay ( 1,12 $ )
+Seat 5: 1gadfly1 ( 6,10 $ )
+Seat 6: Student1994 ( 1,22 $ )
+Seat 7: muyb777 ( 1,46 $ )
+Seat 9: overcranky ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2,65 $ )
+Geranja posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, APik ]
+Ramazanozay calls [0,02 $]
+1gadfly1 folds
+Student1994 folds
+muyb777 folds
+overcranky folds
+B2B_Suckouts raises [0,06 $]
+earthspitter calls [0,06 $]
+Geranja calls [0,05 $]
+irk2012 folds
+Ramazanozay calls [0,04 $]
+** Dealing flop ** [ 6Pik, AHerz, 5Herz ]
+Geranja checks
+Ramazanozay checks
+B2B_Suckouts bets [0,08 $]
+earthspitter folds
+Geranja folds
+Ramazanozay folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,25 $ ]
+
+
+
+#Game No : 550872456
+***** 888poker Hand History for Game 550872456 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:27:05
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,21 $ )
+Seat 2: Geranja ( 1,32 $ )
+Seat 3: irk2012 ( 2,79 $ )
+Seat 4: Ramazanozay ( 1,06 $ )
+Seat 5: 1gadfly1 ( 6,10 $ )
+Seat 6: Student1994 ( 1,22 $ )
+Seat 7: muyb777 ( 1,46 $ )
+Seat 9: overcranky ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+irk2012 posts small blind [0,01 $]
+Ramazanozay posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 5Herz ]
+1gadfly1 folds
+Student1994 folds
+muyb777 folds
+overcranky folds
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja folds
+irk2012 folds
+Ramazanozay folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 550872474
+***** 888poker Hand History for Game 550872474 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:27:32
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,21 $ )
+Seat 2: Geranja ( 1,32 $ )
+Seat 3: irk2012 ( 2,78 $ )
+Seat 4: Ramazanozay ( 1,04 $ )
+Seat 5: 1gadfly1 ( 6,10 $ )
+Seat 6: Student1994 ( 1,22 $ )
+Seat 7: muyb777 ( 1,46 $ )
+Seat 9: overcranky ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2,87 $ )
+Ramazanozay posts small blind [0,01 $]
+1gadfly1 folds
+Student1994 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 6Herz ]
+muyb777 folds
+overcranky folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja raises [0,05 $]
+irk2012 calls [0,05 $]
+Ramazanozay folds
+Student1994 folds
+** Dealing flop ** [ 5Herz, 9Herz, 8Herz ]
+Geranja bets [0,06 $]
+irk2012 folds
+** Summary **
+Geranja collected [ 0,13 $ ]
+
+
+
+#Game No : 550872508
+***** 888poker Hand History for Game 550872508 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:28:14
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,21 $ )
+Seat 2: Geranja ( 1,40 $ )
+Seat 3: irk2012 ( 2,73 $ )
+Seat 4: Ramazanozay ( 1,03 $ )
+Seat 6: Student1994 ( 1,20 $ )
+Seat 7: muyb777 ( 1,46 $ )
+Seat 9: overcranky ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2,87 $ )
+Student1994 posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 4Kreuz ]
+overcranky folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja folds
+irk2012 raises [0,06 $]
+Ramazanozay folds
+Student1994 calls [0,05 $]
+muyb777 calls [0,04 $]
+** Dealing flop ** [ 7Pik, 7Herz, KHerz ]
+Student1994 checks
+muyb777 checks
+irk2012 bets [0,05 $]
+Student1994 calls [0,05 $]
+muyb777 folds
+** Dealing turn ** [ 6Herz ]
+Student1994 checks
+irk2012 checks
+** Dealing river ** [ 8Karo ]
+Student1994 checks
+irk2012 checks
+** Summary **
+Student1994 shows [ KKreuz, QKaro ]
+irk2012 mucks [ KPik, 9Pik ]
+Student1994 collected [ 0,27 $ ]
+
+
+
+#Game No : 550872564
+***** 888poker Hand History for Game 550872564 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:29:35
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,21 $ )
+Seat 2: Geranja ( 1,40 $ )
+Seat 3: irk2012 ( 2,62 $ )
+Seat 4: Ramazanozay ( 1,03 $ )
+Seat 6: Student1994 ( 1,36 $ )
+Seat 7: muyb777 ( 1,40 $ )
+Seat 9: overcranky ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2,87 $ )
+muyb777 posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, KKaro ]
+B2B_Suckouts folds
+earthspitter folds
+Geranja raises [0,04 $]
+irk2012 folds
+Ramazanozay folds
+Student1994 folds
+muyb777 folds
+overcranky folds
+** Summary **
+Geranja collected [ 0,05 $ ]
+
+
+
+#Game No : 550872586
+***** 888poker Hand History for Game 550872586 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:30:01
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,21 $ )
+Seat 2: Geranja ( 1,43 $ )
+Seat 3: irk2012 ( 2,62 $ )
+Seat 4: Ramazanozay ( 1,03 $ )
+Seat 6: Student1994 ( 1,36 $ )
+Seat 7: muyb777 ( 1,39 $ )
+Seat 9: overcranky ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,87 $ )
+overcranky posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, KKaro ]
+earthspitter folds
+Geranja folds
+irk2012 folds
+Ramazanozay folds
+Student1994 calls [0,02 $]
+muyb777 raises [0,08 $]
+overcranky folds
+B2B_Suckouts folds
+Student1994 calls [0,06 $]
+** Dealing flop ** [ QHerz, 4Karo, 2Kreuz ]
+Student1994 checks
+muyb777 bets [0,09 $]
+Student1994 folds
+** Summary **
+muyb777 collected [ 0,18 $ ]
+
+
+
+#Game No : 550872614
+***** 888poker Hand History for Game 550872614 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:30:35
+Table Tartu 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,21 $ )
+Seat 2: Geranja ( 1,43 $ )
+Seat 3: irk2012 ( 2,62 $ )
+Seat 4: Ramazanozay ( 1,03 $ )
+Seat 6: Student1994 ( 1,28 $ )
+Seat 7: muyb777 ( 1,49 $ )
+Seat 9: overcranky ( 2,07 $ )
+Seat 10: B2B_Suckouts ( 2,85 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, QKreuz ]
+Geranja calls [0,02 $]
+irk2012 raises [0,08 $]
+Ramazanozay folds
+Student1994 folds
+muyb777 folds
+overcranky calls [0,08 $]
+B2B_Suckouts folds
+earthspitter folds
+Geranja calls [0,06 $]
+** Dealing flop ** [ KKreuz, 8Pik, 8Kreuz ]
+Geranja checks
+irk2012 bets [0,08 $]
+overcranky raises [0,24 $]
+Geranja folds
+irk2012 folds
+** Summary **
+overcranky collected [ 0,41 $ ]
+
+
+
+#Game No : 550872643
+***** 888poker Hand History for Game 550872643 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:31:16
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,19 $ )
+Seat 2: Geranja ( 1,35 $ )
+Seat 3: irk2012 ( 2,46 $ )
+Seat 4: Ramazanozay ( 1,03 $ )
+Seat 6: Student1994 ( 1,28 $ )
+Seat 7: muyb777 ( 1,49 $ )
+Seat 9: overcranky ( 2,32 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 3Kreuz ]
+irk2012 folds
+Ramazanozay folds
+Student1994 folds
+muyb777 folds
+overcranky folds
+B2B_Suckouts folds
+earthspitter folds
+** Summary **
+Geranja collected [ 0,03 $ ]
+
+
+
+#Game No : 550872664
+***** 888poker Hand History for Game 550872664 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:31:40
+Table Tartu 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: earthspitter ( 2,18 $ )
+Seat 2: Geranja ( 1,36 $ )
+Seat 3: irk2012 ( 2,46 $ )
+Seat 4: Ramazanozay ( 1,03 $ )
+Seat 7: muyb777 ( 1,49 $ )
+Seat 9: overcranky ( 2,32 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+Geranja posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 8Pik ]
+Ramazanozay folds
+muyb777 folds
+overcranky raises [0,06 $]
+B2B_Suckouts folds
+earthspitter folds
+Geranja calls [0,05 $]
+irk2012 calls [0,04 $]
+** Dealing flop ** [ 9Kreuz, KHerz, JHerz ]
+Geranja checks
+irk2012 checks
+overcranky bets [0,11 $]
+Geranja folds
+irk2012 calls [0,11 $]
+** Dealing turn ** [ JKreuz ]
+irk2012 checks
+overcranky checks
+** Dealing river ** [ 5Kreuz ]
+irk2012 checks
+overcranky checks
+** Summary **
+irk2012 shows [ 10Kreuz, JPik ]
+overcranky mucks [ QPik, KKaro ]
+irk2012 collected [ 0,38 $ ]
+
+
+
+#Game No : 550872712
+***** 888poker Hand History for Game 550872712 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:32:45
+Table Tartu 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,18 $ )
+Seat 2: Geranja ( 1,30 $ )
+Seat 3: irk2012 ( 2,67 $ )
+Seat 4: Ramazanozay ( 1,03 $ )
+Seat 6: Student1994 ( 1,28 $ )
+Seat 7: muyb777 ( 1,49 $ )
+Seat 9: overcranky ( 2,15 $ )
+Seat 10: B2B_Suckouts ( 2,84 $ )
+irk2012 posts small blind [0,01 $]
+Ramazanozay posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 10Herz ]
+Student1994 folds
+muyb777 folds
+overcranky folds
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja calls [0,06 $]
+irk2012 folds
+Ramazanozay folds
+** Dealing flop ** [ QKaro, KPik, 6Herz ]
+B2B_Suckouts bets [0,04 $]
+Geranja calls [0,04 $]
+** Dealing turn ** [ 8Pik ]
+B2B_Suckouts checks
+Geranja bets [0,11 $]
+B2B_Suckouts folds
+** Summary **
+Geranja collected [ 0,22 $ ]
+
+
+
+#Game No : 550872765
+***** 888poker Hand History for Game 550872765 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:33:57
+Table Tartu 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,18 $ )
+Seat 2: Geranja ( 1,42 $ )
+Seat 3: irk2012 ( 2,66 $ )
+Seat 4: Ramazanozay ( 1,01 $ )
+Seat 5: AooGoonners ( 2 $ )
+Seat 6: Student1994 ( 1,28 $ )
+Seat 7: muyb777 ( 1,49 $ )
+Seat 9: overcranky ( 2,15 $ )
+Seat 10: B2B_Suckouts ( 2,74 $ )
+Ramazanozay posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, APik ]
+Student1994 folds
+muyb777 folds
+overcranky folds
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja folds
+irk2012 folds
+Ramazanozay folds
+AooGoonners folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 550872790
+***** 888poker Hand History for Game 550872790 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:34:29
+Table Tartu 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: earthspitter ( 2,18 $ )
+Seat 2: Geranja ( 1,42 $ )
+Seat 3: irk2012 ( 2,66 $ )
+Seat 4: Ramazanozay ( 1 $ )
+Seat 5: AooGoonners ( 1,98 $ )
+Seat 6: Student1994 ( 1,28 $ )
+Seat 7: muyb777 ( 1,49 $ )
+Seat 9: overcranky ( 2,15 $ )
+Seat 10: B2B_Suckouts ( 2,77 $ )
+AooGoonners posts small blind [0,01 $]
+Student1994 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 3Karo ]
+muyb777 folds
+overcranky folds
+B2B_Suckouts folds
+earthspitter folds
+Geranja calls [0,02 $]
+irk2012 folds
+Ramazanozay folds
+AooGoonners folds
+Student1994 checks
+** Dealing flop ** [ QKreuz, 9Pik, JPik ]
+Student1994 checks
+Geranja bets [0,06 $]
+Student1994 folds
+** Summary **
+Geranja did not show his hand
+Geranja collected [ 0,05 $ ]
+
+
+
+#Game No : 550872833
+***** 888poker Hand History for Game 550872833 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:35:16
+Table Tartu 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,18 $ )
+Seat 2: Geranja ( 1,45 $ )
+Seat 3: irk2012 ( 2,66 $ )
+Seat 5: AooGoonners ( 1,97 $ )
+Seat 6: Student1994 ( 1,26 $ )
+Seat 7: muyb777 ( 1,49 $ )
+Seat 9: overcranky ( 2,15 $ )
+Seat 10: B2B_Suckouts ( 2,77 $ )
+Student1994 posts small blind [0,01 $]
+muyb777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 5Kreuz ]
+overcranky folds
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja folds
+irk2012 folds
+AooGoonners folds
+Student1994 folds
+muyb777 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 550872857
+***** 888poker Hand History for Game 550872857 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:35:49
+Table Tartu 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,18 $ )
+Seat 2: Geranja ( 1,45 $ )
+Seat 3: irk2012 ( 2,66 $ )
+Seat 5: AooGoonners ( 1,97 $ )
+Seat 6: Student1994 ( 1,25 $ )
+Seat 7: muyb777 ( 1,47 $ )
+Seat 9: overcranky ( 2,15 $ )
+Seat 10: B2B_Suckouts ( 2,80 $ )
+muyb777 posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, AKaro ]
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+Geranja folds
+irk2012 folds
+AooGoonners folds
+Student1994 folds
+muyb777 folds
+overcranky folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 550872870
+***** 888poker Hand History for Game 550872870 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:36:11
+Table Tartu 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,18 $ )
+Seat 2: Geranja ( 1,45 $ )
+Seat 3: irk2012 ( 2,66 $ )
+Seat 5: AooGoonners ( 1,97 $ )
+Seat 6: Student1994 ( 1,25 $ )
+Seat 7: muyb777 ( 1,46 $ )
+Seat 9: overcranky ( 2,13 $ )
+Seat 10: B2B_Suckouts ( 2,83 $ )
+overcranky posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 3Karo ]
+earthspitter folds
+Geranja folds
+irk2012 folds
+AooGoonners folds
+Student1994 raises [0,06 $]
+muyb777 folds
+overcranky folds
+B2B_Suckouts folds
+** Summary **
+Student1994 did not show his hand
+Student1994 collected [ 0,05 $ ]
+
+
+
+#Game No : 550872886
+***** 888poker Hand History for Game 550872886 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:36:35
+Table Tartu 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,18 $ )
+Seat 2: Geranja ( 1,45 $ )
+Seat 3: irk2012 ( 2,66 $ )
+Seat 5: AooGoonners ( 1,97 $ )
+Seat 6: Student1994 ( 1,28 $ )
+Seat 7: muyb777 ( 1,46 $ )
+Seat 9: overcranky ( 2,12 $ )
+Seat 10: B2B_Suckouts ( 2,81 $ )
+B2B_Suckouts posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, QKreuz ]
+Geranja folds
+irk2012 folds
+AooGoonners folds
+Student1994 folds
+muyb777 raises [0,06 $]
+overcranky folds
+B2B_Suckouts folds
+earthspitter folds
+** Summary **
+muyb777 did not show his hand
+muyb777 collected [ 0,05 $ ]
+
+
+
+#Game No : 550872910
+***** 888poker Hand History for Game 550872910 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 02 02 2020 09:36:59
+Table Tartu 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: earthspitter ( 2,16 $ )
+Seat 2: Geranja ( 1,45 $ )
+Seat 3: irk2012 ( 2,66 $ )
+Seat 5: AooGoonners ( 1,97 $ )
+Seat 6: Student1994 ( 1,28 $ )
+Seat 7: muyb777 ( 1,49 $ )
+Seat 9: overcranky ( 2,12 $ )
+Seat 10: B2B_Suckouts ( 2,80 $ )
+earthspitter posts small blind [0,01 $]
+Geranja posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, KKaro ]
+irk2012 folds
+AooGoonners folds
+Student1994 folds
+muyb777 folds
+overcranky raises [0,05 $]
+B2B_Suckouts calls [0,05 $]
+earthspitter folds
+Geranja calls [0,03 $]
+** Dealing flop ** [ QKreuz, 6Herz, 2Herz ]
+Geranja bets [0,10 $]
+overcranky folds
+B2B_Suckouts folds
+** Summary **
+Geranja did not show his hand
+Geranja collected [ 0,15 $ ]
+
+
+
