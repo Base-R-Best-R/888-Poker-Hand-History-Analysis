@@ -1,0 +1,2990 @@
+#Game No : 551291734
+***** 888poker Hand History for Game 551291734 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:05:06
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Stoo789 ( 2,07 $ )
+Seat 2: JDobel ( 2,20 $ )
+Seat 3: MariusAlexe ( 3,96 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,85 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,21 $ )
+Seat 10: Lin24 ( 5,92 $ )
+MariusAlexe posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 2Kreuz ]
+Despol raises [0,06 $]
+earthspitter folds
+btlbtl folds
+lucifergaia folds
+Lin24 folds
+Stoo789 raises [0,18 $]
+JDobel folds
+MariusAlexe folds
+B2B_Suckouts folds
+Despol folds
+** Summary **
+Stoo789 did not show his hand
+Stoo789 collected [ 0,15 $ ]
+
+
+
+#Game No : 551291781
+***** 888poker Hand History for Game 551291781 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:05:34
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Stoo789 ( 2,16 $ )
+Seat 2: JDobel ( 2,20 $ )
+Seat 3: MariusAlexe ( 3,95 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,85 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,21 $ )
+Seat 10: Lin24 ( 5,92 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 3Kreuz ]
+earthspitter folds
+btlbtl folds
+lucifergaia folds
+Lin24 folds
+Stoo789 raises [0,05 $]
+JDobel calls [0,05 $]
+MariusAlexe folds
+B2B_Suckouts folds
+Despol calls [0,03 $]
+** Dealing flop ** [ 9Pik, 9Kreuz, KKaro ]
+Despol checks
+Stoo789 bets [0,08 $]
+JDobel calls [0,08 $]
+Despol folds
+** Dealing turn ** [ QHerz ]
+Stoo789 checks
+JDobel bets [0,12 $]
+Stoo789 calls [0,12 $]
+** Dealing river ** [ 3Herz ]
+Stoo789 checks
+JDobel bets [0,24 $]
+Stoo789 calls [0,24 $]
+** Summary **
+JDobel shows [ KPik, JPik ]
+Stoo789 shows [ KHerz, 10Pik ]
+JDobel collected [ 0,49 $ ]
+Stoo789 collected [ 0,49 $ ]
+
+
+
+#Game No : 551291907
+***** 888poker Hand History for Game 551291907 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:06:43
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: JDobel ( 2,20 $ )
+Seat 3: MariusAlexe ( 3,95 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,85 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,21 $ )
+Seat 10: Lin24 ( 5,92 $ )
+Despol posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 7Kreuz ]
+btlbtl folds
+lucifergaia raises [0,07 $]
+Lin24 folds
+JDobel folds
+MariusAlexe folds
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+** Summary **
+lucifergaia did not show his hand
+lucifergaia collected [ 0,05 $ ]
+
+
+
+#Game No : 551291963
+***** 888poker Hand History for Game 551291963 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:07:21
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: JDobel ( 2,20 $ )
+Seat 3: MariusAlexe ( 3,95 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,83 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,24 $ )
+Seat 10: Lin24 ( 5,92 $ )
+earthspitter posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 8Herz ]
+lucifergaia folds
+Lin24 folds
+JDobel folds
+MariusAlexe folds
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+** Summary **
+btlbtl collected [ 0,03 $ ]
+
+
+
+#Game No : 551292032
+***** 888poker Hand History for Game 551292032 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:07:56
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: JDobel ( 2,20 $ )
+Seat 3: MariusAlexe ( 3,95 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,82 $ )
+Seat 7: btlbtl ( 2,88 $ )
+Seat 9: lucifergaia ( 2,24 $ )
+Seat 10: Lin24 ( 5,92 $ )
+btlbtl posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 3Pik ]
+Lin24 folds
+JDobel folds
+MariusAlexe raises [0,06 $]
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+btlbtl folds
+lucifergaia calls [0,04 $]
+** Dealing flop ** [ 9Pik, 10Kreuz, 9Herz ]
+lucifergaia checks
+MariusAlexe bets [0,08 $]
+lucifergaia folds
+** Summary **
+MariusAlexe collected [ 0,13 $ ]
+
+
+
+#Game No : 551292098
+***** 888poker Hand History for Game 551292098 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:08:32
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: JDobel ( 2,20 $ )
+Seat 3: MariusAlexe ( 4,02 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,82 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,18 $ )
+Seat 10: Lin24 ( 5,92 $ )
+lucifergaia posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 5Pik ]
+JDobel calls [0,02 $]
+MariusAlexe folds
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+btlbtl folds
+lucifergaia folds
+Lin24 checks
+** Dealing flop ** [ 6Pik, AKaro, 7Pik ]
+Lin24 checks
+JDobel checks
+** Dealing turn ** [ 6Herz ]
+Lin24 checks
+JDobel checks
+** Dealing river ** [ 3Karo ]
+Lin24 checks
+JDobel checks
+** Summary **
+Lin24 shows [ 10Herz, JPik ]
+JDobel shows [ JKaro, QHerz ]
+JDobel collected [ 0,05 $ ]
+
+
+
+#Game No : 551292156
+***** 888poker Hand History for Game 551292156 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:09:05
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 2,23 $ )
+Seat 3: MariusAlexe ( 4,02 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,82 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,17 $ )
+Seat 10: Lin24 ( 5,90 $ )
+Lin24 posts small blind [0,01 $]
+ice245777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 5Herz ]
+JDobel raises [0,06 $]
+MariusAlexe folds
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+btlbtl folds
+lucifergaia folds
+Lin24 folds
+ice245777 folds
+** Summary **
+JDobel did not show his hand
+JDobel collected [ 0,05 $ ]
+
+
+
+#Game No : 551292196
+***** 888poker Hand History for Game 551292196 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:09:29
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 2,26 $ )
+Seat 3: MariusAlexe ( 4,02 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,82 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,17 $ )
+Seat 10: Lin24 ( 5,89 $ )
+ice245777 posts small blind [0,01 $]
+JDobel posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 10Pik ]
+MariusAlexe folds
+B2B_Suckouts folds
+Despol folds
+earthspitter raises [0,06 $]
+btlbtl folds
+lucifergaia folds
+Lin24 folds
+ice245777 folds
+JDobel calls [0,04 $]
+** Dealing flop ** [ 8Pik, 6Karo, 2Karo ]
+JDobel checks
+earthspitter checks
+** Dealing turn ** [ 10Herz ]
+JDobel bets [0,08 $]
+earthspitter folds
+** Summary **
+JDobel did not show his hand
+JDobel collected [ 0,13 $ ]
+
+
+
+#Game No : 551292293
+***** 888poker Hand History for Game 551292293 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:10:25
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 2,33 $ )
+Seat 3: MariusAlexe ( 4,02 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,76 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,17 $ )
+Seat 10: Lin24 ( 5,89 $ )
+JDobel posts small blind [0,01 $]
+MariusAlexe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 6Herz ]
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+btlbtl folds
+lucifergaia folds
+Lin24 folds
+ice245777 folds
+JDobel folds
+** Summary **
+MariusAlexe did not show his hand
+MariusAlexe collected [ 0,03 $ ]
+
+
+
+#Game No : 551292335
+***** 888poker Hand History for Game 551292335 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:10:47
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 2,32 $ )
+Seat 3: MariusAlexe ( 4,03 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,76 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,17 $ )
+Seat 10: Lin24 ( 5,89 $ )
+MariusAlexe posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 6Pik ]
+Despol folds
+earthspitter folds
+btlbtl folds
+lucifergaia folds
+Lin24 raises [0,06 $]
+ice245777 folds
+JDobel folds
+MariusAlexe folds
+B2B_Suckouts folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,05 $ ]
+
+
+
+#Game No : 551292374
+***** 888poker Hand History for Game 551292374 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:11:13
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 2,32 $ )
+Seat 3: MariusAlexe ( 4,02 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,76 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,17 $ )
+Seat 10: Lin24 ( 5,92 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 8Pik ]
+earthspitter folds
+btlbtl folds
+lucifergaia folds
+Lin24 raises [0,06 $]
+ice245777 folds
+JDobel folds
+MariusAlexe calls [0,06 $]
+B2B_Suckouts folds
+Despol folds
+** Dealing flop ** [ 6Pik, 8Herz, 3Herz ]
+Lin24 checks
+MariusAlexe checks
+** Dealing turn ** [ JPik ]
+Lin24 bets [0,09 $]
+MariusAlexe calls [0,09 $]
+** Dealing river ** [ 4Karo ]
+Lin24 bets [0,21 $]
+MariusAlexe calls [0,21 $]
+** Summary **
+Lin24 shows [ AHerz, JKaro ]
+MariusAlexe mucks [ 10Pik, JKreuz ]
+Lin24 collected [ 0,71 $ ]
+
+
+
+#Game No : 551292439
+***** 888poker Hand History for Game 551292439 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:11:56
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 2,32 $ )
+Seat 3: MariusAlexe ( 3,66 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,76 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,17 $ )
+Seat 10: Lin24 ( 6,27 $ )
+Despol posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 8Karo ]
+btlbtl folds
+lucifergaia folds
+Lin24 folds
+ice245777 folds
+JDobel calls [0,02 $]
+MariusAlexe folds
+B2B_Suckouts raises [0,06 $]
+Despol folds
+earthspitter folds
+JDobel folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,07 $ ]
+
+
+
+#Game No : 551292486
+***** 888poker Hand History for Game 551292486 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:12:22
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 2,30 $ )
+Seat 3: MariusAlexe ( 3,66 $ )
+Seat 4: B2B_Suckouts ( 2,05 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,74 $ )
+Seat 7: btlbtl ( 2,87 $ )
+Seat 9: lucifergaia ( 2,17 $ )
+Seat 10: Lin24 ( 6,27 $ )
+earthspitter posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 9Herz ]
+lucifergaia folds
+Lin24 folds
+ice245777 folds
+JDobel folds
+MariusAlexe raises [0,06 $]
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+btlbtl calls [0,04 $]
+** Dealing flop ** [ 10Pik, 4Kreuz, 8Karo ]
+btlbtl checks
+MariusAlexe bets [0,08 $]
+btlbtl calls [0,08 $]
+** Dealing turn ** [ 5Karo ]
+btlbtl checks
+MariusAlexe checks
+** Dealing river ** [ 2Karo ]
+btlbtl bets [0,11 $]
+MariusAlexe raises [0,33 $]
+btlbtl calls [0,22 $]
+** Summary **
+MariusAlexe shows [ 7Pik, 9Pik ]
+btlbtl shows [ 10Herz, APik ]
+btlbtl collected [ 0,90 $ ]
+
+
+
+#Game No : 551292573
+***** 888poker Hand History for Game 551292573 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:13:12
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 2,30 $ )
+Seat 3: MariusAlexe ( 3,19 $ )
+Seat 4: B2B_Suckouts ( 2,05 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,73 $ )
+Seat 7: btlbtl ( 3,30 $ )
+Seat 9: lucifergaia ( 2,17 $ )
+Seat 10: Lin24 ( 6,27 $ )
+btlbtl posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 8Karo ]
+Lin24 folds
+ice245777 folds
+JDobel raises [0,06 $]
+MariusAlexe calls [0,06 $]
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+btlbtl calls [0,05 $]
+lucifergaia calls [0,04 $]
+** Dealing flop ** [ 2Karo, KPik, 5Karo ]
+btlbtl checks
+lucifergaia checks
+JDobel bets [0,10 $]
+MariusAlexe calls [0,10 $]
+btlbtl folds
+lucifergaia calls [0,10 $]
+** Dealing turn ** [ 4Kreuz ]
+lucifergaia checks
+JDobel bets [0,23 $]
+MariusAlexe calls [0,23 $]
+lucifergaia calls [0,23 $]
+** Dealing river ** [ 9Pik ]
+lucifergaia checks
+JDobel bets [0,53 $]
+MariusAlexe calls [0,53 $]
+lucifergaia folds
+** Summary **
+JDobel shows [ 10Kreuz, KKreuz ]
+MariusAlexe mucks [ JKreuz, JPik ]
+JDobel collected [ 2,15 $ ]
+
+
+
+#Game No : 551292715
+***** 888poker Hand History for Game 551292715 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:14:33
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 3,53 $ )
+Seat 3: MariusAlexe ( 2,27 $ )
+Seat 4: B2B_Suckouts ( 2,05 $ )
+Seat 5: Despol ( 2 $ )
+Seat 6: earthspitter ( 2,73 $ )
+Seat 10: Lin24 ( 6,27 $ )
+ice245777 posts small blind [0,01 $]
+JDobel posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 2Kreuz ]
+MariusAlexe folds
+B2B_Suckouts folds
+Despol raises [0,06 $]
+earthspitter folds
+Lin24 calls [0,06 $]
+ice245777 folds
+JDobel folds
+** Dealing flop ** [ 2Herz, KKreuz, 7Pik ]
+Despol bets [0,11 $]
+Lin24 folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,15 $ ]
+
+
+
+#Game No : 551292778
+***** 888poker Hand History for Game 551292778 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:15:05
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 3,51 $ )
+Seat 3: MariusAlexe ( 2,27 $ )
+Seat 4: B2B_Suckouts ( 2,05 $ )
+Seat 5: Despol ( 2,09 $ )
+Seat 6: earthspitter ( 2,73 $ )
+Seat 10: Lin24 ( 6,21 $ )
+JDobel posts small blind [0,01 $]
+MariusAlexe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, KKaro ]
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+Lin24 folds
+ice245777 folds
+JDobel folds
+** Summary **
+MariusAlexe did not show his hand
+MariusAlexe collected [ 0,03 $ ]
+
+
+
+#Game No : 551292798
+***** 888poker Hand History for Game 551292798 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:15:21
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 3,50 $ )
+Seat 3: MariusAlexe ( 2,28 $ )
+Seat 4: B2B_Suckouts ( 2,05 $ )
+Seat 5: Despol ( 2,09 $ )
+Seat 6: earthspitter ( 2,73 $ )
+Seat 10: Lin24 ( 6,21 $ )
+MariusAlexe posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 5Pik ]
+Despol folds
+earthspitter folds
+Lin24 folds
+ice245777 folds
+JDobel raises [0,06 $]
+MariusAlexe folds
+B2B_Suckouts folds
+** Summary **
+JDobel collected [ 0,05 $ ]
+
+
+
+#Game No : 551292847
+***** 888poker Hand History for Game 551292847 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:15:47
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 3,53 $ )
+Seat 3: MariusAlexe ( 2,27 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 5: Despol ( 2,09 $ )
+Seat 6: earthspitter ( 2,73 $ )
+Seat 7: Finnonto ( 0,80 $ )
+Seat 10: Lin24 ( 6,21 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+Finnonto posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 3Herz ]
+earthspitter folds
+Finnonto raises [0,04 $]
+Lin24 folds
+ice245777 folds
+JDobel folds
+MariusAlexe folds
+B2B_Suckouts folds
+Despol folds
+** Summary **
+Finnonto did not show his hand
+Finnonto collected [ 0,05 $ ]
+
+
+
+#Game No : 551292923
+***** 888poker Hand History for Game 551292923 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:16:30
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 0,80 $ )
+Seat 2: JDobel ( 3,53 $ )
+Seat 3: MariusAlexe ( 2,27 $ )
+Seat 4: B2B_Suckouts ( 2,02 $ )
+Seat 5: Despol ( 2,07 $ )
+Seat 6: earthspitter ( 2,73 $ )
+Seat 7: Finnonto ( 0,83 $ )
+Seat 10: Lin24 ( 6,21 $ )
+Despol posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, JPik ]
+Finnonto folds
+Lin24 folds
+ice245777 raises [0,06 $]
+JDobel folds
+MariusAlexe calls [0,06 $]
+B2B_Suckouts folds
+Despol folds
+earthspitter calls [0,04 $]
+** Dealing flop ** [ AKreuz, 2Pik, AKaro ]
+earthspitter checks
+ice245777 checks
+MariusAlexe checks
+** Dealing turn ** [ 6Kreuz ]
+earthspitter checks
+ice245777 bets [0,12 $]
+MariusAlexe calls [0,12 $]
+earthspitter folds
+** Dealing river ** [ 3Kreuz ]
+ice245777 bets [0,21 $]
+MariusAlexe calls [0,21 $]
+** Summary **
+ice245777 shows [ APik, KPik ]
+MariusAlexe mucks [ 10Karo, 10Kreuz ]
+ice245777 collected [ 0,80 $ ]
+
+
+
+#Game No : 551293054
+***** 888poker Hand History for Game 551293054 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:17:44
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,21 $ )
+Seat 2: JDobel ( 3,53 $ )
+Seat 3: MariusAlexe ( 1,88 $ )
+Seat 4: B2B_Suckouts ( 2,02 $ )
+Seat 5: Despol ( 2,06 $ )
+Seat 6: earthspitter ( 2,67 $ )
+Seat 7: Finnonto ( 0,83 $ )
+Seat 10: Lin24 ( 6,21 $ )
+earthspitter posts small blind [0,01 $]
+Finnonto posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 6Karo ]
+Lin24 folds
+ice245777 folds
+JDobel raises [0,08 $]
+MariusAlexe calls [0,08 $]
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+Finnonto calls [0,06 $]
+** Dealing flop ** [ 3Herz, QKaro, 5Kreuz ]
+Finnonto bets [0,02 $]
+JDobel raises [0,10 $]
+MariusAlexe folds
+Finnonto raises [0,73 $]
+JDobel calls [0,65 $]
+** Dealing turn ** [ 6Pik ]
+** Dealing river ** [ KPik ]
+** Summary **
+JDobel shows [ QPik, JKaro ]
+Finnonto shows [ 5Pik, 6Kreuz ]
+Finnonto collected [ 1,65 $ ]
+
+
+
+#Game No : 551293135
+***** 888poker Hand History for Game 551293135 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:18:25
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 1,21 $ )
+Seat 2: JDobel ( 2,70 $ )
+Seat 3: MariusAlexe ( 1,80 $ )
+Seat 4: B2B_Suckouts ( 2,02 $ )
+Seat 5: Despol ( 2,06 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 7: Finnonto ( 1,65 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 6,21 $ )
+Finnonto posts small blind [0,01 $]
+tatozeta2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, AKaro ]
+Lin24 folds
+ice245777 folds
+JDobel calls [0,02 $]
+MariusAlexe calls [0,02 $]
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+Finnonto calls [0,01 $]
+tatozeta2000 checks
+** Dealing flop ** [ 2Herz, 7Kreuz, 2Kreuz ]
+Finnonto bets [0,04 $]
+tatozeta2000 folds
+JDobel folds
+MariusAlexe folds
+** Summary **
+Finnonto did not show his hand
+Finnonto collected [ 0,08 $ ]
+
+
+
+#Game No : 551293198
+***** 888poker Hand History for Game 551293198 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:19:02
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 1,21 $ )
+Seat 2: JDobel ( 2,68 $ )
+Seat 3: MariusAlexe ( 1,78 $ )
+Seat 4: B2B_Suckouts ( 2,02 $ )
+Seat 5: Despol ( 2,06 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 7: Finnonto ( 1,71 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 6,21 $ )
+tatozeta2000 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 7Pik ]
+ice245777 folds
+JDobel folds
+MariusAlexe folds
+B2B_Suckouts folds
+Despol folds
+earthspitter folds
+Finnonto raises [0,08 $]
+tatozeta2000 folds
+Lin24 folds
+** Summary **
+Finnonto did not show his hand
+Finnonto collected [ 0,05 $ ]
+
+
+
+#Game No : 551293245
+***** 888poker Hand History for Game 551293245 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:19:27
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,21 $ )
+Seat 2: JDobel ( 2,68 $ )
+Seat 3: MariusAlexe ( 1,78 $ )
+Seat 4: B2B_Suckouts ( 2,02 $ )
+Seat 5: Despol ( 2,06 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 6,19 $ )
+Lin24 posts small blind [0,01 $]
+ice245777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 10Karo ]
+JDobel folds
+MariusAlexe raises [0,06 $]
+B2B_Suckouts calls [0,06 $]
+Despol folds
+earthspitter folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 calls [0,04 $]
+** Dealing flop ** [ 6Karo, KKaro, AHerz ]
+ice245777 checks
+MariusAlexe checks
+B2B_Suckouts bets [0,06 $]
+ice245777 folds
+MariusAlexe folds
+** Summary **
+B2B_Suckouts collected [ 0,18 $ ]
+
+
+
+#Game No : 551293338
+***** 888poker Hand History for Game 551293338 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:20:13
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,15 $ )
+Seat 2: JDobel ( 2,68 $ )
+Seat 3: MariusAlexe ( 1,72 $ )
+Seat 4: B2B_Suckouts ( 2,14 $ )
+Seat 5: Despol ( 2,06 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 6,18 $ )
+ice245777 posts small blind [0,01 $]
+JDobel posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, QHerz ]
+MariusAlexe folds
+B2B_Suckouts raises [0,06 $]
+Despol folds
+earthspitter folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+JDobel folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551293381
+***** 888poker Hand History for Game 551293381 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:20:40
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,14 $ )
+Seat 2: JDobel ( 2,66 $ )
+Seat 3: MariusAlexe ( 1,72 $ )
+Seat 4: B2B_Suckouts ( 2,17 $ )
+Seat 5: Despol ( 2,06 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 6,18 $ )
+JDobel posts small blind [0,01 $]
+MariusAlexe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, QPik ]
+B2B_Suckouts raises [0,06 $]
+Despol folds
+earthspitter folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+JDobel folds
+MariusAlexe folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551293433
+***** 888poker Hand History for Game 551293433 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:21:03
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,14 $ )
+Seat 2: JDobel ( 2,65 $ )
+Seat 3: MariusAlexe ( 1,70 $ )
+Seat 4: B2B_Suckouts ( 2,20 $ )
+Seat 5: Despol ( 2,06 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 6,18 $ )
+MariusAlexe posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, QKaro ]
+Despol folds
+earthspitter folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+JDobel raises [0,08 $]
+MariusAlexe calls [0,07 $]
+B2B_Suckouts raises [0,22 $]
+JDobel calls [0,16 $]
+MariusAlexe calls [0,16 $]
+** Dealing flop ** [ 6Herz, APik, JPik ]
+MariusAlexe checks
+B2B_Suckouts bets [0,23 $]
+JDobel calls [0,23 $]
+MariusAlexe folds
+** Dealing turn ** [ 4Pik ]
+B2B_Suckouts checks
+JDobel bets [0,46 $]
+B2B_Suckouts calls [0,46 $]
+** Dealing river ** [ 6Karo ]
+B2B_Suckouts checks
+JDobel bets [1,72 $]
+B2B_Suckouts calls [1,27 $]
+** Summary **
+JDobel shows [ JHerz, AKaro ]
+B2B_Suckouts shows [ AHerz, QKaro ]
+JDobel collected [ 4,35 $ ]
+
+
+
+#Game No : 551293601
+***** 888poker Hand History for Game 551293601 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:22:35
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,14 $ )
+Seat 2: JDobel ( 4,80 $ )
+Seat 3: MariusAlexe ( 1,46 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Despol ( 2,06 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 6,18 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Despol folds
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 3Herz ]
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+JDobel folds
+MariusAlexe folds
+B2B_Suckouts folds
+** Summary **
+earthspitter collected [ 0,03 $ ]
+
+
+
+#Game No : 551293636
+***** 888poker Hand History for Game 551293636 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:22:51
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,14 $ )
+Seat 2: JDobel ( 4,80 $ )
+Seat 3: MariusAlexe ( 1,46 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 6: earthspitter ( 2,67 $ )
+Seat 7: ZippyGambino ( 2 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 6,18 $ )
+earthspitter posts small blind [0,01 $]
+ZippyGambino posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, APik ]
+tatozeta2000 folds
+Lin24 raises [0,06 $]
+ice245777 folds
+JDobel folds
+MariusAlexe calls [0,06 $]
+B2B_Suckouts raises [0,18 $]
+earthspitter folds
+ZippyGambino folds
+Lin24 raises [0,48 $]
+MariusAlexe raises [1,40 $]
+B2B_Suckouts raises [1,82 $]
+Lin24 folds
+** Dealing flop ** [ 5Herz, 4Herz, KHerz ]
+** Dealing turn ** [ KKaro ]
+** Dealing river ** [ 5Pik ]
+** Summary **
+MariusAlexe shows [ 7Kreuz, 7Herz ]
+B2B_Suckouts shows [ JKaro, APik ]
+MariusAlexe collected [ 3,28 $ ]
+
+
+
+#Game No : 551293804
+***** 888poker Hand History for Game 551293804 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:24:23
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,14 $ )
+Seat 2: JDobel ( 4,80 $ )
+Seat 3: MariusAlexe ( 3,28 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 7: ZippyGambino ( 1,98 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 5,64 $ )
+ZippyGambino posts small blind [0,01 $]
+tatozeta2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, QKaro ]
+Lin24 folds
+ice245777 folds
+JDobel folds
+MariusAlexe folds
+B2B_Suckouts raises [0,06 $]
+earthspitter folds
+ZippyGambino folds
+tatozeta2000 calls [0,04 $]
+** Dealing flop ** [ 4Karo, QKreuz, 3Herz ]
+tatozeta2000 checks
+B2B_Suckouts checks
+** Dealing turn ** [ KHerz ]
+tatozeta2000 checks
+B2B_Suckouts bets [0,04 $]
+tatozeta2000 calls [0,04 $]
+** Dealing river ** [ JKreuz ]
+tatozeta2000 checks
+B2B_Suckouts checks
+** Summary **
+tatozeta2000 shows [ 8Pik, 8Karo ]
+B2B_Suckouts shows [ AHerz, QKaro ]
+B2B_Suckouts collected [ 0,20 $ ]
+
+
+
+#Game No : 551293895
+***** 888poker Hand History for Game 551293895 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:25:15
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,14 $ )
+Seat 2: JDobel ( 4,80 $ )
+Seat 3: MariusAlexe ( 3,28 $ )
+Seat 4: B2B_Suckouts ( 2,10 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 7: ZippyGambino ( 1,97 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 5,64 $ )
+tatozeta2000 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 3Pik ]
+ice245777 folds
+JDobel folds
+MariusAlexe calls [0,02 $]
+B2B_Suckouts folds
+earthspitter folds
+ZippyGambino folds
+tatozeta2000 calls [0,01 $]
+Lin24 checks
+** Dealing flop ** [ 10Pik, 9Karo, AHerz ]
+tatozeta2000 checks
+Lin24 checks
+MariusAlexe checks
+** Dealing turn ** [ 6Pik ]
+tatozeta2000 checks
+Lin24 checks
+MariusAlexe checks
+** Dealing river ** [ 4Pik ]
+tatozeta2000 bets [0,04 $]
+Lin24 folds
+MariusAlexe folds
+** Summary **
+tatozeta2000 collected [ 0,06 $ ]
+
+
+
+#Game No : 551294000
+***** 888poker Hand History for Game 551294000 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:26:14
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: ice245777 ( 1,14 $ )
+Seat 3: MariusAlexe ( 3,26 $ )
+Seat 4: B2B_Suckouts ( 2,10 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 7: ZippyGambino ( 1,97 $ )
+Seat 9: tatozeta2000 ( 1,44 $ )
+Seat 10: Lin24 ( 5,62 $ )
+Lin24 posts small blind [0,01 $]
+ice245777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, AKaro ]
+MariusAlexe calls [0,02 $]
+B2B_Suckouts folds
+earthspitter folds
+ZippyGambino raises [0,06 $]
+tatozeta2000 folds
+Lin24 folds
+ice245777 calls [0,04 $]
+MariusAlexe calls [0,04 $]
+** Dealing flop ** [ 2Pik, KKaro, 10Pik ]
+ice245777 checks
+MariusAlexe checks
+ZippyGambino bets [0,09 $]
+ice245777 folds
+MariusAlexe calls [0,09 $]
+** Dealing turn ** [ 9Karo ]
+MariusAlexe checks
+ZippyGambino bets [0,18 $]
+MariusAlexe calls [0,18 $]
+** Dealing river ** [ JKaro ]
+MariusAlexe checks
+ZippyGambino checks
+** Summary **
+MariusAlexe shows [ QHerz, KPik ]
+ZippyGambino mucks [ APik, AKreuz ]
+MariusAlexe collected [ 0,69 $ ]
+
+
+
+#Game No : 551294119
+***** 888poker Hand History for Game 551294119 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:27:19
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,08 $ )
+Seat 2: Terminator4 ( 2 $ )
+Seat 3: MariusAlexe ( 3,62 $ )
+Seat 4: B2B_Suckouts ( 2,10 $ )
+Seat 6: earthspitter ( 2,66 $ )
+Seat 7: ZippyGambino ( 1,64 $ )
+Seat 9: tatozeta2000 ( 1,44 $ )
+Seat 10: Lin24 ( 5,61 $ )
+ice245777 posts small blind [0,01 $]
+Terminator4 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 4Pik ]
+MariusAlexe calls [0,02 $]
+B2B_Suckouts folds
+earthspitter calls [0,02 $]
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 raises [0,08 $]
+ice245777 folds
+Terminator4 folds
+MariusAlexe calls [0,06 $]
+earthspitter folds
+** Dealing flop ** [ 2Herz, 4Herz, 10Kreuz ]
+MariusAlexe bets [0,02 $]
+Lin24 raises [0,08 $]
+MariusAlexe calls [0,06 $]
+** Dealing turn ** [ 8Pik ]
+MariusAlexe checks
+Lin24 bets [0,24 $]
+MariusAlexe calls [0,24 $]
+** Dealing river ** [ APik ]
+MariusAlexe bets [0,56 $]
+Lin24 folds
+** Summary **
+MariusAlexe collected [ 0,80 $ ]
+
+
+
+#Game No : 551294238
+***** 888poker Hand History for Game 551294238 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:28:35
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,07 $ )
+Seat 2: Terminator4 ( 1,98 $ )
+Seat 3: MariusAlexe ( 4,02 $ )
+Seat 4: B2B_Suckouts ( 2,10 $ )
+Seat 6: earthspitter ( 2,64 $ )
+Seat 7: ZippyGambino ( 1,64 $ )
+Seat 9: tatozeta2000 ( 1,44 $ )
+Seat 10: Lin24 ( 5,21 $ )
+Terminator4 posts small blind [0,01 $]
+MariusAlexe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 9Pik ]
+B2B_Suckouts folds
+earthspitter folds
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+** Summary **
+MariusAlexe collected [ 0,03 $ ]
+
+
+
+#Game No : 551294276
+***** 888poker Hand History for Game 551294276 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:29:00
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,07 $ )
+Seat 2: Terminator4 ( 1,97 $ )
+Seat 3: MariusAlexe ( 4,03 $ )
+Seat 4: B2B_Suckouts ( 2,10 $ )
+Seat 6: earthspitter ( 2,64 $ )
+Seat 7: ZippyGambino ( 1,64 $ )
+Seat 9: tatozeta2000 ( 1,44 $ )
+Seat 10: Lin24 ( 5,21 $ )
+MariusAlexe posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, QPik ]
+earthspitter folds
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+MariusAlexe folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 551294313
+***** 888poker Hand History for Game 551294313 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:29:27
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 1,07 $ )
+Seat 2: Terminator4 ( 1,97 $ )
+Seat 3: MariusAlexe ( 4,02 $ )
+Seat 4: B2B_Suckouts ( 2,11 $ )
+Seat 5: Satyic ( 2 $ )
+Seat 6: earthspitter ( 2,64 $ )
+Seat 7: ZippyGambino ( 1,64 $ )
+Seat 9: tatozeta2000 ( 1,44 $ )
+Seat 10: Lin24 ( 5,21 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Satyic posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 7Kreuz ]
+earthspitter folds
+ZippyGambino calls [0,02 $]
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+MariusAlexe calls [0,02 $]
+B2B_Suckouts folds
+Satyic checks
+** Dealing flop ** [ 4Herz, JPik, AKaro ]
+Satyic checks
+ZippyGambino checks
+MariusAlexe checks
+** Dealing turn ** [ 7Pik ]
+Satyic checks
+ZippyGambino checks
+MariusAlexe checks
+** Dealing river ** [ 5Karo ]
+Satyic bets [0,03 $]
+ZippyGambino calls [0,03 $]
+MariusAlexe folds
+** Summary **
+Satyic shows [ 7Karo, 3Kreuz ]
+ZippyGambino mucks [ 2Kreuz, 2Herz ]
+Satyic collected [ 0,13 $ ]
+
+
+
+#Game No : 551294400
+***** 888poker Hand History for Game 551294400 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:30:25
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 1,07 $ )
+Seat 2: Terminator4 ( 1,97 $ )
+Seat 3: MariusAlexe ( 4 $ )
+Seat 4: B2B_Suckouts ( 2,10 $ )
+Seat 5: Satyic ( 2,08 $ )
+Seat 6: earthspitter ( 2,64 $ )
+Seat 7: ZippyGambino ( 1,59 $ )
+Seat 9: tatozeta2000 ( 1,44 $ )
+Seat 10: Lin24 ( 5,21 $ )
+Satyic posts small blind [0,01 $]
+earthspitter posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Herz ]
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 raises [0,06 $]
+ice245777 folds
+Terminator4 folds
+MariusAlexe folds
+B2B_Suckouts calls [0,06 $]
+Satyic folds
+earthspitter folds
+** Dealing flop ** [ 7Herz, 9Kreuz, 5Kreuz ]
+Lin24 checks
+B2B_Suckouts checks
+** Dealing turn ** [ KPik ]
+Lin24 checks
+B2B_Suckouts checks
+** Dealing river ** [ 2Pik ]
+Lin24 bets [0,09 $]
+B2B_Suckouts folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,15 $ ]
+
+
+
+#Game No : 551294467
+***** 888poker Hand History for Game 551294467 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:31:06
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,07 $ )
+Seat 2: Terminator4 ( 1,97 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: Satyic ( 2,07 $ )
+Seat 6: earthspitter ( 2,62 $ )
+Seat 7: ZippyGambino ( 1,59 $ )
+Seat 9: tatozeta2000 ( 1,44 $ )
+Seat 10: Lin24 ( 5,30 $ )
+earthspitter posts small blind [0,01 $]
+ZippyGambino posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 10Kreuz ]
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+B2B_Suckouts folds
+Satyic folds
+earthspitter folds
+** Summary **
+ZippyGambino did not show his hand
+ZippyGambino collected [ 0,03 $ ]
+
+
+
+#Game No : 551294500
+***** 888poker Hand History for Game 551294500 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:31:26
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,07 $ )
+Seat 2: Terminator4 ( 1,97 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: Satyic ( 2,07 $ )
+Seat 6: earthspitter ( 2,61 $ )
+Seat 7: ZippyGambino ( 1,60 $ )
+Seat 9: tatozeta2000 ( 1,44 $ )
+Seat 10: Lin24 ( 5,30 $ )
+ZippyGambino posts small blind [0,01 $]
+tatozeta2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 8Karo ]
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+B2B_Suckouts folds
+Satyic raises [0,05 $]
+earthspitter folds
+ZippyGambino folds
+tatozeta2000 calls [0,03 $]
+** Dealing flop ** [ 4Kreuz, 4Karo, 6Pik ]
+tatozeta2000 checks
+Satyic bets [0,05 $]
+tatozeta2000 calls [0,05 $]
+** Dealing turn ** [ 3Karo ]
+tatozeta2000 checks
+Satyic checks
+** Dealing river ** [ KKaro ]
+tatozeta2000 checks
+Satyic checks
+** Summary **
+tatozeta2000 shows [ 5Karo, AKaro ]
+Satyic mucks [ 7Herz, APik ]
+tatozeta2000 collected [ 0,20 $ ]
+
+
+
+#Game No : 551294599
+***** 888poker Hand History for Game 551294599 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:32:30
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,07 $ )
+Seat 2: Terminator4 ( 1,97 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: Satyic ( 1,97 $ )
+Seat 6: earthspitter ( 2,61 $ )
+Seat 7: ZippyGambino ( 1,59 $ )
+Seat 9: tatozeta2000 ( 1,54 $ )
+Seat 10: Lin24 ( 5,30 $ )
+tatozeta2000 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 2Karo ]
+ice245777 folds
+Terminator4 folds
+B2B_Suckouts folds
+Satyic folds
+earthspitter folds
+ZippyGambino raises [0,06 $]
+tatozeta2000 folds
+Lin24 folds
+** Summary **
+ZippyGambino collected [ 0,05 $ ]
+
+
+
+#Game No : 551294644
+***** 888poker Hand History for Game 551294644 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:32:59
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,07 $ )
+Seat 2: Terminator4 ( 1,97 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: Satyic ( 1,97 $ )
+Seat 6: earthspitter ( 2,61 $ )
+Seat 7: ZippyGambino ( 1,62 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,28 $ )
+Lin24 posts small blind [0,01 $]
+ice245777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 9Kreuz ]
+Terminator4 folds
+B2B_Suckouts folds
+Satyic raises [0,06 $]
+earthspitter folds
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 calls [0,05 $]
+ice245777 folds
+** Dealing flop ** [ 4Kreuz, QKreuz, 2Karo ]
+Lin24 bets [0,07 $]
+Satyic calls [0,07 $]
+** Dealing turn ** [ JKaro ]
+Lin24 checks
+Satyic bets [0,14 $]
+Lin24 folds
+** Summary **
+Satyic collected [ 0,27 $ ]
+
+
+
+#Game No : 551294730
+***** 888poker Hand History for Game 551294730 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:33:53
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,05 $ )
+Seat 2: Terminator4 ( 1,97 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: Satyic ( 2,11 $ )
+Seat 6: earthspitter ( 2,61 $ )
+Seat 7: ZippyGambino ( 1,62 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,15 $ )
+ice245777 posts small blind [0,01 $]
+Terminator4 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 7Pik ]
+B2B_Suckouts folds
+Satyic calls [0,02 $]
+earthspitter folds
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 calls [0,01 $]
+Terminator4 checks
+** Dealing flop ** [ QKreuz, 4Herz, 4Kreuz ]
+ice245777 bets [0,03 $]
+Terminator4 folds
+Satyic calls [0,03 $]
+** Dealing turn ** [ JHerz ]
+ice245777 bets [0,06 $]
+Satyic folds
+** Summary **
+ice245777 collected [ 0,12 $ ]
+
+
+
+#Game No : 551294815
+***** 888poker Hand History for Game 551294815 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:34:42
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,95 $ )
+Seat 3: floydsummers ( 1,40 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: Satyic ( 2,06 $ )
+Seat 6: earthspitter ( 2,61 $ )
+Seat 7: ZippyGambino ( 1,62 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,15 $ )
+Terminator4 posts small blind [0,01 $]
+floydsummers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 3Karo ]
+B2B_Suckouts folds
+Satyic folds
+earthspitter folds
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 raises [0,05 $]
+floydsummers calls [0,04 $]
+** Dealing flop ** [ QHerz, 3Pik, QPik ]
+Terminator4 bets [0,07 $]
+floydsummers folds
+** Summary **
+Terminator4 did not show his hand
+Terminator4 collected [ 0,12 $ ]
+
+
+
+#Game No : 551294869
+***** 888poker Hand History for Game 551294869 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:35:17
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 2,01 $ )
+Seat 3: floydsummers ( 1,34 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: Satyic ( 2,06 $ )
+Seat 6: earthspitter ( 2,61 $ )
+Seat 7: ZippyGambino ( 1,62 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,15 $ )
+floydsummers posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 6Herz ]
+Satyic folds
+earthspitter raises [0,06 $]
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 5Kreuz, 6Karo, KHerz ]
+B2B_Suckouts bets [0,04 $]
+earthspitter calls [0,04 $]
+** Dealing turn ** [ QHerz ]
+B2B_Suckouts bets [0,10 $]
+earthspitter folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,20 $ ]
+
+
+
+#Game No : 551294973
+***** 888poker Hand History for Game 551294973 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:36:15
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 2,01 $ )
+Seat 3: floydsummers ( 1,33 $ )
+Seat 4: B2B_Suckouts ( 2,14 $ )
+Seat 5: Satyic ( 2,06 $ )
+Seat 6: earthspitter ( 2,51 $ )
+Seat 7: ZippyGambino ( 1,62 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,15 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Satyic posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 7Kreuz ]
+earthspitter folds
+ZippyGambino raises [0,04 $]
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts calls [0,03 $]
+Satyic folds
+** Dealing flop ** [ 5Karo, APik, QPik ]
+B2B_Suckouts checks
+ZippyGambino checks
+** Dealing turn ** [ 7Herz ]
+B2B_Suckouts bets [0,02 $]
+ZippyGambino calls [0,02 $]
+** Dealing river ** [ 4Herz ]
+B2B_Suckouts bets [0,02 $]
+ZippyGambino calls [0,02 $]
+** Summary **
+B2B_Suckouts shows [ 10Kreuz, 7Kreuz ]
+ZippyGambino shows [ QHerz, JKreuz ]
+ZippyGambino collected [ 0,17 $ ]
+
+
+
+#Game No : 551295069
+***** 888poker Hand History for Game 551295069 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:37:15
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 2,01 $ )
+Seat 3: floydsummers ( 1,33 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: Satyic ( 2,04 $ )
+Seat 7: ZippyGambino ( 1,71 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,15 $ )
+Satyic posts small blind [0,01 $]
+ZippyGambino posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 2Kreuz ]
+tatozeta2000 raises [0,05 $]
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino folds
+** Summary **
+tatozeta2000 did not show his hand
+tatozeta2000 collected [ 0,05 $ ]
+
+
+
+#Game No : 551295105
+***** 888poker Hand History for Game 551295105 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:37:34
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 2,01 $ )
+Seat 3: floydsummers ( 1,33 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: Satyic ( 2,03 $ )
+Seat 7: ZippyGambino ( 1,69 $ )
+Seat 9: tatozeta2000 ( 1,56 $ )
+Seat 10: Lin24 ( 5,15 $ )
+ZippyGambino posts small blind [0,01 $]
+tatozeta2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 2Herz ]
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino calls [0,01 $]
+tatozeta2000 checks
+** Dealing flop ** [ 5Herz, 9Herz, 3Kreuz ]
+ZippyGambino checks
+tatozeta2000 checks
+** Dealing turn ** [ KKaro ]
+ZippyGambino bets [0,08 $]
+tatozeta2000 folds
+** Summary **
+ZippyGambino did not show his hand
+ZippyGambino collected [ 0,04 $ ]
+
+
+
+#Game No : 551295164
+***** 888poker Hand History for Game 551295164 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:38:18
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 2,01 $ )
+Seat 3: floydsummers ( 1,33 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: Satyic ( 2,03 $ )
+Seat 7: ZippyGambino ( 1,71 $ )
+Seat 9: tatozeta2000 ( 1,54 $ )
+Seat 10: Lin24 ( 5,15 $ )
+tatozeta2000 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 2Herz ]
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino raises [0,06 $]
+tatozeta2000 folds
+Lin24 raises [0,16 $]
+ZippyGambino folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,13 $ ]
+
+
+
+#Game No : 551295212
+***** 888poker Hand History for Game 551295212 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:38:48
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 2,01 $ )
+Seat 3: floydsummers ( 1,33 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: Satyic ( 2,03 $ )
+Seat 7: ZippyGambino ( 1,65 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,22 $ )
+Lin24 posts small blind [0,01 $]
+ice245777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 4Herz ]
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+** Summary **
+ice245777 did not show his hand
+ice245777 collected [ 0,03 $ ]
+
+
+
+#Game No : 551295223
+***** 888poker Hand History for Game 551295223 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:38:58
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,13 $ )
+Seat 2: Terminator4 ( 2,01 $ )
+Seat 3: floydsummers ( 1,33 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: Satyic ( 2,03 $ )
+Seat 7: ZippyGambino ( 1,65 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,21 $ )
+ice245777 posts small blind [0,01 $]
+Terminator4 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 5Pik ]
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino folds
+tatozeta2000 raises [0,06 $]
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+** Summary **
+tatozeta2000 did not show his hand
+tatozeta2000 collected [ 0,05 $ ]
+
+
+
+#Game No : 551295257
+***** 888poker Hand History for Game 551295257 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:39:23
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,99 $ )
+Seat 3: floydsummers ( 1,33 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: Satyic ( 2,03 $ )
+Seat 7: ZippyGambino ( 1,65 $ )
+Seat 9: tatozeta2000 ( 1,56 $ )
+Seat 10: Lin24 ( 5,21 $ )
+Terminator4 posts small blind [0,01 $]
+floydsummers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, APik ]
+B2B_Suckouts raises [0,06 $]
+Satyic folds
+ZippyGambino calls [0,06 $]
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 calls [0,05 $]
+floydsummers folds
+** Dealing flop ** [ 6Karo, 10Karo, 4Karo ]
+Terminator4 checks
+B2B_Suckouts checks
+ZippyGambino bets [0,06 $]
+Terminator4 folds
+B2B_Suckouts folds
+** Summary **
+ZippyGambino did not show his hand
+ZippyGambino collected [ 0,19 $ ]
+
+
+
+#Game No : 551295316
+***** 888poker Hand History for Game 551295316 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:40:02
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,93 $ )
+Seat 3: floydsummers ( 1,31 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: Satyic ( 2,03 $ )
+Seat 7: ZippyGambino ( 1,78 $ )
+Seat 9: tatozeta2000 ( 1,56 $ )
+Seat 10: Lin24 ( 5,21 $ )
+floydsummers posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 10Kreuz ]
+Satyic folds
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ JPik, 2Pik, 3Kreuz ]
+floydsummers checks
+B2B_Suckouts checks
+** Dealing turn ** [ 4Karo ]
+floydsummers checks
+B2B_Suckouts bets [0,02 $]
+floydsummers calls [0,02 $]
+** Dealing river ** [ 8Kreuz ]
+floydsummers checks
+B2B_Suckouts bets [0,08 $]
+floydsummers folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,08 $ ]
+
+
+
+#Game No : 551295386
+***** 888poker Hand History for Game 551295386 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:40:51
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,93 $ )
+Seat 3: floydsummers ( 1,27 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: Satyic ( 2,03 $ )
+Seat 7: ZippyGambino ( 1,78 $ )
+Seat 9: tatozeta2000 ( 1,56 $ )
+Seat 10: Lin24 ( 5,21 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Satyic posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, AHerz ]
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts raises [0,03 $]
+Satyic calls [0,02 $]
+** Dealing flop ** [ 9Karo, KHerz, QKreuz ]
+B2B_Suckouts checks
+Satyic checks
+** Dealing turn ** [ APik ]
+B2B_Suckouts bets [0,02 $]
+Satyic folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,08 $ ]
+
+
+
+#Game No : 551295442
+***** 888poker Hand History for Game 551295442 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:41:29
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,93 $ )
+Seat 3: floydsummers ( 1,27 $ )
+Seat 4: B2B_Suckouts ( 2,08 $ )
+Seat 5: Satyic ( 1,99 $ )
+Seat 7: ZippyGambino ( 1,78 $ )
+Seat 9: tatozeta2000 ( 1,56 $ )
+Seat 10: Lin24 ( 5,21 $ )
+Satyic posts small blind [0,01 $]
+ZippyGambino posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 5Kreuz ]
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+Satyic raises [0,04 $]
+ZippyGambino folds
+** Summary **
+Satyic did not show his hand
+Satyic collected [ 0,04 $ ]
+
+
+
+#Game No : 551295479
+***** 888poker Hand History for Game 551295479 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:41:54
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,93 $ )
+Seat 3: floydsummers ( 1,27 $ )
+Seat 4: B2B_Suckouts ( 2,08 $ )
+Seat 5: Satyic ( 2,01 $ )
+Seat 7: ZippyGambino ( 1,76 $ )
+Seat 9: tatozeta2000 ( 1,56 $ )
+Seat 10: Lin24 ( 5,21 $ )
+ZippyGambino posts small blind [0,01 $]
+tatozeta2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, QHerz ]
+Lin24 folds
+ice245777 raises [0,06 $]
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino folds
+tatozeta2000 folds
+** Summary **
+ice245777 did not show his hand
+ice245777 collected [ 0,05 $ ]
+
+
+
+#Game No : 551295507
+***** 888poker Hand History for Game 551295507 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:42:16
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,15 $ )
+Seat 2: Terminator4 ( 1,93 $ )
+Seat 3: floydsummers ( 1,27 $ )
+Seat 4: B2B_Suckouts ( 2,08 $ )
+Seat 5: Satyic ( 2,01 $ )
+Seat 7: ZippyGambino ( 1,75 $ )
+Seat 9: tatozeta2000 ( 1,54 $ )
+Seat 10: Lin24 ( 5,21 $ )
+tatozeta2000 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, JKaro ]
+ice245777 folds
+Terminator4 folds
+floydsummers raises [0,06 $]
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+** Summary **
+floydsummers did not show his hand
+floydsummers collected [ 0,05 $ ]
+
+
+
+#Game No : 551295539
+***** 888poker Hand History for Game 551295539 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:42:39
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,15 $ )
+Seat 2: Terminator4 ( 1,93 $ )
+Seat 3: floydsummers ( 1,30 $ )
+Seat 4: B2B_Suckouts ( 2,08 $ )
+Seat 5: Satyic ( 2,01 $ )
+Seat 7: ZippyGambino ( 1,75 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,19 $ )
+Lin24 posts small blind [0,01 $]
+ice245777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 9Herz ]
+Terminator4 folds
+floydsummers calls [0,02 $]
+B2B_Suckouts calls [0,02 $]
+Satyic calls [0,02 $]
+ZippyGambino raises [0,10 $]
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+** Summary **
+ZippyGambino did not show his hand
+ZippyGambino collected [ 0,11 $ ]
+
+
+
+#Game No : 551295633
+***** 888poker Hand History for Game 551295633 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:43:43
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,13 $ )
+Seat 2: Terminator4 ( 1,93 $ )
+Seat 3: floydsummers ( 1,28 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: Satyic ( 1,99 $ )
+Seat 7: ZippyGambino ( 1,84 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,18 $ )
+ice245777 posts small blind [0,01 $]
+Terminator4 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 2Herz ]
+floydsummers folds
+B2B_Suckouts folds
+Satyic raises [0,06 $]
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+** Summary **
+Satyic did not show his hand
+Satyic collected [ 0,05 $ ]
+
+
+
+#Game No : 551295693
+***** 888poker Hand History for Game 551295693 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:44:21
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,91 $ )
+Seat 3: floydsummers ( 1,28 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: Satyic ( 2,02 $ )
+Seat 7: ZippyGambino ( 1,84 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Terminator4 posts small blind [0,01 $]
+floydsummers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 2Herz ]
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino raises [0,04 $]
+tatozeta2000 folds
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+** Summary **
+ZippyGambino collected [ 0,05 $ ]
+
+
+
+#Game No : 551295745
+***** 888poker Hand History for Game 551295745 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:44:55
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,90 $ )
+Seat 3: floydsummers ( 1,26 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: Satyic ( 2,02 $ )
+Seat 7: ZippyGambino ( 1,87 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,18 $ )
+floydsummers posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 7Kreuz ]
+Satyic raises [0,05 $]
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts calls [0,03 $]
+** Dealing flop ** [ 3Pik, 6Karo, QPik ]
+B2B_Suckouts checks
+Satyic bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+Satyic did not show his hand
+Satyic collected [ 0,11 $ ]
+
+
+
+#Game No : 551295814
+***** 888poker Hand History for Game 551295814 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:45:37
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,90 $ )
+Seat 3: floydsummers ( 1,25 $ )
+Seat 4: B2B_Suckouts ( 2,01 $ )
+Seat 5: Satyic ( 2,08 $ )
+Seat 7: ZippyGambino ( 1,87 $ )
+Seat 9: tatozeta2000 ( 1,53 $ )
+Seat 10: Lin24 ( 5,18 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Satyic posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, JKreuz ]
+ZippyGambino folds
+tatozeta2000 raises [0,06 $]
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts raises [0,17 $]
+Satyic folds
+tatozeta2000 calls [0,12 $]
+** Dealing flop ** [ KKaro, 10Kreuz, 9Kreuz ]
+B2B_Suckouts bets [0,12 $]
+tatozeta2000 calls [0,12 $]
+** Dealing turn ** [ 8Herz ]
+B2B_Suckouts bets [1,71 $]
+tatozeta2000 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,59 $ ]
+
+
+
+#Game No : 551295918
+***** 888poker Hand History for Game 551295918 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:46:42
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,90 $ )
+Seat 3: floydsummers ( 1,25 $ )
+Seat 4: B2B_Suckouts ( 2,30 $ )
+Seat 5: Satyic ( 2,06 $ )
+Seat 7: ZippyGambino ( 1,87 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 5,18 $ )
+Satyic posts small blind [0,01 $]
+ZippyGambino posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 10Pik ]
+tatozeta2000 folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts raises [0,06 $]
+Satyic raises [0,14 $]
+ZippyGambino calls [0,13 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 8Pik, 10Kreuz, JKaro ]
+Satyic bets [0,18 $]
+ZippyGambino calls [0,18 $]
+** Dealing turn ** [ 9Herz ]
+Satyic bets [0,36 $]
+ZippyGambino folds
+** Summary **
+Satyic did not show his hand
+Satyic collected [ 0,68 $ ]
+
+
+
+#Game No : 551296002
+***** 888poker Hand History for Game 551296002 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:47:38
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,12 $ )
+Seat 2: Terminator4 ( 1,90 $ )
+Seat 3: floydsummers ( 1,25 $ )
+Seat 4: B2B_Suckouts ( 2,24 $ )
+Seat 5: Satyic ( 2,41 $ )
+Seat 7: ZippyGambino ( 1,54 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 5,18 $ )
+ZippyGambino posts small blind [0,01 $]
+tatozeta2000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 4Herz ]
+Lin24 folds
+ice245777 raises [0,08 $]
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino folds
+tatozeta2000 folds
+** Summary **
+ice245777 did not show his hand
+ice245777 collected [ 0,05 $ ]
+
+
+
+#Game No : 551296047
+***** 888poker Hand History for Game 551296047 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:48:11
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,15 $ )
+Seat 2: Terminator4 ( 1,90 $ )
+Seat 3: floydsummers ( 1,25 $ )
+Seat 4: B2B_Suckouts ( 2,24 $ )
+Seat 5: Satyic ( 2,41 $ )
+Seat 7: ZippyGambino ( 1,53 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 5,18 $ )
+tatozeta2000 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 6Pik ]
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino folds
+tatozeta2000 raises [0,05 $]
+Lin24 folds
+** Summary **
+tatozeta2000 did not show his hand
+tatozeta2000 collected [ 0,04 $ ]
+
+
+
+#Game No : 551296092
+***** 888poker Hand History for Game 551296092 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:48:37
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,15 $ )
+Seat 2: Terminator4 ( 1,90 $ )
+Seat 3: floydsummers ( 1,25 $ )
+Seat 4: B2B_Suckouts ( 2,24 $ )
+Seat 5: Satyic ( 2,41 $ )
+Seat 7: ZippyGambino ( 1,53 $ )
+Seat 9: tatozeta2000 ( 1,42 $ )
+Seat 10: Lin24 ( 5,16 $ )
+Lin24 posts small blind [0,01 $]
+ice245777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 7Pik ]
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino folds
+tatozeta2000 raises [0,05 $]
+Lin24 calls [0,04 $]
+ice245777 folds
+** Dealing flop ** [ APik, QKaro, 6Herz ]
+Lin24 checks
+tatozeta2000 checks
+** Dealing turn ** [ KKreuz ]
+Lin24 checks
+tatozeta2000 checks
+** Dealing river ** [ AKaro ]
+Lin24 checks
+tatozeta2000 checks
+** Summary **
+Lin24 shows [ 3Karo, 3Kreuz ]
+tatozeta2000 mucks [ 10Pik, 8Pik ]
+Lin24 collected [ 0,12 $ ]
+
+
+
+#Game No : 551296178
+***** 888poker Hand History for Game 551296178 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:49:44
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,13 $ )
+Seat 2: Terminator4 ( 1,90 $ )
+Seat 3: floydsummers ( 1,25 $ )
+Seat 4: B2B_Suckouts ( 2,24 $ )
+Seat 5: Satyic ( 2,41 $ )
+Seat 7: ZippyGambino ( 1,53 $ )
+Seat 9: tatozeta2000 ( 1,37 $ )
+Seat 10: Lin24 ( 5,23 $ )
+ice245777 posts small blind [0,01 $]
+Terminator4 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 9Pik ]
+floydsummers folds
+B2B_Suckouts folds
+Satyic folds
+ZippyGambino folds
+tatozeta2000 folds
+Lin24 folds
+ice245777 raises [0,05 $]
+Terminator4 folds
+** Summary **
+ice245777 did not show his hand
+ice245777 collected [ 0,04 $ ]
+
+
+
+#Game No : 551296239
+***** 888poker Hand History for Game 551296239 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:50:27
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,15 $ )
+Seat 2: Terminator4 ( 1,88 $ )
+Seat 3: floydsummers ( 1,25 $ )
+Seat 4: B2B_Suckouts ( 2,24 $ )
+Seat 5: Satyic ( 2,41 $ )
+Seat 7: ZippyGambino ( 1,53 $ )
+Seat 9: tatozeta2000 ( 1,40 $ )
+Seat 10: Lin24 ( 5,23 $ )
+Terminator4 posts small blind [0,01 $]
+floydsummers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 5Pik ]
+B2B_Suckouts folds
+Satyic raises [0,06 $]
+ZippyGambino calls [0,06 $]
+tatozeta2000 folds
+Lin24 raises [0,24 $]
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+Satyic calls [0,18 $]
+ZippyGambino folds
+** Dealing flop ** [ 4Herz, 3Herz, 2Pik ]
+Satyic checks
+Lin24 bets [0,28 $]
+Satyic folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,54 $ ]
+
+
+
+#Game No : 551296322
+***** 888poker Hand History for Game 551296322 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:51:27
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: ice245777 ( 1,15 $ )
+Seat 2: Terminator4 ( 1,87 $ )
+Seat 3: floydsummers ( 1,23 $ )
+Seat 4: B2B_Suckouts ( 2,24 $ )
+Seat 5: Satyic ( 2,17 $ )
+Seat 7: ZippyGambino ( 1,47 $ )
+Seat 10: Lin24 ( 5,53 $ )
+floydsummers posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, KHerz ]
+Satyic folds
+ZippyGambino folds
+Lin24 folds
+ice245777 folds
+Terminator4 folds
+floydsummers calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 3Karo, AHerz, APik ]
+floydsummers checks
+B2B_Suckouts checks
+** Dealing turn ** [ 9Herz ]
+floydsummers checks
+B2B_Suckouts checks
+** Dealing river ** [ JHerz ]
+floydsummers bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Summary **
+floydsummers shows [ JKaro, 6Karo ]
+B2B_Suckouts mucks [ 6Kreuz, KHerz ]
+floydsummers collected [ 0,08 $ ]
+
+
+
+#Game No : 551296384
+***** 888poker Hand History for Game 551296384 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:52:13
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: ice245777 ( 1,15 $ )
+Seat 2: Terminator4 ( 1,87 $ )
+Seat 3: floydsummers ( 1,27 $ )
+Seat 4: B2B_Suckouts ( 2,20 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,47 $ )
+B2B_Suckouts posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 2Pik ]
+ZippyGambino folds
+ice245777 raises [0,06 $]
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+irk2012 folds
+** Summary **
+ice245777 collected [ 0,05 $ ]
+
+
+
+#Game No : 551296421
+***** 888poker Hand History for Game 551296421 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:52:35
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: ice245777 ( 1,18 $ )
+Seat 2: Terminator4 ( 1,87 $ )
+Seat 3: floydsummers ( 1,27 $ )
+Seat 4: B2B_Suckouts ( 2,19 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,47 $ )
+irk2012 posts small blind [0,01 $]
+ZippyGambino posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, JKreuz ]
+ice245777 folds
+Terminator4 folds
+floydsummers calls [0,02 $]
+B2B_Suckouts folds
+irk2012 folds
+ZippyGambino checks
+** Dealing flop ** [ 8Pik, 10Pik, 7Pik ]
+ZippyGambino checks
+floydsummers checks
+** Dealing turn ** [ 2Kreuz ]
+ZippyGambino bets [0,03 $]
+floydsummers calls [0,03 $]
+** Dealing river ** [ 10Kreuz ]
+ZippyGambino checks
+floydsummers checks
+** Summary **
+ZippyGambino shows [ 2Karo, QPik ]
+floydsummers mucks [ KKreuz, JPik ]
+ZippyGambino collected [ 0,11 $ ]
+
+
+
+#Game No : 551296510
+***** 888poker Hand History for Game 551296510 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:53:47
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: ice245777 ( 1,18 $ )
+Seat 2: Terminator4 ( 1,87 $ )
+Seat 3: floydsummers ( 1,22 $ )
+Seat 4: B2B_Suckouts ( 2,19 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,53 $ )
+Seat 9: mikeOmike ( 2 $ )
+ZippyGambino posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 8Herz ]
+ice245777 folds
+Terminator4 folds
+floydsummers raises [0,06 $]
+B2B_Suckouts folds
+irk2012 folds
+ZippyGambino folds
+mikeOmike raises [0,22 $]
+floydsummers calls [0,18 $]
+** Dealing flop ** [ 6Kreuz, 8Karo, 6Pik ]
+mikeOmike checks
+floydsummers bets [0,16 $]
+mikeOmike calls [0,16 $]
+** Dealing turn ** [ AHerz ]
+mikeOmike checks
+floydsummers bets [0,06 $]
+mikeOmike raises [0,28 $]
+floydsummers folds
+** Summary **
+mikeOmike collected [ 0,88 $ ]
+
+
+
+#Game No : 551296571
+***** 888poker Hand History for Game 551296571 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:54:39
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,18 $ )
+Seat 2: Terminator4 ( 1,87 $ )
+Seat 3: floydsummers ( 0,76 $ )
+Seat 4: B2B_Suckouts ( 2,19 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,52 $ )
+Seat 9: mikeOmike ( 2,42 $ )
+Seat 10: RiotRedguard ( 2 $ )
+mikeOmike posts small blind [0,01 $]
+RiotRedguard posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 2Pik ]
+ice245777 folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+irk2012 folds
+ZippyGambino folds
+mikeOmike folds
+** Summary **
+RiotRedguard collected [ 0,03 $ ]
+
+
+
+#Game No : 551296596
+***** 888poker Hand History for Game 551296596 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:54:59
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,18 $ )
+Seat 2: Terminator4 ( 1,87 $ )
+Seat 3: floydsummers ( 0,76 $ )
+Seat 4: B2B_Suckouts ( 2,19 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,52 $ )
+Seat 9: mikeOmike ( 2,41 $ )
+Seat 10: RiotRedguard ( 2,01 $ )
+RiotRedguard posts small blind [0,01 $]
+ice245777 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 6Pik ]
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+irk2012 folds
+ZippyGambino folds
+mikeOmike folds
+RiotRedguard raises [0,05 $]
+ice245777 folds
+** Summary **
+RiotRedguard collected [ 0,04 $ ]
+
+
+
+#Game No : 551296619
+***** 888poker Hand History for Game 551296619 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:55:18
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,16 $ )
+Seat 2: Terminator4 ( 1,87 $ )
+Seat 3: floydsummers ( 0,76 $ )
+Seat 4: B2B_Suckouts ( 2,19 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,52 $ )
+Seat 9: mikeOmike ( 2,41 $ )
+Seat 10: RiotRedguard ( 2,03 $ )
+ice245777 posts small blind [0,01 $]
+Terminator4 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 5Herz ]
+floydsummers folds
+B2B_Suckouts folds
+irk2012 folds
+ZippyGambino folds
+mikeOmike raises [0,06 $]
+RiotRedguard folds
+ice245777 folds
+Terminator4 folds
+** Summary **
+mikeOmike collected [ 0,05 $ ]
+
+
+
+#Game No : 551296661
+***** 888poker Hand History for Game 551296661 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:55:56
+Table Erechim 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: ice245777 ( 1,15 $ )
+Seat 2: Terminator4 ( 1,85 $ )
+Seat 3: floydsummers ( 0,76 $ )
+Seat 4: B2B_Suckouts ( 2,19 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,52 $ )
+Seat 9: mikeOmike ( 2,44 $ )
+Seat 10: RiotRedguard ( 2,03 $ )
+Terminator4 posts small blind [0,01 $]
+floydsummers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 3Kreuz ]
+B2B_Suckouts folds
+irk2012 folds
+ZippyGambino folds
+mikeOmike folds
+RiotRedguard folds
+ice245777 folds
+Terminator4 calls [0,01 $]
+floydsummers checks
+** Dealing flop ** [ 8Pik, JPik, APik ]
+Terminator4 checks
+floydsummers checks
+** Dealing turn ** [ KKreuz ]
+Terminator4 checks
+floydsummers checks
+** Dealing river ** [ 6Pik ]
+Terminator4 bets [0,02 $]
+floydsummers folds
+** Summary **
+Terminator4 collected [ 0,04 $ ]
+
+
+
+#Game No : 551296727
+***** 888poker Hand History for Game 551296727 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:56:49
+Table Erechim 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: Terminator4 ( 1,87 $ )
+Seat 3: floydsummers ( 0,74 $ )
+Seat 4: B2B_Suckouts ( 2,19 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,52 $ )
+Seat 9: mikeOmike ( 2,44 $ )
+Seat 10: RiotRedguard ( 2,03 $ )
+floydsummers posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 5Pik ]
+irk2012 folds
+ZippyGambino folds
+mikeOmike folds
+RiotRedguard raises [0,06 $]
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+** Summary **
+RiotRedguard collected [ 0,05 $ ]
+
+
+
+#Game No : 551296759
+***** 888poker Hand History for Game 551296759 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:57:09
+Table Erechim 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: Terminator4 ( 1,87 $ )
+Seat 3: floydsummers ( 0,73 $ )
+Seat 4: B2B_Suckouts ( 2,17 $ )
+Seat 5: lucifergaia ( 2 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,52 $ )
+Seat 9: mikeOmike ( 2,44 $ )
+Seat 10: RiotRedguard ( 2,06 $ )
+B2B_Suckouts posts small blind [0,01 $]
+lucifergaia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 9Kreuz ]
+irk2012 raises [0,06 $]
+ZippyGambino folds
+mikeOmike folds
+RiotRedguard folds
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+lucifergaia folds
+** Summary **
+irk2012 collected [ 0,05 $ ]
+
+
+
+#Game No : 551296805
+***** 888poker Hand History for Game 551296805 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:57:44
+Table Erechim 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: Terminator4 ( 1,87 $ )
+Seat 3: floydsummers ( 0,73 $ )
+Seat 4: B2B_Suckouts ( 2,16 $ )
+Seat 5: lucifergaia ( 2 $ )
+Seat 6: irk2012 ( 2,03 $ )
+Seat 9: mikeOmike ( 2,44 $ )
+Seat 10: RiotRedguard ( 2,06 $ )
+lucifergaia posts small blind [0,01 $]
+irk2012 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 9Karo ]
+mikeOmike folds
+RiotRedguard folds
+Terminator4 raises [0,06 $]
+floydsummers folds
+B2B_Suckouts calls [0,06 $]
+lucifergaia folds
+irk2012 calls [0,04 $]
+** Dealing flop ** [ KKreuz, 10Herz, 2Karo ]
+irk2012 checks
+Terminator4 bets [0,09 $]
+B2B_Suckouts folds
+irk2012 folds
+** Summary **
+Terminator4 collected [ 0,18 $ ]
+
+
+
+#Game No : 551296855
+***** 888poker Hand History for Game 551296855 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:58:22
+Table Erechim 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: Terminator4 ( 1,99 $ )
+Seat 3: floydsummers ( 0,73 $ )
+Seat 4: B2B_Suckouts ( 2,10 $ )
+Seat 5: lucifergaia ( 2 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,52 $ )
+Seat 9: mikeOmike ( 2,44 $ )
+Seat 10: RiotRedguard ( 2,06 $ )
+irk2012 posts small blind [0,01 $]
+ZippyGambino posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, AHerz ]
+mikeOmike folds
+RiotRedguard folds
+Terminator4 raises [0,06 $]
+floydsummers folds
+B2B_Suckouts calls [0,06 $]
+lucifergaia raises [0,27 $]
+irk2012 folds
+ZippyGambino folds
+Terminator4 folds
+B2B_Suckouts folds
+** Summary **
+lucifergaia collected [ 0,21 $ ]
+
+
+
+#Game No : 551296892
+***** 888poker Hand History for Game 551296892 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:58:54
+Table Erechim 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: Terminator4 ( 1,93 $ )
+Seat 3: floydsummers ( 0,73 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: lucifergaia ( 2,15 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,50 $ )
+Seat 9: mikeOmike ( 2,44 $ )
+Seat 10: RiotRedguard ( 2,06 $ )
+ZippyGambino posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 8Kreuz ]
+RiotRedguard raises [0,06 $]
+Terminator4 folds
+floydsummers calls [0,06 $]
+B2B_Suckouts folds
+lucifergaia folds
+irk2012 folds
+ZippyGambino folds
+mikeOmike folds
+** Dealing flop ** [ 3Karo, APik, 6Herz ]
+RiotRedguard checks
+floydsummers checks
+** Dealing turn ** [ 10Kreuz ]
+RiotRedguard bets [0,07 $]
+floydsummers folds
+** Summary **
+RiotRedguard collected [ 0,15 $ ]
+
+
+
+#Game No : 551296939
+***** 888poker Hand History for Game 551296939 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 06 02 2020 23:59:38
+Table Erechim 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: Terminator4 ( 1,93 $ )
+Seat 3: floydsummers ( 0,67 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: lucifergaia ( 2,15 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,49 $ )
+Seat 9: mikeOmike ( 2,42 $ )
+Seat 10: RiotRedguard ( 2,15 $ )
+mikeOmike posts small blind [0,01 $]
+RiotRedguard posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, QKreuz ]
+Terminator4 raises [0,04 $]
+floydsummers folds
+B2B_Suckouts calls [0,04 $]
+lucifergaia folds
+irk2012 folds
+ZippyGambino folds
+mikeOmike folds
+RiotRedguard folds
+** Dealing flop ** [ KKaro, 6Karo, 5Herz ]
+Terminator4 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ 9Herz ]
+Terminator4 checks
+B2B_Suckouts checks
+** Dealing river ** [ QKaro ]
+Terminator4 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Summary **
+Terminator4 shows [ 10Karo, JKaro ]
+B2B_Suckouts mucks [ JKreuz, QKreuz ]
+Terminator4 collected [ 0,18 $ ]
+
+
+
+#Game No : 551297002
+***** 888poker Hand History for Game 551297002 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 00:00:25
+Table Erechim 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: kimbo287 ( 2 $ )
+Seat 2: Terminator4 ( 2,03 $ )
+Seat 3: floydsummers ( 0,67 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: lucifergaia ( 2,15 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,49 $ )
+Seat 9: mikeOmike ( 2,41 $ )
+Seat 10: RiotRedguard ( 2,13 $ )
+RiotRedguard posts small blind [0,01 $]
+kimbo287 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 9Herz ]
+Terminator4 folds
+floydsummers folds
+B2B_Suckouts folds
+lucifergaia folds
+irk2012 folds
+ZippyGambino raises [0,06 $]
+mikeOmike folds
+RiotRedguard folds
+kimbo287 folds
+** Summary **
+ZippyGambino did not show his hand
+ZippyGambino collected [ 0,05 $ ]
+
+
+
+#Game No : 551297038
+***** 888poker Hand History for Game 551297038 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 00:00:49
+Table Erechim 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: kimbo287 ( 1,98 $ )
+Seat 2: Terminator4 ( 2,03 $ )
+Seat 3: floydsummers ( 0,67 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: lucifergaia ( 2,15 $ )
+Seat 6: irk2012 ( 2 $ )
+Seat 7: ZippyGambino ( 1,52 $ )
+Seat 9: mikeOmike ( 2,41 $ )
+Seat 10: RiotRedguard ( 2,12 $ )
+kimbo287 posts small blind [0,01 $]
+Terminator4 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 5Herz ]
+floydsummers calls [0,02 $]
+B2B_Suckouts folds
+lucifergaia folds
+irk2012 folds
+ZippyGambino folds
+mikeOmike folds
+RiotRedguard folds
+kimbo287 calls [0,01 $]
+Terminator4 checks
+** Dealing flop ** [ 3Pik, 4Herz, 7Pik ]
+kimbo287 checks
+Terminator4 bets [0,06 $]
+floydsummers folds
+kimbo287 folds
+** Summary **
+Terminator4 did not show his hand
+Terminator4 collected [ 0,06 $ ]
+
+
+
