@@ -1,0 +1,3780 @@
+#Game No : 474476977
+***** 888poker Hand History for Game 474476977 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:32:11
+Table Vila Velha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Voldemort14 ( 2,97 $ )
+Seat 2: w3sby ( 1,42 $ )
+Seat 3: K.Rossmann ( 3,77 $ )
+Seat 4: Sprut_2013 ( 2 $ )
+Seat 5: RaisaMih ( 0,20 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,11 $ )
+Seat 9: Tidu84 ( 1,98 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Tidu84 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+Sprut_2013 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 2Herz ]
+Voldemort14 folds
+w3sby calls [0,02 $]
+K.Rossmann calls [0,02 $]
+Sprut_2013 checks
+RaisaMih folds
+sundwig folds
+avramia1 folds
+Tidu84 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 9Karo, 10Pik, 4Kreuz ]
+B2B_Suckouts checks
+w3sby bets [0,02 $]
+K.Rossmann calls [0,02 $]
+Sprut_2013 folds
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ 4Karo ]
+B2B_Suckouts checks
+w3sby bets [0,02 $]
+K.Rossmann raises [0,11 $]
+B2B_Suckouts calls [0,11 $]
+w3sby calls [0,09 $]
+** Dealing river ** [ JPik ]
+B2B_Suckouts checks
+w3sby checks
+K.Rossmann bets [0,48 $]
+B2B_Suckouts calls [0,48 $]
+w3sby folds
+** Summary **
+K.Rossmann shows [ JHerz, JKaro ]
+B2B_Suckouts mucks [ 4Herz, 2Herz ]
+K.Rossmann collected [ 1,35 $ ]
+
+
+
+#Game No : 474477003
+***** 888poker Hand History for Game 474477003 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:34:53
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Voldemort14 ( 2,97 $ )
+Seat 2: w3sby ( 1,27 $ )
+Seat 3: K.Rossmann ( 4,49 $ )
+Seat 4: Sprut_2013 ( 2 $ )
+Seat 5: RaisaMih ( 0,20 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,11 $ )
+Seat 9: Tidu84 ( 1,97 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Voldemort14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, KHerz ]
+w3sby calls [0,02 $]
+K.Rossmann folds
+Sprut_2013 folds
+RaisaMih calls [0,02 $]
+sundwig calls [0,02 $]
+avramia1 folds
+Tidu84 folds
+B2B_Suckouts folds
+Voldemort14 checks
+** Dealing flop ** [ 2Pik, 3Pik, QKaro ]
+Voldemort14 checks
+w3sby bets [0,02 $]
+RaisaMih raises [0,18 $]
+sundwig folds
+Voldemort14 folds
+w3sby folds
+** Summary **
+RaisaMih did not show his hand
+RaisaMih collected [ 0,13 $ ]
+
+
+
+#Game No : 474477023
+***** 888poker Hand History for Game 474477023 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:36:36
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Voldemort14 ( 2,95 $ )
+Seat 2: w3sby ( 1,23 $ )
+Seat 3: K.Rossmann ( 4,49 $ )
+Seat 4: Sprut_2013 ( 2 $ )
+Seat 5: RaisaMih ( 0,29 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,11 $ )
+Seat 9: Tidu84 ( 1,97 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Voldemort14 posts small blind [0,01 $]
+w3sby folds
+K.Rossmann posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 6Herz ]
+Sprut_2013 folds
+RaisaMih folds
+sundwig calls [0,02 $]
+avramia1 folds
+Tidu84 folds
+B2B_Suckouts folds
+Voldemort14 calls [0,01 $]
+K.Rossmann checks
+** Dealing flop ** [ JHerz, 5Herz, 2Kreuz ]
+Voldemort14 checks
+K.Rossmann checks
+sundwig checks
+** Dealing turn ** [ AHerz ]
+Voldemort14 checks
+K.Rossmann checks
+sundwig checks
+** Dealing river ** [ JKreuz ]
+Voldemort14 bets [0,02 $]
+K.Rossmann folds
+sundwig folds
+** Summary **
+Voldemort14 collected [ 0,06 $ ]
+
+
+
+#Game No : 474477034
+***** 888poker Hand History for Game 474477034 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:37:56
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 2,99 $ )
+Seat 3: K.Rossmann ( 4,47 $ )
+Seat 4: Sprut_2013 ( 2 $ )
+Seat 5: RaisaMih ( 0,29 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,11 $ )
+Seat 9: Tidu84 ( 1,97 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+K.Rossmann posts small blind [0,01 $]
+Sprut_2013 folds
+RaisaMih posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 10Pik ]
+sundwig raises [0,06 $]
+avramia1 folds
+Tidu84 folds
+B2B_Suckouts folds
+Voldemort14 folds
+K.Rossmann folds
+RaisaMih raises [0,27 $]
+sundwig folds
+** Summary **
+RaisaMih collected [ 0,13 $ ]
+
+
+
+#Game No : 474477047
+***** 888poker Hand History for Game 474477047 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:38:59
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 2,99 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 3: K.Rossmann ( 4,46 $ )
+Seat 5: RaisaMih ( 0,36 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,11 $ )
+Seat 9: Tidu84 ( 1,97 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+RaisaMih posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, KKreuz ]
+avramia1 folds
+Tidu84 raises [0,10 $]
+B2B_Suckouts folds
+Voldemort14 calls [0,10 $]
+tekiller243 folds
+K.Rossmann folds
+RaisaMih folds
+sundwig folds
+** Dealing flop ** [ 5Kreuz, 9Karo, JPik ]
+Tidu84 bets [0,18 $]
+Voldemort14 folds
+** Summary **
+Tidu84 collected [ 0,24 $ ]
+
+
+
+#Game No : 474477055
+***** 888poker Hand History for Game 474477055 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:39:48
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: Voldemort14 ( 2,89 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 5: RaisaMih ( 0,35 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,11 $ )
+Seat 9: Tidu84 ( 2,11 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+sundwig posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 4Pik ]
+Tidu84 folds
+B2B_Suckouts folds
+Voldemort14 raises [0,04 $]
+tekiller243 raises [0,12 $]
+RaisaMih folds
+sundwig folds
+avramia1 folds
+Voldemort14 calls [0,08 $]
+** Dealing flop ** [ 6Kreuz, 3Pik, 8Herz ]
+Voldemort14 bets [0,13 $]
+tekiller243 folds
+** Summary **
+Voldemort14 collected [ 0,26 $ ]
+
+
+
+#Game No : 474477067
+***** 888poker Hand History for Game 474477067 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:40:29
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: Voldemort14 ( 3,03 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 5: RaisaMih ( 0,35 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,09 $ )
+Seat 9: Tidu84 ( 2,11 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+avramia1 posts small blind [0,01 $]
+Tidu84 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 3Pik ]
+B2B_Suckouts folds
+Voldemort14 folds
+tekiller243 folds
+RaisaMih calls [0,02 $]
+sundwig calls [0,02 $]
+avramia1 folds
+Tidu84 checks
+** Dealing flop ** [ 7Pik, 3Karo, AKreuz ]
+Tidu84 checks
+RaisaMih bets [0,10 $]
+sundwig folds
+Tidu84 folds
+** Summary **
+RaisaMih collected [ 0,07 $ ]
+
+
+
+#Game No : 474477078
+***** 888poker Hand History for Game 474477078 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:41:17
+Table Vila Velha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: Voldemort14 ( 3,03 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 5: RaisaMih ( 0,40 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,08 $ )
+Seat 9: Tidu84 ( 2,09 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Tidu84 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, AKreuz ]
+Voldemort14 folds
+tekiller243 raises [0,06 $]
+RaisaMih folds
+sundwig folds
+avramia1 folds
+Tidu84 folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ JKaro, 4Kreuz, 6Herz ]
+B2B_Suckouts checks
+tekiller243 checks
+** Dealing turn ** [ QKaro ]
+B2B_Suckouts bets [0,04 $]
+tekiller243 folds
+** Summary **
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 474477092
+***** 888poker Hand History for Game 474477092 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:42:12
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: Voldemort14 ( 3,03 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 5: RaisaMih ( 0,40 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,08 $ )
+Seat 9: Tidu84 ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,07 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Voldemort14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 2Kreuz ]
+tekiller243 folds
+RaisaMih calls [0,02 $]
+sundwig calls [0,02 $]
+avramia1 folds
+Tidu84 raises [0,09 $]
+B2B_Suckouts folds
+Voldemort14 folds
+RaisaMih folds
+sundwig folds
+** Summary **
+Tidu84 collected [ 0,09 $ ]
+
+
+
+#Game No : 474477098
+***** 888poker Hand History for Game 474477098 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:42:47
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: Voldemort14 ( 3,01 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 5: RaisaMih ( 0,38 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,08 $ )
+Seat 9: Tidu84 ( 2,15 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+Voldemort14 posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 2Kreuz ]
+RaisaMih calls [0,02 $]
+sundwig folds
+avramia1 calls [0,02 $]
+Tidu84 raises [0,09 $]
+B2B_Suckouts folds
+Voldemort14 folds
+tekiller243 folds
+RaisaMih calls [0,07 $]
+avramia1 raises [0,37 $]
+Tidu84 folds
+RaisaMih calls [0,29 $]
+** Dealing flop ** [ 10Karo, 2Pik, 4Karo ]
+** Dealing turn ** [ 6Herz ]
+** Dealing river ** [ 2Karo ]
+** Summary **
+RaisaMih shows [ QHerz, 10Pik ]
+avramia1 shows [ AHerz, AKaro ]
+avramia1 collected [ 0,83 $ ]
+
+
+
+#Game No : 474477119
+***** 888poker Hand History for Game 474477119 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:44:04
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Voldemort14 ( 3 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 3: Sirop_DNR ( 2 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,53 $ )
+Seat 9: Tidu84 ( 2,06 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+tekiller243 posts small blind [0,01 $]
+Sirop_DNR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 4Kreuz ]
+sundwig folds
+avramia1 folds
+Tidu84 raises [0,06 $]
+B2B_Suckouts folds
+Voldemort14 folds
+tekiller243 folds
+Sirop_DNR folds
+** Summary **
+Tidu84 collected [ 0,05 $ ]
+
+
+
+#Game No : 474477127
+***** 888poker Hand History for Game 474477127 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:44:22
+Table Vila Velha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 3 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 3: Sirop_DNR ( 2 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,53 $ )
+Seat 9: Tidu84 ( 2,09 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+Sirop_DNR posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 5Herz ]
+sundwig folds
+avramia1 folds
+Tidu84 folds
+B2B_Suckouts folds
+Voldemort14 folds
+tekiller243 folds
+Sirop_DNR folds
+** Summary **
+AooGoonners did not show his hand
+AooGoonners collected [ 0,03 $ ]
+
+
+
+#Game No : 474477137
+***** 888poker Hand History for Game 474477137 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:44:52
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 3 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 3: Sirop_DNR ( 2 $ )
+Seat 4: AooGoonners ( 0,81 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,53 $ )
+Seat 9: Tidu84 ( 2,09 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+AooGoonners posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 5Pik ]
+avramia1 folds
+Tidu84 folds
+B2B_Suckouts folds
+Voldemort14 calls [0,02 $]
+tekiller243 folds
+Sirop_DNR folds
+AooGoonners folds
+sundwig checks
+** Dealing flop ** [ 5Karo, 8Pik, 4Pik ]
+sundwig checks
+Voldemort14 checks
+** Dealing turn ** [ 10Pik ]
+sundwig checks
+Voldemort14 bets [0,02 $]
+sundwig folds
+** Summary **
+Voldemort14 did not show his hand
+Voldemort14 collected [ 0,05 $ ]
+
+
+
+#Game No : 474477151
+***** 888poker Hand History for Game 474477151 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:45:34
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 3,03 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 3: Sirop_DNR ( 2 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,53 $ )
+Seat 9: Tidu84 ( 2,09 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+sundwig posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 4Herz ]
+Tidu84 calls [0,02 $]
+B2B_Suckouts folds
+Voldemort14 raises [0,04 $]
+tekiller243 folds
+Sirop_DNR folds
+AooGoonners folds
+sundwig folds
+avramia1 calls [0,02 $]
+Tidu84 calls [0,02 $]
+** Dealing flop ** [ JPik, AHerz, 2Pik ]
+avramia1 checks
+Tidu84 checks
+Voldemort14 bets [0,08 $]
+avramia1 folds
+Tidu84 calls [0,08 $]
+** Dealing turn ** [ 5Herz ]
+Tidu84 checks
+Voldemort14 bets [0,29 $]
+Tidu84 calls [0,29 $]
+** Dealing river ** [ 7Kreuz ]
+Tidu84 checks
+Voldemort14 bets [0,87 $]
+Tidu84 calls [0,87 $]
+** Summary **
+Voldemort14 shows [ AKreuz, 5Pik ]
+Tidu84 mucks [ 6Karo, AKaro ]
+Voldemort14 collected [ 2,45 $ ]
+
+
+
+#Game No : 474477186
+***** 888poker Hand History for Game 474477186 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:47:49
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 4,20 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 3: Sirop_DNR ( 2 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,49 $ )
+Seat 9: Tidu84 ( 0,81 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+avramia1 posts small blind [0,01 $]
+Tidu84 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 9Kreuz ]
+B2B_Suckouts folds
+Voldemort14 raises [0,04 $]
+tekiller243 folds
+Sirop_DNR folds
+AooGoonners folds
+sundwig folds
+avramia1 folds
+Tidu84 raises [0,18 $]
+Voldemort14 calls [0,16 $]
+** Dealing flop ** [ 10Karo, 9Herz, 4Herz ]
+Tidu84 bets [0,30 $]
+Voldemort14 folds
+** Summary **
+Tidu84 did not show his hand
+Tidu84 collected [ 0,39 $ ]
+
+
+
+#Game No : 474477211
+***** 888poker Hand History for Game 474477211 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:49:01
+Table Vila Velha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 4 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 3: Sirop_DNR ( 2 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,48 $ )
+Seat 9: Tidu84 ( 1 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+Tidu84 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, JKreuz ]
+Voldemort14 calls [0,02 $]
+tekiller243 folds
+Sirop_DNR raises [0,09 $]
+AooGoonners folds
+sundwig folds
+avramia1 folds
+Tidu84 folds
+B2B_Suckouts folds
+Voldemort14 calls [0,07 $]
+** Dealing flop ** [ KHerz, 7Karo, 3Kreuz ]
+Voldemort14 checks
+Sirop_DNR bets [0,14 $]
+Voldemort14 folds
+** Summary **
+Sirop_DNR did not show his hand
+Sirop_DNR collected [ 0,20 $ ]
+
+
+
+#Game No : 474477220
+***** 888poker Hand History for Game 474477220 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:49:41
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 3,91 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 3: Sirop_DNR ( 2,11 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,48 $ )
+Seat 9: Tidu84 ( 0,99 $ )
+Seat 10: B2B_Suckouts ( 2,04 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Voldemort14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, KKreuz ]
+tekiller243 folds
+Sirop_DNR folds
+AooGoonners folds
+sundwig folds
+avramia1 calls [0,02 $]
+Tidu84 calls [0,02 $]
+B2B_Suckouts calls [0,01 $]
+Voldemort14 checks
+** Dealing flop ** [ QHerz, AHerz, 9Kreuz ]
+B2B_Suckouts checks
+Voldemort14 checks
+avramia1 bets [0,08 $]
+Tidu84 raises [0,24 $]
+B2B_Suckouts folds
+Voldemort14 folds
+avramia1 calls [0,16 $]
+** Dealing turn ** [ 10Karo ]
+avramia1 checks
+Tidu84 bets [0,42 $]
+avramia1 calls [0,42 $]
+** Dealing river ** [ 10Kreuz ]
+avramia1 checks
+Tidu84 bets [0,31 $]
+avramia1 folds
+** Summary **
+Tidu84 did not show his hand
+Tidu84 collected [ 1,32 $ ]
+
+
+
+#Game No : 474477240
+***** 888poker Hand History for Game 474477240 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:50:49
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 3,89 $ )
+Seat 2: tekiller243 ( 2 $ )
+Seat 3: Sirop_DNR ( 2,11 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 1,80 $ )
+Seat 9: Tidu84 ( 1,63 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+Voldemort14 posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 10Herz ]
+Sirop_DNR folds
+AooGoonners folds
+sundwig folds
+avramia1 raises [0,04 $]
+Tidu84 calls [0,04 $]
+B2B_Suckouts folds
+Voldemort14 calls [0,03 $]
+tekiller243 calls [0,02 $]
+** Dealing flop ** [ 7Herz, KHerz, QKreuz ]
+Voldemort14 checks
+tekiller243 checks
+avramia1 checks
+Tidu84 checks
+** Dealing turn ** [ QKaro ]
+Voldemort14 checks
+tekiller243 bets [0,10 $]
+avramia1 folds
+Tidu84 folds
+Voldemort14 folds
+** Summary **
+tekiller243 collected [ 0,15 $ ]
+
+
+
+#Game No : 474477255
+***** 888poker Hand History for Game 474477255 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:51:45
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 3,85 $ )
+Seat 2: tekiller243 ( 2,11 $ )
+Seat 3: Sirop_DNR ( 2,11 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 1,76 $ )
+Seat 9: Tidu84 ( 1,59 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+tekiller243 posts small blind [0,01 $]
+Sirop_DNR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 7Kreuz ]
+AooGoonners folds
+sundwig folds
+avramia1 calls [0,02 $]
+Tidu84 calls [0,02 $]
+B2B_Suckouts folds
+Voldemort14 calls [0,02 $]
+tekiller243 folds
+Sirop_DNR checks
+** Dealing flop ** [ QKreuz, AKaro, 7Pik ]
+Sirop_DNR checks
+avramia1 checks
+Tidu84 checks
+Voldemort14 bets [0,02 $]
+Sirop_DNR folds
+avramia1 calls [0,02 $]
+Tidu84 calls [0,02 $]
+** Dealing turn ** [ 9Kreuz ]
+avramia1 checks
+Tidu84 checks
+Voldemort14 checks
+** Dealing river ** [ QKaro ]
+avramia1 checks
+Tidu84 bets [0,13 $]
+Voldemort14 folds
+avramia1 folds
+** Summary **
+Tidu84 collected [ 0,15 $ ]
+
+
+
+#Game No : 474477271
+***** 888poker Hand History for Game 474477271 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:52:56
+Table Vila Velha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Voldemort14 ( 3,81 $ )
+Seat 2: tekiller243 ( 2,10 $ )
+Seat 3: Sirop_DNR ( 2,09 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 1,72 $ )
+Seat 9: Tidu84 ( 1,70 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+Sirop_DNR posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 10Karo ]
+sundwig folds
+avramia1 raises [0,05 $]
+Tidu84 calls [0,05 $]
+B2B_Suckouts folds
+Voldemort14 folds
+tekiller243 folds
+Sirop_DNR raises [0,24 $]
+AooGoonners folds
+avramia1 calls [0,20 $]
+Tidu84 folds
+** Dealing flop ** [ JKaro, 8Kreuz, AKaro ]
+Sirop_DNR bets [0,28 $]
+avramia1 calls [0,28 $]
+** Dealing turn ** [ 4Pik ]
+Sirop_DNR bets [1,56 $]
+avramia1 calls [1,19 $]
+** Dealing river ** [ 6Kreuz ]
+** Summary **
+Sirop_DNR shows [ JHerz, APik ]
+avramia1 shows [ AKreuz, 9Kreuz ]
+Sirop_DNR collected [ 3,30 $ ]
+
+
+
+#Game No : 474477286
+***** 888poker Hand History for Game 474477286 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:53:43
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Voldemort14 ( 3,81 $ )
+Seat 2: tekiller243 ( 2,10 $ )
+Seat 3: Sirop_DNR ( 3,67 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,80 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2 $ )
+Seat 9: Tidu84 ( 1,65 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+AooGoonners posts small blind [0,01 $]
+asus59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, AHerz ]
+sundwig folds
+avramia1 folds
+Tidu84 folds
+B2B_Suckouts raises [0,06 $]
+Voldemort14 calls [0,06 $]
+tekiller243 folds
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+** Dealing flop ** [ AKaro, JHerz, 4Karo ]
+B2B_Suckouts bets [0,04 $]
+Voldemort14 calls [0,04 $]
+** Dealing turn ** [ 3Pik ]
+B2B_Suckouts bets [0,11 $]
+Voldemort14 calls [0,11 $]
+** Dealing river ** [ 6Pik ]
+B2B_Suckouts bets [0,22 $]
+Voldemort14 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,43 $ ]
+
+
+
+#Game No : 474477303
+***** 888poker Hand History for Game 474477303 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:55:03
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Voldemort14 ( 3,60 $ )
+Seat 2: tekiller243 ( 2,10 $ )
+Seat 3: Sirop_DNR ( 3,67 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,78 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2 $ )
+Seat 9: Tidu84 ( 1,65 $ )
+Seat 10: B2B_Suckouts ( 2,24 $ )
+asus59 posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 5Karo ]
+avramia1 calls [0,02 $]
+Tidu84 folds
+B2B_Suckouts folds
+Voldemort14 folds
+tekiller243 folds
+Sirop_DNR raises [0,08 $]
+AooGoonners folds
+asus59 folds
+sundwig folds
+avramia1 calls [0,06 $]
+** Dealing flop ** [ KKreuz, 8Pik, 7Pik ]
+avramia1 checks
+Sirop_DNR bets [0,06 $]
+avramia1 folds
+** Summary **
+Sirop_DNR did not show his hand
+Sirop_DNR collected [ 0,18 $ ]
+
+
+
+#Game No : 474477314
+***** 888poker Hand History for Game 474477314 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:55:36
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: tekiller243 ( 2,10 $ )
+Seat 3: Sirop_DNR ( 3,77 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,77 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 1,92 $ )
+Seat 9: Tidu84 ( 1,65 $ )
+Seat 10: B2B_Suckouts ( 2,24 $ )
+sundwig posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 9Karo ]
+Tidu84 folds
+B2B_Suckouts folds
+tekiller243 folds
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+sundwig folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ 0,03 $ ]
+
+
+
+#Game No : 474477317
+***** 888poker Hand History for Game 474477317 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:55:54
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: tekiller243 ( 2,10 $ )
+Seat 3: Sirop_DNR ( 3,77 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,77 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 1,93 $ )
+Seat 9: Tidu84 ( 1,65 $ )
+Seat 10: B2B_Suckouts ( 2,24 $ )
+avramia1 posts small blind [0,01 $]
+Tidu84 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 5Pik ]
+B2B_Suckouts folds
+tekiller243 folds
+Sirop_DNR raises [0,05 $]
+AooGoonners folds
+asus59 folds
+sundwig folds
+avramia1 calls [0,04 $]
+Tidu84 folds
+** Dealing flop ** [ 8Pik, QHerz, JHerz ]
+avramia1 checks
+Sirop_DNR checks
+** Dealing turn ** [ 4Karo ]
+avramia1 bets [0,02 $]
+Sirop_DNR folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ 0,12 $ ]
+
+
+
+#Game No : 474477324
+***** 888poker Hand History for Game 474477324 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:56:25
+Table Vila Velha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: tekiller243 ( 2,10 $ )
+Seat 3: Sirop_DNR ( 3,72 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,77 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2 $ )
+Seat 9: Tidu84 ( 1,63 $ )
+Seat 10: B2B_Suckouts ( 2,24 $ )
+Tidu84 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 2Karo ]
+tekiller243 raises [0,06 $]
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+sundwig folds
+avramia1 calls [0,06 $]
+Tidu84 calls [0,05 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 3Pik, 5Herz, KKaro ]
+Tidu84 checks
+tekiller243 bets [0,13 $]
+avramia1 folds
+Tidu84 folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,19 $ ]
+
+
+
+#Game No : 474477338
+***** 888poker Hand History for Game 474477338 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:57:21
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 2: tekiller243 ( 2,23 $ )
+Seat 3: Sirop_DNR ( 3,72 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,77 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 1,94 $ )
+Seat 9: Tidu84 ( 1,57 $ )
+Seat 10: B2B_Suckouts ( 2,22 $ )
+B2B_Suckouts posts small blind [0,01 $]
+tekiller243 folds
+Sirop_DNR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, KPik ]
+AooGoonners folds
+asus59 folds
+sundwig folds
+avramia1 folds
+Tidu84 raises [0,06 $]
+B2B_Suckouts folds
+Sirop_DNR folds
+** Summary **
+Tidu84 did not show his hand
+Tidu84 collected [ 0,05 $ ]
+
+
+
+#Game No : 474477343
+***** 888poker Hand History for Game 474477343 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:57:43
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 3: Sirop_DNR ( 3,70 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,77 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 1,94 $ )
+Seat 9: Tidu84 ( 1,60 $ )
+Seat 10: B2B_Suckouts ( 2,21 $ )
+Sirop_DNR posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, QKreuz ]
+asus59 folds
+sundwig raises [0,06 $]
+avramia1 calls [0,06 $]
+Tidu84 folds
+B2B_Suckouts folds
+Sirop_DNR folds
+AooGoonners folds
+** Dealing flop ** [ 5Pik, KPik, 10Pik ]
+sundwig bets [0,07 $]
+avramia1 calls [0,07 $]
+** Dealing turn ** [ APik ]
+sundwig checks
+avramia1 bets [0,02 $]
+sundwig calls [0,02 $]
+** Dealing river ** [ 8Herz ]
+sundwig checks
+avramia1 checks
+** Summary **
+sundwig shows [ JKreuz, AHerz ]
+avramia1 shows [ 5Kreuz, 5Karo ]
+avramia1 collected [ 0,31 $ ]
+
+
+
+#Game No : 474477361
+***** 888poker Hand History for Game 474477361 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:58:29
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: RRRastAAA ( 2 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,77 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,10 $ )
+Seat 9: Tidu84 ( 1,60 $ )
+Seat 10: B2B_Suckouts ( 2,21 $ )
+AooGoonners posts small blind [0,01 $]
+asus59 posts big blind [0,02 $]
+RRRastAAA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, APik ]
+sundwig folds
+avramia1 folds
+Tidu84 folds
+B2B_Suckouts raises [0,06 $]
+RRRastAAA calls [0,04 $]
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+** Dealing flop ** [ QKaro, 2Herz, KKreuz ]
+B2B_Suckouts checks
+RRRastAAA bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+RRRastAAA did not show his hand
+RRRastAAA collected [ 0,15 $ ]
+
+
+
+#Game No : 474477369
+***** 888poker Hand History for Game 474477369 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:59:07
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: RRRastAAA ( 2,09 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,75 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,10 $ )
+Seat 9: Tidu84 ( 1,60 $ )
+Seat 10: B2B_Suckouts ( 2,15 $ )
+asus59 posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, QKaro ]
+avramia1 folds
+Tidu84 raises [0,06 $]
+B2B_Suckouts calls [0,06 $]
+RRRastAAA folds
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+sundwig folds
+** Dealing flop ** [ JKaro, 2Pik, 10Karo ]
+Tidu84 bets [0,11 $]
+B2B_Suckouts folds
+** Summary **
+Tidu84 did not show his hand
+Tidu84 collected [ 0,15 $ ]
+
+
+
+#Game No : 474477376
+***** 888poker Hand History for Game 474477376 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 09:59:52
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: RRRastAAA ( 2,09 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: avramia1 ( 2,10 $ )
+Seat 9: Tidu84 ( 1,69 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+sundwig posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, KHerz ]
+Tidu84 folds
+B2B_Suckouts folds
+RRRastAAA folds
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+sundwig folds
+** Summary **
+avramia1 collected [ 0,03 $ ]
+
+
+
+#Game No : 474477381
+***** 888poker Hand History for Game 474477381 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:00:06
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: RRRastAAA ( 2,09 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 9: Tidu84 ( 1,69 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+Tidu84 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, JPik ]
+RRRastAAA folds
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+sundwig raises [0,06 $]
+Tidu84 calls [0,05 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 6Pik, 4Karo, 7Herz ]
+Tidu84 checks
+B2B_Suckouts checks
+sundwig checks
+** Dealing turn ** [ 2Karo ]
+Tidu84 checks
+B2B_Suckouts checks
+sundwig bets [0,11 $]
+Tidu84 raises [0,22 $]
+B2B_Suckouts folds
+sundwig calls [0,11 $]
+** Dealing river ** [ QHerz ]
+Tidu84 bets [0,59 $]
+sundwig folds
+** Summary **
+Tidu84 collected [ 0,59 $ ]
+
+
+
+#Game No : 474477397
+***** 888poker Hand History for Game 474477397 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:01:31
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 2 $ )
+Seat 2: RRRastAAA ( 2,09 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 7: diplomat51 ( 1,39 $ )
+Seat 9: Tidu84 ( 2 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+B2B_Suckouts posts small blind [0,01 $]
+urbanmag posts big blind [0,02 $]
+diplomat51 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 4Pik ]
+RRRastAAA raises [0,06 $]
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+sundwig folds
+diplomat51 raises [0,19 $]
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA raises [0,57 $]
+diplomat51 raises [1,18 $]
+RRRastAAA calls [0,76 $]
+** Dealing flop ** [ 5Pik, 10Karo, 7Karo ]
+** Dealing turn ** [ QKreuz ]
+** Dealing river ** [ JKreuz ]
+** Summary **
+RRRastAAA shows [ APik, KKreuz ]
+diplomat51 shows [ 5Herz, 5Kreuz ]
+RRRastAAA collected [ 2,64 $ ]
+
+
+
+#Game No : 474477409
+***** 888poker Hand History for Game 474477409 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:02:27
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,98 $ )
+Seat 2: RRRastAAA ( 3,34 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2 $ )
+Seat 9: Tidu84 ( 2 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+urbanmag posts small blind [0,01 $]
+RRRastAAA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Herz ]
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+sundwig raises [0,08 $]
+Tidu84 calls [0,08 $]
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+** Dealing flop ** [ 2Karo, KKaro, 8Herz ]
+sundwig bets [0,09 $]
+Tidu84 folds
+** Summary **
+sundwig collected [ 0,18 $ ]
+
+
+
+#Game No : 474477416
+***** 888poker Hand History for Game 474477416 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:03:02
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,97 $ )
+Seat 2: RRRastAAA ( 3,32 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2,10 $ )
+Seat 9: Tidu84 ( 1,92 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+RRRastAAA posts small blind [0,01 $]
+Sirop_DNR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, JPik ]
+AooGoonners folds
+asus59 folds
+sundwig folds
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag raises [0,05 $]
+RRRastAAA raises [0,14 $]
+Sirop_DNR folds
+urbanmag calls [0,10 $]
+** Dealing flop ** [ 3Kreuz, 7Kreuz, QKreuz ]
+RRRastAAA bets [0,21 $]
+urbanmag folds
+** Summary **
+RRRastAAA collected [ 0,30 $ ]
+
+
+
+#Game No : 474477421
+***** 888poker Hand History for Game 474477421 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:03:37
+Table Vila Velha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,82 $ )
+Seat 2: RRRastAAA ( 3,47 $ )
+Seat 3: Sirop_DNR ( 3,67 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2,10 $ )
+Seat 9: Tidu84 ( 1,92 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+Sirop_DNR posts small blind [0,01 $]
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 4Karo ]
+asus59 folds
+sundwig raises [0,06 $]
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag raises [0,12 $]
+RRRastAAA folds
+Sirop_DNR folds
+AooGoonners folds
+sundwig calls [0,06 $]
+** Dealing flop ** [ 7Kreuz, 10Kreuz, AHerz ]
+sundwig bets [0,13 $]
+urbanmag folds
+** Summary **
+sundwig collected [ 0,26 $ ]
+
+
+
+#Game No : 474477428
+***** 888poker Hand History for Game 474477428 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:04:13
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,47 $ )
+Seat 3: Sirop_DNR ( 3,66 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2,24 $ )
+Seat 9: Tidu84 ( 1,92 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+AooGoonners posts small blind [0,01 $]
+asus59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, QHerz ]
+sundwig folds
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA raises [0,06 $]
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+** Summary **
+RRRastAAA collected [ 0,05 $ ]
+
+
+
+#Game No : 474477436
+***** 888poker Hand History for Game 474477436 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:04:49
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,50 $ )
+Seat 3: Sirop_DNR ( 3,66 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,72 $ )
+Seat 6: sundwig ( 2,24 $ )
+Seat 9: Tidu84 ( 1,92 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+asus59 posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 6Karo ]
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+Sirop_DNR folds
+AooGoonners folds
+asus59 raises [0,05 $]
+sundwig folds
+** Summary **
+asus59 collected [ 0,04 $ ]
+
+
+
+#Game No : 474477440
+***** 888poker Hand History for Game 474477440 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:05:27
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,50 $ )
+Seat 3: Sirop_DNR ( 3,66 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2,22 $ )
+Seat 9: Tidu84 ( 1,92 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+sundwig posts small blind [0,01 $]
+Tidu84 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 6Pik ]
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+Sirop_DNR raises [0,07 $]
+AooGoonners folds
+asus59 folds
+sundwig folds
+Tidu84 folds
+** Summary **
+Sirop_DNR collected [ 0,05 $ ]
+
+
+
+#Game No : 474477444
+***** 888poker Hand History for Game 474477444 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:05:54
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,50 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2,21 $ )
+Seat 9: Tidu84 ( 1,90 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+Tidu84 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, QPik ]
+urbanmag folds
+RRRastAAA folds
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+sundwig folds
+Tidu84 folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474477447
+***** 888poker Hand History for Game 474477447 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:06:15
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,50 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2,21 $ )
+Seat 9: Tidu84 ( 1,89 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+B2B_Suckouts posts small blind [0,01 $]
+urbanmag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 2Pik ]
+RRRastAAA folds
+Sirop_DNR folds
+AooGoonners folds
+asus59 folds
+sundwig folds
+Tidu84 folds
+B2B_Suckouts folds
+** Summary **
+urbanmag collected [ 0,03 $ ]
+
+
+
+#Game No : 474477450
+***** 888poker Hand History for Game 474477450 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:06:43
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,71 $ )
+Seat 2: RRRastAAA ( 3,50 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,74 $ )
+Seat 6: sundwig ( 2,21 $ )
+Seat 9: Tidu84 ( 1,89 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+urbanmag posts small blind [0,01 $]
+RRRastAAA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 5Herz ]
+Sirop_DNR folds
+AooGoonners folds
+asus59 raises [0,05 $]
+sundwig folds
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+** Summary **
+asus59 collected [ 0,05 $ ]
+
+
+
+#Game No : 474477453
+***** 888poker Hand History for Game 474477453 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:06:56
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,48 $ )
+Seat 3: Sirop_DNR ( 3,69 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,77 $ )
+Seat 6: sundwig ( 2,21 $ )
+Seat 9: Tidu84 ( 1,89 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+RRRastAAA posts small blind [0,01 $]
+Sirop_DNR folds
+AooGoonners posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 4Karo ]
+asus59 folds
+sundwig folds
+Tidu84 raises [0,06 $]
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+AooGoonners folds
+** Summary **
+Tidu84 collected [ 0,05 $ ]
+
+
+
+#Game No : 474477461
+***** 888poker Hand History for Game 474477461 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:07:27
+Table Vila Velha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,47 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,77 $ )
+Seat 6: sundwig ( 2,21 $ )
+Seat 9: Tidu84 ( 1,92 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+AooGoonners posts small blind [0,01 $]
+asus59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 5Kreuz ]
+sundwig folds
+Tidu84 raises [0,06 $]
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+AooGoonners folds
+asus59 folds
+** Summary **
+Tidu84 collected [ 0,05 $ ]
+
+
+
+#Game No : 474477464
+***** 888poker Hand History for Game 474477464 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:07:49
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,47 $ )
+Seat 3: Sprut_2013 ( 2 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,75 $ )
+Seat 6: sundwig ( 2,21 $ )
+Seat 9: Tidu84 ( 1,95 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+asus59 posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+Sprut_2013 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 6Kreuz ]
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+Sprut_2013 checks
+AooGoonners folds
+asus59 calls [0,01 $]
+sundwig checks
+** Dealing flop ** [ 5Kreuz, QHerz, AKreuz ]
+asus59 checks
+sundwig checks
+Sprut_2013 checks
+** Dealing turn ** [ 8Kreuz ]
+asus59 checks
+sundwig checks
+Sprut_2013 checks
+** Dealing river ** [ JKreuz ]
+asus59 checks
+sundwig checks
+Sprut_2013 checks
+** Summary **
+asus59 shows [ 3Karo, KPik ]
+sundwig shows [ 10Pik, 5Pik ]
+Sprut_2013 shows [ 9Karo, 4Kreuz ]
+Sprut_2013 collected [ 0,06 $ ]
+
+
+
+#Game No : 474477479
+***** 888poker Hand History for Game 474477479 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:08:52
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,47 $ )
+Seat 3: Sprut_2013 ( 2,04 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,73 $ )
+Seat 6: sundwig ( 2,19 $ )
+Seat 9: Tidu84 ( 1,95 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+sundwig posts small blind [0,01 $]
+Tidu84 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, AHerz ]
+B2B_Suckouts raises [0,06 $]
+urbanmag folds
+RRRastAAA folds
+Sprut_2013 folds
+AooGoonners folds
+asus59 folds
+sundwig folds
+Tidu84 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474477486
+***** 888poker Hand History for Game 474477486 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:09:18
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,47 $ )
+Seat 3: Sprut_2013 ( 2,04 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,73 $ )
+Seat 6: sundwig ( 2,18 $ )
+Seat 9: Tidu84 ( 1,93 $ )
+Seat 10: B2B_Suckouts ( 2,05 $ )
+Tidu84 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, KPik ]
+urbanmag folds
+RRRastAAA folds
+Sprut_2013 folds
+AooGoonners folds
+asus59 folds
+sundwig folds
+Tidu84 raises [0,05 $]
+B2B_Suckouts folds
+** Summary **
+Tidu84 collected [ 0,04 $ ]
+
+
+
+#Game No : 474477488
+***** 888poker Hand History for Game 474477488 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:09:37
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: RRRastAAA ( 3,47 $ )
+Seat 3: Sprut_2013 ( 2,04 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,73 $ )
+Seat 6: sundwig ( 2,18 $ )
+Seat 9: Tidu84 ( 1,95 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+B2B_Suckouts posts small blind [0,01 $]
+urbanmag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, JKaro ]
+RRRastAAA folds
+Sprut_2013 folds
+AooGoonners folds
+asus59 folds
+sundwig raises [0,06 $]
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag folds
+** Summary **
+sundwig collected [ 0,05 $ ]
+
+
+
+#Game No : 474477491
+***** 888poker Hand History for Game 474477491 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:09:58
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,68 $ )
+Seat 2: RRRastAAA ( 3,47 $ )
+Seat 3: Sprut_2013 ( 2,04 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,73 $ )
+Seat 6: sundwig ( 2,21 $ )
+Seat 9: Tidu84 ( 1,95 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+urbanmag posts small blind [0,01 $]
+RRRastAAA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 8Pik ]
+Sprut_2013 folds
+AooGoonners folds
+asus59 folds
+sundwig folds
+Tidu84 calls [0,02 $]
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA checks
+** Dealing flop ** [ QKreuz, 8Kreuz, 3Karo ]
+RRRastAAA checks
+Tidu84 checks
+** Dealing turn ** [ 6Karo ]
+RRRastAAA checks
+Tidu84 bets [0,02 $]
+RRRastAAA folds
+** Summary **
+Tidu84 collected [ 0,05 $ ]
+
+
+
+#Game No : 474477506
+***** 888poker Hand History for Game 474477506 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:10:41
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,67 $ )
+Seat 2: RRRastAAA ( 3,45 $ )
+Seat 3: Sprut_2013 ( 2,04 $ )
+Seat 4: AooGoonners ( 0,80 $ )
+Seat 5: asus59 ( 0,73 $ )
+Seat 6: sundwig ( 2,21 $ )
+Seat 9: Tidu84 ( 1,98 $ )
+Seat 10: B2B_Suckouts ( 2,02 $ )
+RRRastAAA posts small blind [0,01 $]
+Sprut_2013 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 9Herz ]
+AooGoonners folds
+asus59 folds
+sundwig raises [0,08 $]
+Tidu84 folds
+B2B_Suckouts raises [0,24 $]
+urbanmag folds
+RRRastAAA folds
+Sprut_2013 folds
+sundwig calls [0,16 $]
+** Dealing flop ** [ 10Pik, 3Pik, 5Karo ]
+sundwig bets [0,25 $]
+B2B_Suckouts raises [1,78 $]
+sundwig calls [1,53 $]
+** Dealing turn ** [ 10Karo ]
+** Dealing river ** [ 7Pik ]
+** Summary **
+sundwig shows [ QKaro, QHerz ]
+B2B_Suckouts shows [ 9Karo, 9Herz ]
+sundwig collected [ 3,82 $ ]
+
+
+
+#Game No : 474477518
+***** 888poker Hand History for Game 474477518 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:11:42
+Table Vila Velha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: urbanmag ( 1,67 $ )
+Seat 2: RRRastAAA ( 3,44 $ )
+Seat 3: Sprut_2013 ( 2,02 $ )
+Seat 5: asus59 ( 0,73 $ )
+Seat 6: sundwig ( 4,01 $ )
+Seat 9: Tidu84 ( 1,98 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Sprut_2013 posts small blind [0,01 $]
+asus59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, AKaro ]
+sundwig folds
+Tidu84 calls [0,02 $]
+B2B_Suckouts folds
+urbanmag calls [0,02 $]
+RRRastAAA calls [0,02 $]
+Sprut_2013 raises [0,19 $]
+asus59 folds
+Tidu84 calls [0,18 $]
+urbanmag folds
+RRRastAAA calls [0,18 $]
+** Dealing flop ** [ JHerz, 3Kreuz, KKreuz ]
+Sprut_2013 bets [0,42 $]
+Tidu84 folds
+RRRastAAA calls [0,42 $]
+** Dealing turn ** [ JKreuz ]
+Sprut_2013 checks
+RRRastAAA bets [2,82 $]
+Sprut_2013 folds
+** Summary **
+RRRastAAA collected [ 1,39 $ ]
+
+
+
+#Game No : 474477534
+***** 888poker Hand History for Game 474477534 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:12:45
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: urbanmag ( 1,65 $ )
+Seat 2: RRRastAAA ( 4,21 $ )
+Seat 3: Sprut_2013 ( 2 $ )
+Seat 5: asus59 ( 0,71 $ )
+Seat 6: sundwig ( 4,01 $ )
+Seat 9: Tidu84 ( 1,78 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+asus59 posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 4Kreuz ]
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+Sprut_2013 folds
+asus59 folds
+** Summary **
+sundwig collected [ 0,03 $ ]
+
+
+
+#Game No : 474477542
+***** 888poker Hand History for Game 474477542 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:13:15
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,65 $ )
+Seat 2: RRRastAAA ( 4,21 $ )
+Seat 3: Sprut_2013 ( 2 $ )
+Seat 5: asus59 ( 0,70 $ )
+Seat 6: sundwig ( 4,02 $ )
+Seat 7: xxflashxxx ( 0,80 $ )
+Seat 9: Tidu84 ( 1,78 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+sundwig posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 6Pik ]
+Tidu84 raises [0,06 $]
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+Sprut_2013 folds
+asus59 folds
+sundwig folds
+xxflashxxx folds
+** Summary **
+Tidu84 collected [ 0,05 $ ]
+
+
+
+#Game No : 474477551
+***** 888poker Hand History for Game 474477551 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:13:54
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,65 $ )
+Seat 2: RRRastAAA ( 4,21 $ )
+Seat 3: Sprut_2013 ( 2 $ )
+Seat 5: asus59 ( 0,70 $ )
+Seat 6: sundwig ( 4,01 $ )
+Seat 7: xxflashxxx ( 0,78 $ )
+Seat 9: Tidu84 ( 1,81 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+xxflashxxx posts small blind [0,01 $]
+Tidu84 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 5Kreuz ]
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+Sprut_2013 folds
+asus59 folds
+sundwig raises [0,06 $]
+xxflashxxx folds
+Tidu84 calls [0,04 $]
+** Dealing flop ** [ 7Karo, 5Karo, 8Herz ]
+Tidu84 checks
+sundwig bets [0,06 $]
+Tidu84 raises [0,13 $]
+sundwig calls [0,07 $]
+** Dealing turn ** [ QKaro ]
+Tidu84 bets [0,29 $]
+sundwig calls [0,29 $]
+** Dealing river ** [ 4Karo ]
+Tidu84 checks
+sundwig bets [0,32 $]
+Tidu84 folds
+** Summary **
+sundwig collected [ 0,91 $ ]
+
+
+
+#Game No : 474477571
+***** 888poker Hand History for Game 474477571 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:15:25
+Table Vila Velha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,65 $ )
+Seat 2: RRRastAAA ( 4,21 $ )
+Seat 3: Sprut_2013 ( 2 $ )
+Seat 5: asus59 ( 0,70 $ )
+Seat 6: sundwig ( 4,44 $ )
+Seat 7: xxflashxxx ( 0,77 $ )
+Seat 9: Tidu84 ( 1,33 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Tidu84 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 8Karo ]
+urbanmag folds
+RRRastAAA raises [0,06 $]
+Sprut_2013 folds
+asus59 folds
+sundwig calls [0,06 $]
+xxflashxxx folds
+Tidu84 folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 5Herz, 10Herz, 2Herz ]
+B2B_Suckouts checks
+RRRastAAA bets [0,15 $]
+sundwig folds
+B2B_Suckouts folds
+** Summary **
+RRRastAAA collected [ 0,18 $ ]
+
+
+
+#Game No : 474477605
+***** 888poker Hand History for Game 474477605 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:17:53
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 2 $ )
+Seat 2: RRRastAAA ( 4,32 $ )
+Seat 4: Sirop_DNR ( 3,66 $ )
+Seat 5: asus59 ( 0,64 $ )
+Seat 6: sundwig ( 4,38 $ )
+Seat 7: xxflashxxx ( 0,77 $ )
+Seat 9: Tidu84 ( 1,42 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+asus59 posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, KKaro ]
+xxflashxxx folds
+Tidu84 calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+urbanmag folds
+RRRastAAA folds
+Sirop_DNR folds
+asus59 folds
+sundwig folds
+Tidu84 calls [0,06 $]
+** Dealing flop ** [ 7Herz, AKreuz, APik ]
+Tidu84 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 7Kreuz ]
+Tidu84 bets [0,02 $]
+B2B_Suckouts raises [0,08 $]
+Tidu84 calls [0,06 $]
+** Dealing river ** [ 6Karo ]
+Tidu84 checks
+B2B_Suckouts bets [1,84 $]
+Tidu84 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,33 $ ]
+
+
+
+#Game No : 474477628
+***** 888poker Hand History for Game 474477628 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:19:13
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 2 $ )
+Seat 2: RRRastAAA ( 4,32 $ )
+Seat 4: Sirop_DNR ( 3,66 $ )
+Seat 5: asus59 ( 0,63 $ )
+Seat 6: sundwig ( 4,36 $ )
+Seat 7: xxflashxxx ( 0,77 $ )
+Seat 9: Tidu84 ( 1,26 $ )
+Seat 10: B2B_Suckouts ( 2,17 $ )
+sundwig posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 5Pik ]
+Tidu84 raises [0,06 $]
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+Sirop_DNR folds
+asus59 folds
+sundwig calls [0,05 $]
+xxflashxxx folds
+** Dealing flop ** [ JHerz, AKaro, 4Kreuz ]
+sundwig bets [0,07 $]
+Tidu84 calls [0,07 $]
+** Dealing turn ** [ JKreuz ]
+sundwig bets [0,14 $]
+Tidu84 folds
+** Summary **
+sundwig did not show his hand
+sundwig collected [ 0,27 $ ]
+
+
+
+#Game No : 474477639
+***** 888poker Hand History for Game 474477639 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:19:57
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 2 $ )
+Seat 2: RRRastAAA ( 4,32 $ )
+Seat 4: Sirop_DNR ( 3,66 $ )
+Seat 5: asus59 ( 0,63 $ )
+Seat 6: sundwig ( 4,50 $ )
+Seat 7: xxflashxxx ( 0,75 $ )
+Seat 9: Tidu84 ( 1,13 $ )
+Seat 10: B2B_Suckouts ( 2,17 $ )
+xxflashxxx posts small blind [0,01 $]
+Tidu84 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 4Kreuz ]
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+Sirop_DNR folds
+asus59 folds
+sundwig folds
+xxflashxxx raises [0,03 $]
+Tidu84 calls [0,02 $]
+** Dealing flop ** [ JKreuz, 2Herz, 8Karo ]
+xxflashxxx checks
+Tidu84 bets [0,02 $]
+xxflashxxx folds
+** Summary **
+Tidu84 did not show his hand
+Tidu84 collected [ 0,08 $ ]
+
+
+
+#Game No : 474477649
+***** 888poker Hand History for Game 474477649 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:20:37
+Table Vila Velha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 2 $ )
+Seat 2: RRRastAAA ( 4,32 $ )
+Seat 4: Sirop_DNR ( 3,66 $ )
+Seat 5: asus59 ( 0,63 $ )
+Seat 6: sundwig ( 4,50 $ )
+Seat 7: xxflashxxx ( 0,71 $ )
+Seat 9: Tidu84 ( 1,17 $ )
+Seat 10: B2B_Suckouts ( 2,17 $ )
+Tidu84 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 6Herz ]
+urbanmag folds
+RRRastAAA raises [0,04 $]
+Sirop_DNR folds
+asus59 folds
+sundwig folds
+xxflashxxx calls [0,04 $]
+Tidu84 calls [0,03 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 8Karo, 10Herz, 6Karo ]
+Tidu84 checks
+RRRastAAA bets [0,08 $]
+xxflashxxx raises [0,16 $]
+Tidu84 folds
+RRRastAAA calls [0,08 $]
+** Dealing turn ** [ 5Kreuz ]
+RRRastAAA checks
+xxflashxxx bets [0,30 $]
+RRRastAAA folds
+** Summary **
+xxflashxxx did not show his hand
+xxflashxxx collected [ 0,44 $ ]
+
+
+
+#Game No : 474477659
+***** 888poker Hand History for Game 474477659 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:21:25
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 2 $ )
+Seat 2: RRRastAAA ( 4,12 $ )
+Seat 4: Sirop_DNR ( 3,66 $ )
+Seat 5: asus59 ( 0,63 $ )
+Seat 6: sundwig ( 4,50 $ )
+Seat 7: xxflashxxx ( 0,95 $ )
+Seat 9: Tidu84 ( 1,13 $ )
+Seat 10: B2B_Suckouts ( 2,15 $ )
+B2B_Suckouts posts small blind [0,01 $]
+urbanmag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 9Karo ]
+RRRastAAA folds
+Sirop_DNR folds
+asus59 folds
+sundwig folds
+xxflashxxx raises [0,04 $]
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag calls [0,02 $]
+** Dealing flop ** [ 8Karo, AKreuz, JKaro ]
+urbanmag checks
+xxflashxxx checks
+** Dealing turn ** [ QPik ]
+urbanmag checks
+xxflashxxx checks
+** Dealing river ** [ 2Pik ]
+urbanmag checks
+xxflashxxx checks
+** Summary **
+urbanmag shows [ 6Pik, 7Karo ]
+xxflashxxx shows [ 7Herz, 7Kreuz ]
+xxflashxxx collected [ 0,09 $ ]
+
+
+
+#Game No : 474477669
+***** 888poker Hand History for Game 474477669 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:22:23
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,96 $ )
+Seat 2: RRRastAAA ( 4,12 $ )
+Seat 4: Sirop_DNR ( 3,66 $ )
+Seat 5: asus59 ( 0,63 $ )
+Seat 6: sundwig ( 4,50 $ )
+Seat 7: xxflashxxx ( 1 $ )
+Seat 9: Tidu84 ( 1,13 $ )
+Seat 10: B2B_Suckouts ( 2,14 $ )
+urbanmag posts small blind [0,01 $]
+RRRastAAA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 6Pik ]
+Sirop_DNR folds
+asus59 folds
+sundwig raises [0,06 $]
+xxflashxxx folds
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+** Summary **
+sundwig did not show his hand
+sundwig collected [ 0,05 $ ]
+
+
+
+#Game No : 474477677
+***** 888poker Hand History for Game 474477677 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:22:55
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,95 $ )
+Seat 2: RRRastAAA ( 4,10 $ )
+Seat 4: Sirop_DNR ( 3,66 $ )
+Seat 5: asus59 ( 0,63 $ )
+Seat 6: sundwig ( 4,53 $ )
+Seat 7: xxflashxxx ( 1 $ )
+Seat 9: Tidu84 ( 1,13 $ )
+Seat 10: B2B_Suckouts ( 2,14 $ )
+RRRastAAA posts small blind [0,01 $]
+Sirop_DNR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 7Karo ]
+asus59 raises [0,04 $]
+sundwig calls [0,04 $]
+xxflashxxx folds
+Tidu84 calls [0,04 $]
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+Sirop_DNR folds
+** Dealing flop ** [ 10Herz, 10Karo, 8Kreuz ]
+asus59 checks
+sundwig bets [0,07 $]
+Tidu84 calls [0,07 $]
+asus59 folds
+** Dealing turn ** [ 3Herz ]
+sundwig bets [0,14 $]
+Tidu84 raises [0,28 $]
+sundwig calls [0,14 $]
+** Dealing river ** [ 5Pik ]
+sundwig bets [0,42 $]
+Tidu84 folds
+** Summary **
+sundwig did not show his hand
+sundwig collected [ 0,80 $ ]
+
+
+
+#Game No : 474477691
+***** 888poker Hand History for Game 474477691 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:24:17
+Table Vila Velha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,95 $ )
+Seat 2: RRRastAAA ( 4,09 $ )
+Seat 4: Sirop_DNR ( 3,64 $ )
+Seat 5: asus59 ( 0,59 $ )
+Seat 6: sundwig ( 4,94 $ )
+Seat 7: xxflashxxx ( 1 $ )
+Seat 9: Tidu84 ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2,14 $ )
+Sirop_DNR posts small blind [0,01 $]
+asus59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 2Herz ]
+sundwig folds
+xxflashxxx folds
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+Sirop_DNR calls [0,01 $]
+asus59 checks
+** Dealing flop ** [ 9Karo, 7Karo, 10Herz ]
+Sirop_DNR checks
+asus59 checks
+** Dealing turn ** [ 3Herz ]
+Sirop_DNR bets [0,03 $]
+asus59 folds
+** Summary **
+Sirop_DNR did not show his hand
+Sirop_DNR collected [ 0,04 $ ]
+
+
+
+#Game No : 474477700
+***** 888poker Hand History for Game 474477700 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:25:08
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,95 $ )
+Seat 2: RRRastAAA ( 4,09 $ )
+Seat 4: Sirop_DNR ( 3,66 $ )
+Seat 5: asus59 ( 0,57 $ )
+Seat 6: sundwig ( 4,94 $ )
+Seat 7: xxflashxxx ( 1 $ )
+Seat 9: Tidu84 ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2,14 $ )
+asus59 posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 2Kreuz ]
+xxflashxxx calls [0,02 $]
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag raises [0,08 $]
+RRRastAAA folds
+Sirop_DNR folds
+asus59 folds
+sundwig folds
+xxflashxxx calls [0,06 $]
+** Dealing flop ** [ 9Kreuz, 2Herz, 5Karo ]
+xxflashxxx checks
+urbanmag checks
+** Dealing turn ** [ 4Kreuz ]
+xxflashxxx bets [0,09 $]
+urbanmag folds
+** Summary **
+xxflashxxx did not show his hand
+xxflashxxx collected [ 0,18 $ ]
+
+
+
+#Game No : 474477709
+***** 888poker Hand History for Game 474477709 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:25:48
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,87 $ )
+Seat 2: RRRastAAA ( 4,09 $ )
+Seat 4: Sirop_DNR ( 3,66 $ )
+Seat 5: asus59 ( 0,56 $ )
+Seat 6: sundwig ( 4,92 $ )
+Seat 7: xxflashxxx ( 1,10 $ )
+Seat 9: Tidu84 ( 0,74 $ )
+Seat 10: B2B_Suckouts ( 2,14 $ )
+sundwig posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, JPik ]
+Tidu84 folds
+B2B_Suckouts folds
+urbanmag raises [0,06 $]
+RRRastAAA folds
+Sirop_DNR folds
+asus59 folds
+sundwig folds
+xxflashxxx folds
+** Summary **
+urbanmag did not show his hand
+urbanmag collected [ 0,05 $ ]
+
+
+
+#Game No : 474477713
+***** 888poker Hand History for Game 474477713 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:26:11
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: urbanmag ( 1,90 $ )
+Seat 2: RRRastAAA ( 4,09 $ )
+Seat 4: Sirop_DNR ( 3,66 $ )
+Seat 5: asus59 ( 0,56 $ )
+Seat 6: sundwig ( 4,91 $ )
+Seat 7: xxflashxxx ( 1,08 $ )
+Seat 10: B2B_Suckouts ( 2,14 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 5Pik ]
+urbanmag folds
+RRRastAAA folds
+Sirop_DNR raises [0,05 $]
+asus59 folds
+sundwig folds
+xxflashxxx folds
+B2B_Suckouts calls [0,03 $]
+** Dealing flop ** [ QHerz, KHerz, 8Karo ]
+B2B_Suckouts checks
+Sirop_DNR bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+Sirop_DNR collected [ 0,11 $ ]
+
+
+
+#Game No : 474477721
+***** 888poker Hand History for Game 474477721 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:26:51
+Table Vila Velha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: urbanmag ( 1,90 $ )
+Seat 2: RRRastAAA ( 4,09 $ )
+Seat 4: Sirop_DNR ( 3,72 $ )
+Seat 5: asus59 ( 0,56 $ )
+Seat 6: sundwig ( 4,91 $ )
+Seat 7: xxflashxxx ( 1,07 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+B2B_Suckouts posts small blind [0,01 $]
+urbanmag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 5Karo ]
+RRRastAAA raises [0,06 $]
+Sirop_DNR folds
+asus59 folds
+sundwig calls [0,06 $]
+xxflashxxx folds
+B2B_Suckouts folds
+urbanmag folds
+** Dealing flop ** [ 7Karo, 9Karo, 4Herz ]
+RRRastAAA bets [0,07 $]
+sundwig folds
+** Summary **
+RRRastAAA collected [ 0,15 $ ]
+
+
+
+#Game No : 474477730
+***** 888poker Hand History for Game 474477730 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:27:24
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: urbanmag ( 1,88 $ )
+Seat 2: RRRastAAA ( 4,18 $ )
+Seat 4: Sirop_DNR ( 3,72 $ )
+Seat 5: asus59 ( 0,56 $ )
+Seat 6: sundwig ( 4,85 $ )
+Seat 7: xxflashxxx ( 1,07 $ )
+Seat 10: B2B_Suckouts ( 2,08 $ )
+urbanmag posts small blind [0,01 $]
+RRRastAAA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, KHerz ]
+Sirop_DNR folds
+asus59 folds
+sundwig folds
+xxflashxxx raises [0,06 $]
+B2B_Suckouts raises [0,18 $]
+urbanmag folds
+RRRastAAA calls [0,16 $]
+xxflashxxx folds
+** Dealing flop ** [ KKaro, JKreuz, 8Kreuz ]
+RRRastAAA checks
+B2B_Suckouts bets [0,14 $]
+RRRastAAA calls [0,14 $]
+** Dealing turn ** [ 3Herz ]
+RRRastAAA checks
+B2B_Suckouts bets [0,23 $]
+RRRastAAA calls [0,23 $]
+** Dealing river ** [ 9Pik ]
+RRRastAAA checks
+B2B_Suckouts bets [0,58 $]
+RRRastAAA calls [0,58 $]
+** Summary **
+B2B_Suckouts shows [ AKaro, KHerz ]
+RRRastAAA mucks [ JHerz, QKreuz ]
+B2B_Suckouts collected [ 2,19 $ ]
+
+
+
+#Game No : 474477745
+***** 888poker Hand History for Game 474477745 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:28:27
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,87 $ )
+Seat 2: RRRastAAA ( 3,05 $ )
+Seat 3: StaLTrident ( 2 $ )
+Seat 4: Sirop_DNR ( 3,72 $ )
+Seat 5: asus59 ( 0,56 $ )
+Seat 6: sundwig ( 4,85 $ )
+Seat 7: xxflashxxx ( 1,01 $ )
+Seat 10: B2B_Suckouts ( 3,14 $ )
+RRRastAAA posts small blind [0,01 $]
+StaLTrident posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, QKreuz ]
+Sirop_DNR raises [0,06 $]
+asus59 folds
+sundwig folds
+xxflashxxx folds
+B2B_Suckouts folds
+urbanmag folds
+RRRastAAA folds
+StaLTrident calls [0,04 $]
+** Dealing flop ** [ KHerz, 7Herz, AKreuz ]
+StaLTrident checks
+Sirop_DNR bets [0,06 $]
+StaLTrident calls [0,06 $]
+** Dealing turn ** [ 6Karo ]
+StaLTrident checks
+Sirop_DNR bets [0,25 $]
+StaLTrident calls [0,25 $]
+** Dealing river ** [ AKaro ]
+StaLTrident checks
+Sirop_DNR bets [0,75 $]
+StaLTrident folds
+** Summary **
+Sirop_DNR collected [ 0,71 $ ]
+
+
+
+#Game No : 474477773
+***** 888poker Hand History for Game 474477773 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:30:24
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: urbanmag ( 1,87 $ )
+Seat 3: StaLTrident ( 1,63 $ )
+Seat 4: Sirop_DNR ( 4,06 $ )
+Seat 5: asus59 ( 0,56 $ )
+Seat 6: sundwig ( 4,85 $ )
+Seat 7: xxflashxxx ( 1,01 $ )
+Seat 10: B2B_Suckouts ( 3,14 $ )
+Sirop_DNR posts small blind [0,01 $]
+asus59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 10Karo ]
+sundwig folds
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+urbanmag raises [0,18 $]
+StaLTrident raises [1,63 $]
+Sirop_DNR folds
+asus59 folds
+B2B_Suckouts folds
+urbanmag folds
+** Summary **
+StaLTrident collected [ 0,45 $ ]
+
+
+
+#Game No : 474477783
+***** 888poker Hand History for Game 474477783 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:31:22
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: urbanmag ( 1,69 $ )
+Seat 3: StaLTrident ( 1,90 $ )
+Seat 4: Sirop_DNR ( 4,05 $ )
+Seat 5: asus59 ( 0,54 $ )
+Seat 6: sundwig ( 4,85 $ )
+Seat 7: xxflashxxx ( 1,01 $ )
+Seat 10: B2B_Suckouts ( 3,08 $ )
+asus59 posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 4Herz ]
+xxflashxxx folds
+B2B_Suckouts folds
+urbanmag raises [0,06 $]
+StaLTrident folds
+Sirop_DNR folds
+asus59 folds
+sundwig folds
+** Summary **
+urbanmag collected [ 0,05 $ ]
+
+
+
+#Game No : 474477789
+***** 888poker Hand History for Game 474477789 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:31:45
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: urbanmag ( 1,72 $ )
+Seat 3: StaLTrident ( 1,90 $ )
+Seat 4: Sirop_DNR ( 4,05 $ )
+Seat 5: asus59 ( 0,53 $ )
+Seat 6: sundwig ( 4,83 $ )
+Seat 7: xxflashxxx ( 1,01 $ )
+Seat 10: B2B_Suckouts ( 3,08 $ )
+sundwig posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 7Kreuz ]
+B2B_Suckouts folds
+urbanmag folds
+StaLTrident folds
+Sirop_DNR folds
+asus59 raises [0,05 $]
+sundwig raises [0,14 $]
+xxflashxxx folds
+asus59 raises [0,48 $]
+sundwig calls [0,38 $]
+** Dealing flop ** [ 9Herz, 4Herz, 4Pik ]
+** Dealing turn ** [ QKreuz ]
+** Dealing river ** [ 6Kreuz ]
+** Summary **
+asus59 shows [ 5Karo, 5Kreuz ]
+sundwig shows [ AKreuz, KPik ]
+asus59 collected [ 1,02 $ ]
+
+
+
+#Game No : 474477798
+***** 888poker Hand History for Game 474477798 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:32:27
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,72 $ )
+Seat 3: StaLTrident ( 1,90 $ )
+Seat 4: Sirop_DNR ( 4,05 $ )
+Seat 5: asus59 ( 1,02 $ )
+Seat 6: sundwig ( 4,30 $ )
+Seat 7: xxflashxxx ( 0,99 $ )
+Seat 9: Msigo_ ( 2 $ )
+Seat 10: B2B_Suckouts ( 3,08 $ )
+xxflashxxx posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 10Pik ]
+B2B_Suckouts folds
+urbanmag folds
+StaLTrident folds
+Sirop_DNR folds
+asus59 folds
+sundwig raises [0,06 $]
+xxflashxxx folds
+Msigo_ calls [0,04 $]
+** Dealing flop ** [ 10Herz, QPik, 2Pik ]
+Msigo_ checks
+sundwig checks
+** Dealing turn ** [ QHerz ]
+Msigo_ bets [0,06 $]
+sundwig folds
+** Summary **
+Msigo_ collected [ 0,13 $ ]
+
+
+
+#Game No : 474477807
+***** 888poker Hand History for Game 474477807 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:33:12
+Table Vila Velha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,72 $ )
+Seat 2: never24bluff ( 0,80 $ )
+Seat 3: StaLTrident ( 1,90 $ )
+Seat 4: Sirop_DNR ( 4,05 $ )
+Seat 5: asus59 ( 1,02 $ )
+Seat 6: sundwig ( 4,24 $ )
+Seat 7: xxflashxxx ( 0,98 $ )
+Seat 9: Msigo_ ( 2,07 $ )
+Seat 10: B2B_Suckouts ( 3,08 $ )
+Msigo_ posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+never24bluff posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 2Herz ]
+urbanmag folds
+never24bluff checks
+StaLTrident folds
+Sirop_DNR folds
+asus59 folds
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts checks
+** Dealing flop ** [ 7Kreuz, 7Karo, 8Herz ]
+B2B_Suckouts checks
+never24bluff checks
+** Dealing turn ** [ 2Karo ]
+B2B_Suckouts bets [0,02 $]
+never24bluff folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474477820
+***** 888poker Hand History for Game 474477820 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:34:07
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,72 $ )
+Seat 2: never24bluff ( 0,78 $ )
+Seat 3: StaLTrident ( 1,90 $ )
+Seat 4: Sirop_DNR ( 4,05 $ )
+Seat 5: asus59 ( 1,02 $ )
+Seat 6: sundwig ( 4,24 $ )
+Seat 7: xxflashxxx ( 0,98 $ )
+Seat 9: Msigo_ ( 2,06 $ )
+Seat 10: B2B_Suckouts ( 3,11 $ )
+B2B_Suckouts posts small blind [0,01 $]
+urbanmag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 3Herz ]
+never24bluff folds
+StaLTrident folds
+Sirop_DNR raises [0,05 $]
+asus59 folds
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+** Summary **
+Sirop_DNR did not show his hand
+Sirop_DNR collected [ 0,05 $ ]
+
+
+
+#Game No : 474477826
+***** 888poker Hand History for Game 474477826 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:34:35
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,70 $ )
+Seat 2: never24bluff ( 0,78 $ )
+Seat 3: StaLTrident ( 1,90 $ )
+Seat 4: Sirop_DNR ( 4,08 $ )
+Seat 5: asus59 ( 1,02 $ )
+Seat 6: sundwig ( 4,24 $ )
+Seat 7: xxflashxxx ( 0,98 $ )
+Seat 9: Msigo_ ( 2,06 $ )
+Seat 10: B2B_Suckouts ( 3,10 $ )
+urbanmag posts small blind [0,01 $]
+never24bluff posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 7Kreuz ]
+StaLTrident folds
+Sirop_DNR folds
+asus59 raises [0,07 $]
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+** Summary **
+asus59 did not show his hand
+asus59 collected [ 0,05 $ ]
+
+
+
+#Game No : 474477834
+***** 888poker Hand History for Game 474477834 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:35:12
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,69 $ )
+Seat 2: never24bluff ( 0,76 $ )
+Seat 3: StaLTrident ( 1,90 $ )
+Seat 4: Sirop_DNR ( 4,08 $ )
+Seat 5: asus59 ( 1,05 $ )
+Seat 6: sundwig ( 4,24 $ )
+Seat 7: xxflashxxx ( 0,98 $ )
+Seat 9: Msigo_ ( 2,06 $ )
+Seat 10: B2B_Suckouts ( 3,10 $ )
+never24bluff posts small blind [0,01 $]
+StaLTrident posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 10Kreuz ]
+Sirop_DNR folds
+asus59 folds
+sundwig folds
+xxflashxxx calls [0,02 $]
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff calls [0,01 $]
+StaLTrident checks
+** Dealing flop ** [ 5Herz, QKreuz, QKaro ]
+never24bluff checks
+StaLTrident checks
+xxflashxxx checks
+** Dealing turn ** [ AKreuz ]
+never24bluff checks
+StaLTrident checks
+xxflashxxx bets [0,06 $]
+never24bluff folds
+StaLTrident folds
+** Summary **
+xxflashxxx did not show his hand
+xxflashxxx collected [ 0,06 $ ]
+
+
+
+#Game No : 474477843
+***** 888poker Hand History for Game 474477843 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:35:58
+Table Vila Velha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,69 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,88 $ )
+Seat 4: Sirop_DNR ( 4,08 $ )
+Seat 5: asus59 ( 1,05 $ )
+Seat 6: sundwig ( 4,24 $ )
+Seat 7: xxflashxxx ( 1,02 $ )
+Seat 9: Msigo_ ( 2,06 $ )
+Seat 10: B2B_Suckouts ( 3,10 $ )
+StaLTrident posts small blind [0,01 $]
+Sirop_DNR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 6Kreuz ]
+asus59 raises [0,07 $]
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+** Summary **
+asus59 did not show his hand
+asus59 collected [ 0,05 $ ]
+
+
+
+#Game No : 474477851
+***** 888poker Hand History for Game 474477851 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:36:27
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,69 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,87 $ )
+Seat 4: Sirop_DNR ( 4,06 $ )
+Seat 5: asus59 ( 1,08 $ )
+Seat 6: sundwig ( 4,24 $ )
+Seat 7: xxflashxxx ( 1,02 $ )
+Seat 9: Msigo_ ( 2,06 $ )
+Seat 10: B2B_Suckouts ( 3,10 $ )
+Sirop_DNR posts small blind [0,01 $]
+asus59 folds
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, KPik ]
+xxflashxxx folds
+Msigo_ raises [0,06 $]
+B2B_Suckouts calls [0,06 $]
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+sundwig folds
+** Dealing flop ** [ QKaro, 6Herz, 10Karo ]
+Msigo_ bets [0,07 $]
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ 6Pik ]
+Msigo_ bets [0,12 $]
+B2B_Suckouts raises [0,24 $]
+Msigo_ calls [0,12 $]
+** Dealing river ** [ JKaro ]
+Msigo_ checks
+B2B_Suckouts checks
+** Summary **
+Msigo_ shows [ QHerz, QKreuz ]
+B2B_Suckouts mucks [ QPik, KPik ]
+Msigo_ collected [ 0,73 $ ]
+
+
+
+#Game No : 474477872
+***** 888poker Hand History for Game 474477872 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:37:49
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,69 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,87 $ )
+Seat 4: Sirop_DNR ( 4,05 $ )
+Seat 6: sundwig ( 4,22 $ )
+Seat 7: xxflashxxx ( 1,02 $ )
+Seat 9: Msigo_ ( 2,42 $ )
+Seat 10: B2B_Suckouts ( 2,73 $ )
+sundwig posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 2Kreuz ]
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag raises [0,06 $]
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+sundwig folds
+xxflashxxx folds
+** Summary **
+urbanmag collected [ 0,05 $ ]
+
+
+
+#Game No : 474477879
+***** 888poker Hand History for Game 474477879 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:38:21
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,72 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,87 $ )
+Seat 4: Sirop_DNR ( 4,05 $ )
+Seat 6: sundwig ( 4,21 $ )
+Seat 7: xxflashxxx ( 1 $ )
+Seat 9: Msigo_ ( 2,42 $ )
+Seat 10: B2B_Suckouts ( 2,73 $ )
+xxflashxxx posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, KPik ]
+B2B_Suckouts raises [0,06 $]
+urbanmag calls [0,06 $]
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+** Dealing flop ** [ 6Pik, 6Kreuz, JHerz ]
+B2B_Suckouts bets [0,04 $]
+urbanmag raises [0,19 $]
+B2B_Suckouts calls [0,15 $]
+** Dealing turn ** [ 7Kreuz ]
+B2B_Suckouts checks
+urbanmag bets [0,26 $]
+B2B_Suckouts calls [0,26 $]
+** Dealing river ** [ 3Pik ]
+B2B_Suckouts checks
+urbanmag bets [0,52 $]
+B2B_Suckouts calls [0,52 $]
+** Summary **
+urbanmag shows [ JKreuz, QKreuz ]
+B2B_Suckouts shows [ JPik, KPik ]
+B2B_Suckouts collected [ 1,96 $ ]
+
+
+
+#Game No : 474477888
+***** 888poker Hand History for Game 474477888 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:39:17
+Table Vila Velha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 0,69 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,87 $ )
+Seat 4: Sirop_DNR ( 4,05 $ )
+Seat 6: sundwig ( 4,21 $ )
+Seat 7: xxflashxxx ( 0,99 $ )
+Seat 9: Msigo_ ( 2,40 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+Msigo_ posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, JPik ]
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474477892
+***** 888poker Hand History for Game 474477892 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:39:38
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 2 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,87 $ )
+Seat 4: Sirop_DNR ( 4,05 $ )
+Seat 6: sundwig ( 4,21 $ )
+Seat 7: xxflashxxx ( 0,99 $ )
+Seat 9: Msigo_ ( 2,39 $ )
+Seat 10: B2B_Suckouts ( 3,67 $ )
+B2B_Suckouts posts small blind [0,01 $]
+urbanmag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 9Kreuz ]
+never24bluff folds
+StaLTrident folds
+Sirop_DNR raises [0,05 $]
+sundwig folds
+xxflashxxx raises [0,10 $]
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag calls [0,08 $]
+Sirop_DNR calls [0,05 $]
+** Dealing flop ** [ 4Herz, 6Pik, 7Karo ]
+urbanmag checks
+Sirop_DNR bets [0,10 $]
+xxflashxxx raises [0,44 $]
+urbanmag folds
+Sirop_DNR folds
+** Summary **
+xxflashxxx collected [ 0,48 $ ]
+
+
+
+#Game No : 474477902
+***** 888poker Hand History for Game 474477902 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:40:17
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,90 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,87 $ )
+Seat 4: Sirop_DNR ( 3,85 $ )
+Seat 6: sundwig ( 4,21 $ )
+Seat 7: xxflashxxx ( 1,27 $ )
+Seat 9: Msigo_ ( 2,39 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+urbanmag posts small blind [0,01 $]
+never24bluff posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 2Kreuz ]
+StaLTrident folds
+Sirop_DNR folds
+sundwig raises [0,06 $]
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+** Summary **
+sundwig collected [ 0,05 $ ]
+
+
+
+#Game No : 474477909
+***** 888poker Hand History for Game 474477909 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:40:37
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,89 $ )
+Seat 2: never24bluff ( 0,72 $ )
+Seat 3: StaLTrident ( 1,87 $ )
+Seat 4: Sirop_DNR ( 3,85 $ )
+Seat 6: sundwig ( 4,24 $ )
+Seat 7: xxflashxxx ( 1,27 $ )
+Seat 9: Msigo_ ( 2,39 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+never24bluff posts small blind [0,01 $]
+StaLTrident posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 10Pik ]
+Sirop_DNR raises [0,06 $]
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+** Summary **
+Sirop_DNR collected [ 0,05 $ ]
+
+
+
+#Game No : 474477917
+***** 888poker Hand History for Game 474477917 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:40:57
+Table Vila Velha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,89 $ )
+Seat 2: never24bluff ( 0,71 $ )
+Seat 3: StaLTrident ( 1,85 $ )
+Seat 4: Sirop_DNR ( 3,88 $ )
+Seat 6: sundwig ( 4,24 $ )
+Seat 7: xxflashxxx ( 1,27 $ )
+Seat 9: Msigo_ ( 2,39 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+StaLTrident posts small blind [0,01 $]
+Sirop_DNR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, QKreuz ]
+sundwig folds
+xxflashxxx calls [0,02 $]
+Msigo_ raises [0,06 $]
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+xxflashxxx calls [0,04 $]
+** Dealing flop ** [ JKaro, 4Pik, QPik ]
+xxflashxxx checks
+Msigo_ bets [0,07 $]
+xxflashxxx folds
+** Summary **
+Msigo_ collected [ 0,15 $ ]
+
+
+
+#Game No : 474477927
+***** 888poker Hand History for Game 474477927 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:41:31
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 2 $ )
+Seat 2: never24bluff ( 0,71 $ )
+Seat 3: StaLTrident ( 1,84 $ )
+Seat 4: Sirop_DNR ( 3,86 $ )
+Seat 5: never13fold ( 2 $ )
+Seat 6: sundwig ( 4,24 $ )
+Seat 7: xxflashxxx ( 1,21 $ )
+Seat 9: Msigo_ ( 2,48 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+Sirop_DNR posts small blind [0,01 $]
+never13fold posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 5Herz ]
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff raises [0,04 $]
+StaLTrident folds
+Sirop_DNR folds
+never13fold folds
+** Summary **
+never24bluff did not show his hand
+never24bluff collected [ 0,05 $ ]
+
+
+
+#Game No : 474477938
+***** 888poker Hand History for Game 474477938 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:42:04
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 2 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,84 $ )
+Seat 4: Sirop_DNR ( 3,85 $ )
+Seat 5: never13fold ( 2 $ )
+Seat 6: sundwig ( 4,24 $ )
+Seat 7: xxflashxxx ( 1,21 $ )
+Seat 9: Msigo_ ( 2,48 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+never13fold posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 7Karo ]
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+never13fold raises [0,05 $]
+sundwig calls [0,04 $]
+** Dealing flop ** [ JPik, 7Kreuz, 7Pik ]
+never13fold bets [0,07 $]
+sundwig calls [0,07 $]
+** Dealing turn ** [ 8Kreuz ]
+never13fold checks
+sundwig bets [0,13 $]
+never13fold calls [0,13 $]
+** Dealing river ** [ APik ]
+never13fold bets [1,74 $]
+sundwig folds
+** Summary **
+never13fold did not show his hand
+never13fold collected [ 0,49 $ ]
+
+
+
+#Game No : 474477957
+***** 888poker Hand History for Game 474477957 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:42:58
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 2 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,84 $ )
+Seat 4: Sirop_DNR ( 3,85 $ )
+Seat 5: never13fold ( 2,23 $ )
+Seat 6: sundwig ( 3,98 $ )
+Seat 7: xxflashxxx ( 1,21 $ )
+Seat 9: Msigo_ ( 2,48 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+sundwig posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, QKaro ]
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+never13fold raises [0,06 $]
+sundwig raises [0,23 $]
+xxflashxxx folds
+never13fold folds
+** Summary **
+sundwig did not show his hand
+sundwig collected [ 0,14 $ ]
+
+
+
+#Game No : 474477966
+***** 888poker Hand History for Game 474477966 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:43:29
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 2 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,84 $ )
+Seat 4: Sirop_DNR ( 3,85 $ )
+Seat 5: never13fold ( 2,17 $ )
+Seat 6: sundwig ( 4,06 $ )
+Seat 7: xxflashxxx ( 1,19 $ )
+Seat 9: Msigo_ ( 2,48 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+xxflashxxx posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 8Pik ]
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+never13fold folds
+sundwig folds
+xxflashxxx folds
+** Summary **
+Msigo_ did not show his hand
+Msigo_ collected [ 0,03 $ ]
+
+
+
+#Game No : 474477972
+***** 888poker Hand History for Game 474477972 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:43:48
+Table Vila Velha 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 2 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,84 $ )
+Seat 4: Sirop_DNR ( 3,85 $ )
+Seat 5: never13fold ( 2,17 $ )
+Seat 6: sundwig ( 4,06 $ )
+Seat 7: xxflashxxx ( 1,18 $ )
+Seat 9: Msigo_ ( 2,49 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+Msigo_ posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 7Karo ]
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+never13fold raises [0,06 $]
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+** Summary **
+never13fold did not show his hand
+never13fold collected [ 0,05 $ ]
+
+
+
+#Game No : 474477979
+***** 888poker Hand History for Game 474477979 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:44:10
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 2 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,84 $ )
+Seat 4: Sirop_DNR ( 3,85 $ )
+Seat 5: never13fold ( 2,20 $ )
+Seat 6: sundwig ( 4,06 $ )
+Seat 7: xxflashxxx ( 1,18 $ )
+Seat 9: Msigo_ ( 2,48 $ )
+Seat 10: B2B_Suckouts ( 3,64 $ )
+B2B_Suckouts posts small blind [0,01 $]
+urbanmag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 7Pik ]
+never24bluff folds
+StaLTrident raises [0,04 $]
+Sirop_DNR calls [0,04 $]
+never13fold folds
+sundwig calls [0,04 $]
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+** Dealing flop ** [ AKreuz, QPik, 3Kreuz ]
+StaLTrident checks
+Sirop_DNR checks
+sundwig bets [0,07 $]
+StaLTrident folds
+Sirop_DNR folds
+** Summary **
+sundwig did not show his hand
+sundwig collected [ 0,15 $ ]
+
+
+
+#Game No : 474477991
+***** 888poker Hand History for Game 474477991 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:44:50
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,98 $ )
+Seat 2: never24bluff ( 0,74 $ )
+Seat 3: StaLTrident ( 1,80 $ )
+Seat 4: Sirop_DNR ( 3,81 $ )
+Seat 5: never13fold ( 2,20 $ )
+Seat 6: sundwig ( 4,17 $ )
+Seat 7: xxflashxxx ( 1,18 $ )
+Seat 9: Msigo_ ( 2,48 $ )
+Seat 10: B2B_Suckouts ( 3,63 $ )
+urbanmag posts small blind [0,01 $]
+never24bluff posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 5Kreuz ]
+StaLTrident folds
+Sirop_DNR folds
+never13fold folds
+sundwig folds
+xxflashxxx folds
+Msigo_ raises [0,06 $]
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+** Summary **
+Msigo_ did not show his hand
+Msigo_ collected [ 0,05 $ ]
+
+
+
+#Game No : 474478002
+***** 888poker Hand History for Game 474478002 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:45:16
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,97 $ )
+Seat 2: never24bluff ( 0,72 $ )
+Seat 3: StaLTrident ( 1,80 $ )
+Seat 4: Sirop_DNR ( 3,81 $ )
+Seat 5: never13fold ( 2,20 $ )
+Seat 6: sundwig ( 4,17 $ )
+Seat 7: xxflashxxx ( 1,18 $ )
+Seat 9: Msigo_ ( 2,51 $ )
+Seat 10: B2B_Suckouts ( 3,63 $ )
+never24bluff posts small blind [0,01 $]
+StaLTrident posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, QKreuz ]
+Sirop_DNR folds
+never13fold folds
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts raises [0,06 $]
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474478013
+***** 888poker Hand History for Game 474478013 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:45:52
+Table Vila Velha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,97 $ )
+Seat 2: never24bluff ( 0,71 $ )
+Seat 3: StaLTrident ( 1,78 $ )
+Seat 4: Sirop_DNR ( 3,81 $ )
+Seat 5: never13fold ( 2,20 $ )
+Seat 6: sundwig ( 4,17 $ )
+Seat 7: xxflashxxx ( 1,18 $ )
+Seat 9: Msigo_ ( 2,51 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+StaLTrident posts small blind [0,01 $]
+Sirop_DNR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 4Pik ]
+never13fold folds
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident raises [0,05 $]
+Sirop_DNR folds
+** Summary **
+StaLTrident did not show his hand
+StaLTrident collected [ 0,04 $ ]
+
+
+
+#Game No : 474478027
+***** 888poker Hand History for Game 474478027 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:46:28
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,97 $ )
+Seat 2: never24bluff ( 0,71 $ )
+Seat 3: StaLTrident ( 1,80 $ )
+Seat 4: Sirop_DNR ( 3,79 $ )
+Seat 5: never13fold ( 2,20 $ )
+Seat 6: sundwig ( 4,17 $ )
+Seat 7: xxflashxxx ( 1,18 $ )
+Seat 9: Msigo_ ( 2,51 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+Sirop_DNR posts small blind [0,01 $]
+never13fold posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 6Herz ]
+sundwig folds
+xxflashxxx folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR raises [0,04 $]
+never13fold folds
+** Summary **
+Sirop_DNR did not show his hand
+Sirop_DNR collected [ 0,04 $ ]
+
+
+
+#Game No : 474478037
+***** 888poker Hand History for Game 474478037 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:46:57
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,97 $ )
+Seat 2: never24bluff ( 0,71 $ )
+Seat 3: StaLTrident ( 1,80 $ )
+Seat 4: Sirop_DNR ( 3,81 $ )
+Seat 5: never13fold ( 2,18 $ )
+Seat 6: sundwig ( 4,17 $ )
+Seat 7: xxflashxxx ( 1,18 $ )
+Seat 9: Msigo_ ( 2,51 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+never13fold posts small blind [0,01 $]
+sundwig posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 6Kreuz ]
+xxflashxxx raises [0,04 $]
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+never13fold folds
+sundwig folds
+** Summary **
+xxflashxxx did not show his hand
+xxflashxxx collected [ 0,05 $ ]
+
+
+
+#Game No : 474478041
+***** 888poker Hand History for Game 474478041 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:47:13
+Table Vila Velha 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: urbanmag ( 1,97 $ )
+Seat 2: never24bluff ( 0,71 $ )
+Seat 3: StaLTrident ( 1,80 $ )
+Seat 4: Sirop_DNR ( 3,81 $ )
+Seat 5: never13fold ( 2,17 $ )
+Seat 6: sundwig ( 4,15 $ )
+Seat 7: xxflashxxx ( 1,21 $ )
+Seat 9: Msigo_ ( 2,51 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+sundwig posts small blind [0,01 $]
+xxflashxxx folds
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 5Pik ]
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR raises [0,05 $]
+never13fold raises [0,15 $]
+sundwig folds
+Msigo_ folds
+Sirop_DNR folds
+** Summary **
+never13fold collected [ 0,13 $ ]
+
+
+
+#Game No : 474478054
+***** 888poker Hand History for Game 474478054 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:47:44
+Table Vila Velha 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,97 $ )
+Seat 2: never24bluff ( 0,71 $ )
+Seat 3: StaLTrident ( 1,80 $ )
+Seat 4: Sirop_DNR ( 3,76 $ )
+Seat 5: never13fold ( 2,25 $ )
+Seat 6: sundwig ( 4,14 $ )
+Seat 9: Msigo_ ( 2,49 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+Msigo_ posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 10Pik ]
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+never13fold folds
+sundwig folds
+Msigo_ folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474478059
+***** 888poker Hand History for Game 474478059 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:48:01
+Table Vila Velha 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,97 $ )
+Seat 2: never24bluff ( 0,71 $ )
+Seat 3: StaLTrident ( 1,80 $ )
+Seat 4: Sirop_DNR ( 3,76 $ )
+Seat 5: never13fold ( 2,25 $ )
+Seat 6: sundwig ( 4,14 $ )
+Seat 9: Msigo_ ( 2,48 $ )
+Seat 10: B2B_Suckouts ( 3,67 $ )
+B2B_Suckouts posts small blind [0,01 $]
+urbanmag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 4Herz ]
+never24bluff folds
+StaLTrident folds
+Sirop_DNR raises [0,05 $]
+never13fold folds
+sundwig folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+** Summary **
+Sirop_DNR collected [ 0,05 $ ]
+
+
+
+#Game No : 474478060
+***** 888poker Hand History for Game 474478060 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:48:11
+Table Vila Velha 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,95 $ )
+Seat 2: never24bluff ( 0,71 $ )
+Seat 3: StaLTrident ( 1,80 $ )
+Seat 4: Sirop_DNR ( 3,79 $ )
+Seat 5: never13fold ( 2,25 $ )
+Seat 6: sundwig ( 4,14 $ )
+Seat 9: Msigo_ ( 2,48 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+urbanmag posts small blind [0,01 $]
+never24bluff posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 5Kreuz ]
+StaLTrident folds
+Sirop_DNR folds
+never13fold folds
+sundwig folds
+Msigo_ raises [0,06 $]
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+** Summary **
+Msigo_ collected [ 0,05 $ ]
+
+
+
+#Game No : 474478068
+***** 888poker Hand History for Game 474478068 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:48:31
+Table Vila Velha 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,94 $ )
+Seat 2: never24bluff ( 0,69 $ )
+Seat 3: StaLTrident ( 1,80 $ )
+Seat 4: Sirop_DNR ( 3,79 $ )
+Seat 5: never13fold ( 2,25 $ )
+Seat 6: sundwig ( 4,14 $ )
+Seat 9: Msigo_ ( 2,51 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+never24bluff posts small blind [0,01 $]
+StaLTrident posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 8Karo ]
+Sirop_DNR folds
+never13fold raises [0,06 $]
+sundwig folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+** Summary **
+never13fold collected [ 0,05 $ ]
+
+
+
+#Game No : 474478076
+***** 888poker Hand History for Game 474478076 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:48:52
+Table Vila Velha 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,94 $ )
+Seat 2: never24bluff ( 0,68 $ )
+Seat 3: StaLTrident ( 1,78 $ )
+Seat 4: Sirop_DNR ( 3,79 $ )
+Seat 5: never13fold ( 2,28 $ )
+Seat 6: sundwig ( 4,14 $ )
+Seat 9: Msigo_ ( 2,51 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+StaLTrident posts small blind [0,01 $]
+Sirop_DNR posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 6Pik ]
+never13fold folds
+sundwig folds
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag raises [0,06 $]
+never24bluff calls [0,06 $]
+StaLTrident folds
+Sirop_DNR folds
+** Dealing flop ** [ 4Herz, 8Pik, 3Karo ]
+urbanmag bets [0,08 $]
+never24bluff calls [0,08 $]
+** Dealing turn ** [ QHerz ]
+urbanmag checks
+never24bluff bets [0,15 $]
+urbanmag folds
+** Summary **
+never24bluff collected [ 0,30 $ ]
+
+
+
+#Game No : 474478092
+***** 888poker Hand History for Game 474478092 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:49:43
+Table Vila Velha 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: urbanmag ( 1,80 $ )
+Seat 2: never24bluff ( 0,84 $ )
+Seat 3: StaLTrident ( 1,77 $ )
+Seat 4: Sirop_DNR ( 3,77 $ )
+Seat 5: never13fold ( 2,28 $ )
+Seat 9: Msigo_ ( 2,51 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+Sirop_DNR posts small blind [0,01 $]
+never13fold posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 9Herz ]
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag raises [0,06 $]
+never24bluff folds
+StaLTrident folds
+Sirop_DNR folds
+never13fold calls [0,04 $]
+** Dealing flop ** [ QKreuz, 5Herz, KKaro ]
+never13fold checks
+urbanmag bets [0,08 $]
+never13fold folds
+** Summary **
+urbanmag collected [ 0,13 $ ]
+
+
+
+#Game No : 474478104
+***** 888poker Hand History for Game 474478104 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 10:50:16
+Table Vila Velha 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: urbanmag ( 1,87 $ )
+Seat 2: never24bluff ( 0,84 $ )
+Seat 3: StaLTrident ( 1,77 $ )
+Seat 4: Sirop_DNR ( 3,76 $ )
+Seat 5: never13fold ( 2,22 $ )
+Seat 6: rojser ( 2 $ )
+Seat 9: Msigo_ ( 2,51 $ )
+Seat 10: B2B_Suckouts ( 3,66 $ )
+never13fold posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 8Karo ]
+Msigo_ folds
+B2B_Suckouts folds
+urbanmag folds
+never24bluff folds
+StaLTrident folds
+Sirop_DNR raises [0,05 $]
+never13fold folds
+rojser calls [0,03 $]
+** Dealing flop ** [ 5Kreuz, JKreuz, APik ]
+rojser checks
+Sirop_DNR bets [0,04 $]
+rojser calls [0,04 $]
+** Dealing turn ** [ QKaro ]
+rojser checks
+Sirop_DNR bets [0,19 $]
+rojser calls [0,19 $]
+** Dealing river ** [ JPik ]
+rojser checks
+Sirop_DNR bets [0,57 $]
+rojser calls [0,57 $]
+** Summary **
+Sirop_DNR shows [ 10Pik, KPik ]
+rojser shows [ JHerz, QKreuz ]
+rojser collected [ 1,61 $ ]
+
+
+
