@@ -1,0 +1,1162 @@
+#Game No : 527769933
+***** 888poker Hand History for Game 527769933 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:47:33
+Table Terni 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Lantal14 ( 0,57 $ )
+Seat 6: volodymir57 ( 0,62 $ )
+Seat 7: JeggerI ( 2,10 $ )
+Seat 9: B2B_Suckouts ( 2 $ )
+Seat 10: taiga59 ( 1,70 $ )
+JeggerI posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+taiga59 folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, JKreuz ]
+Lantal14 calls [0,02 $]
+volodymir57 calls [0,02 $]
+JeggerI calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ KKreuz, 10Pik, QKreuz ]
+JeggerI checks
+B2B_Suckouts bets [0,02 $]
+Lantal14 calls [0,02 $]
+volodymir57 calls [0,02 $]
+JeggerI calls [0,02 $]
+** Dealing turn ** [ 7Herz ]
+JeggerI checks
+B2B_Suckouts checks
+Lantal14 checks
+volodymir57 checks
+** Dealing river ** [ 9Pik ]
+JeggerI checks
+B2B_Suckouts bets [0,10 $]
+Lantal14 folds
+volodymir57 folds
+JeggerI folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 527769978
+***** 888poker Hand History for Game 527769978 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:49:00
+Table Terni 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: Lantal14 ( 0,53 $ )
+Seat 6: volodymir57 ( 0,58 $ )
+Seat 7: JeggerI ( 2,06 $ )
+Seat 9: B2B_Suckouts ( 2,11 $ )
+Seat 10: taiga59 ( 1,70 $ )
+B2B_Suckouts posts small blind [0,01 $]
+taiga59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 3Herz ]
+Lantal14 folds
+volodymir57 folds
+JeggerI raises [0,04 $]
+B2B_Suckouts folds
+taiga59 folds
+** Summary **
+JeggerI collected [ 0,05 $ ]
+
+
+
+#Game No : 527769992
+***** 888poker Hand History for Game 527769992 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:49:28
+Table Terni 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 5
+Seat 1: Lantal14 ( 0,53 $ )
+Seat 6: volodymir57 ( 0,58 $ )
+Seat 7: JeggerI ( 2,09 $ )
+Seat 9: B2B_Suckouts ( 2,10 $ )
+Seat 10: taiga59 ( 1,68 $ )
+taiga59 posts small blind [0,01 $]
+Lantal14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 5Herz ]
+volodymir57 calls [0,02 $]
+JeggerI raises [0,06 $]
+B2B_Suckouts folds
+taiga59 folds
+Lantal14 folds
+volodymir57 calls [0,04 $]
+** Dealing flop ** [ 9Karo, 5Karo, KHerz ]
+volodymir57 checks
+JeggerI bets [0,10 $]
+volodymir57 calls [0,10 $]
+** Dealing turn ** [ JPik ]
+volodymir57 checks
+JeggerI bets [0,25 $]
+volodymir57 calls [0,25 $]
+** Dealing river ** [ 2Herz ]
+volodymir57 checks
+JeggerI bets [0,20 $]
+volodymir57 calls [0,17 $]
+** Summary **
+volodymir57 shows [ 8Karo, JKaro ]
+JeggerI shows [ JHerz, KKaro ]
+JeggerI collected [ 1,12 $ ]
+
+
+
+#Game No : 527770040
+***** 888poker Hand History for Game 527770040 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:50:58
+Table Terni 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: Lantal14 ( 0,51 $ )
+Seat 2: kamenk ( 2 $ )
+Seat 4: Crazyace1976 ( 2 $ )
+Seat 7: JeggerI ( 2,63 $ )
+Seat 9: B2B_Suckouts ( 2,10 $ )
+Seat 10: taiga59 ( 1,67 $ )
+Lantal14 posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+Crazyace1976 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 4Kreuz ]
+Crazyace1976 checks
+JeggerI folds
+B2B_Suckouts raises [0,06 $]
+taiga59 folds
+Lantal14 folds
+kamenk raises [0,20 $]
+Crazyace1976 folds
+B2B_Suckouts folds
+** Summary **
+kamenk collected [ 0,15 $ ]
+
+
+
+#Game No : 527770065
+***** 888poker Hand History for Game 527770065 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:51:48
+Table Terni 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Lantal14 ( 0,50 $ )
+Seat 2: kamenk ( 2,09 $ )
+Seat 3: NL_OP ( 2 $ )
+Seat 4: Crazyace1976 ( 1,98 $ )
+Seat 7: JeggerI ( 2,63 $ )
+Seat 9: B2B_Suckouts ( 2,04 $ )
+Seat 10: taiga59 ( 1,67 $ )
+kamenk posts small blind [0,01 $]
+NL_OP posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, QKaro ]
+Crazyace1976 folds
+JeggerI folds
+B2B_Suckouts folds
+taiga59 folds
+Lantal14 folds
+kamenk raises [0,03 $]
+NL_OP folds
+** Summary **
+kamenk collected [ 0,04 $ ]
+
+
+
+#Game No : 527770083
+***** 888poker Hand History for Game 527770083 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:52:30
+Table Terni 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Lantal14 ( 0,50 $ )
+Seat 2: kamenk ( 2,11 $ )
+Seat 3: NL_OP ( 2 $ )
+Seat 4: Crazyace1976 ( 1,98 $ )
+Seat 5: poprabbit ( 2 $ )
+Seat 7: JeggerI ( 2,63 $ )
+Seat 9: B2B_Suckouts ( 2,04 $ )
+Seat 10: taiga59 ( 1,67 $ )
+NL_OP posts small blind [0,01 $]
+Crazyace1976 posts big blind [0,02 $]
+poprabbit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 8Pik ]
+poprabbit checks
+JeggerI folds
+B2B_Suckouts folds
+taiga59 folds
+Lantal14 calls [0,02 $]
+kamenk folds
+NL_OP folds
+Crazyace1976 checks
+** Dealing flop ** [ 7Kreuz, 3Herz, 5Kreuz ]
+Crazyace1976 bets [0,04 $]
+poprabbit calls [0,04 $]
+Lantal14 calls [0,04 $]
+** Dealing turn ** [ AHerz ]
+Crazyace1976 bets [0,04 $]
+poprabbit folds
+Lantal14 calls [0,04 $]
+** Dealing river ** [ 6Herz ]
+Crazyace1976 bets [0,13 $]
+Lantal14 folds
+** Summary **
+Crazyace1976 collected [ 0,26 $ ]
+
+
+
+#Game No : 527770126
+***** 888poker Hand History for Game 527770126 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:53:53
+Table Terni 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Lantal14 ( 0,40 $ )
+Seat 2: kamenk ( 2,11 $ )
+Seat 3: NL_OP ( 2 $ )
+Seat 4: Crazyace1976 ( 2,14 $ )
+Seat 5: poprabbit ( 1,94 $ )
+Seat 7: JeggerI ( 2,63 $ )
+Seat 9: B2B_Suckouts ( 2,04 $ )
+Seat 10: taiga59 ( 1,67 $ )
+Crazyace1976 posts small blind [0,01 $]
+poprabbit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 6Karo ]
+JeggerI folds
+B2B_Suckouts raises [0,06 $]
+taiga59 folds
+Lantal14 folds
+kamenk calls [0,06 $]
+NL_OP folds
+Crazyace1976 folds
+poprabbit calls [0,04 $]
+** Dealing flop ** [ AKaro, 10Kreuz, 6Kreuz ]
+poprabbit checks
+B2B_Suckouts bets [0,06 $]
+kamenk raises [0,12 $]
+poprabbit calls [0,12 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing turn ** [ 3Karo ]
+poprabbit checks
+B2B_Suckouts bets [0,27 $]
+kamenk calls [0,27 $]
+poprabbit calls [0,27 $]
+** Dealing river ** [ KHerz ]
+poprabbit checks
+B2B_Suckouts bets [0,44 $]
+kamenk calls [0,44 $]
+poprabbit calls [0,44 $]
+** Summary **
+B2B_Suckouts shows [ 6Herz, 6Karo ]
+kamenk mucks [ AHerz, JKaro ]
+poprabbit mucks [ 10Karo, KKaro ]
+B2B_Suckouts collected [ 2,52 $ ]
+
+
+
+#Game No : 527770181
+***** 888poker Hand History for Game 527770181 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:55:19
+Table Terni 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Lantal14 ( 0,40 $ )
+Seat 2: kamenk ( 1,22 $ )
+Seat 3: NL_OP ( 2 $ )
+Seat 4: Crazyace1976 ( 2,13 $ )
+Seat 5: poprabbit ( 1,05 $ )
+Seat 6: Meepsgreen ( 0,80 $ )
+Seat 7: JeggerI ( 2,63 $ )
+Seat 9: B2B_Suckouts ( 3,67 $ )
+Seat 10: taiga59 ( 1,67 $ )
+poprabbit posts small blind [0,01 $]
+Meepsgreen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 9Herz ]
+JeggerI folds
+B2B_Suckouts folds
+taiga59 folds
+Lantal14 folds
+kamenk raises [0,08 $]
+NL_OP calls [0,08 $]
+Crazyace1976 calls [0,08 $]
+poprabbit folds
+Meepsgreen folds
+** Dealing flop ** [ 4Herz, APik, 6Kreuz ]
+kamenk bets [0,12 $]
+NL_OP folds
+Crazyace1976 folds
+** Summary **
+kamenk did not show his hand
+kamenk collected [ 0,26 $ ]
+
+
+
+#Game No : 527770214
+***** 888poker Hand History for Game 527770214 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:56:23
+Table Terni 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Lantal14 ( 0,40 $ )
+Seat 2: kamenk ( 1,40 $ )
+Seat 3: NL_OP ( 2 $ )
+Seat 4: Crazyace1976 ( 2,05 $ )
+Seat 5: poprabbit ( 1,04 $ )
+Seat 6: Meepsgreen ( 0,78 $ )
+Seat 7: JeggerI ( 2,63 $ )
+Seat 9: B2B_Suckouts ( 3,67 $ )
+Seat 10: taiga59 ( 1,67 $ )
+Meepsgreen posts small blind [0,01 $]
+JeggerI folds
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 7Pik ]
+taiga59 raises [0,04 $]
+Lantal14 folds
+kamenk folds
+NL_OP folds
+Crazyace1976 raises [0,06 $]
+poprabbit folds
+Meepsgreen folds
+B2B_Suckouts calls [0,04 $]
+taiga59 calls [0,02 $]
+** Dealing flop ** [ KKaro, 8Kreuz, 3Karo ]
+B2B_Suckouts bets [0,06 $]
+taiga59 calls [0,06 $]
+Crazyace1976 raises [0,12 $]
+B2B_Suckouts folds
+taiga59 calls [0,06 $]
+** Dealing turn ** [ 9Karo ]
+taiga59 checks
+Crazyace1976 checks
+** Dealing river ** [ 4Kreuz ]
+taiga59 bets [1,49 $]
+Crazyace1976 calls [1,49 $]
+** Summary **
+Crazyace1976 shows [ QKreuz, KKreuz ]
+taiga59 shows [ 7Karo, 8Karo ]
+taiga59 collected [ 3,26 $ ]
+
+
+
+#Game No : 527770260
+***** 888poker Hand History for Game 527770260 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:57:30
+Table Terni 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Lantal14 ( 0,40 $ )
+Seat 2: kamenk ( 1,40 $ )
+Seat 3: NL_OP ( 2 $ )
+Seat 4: Crazyace1976 ( 0,38 $ )
+Seat 5: poprabbit ( 1,04 $ )
+Seat 6: Meepsgreen ( 0,77 $ )
+Seat 9: B2B_Suckouts ( 3,55 $ )
+Seat 10: taiga59 ( 3,26 $ )
+B2B_Suckouts posts small blind [0,01 $]
+taiga59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 10Kreuz ]
+Lantal14 folds
+kamenk folds
+NL_OP folds
+Crazyace1976 folds
+poprabbit folds
+Meepsgreen folds
+B2B_Suckouts folds
+** Summary **
+taiga59 collected [ 0,03 $ ]
+
+
+
+#Game No : 527770269
+***** 888poker Hand History for Game 527770269 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:57:47
+Table Terni 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Lantal14 ( 0,40 $ )
+Seat 2: kamenk ( 1,40 $ )
+Seat 3: NL_OP ( 2 $ )
+Seat 4: Crazyace1976 ( 0,38 $ )
+Seat 5: poprabbit ( 1,04 $ )
+Seat 6: Meepsgreen ( 0,77 $ )
+Seat 9: B2B_Suckouts ( 3,54 $ )
+Seat 10: taiga59 ( 3,27 $ )
+taiga59 posts small blind [0,01 $]
+Lantal14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 2Karo ]
+kamenk folds
+NL_OP raises [0,06 $]
+Crazyace1976 folds
+poprabbit folds
+Meepsgreen folds
+B2B_Suckouts folds
+taiga59 folds
+Lantal14 folds
+** Summary **
+NL_OP collected [ 0,05 $ ]
+
+
+
+#Game No : 527770283
+***** 888poker Hand History for Game 527770283 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:58:07
+Table Terni 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Lantal14 ( 0,38 $ )
+Seat 2: kamenk ( 1,40 $ )
+Seat 3: NL_OP ( 2,03 $ )
+Seat 4: Crazyace1976 ( 0,38 $ )
+Seat 5: poprabbit ( 1,04 $ )
+Seat 6: Meepsgreen ( 0,77 $ )
+Seat 9: B2B_Suckouts ( 3,54 $ )
+Seat 10: taiga59 ( 3,26 $ )
+Lantal14 posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 10Pik ]
+NL_OP folds
+Crazyace1976 folds
+poprabbit raises [0,04 $]
+Meepsgreen folds
+B2B_Suckouts calls [0,04 $]
+taiga59 folds
+Lantal14 calls [0,03 $]
+kamenk folds
+** Dealing flop ** [ 3Karo, QKaro, 4Herz ]
+Lantal14 checks
+poprabbit checks
+B2B_Suckouts bets [0,07 $]
+Lantal14 calls [0,07 $]
+poprabbit folds
+** Dealing turn ** [ 5Karo ]
+Lantal14 checks
+B2B_Suckouts checks
+** Dealing river ** [ 8Herz ]
+Lantal14 checks
+B2B_Suckouts checks
+** Summary **
+Lantal14 shows [ AKreuz, 5Kreuz ]
+B2B_Suckouts shows [ QPik, 10Pik ]
+B2B_Suckouts collected [ 0,27 $ ]
+
+
+
+#Game No : 527770327
+***** 888poker Hand History for Game 527770327 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:59:20
+Table Terni 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Lantal14 ( 0,27 $ )
+Seat 2: kamenk ( 1,38 $ )
+Seat 3: NL_OP ( 2,03 $ )
+Seat 5: poprabbit ( 1 $ )
+Seat 6: Meepsgreen ( 0,77 $ )
+Seat 9: B2B_Suckouts ( 3,70 $ )
+Seat 10: taiga59 ( 3,26 $ )
+kamenk posts small blind [0,01 $]
+NL_OP posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, APik ]
+poprabbit folds
+Meepsgreen folds
+B2B_Suckouts folds
+taiga59 raises [0,05 $]
+Lantal14 folds
+kamenk folds
+NL_OP raises [0,16 $]
+taiga59 folds
+** Summary **
+NL_OP collected [ 0,11 $ ]
+
+
+
+#Game No : 527770350
+***** 888poker Hand History for Game 527770350 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 17:59:57
+Table Terni 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Lantal14 ( 0,27 $ )
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,09 $ )
+Seat 4: IIIpil ( 1,20 $ )
+Seat 5: poprabbit ( 1 $ )
+Seat 6: Meepsgreen ( 0,77 $ )
+Seat 9: B2B_Suckouts ( 3,70 $ )
+Seat 10: taiga59 ( 3,21 $ )
+NL_OP posts small blind [0,01 $]
+IIIpil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 7Karo ]
+poprabbit folds
+Meepsgreen calls [0,02 $]
+B2B_Suckouts folds
+taiga59 folds
+Lantal14 folds
+kamenk folds
+NL_OP folds
+IIIpil checks
+** Dealing flop ** [ 3Pik, 5Herz, JPik ]
+IIIpil checks
+Meepsgreen checks
+** Dealing turn ** [ AHerz ]
+IIIpil bets [0,03 $]
+Meepsgreen calls [0,03 $]
+** Dealing river ** [ KPik ]
+IIIpil bets [0,05 $]
+Meepsgreen calls [0,05 $]
+** Summary **
+IIIpil shows [ 8Kreuz, APik ]
+Meepsgreen mucks [ 2Herz, KHerz ]
+IIIpil collected [ 0,20 $ ]
+
+
+
+#Game No : 527770384
+***** 888poker Hand History for Game 527770384 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:00:52
+Table Terni 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Lantal14 ( 0,27 $ )
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,08 $ )
+Seat 4: IIIpil ( 1,30 $ )
+Seat 5: poprabbit ( 1 $ )
+Seat 6: Meepsgreen ( 0,67 $ )
+Seat 9: B2B_Suckouts ( 3,70 $ )
+Seat 10: taiga59 ( 3,21 $ )
+IIIpil posts small blind [0,01 $]
+poprabbit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 2Karo ]
+Meepsgreen folds
+B2B_Suckouts folds
+taiga59 folds
+Lantal14 folds
+kamenk folds
+NL_OP raises [0,05 $]
+IIIpil folds
+poprabbit folds
+** Summary **
+NL_OP collected [ 0,05 $ ]
+
+
+
+#Game No : 527770396
+***** 888poker Hand History for Game 527770396 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:01:18
+Table Terni 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Lantal14 ( 0,27 $ )
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,11 $ )
+Seat 4: IIIpil ( 1,29 $ )
+Seat 5: poprabbit ( 0,98 $ )
+Seat 6: Meepsgreen ( 0,67 $ )
+Seat 9: B2B_Suckouts ( 3,70 $ )
+Seat 10: taiga59 ( 3,21 $ )
+poprabbit posts small blind [0,01 $]
+Meepsgreen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 3Kreuz ]
+B2B_Suckouts folds
+taiga59 folds
+Lantal14 folds
+kamenk folds
+NL_OP raises [0,05 $]
+IIIpil folds
+poprabbit folds
+Meepsgreen calls [0,03 $]
+** Dealing flop ** [ 2Herz, JKreuz, JHerz ]
+Meepsgreen checks
+NL_OP bets [0,06 $]
+Meepsgreen folds
+** Summary **
+NL_OP collected [ 0,11 $ ]
+
+
+
+#Game No : 527770418
+***** 888poker Hand History for Game 527770418 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:01:49
+Table Terni 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Lantal14 ( 0,27 $ )
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,17 $ )
+Seat 4: IIIpil ( 1,29 $ )
+Seat 5: poprabbit ( 0,97 $ )
+Seat 6: Meepsgreen ( 0,62 $ )
+Seat 7: getterrrr ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,70 $ )
+Seat 10: taiga59 ( 3,21 $ )
+Meepsgreen posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 4Karo ]
+B2B_Suckouts folds
+taiga59 folds
+Lantal14 folds
+kamenk raises [0,06 $]
+NL_OP folds
+IIIpil folds
+poprabbit folds
+Meepsgreen folds
+getterrrr folds
+** Summary **
+kamenk did not show his hand
+kamenk collected [ 0,05 $ ]
+
+
+
+#Game No : 527770440
+***** 888poker Hand History for Game 527770440 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:02:31
+Table Terni 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Lantal14 ( 0,27 $ )
+Seat 2: kamenk ( 1,40 $ )
+Seat 3: NL_OP ( 2,17 $ )
+Seat 4: IIIpil ( 1,29 $ )
+Seat 5: poprabbit ( 0,97 $ )
+Seat 6: Meepsgreen ( 0,61 $ )
+Seat 7: getterrrr ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,70 $ )
+Seat 10: taiga59 ( 3,21 $ )
+getterrrr posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, AHerz ]
+taiga59 folds
+Lantal14 folds
+kamenk folds
+NL_OP raises [0,06 $]
+IIIpil folds
+poprabbit calls [0,06 $]
+Meepsgreen calls [0,06 $]
+getterrrr folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 9Herz, KKaro, 6Herz ]
+B2B_Suckouts checks
+NL_OP checks
+poprabbit bets [0,08 $]
+Meepsgreen calls [0,08 $]
+B2B_Suckouts folds
+NL_OP raises [0,24 $]
+poprabbit calls [0,16 $]
+Meepsgreen calls [0,16 $]
+** Dealing turn ** [ 4Pik ]
+NL_OP bets [0,68 $]
+poprabbit folds
+Meepsgreen calls [0,31 $]
+** Dealing river ** [ 10Kreuz ]
+** Summary **
+NL_OP shows [ AKreuz, KPik ]
+Meepsgreen shows [ 5Herz, 10Herz ]
+NL_OP collected [ 1,50 $ ]
+
+
+
+#Game No : 527770494
+***** 888poker Hand History for Game 527770494 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:03:53
+Table Terni 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Lantal14 ( 0,27 $ )
+Seat 2: kamenk ( 1,40 $ )
+Seat 3: NL_OP ( 3,06 $ )
+Seat 4: IIIpil ( 1,29 $ )
+Seat 5: poprabbit ( 0,67 $ )
+Seat 7: getterrrr ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,64 $ )
+Seat 10: taiga59 ( 3,21 $ )
+B2B_Suckouts posts small blind [0,01 $]
+taiga59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 6Kreuz ]
+Lantal14 folds
+kamenk folds
+NL_OP folds
+IIIpil folds
+poprabbit folds
+getterrrr raises [0,06 $]
+B2B_Suckouts calls [0,05 $]
+taiga59 calls [0,04 $]
+** Dealing flop ** [ 5Herz, 4Kreuz, 6Pik ]
+B2B_Suckouts bets [0,09 $]
+taiga59 folds
+getterrrr folds
+** Summary **
+B2B_Suckouts collected [ 0,17 $ ]
+
+
+
+#Game No : 527770532
+***** 888poker Hand History for Game 527770532 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:04:49
+Table Terni 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 2: kamenk ( 1,40 $ )
+Seat 3: NL_OP ( 3,06 $ )
+Seat 4: IIIpil ( 1,29 $ )
+Seat 5: poprabbit ( 0,67 $ )
+Seat 6: Meepsgreen ( 1,60 $ )
+Seat 7: getterrrr ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,75 $ )
+Seat 10: taiga59 ( 3,15 $ )
+taiga59 posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 7Pik ]
+NL_OP raises [0,06 $]
+IIIpil folds
+poprabbit folds
+Meepsgreen folds
+getterrrr folds
+B2B_Suckouts folds
+taiga59 calls [0,05 $]
+kamenk folds
+** Dealing flop ** [ KHerz, 4Pik, 10Pik ]
+taiga59 bets [2,10 $]
+NL_OP folds
+** Summary **
+taiga59 collected [ 0,14 $ ]
+
+
+
+#Game No : 527770559
+***** 888poker Hand History for Game 527770559 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:05:33
+Table Terni 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: kamenk ( 1,38 $ )
+Seat 3: NL_OP ( 3 $ )
+Seat 4: IIIpil ( 1,29 $ )
+Seat 5: poprabbit ( 0,67 $ )
+Seat 6: Meepsgreen ( 1,60 $ )
+Seat 7: getterrrr ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,75 $ )
+Seat 10: taiga59 ( 3,23 $ )
+kamenk posts small blind [0,01 $]
+NL_OP posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, QKaro ]
+IIIpil folds
+poprabbit folds
+Meepsgreen folds
+getterrrr folds
+B2B_Suckouts folds
+taiga59 raises [0,05 $]
+kamenk folds
+NL_OP folds
+** Summary **
+taiga59 collected [ 0,05 $ ]
+
+
+
+#Game No : 527770573
+***** 888poker Hand History for Game 527770573 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:05:56
+Table Terni 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,98 $ )
+Seat 4: IIIpil ( 1,29 $ )
+Seat 5: poprabbit ( 0,67 $ )
+Seat 6: Meepsgreen ( 1,60 $ )
+Seat 7: getterrrr ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,75 $ )
+Seat 10: taiga59 ( 3,26 $ )
+NL_OP posts small blind [0,01 $]
+IIIpil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 3Pik ]
+poprabbit folds
+Meepsgreen folds
+getterrrr folds
+B2B_Suckouts folds
+taiga59 calls [0,02 $]
+kamenk folds
+NL_OP raises [0,07 $]
+IIIpil folds
+taiga59 calls [0,06 $]
+** Dealing flop ** [ 8Kreuz, 9Pik, 6Pik ]
+NL_OP checks
+taiga59 bets [0,09 $]
+NL_OP calls [0,09 $]
+** Dealing turn ** [ KKreuz ]
+NL_OP checks
+taiga59 checks
+** Dealing river ** [ 4Kreuz ]
+NL_OP checks
+taiga59 bets [0,24 $]
+NL_OP folds
+** Summary **
+taiga59 collected [ 0,34 $ ]
+
+
+
+#Game No : 527770623
+***** 888poker Hand History for Game 527770623 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:07:05
+Table Terni 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,81 $ )
+Seat 4: IIIpil ( 1,27 $ )
+Seat 5: poprabbit ( 0,67 $ )
+Seat 6: Meepsgreen ( 1,60 $ )
+Seat 7: getterrrr ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,75 $ )
+Seat 10: taiga59 ( 3,43 $ )
+IIIpil posts small blind [0,01 $]
+poprabbit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, KKaro ]
+Meepsgreen folds
+getterrrr folds
+B2B_Suckouts raises [0,06 $]
+taiga59 raises [0,16 $]
+kamenk folds
+NL_OP folds
+IIIpil folds
+poprabbit folds
+B2B_Suckouts calls [0,10 $]
+** Dealing flop ** [ 6Pik, 4Kreuz, QKaro ]
+B2B_Suckouts bets [0,17 $]
+taiga59 calls [0,17 $]
+** Dealing turn ** [ 2Herz ]
+B2B_Suckouts bets [0,34 $]
+taiga59 calls [0,34 $]
+** Dealing river ** [ 5Pik ]
+B2B_Suckouts checks
+taiga59 checks
+** Summary **
+B2B_Suckouts shows [ QKreuz, KKaro ]
+taiga59 shows [ KPik, KHerz ]
+taiga59 collected [ 1,29 $ ]
+
+
+
+#Game No : 527770659
+***** 888poker Hand History for Game 527770659 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:07:59
+Table Terni 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,81 $ )
+Seat 4: IIIpil ( 1,26 $ )
+Seat 5: poprabbit ( 0,65 $ )
+Seat 6: Meepsgreen ( 1,60 $ )
+Seat 7: getterrrr ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,08 $ )
+Seat 10: taiga59 ( 4,05 $ )
+poprabbit posts small blind [0,01 $]
+Meepsgreen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 8Pik ]
+getterrrr folds
+B2B_Suckouts folds
+taiga59 raises [0,05 $]
+kamenk folds
+NL_OP folds
+IIIpil folds
+poprabbit folds
+Meepsgreen calls [0,03 $]
+** Dealing flop ** [ JKaro, 6Pik, QKaro ]
+Meepsgreen checks
+taiga59 checks
+** Dealing turn ** [ 3Herz ]
+Meepsgreen checks
+taiga59 bets [0,10 $]
+Meepsgreen folds
+** Summary **
+taiga59 collected [ 0,11 $ ]
+
+
+
+#Game No : 527770716
+***** 888poker Hand History for Game 527770716 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:09:20
+Table Terni 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,81 $ )
+Seat 4: IIIpil ( 1,26 $ )
+Seat 5: poprabbit ( 0,64 $ )
+Seat 6: Meepsgreen ( 1,55 $ )
+Seat 7: getterrrr ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,08 $ )
+Seat 10: taiga59 ( 4,11 $ )
+Meepsgreen posts small blind [0,01 $]
+getterrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, KPik ]
+B2B_Suckouts folds
+taiga59 folds
+kamenk folds
+NL_OP folds
+IIIpil folds
+poprabbit folds
+Meepsgreen folds
+** Summary **
+getterrrr collected [ 0,03 $ ]
+
+
+
+#Game No : 527770736
+***** 888poker Hand History for Game 527770736 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:09:48
+Table Terni 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,81 $ )
+Seat 4: IIIpil ( 1,26 $ )
+Seat 5: poprabbit ( 0,64 $ )
+Seat 6: Meepsgreen ( 1,54 $ )
+Seat 7: getterrrr ( 2,01 $ )
+Seat 9: B2B_Suckouts ( 3,08 $ )
+Seat 10: taiga59 ( 4,11 $ )
+getterrrr posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 4Pik ]
+taiga59 folds
+kamenk folds
+NL_OP folds
+IIIpil folds
+poprabbit raises [0,04 $]
+Meepsgreen folds
+getterrrr folds
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 10Pik, 7Pik, 7Kreuz ]
+B2B_Suckouts bets [0,10 $]
+poprabbit calls [0,10 $]
+** Dealing turn ** [ 6Karo ]
+B2B_Suckouts bets [0,26 $]
+poprabbit calls [0,26 $]
+** Dealing river ** [ JPik ]
+B2B_Suckouts bets [0,24 $]
+poprabbit calls [0,24 $]
+** Summary **
+poprabbit shows [ JKreuz, AKaro ]
+B2B_Suckouts shows [ APik, 4Pik ]
+B2B_Suckouts collected [ 1,21 $ ]
+
+
+
+#Game No : 527770785
+***** 888poker Hand History for Game 527770785 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:11:11
+Table Terni 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,81 $ )
+Seat 4: IIIpil ( 1,26 $ )
+Seat 6: Meepsgreen ( 1,54 $ )
+Seat 7: getterrrr ( 2 $ )
+Seat 9: B2B_Suckouts ( 3,65 $ )
+Seat 10: taiga59 ( 4,11 $ )
+B2B_Suckouts posts small blind [0,01 $]
+taiga59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 4Pik ]
+kamenk folds
+NL_OP folds
+IIIpil folds
+Meepsgreen calls [0,02 $]
+getterrrr raises [0,08 $]
+B2B_Suckouts folds
+taiga59 folds
+Meepsgreen folds
+** Summary **
+getterrrr collected [ 0,07 $ ]
+
+
+
+#Game No : 527770809
+***** 888poker Hand History for Game 527770809 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:11:40
+Table Terni 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: kamenk ( 1,37 $ )
+Seat 3: NL_OP ( 2,81 $ )
+Seat 4: IIIpil ( 1,26 $ )
+Seat 6: Meepsgreen ( 1,52 $ )
+Seat 7: getterrrr ( 2,05 $ )
+Seat 9: B2B_Suckouts ( 3,64 $ )
+Seat 10: taiga59 ( 4,09 $ )
+taiga59 posts small blind [0,01 $]
+kamenk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 3Pik ]
+NL_OP folds
+IIIpil folds
+Meepsgreen calls [0,02 $]
+getterrrr folds
+B2B_Suckouts folds
+taiga59 folds
+kamenk checks
+** Dealing flop ** [ 4Herz, 3Herz, APik ]
+kamenk checks
+Meepsgreen bets [0,02 $]
+kamenk calls [0,02 $]
+** Dealing turn ** [ 5Karo ]
+kamenk bets [0,10 $]
+Meepsgreen folds
+** Summary **
+kamenk collected [ 0,09 $ ]
+
+
+
+#Game No : 527770859
+***** 888poker Hand History for Game 527770859 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:12:40
+Table Terni 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: kamenk ( 1,42 $ )
+Seat 3: NL_OP ( 2,81 $ )
+Seat 4: IIIpil ( 1,26 $ )
+Seat 6: Meepsgreen ( 1,48 $ )
+Seat 7: getterrrr ( 2,05 $ )
+Seat 9: B2B_Suckouts ( 3,64 $ )
+Seat 10: taiga59 ( 4,08 $ )
+kamenk posts small blind [0,01 $]
+NL_OP posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, QPik ]
+IIIpil folds
+Meepsgreen raises [0,05 $]
+getterrrr folds
+B2B_Suckouts folds
+taiga59 folds
+kamenk folds
+NL_OP folds
+** Summary **
+Meepsgreen collected [ 0,05 $ ]
+
+
+
+#Game No : 527770870
+***** 888poker Hand History for Game 527770870 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:12:55
+Table Terni 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: kamenk ( 1,41 $ )
+Seat 3: NL_OP ( 2,79 $ )
+Seat 4: IIIpil ( 1,26 $ )
+Seat 6: Meepsgreen ( 1,51 $ )
+Seat 7: getterrrr ( 2,05 $ )
+Seat 9: B2B_Suckouts ( 3,64 $ )
+Seat 10: taiga59 ( 4,08 $ )
+NL_OP posts small blind [0,01 $]
+IIIpil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, QKreuz ]
+Meepsgreen folds
+getterrrr raises [0,06 $]
+B2B_Suckouts folds
+taiga59 folds
+kamenk folds
+NL_OP folds
+IIIpil folds
+** Summary **
+getterrrr collected [ 0,05 $ ]
+
+
+
+#Game No : 527770893
+***** 888poker Hand History for Game 527770893 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:13:22
+Table Terni 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: kamenk ( 1,41 $ )
+Seat 3: NL_OP ( 2,78 $ )
+Seat 4: IIIpil ( 1,24 $ )
+Seat 5: rojser ( 2 $ )
+Seat 6: Meepsgreen ( 1,51 $ )
+Seat 7: getterrrr ( 2,08 $ )
+Seat 9: B2B_Suckouts ( 3,64 $ )
+Seat 10: taiga59 ( 4,08 $ )
+IIIpil posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, AKreuz ]
+Meepsgreen folds
+getterrrr folds
+B2B_Suckouts folds
+taiga59 calls [0,02 $]
+kamenk folds
+NL_OP raises [0,08 $]
+IIIpil folds
+rojser folds
+taiga59 folds
+** Summary **
+NL_OP collected [ 0,07 $ ]
+
+
+
+#Game No : 527770928
+***** 888poker Hand History for Game 527770928 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 12 02 2020 18:14:17
+Table Terni 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: kamenk ( 1,41 $ )
+Seat 3: NL_OP ( 2,83 $ )
+Seat 4: IIIpil ( 1,23 $ )
+Seat 5: rojser ( 2 $ )
+Seat 6: Meepsgreen ( 1,51 $ )
+Seat 7: getterrrr ( 2,08 $ )
+Seat 9: B2B_Suckouts ( 3,64 $ )
+Seat 10: taiga59 ( 4,06 $ )
+rojser posts small blind [0,01 $]
+Meepsgreen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, AKreuz ]
+getterrrr folds
+B2B_Suckouts raises [0,06 $]
+taiga59 calls [0,06 $]
+kamenk folds
+NL_OP folds
+IIIpil folds
+rojser folds
+Meepsgreen calls [0,04 $]
+** Dealing flop ** [ 3Pik, 2Karo, 2Pik ]
+Meepsgreen bets [0,12 $]
+B2B_Suckouts folds
+taiga59 calls [0,12 $]
+** Dealing turn ** [ 8Herz ]
+Meepsgreen bets [0,28 $]
+taiga59 folds
+** Summary **
+Meepsgreen collected [ 0,41 $ ]
+
+
+
