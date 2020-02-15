@@ -1,0 +1,3604 @@
+#Game No : 631352034
+***** 888poker Hand History for Game 631352034 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:31:20
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Woffinden ( 2 $ )
+Seat 2: SiarhK ( 1,97 $ )
+Seat 3: Fritigern ( 2,41 $ )
+Seat 4: balwasik_19 ( 0,78 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,24 $ )
+Seat 7: yaponchikrus ( 1,95 $ )
+Seat 9: maximus981 ( 0,87 $ )
+Seat 10: OmgAKs ( 2,59 $ )
+OmgAKs posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 5Kreuz ]
+SiarhK raises [0,08 $]
+Fritigern calls [0,08 $]
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+Woffinden folds
+** Dealing flop ** [ QPik, 9Kreuz, 8Pik ]
+SiarhK checks
+Fritigern checks
+** Dealing turn ** [ 3Pik ]
+SiarhK bets [0,15 $]
+Fritigern folds
+** Summary **
+SiarhK did not show his hand
+SiarhK collected [ 0,20 $ ]
+
+
+
+#Game No : 631352062
+***** 888poker Hand History for Game 631352062 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:32:07
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Woffinden ( 2 $ )
+Seat 2: SiarhK ( 2,09 $ )
+Seat 3: Fritigern ( 2,33 $ )
+Seat 4: balwasik_19 ( 0,78 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,24 $ )
+Seat 7: yaponchikrus ( 1,95 $ )
+Seat 9: maximus981 ( 2 $ )
+Seat 10: OmgAKs ( 2,58 $ )
+Woffinden posts small blind [0,01 $]
+SiarhK posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, JHerz ]
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+Woffinden folds
+** Summary **
+SiarhK did not show his hand
+SiarhK collected [ 0,03 $ ]
+
+
+
+#Game No : 631352085
+***** 888poker Hand History for Game 631352085 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:32:46
+Table Kimberley 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Woffinden ( 2 $ )
+Seat 2: SiarhK ( 2,10 $ )
+Seat 3: Fritigern ( 2,33 $ )
+Seat 4: balwasik_19 ( 0,78 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,24 $ )
+Seat 7: yaponchikrus ( 1,95 $ )
+Seat 9: maximus981 ( 2 $ )
+Seat 10: OmgAKs ( 2,58 $ )
+SiarhK posts small blind [0,01 $]
+Fritigern posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 6Karo ]
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 calls [0,02 $]
+OmgAKs folds
+Woffinden folds
+SiarhK folds
+Fritigern checks
+** Dealing flop ** [ 9Pik, 4Kreuz, 10Karo ]
+Fritigern checks
+maximus981 checks
+** Dealing turn ** [ JKaro ]
+Fritigern checks
+maximus981 bets [0,05 $]
+Fritigern folds
+** Summary **
+maximus981 did not show his hand
+maximus981 collected [ 0,05 $ ]
+
+
+
+#Game No : 631352117
+***** 888poker Hand History for Game 631352117 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:33:30
+Table Kimberley 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Woffinden ( 2 $ )
+Seat 2: SiarhK ( 2,09 $ )
+Seat 3: Fritigern ( 2,31 $ )
+Seat 4: balwasik_19 ( 0,78 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,24 $ )
+Seat 7: yaponchikrus ( 1,95 $ )
+Seat 9: maximus981 ( 2,03 $ )
+Seat 10: OmgAKs ( 2,58 $ )
+Fritigern posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 3Pik ]
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus raises [0,06 $]
+maximus981 folds
+OmgAKs folds
+Woffinden folds
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+** Summary **
+yaponchikrus did not show his hand
+yaponchikrus collected [ 0,05 $ ]
+
+
+
+#Game No : 631352130
+***** 888poker Hand History for Game 631352130 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:33:52
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: Woffinden ( 2 $ )
+Seat 2: SiarhK ( 2,09 $ )
+Seat 3: Fritigern ( 2,30 $ )
+Seat 4: balwasik_19 ( 0,76 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,24 $ )
+Seat 7: yaponchikrus ( 1,98 $ )
+Seat 9: maximus981 ( 2,03 $ )
+Seat 10: OmgAKs ( 2,58 $ )
+balwasik_19 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 9Karo ]
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs raises [0,05 $]
+Woffinden folds
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+** Summary **
+OmgAKs did not show his hand
+OmgAKs collected [ 0,05 $ ]
+
+
+
+#Game No : 631352143
+***** 888poker Hand History for Game 631352143 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:34:20
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Woffinden ( 2 $ )
+Seat 2: SiarhK ( 2,09 $ )
+Seat 3: Fritigern ( 2,30 $ )
+Seat 4: balwasik_19 ( 0,75 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,24 $ )
+Seat 7: yaponchikrus ( 1,98 $ )
+Seat 9: maximus981 ( 2,03 $ )
+Seat 10: OmgAKs ( 2,61 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mikenfinley posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 7Kreuz ]
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+Woffinden folds
+SiarhK folds
+Fritigern raises [0,06 $]
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley calls [0,04 $]
+** Dealing flop ** [ JHerz, 2Karo, JKaro ]
+mikenfinley checks
+Fritigern checks
+** Dealing turn ** [ 6Kreuz ]
+mikenfinley bets [0,13 $]
+Fritigern folds
+** Summary **
+mikenfinley did not show his hand
+mikenfinley collected [ 0,13 $ ]
+
+
+
+#Game No : 631352167
+***** 888poker Hand History for Game 631352167 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:35:00
+Table Kimberley 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Woffinden ( 2 $ )
+Seat 2: SiarhK ( 2,09 $ )
+Seat 3: Fritigern ( 2,24 $ )
+Seat 4: balwasik_19 ( 0,75 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,31 $ )
+Seat 7: yaponchikrus ( 1,98 $ )
+Seat 9: maximus981 ( 2,03 $ )
+Seat 10: OmgAKs ( 2,61 $ )
+mikenfinley posts small blind [0,01 $]
+yaponchikrus posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, AKaro ]
+maximus981 folds
+OmgAKs raises [0,05 $]
+Woffinden folds
+SiarhK folds
+Fritigern calls [0,05 $]
+balwasik_19 folds
+B2B_Suckouts calls [0,05 $]
+mikenfinley folds
+yaponchikrus folds
+** Dealing flop ** [ 7Kreuz, 9Herz, 8Herz ]
+OmgAKs checks
+Fritigern bets [0,12 $]
+B2B_Suckouts folds
+OmgAKs folds
+** Summary **
+Fritigern did not show his hand
+Fritigern collected [ 0,17 $ ]
+
+
+
+#Game No : 631352196
+***** 888poker Hand History for Game 631352196 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:35:48
+Table Kimberley 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Woffinden ( 2 $ )
+Seat 2: SiarhK ( 2,09 $ )
+Seat 3: Fritigern ( 2,36 $ )
+Seat 4: balwasik_19 ( 0,75 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,30 $ )
+Seat 7: yaponchikrus ( 1,96 $ )
+Seat 9: maximus981 ( 2,03 $ )
+Seat 10: OmgAKs ( 2,56 $ )
+yaponchikrus posts small blind [0,01 $]
+maximus981 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 4Herz ]
+OmgAKs folds
+Woffinden folds
+SiarhK folds
+Fritigern raises [0,06 $]
+balwasik_19 calls [0,06 $]
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+** Dealing flop ** [ 7Kreuz, KKaro, 6Karo ]
+Fritigern checks
+balwasik_19 checks
+** Dealing turn ** [ 10Pik ]
+Fritigern bets [0,07 $]
+balwasik_19 calls [0,07 $]
+** Dealing river ** [ 2Kreuz ]
+Fritigern checks
+balwasik_19 checks
+** Summary **
+Fritigern shows [ AHerz, 10Herz ]
+balwasik_19 shows [ JHerz, KPik ]
+balwasik_19 collected [ 0,28 $ ]
+
+
+
+#Game No : 631352221
+***** 888poker Hand History for Game 631352221 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:36:45
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Woffinden ( 2 $ )
+Seat 2: SiarhK ( 2,09 $ )
+Seat 3: Fritigern ( 2,23 $ )
+Seat 4: balwasik_19 ( 0,90 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,30 $ )
+Seat 7: yaponchikrus ( 1,95 $ )
+Seat 9: maximus981 ( 2,01 $ )
+Seat 10: OmgAKs ( 2,56 $ )
+maximus981 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 3Pik ]
+Woffinden folds
+SiarhK folds
+Fritigern folds
+balwasik_19 calls [0,02 $]
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs checks
+** Dealing flop ** [ 10Pik, 4Kreuz, JPik ]
+OmgAKs checks
+balwasik_19 checks
+** Dealing turn ** [ 9Karo ]
+OmgAKs checks
+balwasik_19 bets [0,03 $]
+OmgAKs folds
+** Summary **
+balwasik_19 did not show his hand
+balwasik_19 collected [ 0,05 $ ]
+
+
+
+#Game No : 631352253
+***** 888poker Hand History for Game 631352253 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:37:44
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Woffinden ( 2 $ )
+Seat 2: SiarhK ( 2,09 $ )
+Seat 3: Fritigern ( 2,23 $ )
+Seat 4: balwasik_19 ( 0,93 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,30 $ )
+Seat 7: yaponchikrus ( 1,95 $ )
+Seat 9: maximus981 ( 2 $ )
+Seat 10: OmgAKs ( 2,54 $ )
+OmgAKs posts small blind [0,01 $]
+Woffinden folds
+SiarhK posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 3Kreuz ]
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus raises [0,06 $]
+maximus981 folds
+OmgAKs folds
+SiarhK folds
+** Summary **
+yaponchikrus collected [ 0,05 $ ]
+
+
+
+#Game No : 631352273
+***** 888poker Hand History for Game 631352273 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:38:18
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,07 $ )
+Seat 3: Fritigern ( 2,23 $ )
+Seat 4: balwasik_19 ( 0,93 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,30 $ )
+Seat 7: yaponchikrus ( 1,98 $ )
+Seat 9: maximus981 ( 2 $ )
+Seat 10: OmgAKs ( 2,53 $ )
+SiarhK posts small blind [0,01 $]
+Fritigern posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 5Kreuz ]
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs raises [0,04 $]
+SiarhK folds
+Fritigern calls [0,02 $]
+** Dealing flop ** [ 2Kreuz, 2Herz, QKaro ]
+Fritigern checks
+OmgAKs checks
+** Dealing turn ** [ 6Kreuz ]
+Fritigern bets [0,03 $]
+OmgAKs folds
+** Summary **
+Fritigern collected [ 0,09 $ ]
+
+
+
+#Game No : 631352303
+***** 888poker Hand History for Game 631352303 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:39:20
+Table Kimberley 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,06 $ )
+Seat 3: Fritigern ( 2,28 $ )
+Seat 4: balwasik_19 ( 0,93 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,30 $ )
+Seat 7: yaponchikrus ( 1,98 $ )
+Seat 9: maximus981 ( 2 $ )
+Seat 10: OmgAKs ( 2,49 $ )
+Fritigern posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, AKreuz ]
+B2B_Suckouts raises [0,06 $]
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+SiarhK calls [0,06 $]
+Fritigern folds
+balwasik_19 folds
+** Dealing flop ** [ 2Herz, 5Pik, 5Karo ]
+B2B_Suckouts checks
+SiarhK bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+SiarhK collected [ 0,15 $ ]
+
+
+
+#Game No : 631352336
+***** 888poker Hand History for Game 631352336 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:40:36
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,15 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 0,91 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,30 $ )
+Seat 7: yaponchikrus ( 1,98 $ )
+Seat 9: maximus981 ( 2 $ )
+Seat 10: OmgAKs ( 2,49 $ )
+balwasik_19 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, QKaro ]
+mikenfinley folds
+yaponchikrus raises [0,06 $]
+maximus981 folds
+OmgAKs folds
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ APik, 8Pik, 3Kreuz ]
+B2B_Suckouts checks
+yaponchikrus bets [0,08 $]
+B2B_Suckouts folds
+** Summary **
+yaponchikrus collected [ 0,13 $ ]
+
+
+
+#Game No : 631352363
+***** 888poker Hand History for Game 631352363 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:41:22
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,15 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 0,90 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,30 $ )
+Seat 7: yaponchikrus ( 2,05 $ )
+Seat 9: maximus981 ( 2 $ )
+Seat 10: OmgAKs ( 2,49 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mikenfinley posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, AHerz ]
+yaponchikrus raises [0,06 $]
+maximus981 folds
+OmgAKs folds
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+** Summary **
+yaponchikrus collected [ 0,05 $ ]
+
+
+
+#Game No : 631352374
+***** 888poker Hand History for Game 631352374 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:41:49
+Table Kimberley 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,15 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 0,90 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,28 $ )
+Seat 7: yaponchikrus ( 2,08 $ )
+Seat 9: maximus981 ( 2 $ )
+Seat 10: OmgAKs ( 2,49 $ )
+mikenfinley posts small blind [0,01 $]
+yaponchikrus posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 10Herz ]
+maximus981 folds
+OmgAKs raises [0,05 $]
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus calls [0,03 $]
+** Dealing flop ** [ 10Pik, QKaro, 5Karo ]
+yaponchikrus checks
+OmgAKs checks
+** Dealing turn ** [ AHerz ]
+yaponchikrus checks
+OmgAKs bets [0,08 $]
+yaponchikrus calls [0,08 $]
+** Dealing river ** [ 4Herz ]
+yaponchikrus checks
+OmgAKs checks
+** Summary **
+yaponchikrus shows [ APik, KKreuz ]
+OmgAKs mucks [ 6Kreuz, 6Herz ]
+yaponchikrus collected [ 0,26 $ ]
+
+
+
+#Game No : 631352416
+***** 888poker Hand History for Game 631352416 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:43:05
+Table Kimberley 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,15 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 0,90 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,27 $ )
+Seat 7: yaponchikrus ( 2,21 $ )
+Seat 9: maximus981 ( 2 $ )
+Seat 10: OmgAKs ( 2,36 $ )
+yaponchikrus posts small blind [0,01 $]
+maximus981 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 8Herz ]
+OmgAKs folds
+SiarhK folds
+Fritigern raises [0,06 $]
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 calls [0,04 $]
+** Dealing flop ** [ 4Pik, 9Herz, 5Kreuz ]
+maximus981 checks
+Fritigern bets [0,06 $]
+maximus981 calls [0,06 $]
+** Dealing turn ** [ APik ]
+maximus981 checks
+Fritigern checks
+** Dealing river ** [ 9Kreuz ]
+maximus981 checks
+Fritigern checks
+** Summary **
+maximus981 shows [ 5Herz, 7Herz ]
+Fritigern shows [ QHerz, QKaro ]
+Fritigern collected [ 0,24 $ ]
+
+
+
+#Game No : 631352473
+***** 888poker Hand History for Game 631352473 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:44:36
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,15 $ )
+Seat 3: Fritigern ( 2,39 $ )
+Seat 4: balwasik_19 ( 0,90 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: mikenfinley ( 1,27 $ )
+Seat 7: yaponchikrus ( 2,20 $ )
+Seat 9: maximus981 ( 1,88 $ )
+Seat 10: OmgAKs ( 2,36 $ )
+maximus981 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 8Pik ]
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts raises [0,06 $]
+mikenfinley folds
+yaponchikrus calls [0,06 $]
+maximus981 folds
+OmgAKs folds
+** Dealing flop ** [ 5Pik, AKaro, 9Kreuz ]
+B2B_Suckouts checks
+yaponchikrus checks
+** Dealing turn ** [ 10Kreuz ]
+B2B_Suckouts bets [0,02 $]
+yaponchikrus folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 631352492
+***** 888poker Hand History for Game 631352492 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:45:08
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2 $ )
+Seat 2: SiarhK ( 2,15 $ )
+Seat 3: Fritigern ( 2,39 $ )
+Seat 4: balwasik_19 ( 0,90 $ )
+Seat 5: B2B_Suckouts ( 2,09 $ )
+Seat 6: mikenfinley ( 1,27 $ )
+Seat 7: yaponchikrus ( 2,14 $ )
+Seat 9: maximus981 ( 1,87 $ )
+Seat 10: OmgAKs ( 2,34 $ )
+OmgAKs posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, KPik ]
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+** Summary **
+gimeurchips did not show his hand
+gimeurchips collected [ 0,03 $ ]
+
+
+
+#Game No : 631352503
+***** 888poker Hand History for Game 631352503 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:45:29
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2,01 $ )
+Seat 2: SiarhK ( 2,15 $ )
+Seat 3: Fritigern ( 2,39 $ )
+Seat 4: balwasik_19 ( 0,90 $ )
+Seat 5: B2B_Suckouts ( 2,09 $ )
+Seat 6: mikenfinley ( 1,27 $ )
+Seat 7: yaponchikrus ( 2,14 $ )
+Seat 9: maximus981 ( 1,87 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+gimeurchips posts small blind [0,01 $]
+SiarhK posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 4Pik ]
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+gimeurchips raises [0,05 $]
+SiarhK folds
+** Summary **
+gimeurchips did not show his hand
+gimeurchips collected [ 0,04 $ ]
+
+
+
+#Game No : 631352515
+***** 888poker Hand History for Game 631352515 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:46:01
+Table Kimberley 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2,03 $ )
+Seat 2: SiarhK ( 2,13 $ )
+Seat 3: Fritigern ( 2,39 $ )
+Seat 4: balwasik_19 ( 0,90 $ )
+Seat 5: B2B_Suckouts ( 2,09 $ )
+Seat 6: mikenfinley ( 1,27 $ )
+Seat 7: yaponchikrus ( 2,14 $ )
+Seat 9: maximus981 ( 1,87 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+SiarhK posts small blind [0,01 $]
+Fritigern posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 2Pik ]
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley calls [0,02 $]
+yaponchikrus folds
+maximus981 calls [0,02 $]
+OmgAKs folds
+gimeurchips folds
+SiarhK calls [0,01 $]
+Fritigern checks
+** Dealing flop ** [ 7Karo, KKaro, JPik ]
+SiarhK checks
+Fritigern checks
+mikenfinley bets [0,04 $]
+maximus981 calls [0,04 $]
+SiarhK folds
+Fritigern folds
+** Dealing turn ** [ 4Karo ]
+mikenfinley bets [0,16 $]
+maximus981 folds
+** Summary **
+mikenfinley did not show his hand
+mikenfinley collected [ 0,15 $ ]
+
+
+
+#Game No : 631352565
+***** 888poker Hand History for Game 631352565 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:47:39
+Table Kimberley 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2,03 $ )
+Seat 2: SiarhK ( 2,11 $ )
+Seat 3: Fritigern ( 2,37 $ )
+Seat 4: balwasik_19 ( 0,90 $ )
+Seat 5: B2B_Suckouts ( 2,09 $ )
+Seat 6: mikenfinley ( 1,36 $ )
+Seat 7: yaponchikrus ( 2,14 $ )
+Seat 9: maximus981 ( 1,81 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+Fritigern posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 8Pik ]
+B2B_Suckouts raises [0,06 $]
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+gimeurchips folds
+SiarhK folds
+Fritigern calls [0,05 $]
+balwasik_19 folds
+** Dealing flop ** [ 6Karo, 7Kreuz, JHerz ]
+Fritigern checks
+B2B_Suckouts bets [0,04 $]
+Fritigern calls [0,04 $]
+** Dealing turn ** [ 9Kreuz ]
+Fritigern checks
+B2B_Suckouts bets [0,07 $]
+Fritigern folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,21 $ ]
+
+
+
+#Game No : 631352599
+***** 888poker Hand History for Game 631352599 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:48:43
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2,03 $ )
+Seat 2: SiarhK ( 2,11 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 0,88 $ )
+Seat 5: B2B_Suckouts ( 2,20 $ )
+Seat 6: mikenfinley ( 1,36 $ )
+Seat 7: yaponchikrus ( 2,14 $ )
+Seat 9: maximus981 ( 1,81 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+balwasik_19 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, JKreuz ]
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+gimeurchips folds
+SiarhK folds
+Fritigern folds
+balwasik_19 calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+balwasik_19 calls [0,04 $]
+** Dealing flop ** [ 8Kreuz, KHerz, 10Karo ]
+balwasik_19 bets [0,06 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing turn ** [ 5Karo ]
+balwasik_19 bets [0,12 $]
+B2B_Suckouts folds
+** Summary **
+balwasik_19 did not show his hand
+balwasik_19 collected [ 0,23 $ ]
+
+
+
+#Game No : 631352631
+***** 888poker Hand History for Game 631352631 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:49:43
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2,03 $ )
+Seat 2: SiarhK ( 2,11 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 0,99 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 6: mikenfinley ( 1,36 $ )
+Seat 7: yaponchikrus ( 2,14 $ )
+Seat 9: maximus981 ( 1,81 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mikenfinley posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 8Pik ]
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+gimeurchips folds
+SiarhK folds
+Fritigern folds
+balwasik_19 raises [0,04 $]
+B2B_Suckouts folds
+mikenfinley calls [0,02 $]
+** Dealing flop ** [ 4Kreuz, 9Herz, 7Pik ]
+mikenfinley checks
+balwasik_19 bets [0,02 $]
+mikenfinley calls [0,02 $]
+** Dealing turn ** [ 2Kreuz ]
+mikenfinley bets [0,13 $]
+balwasik_19 calls [0,13 $]
+** Dealing river ** [ 6Kreuz ]
+mikenfinley bets [0,19 $]
+balwasik_19 calls [0,19 $]
+** Summary **
+mikenfinley shows [ 9Kreuz, KKaro ]
+balwasik_19 shows [ AKaro, 9Pik ]
+balwasik_19 collected [ 0,73 $ ]
+
+
+
+#Game No : 631352664
+***** 888poker Hand History for Game 631352664 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:50:54
+Table Kimberley 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2,03 $ )
+Seat 2: SiarhK ( 2,11 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 1,34 $ )
+Seat 5: B2B_Suckouts ( 2,07 $ )
+Seat 6: mikenfinley ( 0,98 $ )
+Seat 7: yaponchikrus ( 2,14 $ )
+Seat 9: maximus981 ( 1,81 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+mikenfinley posts small blind [0,01 $]
+yaponchikrus posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, QKreuz ]
+maximus981 folds
+OmgAKs folds
+gimeurchips folds
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley calls [0,01 $]
+yaponchikrus checks
+** Dealing flop ** [ KKreuz, KHerz, 6Pik ]
+mikenfinley checks
+yaponchikrus bets [0,02 $]
+mikenfinley calls [0,02 $]
+** Dealing turn ** [ 6Karo ]
+mikenfinley checks
+yaponchikrus checks
+** Dealing river ** [ KKaro ]
+mikenfinley bets [0,08 $]
+yaponchikrus calls [0,08 $]
+** Summary **
+mikenfinley shows [ 7Herz, 7Karo ]
+yaponchikrus mucks [ 8Pik, JKreuz ]
+mikenfinley collected [ 0,23 $ ]
+
+
+
+#Game No : 631352685
+***** 888poker Hand History for Game 631352685 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:51:34
+Table Kimberley 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2,03 $ )
+Seat 2: SiarhK ( 2,11 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 1,34 $ )
+Seat 5: B2B_Suckouts ( 2,07 $ )
+Seat 6: mikenfinley ( 1,09 $ )
+Seat 7: yaponchikrus ( 2,02 $ )
+Seat 9: maximus981 ( 1,81 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+yaponchikrus posts small blind [0,01 $]
+maximus981 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 8Kreuz ]
+OmgAKs folds
+gimeurchips folds
+SiarhK folds
+Fritigern folds
+balwasik_19 raises [0,05 $]
+B2B_Suckouts folds
+mikenfinley calls [0,05 $]
+yaponchikrus folds
+maximus981 calls [0,03 $]
+** Dealing flop ** [ 5Pik, AKaro, 6Pik ]
+maximus981 bets [0,12 $]
+balwasik_19 raises [0,30 $]
+mikenfinley folds
+maximus981 folds
+** Summary **
+balwasik_19 did not show his hand
+balwasik_19 collected [ 0,38 $ ]
+
+
+
+#Game No : 631352730
+***** 888poker Hand History for Game 631352730 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:52:51
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2,03 $ )
+Seat 2: SiarhK ( 2,11 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,07 $ )
+Seat 6: mikenfinley ( 1,04 $ )
+Seat 7: yaponchikrus ( 2,01 $ )
+Seat 9: maximus981 ( 1,64 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+maximus981 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 9Pik ]
+gimeurchips folds
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus raises [2,01 $]
+maximus981 folds
+OmgAKs folds
+** Summary **
+yaponchikrus did not show his hand
+yaponchikrus collected [ 0,05 $ ]
+
+
+
+#Game No : 631352743
+***** 888poker Hand History for Game 631352743 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:53:07
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2,03 $ )
+Seat 2: SiarhK ( 2,11 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,07 $ )
+Seat 6: mikenfinley ( 1,04 $ )
+Seat 7: yaponchikrus ( 2,04 $ )
+Seat 9: maximus981 ( 1,63 $ )
+Seat 10: OmgAKs ( 2,31 $ )
+OmgAKs posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, JKaro ]
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+** Summary **
+gimeurchips did not show his hand
+gimeurchips collected [ 0,03 $ ]
+
+
+
+#Game No : 631352750
+***** 888poker Hand History for Game 631352750 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:53:33
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: gimeurchips ( 2,04 $ )
+Seat 2: SiarhK ( 2,11 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,07 $ )
+Seat 6: mikenfinley ( 1,04 $ )
+Seat 7: yaponchikrus ( 2,04 $ )
+Seat 9: maximus981 ( 1,63 $ )
+Seat 10: OmgAKs ( 2,30 $ )
+gimeurchips posts small blind [0,01 $]
+SiarhK posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, AKaro ]
+Fritigern folds
+balwasik_19 raises [0,04 $]
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+gimeurchips folds
+SiarhK calls [0,02 $]
+** Dealing flop ** [ 6Pik, 10Herz, 8Pik ]
+SiarhK checks
+balwasik_19 bets [0,02 $]
+SiarhK folds
+** Summary **
+balwasik_19 collected [ 0,09 $ ]
+
+
+
+#Game No : 631352825
+***** 888poker Hand History for Game 631352825 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:55:34
+Table Kimberley 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,07 $ )
+Seat 3: Fritigern ( 2,27 $ )
+Seat 4: balwasik_19 ( 1,60 $ )
+Seat 5: B2B_Suckouts ( 2,07 $ )
+Seat 6: mikenfinley ( 1,04 $ )
+Seat 7: yaponchikrus ( 2,04 $ )
+Seat 9: maximus981 ( 1,63 $ )
+Seat 10: OmgAKs ( 2,30 $ )
+Fritigern posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 3Herz ]
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+SiarhK raises [0,04 $]
+Fritigern calls [0,03 $]
+balwasik_19 calls [0,02 $]
+** Dealing flop ** [ QKreuz, AKreuz, 3Pik ]
+Fritigern checks
+balwasik_19 checks
+SiarhK checks
+** Dealing turn ** [ 4Pik ]
+Fritigern bets [0,07 $]
+balwasik_19 folds
+SiarhK folds
+** Summary **
+Fritigern collected [ 0,12 $ ]
+
+
+
+#Game No : 631352853
+***** 888poker Hand History for Game 631352853 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:56:28
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,03 $ )
+Seat 3: Fritigern ( 2,35 $ )
+Seat 4: balwasik_19 ( 1,56 $ )
+Seat 5: B2B_Suckouts ( 2,07 $ )
+Seat 6: mikenfinley ( 1,04 $ )
+Seat 7: yaponchikrus ( 2,04 $ )
+Seat 9: maximus981 ( 1,63 $ )
+Seat 10: OmgAKs ( 2,30 $ )
+balwasik_19 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 4Pik ]
+mikenfinley folds
+yaponchikrus folds
+maximus981 raises [0,06 $]
+OmgAKs folds
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+** Summary **
+maximus981 collected [ 0,05 $ ]
+
+
+
+#Game No : 631352876
+***** 888poker Hand History for Game 631352876 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:57:01
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,03 $ )
+Seat 3: Fritigern ( 2,35 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,05 $ )
+Seat 6: mikenfinley ( 1,04 $ )
+Seat 7: yaponchikrus ( 2,04 $ )
+Seat 9: maximus981 ( 1,66 $ )
+Seat 10: OmgAKs ( 2,30 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mikenfinley posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 10Kreuz ]
+yaponchikrus folds
+maximus981 calls [0,02 $]
+OmgAKs folds
+SiarhK folds
+Fritigern raises [0,08 $]
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+maximus981 calls [0,06 $]
+** Dealing flop ** [ KKaro, JKaro, 8Karo ]
+maximus981 checks
+Fritigern checks
+** Dealing turn ** [ 2Herz ]
+maximus981 checks
+Fritigern checks
+** Dealing river ** [ 4Karo ]
+maximus981 checks
+Fritigern checks
+** Summary **
+maximus981 shows [ 6Pik, AHerz ]
+Fritigern shows [ AKreuz, QPik ]
+Fritigern collected [ 0,18 $ ]
+
+
+
+#Game No : 631352931
+***** 888poker Hand History for Game 631352931 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:58:43
+Table Kimberley 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: SiarhK ( 2,03 $ )
+Seat 3: Fritigern ( 2,45 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,04 $ )
+Seat 6: mikenfinley ( 1,02 $ )
+Seat 7: yaponchikrus ( 2,04 $ )
+Seat 9: maximus981 ( 1,58 $ )
+Seat 10: OmgAKs ( 2,30 $ )
+mikenfinley posts small blind [0,01 $]
+yaponchikrus posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, KKaro ]
+maximus981 folds
+OmgAKs folds
+SiarhK folds
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts raises [0,06 $]
+mikenfinley folds
+yaponchikrus folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 631352950
+***** 888poker Hand History for Game 631352950 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 14:59:17
+Table Kimberley 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 3: Fritigern ( 2,45 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,07 $ )
+Seat 6: mikenfinley ( 1,01 $ )
+Seat 7: yaponchikrus ( 2,02 $ )
+Seat 9: maximus981 ( 1,58 $ )
+Seat 10: OmgAKs ( 2,30 $ )
+yaponchikrus posts small blind [0,01 $]
+maximus981 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 8Kreuz ]
+OmgAKs folds
+Fritigern raises [0,06 $]
+balwasik_19 folds
+B2B_Suckouts calls [0,06 $]
+mikenfinley folds
+yaponchikrus folds
+maximus981 calls [0,04 $]
+** Dealing flop ** [ 2Herz, 3Kreuz, 4Herz ]
+maximus981 bets [0,09 $]
+Fritigern folds
+B2B_Suckouts calls [0,09 $]
+** Dealing turn ** [ 10Karo ]
+maximus981 checks
+B2B_Suckouts bets [0,12 $]
+maximus981 calls [0,12 $]
+** Dealing river ** [ 4Karo ]
+maximus981 checks
+B2B_Suckouts checks
+** Summary **
+maximus981 shows [ QKaro, AHerz ]
+B2B_Suckouts shows [ 8Herz, 8Kreuz ]
+B2B_Suckouts collected [ 0,58 $ ]
+
+
+
+#Game No : 631353010
+***** 888poker Hand History for Game 631353010 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:00:48
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 3: Fritigern ( 2,39 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,01 $ )
+Seat 7: yaponchikrus ( 2,01 $ )
+Seat 9: maximus981 ( 1,31 $ )
+Seat 10: OmgAKs ( 2,30 $ )
+maximus981 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 8Karo ]
+Fritigern folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus raises [0,06 $]
+maximus981 folds
+OmgAKs folds
+** Summary **
+yaponchikrus collected [ 0,05 $ ]
+
+
+
+#Game No : 631353018
+***** 888poker Hand History for Game 631353018 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:01:06
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: xxflashxxx ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,01 $ )
+Seat 7: yaponchikrus ( 2,04 $ )
+Seat 9: maximus981 ( 1,30 $ )
+Seat 10: OmgAKs ( 2,28 $ )
+OmgAKs posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 3Karo ]
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus raises [0,06 $]
+maximus981 folds
+OmgAKs folds
+xxflashxxx folds
+** Summary **
+yaponchikrus collected [ 0,05 $ ]
+
+
+
+#Game No : 631353033
+***** 888poker Hand History for Game 631353033 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:01:22
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,78 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,01 $ )
+Seat 7: yaponchikrus ( 2,07 $ )
+Seat 9: maximus981 ( 1,30 $ )
+Seat 10: OmgAKs ( 2,27 $ )
+xxflashxxx posts small blind [0,01 $]
+l8bd8l posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 6Pik ]
+balwasik_19 raises [0,05 $]
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+xxflashxxx folds
+l8bd8l folds
+** Summary **
+balwasik_19 collected [ 0,05 $ ]
+
+
+
+#Game No : 631353045
+***** 888poker Hand History for Game 631353045 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:01:43
+Table Kimberley 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,77 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,58 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,01 $ )
+Seat 7: yaponchikrus ( 2,07 $ )
+Seat 9: maximus981 ( 1,30 $ )
+Seat 10: OmgAKs ( 2,27 $ )
+l8bd8l posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 4Herz ]
+B2B_Suckouts folds
+mikenfinley calls [0,02 $]
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+xxflashxxx folds
+l8bd8l folds
+balwasik_19 checks
+** Dealing flop ** [ KHerz, 10Herz, 2Herz ]
+balwasik_19 checks
+mikenfinley bets [0,05 $]
+balwasik_19 folds
+** Summary **
+mikenfinley collected [ 0,05 $ ]
+
+
+
+#Game No : 631353066
+***** 888poker Hand History for Game 631353066 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:02:21
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 0,77 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,56 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,04 $ )
+Seat 7: yaponchikrus ( 2,07 $ )
+Seat 9: maximus981 ( 1,30 $ )
+Seat 10: OmgAKs ( 2,27 $ )
+balwasik_19 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 5Pik ]
+mikenfinley folds
+yaponchikrus folds
+maximus981 calls [0,02 $]
+OmgAKs folds
+xxflashxxx raises [0,04 $]
+l8bd8l folds
+balwasik_19 folds
+B2B_Suckouts folds
+maximus981 calls [0,02 $]
+** Dealing flop ** [ 4Pik, 9Herz, 10Herz ]
+maximus981 checks
+xxflashxxx checks
+** Dealing turn ** [ 9Pik ]
+maximus981 bets [0,05 $]
+xxflashxxx calls [0,05 $]
+** Dealing river ** [ AHerz ]
+maximus981 checks
+xxflashxxx bets [0,14 $]
+maximus981 calls [0,14 $]
+** Summary **
+xxflashxxx shows [ AKreuz, KHerz ]
+maximus981 mucks [ 6Kreuz, 6Herz ]
+xxflashxxx collected [ 0,46 $ ]
+
+
+
+#Game No : 631353106
+***** 888poker Hand History for Game 631353106 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:03:50
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 1 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,36 $ )
+Seat 6: mikenfinley ( 1,04 $ )
+Seat 7: yaponchikrus ( 2,07 $ )
+Seat 9: maximus981 ( 2 $ )
+Seat 10: OmgAKs ( 2,27 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mikenfinley posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, JKaro ]
+yaponchikrus raises [0,06 $]
+maximus981 calls [0,06 $]
+OmgAKs folds
+xxflashxxx folds
+l8bd8l folds
+balwasik_19 folds
+B2B_Suckouts calls [0,05 $]
+mikenfinley folds
+** Dealing flop ** [ 10Herz, 6Pik, 7Karo ]
+B2B_Suckouts bets [0,06 $]
+yaponchikrus calls [0,06 $]
+maximus981 calls [0,06 $]
+** Dealing turn ** [ 5Karo ]
+B2B_Suckouts bets [0,25 $]
+yaponchikrus folds
+maximus981 folds
+** Summary **
+B2B_Suckouts collected [ 0,36 $ ]
+
+
+
+#Game No : 631353139
+***** 888poker Hand History for Game 631353139 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:04:45
+Table Kimberley 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 1 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,60 $ )
+Seat 6: mikenfinley ( 1,02 $ )
+Seat 7: yaponchikrus ( 1,95 $ )
+Seat 9: maximus981 ( 1,88 $ )
+Seat 10: OmgAKs ( 2,27 $ )
+mikenfinley posts small blind [0,01 $]
+yaponchikrus posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 9Herz ]
+maximus981 folds
+OmgAKs folds
+xxflashxxx folds
+l8bd8l folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley calls [0,01 $]
+yaponchikrus checks
+** Dealing flop ** [ JKreuz, 3Karo, 8Pik ]
+mikenfinley bets [0,04 $]
+yaponchikrus folds
+** Summary **
+mikenfinley collected [ 0,04 $ ]
+
+
+
+#Game No : 631353156
+***** 888poker Hand History for Game 631353156 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:05:17
+Table Kimberley 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 1 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,60 $ )
+Seat 6: mikenfinley ( 1,04 $ )
+Seat 7: yaponchikrus ( 1,93 $ )
+Seat 9: maximus981 ( 1,88 $ )
+Seat 10: OmgAKs ( 2,27 $ )
+yaponchikrus posts small blind [0,01 $]
+maximus981 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, AHerz ]
+OmgAKs folds
+xxflashxxx folds
+l8bd8l folds
+balwasik_19 folds
+B2B_Suckouts raises [0,06 $]
+mikenfinley calls [0,06 $]
+yaponchikrus folds
+maximus981 folds
+** Dealing flop ** [ 2Pik, 4Kreuz, 3Kreuz ]
+B2B_Suckouts bets [0,07 $]
+mikenfinley calls [0,07 $]
+** Dealing turn ** [ KPik ]
+B2B_Suckouts bets [0,09 $]
+mikenfinley raises [0,56 $]
+B2B_Suckouts folds
+** Summary **
+mikenfinley collected [ 0,45 $ ]
+
+
+
+#Game No : 631353179
+***** 888poker Hand History for Game 631353179 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:05:59
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 1 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,27 $ )
+Seat 7: yaponchikrus ( 1,92 $ )
+Seat 9: maximus981 ( 1,86 $ )
+Seat 10: OmgAKs ( 2,27 $ )
+maximus981 posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, KPik ]
+xxflashxxx folds
+l8bd8l folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 raises [0,05 $]
+OmgAKs calls [0,04 $]
+** Dealing flop ** [ 3Kreuz, 7Karo, 4Karo ]
+maximus981 checks
+OmgAKs bets [0,06 $]
+maximus981 calls [0,06 $]
+** Dealing turn ** [ KKaro ]
+maximus981 checks
+OmgAKs bets [0,08 $]
+maximus981 calls [0,08 $]
+** Dealing river ** [ 5Herz ]
+maximus981 checks
+OmgAKs checks
+** Summary **
+maximus981 shows [ AHerz, 9Pik ]
+OmgAKs shows [ 10Karo, KKreuz ]
+OmgAKs collected [ 0,38 $ ]
+
+
+
+#Game No : 631353215
+***** 888poker Hand History for Game 631353215 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:07:15
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: xxflashxxx ( 1 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,27 $ )
+Seat 7: yaponchikrus ( 1,92 $ )
+Seat 9: maximus981 ( 1,66 $ )
+Seat 10: OmgAKs ( 2,45 $ )
+OmgAKs posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, KPik ]
+l8bd8l folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus folds
+maximus981 calls [0,02 $]
+OmgAKs calls [0,01 $]
+xxflashxxx checks
+** Dealing flop ** [ QHerz, 9Karo, 9Pik ]
+OmgAKs checks
+xxflashxxx checks
+maximus981 bets [0,06 $]
+OmgAKs folds
+xxflashxxx folds
+** Summary **
+maximus981 collected [ 0,06 $ ]
+
+
+
+#Game No : 631353233
+***** 888poker Hand History for Game 631353233 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:08:00
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,98 $ )
+Seat 2: SiarhK ( 2,03 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,27 $ )
+Seat 7: yaponchikrus ( 1,92 $ )
+Seat 9: maximus981 ( 1,70 $ )
+Seat 10: OmgAKs ( 2,43 $ )
+xxflashxxx posts small blind [0,01 $]
+SiarhK posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 4Pik ]
+l8bd8l folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley calls [0,02 $]
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+xxflashxxx calls [0,01 $]
+SiarhK checks
+** Dealing flop ** [ 8Karo, QPik, 6Karo ]
+xxflashxxx bets [0,06 $]
+SiarhK folds
+mikenfinley calls [0,06 $]
+** Dealing turn ** [ 8Kreuz ]
+xxflashxxx bets [0,09 $]
+mikenfinley calls [0,09 $]
+** Dealing river ** [ 9Herz ]
+xxflashxxx checks
+mikenfinley bets [0,36 $]
+xxflashxxx folds
+** Summary **
+mikenfinley did not show his hand
+mikenfinley collected [ 0,34 $ ]
+
+
+
+#Game No : 631353280
+***** 888poker Hand History for Game 631353280 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:09:30
+Table Kimberley 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,81 $ )
+Seat 2: SiarhK ( 2,01 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,44 $ )
+Seat 7: yaponchikrus ( 1,92 $ )
+Seat 9: maximus981 ( 1,70 $ )
+Seat 10: OmgAKs ( 2,43 $ )
+SiarhK posts small blind [0,01 $]
+l8bd8l posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 8Herz ]
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley calls [0,02 $]
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+xxflashxxx folds
+SiarhK folds
+l8bd8l checks
+** Dealing flop ** [ JKaro, 5Karo, 7Karo ]
+l8bd8l checks
+mikenfinley bets [0,02 $]
+l8bd8l folds
+** Summary **
+mikenfinley did not show his hand
+mikenfinley collected [ 0,05 $ ]
+
+
+
+#Game No : 631353319
+***** 888poker Hand History for Game 631353319 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:10:36
+Table Kimberley 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,81 $ )
+Seat 2: SiarhK ( 2 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,55 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,47 $ )
+Seat 7: yaponchikrus ( 1,92 $ )
+Seat 9: maximus981 ( 1,70 $ )
+Seat 10: OmgAKs ( 2,43 $ )
+l8bd8l posts small blind [0,01 $]
+balwasik_19 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 10Kreuz ]
+B2B_Suckouts folds
+mikenfinley calls [0,02 $]
+yaponchikrus calls [0,02 $]
+maximus981 folds
+OmgAKs raises [0,10 $]
+xxflashxxx folds
+SiarhK folds
+l8bd8l folds
+balwasik_19 raises [0,34 $]
+mikenfinley folds
+yaponchikrus folds
+OmgAKs folds
+** Summary **
+balwasik_19 did not show his hand
+balwasik_19 collected [ 0,25 $ ]
+
+
+
+#Game No : 631353342
+***** 888poker Hand History for Game 631353342 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:11:20
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,81 $ )
+Seat 2: SiarhK ( 2 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,70 $ )
+Seat 5: B2B_Suckouts ( 2,38 $ )
+Seat 6: mikenfinley ( 1,45 $ )
+Seat 7: yaponchikrus ( 1,90 $ )
+Seat 9: maximus981 ( 1,70 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+balwasik_19 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 4Pik ]
+mikenfinley folds
+yaponchikrus folds
+maximus981 calls [0,02 $]
+OmgAKs folds
+xxflashxxx folds
+SiarhK folds
+l8bd8l folds
+balwasik_19 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 6Herz, 10Pik, 3Karo ]
+balwasik_19 checks
+B2B_Suckouts checks
+maximus981 bets [0,06 $]
+balwasik_19 folds
+B2B_Suckouts folds
+** Summary **
+maximus981 did not show his hand
+maximus981 collected [ 0,06 $ ]
+
+
+
+#Game No : 631353378
+***** 888poker Hand History for Game 631353378 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:12:20
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,81 $ )
+Seat 2: SiarhK ( 2 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,68 $ )
+Seat 5: B2B_Suckouts ( 2,36 $ )
+Seat 6: mikenfinley ( 1,45 $ )
+Seat 7: yaponchikrus ( 1,90 $ )
+Seat 9: maximus981 ( 1,74 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mikenfinley posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 10Karo ]
+yaponchikrus folds
+maximus981 folds
+OmgAKs folds
+xxflashxxx folds
+SiarhK folds
+l8bd8l folds
+balwasik_19 raises [0,06 $]
+B2B_Suckouts calls [0,05 $]
+mikenfinley calls [0,04 $]
+** Dealing flop ** [ 7Kreuz, 2Karo, QKreuz ]
+B2B_Suckouts checks
+mikenfinley checks
+balwasik_19 bets [0,07 $]
+B2B_Suckouts folds
+mikenfinley folds
+** Summary **
+balwasik_19 did not show his hand
+balwasik_19 collected [ 0,17 $ ]
+
+
+
+#Game No : 631353410
+***** 888poker Hand History for Game 631353410 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:13:10
+Table Kimberley 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,81 $ )
+Seat 2: SiarhK ( 2 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,79 $ )
+Seat 5: B2B_Suckouts ( 2,30 $ )
+Seat 6: mikenfinley ( 1,39 $ )
+Seat 7: yaponchikrus ( 1,90 $ )
+Seat 9: maximus981 ( 1,74 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+mikenfinley posts small blind [0,01 $]
+yaponchikrus posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 4Pik ]
+maximus981 calls [0,02 $]
+OmgAKs folds
+xxflashxxx folds
+SiarhK folds
+l8bd8l folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley folds
+yaponchikrus checks
+** Dealing flop ** [ 9Kreuz, 9Karo, JKreuz ]
+yaponchikrus checks
+maximus981 checks
+** Dealing turn ** [ QPik ]
+yaponchikrus checks
+maximus981 checks
+** Dealing river ** [ 2Kreuz ]
+yaponchikrus checks
+maximus981 checks
+** Summary **
+yaponchikrus shows [ 4Kreuz, 2Herz ]
+maximus981 mucks [ AKreuz, 8Karo ]
+yaponchikrus collected [ 0,05 $ ]
+
+
+
+#Game No : 631353462
+***** 888poker Hand History for Game 631353462 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:14:57
+Table Kimberley 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,81 $ )
+Seat 2: SiarhK ( 2 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,79 $ )
+Seat 5: B2B_Suckouts ( 2,30 $ )
+Seat 6: mikenfinley ( 1,38 $ )
+Seat 7: yaponchikrus ( 1,93 $ )
+Seat 9: maximus981 ( 1,72 $ )
+Seat 10: OmgAKs ( 2,33 $ )
+yaponchikrus posts small blind [0,01 $]
+maximus981 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 7Herz ]
+OmgAKs folds
+xxflashxxx folds
+SiarhK folds
+l8bd8l folds
+balwasik_19 raises [0,05 $]
+B2B_Suckouts folds
+mikenfinley calls [0,05 $]
+yaponchikrus folds
+maximus981 folds
+** Dealing flop ** [ 10Kreuz, 4Karo, 7Pik ]
+balwasik_19 checks
+mikenfinley bets [0,09 $]
+balwasik_19 folds
+** Summary **
+mikenfinley collected [ 0,13 $ ]
+
+
+
+#Game No : 631353491
+***** 888poker Hand History for Game 631353491 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:15:44
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: xxflashxxx ( 0,81 $ )
+Seat 2: SiarhK ( 2 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,74 $ )
+Seat 5: B2B_Suckouts ( 2,30 $ )
+Seat 6: mikenfinley ( 1,46 $ )
+Seat 7: yaponchikrus ( 1,92 $ )
+Seat 9: maximus981 ( 1,70 $ )
+Seat 10: oldbashkir ( 2 $ )
+maximus981 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 9Pik ]
+xxflashxxx folds
+SiarhK folds
+l8bd8l folds
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley calls [0,02 $]
+yaponchikrus folds
+maximus981 folds
+oldbashkir checks
+** Dealing flop ** [ JHerz, 10Kreuz, KPik ]
+oldbashkir checks
+mikenfinley bets [0,02 $]
+oldbashkir folds
+** Summary **
+mikenfinley collected [ 0,05 $ ]
+
+
+
+#Game No : 631353524
+***** 888poker Hand History for Game 631353524 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:16:45
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: alxlibre ( 2 $ )
+Seat 2: SiarhK ( 2 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,74 $ )
+Seat 5: B2B_Suckouts ( 2,30 $ )
+Seat 6: mikenfinley ( 1,49 $ )
+Seat 7: yaponchikrus ( 1,92 $ )
+Seat 9: maximus981 ( 1,69 $ )
+Seat 10: oldbashkir ( 2 $ )
+oldbashkir posts small blind [0,01 $]
+alxlibre posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, JHerz ]
+SiarhK folds
+l8bd8l raises [0,06 $]
+balwasik_19 folds
+B2B_Suckouts folds
+mikenfinley calls [0,06 $]
+yaponchikrus folds
+maximus981 calls [0,06 $]
+oldbashkir calls [0,05 $]
+alxlibre folds
+** Dealing flop ** [ 10Karo, 10Herz, 7Herz ]
+oldbashkir checks
+l8bd8l bets [0,13 $]
+mikenfinley folds
+maximus981 folds
+oldbashkir raises [0,39 $]
+l8bd8l folds
+** Summary **
+oldbashkir did not show his hand
+oldbashkir collected [ 0,49 $ ]
+
+
+
+#Game No : 631353581
+***** 888poker Hand History for Game 631353581 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 15:18:34
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: alxlibre ( 2 $ )
+Seat 2: SiarhK ( 2 $ )
+Seat 3: l8bd8l ( 0,80 $ )
+Seat 4: balwasik_19 ( 1,74 $ )
+Seat 5: B2B_Suckouts ( 2,30 $ )
+Seat 6: mikenfinley ( 1,43 $ )
+Seat 7: yaponchikrus ( 1,92 $ )
+Seat 9: maximus981 ( 1,63 $ )
+Seat 10: oldbashkir ( 2,30 $ )
+alxlibre posts small blind [0,01 $]
+SiarhK posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, JPik ]
+l8bd8l raises [0,06 $]
+balwasik_19 folds
+B2B_Suckouts raises [0,18 $]
+mikenfinley folds
+yaponchikrus folds
+maximus981 folds
+oldbashkir folds
+alxlibre folds
+SiarhK folds
+l8bd8l raises [0,48 $]
+B2B_Suckouts raises [0,72 $]
+l8bd8l calls [0,26 $]
+** Dealing flop ** [ QKaro, 5Kreuz, 4Pik ]
+** Dealing turn ** [ 3Pik ]
+** Dealing river ** [ 9Herz ]
+** Summary **
+l8bd8l shows [ KKaro, AKreuz ]
+B2B_Suckouts shows [ KPik, JPik ]
+l8bd8l collected [ 1,53 $ ]
+
+
+
+#Game No : 631367192
+***** 888poker Hand History for Game 631367192 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:34:42
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: vavan129 ( 2,67 $ )
+Seat 2: sergey14177 ( 1,04 $ )
+Seat 3: elvyss ( 2,03 $ )
+Seat 4: heroic13 ( 1,71 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Sanlucca3 ( 0,80 $ )
+Seat 7: Woffinden ( 2,47 $ )
+Seat 9: Luckyy69 ( 1,98 $ )
+Seat 10: rojser ( 2 $ )
+Luckyy69 folds
+rojser posts small blind [0,01 $]
+vavan129 posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+Sanlucca3 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 8Herz ]
+sergey14177 folds
+elvyss folds
+heroic13 folds
+B2B_Suckouts checks
+Sanlucca3 checks
+Woffinden folds
+rojser folds
+vavan129 checks
+** Dealing flop ** [ KKaro, 2Kreuz, 5Pik ]
+vavan129 checks
+B2B_Suckouts bets [0,02 $]
+Sanlucca3 raises [0,04 $]
+vavan129 folds
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ 9Herz ]
+B2B_Suckouts checks
+Sanlucca3 bets [0,02 $]
+B2B_Suckouts folds
+** Summary **
+Sanlucca3 collected [ 0,15 $ ]
+
+
+
+#Game No : 631367240
+***** 888poker Hand History for Game 631367240 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:35:31
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: vavan129 ( 2,65 $ )
+Seat 2: sergey14177 ( 1,04 $ )
+Seat 3: elvyss ( 2,03 $ )
+Seat 4: heroic13 ( 1,71 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Sanlucca3 ( 0,89 $ )
+Seat 7: Woffinden ( 2,47 $ )
+Seat 9: Luckyy69 ( 1,98 $ )
+Seat 10: rojser ( 2 $ )
+vavan129 posts small blind [0,01 $]
+sergey14177 posts big blind [0,02 $]
+Luckyy69 posts dead blind [0,01 $ + 0 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 2Karo ]
+elvyss folds
+heroic13 folds
+B2B_Suckouts folds
+Sanlucca3 folds
+Woffinden folds
+Luckyy69 calls [0,02 $]
+rojser folds
+vavan129 folds
+sergey14177 checks
+** Dealing flop ** [ 7Karo, 7Herz, 9Herz ]
+sergey14177 checks
+Luckyy69 checks
+** Dealing turn ** [ KKaro ]
+sergey14177 checks
+Luckyy69 bets [0,04 $]
+sergey14177 folds
+** Summary **
+Luckyy69 did not show his hand
+Luckyy69 collected [ 0,06 $ ]
+
+
+
+#Game No : 631367283
+***** 888poker Hand History for Game 631367283 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:36:22
+Table Kimberley 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: vavan129 ( 2,64 $ )
+Seat 2: sergey14177 ( 1,02 $ )
+Seat 3: elvyss ( 2,03 $ )
+Seat 4: heroic13 ( 1,71 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Sanlucca3 ( 0,89 $ )
+Seat 7: Woffinden ( 2,47 $ )
+Seat 9: Luckyy69 ( 2,01 $ )
+Seat 10: rojser ( 2 $ )
+sergey14177 posts small blind [0,01 $]
+elvyss posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 2Herz ]
+heroic13 folds
+B2B_Suckouts folds
+Sanlucca3 calls [0,02 $]
+Woffinden folds
+Luckyy69 raises [0,09 $]
+rojser folds
+vavan129 folds
+sergey14177 folds
+elvyss folds
+Sanlucca3 calls [0,07 $]
+** Dealing flop ** [ 8Kreuz, 7Kreuz, 2Pik ]
+Sanlucca3 checks
+Luckyy69 bets [0,14 $]
+Sanlucca3 calls [0,14 $]
+** Dealing turn ** [ 9Herz ]
+Sanlucca3 checks
+Luckyy69 checks
+** Dealing river ** [ 10Herz ]
+Sanlucca3 checks
+Luckyy69 bets [0,49 $]
+Sanlucca3 folds
+** Summary **
+Luckyy69 did not show his hand
+Luckyy69 collected [ 0,46 $ ]
+
+
+
+#Game No : 631367329
+***** 888poker Hand History for Game 631367329 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:37:25
+Table Kimberley 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: vavan129 ( 2,64 $ )
+Seat 2: sergey14177 ( 1,01 $ )
+Seat 3: elvyss ( 2,01 $ )
+Seat 4: heroic13 ( 1,71 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: Sanlucca3 ( 0,66 $ )
+Seat 7: Woffinden ( 2,47 $ )
+Seat 9: Luckyy69 ( 2,24 $ )
+Seat 10: rojser ( 2 $ )
+elvyss posts small blind [0,01 $]
+heroic13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 6Kreuz ]
+B2B_Suckouts folds
+Sanlucca3 calls [0,02 $]
+Woffinden raises [0,10 $]
+Luckyy69 folds
+rojser folds
+vavan129 folds
+sergey14177 folds
+elvyss folds
+heroic13 calls [0,08 $]
+Sanlucca3 folds
+** Dealing flop ** [ AKreuz, 3Kreuz, 2Karo ]
+heroic13 checks
+Woffinden bets [0,15 $]
+heroic13 folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,22 $ ]
+
+
+
+#Game No : 631367390
+***** 888poker Hand History for Game 631367390 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:38:29
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: vavan129 ( 2,64 $ )
+Seat 2: sergey14177 ( 1,01 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: heroic13 ( 1,61 $ )
+Seat 6: Sanlucca3 ( 0,64 $ )
+Seat 7: Woffinden ( 2,59 $ )
+Seat 9: Luckyy69 ( 2,24 $ )
+Seat 10: rojser ( 2 $ )
+heroic13 posts small blind [0,01 $]
+Sanlucca3 posts big blind [0,02 $]
+** Dealing down cards **
+Woffinden folds
+Luckyy69 folds
+rojser folds
+vavan129 folds
+sergey14177 raises [0,08 $]
+elvyss folds
+heroic13 folds
+Sanlucca3 raises [0,12 $]
+sergey14177 calls [0,06 $]
+** Dealing flop ** [ 5Kreuz, JKreuz, 2Kreuz ]
+Sanlucca3 bets [0,50 $]
+sergey14177 calls [0,50 $]
+** Dealing turn ** [ JPik ]
+** Dealing river ** [ 5Herz ]
+** Summary **
+sergey14177 shows [ KPik, KKreuz ]
+Sanlucca3 shows [ 9Kreuz, 9Pik ]
+sergey14177 collected [ 1,21 $ ]
+
+
+
+#Game No : 631367423
+***** 888poker Hand History for Game 631367423 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:39:13
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: vavan129 ( 2,64 $ )
+Seat 2: sergey14177 ( 1,58 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: heroic13 ( 1,60 $ )
+Seat 7: Woffinden ( 2,59 $ )
+Seat 9: Luckyy69 ( 2,24 $ )
+Seat 10: rojser ( 2 $ )
+Woffinden posts small blind [0,01 $]
+Luckyy69 folds
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+vavan129 folds
+sergey14177 calls [0,02 $]
+elvyss folds
+heroic13 calls [0,02 $]
+Woffinden folds
+rojser checks
+** Dealing flop ** [ 7Pik, JKreuz, KPik ]
+rojser checks
+sergey14177 bets [0,02 $]
+heroic13 calls [0,02 $]
+rojser calls [0,02 $]
+** Dealing turn ** [ 4Karo ]
+rojser checks
+sergey14177 bets [0,04 $]
+heroic13 calls [0,04 $]
+rojser folds
+** Dealing river ** [ 6Pik ]
+sergey14177 checks
+heroic13 bets [0,04 $]
+sergey14177 calls [0,04 $]
+** Summary **
+heroic13 shows [ JPik, 5Pik ]
+sergey14177 mucks [ 5Karo, KKaro ]
+heroic13 collected [ 0,28 $ ]
+
+
+
+#Game No : 631367477
+***** 888poker Hand History for Game 631367477 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:40:16
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: vavan129 ( 2,64 $ )
+Seat 2: sergey14177 ( 1,46 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: heroic13 ( 1,76 $ )
+Seat 6: AspiringBuck ( 2 $ )
+Seat 7: Woffinden ( 2,58 $ )
+Seat 10: rojser ( 2 $ )
+rojser posts small blind [0,01 $]
+vavan129 folds
+sergey14177 posts big blind [0,02 $]
+AspiringBuck posts big blind [0,02 $]
+** Dealing down cards **
+elvyss folds
+heroic13 raises [0,06 $]
+AspiringBuck raises [0,16 $]
+Woffinden folds
+rojser folds
+sergey14177 folds
+heroic13 calls [0,12 $]
+** Dealing flop ** [ 8Karo, 5Pik, 7Herz ]
+heroic13 checks
+AspiringBuck bets [0,19 $]
+heroic13 folds
+** Summary **
+AspiringBuck collected [ 0,37 $ ]
+
+
+
+#Game No : 631367631
+***** 888poker Hand History for Game 631367631 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:43:10
+Table Kimberley 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: sergey14177 ( 1,43 $ )
+Seat 3: elvyss ( 1,97 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: AspiringBuck ( 2,27 $ )
+Seat 7: Woffinden ( 2,56 $ )
+Seat 9: fstv92 ( 1,40 $ )
+Seat 10: rojser ( 2 $ )
+Woffinden posts small blind [0,01 $]
+fstv92 posts big blind [0,02 $]
+B2B_Suckouts posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 9Pik ]
+rojser folds
+sergey14177 folds
+elvyss folds
+B2B_Suckouts checks
+AspiringBuck raises [0,06 $]
+Woffinden folds
+fstv92 folds
+B2B_Suckouts folds
+** Summary **
+AspiringBuck collected [ 0,08 $ ]
+
+
+
+#Game No : 631367657
+***** 888poker Hand History for Game 631367657 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:43:38
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: sergey14177 ( 1,43 $ )
+Seat 3: elvyss ( 1,97 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: AspiringBuck ( 2,33 $ )
+Seat 7: Woffinden ( 2,55 $ )
+Seat 9: fstv92 ( 1,40 $ )
+Seat 10: rojser ( 2 $ )
+fstv92 posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, KPik ]
+sergey14177 folds
+elvyss folds
+B2B_Suckouts raises [0,06 $]
+AspiringBuck folds
+Woffinden folds
+fstv92 folds
+rojser folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 631367672
+***** 888poker Hand History for Game 631367672 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:43:54
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: sergey14177 ( 1,43 $ )
+Seat 3: elvyss ( 1,97 $ )
+Seat 5: B2B_Suckouts ( 2,03 $ )
+Seat 6: AspiringBuck ( 2,33 $ )
+Seat 7: Woffinden ( 2,55 $ )
+Seat 9: fstv92 ( 1,40 $ )
+Seat 10: rojser ( 2 $ )
+rojser posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, QKreuz ]
+sergey14177 calls [0,02 $]
+elvyss folds
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden folds
+fstv92 folds
+rojser folds
+mikeOmike checks
+** Dealing flop ** [ 3Karo, 9Herz, 6Pik ]
+mikeOmike checks
+sergey14177 bets [0,02 $]
+mikeOmike folds
+** Summary **
+sergey14177 collected [ 0,05 $ ]
+
+
+
+#Game No : 631367712
+***** 888poker Hand History for Game 631367712 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:44:31
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: sergey14177 ( 1,46 $ )
+Seat 3: elvyss ( 1,97 $ )
+Seat 5: B2B_Suckouts ( 2,03 $ )
+Seat 6: AspiringBuck ( 2,33 $ )
+Seat 7: Woffinden ( 2,55 $ )
+Seat 9: fstv92 ( 1,40 $ )
+Seat 10: rojser ( 2 $ )
+mikeOmike posts small blind [0,01 $]
+sergey14177 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 4Karo ]
+elvyss folds
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden folds
+fstv92 folds
+rojser folds
+mikeOmike raises [0,06 $]
+sergey14177 calls [0,05 $]
+** Dealing flop ** [ KHerz, 10Herz, 5Kreuz ]
+mikeOmike bets [0,06 $]
+sergey14177 folds
+** Summary **
+mikeOmike collected [ 0,14 $ ]
+
+
+
+#Game No : 631367740
+***** 888poker Hand History for Game 631367740 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:45:01
+Table Kimberley 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 2,07 $ )
+Seat 2: sergey14177 ( 1,39 $ )
+Seat 3: elvyss ( 1,97 $ )
+Seat 5: B2B_Suckouts ( 2,03 $ )
+Seat 6: AspiringBuck ( 2,33 $ )
+Seat 7: Woffinden ( 2,55 $ )
+Seat 9: fstv92 ( 1,40 $ )
+Seat 10: rojser ( 2 $ )
+sergey14177 posts small blind [0,01 $]
+elvyss posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 6Kreuz ]
+B2B_Suckouts raises [0,06 $]
+AspiringBuck folds
+Woffinden folds
+fstv92 folds
+rojser folds
+mikeOmike folds
+sergey14177 calls [0,05 $]
+elvyss folds
+** Dealing flop ** [ 5Pik, 4Kreuz, 4Herz ]
+sergey14177 checks
+B2B_Suckouts bets [1,97 $]
+sergey14177 folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 631367756
+***** 888poker Hand History for Game 631367756 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:45:27
+Table Kimberley 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 2,07 $ )
+Seat 2: sergey14177 ( 1,33 $ )
+Seat 3: elvyss ( 1,95 $ )
+Seat 4: Matin189 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,11 $ )
+Seat 6: AspiringBuck ( 2,33 $ )
+Seat 7: Woffinden ( 2,55 $ )
+Seat 9: fstv92 ( 1,40 $ )
+Seat 10: rojser ( 2 $ )
+elvyss posts small blind [0,01 $]
+Matin189 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 7Karo ]
+B2B_Suckouts raises [0,06 $]
+AspiringBuck folds
+Woffinden folds
+fstv92 calls [0,06 $]
+rojser folds
+mikeOmike folds
+sergey14177 folds
+elvyss folds
+Matin189 calls [0,04 $]
+** Dealing flop ** [ 4Kreuz, QPik, 8Kreuz ]
+Matin189 checks
+B2B_Suckouts checks
+fstv92 checks
+** Dealing turn ** [ 3Kreuz ]
+Matin189 bets [0,14 $]
+B2B_Suckouts folds
+fstv92 folds
+** Summary **
+Matin189 did not show his hand
+Matin189 collected [ 0,18 $ ]
+
+
+
+#Game No : 631367812
+***** 888poker Hand History for Game 631367812 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:46:31
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 2,07 $ )
+Seat 2: sergey14177 ( 1,33 $ )
+Seat 3: elvyss ( 1,94 $ )
+Seat 4: Matin189 ( 2,12 $ )
+Seat 5: B2B_Suckouts ( 2,05 $ )
+Seat 6: AspiringBuck ( 2,33 $ )
+Seat 7: Woffinden ( 2,55 $ )
+Seat 9: fstv92 ( 1,40 $ )
+Seat 10: rojser ( 2 $ )
+Matin189 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 8Karo ]
+AspiringBuck folds
+Woffinden folds
+fstv92 raises [0,05 $]
+rojser folds
+mikeOmike folds
+sergey14177 folds
+elvyss calls [0,05 $]
+Matin189 calls [0,04 $]
+B2B_Suckouts folds
+** Dealing flop ** [ QKreuz, 5Pik, 7Kreuz ]
+Matin189 checks
+fstv92 checks
+elvyss checks
+** Dealing turn ** [ 6Kreuz ]
+Matin189 bets [0,08 $]
+fstv92 raises [0,20 $]
+elvyss folds
+Matin189 folds
+** Summary **
+fstv92 did not show his hand
+fstv92 collected [ 0,31 $ ]
+
+
+
+#Game No : 631367875
+***** 888poker Hand History for Game 631367875 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:48:04
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 2,07 $ )
+Seat 2: sergey14177 ( 1,33 $ )
+Seat 3: elvyss ( 1,89 $ )
+Seat 4: Matin189 ( 1,99 $ )
+Seat 5: B2B_Suckouts ( 2,03 $ )
+Seat 6: AspiringBuck ( 2,33 $ )
+Seat 7: Woffinden ( 2,55 $ )
+Seat 9: fstv92 ( 1,58 $ )
+Seat 10: rojser ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AspiringBuck posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 4Kreuz ]
+Woffinden folds
+fstv92 folds
+rojser folds
+mikeOmike raises [0,06 $]
+sergey14177 folds
+elvyss folds
+Matin189 calls [0,06 $]
+B2B_Suckouts folds
+AspiringBuck calls [0,04 $]
+** Dealing flop ** [ 7Karo, KHerz, 5Kreuz ]
+AspiringBuck checks
+mikeOmike checks
+Matin189 checks
+** Dealing turn ** [ 3Pik ]
+AspiringBuck bets [0,06 $]
+mikeOmike folds
+Matin189 calls [0,06 $]
+** Dealing river ** [ 10Karo ]
+AspiringBuck bets [0,10 $]
+Matin189 calls [0,10 $]
+** Summary **
+AspiringBuck shows [ 7Herz, 4Herz ]
+Matin189 shows [ 9Kreuz, 7Kreuz ]
+Matin189 collected [ 0,48 $ ]
+
+
+
+#Game No : 631367927
+***** 888poker Hand History for Game 631367927 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:49:18
+Table Kimberley 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 2,01 $ )
+Seat 2: sergey14177 ( 1,33 $ )
+Seat 3: elvyss ( 1,89 $ )
+Seat 4: Matin189 ( 2,25 $ )
+Seat 5: B2B_Suckouts ( 2,02 $ )
+Seat 6: AspiringBuck ( 2,11 $ )
+Seat 7: Woffinden ( 2,55 $ )
+Seat 9: fstv92 ( 1,58 $ )
+Seat 10: rojser ( 2 $ )
+AspiringBuck posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, KPik ]
+fstv92 folds
+rojser folds
+mikeOmike folds
+sergey14177 folds
+elvyss raises [0,08 $]
+Matin189 folds
+B2B_Suckouts raises [0,20 $]
+AspiringBuck folds
+Woffinden folds
+elvyss calls [0,12 $]
+** Dealing flop ** [ 9Pik, 3Pik, 10Karo ]
+elvyss checks
+B2B_Suckouts bets [0,14 $]
+elvyss calls [0,14 $]
+** Dealing turn ** [ 9Karo ]
+elvyss checks
+B2B_Suckouts bets [0,23 $]
+elvyss calls [0,23 $]
+** Dealing river ** [ QKaro ]
+elvyss checks
+B2B_Suckouts bets [0,38 $]
+elvyss calls [0,38 $]
+** Summary **
+B2B_Suckouts shows [ KKreuz, KPik ]
+elvyss mucks [ 10Pik, JPik ]
+B2B_Suckouts collected [ 1,81 $ ]
+
+
+
+#Game No : 631367990
+***** 888poker Hand History for Game 631367990 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:50:47
+Table Kimberley 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 2,01 $ )
+Seat 2: sergey14177 ( 1,33 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: Matin189 ( 2,25 $ )
+Seat 5: B2B_Suckouts ( 2,88 $ )
+Seat 6: AspiringBuck ( 2,10 $ )
+Seat 7: Woffinden ( 2,53 $ )
+Seat 9: fstv92 ( 1,58 $ )
+Seat 10: rojser ( 2 $ )
+Woffinden posts small blind [0,01 $]
+fstv92 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, KKreuz ]
+rojser folds
+mikeOmike folds
+sergey14177 calls [0,02 $]
+elvyss folds
+Matin189 folds
+B2B_Suckouts folds
+AspiringBuck raises [0,08 $]
+Woffinden folds
+fstv92 folds
+sergey14177 folds
+** Summary **
+AspiringBuck did not show his hand
+AspiringBuck collected [ 0,07 $ ]
+
+
+
+#Game No : 631368016
+***** 888poker Hand History for Game 631368016 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:51:14
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 2,01 $ )
+Seat 2: sergey14177 ( 1,31 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: Matin189 ( 2,25 $ )
+Seat 5: B2B_Suckouts ( 2,88 $ )
+Seat 6: AspiringBuck ( 2,15 $ )
+Seat 7: Woffinden ( 2,52 $ )
+Seat 9: fstv92 ( 1,56 $ )
+Seat 10: rojser ( 2 $ )
+fstv92 posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 2Pik ]
+mikeOmike folds
+sergey14177 folds
+elvyss folds
+Matin189 folds
+B2B_Suckouts folds
+AspiringBuck raises [0,06 $]
+Woffinden folds
+fstv92 folds
+rojser calls [0,04 $]
+** Dealing flop ** [ KKreuz, 3Kreuz, JHerz ]
+rojser checks
+AspiringBuck bets [0,06 $]
+rojser folds
+** Summary **
+AspiringBuck did not show his hand
+AspiringBuck collected [ 0,13 $ ]
+
+
+
+#Game No : 631368043
+***** 888poker Hand History for Game 631368043 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:51:47
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 2,01 $ )
+Seat 2: sergey14177 ( 1,31 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: Matin189 ( 2,25 $ )
+Seat 5: B2B_Suckouts ( 2,88 $ )
+Seat 6: AspiringBuck ( 2,22 $ )
+Seat 7: Woffinden ( 2,52 $ )
+Seat 9: fstv92 ( 1,55 $ )
+Seat 10: rojser ( 2 $ )
+rojser posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 7Kreuz ]
+sergey14177 folds
+elvyss folds
+Matin189 folds
+B2B_Suckouts folds
+AspiringBuck raises [0,07 $]
+Woffinden folds
+fstv92 folds
+rojser folds
+mikeOmike folds
+** Summary **
+AspiringBuck did not show his hand
+AspiringBuck collected [ 0,05 $ ]
+
+
+
+#Game No : 631368057
+***** 888poker Hand History for Game 631368057 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:52:01
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: sergey14177 ( 1,31 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: Matin189 ( 2,25 $ )
+Seat 5: B2B_Suckouts ( 2,88 $ )
+Seat 6: AspiringBuck ( 2,25 $ )
+Seat 7: Woffinden ( 2,52 $ )
+Seat 9: fstv92 ( 1,55 $ )
+Seat 10: rojser ( 2 $ )
+mikeOmike posts small blind [0,01 $]
+sergey14177 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 4Herz ]
+elvyss folds
+Matin189 raises [0,06 $]
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden raises [0,18 $]
+fstv92 folds
+rojser folds
+mikeOmike folds
+sergey14177 folds
+Matin189 calls [0,12 $]
+** Dealing flop ** [ 2Pik, 8Pik, 10Karo ]
+Matin189 checks
+Woffinden bets [0,25 $]
+Matin189 folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,37 $ ]
+
+
+
+#Game No : 631368098
+***** 888poker Hand History for Game 631368098 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:52:58
+Table Kimberley 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: sergey14177 ( 1,29 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: Matin189 ( 2,07 $ )
+Seat 5: B2B_Suckouts ( 2,88 $ )
+Seat 6: AspiringBuck ( 2,25 $ )
+Seat 7: Woffinden ( 2,71 $ )
+Seat 9: fstv92 ( 1,55 $ )
+Seat 10: rojser ( 2 $ )
+sergey14177 posts small blind [0,01 $]
+elvyss posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, AKreuz ]
+Matin189 raises [0,05 $]
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden folds
+fstv92 folds
+rojser folds
+mikeOmike folds
+sergey14177 folds
+elvyss folds
+** Summary **
+Matin189 did not show his hand
+Matin189 collected [ 0,05 $ ]
+
+
+
+#Game No : 631368118
+***** 888poker Hand History for Game 631368118 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:53:20
+Table Kimberley 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: sergey14177 ( 1,28 $ )
+Seat 3: elvyss ( 1,98 $ )
+Seat 4: Matin189 ( 2,10 $ )
+Seat 5: B2B_Suckouts ( 2,88 $ )
+Seat 6: AspiringBuck ( 2,25 $ )
+Seat 7: Woffinden ( 2,71 $ )
+Seat 9: fstv92 ( 1,55 $ )
+Seat 10: rojser ( 2 $ )
+elvyss posts small blind [0,01 $]
+Matin189 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 7Pik ]
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden raises [0,08 $]
+fstv92 folds
+rojser folds
+mikeOmike folds
+sergey14177 folds
+elvyss raises [0,23 $]
+Matin189 folds
+Woffinden calls [0,16 $]
+** Dealing flop ** [ 5Herz, APik, KKreuz ]
+elvyss checks
+Woffinden bets [0,33 $]
+elvyss folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,47 $ ]
+
+
+
+#Game No : 631368165
+***** 888poker Hand History for Game 631368165 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:54:17
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: sergey14177 ( 1,28 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: Matin189 ( 2,08 $ )
+Seat 5: B2B_Suckouts ( 2,88 $ )
+Seat 6: AspiringBuck ( 2,25 $ )
+Seat 7: Woffinden ( 2,94 $ )
+Seat 9: fstv92 ( 1,55 $ )
+Seat 10: rojser ( 2 $ )
+Matin189 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 8Kreuz ]
+AspiringBuck raises [0,06 $]
+Woffinden folds
+fstv92 folds
+rojser folds
+sergey14177 calls [0,06 $]
+elvyss folds
+Matin189 calls [0,05 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 8Herz, 4Karo, JKreuz ]
+Matin189 checks
+AspiringBuck checks
+sergey14177 checks
+** Dealing turn ** [ 7Herz ]
+Matin189 checks
+AspiringBuck checks
+sergey14177 checks
+** Dealing river ** [ 4Kreuz ]
+Matin189 checks
+AspiringBuck checks
+sergey14177 checks
+** Summary **
+Matin189 shows [ 8Karo, KKaro ]
+AspiringBuck mucks [ QKaro, 10Karo ]
+sergey14177 mucks [ QHerz, AKaro ]
+Matin189 collected [ 0,19 $ ]
+
+
+
+#Game No : 631368204
+***** 888poker Hand History for Game 631368204 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:55:11
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: sergey14177 ( 1,22 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: Matin189 ( 2,21 $ )
+Seat 5: B2B_Suckouts ( 2,86 $ )
+Seat 6: AspiringBuck ( 2,19 $ )
+Seat 7: Woffinden ( 2,94 $ )
+Seat 9: fstv92 ( 1,55 $ )
+Seat 10: rojser ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AspiringBuck posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 2Herz ]
+Woffinden raises [0,08 $]
+fstv92 folds
+rojser folds
+sergey14177 calls [0,08 $]
+elvyss folds
+Matin189 folds
+B2B_Suckouts folds
+AspiringBuck raises [0,28 $]
+Woffinden calls [0,22 $]
+sergey14177 folds
+** Dealing flop ** [ APik, 3Karo, 10Karo ]
+AspiringBuck bets [0,22 $]
+Woffinden folds
+** Summary **
+AspiringBuck collected [ 0,65 $ ]
+
+
+
+#Game No : 631368241
+***** 888poker Hand History for Game 631368241 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:55:55
+Table Kimberley 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: sergey14177 ( 1,14 $ )
+Seat 3: elvyss ( 2 $ )
+Seat 4: Matin189 ( 2,21 $ )
+Seat 5: B2B_Suckouts ( 2,85 $ )
+Seat 6: AspiringBuck ( 2,54 $ )
+Seat 7: Woffinden ( 2,64 $ )
+Seat 9: fstv92 ( 1,55 $ )
+Seat 10: rojser ( 2 $ )
+AspiringBuck posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 4Karo ]
+fstv92 folds
+rojser folds
+sergey14177 folds
+elvyss raises [0,08 $]
+Matin189 calls [0,08 $]
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden folds
+** Dealing flop ** [ QPik, QKaro, 4Kreuz ]
+elvyss bets [0,12 $]
+Matin189 calls [0,12 $]
+** Dealing turn ** [ 9Herz ]
+elvyss bets [0,28 $]
+Matin189 folds
+** Summary **
+elvyss collected [ 0,41 $ ]
+
+
+
+#Game No : 631368276
+***** 888poker Hand History for Game 631368276 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:56:39
+Table Kimberley 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 3: elvyss ( 2,21 $ )
+Seat 4: Matin189 ( 2,01 $ )
+Seat 5: B2B_Suckouts ( 2,85 $ )
+Seat 6: AspiringBuck ( 2,53 $ )
+Seat 7: Woffinden ( 2,62 $ )
+Seat 9: fstv92 ( 1,55 $ )
+Seat 10: rojser ( 2 $ )
+Woffinden posts small blind [0,01 $]
+fstv92 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 6Herz ]
+rojser folds
+elvyss raises [0,08 $]
+Matin189 raises [0,28 $]
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden folds
+fstv92 folds
+elvyss folds
+** Summary **
+Matin189 collected [ 0,19 $ ]
+
+
+
+#Game No : 631368291
+***** 888poker Hand History for Game 631368291 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:57:03
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 3: elvyss ( 2,13 $ )
+Seat 4: Matin189 ( 2,12 $ )
+Seat 5: B2B_Suckouts ( 2,85 $ )
+Seat 6: AspiringBuck ( 2,53 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 9: fstv92 ( 1,53 $ )
+Seat 10: rojser ( 2 $ )
+fstv92 posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 10Karo ]
+elvyss folds
+Matin189 raises [0,05 $]
+B2B_Suckouts folds
+AspiringBuck calls [0,05 $]
+Woffinden folds
+fstv92 raises [0,11 $]
+rojser folds
+Matin189 calls [0,07 $]
+AspiringBuck calls [0,07 $]
+** Dealing flop ** [ JKreuz, 5Karo, 9Karo ]
+fstv92 checks
+Matin189 checks
+AspiringBuck checks
+** Dealing turn ** [ QPik ]
+fstv92 bets [0,02 $]
+Matin189 folds
+AspiringBuck calls [0,02 $]
+** Dealing river ** [ 8Herz ]
+fstv92 bets [0,25 $]
+AspiringBuck folds
+** Summary **
+fstv92 collected [ 0,40 $ ]
+
+
+
+#Game No : 631368348
+***** 888poker Hand History for Game 631368348 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:58:03
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 2 $ )
+Seat 3: elvyss ( 2,13 $ )
+Seat 4: Matin189 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,85 $ )
+Seat 6: AspiringBuck ( 2,39 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 9: fstv92 ( 1,79 $ )
+Seat 10: rojser ( 2 $ )
+rojser posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 3Kreuz ]
+elvyss folds
+Matin189 folds
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden folds
+fstv92 folds
+rojser folds
+** Summary **
+mikeOmike collected [ 0,03 $ ]
+
+
+
+#Game No : 631368367
+***** 888poker Hand History for Game 631368367 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:58:25
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 2,01 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: elvyss ( 2,13 $ )
+Seat 4: Matin189 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,85 $ )
+Seat 6: AspiringBuck ( 2,39 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 10: rojser ( 2 $ )
+mikeOmike posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, KHerz ]
+elvyss folds
+Matin189 folds
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden folds
+rojser folds
+mikeOmike folds
+** Summary **
+Sherlok1295 collected [ 0,03 $ ]
+
+
+
+#Game No : 631368385
+***** 888poker Hand History for Game 631368385 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:58:46
+Table Kimberley 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: Sherlok1295 ( 2,01 $ )
+Seat 3: elvyss ( 2,13 $ )
+Seat 4: Matin189 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,85 $ )
+Seat 6: AspiringBuck ( 2,39 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 10: rojser ( 2 $ )
+Sherlok1295 posts small blind [0,01 $]
+elvyss posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 2Kreuz ]
+Matin189 folds
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden folds
+rojser folds
+mikeOmike folds
+Sherlok1295 folds
+** Summary **
+elvyss collected [ 0,03 $ ]
+
+
+
+#Game No : 631368405
+***** 888poker Hand History for Game 631368405 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:59:11
+Table Kimberley 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: elvyss ( 2,14 $ )
+Seat 4: Matin189 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,85 $ )
+Seat 6: AspiringBuck ( 2,39 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 10: rojser ( 2 $ )
+elvyss posts small blind [0,01 $]
+Matin189 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 7Kreuz ]
+B2B_Suckouts folds
+AspiringBuck raises [0,06 $]
+Woffinden folds
+rojser folds
+mikeOmike folds
+Sherlok1295 calls [0,06 $]
+elvyss folds
+Matin189 folds
+** Dealing flop ** [ 9Herz, 5Pik, 3Karo ]
+AspiringBuck bets [0,07 $]
+Sherlok1295 folds
+** Summary **
+AspiringBuck collected [ 0,15 $ ]
+
+
+
+#Game No : 631368434
+***** 888poker Hand History for Game 631368434 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 20:59:40
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: elvyss ( 2,13 $ )
+Seat 4: Matin189 ( 1,98 $ )
+Seat 5: B2B_Suckouts ( 2,85 $ )
+Seat 6: AspiringBuck ( 2,48 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 10: rojser ( 2 $ )
+Matin189 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 3Herz ]
+AspiringBuck folds
+Woffinden folds
+rojser folds
+mikeOmike folds
+Sherlok1295 folds
+elvyss folds
+Matin189 raises [0,05 $]
+B2B_Suckouts folds
+** Summary **
+Matin189 collected [ 0,04 $ ]
+
+
+
+#Game No : 631368460
+***** 888poker Hand History for Game 631368460 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:00:09
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: elvyss ( 2,13 $ )
+Seat 4: Matin189 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,83 $ )
+Seat 6: AspiringBuck ( 2,48 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 10: rojser ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AspiringBuck posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 6Kreuz ]
+Woffinden folds
+rojser folds
+mikeOmike folds
+Sherlok1295 folds
+elvyss folds
+Matin189 raises [0,06 $]
+B2B_Suckouts folds
+AspiringBuck calls [0,04 $]
+** Dealing flop ** [ KKaro, JHerz, 7Herz ]
+AspiringBuck checks
+Matin189 checks
+** Dealing turn ** [ 10Herz ]
+AspiringBuck bets [0,06 $]
+Matin189 calls [0,06 $]
+** Dealing river ** [ QKaro ]
+AspiringBuck bets [0,50 $]
+Matin189 raises [1 $]
+AspiringBuck raises [1,86 $]
+Matin189 calls [0,88 $]
+** Summary **
+Matin189 shows [ AHerz, AKreuz ]
+AspiringBuck shows [ 6Herz, 4Herz ]
+AspiringBuck collected [ 3,76 $ ]
+
+
+
+#Game No : 631368501
+***** 888poker Hand History for Game 631368501 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:00:55
+Table Kimberley 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: elvyss ( 2,13 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 6: AspiringBuck ( 4,24 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 10: rojser ( 2 $ )
+AspiringBuck posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 4Herz ]
+rojser folds
+mikeOmike folds
+Sherlok1295 folds
+elvyss folds
+B2B_Suckouts folds
+AspiringBuck folds
+** Summary **
+Woffinden collected [ 0,03 $ ]
+
+
+
+#Game No : 631368508
+***** 888poker Hand History for Game 631368508 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:01:10
+Table Kimberley 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: mikeOmike ( 2 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: elvyss ( 2,13 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 6: AspiringBuck ( 4,23 $ )
+Seat 7: Woffinden ( 2,62 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2 $ )
+Woffinden posts small blind [0,01 $]
+IIIpil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 4Kreuz ]
+rojser folds
+mikeOmike raises [0,06 $]
+Sherlok1295 folds
+elvyss folds
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden folds
+IIIpil folds
+** Summary **
+mikeOmike did not show his hand
+mikeOmike collected [ 0,05 $ ]
+
+
+
+#Game No : 631368535
+***** 888poker Hand History for Game 631368535 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:01:43
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 2,03 $ )
+Seat 3: elvyss ( 2,13 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 6: AspiringBuck ( 4,23 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2 $ )
+IIIpil posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, APik ]
+mikeOmike folds
+elvyss raises [0,06 $]
+B2B_Suckouts folds
+AspiringBuck folds
+Woffinden folds
+IIIpil folds
+rojser folds
+** Summary **
+elvyss collected [ 0,05 $ ]
+
+
+
+#Game No : 631368556
+***** 888poker Hand History for Game 631368556 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:02:09
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 2,03 $ )
+Seat 3: elvyss ( 2,16 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 6: AspiringBuck ( 4,23 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2 $ )
+rojser posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, QPik ]
+elvyss raises [0,06 $]
+B2B_Suckouts folds
+AspiringBuck raises [0,18 $]
+Woffinden folds
+IIIpil folds
+rojser folds
+mikeOmike folds
+elvyss folds
+** Summary **
+AspiringBuck collected [ 0,15 $ ]
+
+
+
+#Game No : 631368574
+***** 888poker Hand History for Game 631368574 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:02:31
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: mikeOmike ( 2,01 $ )
+Seat 2: Sherlok1295 ( 2 $ )
+Seat 3: elvyss ( 2,10 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2 $ )
+mikeOmike posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 2Pik ]
+elvyss folds
+B2B_Suckouts folds
+Woffinden folds
+IIIpil folds
+rojser folds
+mikeOmike folds
+** Summary **
+Sherlok1295 collected [ 0,03 $ ]
+
+
+
+#Game No : 631368634
+***** 888poker Hand History for Game 631368634 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:03:40
+Table Kimberley 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: Sherlok1295 ( 2,01 $ )
+Seat 3: elvyss ( 2,10 $ )
+Seat 4: floydsummers ( 1,40 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 7: Woffinden ( 2,61 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2 $ )
+elvyss posts small blind [0,01 $]
+floydsummers posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 2Kreuz ]
+B2B_Suckouts folds
+Woffinden raises [0,08 $]
+IIIpil folds
+rojser folds
+Sherlok1295 folds
+elvyss folds
+floydsummers folds
+** Summary **
+Woffinden collected [ 0,05 $ ]
+
+
+
+#Game No : 631368655
+***** 888poker Hand History for Game 631368655 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:04:01
+Table Kimberley 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: Sherlok1295 ( 2,01 $ )
+Seat 3: elvyss ( 2,09 $ )
+Seat 4: floydsummers ( 1,38 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 7: Woffinden ( 2,64 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2 $ )
+floydsummers posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 9Herz ]
+Woffinden folds
+IIIpil folds
+rojser folds
+Sherlok1295 folds
+elvyss folds
+floydsummers raises [0,05 $]
+B2B_Suckouts folds
+** Summary **
+floydsummers collected [ 0,04 $ ]
+
+
+
+#Game No : 631368698
+***** 888poker Hand History for Game 631368698 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:04:41
+Table Kimberley 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: Sherlok1295 ( 2,01 $ )
+Seat 3: elvyss ( 2,09 $ )
+Seat 4: floydsummers ( 1,40 $ )
+Seat 5: B2B_Suckouts ( 2,80 $ )
+Seat 7: Woffinden ( 2,64 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, KPik ]
+IIIpil folds
+rojser folds
+Sherlok1295 folds
+elvyss folds
+floydsummers folds
+B2B_Suckouts calls [0,01 $]
+Woffinden checks
+** Dealing flop ** [ 2Herz, KKreuz, 7Kreuz ]
+B2B_Suckouts bets [0,02 $]
+Woffinden folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 631368721
+***** 888poker Hand History for Game 631368721 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:05:13
+Table Kimberley 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: Sherlok1295 ( 2,01 $ )
+Seat 3: elvyss ( 2,09 $ )
+Seat 4: floydsummers ( 1,40 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 7: Woffinden ( 2,62 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2 $ )
+Woffinden posts small blind [0,01 $]
+IIIpil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 4Herz ]
+rojser folds
+Sherlok1295 folds
+elvyss folds
+floydsummers folds
+B2B_Suckouts folds
+Woffinden raises [0,07 $]
+IIIpil folds
+** Summary **
+Woffinden collected [ 0,04 $ ]
+
+
+
+#Game No : 631368743
+***** 888poker Hand History for Game 631368743 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:05:40
+Table Kimberley 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: Sherlok1295 ( 2,01 $ )
+Seat 3: elvyss ( 2,09 $ )
+Seat 4: floydsummers ( 1,40 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 7: Woffinden ( 2,64 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2 $ )
+IIIpil posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 7Kreuz ]
+Sherlok1295 folds
+elvyss folds
+floydsummers folds
+B2B_Suckouts folds
+Woffinden folds
+IIIpil folds
+** Summary **
+rojser collected [ 0,03 $ ]
+
+
+
+#Game No : 631368755
+***** 888poker Hand History for Game 631368755 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:05:55
+Table Kimberley 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: Sherlok1295 ( 2,01 $ )
+Seat 3: elvyss ( 2,09 $ )
+Seat 4: floydsummers ( 1,40 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 7: Woffinden ( 2,64 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2,01 $ )
+rojser posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 10Herz ]
+elvyss folds
+floydsummers folds
+B2B_Suckouts folds
+Woffinden folds
+IIIpil folds
+rojser folds
+** Summary **
+Sherlok1295 collected [ 0,03 $ ]
+
+
+
+#Game No : 631368764
+***** 888poker Hand History for Game 631368764 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 21:06:08
+Table Kimberley 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: Sherlok1295 ( 2,02 $ )
+Seat 3: elvyss ( 2,09 $ )
+Seat 4: floydsummers ( 1,40 $ )
+Seat 5: B2B_Suckouts ( 2,82 $ )
+Seat 7: Woffinden ( 2,64 $ )
+Seat 9: IIIpil ( 1,20 $ )
+Seat 10: rojser ( 2 $ )
+Sherlok1295 posts small blind [0,01 $]
+elvyss posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 10Kreuz ]
+floydsummers folds
+B2B_Suckouts folds
+Woffinden folds
+IIIpil folds
+rojser folds
+Sherlok1295 folds
+** Summary **
+elvyss collected [ 0,03 $ ]
+
+
+
