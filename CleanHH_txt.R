@@ -26,7 +26,13 @@ k <- lapply(sesh, function(x){
 })
 HandS <- sapply(k, length)
 sum(HandS) # 2878 Hands of 2NL
-#
+## Hands Played Barplot ##
+Handbd <- tapply(HandS, names(HandS), sum)
+barplot(Handbd)
+# split session into hands
+splitAt <- function(x, pos) unname(split(x, cumsum(seq_along(x) %in% pos)))
+# Handwise
+
 # setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
 saveRDS(sesh, file ="Hand_History_List.rds")
 ##########################################################################################################################
