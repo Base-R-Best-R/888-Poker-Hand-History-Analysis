@@ -1,0 +1,2695 @@
+#Game No : 551578932
+***** 888poker Hand History for Game 551578932 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:42:37
+Table Bridgeport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,97 $ )
+Seat 2: xxflashxxx ( 2,03 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 5: Detleffcb ( 1,42 $ )
+Seat 7: KS988 ( 3,12 $ )
+Seat 9: BlueChipMD01 ( 1,95 $ )
+Seat 10: gimeurchips ( 2,23 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 10Herz ]
+Detleffcb folds
+KS988 calls [0,02 $]
+BlueChipMD01 raises [0,08 $]
+gimeurchips folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+KS988 calls [0,06 $]
+** Dealing flop ** [ 9Herz, AKaro, 8Herz ]
+KS988 checks
+BlueChipMD01 bets [0,12 $]
+KS988 calls [0,12 $]
+** Dealing turn ** [ 3Kreuz ]
+KS988 checks
+BlueChipMD01 checks
+** Dealing river ** [ 8Pik ]
+KS988 bets [0,21 $]
+BlueChipMD01 folds
+** Summary **
+KS988 collected [ 0,41 $ ]
+
+
+
+#Game No : 551578992
+***** 888poker Hand History for Game 551578992 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:43:49
+Table Bridgeport 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,97 $ )
+Seat 2: xxflashxxx ( 2,02 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: Detleffcb ( 1,42 $ )
+Seat 7: KS988 ( 3,33 $ )
+Seat 9: BlueChipMD01 ( 1,75 $ )
+Seat 10: gimeurchips ( 2,23 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 7Pik ]
+Detleffcb calls [0,02 $]
+KS988 calls [0,02 $]
+BlueChipMD01 raises [0,11 $]
+gimeurchips folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+Detleffcb folds
+KS988 calls [0,09 $]
+** Dealing flop ** [ 10Herz, 2Kreuz, KPik ]
+KS988 checks
+BlueChipMD01 bets [0,22 $]
+KS988 folds
+** Summary **
+BlueChipMD01 did not show his hand
+BlueChipMD01 collected [ 0,26 $ ]
+
+
+
+#Game No : 551579060
+***** 888poker Hand History for Game 551579060 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:45:13
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,97 $ )
+Seat 2: xxflashxxx ( 2,02 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: Detleffcb ( 1,40 $ )
+Seat 7: KS988 ( 3,22 $ )
+Seat 9: BlueChipMD01 ( 1,90 $ )
+Seat 10: gimeurchips ( 2,23 $ )
+Johnyspb1 posts small blind [0,01 $]
+Detleffcb posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 5Karo ]
+KS988 folds
+BlueChipMD01 raises [0,06 $]
+gimeurchips folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+Detleffcb folds
+** Summary **
+BlueChipMD01 did not show his hand
+BlueChipMD01 collected [ 0,05 $ ]
+
+
+
+#Game No : 551579094
+***** 888poker Hand History for Game 551579094 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:46:00
+Table Bridgeport 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,97 $ )
+Seat 2: xxflashxxx ( 2,02 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: Detleffcb ( 1,38 $ )
+Seat 7: KS988 ( 3,22 $ )
+Seat 9: BlueChipMD01 ( 1,93 $ )
+Seat 10: gimeurchips ( 2,23 $ )
+Detleffcb posts small blind [0,01 $]
+KS988 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 8Karo ]
+BlueChipMD01 folds
+gimeurchips folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+Johnyspb1 folds
+Detleffcb calls [0,05 $]
+KS988 calls [0,04 $]
+** Dealing flop ** [ 10Karo, 4Pik, 4Herz ]
+Detleffcb checks
+KS988 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 2Pik ]
+Detleffcb checks
+KS988 checks
+B2B_Suckouts checks
+** Dealing river ** [ 8Herz ]
+Detleffcb checks
+KS988 bets [0,02 $]
+B2B_Suckouts raises [0,06 $]
+Detleffcb calls [0,06 $]
+KS988 folds
+** Summary **
+B2B_Suckouts shows [ AHerz, 8Karo ]
+Detleffcb mucks [ 6Pik, 8Pik ]
+B2B_Suckouts collected [ 0,30 $ ]
+
+
+
+#Game No : 551579156
+***** 888poker Hand History for Game 551579156 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:47:07
+Table Bridgeport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,97 $ )
+Seat 2: xxflashxxx ( 2,02 $ )
+Seat 3: B2B_Suckouts ( 2,18 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: Detleffcb ( 1,26 $ )
+Seat 7: KS988 ( 3,14 $ )
+Seat 9: BlueChipMD01 ( 1,93 $ )
+Seat 10: gimeurchips ( 2,23 $ )
+KS988 posts small blind [0,01 $]
+BlueChipMD01 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 8Herz ]
+gimeurchips folds
+SoveTnik90 folds
+xxflashxxx raises [0,04 $]
+B2B_Suckouts folds
+Johnyspb1 folds
+Detleffcb calls [0,04 $]
+KS988 calls [0,03 $]
+BlueChipMD01 folds
+** Dealing flop ** [ KHerz, 4Kreuz, 6Herz ]
+KS988 bets [0,02 $]
+xxflashxxx raises [0,11 $]
+Detleffcb calls [0,11 $]
+KS988 folds
+** Dealing turn ** [ 2Karo ]
+xxflashxxx bets [0,19 $]
+Detleffcb calls [0,19 $]
+** Dealing river ** [ KKaro ]
+xxflashxxx bets [0,50 $]
+Detleffcb folds
+** Summary **
+xxflashxxx collected [ 0,72 $ ]
+
+
+
+#Game No : 551579221
+***** 888poker Hand History for Game 551579221 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:48:14
+Table Bridgeport 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,97 $ )
+Seat 2: xxflashxxx ( 2,40 $ )
+Seat 3: B2B_Suckouts ( 2,18 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: Detleffcb ( 0,92 $ )
+Seat 7: KS988 ( 3,08 $ )
+Seat 9: BlueChipMD01 ( 1,91 $ )
+Seat 10: gimeurchips ( 2,23 $ )
+BlueChipMD01 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 8Herz ]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 calls [0,02 $]
+Detleffcb folds
+KS988 folds
+BlueChipMD01 folds
+gimeurchips checks
+** Dealing flop ** [ 9Kreuz, JPik, 7Herz ]
+gimeurchips bets [0,05 $]
+Johnyspb1 folds
+** Summary **
+gimeurchips collected [ 0,05 $ ]
+
+
+
+#Game No : 551579253
+***** 888poker Hand History for Game 551579253 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:48:49
+Table Bridgeport 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,97 $ )
+Seat 2: xxflashxxx ( 2,40 $ )
+Seat 3: B2B_Suckouts ( 2,18 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 7: KS988 ( 3,08 $ )
+Seat 9: BlueChipMD01 ( 1,90 $ )
+Seat 10: gimeurchips ( 2,26 $ )
+gimeurchips posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 7Karo ]
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+Johnyspb1 folds
+KS988 folds
+BlueChipMD01 folds
+gimeurchips folds
+SoveTnik90 folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551579271
+***** 888poker Hand History for Game 551579271 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:49:10
+Table Bridgeport 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,95 $ )
+Seat 2: xxflashxxx ( 2,40 $ )
+Seat 3: B2B_Suckouts ( 2,21 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 7: KS988 ( 3,08 $ )
+Seat 9: BlueChipMD01 ( 1,90 $ )
+Seat 10: gimeurchips ( 2,25 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 7Pik ]
+B2B_Suckouts folds
+Johnyspb1 folds
+KS988 folds
+BlueChipMD01 folds
+gimeurchips folds
+SoveTnik90 folds
+** Summary **
+xxflashxxx collected [ 0,03 $ ]
+
+
+
+#Game No : 551579292
+***** 888poker Hand History for Game 551579292 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:49:34
+Table Bridgeport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,94 $ )
+Seat 2: xxflashxxx ( 2,41 $ )
+Seat 3: B2B_Suckouts ( 2,21 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 7: KS988 ( 3,08 $ )
+Seat 9: BlueChipMD01 ( 1,90 $ )
+Seat 10: gimeurchips ( 2,25 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, KKreuz ]
+Johnyspb1 folds
+KS988 folds
+BlueChipMD01 folds
+gimeurchips raises [0,06 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+** Summary **
+gimeurchips collected [ 0,05 $ ]
+
+
+
+#Game No : 551579328
+***** 888poker Hand History for Game 551579328 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:50:19
+Table Bridgeport 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,94 $ )
+Seat 2: xxflashxxx ( 2,40 $ )
+Seat 3: B2B_Suckouts ( 2,19 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 7: KS988 ( 3,08 $ )
+Seat 9: BlueChipMD01 ( 1,90 $ )
+Seat 10: gimeurchips ( 2,28 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 10Pik ]
+KS988 folds
+BlueChipMD01 folds
+gimeurchips folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,05 $]
+Johnyspb1 folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 551579355
+***** 888poker Hand History for Game 551579355 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:50:49
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,94 $ )
+Seat 2: xxflashxxx ( 2,40 $ )
+Seat 3: B2B_Suckouts ( 2,21 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 0,80 $ )
+Seat 7: KS988 ( 3,08 $ )
+Seat 9: BlueChipMD01 ( 1,90 $ )
+Seat 10: gimeurchips ( 2,28 $ )
+Johnyspb1 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, JKreuz ]
+KS988 calls [0,02 $]
+BlueChipMD01 raises [0,04 $]
+gimeurchips folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 calls [0,02 $]
+KS988 calls [0,02 $]
+** Dealing flop ** [ 10Karo, 2Karo, 10Pik ]
+heureka2 checks
+KS988 bets [0,06 $]
+BlueChipMD01 calls [0,06 $]
+heureka2 folds
+** Dealing turn ** [ 3Kreuz ]
+KS988 bets [0,20 $]
+BlueChipMD01 calls [0,20 $]
+** Dealing river ** [ JKaro ]
+KS988 bets [0,10 $]
+BlueChipMD01 calls [0,10 $]
+** Summary **
+KS988 shows [ 5Herz, 5Pik ]
+BlueChipMD01 shows [ AKaro, 10Kreuz ]
+BlueChipMD01 collected [ 0,80 $ ]
+
+
+
+#Game No : 551579477
+***** 888poker Hand History for Game 551579477 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:52:51
+Table Bridgeport 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,94 $ )
+Seat 2: xxflashxxx ( 2,40 $ )
+Seat 3: B2B_Suckouts ( 2,21 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 0,76 $ )
+Seat 6: huddrez ( 1,40 $ )
+Seat 7: KS988 ( 2,68 $ )
+Seat 9: BlueChipMD01 ( 2,30 $ )
+Seat 10: gimeurchips ( 2,28 $ )
+heureka2 posts small blind [0,01 $]
+huddrez posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 9Pik ]
+KS988 calls [0,02 $]
+BlueChipMD01 folds
+gimeurchips folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez raises [0,03 $]
+KS988 calls [0,03 $]
+** Dealing flop ** [ AKreuz, 10Herz, 8Karo ]
+huddrez checks
+KS988 bets [0,07 $]
+huddrez calls [0,07 $]
+** Dealing turn ** [ 5Herz ]
+huddrez bets [0,08 $]
+KS988 raises [0,32 $]
+huddrez raises [0,88 $]
+KS988 raises [1,28 $]
+huddrez calls [0,32 $]
+** Dealing river ** [ 2Karo ]
+** Summary **
+huddrez shows [ AHerz, AKaro ]
+KS988 shows [ APik, 5Karo ]
+huddrez collected [ 2,64 $ ]
+
+
+
+#Game No : 551579570
+***** 888poker Hand History for Game 551579570 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:54:16
+Table Bridgeport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,94 $ )
+Seat 2: xxflashxxx ( 2,40 $ )
+Seat 3: B2B_Suckouts ( 2,21 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 0,75 $ )
+Seat 6: huddrez ( 2,64 $ )
+Seat 7: KS988 ( 1,28 $ )
+Seat 9: BlueChipMD01 ( 2,30 $ )
+Seat 10: gimeurchips ( 2,28 $ )
+huddrez posts small blind [0,01 $]
+KS988 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, AKaro ]
+BlueChipMD01 raises [0,06 $]
+gimeurchips folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts calls [0,06 $]
+Johnyspb1 folds
+heureka2 calls [0,06 $]
+huddrez folds
+KS988 folds
+** Dealing flop ** [ 5Kreuz, 8Kreuz, JHerz ]
+BlueChipMD01 bets [0,13 $]
+B2B_Suckouts folds
+heureka2 calls [0,13 $]
+** Dealing turn ** [ 6Pik ]
+BlueChipMD01 bets [0,34 $]
+heureka2 calls [0,34 $]
+** Dealing river ** [ 7Kreuz ]
+BlueChipMD01 checks
+heureka2 bets [0,22 $]
+BlueChipMD01 folds
+** Summary **
+heureka2 did not show his hand
+heureka2 collected [ 1,08 $ ]
+
+
+
+#Game No : 551579646
+***** 888poker Hand History for Game 551579646 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:55:33
+Table Bridgeport 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,94 $ )
+Seat 2: xxflashxxx ( 2,40 $ )
+Seat 3: B2B_Suckouts ( 2,15 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,30 $ )
+Seat 6: huddrez ( 2,63 $ )
+Seat 7: KS988 ( 1,26 $ )
+Seat 9: BlueChipMD01 ( 1,77 $ )
+Seat 10: gimeurchips ( 2,28 $ )
+KS988 posts small blind [0,01 $]
+BlueChipMD01 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, AKreuz ]
+gimeurchips raises [0,06 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,18 $]
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+KS988 folds
+BlueChipMD01 folds
+gimeurchips calls [0,12 $]
+** Dealing flop ** [ 3Karo, AKaro, 8Pik ]
+gimeurchips checks
+B2B_Suckouts bets [0,12 $]
+gimeurchips folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,37 $ ]
+
+
+
+#Game No : 551579711
+***** 888poker Hand History for Game 551579711 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:56:30
+Table Bridgeport 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,94 $ )
+Seat 2: xxflashxxx ( 2,40 $ )
+Seat 3: B2B_Suckouts ( 2,34 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,30 $ )
+Seat 6: huddrez ( 2,63 $ )
+Seat 9: BlueChipMD01 ( 1,75 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 9Pik ]
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 calls [0,02 $]
+huddrez folds
+BlueChipMD01 folds
+SoveTnik90 folds
+xxflashxxx checks
+** Dealing flop ** [ 2Karo, 3Karo, 8Herz ]
+xxflashxxx checks
+heureka2 checks
+** Dealing turn ** [ 7Karo ]
+xxflashxxx checks
+heureka2 checks
+** Dealing river ** [ 3Kreuz ]
+xxflashxxx checks
+heureka2 checks
+** Summary **
+xxflashxxx shows [ QPik, KHerz ]
+heureka2 mucks [ 9Herz, QHerz ]
+xxflashxxx collected [ 0,05 $ ]
+
+
+
+#Game No : 551579749
+***** 888poker Hand History for Game 551579749 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:57:06
+Table Bridgeport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,93 $ )
+Seat 2: xxflashxxx ( 2,43 $ )
+Seat 3: B2B_Suckouts ( 2,34 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,28 $ )
+Seat 6: huddrez ( 2,63 $ )
+Seat 7: OKE_RASTA_J ( 0,80 $ )
+Seat 9: BlueChipMD01 ( 1,75 $ )
+Seat 10: kkestt ( 1,40 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+OKE_RASTA_J posts big blind [0,02 $]
+kkestt posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 10Karo ]
+Johnyspb1 folds
+heureka2 calls [0,02 $]
+huddrez folds
+OKE_RASTA_J checks
+BlueChipMD01 folds
+kkestt checks
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts checks
+** Dealing flop ** [ JKaro, 7Karo, 10Herz ]
+B2B_Suckouts checks
+heureka2 bets [0,08 $]
+OKE_RASTA_J calls [0,08 $]
+kkestt folds
+B2B_Suckouts folds
+** Dealing turn ** [ QKaro ]
+heureka2 bets [0,08 $]
+OKE_RASTA_J calls [0,08 $]
+** Dealing river ** [ AKaro ]
+heureka2 bets [0,08 $]
+OKE_RASTA_J calls [0,08 $]
+** Summary **
+heureka2 shows [ KPik, JHerz ]
+OKE_RASTA_J shows [ 8Herz, 9Karo ]
+OKE_RASTA_J collected [ 0,54 $ ]
+
+
+
+#Game No : 551579844
+***** 888poker Hand History for Game 551579844 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:58:45
+Table Bridgeport 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,93 $ )
+Seat 2: xxflashxxx ( 2,42 $ )
+Seat 3: B2B_Suckouts ( 2,32 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,02 $ )
+Seat 6: huddrez ( 2,63 $ )
+Seat 7: OKE_RASTA_J ( 1,08 $ )
+Seat 9: BlueChipMD01 ( 1,75 $ )
+Seat 10: kkestt ( 1,38 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 6Karo ]
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+BlueChipMD01 raises [0,06 $]
+kkestt calls [0,06 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 calls [0,04 $]
+** Dealing flop ** [ 2Karo, JKaro, 10Kreuz ]
+Johnyspb1 checks
+BlueChipMD01 bets [0,10 $]
+kkestt folds
+Johnyspb1 calls [0,10 $]
+** Dealing turn ** [ 10Karo ]
+Johnyspb1 checks
+BlueChipMD01 checks
+** Dealing river ** [ 3Karo ]
+Johnyspb1 checks
+BlueChipMD01 checks
+** Summary **
+Johnyspb1 shows [ KHerz, QPik ]
+BlueChipMD01 shows [ AHerz, JPik ]
+BlueChipMD01 collected [ 0,37 $ ]
+
+
+
+#Game No : 551579911
+***** 888poker Hand History for Game 551579911 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:59:53
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,93 $ )
+Seat 2: xxflashxxx ( 2,42 $ )
+Seat 3: B2B_Suckouts ( 2,31 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,02 $ )
+Seat 6: huddrez ( 2,63 $ )
+Seat 7: OKE_RASTA_J ( 1,08 $ )
+Seat 9: BlueChipMD01 ( 1,96 $ )
+Seat 10: kkestt ( 1,32 $ )
+Johnyspb1 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, KKreuz ]
+huddrez folds
+OKE_RASTA_J folds
+BlueChipMD01 folds
+kkestt calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 checks
+** Dealing flop ** [ APik, 5Herz, 9Karo ]
+heureka2 checks
+kkestt bets [0,02 $]
+heureka2 folds
+** Summary **
+kkestt did not show his hand
+kkestt collected [ 0,05 $ ]
+
+
+
+#Game No : 551579945
+***** 888poker Hand History for Game 551579945 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:00:24
+Table Bridgeport 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,93 $ )
+Seat 2: xxflashxxx ( 2,42 $ )
+Seat 3: B2B_Suckouts ( 2,31 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1 $ )
+Seat 6: huddrez ( 2,63 $ )
+Seat 7: OKE_RASTA_J ( 1,08 $ )
+Seat 9: BlueChipMD01 ( 1,96 $ )
+Seat 10: kkestt ( 1,35 $ )
+heureka2 posts small blind [0,01 $]
+huddrez posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 9Karo ]
+OKE_RASTA_J folds
+BlueChipMD01 folds
+kkestt calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+kkestt calls [0,04 $]
+** Dealing flop ** [ 9Pik, 8Pik, 9Herz ]
+kkestt checks
+B2B_Suckouts bets [0,04 $]
+kkestt folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 551580002
+***** 888poker Hand History for Game 551580002 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:01:17
+Table Bridgeport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,93 $ )
+Seat 2: xxflashxxx ( 2,42 $ )
+Seat 3: B2B_Suckouts ( 2,40 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 0,99 $ )
+Seat 6: huddrez ( 2,61 $ )
+Seat 7: OKE_RASTA_J ( 1,08 $ )
+Seat 9: BlueChipMD01 ( 1,96 $ )
+Seat 10: kkestt ( 1,29 $ )
+huddrez posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, APik ]
+BlueChipMD01 folds
+kkestt calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+kkestt calls [0,04 $]
+** Dealing flop ** [ QKaro, 7Kreuz, 3Herz ]
+kkestt checks
+B2B_Suckouts bets [0,04 $]
+kkestt raises [0,08 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing turn ** [ KKaro ]
+kkestt checks
+B2B_Suckouts bets [0,10 $]
+kkestt calls [0,10 $]
+** Dealing river ** [ JKaro ]
+kkestt checks
+B2B_Suckouts bets [0,16 $]
+kkestt folds
+** Summary **
+B2B_Suckouts collected [ 0,48 $ ]
+
+
+
+#Game No : 551580066
+***** 888poker Hand History for Game 551580066 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:02:23
+Table Bridgeport 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,93 $ )
+Seat 2: xxflashxxx ( 2,42 $ )
+Seat 3: B2B_Suckouts ( 2,64 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 0,99 $ )
+Seat 6: huddrez ( 2,60 $ )
+Seat 7: OKE_RASTA_J ( 1,06 $ )
+Seat 9: defmoon ( 2 $ )
+Seat 10: kkestt ( 1,05 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 9Pik ]
+kkestt calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 calls [0,02 $]
+huddrez raises [0,08 $]
+OKE_RASTA_J folds
+defmoon folds
+kkestt calls [0,06 $]
+heureka2 folds
+** Dealing flop ** [ JKaro, 4Pik, 3Pik ]
+kkestt checks
+huddrez bets [0,08 $]
+kkestt calls [0,08 $]
+** Dealing turn ** [ 10Kreuz ]
+kkestt checks
+huddrez bets [0,18 $]
+kkestt calls [0,18 $]
+** Dealing river ** [ 5Herz ]
+kkestt checks
+huddrez bets [0,24 $]
+kkestt calls [0,24 $]
+** Summary **
+huddrez shows [ KHerz, JKreuz ]
+kkestt mucks [ JHerz, QPik ]
+huddrez collected [ 1,14 $ ]
+
+
+
+#Game No : 551580139
+***** 888poker Hand History for Game 551580139 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:03:42
+Table Bridgeport 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,93 $ )
+Seat 2: xxflashxxx ( 2,42 $ )
+Seat 3: B2B_Suckouts ( 2,64 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 0,97 $ )
+Seat 6: huddrez ( 3,16 $ )
+Seat 7: OKE_RASTA_J ( 1,05 $ )
+Seat 9: defmoon ( 1,98 $ )
+Seat 10: kkestt ( 0,47 $ )
+defmoon posts small blind [0,01 $]
+kkestt posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 2Karo ]
+SoveTnik90 folds
+xxflashxxx calls [0,02 $]
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez raises [0,06 $]
+OKE_RASTA_J folds
+defmoon folds
+kkestt calls [0,04 $]
+xxflashxxx calls [0,04 $]
+** Dealing flop ** [ JKaro, JHerz, 6Herz ]
+kkestt checks
+xxflashxxx checks
+huddrez checks
+** Dealing turn ** [ 10Kreuz ]
+kkestt checks
+xxflashxxx checks
+huddrez bets [0,12 $]
+kkestt folds
+xxflashxxx folds
+** Summary **
+huddrez did not show his hand
+huddrez collected [ 0,18 $ ]
+
+
+
+#Game No : 551580217
+***** 888poker Hand History for Game 551580217 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:05:00
+Table Bridgeport 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,93 $ )
+Seat 2: xxflashxxx ( 2,36 $ )
+Seat 3: B2B_Suckouts ( 2,64 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 0,97 $ )
+Seat 6: huddrez ( 3,28 $ )
+Seat 7: OKE_RASTA_J ( 1,05 $ )
+Seat 9: defmoon ( 1,97 $ )
+Seat 10: kkestt ( 0,41 $ )
+kkestt posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, KKaro ]
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 raises [0,06 $]
+heureka2 folds
+huddrez folds
+OKE_RASTA_J calls [0,06 $]
+defmoon folds
+kkestt folds
+SoveTnik90 folds
+** Dealing flop ** [ 3Karo, JHerz, QHerz ]
+Johnyspb1 bets [0,08 $]
+OKE_RASTA_J calls [0,08 $]
+** Dealing turn ** [ KHerz ]
+Johnyspb1 checks
+OKE_RASTA_J bets [0,08 $]
+Johnyspb1 calls [0,08 $]
+** Dealing river ** [ JKaro ]
+Johnyspb1 checks
+OKE_RASTA_J bets [0,83 $]
+Johnyspb1 folds
+** Summary **
+OKE_RASTA_J did not show his hand
+OKE_RASTA_J collected [ 0,45 $ ]
+
+
+
+#Game No : 551580301
+***** 888poker Hand History for Game 551580301 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:06:27
+Table Bridgeport 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,91 $ )
+Seat 2: xxflashxxx ( 2,36 $ )
+Seat 3: B2B_Suckouts ( 2,64 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 0,97 $ )
+Seat 6: huddrez ( 3,28 $ )
+Seat 7: OKE_RASTA_J ( 1,28 $ )
+Seat 9: defmoon ( 1,97 $ )
+Seat 10: kkestt ( 0,40 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, KPik ]
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 calls [0,02 $]
+huddrez folds
+OKE_RASTA_J calls [0,02 $]
+defmoon folds
+kkestt calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx checks
+** Dealing flop ** [ 3Herz, 6Herz, 4Karo ]
+xxflashxxx checks
+heureka2 bets [0,02 $]
+OKE_RASTA_J folds
+kkestt calls [0,02 $]
+xxflashxxx folds
+** Dealing turn ** [ 10Herz ]
+heureka2 bets [0,08 $]
+kkestt folds
+** Summary **
+heureka2 did not show his hand
+heureka2 collected [ 0,13 $ ]
+
+
+
+#Game No : 551580352
+***** 888poker Hand History for Game 551580352 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:07:17
+Table Bridgeport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,90 $ )
+Seat 2: xxflashxxx ( 2,34 $ )
+Seat 3: B2B_Suckouts ( 2,64 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,06 $ )
+Seat 6: huddrez ( 3,28 $ )
+Seat 7: OKE_RASTA_J ( 1,26 $ )
+Seat 9: defmoon ( 1,97 $ )
+Seat 10: kkestt ( 0,36 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 4Kreuz ]
+Johnyspb1 folds
+heureka2 folds
+huddrez raises [0,06 $]
+OKE_RASTA_J folds
+defmoon calls [0,06 $]
+kkestt calls [0,06 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+** Dealing flop ** [ 6Pik, 9Pik, 6Karo ]
+huddrez checks
+defmoon checks
+kkestt checks
+** Dealing turn ** [ QPik ]
+huddrez checks
+defmoon bets [0,10 $]
+kkestt calls [0,10 $]
+huddrez folds
+** Dealing river ** [ 4Herz ]
+defmoon bets [0,20 $]
+kkestt calls [0,20 $]
+** Summary **
+defmoon shows [ AHerz, QHerz ]
+kkestt shows [ 4Pik, 6Herz ]
+kkestt collected [ 0,76 $ ]
+
+
+
+#Game No : 551580432
+***** 888poker Hand History for Game 551580432 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:08:32
+Table Bridgeport 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,90 $ )
+Seat 2: xxflashxxx ( 2,33 $ )
+Seat 3: B2B_Suckouts ( 2,62 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,06 $ )
+Seat 6: huddrez ( 3,22 $ )
+Seat 7: OKE_RASTA_J ( 1,26 $ )
+Seat 9: defmoon ( 1,61 $ )
+Seat 10: kkestt ( 0,76 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, QKaro ]
+heureka2 folds
+huddrez raises [0,04 $]
+OKE_RASTA_J folds
+defmoon calls [0,04 $]
+kkestt calls [0,04 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+** Dealing flop ** [ 4Karo, 6Kreuz, QPik ]
+huddrez bets [0,04 $]
+defmoon calls [0,04 $]
+kkestt folds
+** Dealing turn ** [ 8Herz ]
+huddrez bets [0,07 $]
+defmoon calls [0,07 $]
+** Dealing river ** [ 8Pik ]
+huddrez bets [0,10 $]
+defmoon folds
+** Summary **
+huddrez did not show his hand
+huddrez collected [ 0,35 $ ]
+
+
+
+#Game No : 551580516
+***** 888poker Hand History for Game 551580516 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:09:42
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,90 $ )
+Seat 2: xxflashxxx ( 2,33 $ )
+Seat 3: B2B_Suckouts ( 2,61 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,06 $ )
+Seat 6: huddrez ( 3,42 $ )
+Seat 7: OKE_RASTA_J ( 1,26 $ )
+Seat 9: defmoon ( 1,46 $ )
+Seat 10: kkestt ( 0,72 $ )
+Johnyspb1 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 9Karo ]
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+kkestt calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 raises [0,07 $]
+heureka2 folds
+kkestt calls [0,06 $]
+** Dealing flop ** [ 5Herz, 2Pik, 8Karo ]
+Johnyspb1 bets [0,11 $]
+kkestt folds
+** Summary **
+Johnyspb1 did not show his hand
+Johnyspb1 collected [ 0,17 $ ]
+
+
+
+#Game No : 551580571
+***** 888poker Hand History for Game 551580571 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:10:30
+Table Bridgeport 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,90 $ )
+Seat 2: xxflashxxx ( 2,33 $ )
+Seat 3: B2B_Suckouts ( 2,61 $ )
+Seat 4: Johnyspb1 ( 2,09 $ )
+Seat 5: heureka2 ( 1,04 $ )
+Seat 6: huddrez ( 3,42 $ )
+Seat 7: OKE_RASTA_J ( 1,26 $ )
+Seat 9: defmoon ( 1,46 $ )
+Seat 10: kkestt ( 0,64 $ )
+heureka2 posts small blind [0,01 $]
+huddrez posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 10Herz ]
+OKE_RASTA_J folds
+defmoon folds
+kkestt calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez checks
+** Dealing flop ** [ 6Herz, KHerz, 2Kreuz ]
+huddrez checks
+kkestt bets [0,02 $]
+huddrez calls [0,02 $]
+** Dealing turn ** [ AHerz ]
+huddrez checks
+kkestt checks
+** Dealing river ** [ JKreuz ]
+huddrez bets [0,04 $]
+kkestt folds
+** Summary **
+huddrez did not show his hand
+huddrez collected [ 0,09 $ ]
+
+
+
+#Game No : 551580624
+***** 888poker Hand History for Game 551580624 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:11:20
+Table Bridgeport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,90 $ )
+Seat 2: xxflashxxx ( 2,33 $ )
+Seat 4: Johnyspb1 ( 2,09 $ )
+Seat 5: heureka2 ( 1,03 $ )
+Seat 6: huddrez ( 3,47 $ )
+Seat 7: OKE_RASTA_J ( 1,26 $ )
+Seat 9: defmoon ( 1,46 $ )
+Seat 10: kkestt ( 0,60 $ )
+huddrez posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+defmoon folds
+kkestt calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx folds
+Johnyspb1 folds
+heureka2 calls [0,02 $]
+huddrez calls [0,01 $]
+OKE_RASTA_J checks
+** Dealing flop ** [ JKreuz, KHerz, 2Pik ]
+huddrez checks
+OKE_RASTA_J checks
+kkestt checks
+heureka2 checks
+** Dealing turn ** [ 7Karo ]
+huddrez bets [0,05 $]
+OKE_RASTA_J folds
+kkestt calls [0,05 $]
+heureka2 calls [0,05 $]
+** Dealing river ** [ 6Karo ]
+huddrez checks
+kkestt checks
+heureka2 checks
+** Summary **
+huddrez shows [ AKreuz, 9Karo ]
+kkestt shows [ 10Pik, AHerz ]
+heureka2 shows [ JHerz, 10Kreuz ]
+heureka2 collected [ 0,22 $ ]
+
+
+
+#Game No : 551580705
+***** 888poker Hand History for Game 551580705 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:12:27
+Table Bridgeport 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,90 $ )
+Seat 2: xxflashxxx ( 2,33 $ )
+Seat 3: B2B_Suckouts ( 2,61 $ )
+Seat 4: Johnyspb1 ( 2,09 $ )
+Seat 5: heureka2 ( 1,18 $ )
+Seat 6: huddrez ( 3,40 $ )
+Seat 7: OKE_RASTA_J ( 1,24 $ )
+Seat 9: defmoon ( 1,46 $ )
+Seat 10: kkestt ( 0,53 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, KHerz ]
+kkestt calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+Johnyspb1 folds
+heureka2 folds
+huddrez calls [0,06 $]
+OKE_RASTA_J folds
+defmoon raises [0,22 $]
+kkestt folds
+B2B_Suckouts folds
+huddrez folds
+** Summary **
+defmoon did not show his hand
+defmoon collected [ 0,21 $ ]
+
+
+
+#Game No : 551580765
+***** 888poker Hand History for Game 551580765 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:13:20
+Table Bridgeport 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,90 $ )
+Seat 2: xxflashxxx ( 2,33 $ )
+Seat 3: B2B_Suckouts ( 2,55 $ )
+Seat 4: Johnyspb1 ( 2,09 $ )
+Seat 5: heureka2 ( 1,18 $ )
+Seat 6: huddrez ( 3,34 $ )
+Seat 7: OKE_RASTA_J ( 1,23 $ )
+Seat 9: defmoon ( 1,61 $ )
+Seat 10: kkestt ( 0,51 $ )
+defmoon posts small blind [0,01 $]
+kkestt posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 5Herz ]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+OKE_RASTA_J calls [0,02 $]
+defmoon calls [0,01 $]
+kkestt checks
+** Dealing flop ** [ 4Herz, 6Karo, 9Kreuz ]
+defmoon checks
+kkestt bets [0,03 $]
+OKE_RASTA_J calls [0,03 $]
+defmoon calls [0,03 $]
+** Dealing turn ** [ 10Herz ]
+defmoon checks
+kkestt bets [0,09 $]
+OKE_RASTA_J calls [0,09 $]
+defmoon raises [0,37 $]
+kkestt calls [0,28 $]
+OKE_RASTA_J calls [0,28 $]
+** Dealing river ** [ 2Karo ]
+defmoon bets [0,10 $]
+kkestt calls [0,09 $]
+OKE_RASTA_J folds
+** Summary **
+defmoon shows [ 7Herz, 8Karo ]
+kkestt shows [ 10Pik, 9Karo ]
+defmoon collected [ 1,35 $ ]
+
+
+
+#Game No : 551580888
+***** 888poker Hand History for Game 551580888 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:15:13
+Table Bridgeport 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,90 $ )
+Seat 2: xxflashxxx ( 2,33 $ )
+Seat 3: B2B_Suckouts ( 2,55 $ )
+Seat 4: Johnyspb1 ( 2,09 $ )
+Seat 6: huddrez ( 3,34 $ )
+Seat 7: OKE_RASTA_J ( 0,81 $ )
+Seat 9: defmoon ( 2,45 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 3Kreuz ]
+B2B_Suckouts folds
+Johnyspb1 folds
+huddrez raises [0,06 $]
+OKE_RASTA_J folds
+defmoon raises [0,18 $]
+SoveTnik90 folds
+xxflashxxx folds
+huddrez raises [0,44 $]
+defmoon folds
+** Summary **
+huddrez collected [ 0,39 $ ]
+
+
+
+#Game No : 551580981
+***** 888poker Hand History for Game 551580981 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:16:41
+Table Bridgeport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,31 $ )
+Seat 3: B2B_Suckouts ( 2,55 $ )
+Seat 4: Johnyspb1 ( 2,09 $ )
+Seat 6: huddrez ( 3,55 $ )
+Seat 7: OKE_RASTA_J ( 0,81 $ )
+Seat 9: defmoon ( 2,27 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 3Karo ]
+Johnyspb1 raises [0,08 $]
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+** Summary **
+Johnyspb1 collected [ 0,05 $ ]
+
+
+
+#Game No : 551581001
+***** 888poker Hand History for Game 551581001 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:17:03
+Table Bridgeport 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2,53 $ )
+Seat 4: Johnyspb1 ( 2,12 $ )
+Seat 5: heureka2 ( 1,18 $ )
+Seat 6: huddrez ( 3,55 $ )
+Seat 7: OKE_RASTA_J ( 0,81 $ )
+Seat 9: defmoon ( 2,27 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, JKreuz ]
+heureka2 folds
+huddrez folds
+OKE_RASTA_J calls [0,02 $]
+defmoon raises [0,08 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts calls [0,07 $]
+Johnyspb1 folds
+OKE_RASTA_J calls [0,06 $]
+** Dealing flop ** [ 8Herz, 7Kreuz, 3Kreuz ]
+B2B_Suckouts bets [0,13 $]
+OKE_RASTA_J calls [0,13 $]
+defmoon folds
+** Dealing turn ** [ 8Pik ]
+B2B_Suckouts bets [0,50 $]
+OKE_RASTA_J calls [0,50 $]
+** Dealing river ** [ QKaro ]
+B2B_Suckouts checks
+OKE_RASTA_J bets [0,10 $]
+B2B_Suckouts calls [0,10 $]
+** Summary **
+B2B_Suckouts shows [ 10Kreuz, JKreuz ]
+OKE_RASTA_J shows [ 7Karo, 7Herz ]
+OKE_RASTA_J collected [ 1,62 $ ]
+
+
+
+#Game No : 551581114
+***** 888poker Hand History for Game 551581114 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:18:53
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2,10 $ )
+Seat 5: heureka2 ( 1,18 $ )
+Seat 6: huddrez ( 3,55 $ )
+Seat 7: OKE_RASTA_J ( 1,62 $ )
+Seat 9: defmoon ( 2,19 $ )
+Johnyspb1 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 7Pik ]
+huddrez folds
+OKE_RASTA_J calls [0,02 $]
+defmoon folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 checks
+** Dealing flop ** [ AHerz, 3Karo, 5Karo ]
+heureka2 checks
+OKE_RASTA_J bets [0,04 $]
+heureka2 folds
+** Summary **
+OKE_RASTA_J collected [ 0,05 $ ]
+
+
+
+#Game No : 551581159
+***** 888poker Hand History for Game 551581159 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:19:33
+Table Bridgeport 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2,09 $ )
+Seat 5: heureka2 ( 1,16 $ )
+Seat 6: huddrez ( 3,55 $ )
+Seat 7: OKE_RASTA_J ( 1,65 $ )
+Seat 9: defmoon ( 2,19 $ )
+heureka2 posts small blind [0,01 $]
+huddrez posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 7Herz ]
+OKE_RASTA_J folds
+defmoon folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 551581194
+***** 888poker Hand History for Game 551581194 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:20:07
+Table Bridgeport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2,03 $ )
+Seat 4: Johnyspb1 ( 2,09 $ )
+Seat 5: heureka2 ( 1,15 $ )
+Seat 6: huddrez ( 3,53 $ )
+Seat 7: OKE_RASTA_J ( 1,65 $ )
+Seat 9: defmoon ( 2,19 $ )
+huddrez posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 10Kreuz ]
+defmoon raises [0,06 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 calls [0,06 $]
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+** Dealing flop ** [ QPik, 5Pik, APik ]
+defmoon checks
+Johnyspb1 checks
+** Dealing turn ** [ KHerz ]
+defmoon bets [0,07 $]
+Johnyspb1 calls [0,07 $]
+** Dealing river ** [ 3Herz ]
+defmoon bets [0,10 $]
+Johnyspb1 folds
+** Summary **
+defmoon collected [ 0,28 $ ]
+
+
+
+#Game No : 551581291
+***** 888poker Hand History for Game 551581291 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:21:45
+Table Bridgeport 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2,03 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,15 $ )
+Seat 6: huddrez ( 3,52 $ )
+Seat 7: OKE_RASTA_J ( 1,63 $ )
+Seat 9: defmoon ( 2,34 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 3Kreuz ]
+SoveTnik90 raises [0,06 $]
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+** Summary **
+SoveTnik90 collected [ 0,05 $ ]
+
+
+
+#Game No : 551581346
+***** 888poker Hand History for Game 551581346 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:22:29
+Table Bridgeport 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,92 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2,03 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,15 $ )
+Seat 6: huddrez ( 3,52 $ )
+Seat 7: OKE_RASTA_J ( 1,62 $ )
+Seat 9: defmoon ( 2,32 $ )
+Seat 10: Afina1661 ( 2 $ )
+defmoon posts small blind [0,01 $]
+Afina1661 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, APik ]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+defmoon calls [0,05 $]
+Afina1661 calls [0,04 $]
+** Dealing flop ** [ 10Herz, 9Karo, 4Herz ]
+defmoon checks
+Afina1661 bets [0,09 $]
+B2B_Suckouts folds
+defmoon folds
+** Summary **
+Afina1661 did not show his hand
+Afina1661 collected [ 0,17 $ ]
+
+
+
+#Game No : 551581420
+***** 888poker Hand History for Game 551581420 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:23:40
+Table Bridgeport 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,92 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,15 $ )
+Seat 6: huddrez ( 3,52 $ )
+Seat 7: OKE_RASTA_J ( 1,62 $ )
+Seat 9: defmoon ( 2,26 $ )
+Seat 10: Afina1661 ( 2,11 $ )
+Afina1661 posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, JHerz ]
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+OKE_RASTA_J calls [0,02 $]
+defmoon folds
+Afina1661 calls [0,01 $]
+SoveTnik90 checks
+** Dealing flop ** [ 8Herz, KHerz, 10Karo ]
+Afina1661 checks
+SoveTnik90 checks
+OKE_RASTA_J bets [0,04 $]
+Afina1661 folds
+SoveTnik90 folds
+** Summary **
+OKE_RASTA_J did not show his hand
+OKE_RASTA_J collected [ 0,06 $ ]
+
+
+
+#Game No : 551581469
+***** 888poker Hand History for Game 551581469 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:24:28
+Table Bridgeport 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,90 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,15 $ )
+Seat 6: huddrez ( 3,52 $ )
+Seat 7: OKE_RASTA_J ( 1,66 $ )
+Seat 9: defmoon ( 2,26 $ )
+Seat 10: Afina1661 ( 2,09 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 2Kreuz ]
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+OKE_RASTA_J calls [0,02 $]
+defmoon folds
+Afina1661 raises [0,08 $]
+SoveTnik90 folds
+xxflashxxx folds
+OKE_RASTA_J folds
+** Summary **
+Afina1661 did not show his hand
+Afina1661 collected [ 0,07 $ ]
+
+
+
+#Game No : 551581506
+***** 888poker Hand History for Game 551581506 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:25:09
+Table Bridgeport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,28 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,15 $ )
+Seat 6: huddrez ( 3,52 $ )
+Seat 7: OKE_RASTA_J ( 1,64 $ )
+Seat 9: defmoon ( 2,26 $ )
+Seat 10: Afina1661 ( 2,14 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, KHerz ]
+Johnyspb1 calls [0,02 $]
+heureka2 folds
+huddrez folds
+OKE_RASTA_J calls [0,02 $]
+defmoon folds
+Afina1661 folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts checks
+** Dealing flop ** [ 5Kreuz, 8Pik, JPik ]
+B2B_Suckouts checks
+Johnyspb1 checks
+OKE_RASTA_J checks
+** Dealing turn ** [ APik ]
+B2B_Suckouts checks
+Johnyspb1 checks
+OKE_RASTA_J checks
+** Dealing river ** [ 7Kreuz ]
+B2B_Suckouts checks
+Johnyspb1 checks
+OKE_RASTA_J bets [0,06 $]
+B2B_Suckouts folds
+Johnyspb1 folds
+** Summary **
+OKE_RASTA_J did not show his hand
+OKE_RASTA_J collected [ 0,07 $ ]
+
+
+
+#Game No : 551581612
+***** 888poker Hand History for Game 551581612 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:26:44
+Table Bridgeport 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,27 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,15 $ )
+Seat 6: huddrez ( 3,52 $ )
+Seat 7: OKE_RASTA_J ( 1,69 $ )
+Seat 9: defmoon ( 2,26 $ )
+Seat 10: Afina1661 ( 2,14 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 8Pik ]
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 folds
+SoveTnik90 folds
+xxflashxxx raises [0,04 $]
+B2B_Suckouts folds
+Johnyspb1 folds
+** Summary **
+xxflashxxx did not show his hand
+xxflashxxx collected [ 0,05 $ ]
+
+
+
+#Game No : 551581644
+***** 888poker Hand History for Game 551581644 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:27:11
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,15 $ )
+Seat 6: huddrez ( 3,52 $ )
+Seat 7: OKE_RASTA_J ( 1,69 $ )
+Seat 9: defmoon ( 2,26 $ )
+Seat 10: Afina1661 ( 2,14 $ )
+Johnyspb1 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 9Kreuz ]
+huddrez raises [0,06 $]
+OKE_RASTA_J folds
+defmoon calls [0,06 $]
+Afina1661 folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+** Dealing flop ** [ 9Karo, 3Herz, 7Karo ]
+huddrez bets [0,07 $]
+defmoon raises [0,26 $]
+huddrez folds
+** Summary **
+defmoon did not show his hand
+defmoon collected [ 0,28 $ ]
+
+
+
+#Game No : 551581691
+***** 888poker Hand History for Game 551581691 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:27:55
+Table Bridgeport 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,13 $ )
+Seat 6: huddrez ( 3,39 $ )
+Seat 7: OKE_RASTA_J ( 1,69 $ )
+Seat 9: defmoon ( 2,41 $ )
+Seat 10: Afina1661 ( 2,14 $ )
+heureka2 posts small blind [0,01 $]
+huddrez posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 10Karo ]
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 raises [0,05 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez calls [0,03 $]
+** Dealing flop ** [ QPik, 8Kreuz, 6Karo ]
+huddrez checks
+Afina1661 bets [0,05 $]
+huddrez calls [0,05 $]
+** Dealing turn ** [ 9Herz ]
+huddrez checks
+Afina1661 checks
+** Dealing river ** [ QHerz ]
+huddrez bets [0,08 $]
+Afina1661 folds
+** Summary **
+huddrez did not show his hand
+huddrez collected [ 0,20 $ ]
+
+
+
+#Game No : 551581754
+***** 888poker Hand History for Game 551581754 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:28:50
+Table Bridgeport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,12 $ )
+Seat 6: huddrez ( 3,49 $ )
+Seat 7: OKE_RASTA_J ( 1,69 $ )
+Seat 9: defmoon ( 2,41 $ )
+Seat 10: Afina1661 ( 2,04 $ )
+huddrez posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 5Karo ]
+defmoon folds
+Afina1661 folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez raises [0,03 $]
+OKE_RASTA_J calls [0,02 $]
+** Dealing flop ** [ 4Pik, QKreuz, 7Karo ]
+huddrez bets [0,04 $]
+OKE_RASTA_J calls [0,04 $]
+** Dealing turn ** [ 5Herz ]
+huddrez bets [0,08 $]
+OKE_RASTA_J folds
+** Summary **
+huddrez did not show his hand
+huddrez collected [ 0,15 $ ]
+
+
+
+#Game No : 551581827
+***** 888poker Hand History for Game 551581827 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:29:49
+Table Bridgeport 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,89 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,12 $ )
+Seat 6: huddrez ( 3,56 $ )
+Seat 7: OKE_RASTA_J ( 1,61 $ )
+Seat 9: defmoon ( 2,41 $ )
+Seat 10: Afina1661 ( 2,04 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, KHerz ]
+Afina1661 calls [0,02 $]
+SoveTnik90 raises [0,08 $]
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 calls [0,08 $]
+huddrez raises [0,32 $]
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 folds
+SoveTnik90 folds
+heureka2 folds
+** Summary **
+huddrez did not show his hand
+huddrez collected [ 0,29 $ ]
+
+
+
+#Game No : 551581881
+***** 888poker Hand History for Game 551581881 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:30:39
+Table Bridgeport 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,81 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,04 $ )
+Seat 6: huddrez ( 3,77 $ )
+Seat 7: OKE_RASTA_J ( 1,60 $ )
+Seat 9: defmoon ( 2,39 $ )
+Seat 10: Afina1661 ( 2,02 $ )
+defmoon posts small blind [0,01 $]
+Afina1661 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 3Kreuz ]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 calls [0,02 $]
+huddrez folds
+OKE_RASTA_J calls [0,02 $]
+defmoon raises [0,09 $]
+Afina1661 folds
+heureka2 calls [0,08 $]
+OKE_RASTA_J folds
+** Dealing flop ** [ 7Kreuz, AKreuz, 7Pik ]
+defmoon checks
+heureka2 checks
+** Dealing turn ** [ 6Herz ]
+defmoon checks
+heureka2 bets [0,12 $]
+defmoon calls [0,12 $]
+** Dealing river ** [ 3Karo ]
+defmoon checks
+heureka2 bets [0,24 $]
+defmoon calls [0,24 $]
+** Summary **
+heureka2 shows [ AHerz, 7Herz ]
+defmoon mucks [ QKaro, QKreuz ]
+heureka2 collected [ 0,90 $ ]
+
+
+
+#Game No : 551581986
+***** 888poker Hand History for Game 551581986 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:32:02
+Table Bridgeport 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,81 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,48 $ )
+Seat 6: huddrez ( 3,77 $ )
+Seat 7: OKE_RASTA_J ( 1,58 $ )
+Seat 9: defmoon ( 1,93 $ )
+Seat 10: Afina1661 ( 2 $ )
+Afina1661 posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 3Herz ]
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 folds
+** Summary **
+SoveTnik90 did not show his hand
+SoveTnik90 collected [ 0,03 $ ]
+
+
+
+#Game No : 551582006
+***** 888poker Hand History for Game 551582006 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:32:16
+Table Bridgeport 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,82 $ )
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,48 $ )
+Seat 6: huddrez ( 3,77 $ )
+Seat 7: OKE_RASTA_J ( 1,58 $ )
+Seat 9: defmoon ( 1,93 $ )
+Seat 10: Afina1661 ( 1,99 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 4Herz ]
+B2B_Suckouts folds
+Johnyspb1 calls [0,02 $]
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 folds
+SoveTnik90 folds
+xxflashxxx checks
+** Dealing flop ** [ QKaro, 5Karo, 6Kreuz ]
+xxflashxxx checks
+Johnyspb1 checks
+** Dealing turn ** [ QHerz ]
+xxflashxxx checks
+Johnyspb1 checks
+** Dealing river ** [ 2Pik ]
+xxflashxxx checks
+Johnyspb1 checks
+** Summary **
+xxflashxxx shows [ 6Pik, JKreuz ]
+Johnyspb1 mucks [ 10Pik, JPik ]
+xxflashxxx collected [ 0,05 $ ]
+
+
+
+#Game No : 551582085
+***** 888poker Hand History for Game 551582085 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:33:18
+Table Bridgeport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,81 $ )
+Seat 2: xxflashxxx ( 2,33 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,48 $ )
+Seat 6: huddrez ( 3,77 $ )
+Seat 7: OKE_RASTA_J ( 1,58 $ )
+Seat 9: defmoon ( 1,93 $ )
+Seat 10: Afina1661 ( 1,99 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, AHerz ]
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+defmoon raises [0,06 $]
+Afina1661 folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 2Herz, 2Pik, KPik ]
+B2B_Suckouts checks
+defmoon bets [0,06 $]
+B2B_Suckouts folds
+** Summary **
+defmoon did not show his hand
+defmoon collected [ 0,13 $ ]
+
+
+
+#Game No : 551582136
+***** 888poker Hand History for Game 551582136 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:33:58
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,81 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,48 $ )
+Seat 6: huddrez ( 3,77 $ )
+Seat 7: OKE_RASTA_J ( 1,58 $ )
+Seat 9: defmoon ( 2 $ )
+Seat 10: Afina1661 ( 1,99 $ )
+Johnyspb1 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 3Pik ]
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 raises [0,04 $]
+SoveTnik90 folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+** Summary **
+Afina1661 collected [ 0,05 $ ]
+
+
+
+#Game No : 551582168
+***** 888poker Hand History for Game 551582168 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:34:22
+Table Bridgeport 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,81 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,46 $ )
+Seat 6: huddrez ( 3,77 $ )
+Seat 7: OKE_RASTA_J ( 1,58 $ )
+Seat 9: defmoon ( 2 $ )
+Seat 10: Afina1661 ( 2,02 $ )
+heureka2 posts small blind [0,01 $]
+huddrez posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 8Pik ]
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 raises [0,06 $]
+SoveTnik90 folds
+B2B_Suckouts calls [0,06 $]
+Johnyspb1 folds
+heureka2 folds
+huddrez calls [0,04 $]
+** Dealing flop ** [ 3Karo, KPik, QPik ]
+huddrez checks
+Afina1661 bets [0,12 $]
+B2B_Suckouts folds
+huddrez calls [0,12 $]
+** Dealing turn ** [ QHerz ]
+huddrez checks
+Afina1661 bets [0,14 $]
+huddrez calls [0,14 $]
+** Dealing river ** [ 10Herz ]
+huddrez checks
+Afina1661 checks
+** Summary **
+huddrez shows [ JKaro, KHerz ]
+Afina1661 shows [ AKreuz, APik ]
+Afina1661 collected [ 0,67 $ ]
+
+
+
+#Game No : 551582258
+***** 888poker Hand History for Game 551582258 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:35:27
+Table Bridgeport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,81 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,45 $ )
+Seat 6: huddrez ( 3,45 $ )
+Seat 7: OKE_RASTA_J ( 1,58 $ )
+Seat 9: defmoon ( 2 $ )
+Seat 10: Afina1661 ( 2,37 $ )
+huddrez posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, QKaro ]
+defmoon folds
+Afina1661 folds
+SoveTnik90 folds
+B2B_Suckouts raises [0,06 $]
+Johnyspb1 calls [0,06 $]
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+** Dealing flop ** [ 10Herz, 6Kreuz, 2Pik ]
+B2B_Suckouts checks
+Johnyspb1 checks
+** Dealing turn ** [ 7Kreuz ]
+B2B_Suckouts bets [0,04 $]
+Johnyspb1 folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 551582346
+***** 888poker Hand History for Game 551582346 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:36:30
+Table Bridgeport 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,81 $ )
+Seat 3: B2B_Suckouts ( 2,09 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,45 $ )
+Seat 6: huddrez ( 3,44 $ )
+Seat 7: OKE_RASTA_J ( 1,56 $ )
+Seat 9: defmoon ( 2 $ )
+Seat 10: Afina1661 ( 2,37 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 10Kreuz ]
+Afina1661 raises [0,04 $]
+SoveTnik90 folds
+B2B_Suckouts calls [0,04 $]
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+** Dealing flop ** [ 5Pik, QKaro, 9Kreuz ]
+Afina1661 bets [0,05 $]
+B2B_Suckouts calls [0,05 $]
+** Dealing turn ** [ KPik ]
+Afina1661 bets [0,13 $]
+B2B_Suckouts folds
+** Summary **
+Afina1661 collected [ 0,20 $ ]
+
+
+
+#Game No : 551582424
+***** 888poker Hand History for Game 551582424 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:37:21
+Table Bridgeport 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,81 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,45 $ )
+Seat 6: huddrez ( 3,44 $ )
+Seat 7: OKE_RASTA_J ( 1,55 $ )
+Seat 9: defmoon ( 1,98 $ )
+Seat 10: Afina1661 ( 2,48 $ )
+defmoon posts small blind [0,01 $]
+Afina1661 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 8Herz ]
+SoveTnik90 folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 calls [0,02 $]
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 checks
+** Dealing flop ** [ 7Kreuz, 9Karo, JKaro ]
+Afina1661 checks
+heureka2 checks
+** Dealing turn ** [ QHerz ]
+Afina1661 checks
+heureka2 checks
+** Dealing river ** [ KKaro ]
+Afina1661 checks
+heureka2 bets [0,06 $]
+Afina1661 folds
+** Summary **
+heureka2 collected [ 0,05 $ ]
+
+
+
+#Game No : 551582484
+***** 888poker Hand History for Game 551582484 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:38:12
+Table Bridgeport 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,81 $ )
+Seat 2: xxflashxxx ( 2,32 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,48 $ )
+Seat 6: huddrez ( 3,44 $ )
+Seat 7: OKE_RASTA_J ( 1,55 $ )
+Seat 9: defmoon ( 1,97 $ )
+Seat 10: Afina1661 ( 2,46 $ )
+Afina1661 posts small blind [0,01 $]
+SoveTnik90 folds
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, KPik ]
+B2B_Suckouts raises [0,06 $]
+Johnyspb1 calls [0,06 $]
+heureka2 calls [0,06 $]
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 folds
+xxflashxxx folds
+** Dealing flop ** [ AHerz, QKreuz, 4Kreuz ]
+B2B_Suckouts bets [0,06 $]
+Johnyspb1 folds
+heureka2 calls [0,06 $]
+** Dealing turn ** [ 9Herz ]
+B2B_Suckouts checks
+heureka2 bets [0,06 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing river ** [ 9Pik ]
+B2B_Suckouts bets [0,14 $]
+heureka2 calls [0,14 $]
+** Summary **
+B2B_Suckouts shows [ QPik, KPik ]
+heureka2 shows [ AKaro, JPik ]
+heureka2 collected [ 0,69 $ ]
+
+
+
+#Game No : 551582577
+***** 888poker Hand History for Game 551582577 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:39:22
+Table Bridgeport 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: xxflashxxx ( 2,30 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,85 $ )
+Seat 6: huddrez ( 3,44 $ )
+Seat 7: OKE_RASTA_J ( 1,55 $ )
+Seat 9: defmoon ( 1,97 $ )
+Seat 10: Afina1661 ( 2,45 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 3Herz ]
+Johnyspb1 folds
+heureka2 calls [0,02 $]
+huddrez folds
+OKE_RASTA_J calls [0,02 $]
+defmoon folds
+Afina1661 folds
+xxflashxxx folds
+B2B_Suckouts checks
+** Dealing flop ** [ 5Pik, 6Herz, 7Karo ]
+B2B_Suckouts checks
+heureka2 checks
+OKE_RASTA_J checks
+** Dealing turn ** [ 3Kreuz ]
+B2B_Suckouts bets [0,02 $]
+heureka2 calls [0,02 $]
+OKE_RASTA_J calls [0,02 $]
+** Dealing river ** [ JHerz ]
+B2B_Suckouts bets [0,20 $]
+heureka2 folds
+OKE_RASTA_J folds
+** Summary **
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 551582668
+***** 888poker Hand History for Game 551582668 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:40:33
+Table Bridgeport 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: xxflashxxx ( 2,29 $ )
+Seat 3: B2B_Suckouts ( 2,09 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,81 $ )
+Seat 6: huddrez ( 3,44 $ )
+Seat 7: OKE_RASTA_J ( 1,51 $ )
+Seat 9: defmoon ( 1,97 $ )
+Seat 10: Afina1661 ( 2,45 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 8Karo ]
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+defmoon raises [0,06 $]
+Afina1661 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+** Summary **
+defmoon collected [ 0,05 $ ]
+
+
+
+#Game No : 551582706
+***** 888poker Hand History for Game 551582706 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:41:03
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: xxflashxxx ( 2,29 $ )
+Seat 3: B2B_Suckouts ( 2,08 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,81 $ )
+Seat 6: huddrez ( 3,44 $ )
+Seat 7: OKE_RASTA_J ( 1,51 $ )
+Seat 9: defmoon ( 2 $ )
+Seat 10: Afina1661 ( 2,45 $ )
+Johnyspb1 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, KKaro ]
+huddrez raises [0,06 $]
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+** Summary **
+huddrez collected [ 0,05 $ ]
+
+
+
+#Game No : 551582760
+***** 888poker Hand History for Game 551582760 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:41:36
+Table Bridgeport 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: xxflashxxx ( 2,29 $ )
+Seat 3: B2B_Suckouts ( 2,08 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,79 $ )
+Seat 6: huddrez ( 3,47 $ )
+Seat 7: OKE_RASTA_J ( 1,51 $ )
+Seat 9: defmoon ( 2 $ )
+Seat 10: Afina1661 ( 2,45 $ )
+heureka2 posts small blind [0,01 $]
+huddrez posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 6Karo ]
+OKE_RASTA_J folds
+defmoon folds
+Afina1661 raises [0,08 $]
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+** Summary **
+Afina1661 collected [ 0,05 $ ]
+
+
+
+#Game No : 551582805
+***** 888poker Hand History for Game 551582805 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:42:06
+Table Bridgeport 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: xxflashxxx ( 2,29 $ )
+Seat 3: B2B_Suckouts ( 2,08 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,78 $ )
+Seat 6: huddrez ( 3,45 $ )
+Seat 7: OKE_RASTA_J ( 1,51 $ )
+Seat 9: defmoon ( 2 $ )
+Seat 10: Afina1661 ( 2,48 $ )
+huddrez posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 6Karo ]
+defmoon folds
+Afina1661 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 calls [0,02 $]
+huddrez calls [0,01 $]
+OKE_RASTA_J checks
+** Dealing flop ** [ KKreuz, 5Pik, 2Pik ]
+huddrez checks
+OKE_RASTA_J checks
+heureka2 checks
+** Dealing turn ** [ QHerz ]
+huddrez checks
+OKE_RASTA_J checks
+heureka2 bets [0,06 $]
+huddrez folds
+OKE_RASTA_J folds
+** Summary **
+heureka2 collected [ 0,06 $ ]
+
+
+
+#Game No : 551582874
+***** 888poker Hand History for Game 551582874 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:42:54
+Table Bridgeport 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: xxflashxxx ( 2,29 $ )
+Seat 3: B2B_Suckouts ( 2,08 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,82 $ )
+Seat 6: huddrez ( 3,43 $ )
+Seat 7: OKE_RASTA_J ( 1,49 $ )
+Seat 9: defmoon ( 2 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, KKreuz ]
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez raises [0,04 $]
+OKE_RASTA_J folds
+defmoon folds
+** Summary **
+huddrez collected [ 0,05 $ ]
+
+
+
+#Game No : 551582909
+***** 888poker Hand History for Game 551582909 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:43:27
+Table Bridgeport 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Sherlok1295 ( 2 $ )
+Seat 2: xxflashxxx ( 2,29 $ )
+Seat 3: B2B_Suckouts ( 2,08 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,82 $ )
+Seat 6: huddrez ( 3,46 $ )
+Seat 7: OKE_RASTA_J ( 1,48 $ )
+Seat 9: defmoon ( 1,98 $ )
+defmoon posts small blind [0,01 $]
+Sherlok1295 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 3Karo ]
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez folds
+OKE_RASTA_J folds
+defmoon raises [0,05 $]
+Sherlok1295 folds
+** Summary **
+defmoon collected [ 0,04 $ ]
+
+
+
+#Game No : 551582957
+***** 888poker Hand History for Game 551582957 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:43:59
+Table Bridgeport 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Sherlok1295 ( 2 $ )
+Seat 2: xxflashxxx ( 2,29 $ )
+Seat 3: B2B_Suckouts ( 2,08 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,82 $ )
+Seat 6: huddrez ( 3,46 $ )
+Seat 7: OKE_RASTA_J ( 1,48 $ )
+Seat 9: defmoon ( 2 $ )
+Sherlok1295 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 8Karo ]
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 folds
+huddrez raises [0,06 $]
+OKE_RASTA_J folds
+defmoon folds
+Sherlok1295 folds
+xxflashxxx folds
+** Summary **
+huddrez collected [ 0,05 $ ]
+
+
+
+#Game No : 551582996
+***** 888poker Hand History for Game 551582996 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:44:26
+Table Bridgeport 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Sherlok1295 ( 2 $ )
+Seat 2: xxflashxxx ( 2,27 $ )
+Seat 3: B2B_Suckouts ( 2,08 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,82 $ )
+Seat 6: huddrez ( 3,49 $ )
+Seat 7: OKE_RASTA_J ( 1,48 $ )
+Seat 9: defmoon ( 2 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, AKreuz ]
+Johnyspb1 folds
+heureka2 folds
+huddrez raises [0,04 $]
+OKE_RASTA_J folds
+defmoon folds
+Sherlok1295 calls [0,04 $]
+xxflashxxx calls [0,03 $]
+B2B_Suckouts raises [0,14 $]
+huddrez folds
+Sherlok1295 folds
+xxflashxxx folds
+** Summary **
+B2B_Suckouts collected [ 0,16 $ ]
+
+
+
+#Game No : 551583091
+***** 888poker Hand History for Game 551583091 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:45:32
+Table Bridgeport 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Sherlok1295 ( 1,96 $ )
+Seat 2: xxflashxxx ( 2,23 $ )
+Seat 3: B2B_Suckouts ( 2,20 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,82 $ )
+Seat 6: huddrez ( 3,45 $ )
+Seat 7: OKE_RASTA_J ( 1,48 $ )
+Seat 9: defmoon ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Johnyspb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 10Karo ]
+heureka2 calls [0,02 $]
+huddrez folds
+OKE_RASTA_J folds
+defmoon folds
+Sherlok1295 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 checks
+** Dealing flop ** [ 7Pik, 4Kreuz, 2Kreuz ]
+Johnyspb1 bets [0,05 $]
+heureka2 calls [0,05 $]
+** Dealing turn ** [ 8Herz ]
+Johnyspb1 bets [0,07 $]
+heureka2 raises [0,14 $]
+Johnyspb1 calls [0,07 $]
+** Dealing river ** [ 6Pik ]
+Johnyspb1 checks
+heureka2 checks
+** Summary **
+Johnyspb1 shows [ AKreuz, 7Kreuz ]
+heureka2 shows [ 2Pik, 2Herz ]
+heureka2 collected [ 0,41 $ ]
+
+
+
+#Game No : 551583200
+***** 888poker Hand History for Game 551583200 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:46:50
+Table Bridgeport 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Sherlok1295 ( 2 $ )
+Seat 2: xxflashxxx ( 2,23 $ )
+Seat 3: B2B_Suckouts ( 2,19 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 2,02 $ )
+Seat 6: huddrez ( 3,45 $ )
+Seat 7: OKE_RASTA_J ( 1,48 $ )
+Seat 9: defmoon ( 2 $ )
+Johnyspb1 posts small blind [0,01 $]
+heureka2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 2Kreuz ]
+huddrez folds
+OKE_RASTA_J folds
+defmoon raises [0,06 $]
+Sherlok1295 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 calls [0,04 $]
+** Dealing flop ** [ 4Pik, 2Herz, AKaro ]
+heureka2 checks
+defmoon checks
+** Dealing turn ** [ 3Kreuz ]
+heureka2 checks
+defmoon checks
+** Dealing river ** [ 6Kreuz ]
+heureka2 checks
+defmoon bets [0,06 $]
+heureka2 calls [0,06 $]
+** Summary **
+defmoon shows [ QHerz, QKreuz ]
+heureka2 mucks [ KKreuz, JKreuz ]
+defmoon collected [ 0,24 $ ]
+
+
+
+#Game No : 551583267
+***** 888poker Hand History for Game 551583267 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:47:43
+Table Bridgeport 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Sherlok1295 ( 2 $ )
+Seat 2: xxflashxxx ( 2,23 $ )
+Seat 3: B2B_Suckouts ( 2,19 $ )
+Seat 4: Johnyspb1 ( 2 $ )
+Seat 5: heureka2 ( 1,90 $ )
+Seat 6: huddrez ( 3,45 $ )
+Seat 7: OKE_RASTA_J ( 1,48 $ )
+Seat 9: defmoon ( 2,12 $ )
+heureka2 posts small blind [0,01 $]
+huddrez posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 7Pik ]
+OKE_RASTA_J folds
+defmoon folds
+Sherlok1295 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Johnyspb1 folds
+heureka2 calls [0,01 $]
+huddrez raises [0,04 $]
+heureka2 calls [0,04 $]
+** Dealing flop ** [ 9Herz, 7Herz, 6Herz ]
+heureka2 bets [0,06 $]
+huddrez raises [0,18 $]
+heureka2 folds
+** Summary **
+huddrez did not show his hand
+huddrez collected [ 0,23 $ ]
+
+
+
