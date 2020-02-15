@@ -1,0 +1,3543 @@
+#Game No : 474759623
+***** 888poker Hand History for Game 474759623 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:04:22
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 1,14 $ )
+Seat 4: Sugrob4ik ( 2 $ )
+Seat 5: migu3l30 ( 1,87 $ )
+Seat 6: K1ngBac ( 2 $ )
+Seat 7: davidwyper ( 1,92 $ )
+Seat 9: oldbashkir ( 2 $ )
+Seat 10: JohnSteinbec ( 2,34 $ )
+JohnSteinbec posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 10Herz ]
+ChipsACA raises [0,06 $]
+Sugrob4ik folds
+migu3l30 folds
+K1ngBac folds
+davidwyper folds
+oldbashkir folds
+JohnSteinbec calls [0,05 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 2Kreuz, 8Herz, 2Pik ]
+JohnSteinbec checks
+ChipsACA checks
+** Dealing turn ** [ 10Kreuz ]
+JohnSteinbec checks
+ChipsACA bets [0,07 $]
+JohnSteinbec folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,14 $ ]
+
+
+
+#Game No : 474759638
+***** 888poker Hand History for Game 474759638 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:05:03
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 1,22 $ )
+Seat 4: Sugrob4ik ( 2 $ )
+Seat 5: migu3l30 ( 1,87 $ )
+Seat 6: K1ngBac ( 2 $ )
+Seat 7: davidwyper ( 1,92 $ )
+Seat 9: oldbashkir ( 2 $ )
+Seat 10: JohnSteinbec ( 2,28 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 3Herz ]
+Sugrob4ik folds
+migu3l30 folds
+K1ngBac folds
+davidwyper raises [0,08 $]
+oldbashkir raises [0,24 $]
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA folds
+davidwyper calls [0,16 $]
+** Dealing flop ** [ AKreuz, 6Karo, 9Karo ]
+davidwyper bets [1,68 $]
+oldbashkir calls [1,68 $]
+** Dealing turn ** [ 9Pik ]
+** Dealing river ** [ QKreuz ]
+** Summary **
+davidwyper shows [ JKreuz, 7Kreuz ]
+oldbashkir shows [ KKaro, APik ]
+oldbashkir collected [ 3,63 $ ]
+
+
+
+#Game No : 474759650
+***** 888poker Hand History for Game 474759650 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:05:35
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 1,20 $ )
+Seat 4: Sugrob4ik ( 2 $ )
+Seat 5: migu3l30 ( 1,87 $ )
+Seat 6: K1ngBac ( 2 $ )
+Seat 9: oldbashkir ( 3,71 $ )
+Seat 10: JohnSteinbec ( 2,28 $ )
+ChipsACA posts small blind [0,01 $]
+Sugrob4ik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, JHerz ]
+migu3l30 folds
+K1ngBac folds
+oldbashkir raises [0,06 $]
+JohnSteinbec folds
+B2B_Suckouts raises [0,18 $]
+ChipsACA folds
+Sugrob4ik folds
+oldbashkir raises [1,16 $]
+B2B_Suckouts folds
+** Summary **
+oldbashkir collected [ 0,39 $ ]
+
+
+
+#Game No : 474759663
+***** 888poker Hand History for Game 474759663 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:06:23
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 1,19 $ )
+Seat 4: Sugrob4ik ( 2 $ )
+Seat 5: migu3l30 ( 1,87 $ )
+Seat 6: K1ngBac ( 2 $ )
+Seat 7: davidwyper ( 2 $ )
+Seat 9: oldbashkir ( 3,92 $ )
+Seat 10: JohnSteinbec ( 2,28 $ )
+Sugrob4ik posts small blind [0,01 $]
+migu3l30 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 7Pik ]
+K1ngBac folds
+davidwyper calls [0,02 $]
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA calls [0,02 $]
+Sugrob4ik folds
+migu3l30 checks
+** Dealing flop ** [ 10Karo, 8Karo, AKaro ]
+migu3l30 checks
+davidwyper checks
+ChipsACA bets [0,03 $]
+migu3l30 folds
+davidwyper folds
+** Summary **
+ChipsACA collected [ 0,07 $ ]
+
+
+
+#Game No : 474759673
+***** 888poker Hand History for Game 474759673 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:06:54
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 1,24 $ )
+Seat 4: Sugrob4ik ( 2 $ )
+Seat 5: migu3l30 ( 1,85 $ )
+Seat 6: K1ngBac ( 2 $ )
+Seat 7: davidwyper ( 1,98 $ )
+Seat 9: oldbashkir ( 3,92 $ )
+Seat 10: JohnSteinbec ( 2,28 $ )
+migu3l30 posts small blind [0,01 $]
+K1ngBac posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, AHerz ]
+davidwyper raises [0,08 $]
+oldbashkir folds
+JohnSteinbec raises [0,17 $]
+B2B_Suckouts calls [0,17 $]
+ChipsACA folds
+Sugrob4ik folds
+migu3l30 folds
+K1ngBac folds
+davidwyper calls [0,09 $]
+** Dealing flop ** [ AKreuz, 10Kreuz, 6Karo ]
+davidwyper checks
+JohnSteinbec bets [0,54 $]
+B2B_Suckouts raises [1,08 $]
+davidwyper folds
+JohnSteinbec calls [0,54 $]
+** Dealing turn ** [ 8Kreuz ]
+JohnSteinbec checks
+B2B_Suckouts bets [0,75 $]
+JohnSteinbec calls [0,75 $]
+** Dealing river ** [ 5Kreuz ]
+** Summary **
+B2B_Suckouts shows [ QKaro, AHerz ]
+JohnSteinbec shows [ QKreuz, KHerz ]
+JohnSteinbec collected [ 3,94 $ ]
+
+
+
+#Game No : 474759696
+***** 888poker Hand History for Game 474759696 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:08:05
+Table Milagro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 1,24 $ )
+Seat 4: Sugrob4ik ( 2 $ )
+Seat 5: migu3l30 ( 1,84 $ )
+Seat 6: K1ngBac ( 1,98 $ )
+Seat 7: davidwyper ( 1,81 $ )
+Seat 9: oldbashkir ( 3,92 $ )
+Seat 10: JohnSteinbec ( 4,22 $ )
+K1ngBac posts small blind [0,01 $]
+davidwyper posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 4Karo ]
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA folds
+Sugrob4ik raises [0,05 $]
+migu3l30 folds
+K1ngBac calls [0,04 $]
+davidwyper calls [0,03 $]
+** Dealing flop ** [ KHerz, KKaro, 9Karo ]
+K1ngBac checks
+davidwyper checks
+Sugrob4ik bets [0,10 $]
+K1ngBac folds
+davidwyper raises [0,20 $]
+Sugrob4ik calls [0,10 $]
+** Dealing turn ** [ 3Herz ]
+davidwyper checks
+Sugrob4ik bets [0,36 $]
+davidwyper raises [0,72 $]
+Sugrob4ik raises [1,39 $]
+davidwyper calls [0,84 $]
+** Dealing river ** [ 8Herz ]
+** Summary **
+Sugrob4ik shows [ JKaro, KKreuz ]
+davidwyper shows [ 5Pik, KPik ]
+Sugrob4ik collected [ 3,45 $ ]
+
+
+
+#Game No : 474759723
+***** 888poker Hand History for Game 474759723 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:09:22
+Table Milagro 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 1,24 $ )
+Seat 4: Sugrob4ik ( 3,64 $ )
+Seat 5: migu3l30 ( 1,84 $ )
+Seat 6: K1ngBac ( 1,93 $ )
+Seat 9: oldbashkir ( 3,92 $ )
+Seat 10: JohnSteinbec ( 4,22 $ )
+oldbashkir posts small blind [0,01 $]
+JohnSteinbec posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 6Pik ]
+B2B_Suckouts folds
+ChipsACA folds
+Sugrob4ik raises [0,05 $]
+migu3l30 folds
+K1ngBac folds
+oldbashkir calls [0,04 $]
+JohnSteinbec folds
+** Dealing flop ** [ 5Kreuz, 10Pik, 7Karo ]
+oldbashkir checks
+Sugrob4ik checks
+** Dealing turn ** [ QPik ]
+oldbashkir checks
+Sugrob4ik checks
+** Dealing river ** [ APik ]
+oldbashkir checks
+Sugrob4ik checks
+** Summary **
+oldbashkir shows [ 4Pik, 4Kreuz ]
+Sugrob4ik mucks [ 2Herz, 2Kreuz ]
+oldbashkir collected [ 0,12 $ ]
+
+
+
+#Game No : 474759740
+***** 888poker Hand History for Game 474759740 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:10:07
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 1,24 $ )
+Seat 4: Sugrob4ik ( 3,59 $ )
+Seat 5: migu3l30 ( 1,84 $ )
+Seat 6: K1ngBac ( 1,93 $ )
+Seat 9: oldbashkir ( 3,99 $ )
+Seat 10: JohnSteinbec ( 4,20 $ )
+JohnSteinbec posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 8Herz ]
+ChipsACA raises [0,06 $]
+Sugrob4ik raises [0,24 $]
+migu3l30 folds
+K1ngBac folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA raises [0,66 $]
+Sugrob4ik raises [1 $]
+ChipsACA calls [0,52 $]
+** Dealing flop ** [ 7Kreuz, 5Herz, AKaro ]
+** Dealing turn ** [ KKaro ]
+** Dealing river ** [ 5Karo ]
+** Summary **
+ChipsACA shows [ KKreuz, KHerz ]
+Sugrob4ik shows [ AKreuz, APik ]
+Sugrob4ik collected [ 2,36 $ ]
+
+
+
+#Game No : 474759759
+***** 888poker Hand History for Game 474759759 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:10:59
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: kent330 ( 1 $ )
+Seat 3: ChipsACA ( 0,80 $ )
+Seat 4: Sugrob4ik ( 4,71 $ )
+Seat 5: migu3l30 ( 1,84 $ )
+Seat 6: K1ngBac ( 1,93 $ )
+Seat 9: oldbashkir ( 3,99 $ )
+Seat 10: JohnSteinbec ( 4,19 $ )
+B2B_Suckouts posts small blind [0,01 $]
+kent330 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 8Pik ]
+ChipsACA folds
+Sugrob4ik folds
+migu3l30 folds
+K1ngBac folds
+oldbashkir raises [0,06 $]
+JohnSteinbec raises [0,10 $]
+B2B_Suckouts folds
+kent330 folds
+oldbashkir folds
+** Summary **
+JohnSteinbec collected [ 0,15 $ ]
+
+
+
+#Game No : 474759765
+***** 888poker Hand History for Game 474759765 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:11:20
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: kent330 ( 0,98 $ )
+Seat 3: ChipsACA ( 0,80 $ )
+Seat 4: Sugrob4ik ( 4,71 $ )
+Seat 5: migu3l30 ( 1,84 $ )
+Seat 6: K1ngBac ( 1,93 $ )
+Seat 9: oldbashkir ( 3,93 $ )
+Seat 10: JohnSteinbec ( 4,28 $ )
+kent330 posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 9Karo ]
+Sugrob4ik folds
+migu3l30 folds
+K1ngBac folds
+oldbashkir folds
+JohnSteinbec raises [0,04 $]
+B2B_Suckouts folds
+kent330 folds
+ChipsACA folds
+** Summary **
+JohnSteinbec collected [ 0,05 $ ]
+
+
+
+#Game No : 474759773
+***** 888poker Hand History for Game 474759773 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:11:40
+Table Milagro 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: kent330 ( 0,97 $ )
+Seat 3: ChipsACA ( 0,78 $ )
+Seat 4: Sugrob4ik ( 4,71 $ )
+Seat 5: migu3l30 ( 1,84 $ )
+Seat 6: K1ngBac ( 1,93 $ )
+Seat 9: oldbashkir ( 3,93 $ )
+Seat 10: JohnSteinbec ( 4,31 $ )
+ChipsACA posts small blind [0,01 $]
+Sugrob4ik posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, AHerz ]
+migu3l30 folds
+K1ngBac folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts raises [0,04 $]
+kent330 folds
+ChipsACA folds
+Sugrob4ik calls [0,02 $]
+** Dealing flop ** [ QKaro, 6Pik, 3Karo ]
+Sugrob4ik checks
+B2B_Suckouts checks
+** Dealing turn ** [ JPik ]
+Sugrob4ik checks
+B2B_Suckouts checks
+** Dealing river ** [ APik ]
+Sugrob4ik checks
+B2B_Suckouts bets [0,02 $]
+Sugrob4ik folds
+** Summary **
+B2B_Suckouts collected [ 0,09 $ ]
+
+
+
+#Game No : 474759791
+***** 888poker Hand History for Game 474759791 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:12:22
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: kent330 ( 0,97 $ )
+Seat 3: ChipsACA ( 0,77 $ )
+Seat 4: Sugrob4ik ( 4,67 $ )
+Seat 5: migu3l30 ( 1,84 $ )
+Seat 6: K1ngBac ( 1,93 $ )
+Seat 9: oldbashkir ( 3,93 $ )
+Seat 10: JohnSteinbec ( 4,31 $ )
+Sugrob4ik posts small blind [0,01 $]
+migu3l30 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, JKaro ]
+K1ngBac folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+kent330 folds
+ChipsACA folds
+Sugrob4ik calls [0,01 $]
+migu3l30 checks
+** Dealing flop ** [ 3Kreuz, APik, 3Herz ]
+Sugrob4ik bets [0,02 $]
+migu3l30 folds
+** Summary **
+Sugrob4ik collected [ 0,04 $ ]
+
+
+
+#Game No : 474759808
+***** 888poker Hand History for Game 474759808 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:13:01
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: kent330 ( 0,97 $ )
+Seat 3: ChipsACA ( 0,77 $ )
+Seat 4: Sugrob4ik ( 4,69 $ )
+Seat 5: migu3l30 ( 1,82 $ )
+Seat 9: oldbashkir ( 3,93 $ )
+Seat 10: JohnSteinbec ( 4,31 $ )
+migu3l30 folds
+oldbashkir posts small blind [0,01 $]
+JohnSteinbec posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 3Pik ]
+B2B_Suckouts folds
+kent330 folds
+ChipsACA raises [0,06 $]
+Sugrob4ik folds
+oldbashkir calls [0,05 $]
+JohnSteinbec folds
+** Dealing flop ** [ 5Karo, 4Kreuz, 5Kreuz ]
+oldbashkir checks
+ChipsACA bets [0,07 $]
+oldbashkir raises [0,35 $]
+ChipsACA folds
+** Summary **
+oldbashkir collected [ 0,27 $ ]
+
+
+
+#Game No : 474759829
+***** 888poker Hand History for Game 474759829 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:13:53
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: kent330 ( 0,97 $ )
+Seat 3: ChipsACA ( 0,64 $ )
+Seat 4: Sugrob4ik ( 4,69 $ )
+Seat 5: migu3l30 ( 1,82 $ )
+Seat 7: 1onceonce1 ( 0,80 $ )
+Seat 9: oldbashkir ( 4,07 $ )
+Seat 10: JohnSteinbec ( 4,29 $ )
+JohnSteinbec posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+migu3l30 posts dead blind [0,01 $ + 0 $]
+1onceonce1 posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, KKaro ]
+kent330 folds
+ChipsACA folds
+Sugrob4ik folds
+migu3l30 folds
+1onceonce1 checks
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts raises [0,04 $]
+1onceonce1 calls [0,04 $]
+** Dealing flop ** [ JPik, 6Herz, 8Kreuz ]
+B2B_Suckouts bets [0,04 $]
+1onceonce1 calls [0,04 $]
+** Dealing turn ** [ 9Karo ]
+B2B_Suckouts bets [0,11 $]
+1onceonce1 folds
+** Summary **
+B2B_Suckouts collected [ 0,21 $ ]
+
+
+
+#Game No : 474759848
+***** 888poker Hand History for Game 474759848 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:14:43
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,16 $ )
+Seat 2: kent330 ( 0,97 $ )
+Seat 3: ChipsACA ( 0,64 $ )
+Seat 4: Sugrob4ik ( 4,69 $ )
+Seat 5: migu3l30 ( 1,81 $ )
+Seat 6: mihuflorin13 ( 1,40 $ )
+Seat 7: 1onceonce1 ( 0,70 $ )
+Seat 9: oldbashkir ( 4,07 $ )
+Seat 10: JohnSteinbec ( 4,28 $ )
+B2B_Suckouts posts small blind [0,01 $]
+kent330 folds
+ChipsACA posts big blind [0,02 $]
+mihuflorin13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, KPik ]
+Sugrob4ik folds
+migu3l30 calls [0,02 $]
+mihuflorin13 raises [0,06 $]
+1onceonce1 raises [0,70 $]
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts calls [0,69 $]
+ChipsACA folds
+migu3l30 folds
+mihuflorin13 calls [0,62 $]
+** Dealing flop ** [ 2Karo, JHerz, 3Karo ]
+B2B_Suckouts checks
+mihuflorin13 checks
+** Dealing turn ** [ 10Pik ]
+B2B_Suckouts checks
+mihuflorin13 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing river ** [ 3Herz ]
+B2B_Suckouts checks
+mihuflorin13 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Summary **
+mihuflorin13 shows [ APik, 6Herz ]
+1onceonce1 shows [ AKaro, KKaro ]
+B2B_Suckouts shows [ AHerz, KPik ]
+B2B_Suckouts collected [ 1,01 $ ]
+1onceonce1 collected [ 1 $ ]
+B2B_Suckouts collected [ 0,08 $ ]
+
+
+
+#Game No : 474759870
+***** 888poker Hand History for Game 474759870 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:15:25
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,51 $ )
+Seat 3: ChipsACA ( 0,62 $ )
+Seat 4: Sugrob4ik ( 4,69 $ )
+Seat 5: migu3l30 ( 1,79 $ )
+Seat 6: mihuflorin13 ( 0,66 $ )
+Seat 7: 1onceonce1 ( 1 $ )
+Seat 9: oldbashkir ( 4,07 $ )
+Seat 10: JohnSteinbec ( 4,28 $ )
+ChipsACA posts small blind [0,01 $]
+Sugrob4ik folds
+migu3l30 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 10Karo ]
+mihuflorin13 raises [0,06 $]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts calls [0,06 $]
+ChipsACA folds
+migu3l30 folds
+** Dealing flop ** [ 5Karo, 2Kreuz, AKreuz ]
+mihuflorin13 bets [0,02 $]
+B2B_Suckouts raises [0,04 $]
+mihuflorin13 calls [0,02 $]
+** Dealing turn ** [ 3Pik ]
+mihuflorin13 checks
+B2B_Suckouts bets [0,07 $]
+mihuflorin13 folds
+** Summary **
+B2B_Suckouts collected [ 0,22 $ ]
+
+
+
+#Game No : 474759882
+***** 888poker Hand History for Game 474759882 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:15:57
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 3: ChipsACA ( 0,61 $ )
+Seat 5: migu3l30 ( 1,77 $ )
+Seat 7: 1onceonce1 ( 1 $ )
+Seat 9: oldbashkir ( 4,07 $ )
+Seat 10: JohnSteinbec ( 4,28 $ )
+migu3l30 posts small blind [0,01 $]
+1onceonce1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 8Karo ]
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA folds
+migu3l30 folds
+** Summary **
+1onceonce1 collected [ 0,03 $ ]
+
+
+
+#Game No : 474759895
+***** 888poker Hand History for Game 474759895 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:16:15
+Table Milagro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 3: ChipsACA ( 0,61 $ )
+Seat 5: migu3l30 ( 1,76 $ )
+Seat 7: 1onceonce1 ( 1,01 $ )
+Seat 9: oldbashkir ( 4,07 $ )
+Seat 10: JohnSteinbec ( 4,28 $ )
+1onceonce1 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, QKreuz ]
+JohnSteinbec folds
+B2B_Suckouts raises [0,06 $]
+ChipsACA folds
+migu3l30 folds
+1onceonce1 folds
+oldbashkir folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474759901
+***** 888poker Hand History for Game 474759901 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:16:34
+Table Milagro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2,66 $ )
+Seat 3: ChipsACA ( 0,61 $ )
+Seat 5: migu3l30 ( 1,76 $ )
+Seat 7: 1onceonce1 ( 1 $ )
+Seat 9: oldbashkir ( 4,05 $ )
+Seat 10: JohnSteinbec ( 4,28 $ )
+oldbashkir posts small blind [0,01 $]
+JohnSteinbec posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 9Kreuz ]
+B2B_Suckouts folds
+ChipsACA folds
+migu3l30 raises [0,06 $]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+** Summary **
+migu3l30 collected [ 0,05 $ ]
+
+
+
+#Game No : 474759917
+***** 888poker Hand History for Game 474759917 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:17:12
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,66 $ )
+Seat 3: ChipsACA ( 0,61 $ )
+Seat 4: zenit3535 ( 2 $ )
+Seat 5: migu3l30 ( 1,79 $ )
+Seat 6: Poker_Timmy ( 2 $ )
+Seat 7: 1onceonce1 ( 1 $ )
+Seat 9: oldbashkir ( 4,04 $ )
+Seat 10: JohnSteinbec ( 4,26 $ )
+JohnSteinbec posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+zenit3535 posts big blind [0,02 $]
+Poker_Timmy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 8Herz ]
+ChipsACA folds
+zenit3535 checks
+migu3l30 raises [0,11 $]
+Poker_Timmy folds
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+zenit3535 folds
+** Summary **
+migu3l30 collected [ 0,09 $ ]
+
+
+
+#Game No : 474759937
+***** 888poker Hand History for Game 474759937 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:17:44
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,64 $ )
+Seat 3: ChipsACA ( 0,61 $ )
+Seat 4: zenit3535 ( 1,98 $ )
+Seat 5: migu3l30 ( 1,86 $ )
+Seat 6: Poker_Timmy ( 1,98 $ )
+Seat 7: 1onceonce1 ( 1 $ )
+Seat 9: oldbashkir ( 4,04 $ )
+Seat 10: JohnSteinbec ( 4,25 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 5Karo ]
+zenit3535 raises [0,06 $]
+migu3l30 folds
+Poker_Timmy folds
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec raises [0,10 $]
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 raises [0,34 $]
+JohnSteinbec calls [0,30 $]
+** Dealing flop ** [ 3Kreuz, 6Karo, JKreuz ]
+zenit3535 bets [0,54 $]
+JohnSteinbec folds
+** Summary **
+zenit3535 collected [ 0,78 $ ]
+
+
+
+#Game No : 474759955
+***** 888poker Hand History for Game 474759955 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:18:36
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 3: ChipsACA ( 0,59 $ )
+Seat 4: zenit3535 ( 2,36 $ )
+Seat 5: migu3l30 ( 1,86 $ )
+Seat 6: Poker_Timmy ( 1,98 $ )
+Seat 7: 1onceonce1 ( 1 $ )
+Seat 9: oldbashkir ( 4,04 $ )
+Seat 10: JohnSteinbec ( 3,85 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 8Pik ]
+migu3l30 raises [0,06 $]
+Poker_Timmy raises [0,15 $]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 folds
+migu3l30 calls [0,09 $]
+** Dealing flop ** [ JKaro, 5Herz, 10Karo ]
+migu3l30 checks
+Poker_Timmy bets [0,16 $]
+migu3l30 calls [0,16 $]
+** Dealing turn ** [ AHerz ]
+migu3l30 checks
+Poker_Timmy checks
+** Dealing river ** [ 9Pik ]
+migu3l30 bets [0,65 $]
+Poker_Timmy folds
+** Summary **
+migu3l30 collected [ 0,61 $ ]
+
+
+
+#Game No : 474759979
+***** 888poker Hand History for Game 474759979 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:19:44
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 3: ChipsACA ( 0,58 $ )
+Seat 4: zenit3535 ( 2,34 $ )
+Seat 5: migu3l30 ( 2,16 $ )
+Seat 6: Poker_Timmy ( 1,67 $ )
+Seat 7: 1onceonce1 ( 1 $ )
+Seat 9: oldbashkir ( 4,04 $ )
+Seat 10: JohnSteinbec ( 3,85 $ )
+zenit3535 posts small blind [0,01 $]
+migu3l30 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 7Karo ]
+Poker_Timmy folds
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 raises [0,05 $]
+migu3l30 calls [0,04 $]
+** Dealing flop ** [ JKaro, APik, KKreuz ]
+zenit3535 bets [0,07 $]
+migu3l30 folds
+** Summary **
+zenit3535 collected [ 0,12 $ ]
+
+
+
+#Game No : 474759987
+***** 888poker Hand History for Game 474759987 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:20:10
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 3: ChipsACA ( 0,58 $ )
+Seat 4: zenit3535 ( 2,40 $ )
+Seat 5: migu3l30 ( 2,10 $ )
+Seat 6: Poker_Timmy ( 1,67 $ )
+Seat 7: 1onceonce1 ( 1 $ )
+Seat 9: oldbashkir ( 4,04 $ )
+Seat 10: JohnSteinbec ( 3,85 $ )
+migu3l30 posts small blind [0,01 $]
+Poker_Timmy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 9Pik ]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 raises [0,06 $]
+migu3l30 folds
+Poker_Timmy folds
+** Summary **
+zenit3535 collected [ 0,05 $ ]
+
+
+
+#Game No : 474759998
+***** 888poker Hand History for Game 474759998 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:20:38
+Table Milagro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 3: ChipsACA ( 0,58 $ )
+Seat 4: zenit3535 ( 2,43 $ )
+Seat 5: migu3l30 ( 2,09 $ )
+Seat 6: Poker_Timmy ( 1,65 $ )
+Seat 7: 1onceonce1 ( 1 $ )
+Seat 9: oldbashkir ( 4,04 $ )
+Seat 10: JohnSteinbec ( 3,85 $ )
+Poker_Timmy posts small blind [0,01 $]
+1onceonce1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 4Pik ]
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA raises [0,06 $]
+zenit3535 folds
+migu3l30 folds
+Poker_Timmy folds
+1onceonce1 folds
+** Summary **
+ChipsACA collected [ 0,05 $ ]
+
+
+
+#Game No : 474760011
+***** 888poker Hand History for Game 474760011 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:21:05
+Table Milagro 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 3: ChipsACA ( 0,61 $ )
+Seat 4: zenit3535 ( 2,43 $ )
+Seat 5: migu3l30 ( 2,09 $ )
+Seat 6: Poker_Timmy ( 1,64 $ )
+Seat 7: 1onceonce1 ( 0,98 $ )
+Seat 9: oldbashkir ( 4,04 $ )
+Seat 10: JohnSteinbec ( 3,85 $ )
+1onceonce1 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, QKreuz ]
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 folds
+migu3l30 folds
+Poker_Timmy folds
+1onceonce1 folds
+** Summary **
+oldbashkir did not show his hand
+oldbashkir collected [ 0,03 $ ]
+
+
+
+#Game No : 474760028
+***** 888poker Hand History for Game 474760028 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:21:50
+Table Milagro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 3: ChipsACA ( 0,61 $ )
+Seat 4: zenit3535 ( 2,43 $ )
+Seat 5: migu3l30 ( 2,09 $ )
+Seat 7: 1onceonce1 ( 0,97 $ )
+Seat 9: oldbashkir ( 4,05 $ )
+Seat 10: JohnSteinbec ( 3,85 $ )
+oldbashkir posts small blind [0,01 $]
+JohnSteinbec posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 2Herz ]
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 folds
+migu3l30 raises [0,07 $]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+** Summary **
+migu3l30 collected [ 0,05 $ ]
+
+
+
+#Game No : 474760032
+***** 888poker Hand History for Game 474760032 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:22:07
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,63 $ )
+Seat 3: ChipsACA ( 0,61 $ )
+Seat 4: zenit3535 ( 2,43 $ )
+Seat 5: migu3l30 ( 2,12 $ )
+Seat 7: 1onceonce1 ( 0,97 $ )
+Seat 9: oldbashkir ( 4,04 $ )
+Seat 10: JohnSteinbec ( 3,83 $ )
+JohnSteinbec posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 4Karo ]
+ChipsACA folds
+zenit3535 folds
+migu3l30 folds
+1onceonce1 folds
+oldbashkir raises [0,06 $]
+JohnSteinbec folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 3Herz, 2Kreuz, 4Pik ]
+B2B_Suckouts bets [0,04 $]
+oldbashkir calls [0,04 $]
+** Dealing turn ** [ 5Herz ]
+B2B_Suckouts bets [0,06 $]
+oldbashkir folds
+** Summary **
+B2B_Suckouts collected [ 0,20 $ ]
+
+
+
+#Game No : 474760051
+***** 888poker Hand History for Game 474760051 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:22:52
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,73 $ )
+Seat 2: caradecuero ( 0,80 $ )
+Seat 3: ChipsACA ( 0,61 $ )
+Seat 4: zenit3535 ( 2,43 $ )
+Seat 5: migu3l30 ( 2,12 $ )
+Seat 6: Poker_Timmy ( 1,64 $ )
+Seat 7: 1onceonce1 ( 0,97 $ )
+Seat 9: oldbashkir ( 3,94 $ )
+Seat 10: JohnSteinbec ( 3,82 $ )
+B2B_Suckouts posts small blind [0,01 $]
+caradecuero posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, JHerz ]
+ChipsACA folds
+zenit3535 folds
+migu3l30 folds
+Poker_Timmy folds
+1onceonce1 folds
+oldbashkir raises [0,06 $]
+JohnSteinbec folds
+B2B_Suckouts folds
+caradecuero folds
+** Summary **
+oldbashkir did not show his hand
+oldbashkir collected [ 0,05 $ ]
+
+
+
+#Game No : 474760073
+***** 888poker Hand History for Game 474760073 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:23:44
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,72 $ )
+Seat 2: caradecuero ( 0,78 $ )
+Seat 3: ChipsACA ( 0,61 $ )
+Seat 4: zenit3535 ( 2,43 $ )
+Seat 5: migu3l30 ( 2,12 $ )
+Seat 6: Poker_Timmy ( 1,64 $ )
+Seat 7: 1onceonce1 ( 0,97 $ )
+Seat 9: oldbashkir ( 3,97 $ )
+Seat 10: JohnSteinbec ( 3,82 $ )
+caradecuero posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 7Kreuz ]
+zenit3535 folds
+migu3l30 folds
+Poker_Timmy folds
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts raises [0,06 $]
+caradecuero folds
+ChipsACA calls [0,04 $]
+** Dealing flop ** [ 3Pik, 3Herz, APik ]
+ChipsACA checks
+B2B_Suckouts bets [0,02 $]
+ChipsACA calls [0,02 $]
+** Dealing turn ** [ KPik ]
+ChipsACA checks
+B2B_Suckouts bets [0,02 $]
+ChipsACA raises [0,04 $]
+B2B_Suckouts folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,20 $ ]
+
+
+
+#Game No : 474760103
+***** 888poker Hand History for Game 474760103 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:24:42
+Table Milagro 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,62 $ )
+Seat 2: caradecuero ( 0,77 $ )
+Seat 3: ChipsACA ( 0,71 $ )
+Seat 4: zenit3535 ( 2,43 $ )
+Seat 5: migu3l30 ( 2,12 $ )
+Seat 6: Poker_Timmy ( 1,64 $ )
+Seat 7: 1onceonce1 ( 0,97 $ )
+Seat 9: oldbashkir ( 3,97 $ )
+Seat 10: JohnSteinbec ( 3,82 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 9Herz ]
+migu3l30 raises [0,04 $]
+Poker_Timmy folds
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+caradecuero folds
+ChipsACA folds
+zenit3535 calls [0,02 $]
+** Dealing flop ** [ QPik, AKaro, JKaro ]
+zenit3535 checks
+migu3l30 bets [0,06 $]
+zenit3535 raises [0,24 $]
+migu3l30 folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ 0,20 $ ]
+
+
+
+#Game No : 474760122
+***** 888poker Hand History for Game 474760122 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:25:38
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,62 $ )
+Seat 2: caradecuero ( 0,77 $ )
+Seat 3: ChipsACA ( 0,70 $ )
+Seat 4: zenit3535 ( 2,53 $ )
+Seat 5: migu3l30 ( 2,02 $ )
+Seat 6: Poker_Timmy ( 1,64 $ )
+Seat 7: 1onceonce1 ( 0,97 $ )
+Seat 9: oldbashkir ( 3,97 $ )
+Seat 10: JohnSteinbec ( 3,82 $ )
+zenit3535 posts small blind [0,01 $]
+migu3l30 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 4Karo ]
+Poker_Timmy raises [0,06 $]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec raises [0,10 $]
+B2B_Suckouts folds
+caradecuero calls [0,10 $]
+ChipsACA folds
+zenit3535 folds
+migu3l30 folds
+Poker_Timmy calls [0,04 $]
+** Dealing flop ** [ KHerz, 2Pik, 10Pik ]
+Poker_Timmy bets [0,16 $]
+JohnSteinbec raises [0,32 $]
+caradecuero folds
+Poker_Timmy calls [0,16 $]
+** Dealing turn ** [ 5Herz ]
+Poker_Timmy bets [0,26 $]
+JohnSteinbec calls [0,26 $]
+** Dealing river ** [ 8Kreuz ]
+Poker_Timmy checks
+JohnSteinbec bets [1,49 $]
+Poker_Timmy calls [0,96 $]
+** Summary **
+Poker_Timmy shows [ 10Herz, QHerz ]
+JohnSteinbec shows [ KKreuz, QKreuz ]
+JohnSteinbec collected [ 3,20 $ ]
+
+
+
+#Game No : 474760161
+***** 888poker Hand History for Game 474760161 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:27:03
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,62 $ )
+Seat 2: caradecuero ( 0,67 $ )
+Seat 3: ChipsACA ( 0,70 $ )
+Seat 4: zenit3535 ( 2,52 $ )
+Seat 5: migu3l30 ( 2 $ )
+Seat 6: Poker_Timmy ( 2 $ )
+Seat 7: 1onceonce1 ( 0,97 $ )
+Seat 9: oldbashkir ( 3,97 $ )
+Seat 10: JohnSteinbec ( 5,38 $ )
+migu3l30 posts small blind [0,01 $]
+Poker_Timmy posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 4Herz ]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+caradecuero folds
+ChipsACA raises [0,06 $]
+zenit3535 folds
+migu3l30 calls [0,05 $]
+Poker_Timmy folds
+** Dealing flop ** [ 5Karo, 6Herz, QHerz ]
+migu3l30 checks
+ChipsACA bets [0,04 $]
+migu3l30 calls [0,04 $]
+** Dealing turn ** [ 9Kreuz ]
+migu3l30 checks
+ChipsACA bets [0,11 $]
+migu3l30 calls [0,11 $]
+** Dealing river ** [ APik ]
+migu3l30 checks
+ChipsACA checks
+** Summary **
+migu3l30 shows [ 4Karo, 3Karo ]
+ChipsACA shows [ 10Kreuz, AKreuz ]
+ChipsACA collected [ 0,42 $ ]
+
+
+
+#Game No : 474760187
+***** 888poker Hand History for Game 474760187 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:28:09
+Table Milagro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,62 $ )
+Seat 2: caradecuero ( 0,67 $ )
+Seat 3: ChipsACA ( 0,91 $ )
+Seat 4: zenit3535 ( 2,52 $ )
+Seat 5: migu3l30 ( 1,79 $ )
+Seat 7: 1onceonce1 ( 0,97 $ )
+Seat 9: oldbashkir ( 3,97 $ )
+Seat 10: JohnSteinbec ( 5,38 $ )
+1onceonce1 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 7Herz ]
+JohnSteinbec folds
+B2B_Suckouts folds
+caradecuero calls [0,02 $]
+ChipsACA folds
+zenit3535 folds
+migu3l30 calls [0,02 $]
+1onceonce1 folds
+oldbashkir checks
+** Dealing flop ** [ QPik, 9Herz, QKreuz ]
+oldbashkir checks
+caradecuero checks
+migu3l30 bets [0,03 $]
+oldbashkir folds
+caradecuero calls [0,03 $]
+** Dealing turn ** [ 6Kreuz ]
+caradecuero checks
+migu3l30 bets [0,06 $]
+caradecuero calls [0,06 $]
+** Dealing river ** [ 9Kreuz ]
+caradecuero bets [0,28 $]
+migu3l30 raises [0,60 $]
+caradecuero calls [0,28 $]
+** Summary **
+caradecuero shows [ APik, 9Pik ]
+migu3l30 shows [ 10Karo, QHerz ]
+migu3l30 collected [ 1,29 $ ]
+
+
+
+#Game No : 474760210
+***** 888poker Hand History for Game 474760210 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:29:19
+Table Milagro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,62 $ )
+Seat 3: ChipsACA ( 0,91 $ )
+Seat 4: zenit3535 ( 2,52 $ )
+Seat 5: migu3l30 ( 2,41 $ )
+Seat 7: 1onceonce1 ( 0,96 $ )
+Seat 9: oldbashkir ( 3,95 $ )
+Seat 10: JohnSteinbec ( 5,38 $ )
+oldbashkir posts small blind [0,01 $]
+JohnSteinbec posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 10Herz ]
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 raises [0,06 $]
+migu3l30 folds
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+** Summary **
+zenit3535 collected [ 0,05 $ ]
+
+
+
+#Game No : 474760220
+***** 888poker Hand History for Game 474760220 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:29:38
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,62 $ )
+Seat 3: ChipsACA ( 0,91 $ )
+Seat 4: zenit3535 ( 2,55 $ )
+Seat 5: migu3l30 ( 2,41 $ )
+Seat 7: 1onceonce1 ( 0,96 $ )
+Seat 9: oldbashkir ( 3,94 $ )
+Seat 10: JohnSteinbec ( 5,36 $ )
+JohnSteinbec posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, QPik ]
+ChipsACA folds
+zenit3535 folds
+migu3l30 folds
+1onceonce1 folds
+oldbashkir raises [0,06 $]
+JohnSteinbec folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 7Herz, AKreuz, 6Karo ]
+B2B_Suckouts checks
+oldbashkir checks
+** Dealing turn ** [ APik ]
+B2B_Suckouts checks
+oldbashkir checks
+** Dealing river ** [ 4Karo ]
+B2B_Suckouts bets [0,12 $]
+oldbashkir folds
+** Summary **
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 474760234
+***** 888poker Hand History for Game 474760234 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:30:15
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,69 $ )
+Seat 3: ChipsACA ( 0,91 $ )
+Seat 4: zenit3535 ( 2,55 $ )
+Seat 5: migu3l30 ( 2,41 $ )
+Seat 7: 1onceonce1 ( 0,96 $ )
+Seat 9: oldbashkir ( 3,88 $ )
+Seat 10: JohnSteinbec ( 5,35 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 8Pik ]
+zenit3535 folds
+migu3l30 folds
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+** Summary **
+ChipsACA collected [ 0,03 $ ]
+
+
+
+#Game No : 474760241
+***** 888poker Hand History for Game 474760241 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:30:32
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,68 $ )
+Seat 3: ChipsACA ( 0,92 $ )
+Seat 4: zenit3535 ( 2,55 $ )
+Seat 5: migu3l30 ( 2,41 $ )
+Seat 7: 1onceonce1 ( 0,96 $ )
+Seat 9: oldbashkir ( 3,88 $ )
+Seat 10: JohnSteinbec ( 5,35 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, QPik ]
+migu3l30 folds
+1onceonce1 calls [0,02 $]
+oldbashkir folds
+JohnSteinbec raises [0,04 $]
+B2B_Suckouts calls [0,04 $]
+ChipsACA folds
+zenit3535 folds
+1onceonce1 calls [0,02 $]
+** Dealing flop ** [ 10Herz, 6Karo, 4Karo ]
+1onceonce1 checks
+JohnSteinbec bets [0,15 $]
+B2B_Suckouts folds
+1onceonce1 folds
+** Summary **
+JohnSteinbec collected [ 0,15 $ ]
+
+
+
+#Game No : 474760255
+***** 888poker Hand History for Game 474760255 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:31:08
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2,64 $ )
+Seat 3: ChipsACA ( 0,91 $ )
+Seat 4: zenit3535 ( 2,53 $ )
+Seat 7: 1onceonce1 ( 0,92 $ )
+Seat 9: oldbashkir ( 3,88 $ )
+Seat 10: JohnSteinbec ( 5,46 $ )
+zenit3535 posts small blind [0,01 $]
+1onceonce1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 3Kreuz ]
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 folds
+** Summary **
+1onceonce1 did not show his hand
+1onceonce1 collected [ 0,03 $ ]
+
+
+
+#Game No : 474760261
+***** 888poker Hand History for Game 474760261 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:31:25
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2,64 $ )
+Seat 3: ChipsACA ( 0,91 $ )
+Seat 4: zenit3535 ( 2,52 $ )
+Seat 7: 1onceonce1 ( 0,93 $ )
+Seat 9: oldbashkir ( 3,88 $ )
+Seat 10: JohnSteinbec ( 5,46 $ )
+1onceonce1 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 6Herz ]
+JohnSteinbec folds
+B2B_Suckouts folds
+ChipsACA raises [0,06 $]
+zenit3535 folds
+1onceonce1 folds
+oldbashkir folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,05 $ ]
+
+
+
+#Game No : 474760271
+***** 888poker Hand History for Game 474760271 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:31:40
+Table Milagro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 5
+Seat 1: B2B_Suckouts ( 2,64 $ )
+Seat 3: ChipsACA ( 0,94 $ )
+Seat 4: zenit3535 ( 2,52 $ )
+Seat 7: 1onceonce1 ( 0,92 $ )
+Seat 10: JohnSteinbec ( 5,46 $ )
+JohnSteinbec posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, AHerz ]
+ChipsACA folds
+zenit3535 folds
+1onceonce1 raises [0,04 $]
+JohnSteinbec raises [0,05 $]
+B2B_Suckouts calls [0,04 $]
+1onceonce1 calls [0,02 $]
+** Dealing flop ** [ 3Herz, AKreuz, 10Kreuz ]
+JohnSteinbec bets [0,18 $]
+B2B_Suckouts calls [0,18 $]
+1onceonce1 folds
+** Dealing turn ** [ 9Karo ]
+JohnSteinbec bets [0,54 $]
+B2B_Suckouts folds
+** Summary **
+JohnSteinbec collected [ 0,51 $ ]
+
+
+
+#Game No : 474760289
+***** 888poker Hand History for Game 474760289 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:32:18
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2,40 $ )
+Seat 2: Satyic ( 2 $ )
+Seat 3: ChipsACA ( 0,94 $ )
+Seat 4: zenit3535 ( 2,52 $ )
+Seat 7: 1onceonce1 ( 0,86 $ )
+Seat 10: JohnSteinbec ( 5,73 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Satyic posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, AKaro ]
+ChipsACA folds
+zenit3535 folds
+1onceonce1 folds
+JohnSteinbec folds
+B2B_Suckouts raises [0,03 $]
+Satyic folds
+** Summary **
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 474760306
+***** 888poker Hand History for Game 474760306 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:32:42
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: Satyic ( 1,98 $ )
+Seat 3: ChipsACA ( 0,94 $ )
+Seat 4: zenit3535 ( 2,52 $ )
+Seat 7: 1onceonce1 ( 0,86 $ )
+Seat 10: JohnSteinbec ( 5,73 $ )
+Satyic posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 6Herz ]
+zenit3535 folds
+1onceonce1 folds
+JohnSteinbec folds
+B2B_Suckouts folds
+Satyic folds
+** Summary **
+ChipsACA collected [ 0,03 $ ]
+
+
+
+#Game No : 474760310
+***** 888poker Hand History for Game 474760310 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:32:58
+Table Milagro 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: Satyic ( 1,97 $ )
+Seat 3: ChipsACA ( 0,95 $ )
+Seat 4: zenit3535 ( 2,52 $ )
+Seat 7: 1onceonce1 ( 0,86 $ )
+Seat 10: JohnSteinbec ( 5,73 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 8Kreuz ]
+1onceonce1 folds
+JohnSteinbec folds
+B2B_Suckouts folds
+Satyic raises [0,06 $]
+ChipsACA folds
+zenit3535 calls [0,04 $]
+** Dealing flop ** [ 9Kreuz, 5Herz, 7Karo ]
+zenit3535 checks
+Satyic checks
+** Dealing turn ** [ AHerz ]
+zenit3535 checks
+Satyic checks
+** Dealing river ** [ QKreuz ]
+zenit3535 checks
+Satyic bets [0,06 $]
+zenit3535 folds
+** Summary **
+Satyic collected [ 0,13 $ ]
+
+
+
+#Game No : 474760333
+***** 888poker Hand History for Game 474760333 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:33:50
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: Satyic ( 2,04 $ )
+Seat 3: ChipsACA ( 0,94 $ )
+Seat 4: zenit3535 ( 2,46 $ )
+Seat 7: 1onceonce1 ( 0,86 $ )
+Seat 10: JohnSteinbec ( 5,73 $ )
+zenit3535 posts small blind [0,01 $]
+1onceonce1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 5Herz ]
+JohnSteinbec raises [0,04 $]
+B2B_Suckouts folds
+Satyic folds
+ChipsACA folds
+zenit3535 raises [0,15 $]
+1onceonce1 folds
+JohnSteinbec raises [0,24 $]
+zenit3535 calls [0,12 $]
+** Dealing flop ** [ 9Herz, 4Herz, 10Karo ]
+zenit3535 checks
+JohnSteinbec bets [0,58 $]
+zenit3535 raises [1,45 $]
+JohnSteinbec calls [0,87 $]
+** Dealing turn ** [ 8Karo ]
+zenit3535 bets [0,73 $]
+JohnSteinbec calls [0,73 $]
+** Dealing river ** [ 3Pik ]
+** Summary **
+zenit3535 shows [ KHerz, QHerz ]
+JohnSteinbec shows [ AHerz, AKreuz ]
+JohnSteinbec collected [ 4,64 $ ]
+
+
+
+#Game No : 474760355
+***** 888poker Hand History for Game 474760355 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:34:42
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: Satyic ( 2,04 $ )
+Seat 3: ChipsACA ( 0,94 $ )
+Seat 4: zenit3535 ( 2 $ )
+Seat 7: 1onceonce1 ( 0,84 $ )
+Seat 9: oldbashkir ( 3,86 $ )
+Seat 10: JohnSteinbec ( 7,91 $ )
+1onceonce1 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 4Herz ]
+JohnSteinbec folds
+B2B_Suckouts folds
+Satyic folds
+ChipsACA raises [0,06 $]
+zenit3535 folds
+1onceonce1 folds
+oldbashkir calls [0,04 $]
+** Dealing flop ** [ 7Herz, QKaro, KKreuz ]
+oldbashkir checks
+ChipsACA bets [0,06 $]
+oldbashkir calls [0,06 $]
+** Dealing turn ** [ 8Kreuz ]
+oldbashkir checks
+ChipsACA bets [0,12 $]
+oldbashkir calls [0,12 $]
+** Dealing river ** [ 6Karo ]
+oldbashkir checks
+ChipsACA bets [0,16 $]
+oldbashkir folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,46 $ ]
+
+
+
+#Game No : 474760380
+***** 888poker Hand History for Game 474760380 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:35:25
+Table Milagro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: Satyic ( 2,04 $ )
+Seat 3: ChipsACA ( 1,16 $ )
+Seat 4: zenit3535 ( 2 $ )
+Seat 7: 1onceonce1 ( 0,83 $ )
+Seat 9: oldbashkir ( 3,62 $ )
+Seat 10: JohnSteinbec ( 7,91 $ )
+oldbashkir posts small blind [0,01 $]
+JohnSteinbec posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, QHerz ]
+B2B_Suckouts folds
+Satyic folds
+ChipsACA raises [0,05 $]
+zenit3535 folds
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,05 $ ]
+
+
+
+#Game No : 474760389
+***** 888poker Hand History for Game 474760389 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:35:45
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: Satyic ( 2,04 $ )
+Seat 3: ChipsACA ( 1,19 $ )
+Seat 4: zenit3535 ( 2 $ )
+Seat 7: 1onceonce1 ( 0,83 $ )
+Seat 9: oldbashkir ( 3,61 $ )
+Seat 10: JohnSteinbec ( 7,89 $ )
+JohnSteinbec posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 6Karo ]
+Satyic folds
+ChipsACA folds
+zenit3535 raises [0,06 $]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ AKreuz, 5Herz, JHerz ]
+B2B_Suckouts checks
+zenit3535 bets [0,08 $]
+B2B_Suckouts folds
+** Summary **
+zenit3535 collected [ 0,13 $ ]
+
+
+
+#Game No : 474760407
+***** 888poker Hand History for Game 474760407 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:36:16
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,36 $ )
+Seat 2: Satyic ( 2,04 $ )
+Seat 3: ChipsACA ( 1,19 $ )
+Seat 4: zenit3535 ( 2,07 $ )
+Seat 6: Flynn25 ( 1,40 $ )
+Seat 7: 1onceonce1 ( 0,83 $ )
+Seat 9: oldbashkir ( 3,61 $ )
+Seat 10: JohnSteinbec ( 7,88 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Satyic posts big blind [0,02 $]
+Flynn25 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, KPik ]
+ChipsACA folds
+zenit3535 raises [0,08 $]
+Flynn25 calls [0,06 $]
+1onceonce1 folds
+oldbashkir calls [0,08 $]
+JohnSteinbec folds
+B2B_Suckouts folds
+Satyic calls [0,06 $]
+** Dealing flop ** [ 9Herz, 7Karo, 9Karo ]
+Satyic checks
+zenit3535 checks
+Flynn25 bets [0,14 $]
+oldbashkir folds
+Satyic calls [0,14 $]
+zenit3535 folds
+** Dealing turn ** [ 2Herz ]
+Satyic checks
+Flynn25 bets [0,52 $]
+Satyic folds
+** Summary **
+Flynn25 collected [ 0,58 $ ]
+
+
+
+#Game No : 474760438
+***** 888poker Hand History for Game 474760438 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:37:20
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,35 $ )
+Seat 2: Satyic ( 1,82 $ )
+Seat 3: ChipsACA ( 1,19 $ )
+Seat 4: zenit3535 ( 1,99 $ )
+Seat 5: ZayacVovan55 ( 1,11 $ )
+Seat 6: Flynn25 ( 1,76 $ )
+Seat 7: 1onceonce1 ( 0,83 $ )
+Seat 9: oldbashkir ( 3,53 $ )
+Seat 10: JohnSteinbec ( 7,88 $ )
+Satyic posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+ZayacVovan55 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, AKaro ]
+zenit3535 folds
+ZayacVovan55 raises [0,02 $]
+Flynn25 calls [0,04 $]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts calls [0,04 $]
+Satyic folds
+ChipsACA folds
+** Dealing flop ** [ APik, 5Herz, 8Kreuz ]
+ZayacVovan55 checks
+Flynn25 checks
+B2B_Suckouts checks
+** Dealing turn ** [ QHerz ]
+ZayacVovan55 checks
+Flynn25 checks
+B2B_Suckouts bets [0,04 $]
+ZayacVovan55 folds
+Flynn25 calls [0,04 $]
+** Dealing river ** [ 4Herz ]
+Flynn25 checks
+B2B_Suckouts bets [0,20 $]
+Flynn25 raises [0,40 $]
+B2B_Suckouts folds
+** Summary **
+Flynn25 did not show his hand
+Flynn25 collected [ 0,60 $ ]
+
+
+
+#Game No : 474760466
+***** 888poker Hand History for Game 474760466 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:38:18
+Table Milagro 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,07 $ )
+Seat 2: Satyic ( 1,81 $ )
+Seat 3: ChipsACA ( 1,17 $ )
+Seat 4: zenit3535 ( 1,99 $ )
+Seat 5: ZayacVovan55 ( 1,07 $ )
+Seat 6: Flynn25 ( 2,08 $ )
+Seat 7: 1onceonce1 ( 0,83 $ )
+Seat 9: oldbashkir ( 3,53 $ )
+Seat 10: JohnSteinbec ( 7,88 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, AHerz ]
+ZayacVovan55 raises [1,07 $]
+Flynn25 folds
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+Satyic folds
+ChipsACA folds
+zenit3535 calls [1,05 $]
+** Dealing flop ** [ KHerz, QHerz, 3Kreuz ]
+** Dealing turn ** [ JKreuz ]
+** Dealing river ** [ 9Kreuz ]
+** Summary **
+zenit3535 shows [ 8Kreuz, 8Herz ]
+ZayacVovan55 shows [ 10Pik, 10Kreuz ]
+ZayacVovan55 collected [ 2,02 $ ]
+
+
+
+#Game No : 474760484
+***** 888poker Hand History for Game 474760484 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:39:06
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,07 $ )
+Seat 2: Satyic ( 1,81 $ )
+Seat 3: ChipsACA ( 1,16 $ )
+Seat 4: zenit3535 ( 0,92 $ )
+Seat 5: ZayacVovan55 ( 2,02 $ )
+Seat 6: Flynn25 ( 2,08 $ )
+Seat 7: 1onceonce1 ( 0,83 $ )
+Seat 9: oldbashkir ( 3,53 $ )
+Seat 10: JohnSteinbec ( 7,88 $ )
+zenit3535 posts small blind [0,01 $]
+ZayacVovan55 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 10Pik ]
+Flynn25 raises [0,06 $]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+Satyic folds
+ChipsACA calls [0,06 $]
+zenit3535 folds
+ZayacVovan55 folds
+** Dealing flop ** [ 5Herz, 10Kreuz, 3Karo ]
+Flynn25 checks
+ChipsACA bets [0,07 $]
+Flynn25 calls [0,07 $]
+** Dealing turn ** [ QKaro ]
+Flynn25 checks
+ChipsACA bets [0,09 $]
+Flynn25 folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,28 $ ]
+
+
+
+#Game No : 474760499
+***** 888poker Hand History for Game 474760499 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:39:48
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,07 $ )
+Seat 2: Satyic ( 1,81 $ )
+Seat 3: ChipsACA ( 1,31 $ )
+Seat 4: zenit3535 ( 0,91 $ )
+Seat 5: ZayacVovan55 ( 2 $ )
+Seat 6: Flynn25 ( 1,95 $ )
+Seat 7: 1onceonce1 ( 0,83 $ )
+Seat 9: oldbashkir ( 3,53 $ )
+Seat 10: JohnSteinbec ( 7,88 $ )
+ZayacVovan55 posts small blind [0,01 $]
+Flynn25 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, KHerz ]
+1onceonce1 folds
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+Satyic folds
+ChipsACA raises [0,06 $]
+zenit3535 folds
+ZayacVovan55 folds
+Flynn25 calls [0,04 $]
+** Dealing flop ** [ 3Kreuz, 2Karo, 7Pik ]
+Flynn25 bets [0,04 $]
+ChipsACA raises [0,12 $]
+Flynn25 calls [0,08 $]
+** Dealing turn ** [ QHerz ]
+Flynn25 bets [0,10 $]
+ChipsACA calls [0,10 $]
+** Dealing river ** [ 10Herz ]
+Flynn25 bets [0,12 $]
+ChipsACA raises [0,36 $]
+Flynn25 calls [0,24 $]
+** Summary **
+ChipsACA shows [ 2Kreuz, 2Pik ]
+Flynn25 mucks [ 9Pik, KKreuz ]
+ChipsACA collected [ 1,21 $ ]
+
+
+
+#Game No : 474760521
+***** 888poker Hand History for Game 474760521 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:40:51
+Table Milagro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,07 $ )
+Seat 2: Satyic ( 1,81 $ )
+Seat 3: ChipsACA ( 1,88 $ )
+Seat 4: zenit3535 ( 0,91 $ )
+Seat 5: ZayacVovan55 ( 1,99 $ )
+Seat 6: Flynn25 ( 1,31 $ )
+Seat 7: 1onceonce1 ( 0,83 $ )
+Seat 9: oldbashkir ( 3,53 $ )
+Seat 10: JohnSteinbec ( 7,88 $ )
+Flynn25 posts small blind [0,01 $]
+1onceonce1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 10Herz ]
+oldbashkir folds
+JohnSteinbec folds
+B2B_Suckouts folds
+Satyic folds
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 raises [0,04 $]
+Flynn25 raises [0,25 $]
+1onceonce1 raises [0,81 $]
+ZayacVovan55 folds
+Flynn25 calls [0,57 $]
+** Dealing flop ** [ KPik, 3Karo, JKreuz ]
+** Dealing turn ** [ KKreuz ]
+** Dealing river ** [ 6Pik ]
+** Summary **
+Flynn25 shows [ AKaro, 5Herz ]
+1onceonce1 shows [ APik, AHerz ]
+1onceonce1 collected [ 1,60 $ ]
+
+
+
+#Game No : 474760536
+***** 888poker Hand History for Game 474760536 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:41:34
+Table Milagro 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,07 $ )
+Seat 2: Satyic ( 1,81 $ )
+Seat 3: ChipsACA ( 1,88 $ )
+Seat 4: zenit3535 ( 0,91 $ )
+Seat 5: ZayacVovan55 ( 1,95 $ )
+Seat 6: Flynn25 ( 0,48 $ )
+Seat 7: 1onceonce1 ( 1,60 $ )
+Seat 9: oldbashkir ( 3,53 $ )
+Seat 10: JohnSteinbec ( 7,88 $ )
+1onceonce1 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 3Pik ]
+JohnSteinbec folds
+B2B_Suckouts folds
+Satyic folds
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 folds
+Flynn25 raises [0,48 $]
+1onceonce1 folds
+oldbashkir folds
+** Summary **
+Flynn25 did not show his hand
+Flynn25 collected [ 0,05 $ ]
+
+
+
+#Game No : 474760551
+***** 888poker Hand History for Game 474760551 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:42:13
+Table Milagro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,07 $ )
+Seat 2: Satyic ( 1,81 $ )
+Seat 3: ChipsACA ( 1,88 $ )
+Seat 4: zenit3535 ( 0,91 $ )
+Seat 6: Flynn25 ( 0,51 $ )
+Seat 7: 1onceonce1 ( 1,59 $ )
+Seat 9: oldbashkir ( 3,51 $ )
+oldbashkir posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 5Karo ]
+Satyic folds
+ChipsACA folds
+zenit3535 folds
+Flynn25 raises [0,32 $]
+1onceonce1 folds
+oldbashkir folds
+B2B_Suckouts folds
+** Summary **
+Flynn25 collected [ 0,05 $ ]
+
+
+
+#Game No : 474760562
+***** 888poker Hand History for Game 474760562 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:42:43
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: Satyic ( 1,81 $ )
+Seat 3: ChipsACA ( 1,88 $ )
+Seat 4: zenit3535 ( 0,91 $ )
+Seat 6: Flynn25 ( 0,54 $ )
+Seat 7: 1onceonce1 ( 1,59 $ )
+Seat 9: oldbashkir ( 3,50 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Satyic posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 3Herz ]
+ChipsACA folds
+zenit3535 folds
+Flynn25 raises [0,54 $]
+1onceonce1 calls [0,54 $]
+oldbashkir folds
+B2B_Suckouts folds
+Satyic folds
+** Dealing flop ** [ 8Kreuz, QHerz, 4Pik ]
+** Dealing turn ** [ 6Karo ]
+** Dealing river ** [ 6Kreuz ]
+** Summary **
+Flynn25 shows [ AHerz, 10Karo ]
+1onceonce1 shows [ AKaro, 8Karo ]
+1onceonce1 collected [ 1,05 $ ]
+
+
+
+#Game No : 474760579
+***** 888poker Hand History for Game 474760579 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:43:20
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,04 $ )
+Seat 2: Satyic ( 1,79 $ )
+Seat 3: ChipsACA ( 1,88 $ )
+Seat 4: zenit3535 ( 0,91 $ )
+Seat 7: 1onceonce1 ( 2,10 $ )
+Seat 9: oldbashkir ( 3,50 $ )
+Seat 10: Penguin_1980 ( 0,80 $ )
+Satyic posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, QKreuz ]
+zenit3535 folds
+1onceonce1 folds
+oldbashkir folds
+Penguin_1980 checks
+B2B_Suckouts folds
+Satyic folds
+ChipsACA checks
+** Dealing flop ** [ 9Pik, 3Pik, AKreuz ]
+ChipsACA checks
+Penguin_1980 checks
+** Dealing turn ** [ 3Karo ]
+ChipsACA bets [0,02 $]
+Penguin_1980 calls [0,02 $]
+** Dealing river ** [ 9Herz ]
+ChipsACA checks
+Penguin_1980 bets [0,05 $]
+ChipsACA calls [0,05 $]
+** Summary **
+Penguin_1980 shows [ 3Kreuz, 6Pik ]
+ChipsACA mucks [ KKreuz, QKaro ]
+Penguin_1980 collected [ 0,18 $ ]
+
+
+
+#Game No : 474760603
+***** 888poker Hand History for Game 474760603 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:44:22
+Table Milagro 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,04 $ )
+Seat 2: Satyic ( 1,78 $ )
+Seat 3: ChipsACA ( 1,79 $ )
+Seat 4: zenit3535 ( 0,91 $ )
+Seat 6: JACKbazinga ( 1,60 $ )
+Seat 7: 1onceonce1 ( 2,10 $ )
+Seat 9: oldbashkir ( 3,50 $ )
+Seat 10: Penguin_1980 ( 0,89 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+JACKbazinga posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 2Pik ]
+JACKbazinga checks
+1onceonce1 calls [0,02 $]
+oldbashkir folds
+Penguin_1980 calls [0,02 $]
+B2B_Suckouts folds
+Satyic calls [0,02 $]
+ChipsACA folds
+zenit3535 checks
+** Dealing flop ** [ 3Pik, 5Kreuz, 8Karo ]
+zenit3535 bets [0,07 $]
+JACKbazinga calls [0,07 $]
+1onceonce1 folds
+Penguin_1980 folds
+Satyic folds
+** Dealing turn ** [ 10Kreuz ]
+zenit3535 bets [0,16 $]
+JACKbazinga calls [0,16 $]
+** Dealing river ** [ 5Pik ]
+zenit3535 bets [0,37 $]
+JACKbazinga raises [1,35 $]
+zenit3535 folds
+** Summary **
+JACKbazinga collected [ 1,23 $ ]
+
+
+
+#Game No : 474760627
+***** 888poker Hand History for Game 474760627 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:45:15
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,04 $ )
+Seat 2: Satyic ( 1,76 $ )
+Seat 3: ChipsACA ( 1,78 $ )
+Seat 4: zenit3535 ( 0,29 $ )
+Seat 5: ZayacVovan55 ( 1,95 $ )
+Seat 6: JACKbazinga ( 2,21 $ )
+Seat 7: 1onceonce1 ( 2,08 $ )
+Seat 9: oldbashkir ( 3,50 $ )
+Seat 10: Penguin_1980 ( 0,87 $ )
+zenit3535 posts small blind [0,01 $]
+ZayacVovan55 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, QPik ]
+JACKbazinga folds
+1onceonce1 folds
+oldbashkir folds
+Penguin_1980 folds
+B2B_Suckouts raises [0,06 $]
+Satyic calls [0,06 $]
+ChipsACA calls [0,06 $]
+zenit3535 calls [0,05 $]
+ZayacVovan55 calls [0,04 $]
+** Dealing flop ** [ 5Pik, KHerz, 9Herz ]
+zenit3535 bets [0,23 $]
+ZayacVovan55 folds
+B2B_Suckouts raises [0,46 $]
+Satyic folds
+ChipsACA folds
+** Dealing turn ** [ APik ]
+** Dealing river ** [ 7Herz ]
+** Summary **
+B2B_Suckouts shows [ KPik, QPik ]
+zenit3535 shows [ 10Kreuz, 9Karo ]
+B2B_Suckouts collected [ 0,72 $ ]
+
+
+
+#Game No : 474760650
+***** 888poker Hand History for Game 474760650 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:46:06
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,47 $ )
+Seat 2: Satyic ( 1,70 $ )
+Seat 3: ChipsACA ( 1,72 $ )
+Seat 4: zenit3535 ( 2 $ )
+Seat 5: ZayacVovan55 ( 1,89 $ )
+Seat 6: JACKbazinga ( 2,21 $ )
+Seat 7: 1onceonce1 ( 2,08 $ )
+Seat 9: oldbashkir ( 3,50 $ )
+Seat 10: Penguin_1980 ( 0,87 $ )
+ZayacVovan55 posts small blind [0,01 $]
+JACKbazinga posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 4Herz ]
+1onceonce1 folds
+oldbashkir folds
+Penguin_1980 folds
+B2B_Suckouts folds
+Satyic folds
+ChipsACA raises [0,06 $]
+zenit3535 folds
+ZayacVovan55 calls [0,05 $]
+JACKbazinga folds
+** Dealing flop ** [ AHerz, 6Kreuz, 10Karo ]
+ZayacVovan55 checks
+ChipsACA bets [0,07 $]
+ZayacVovan55 folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,14 $ ]
+
+
+
+#Game No : 474760663
+***** 888poker Hand History for Game 474760663 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:46:35
+Table Milagro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,47 $ )
+Seat 2: Satyic ( 1,70 $ )
+Seat 3: ChipsACA ( 1,80 $ )
+Seat 4: zenit3535 ( 2 $ )
+Seat 5: ZayacVovan55 ( 1,83 $ )
+Seat 6: JACKbazinga ( 2,19 $ )
+Seat 7: 1onceonce1 ( 2,08 $ )
+Seat 9: oldbashkir ( 3,50 $ )
+Seat 10: Penguin_1980 ( 0,87 $ )
+JACKbazinga posts small blind [0,01 $]
+1onceonce1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, JPik ]
+oldbashkir folds
+Penguin_1980 folds
+B2B_Suckouts raises [0,06 $]
+Satyic folds
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 calls [0,06 $]
+JACKbazinga folds
+1onceonce1 calls [0,04 $]
+** Dealing flop ** [ 2Herz, 8Kreuz, 9Karo ]
+1onceonce1 bets [0,08 $]
+B2B_Suckouts calls [0,08 $]
+ZayacVovan55 calls [0,08 $]
+** Dealing turn ** [ 5Herz ]
+1onceonce1 bets [0,14 $]
+B2B_Suckouts folds
+ZayacVovan55 calls [0,14 $]
+** Dealing river ** [ 8Herz ]
+1onceonce1 bets [0,35 $]
+ZayacVovan55 calls [0,35 $]
+** Summary **
+1onceonce1 shows [ KPik, KKaro ]
+ZayacVovan55 shows [ 7Kreuz, 8Pik ]
+ZayacVovan55 collected [ 1,33 $ ]
+
+
+
+#Game No : 474760695
+***** 888poker Hand History for Game 474760695 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:47:57
+Table Milagro 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,33 $ )
+Seat 2: Satyic ( 1,70 $ )
+Seat 3: ChipsACA ( 1,80 $ )
+Seat 4: zenit3535 ( 2 $ )
+Seat 5: ZayacVovan55 ( 2,53 $ )
+Seat 6: JACKbazinga ( 2,18 $ )
+Seat 7: 1onceonce1 ( 1,45 $ )
+Seat 9: oldbashkir ( 3,50 $ )
+Seat 10: Penguin_1980 ( 0,87 $ )
+1onceonce1 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 4Kreuz ]
+Penguin_1980 raises [0,04 $]
+B2B_Suckouts folds
+Satyic folds
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 calls [0,04 $]
+JACKbazinga calls [0,04 $]
+1onceonce1 folds
+oldbashkir calls [0,02 $]
+** Dealing flop ** [ 4Karo, 10Pik, 4Pik ]
+oldbashkir checks
+Penguin_1980 bets [0,02 $]
+ZayacVovan55 folds
+JACKbazinga calls [0,02 $]
+oldbashkir calls [0,02 $]
+** Dealing turn ** [ APik ]
+oldbashkir checks
+Penguin_1980 bets [0,02 $]
+JACKbazinga calls [0,02 $]
+oldbashkir calls [0,02 $]
+** Dealing river ** [ 3Pik ]
+oldbashkir checks
+Penguin_1980 bets [0,02 $]
+JACKbazinga calls [0,02 $]
+oldbashkir raises [0,19 $]
+Penguin_1980 calls [0,17 $]
+JACKbazinga folds
+** Summary **
+oldbashkir shows [ JKreuz, KPik ]
+Penguin_1980 mucks [ AKreuz, QPik ]
+oldbashkir collected [ 0,65 $ ]
+
+
+
+#Game No : 474760722
+***** 888poker Hand History for Game 474760722 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:49:02
+Table Milagro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,33 $ )
+Seat 2: Satyic ( 1,70 $ )
+Seat 3: ChipsACA ( 1,80 $ )
+Seat 4: zenit3535 ( 2 $ )
+Seat 5: ZayacVovan55 ( 2,49 $ )
+Seat 6: JACKbazinga ( 2,08 $ )
+Seat 7: 1onceonce1 ( 1,44 $ )
+Seat 9: oldbashkir ( 3,88 $ )
+Seat 10: Penguin_1980 ( 0,60 $ )
+oldbashkir posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, JPik ]
+B2B_Suckouts folds
+Satyic raises [0,06 $]
+ChipsACA folds
+zenit3535 calls [0,06 $]
+ZayacVovan55 calls [0,06 $]
+JACKbazinga calls [0,06 $]
+1onceonce1 folds
+oldbashkir folds
+Penguin_1980 folds
+** Dealing flop ** [ 9Herz, 8Karo, 3Kreuz ]
+Satyic bets [0,08 $]
+zenit3535 folds
+ZayacVovan55 calls [0,08 $]
+JACKbazinga folds
+** Dealing turn ** [ 5Kreuz ]
+Satyic bets [0,18 $]
+ZayacVovan55 calls [0,18 $]
+** Dealing river ** [ KKaro ]
+Satyic bets [0,16 $]
+ZayacVovan55 folds
+** Summary **
+Satyic did not show his hand
+Satyic collected [ 0,75 $ ]
+
+
+
+#Game No : 474760755
+***** 888poker Hand History for Game 474760755 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:50:32
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,33 $ )
+Seat 2: Satyic ( 2,13 $ )
+Seat 3: ChipsACA ( 1,80 $ )
+Seat 4: zenit3535 ( 1,94 $ )
+Seat 5: ZayacVovan55 ( 2,17 $ )
+Seat 6: JACKbazinga ( 2,02 $ )
+Seat 7: 1onceonce1 ( 1,44 $ )
+Seat 9: oldbashkir ( 3,87 $ )
+Seat 10: Penguin_1980 ( 0,58 $ )
+Penguin_1980 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 3Herz ]
+Satyic folds
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 folds
+JACKbazinga calls [0,02 $]
+1onceonce1 folds
+oldbashkir folds
+Penguin_1980 raises [0,03 $]
+B2B_Suckouts folds
+JACKbazinga calls [0,02 $]
+** Dealing flop ** [ 4Herz, 2Kreuz, 8Herz ]
+Penguin_1980 bets [0,02 $]
+JACKbazinga calls [0,02 $]
+** Dealing turn ** [ 7Pik ]
+Penguin_1980 bets [0,02 $]
+JACKbazinga raises [0,15 $]
+Penguin_1980 folds
+** Summary **
+JACKbazinga did not show his hand
+JACKbazinga collected [ 0,17 $ ]
+
+
+
+#Game No : 474760782
+***** 888poker Hand History for Game 474760782 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:51:20
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,31 $ )
+Seat 2: Satyic ( 2,13 $ )
+Seat 3: ChipsACA ( 1,80 $ )
+Seat 4: zenit3535 ( 1,94 $ )
+Seat 5: ZayacVovan55 ( 2,17 $ )
+Seat 6: JACKbazinga ( 2,11 $ )
+Seat 7: 1onceonce1 ( 1,44 $ )
+Seat 9: oldbashkir ( 3,87 $ )
+Seat 10: Penguin_1980 ( 0,50 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Satyic posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 4Pik ]
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 raises [0,04 $]
+JACKbazinga calls [0,04 $]
+1onceonce1 folds
+oldbashkir raises [0,25 $]
+Penguin_1980 folds
+B2B_Suckouts folds
+Satyic folds
+ZayacVovan55 calls [0,21 $]
+JACKbazinga folds
+** Dealing flop ** [ 6Karo, 5Karo, 3Pik ]
+ZayacVovan55 checks
+oldbashkir bets [0,28 $]
+ZayacVovan55 folds
+** Summary **
+oldbashkir did not show his hand
+oldbashkir collected [ 0,54 $ ]
+
+
+
+#Game No : 474760799
+***** 888poker Hand History for Game 474760799 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:52:03
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,30 $ )
+Seat 2: Satyic ( 2,11 $ )
+Seat 3: ChipsACA ( 1,80 $ )
+Seat 4: zenit3535 ( 1,94 $ )
+Seat 5: ZayacVovan55 ( 1,92 $ )
+Seat 6: JACKbazinga ( 2,07 $ )
+Seat 7: 1onceonce1 ( 1,44 $ )
+Seat 9: oldbashkir ( 4,16 $ )
+Seat 10: Penguin_1980 ( 0,50 $ )
+Satyic posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 3Pik ]
+zenit3535 folds
+ZayacVovan55 folds
+JACKbazinga calls [0,02 $]
+1onceonce1 folds
+oldbashkir folds
+Penguin_1980 folds
+B2B_Suckouts folds
+Satyic folds
+ChipsACA checks
+** Dealing flop ** [ KKaro, KPik, 7Karo ]
+ChipsACA checks
+JACKbazinga checks
+** Dealing turn ** [ 8Herz ]
+ChipsACA checks
+JACKbazinga checks
+** Dealing river ** [ 8Pik ]
+ChipsACA checks
+JACKbazinga bets [0,03 $]
+ChipsACA folds
+** Summary **
+JACKbazinga did not show his hand
+JACKbazinga collected [ 0,05 $ ]
+
+
+
+#Game No : 474760848
+***** 888poker Hand History for Game 474760848 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:53:48
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,30 $ )
+Seat 3: ChipsACA ( 1,78 $ )
+Seat 4: zenit3535 ( 1,94 $ )
+Seat 5: ZayacVovan55 ( 1,92 $ )
+Seat 6: JACKbazinga ( 2,10 $ )
+Seat 7: 1onceonce1 ( 1,44 $ )
+Seat 9: oldbashkir ( 4,16 $ )
+Seat 10: Penguin_1980 ( 0,50 $ )
+zenit3535 posts small blind [0,01 $]
+ZayacVovan55 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 6Pik ]
+JACKbazinga folds
+1onceonce1 folds
+oldbashkir folds
+Penguin_1980 calls [0,02 $]
+B2B_Suckouts folds
+ChipsACA calls [0,02 $]
+zenit3535 folds
+ZayacVovan55 checks
+** Dealing flop ** [ KHerz, QKreuz, 3Karo ]
+ZayacVovan55 checks
+Penguin_1980 checks
+ChipsACA checks
+** Dealing turn ** [ JPik ]
+ZayacVovan55 checks
+Penguin_1980 checks
+ChipsACA bets [0,03 $]
+ZayacVovan55 folds
+Penguin_1980 folds
+** Summary **
+ChipsACA collected [ 0,07 $ ]
+
+
+
+#Game No : 474760874
+***** 888poker Hand History for Game 474760874 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:54:44
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,30 $ )
+Seat 3: ChipsACA ( 1,83 $ )
+Seat 4: zenit3535 ( 1,93 $ )
+Seat 5: ZayacVovan55 ( 1,90 $ )
+Seat 6: JACKbazinga ( 2,10 $ )
+Seat 7: 1onceonce1 ( 1,44 $ )
+Seat 9: oldbashkir ( 4,16 $ )
+Seat 10: Penguin_1980 ( 0,48 $ )
+ZayacVovan55 posts small blind [0,01 $]
+JACKbazinga posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 9Herz ]
+1onceonce1 folds
+oldbashkir folds
+Penguin_1980 folds
+B2B_Suckouts folds
+ChipsACA raises [0,06 $]
+zenit3535 folds
+ZayacVovan55 calls [0,05 $]
+JACKbazinga folds
+** Dealing flop ** [ 2Kreuz, 4Karo, 10Pik ]
+ZayacVovan55 checks
+ChipsACA bets [0,04 $]
+ZayacVovan55 calls [0,04 $]
+** Dealing turn ** [ JKaro ]
+ZayacVovan55 checks
+ChipsACA bets [0,14 $]
+ZayacVovan55 calls [0,14 $]
+** Dealing river ** [ AHerz ]
+ZayacVovan55 checks
+ChipsACA checks
+** Summary **
+ZayacVovan55 shows [ JPik, QKreuz ]
+ChipsACA shows [ QHerz, QKaro ]
+ChipsACA collected [ 0,47 $ ]
+
+
+
+#Game No : 474760890
+***** 888poker Hand History for Game 474760890 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:55:30
+Table Milagro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,30 $ )
+Seat 3: ChipsACA ( 2,06 $ )
+Seat 4: zenit3535 ( 1,93 $ )
+Seat 5: ZayacVovan55 ( 1,66 $ )
+Seat 6: JACKbazinga ( 2,08 $ )
+Seat 7: 1onceonce1 ( 1,44 $ )
+Seat 9: oldbashkir ( 4,16 $ )
+Seat 10: Penguin_1980 ( 0,48 $ )
+JACKbazinga posts small blind [0,01 $]
+1onceonce1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, QPik ]
+oldbashkir folds
+Penguin_1980 folds
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 folds
+JACKbazinga folds
+** Summary **
+1onceonce1 collected [ 0,03 $ ]
+
+
+
+#Game No : 474760898
+***** 888poker Hand History for Game 474760898 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:55:44
+Table Milagro 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,30 $ )
+Seat 3: ChipsACA ( 2,06 $ )
+Seat 4: zenit3535 ( 1,93 $ )
+Seat 5: ZayacVovan55 ( 1,66 $ )
+Seat 6: JACKbazinga ( 2,07 $ )
+Seat 7: 1onceonce1 ( 1,45 $ )
+Seat 10: Penguin_1980 ( 0,48 $ )
+1onceonce1 posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 7Pik ]
+B2B_Suckouts folds
+ChipsACA raises [0,06 $]
+zenit3535 folds
+ZayacVovan55 calls [0,06 $]
+JACKbazinga folds
+1onceonce1 folds
+Penguin_1980 folds
+** Dealing flop ** [ QHerz, 9Pik, 4Pik ]
+ChipsACA bets [0,04 $]
+ZayacVovan55 calls [0,04 $]
+** Dealing turn ** [ AHerz ]
+ChipsACA bets [0,11 $]
+ZayacVovan55 folds
+** Summary **
+ChipsACA collected [ 0,22 $ ]
+
+
+
+#Game No : 474760916
+***** 888poker Hand History for Game 474760916 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:56:22
+Table Milagro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,30 $ )
+Seat 3: ChipsACA ( 2,18 $ )
+Seat 4: zenit3535 ( 1,93 $ )
+Seat 5: ZayacVovan55 ( 1,56 $ )
+Seat 6: JACKbazinga ( 2,07 $ )
+Seat 7: 1onceonce1 ( 1,44 $ )
+Seat 10: Penguin_1980 ( 0,46 $ )
+Penguin_1980 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, JKaro ]
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 raises [0,04 $]
+JACKbazinga folds
+1onceonce1 calls [0,04 $]
+Penguin_1980 folds
+B2B_Suckouts raises [0,14 $]
+ZayacVovan55 calls [0,12 $]
+1onceonce1 folds
+** Dealing flop ** [ 3Kreuz, 6Karo, 10Karo ]
+B2B_Suckouts bets [0,12 $]
+ZayacVovan55 calls [0,12 $]
+** Dealing turn ** [ 2Karo ]
+B2B_Suckouts checks
+ZayacVovan55 checks
+** Dealing river ** [ 4Pik ]
+B2B_Suckouts checks
+ZayacVovan55 checks
+** Summary **
+B2B_Suckouts shows [ AHerz, JKaro ]
+ZayacVovan55 shows [ 10Kreuz, 9Herz ]
+ZayacVovan55 collected [ 0,58 $ ]
+
+
+
+#Game No : 474760947
+***** 888poker Hand History for Game 474760947 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:57:19
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,02 $ )
+Seat 3: ChipsACA ( 2,18 $ )
+Seat 4: zenit3535 ( 1,93 $ )
+Seat 5: ZayacVovan55 ( 1,86 $ )
+Seat 6: JACKbazinga ( 2,07 $ )
+Seat 7: 1onceonce1 ( 1,40 $ )
+Seat 10: Penguin_1980 ( 0,45 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 4Kreuz ]
+zenit3535 folds
+ZayacVovan55 folds
+JACKbazinga folds
+1onceonce1 folds
+Penguin_1980 folds
+B2B_Suckouts folds
+** Summary **
+ChipsACA collected [ 0,03 $ ]
+
+
+
+#Game No : 474760956
+***** 888poker Hand History for Game 474760956 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:57:36
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,01 $ )
+Seat 3: ChipsACA ( 2,19 $ )
+Seat 4: zenit3535 ( 1,93 $ )
+Seat 5: ZayacVovan55 ( 1,86 $ )
+Seat 6: JACKbazinga ( 2,07 $ )
+Seat 7: 1onceonce1 ( 1,40 $ )
+Seat 10: Penguin_1980 ( 0,45 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, QKreuz ]
+ZayacVovan55 folds
+JACKbazinga folds
+1onceonce1 folds
+Penguin_1980 raises [0,04 $]
+B2B_Suckouts calls [0,04 $]
+ChipsACA folds
+zenit3535 folds
+** Dealing flop ** [ 5Karo, 7Kreuz, 6Karo ]
+Penguin_1980 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing turn ** [ JKaro ]
+Penguin_1980 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing river ** [ KHerz ]
+Penguin_1980 bets [0,02 $]
+B2B_Suckouts raises [0,18 $]
+Penguin_1980 folds
+** Summary **
+B2B_Suckouts collected [ 0,22 $ ]
+
+
+
+#Game No : 474760986
+***** 888poker Hand History for Game 474760986 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:58:30
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2,13 $ )
+Seat 3: ChipsACA ( 2,18 $ )
+Seat 4: zenit3535 ( 1,91 $ )
+Seat 5: ZayacVovan55 ( 1,86 $ )
+Seat 6: JACKbazinga ( 2,07 $ )
+Seat 7: 1onceonce1 ( 1,40 $ )
+Seat 10: Penguin_1980 ( 0,35 $ )
+zenit3535 posts small blind [0,01 $]
+ZayacVovan55 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, KHerz ]
+JACKbazinga calls [0,02 $]
+1onceonce1 calls [0,02 $]
+Penguin_1980 raises [0,08 $]
+B2B_Suckouts calls [0,08 $]
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 folds
+JACKbazinga calls [0,06 $]
+1onceonce1 calls [0,06 $]
+** Dealing flop ** [ 2Pik, KKreuz, 6Herz ]
+JACKbazinga checks
+1onceonce1 checks
+Penguin_1980 bets [0,27 $]
+B2B_Suckouts calls [0,27 $]
+JACKbazinga folds
+1onceonce1 folds
+** Dealing turn ** [ KKaro ]
+** Dealing river ** [ 10Pik ]
+** Summary **
+B2B_Suckouts shows [ JKaro, KHerz ]
+Penguin_1980 shows [ AKreuz, KPik ]
+Penguin_1980 collected [ 0,84 $ ]
+
+
+
+#Game No : 474761019
+***** 888poker Hand History for Game 474761019 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:59:35
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 2,18 $ )
+Seat 4: zenit3535 ( 1,90 $ )
+Seat 5: ZayacVovan55 ( 1,84 $ )
+Seat 6: JACKbazinga ( 1,99 $ )
+Seat 7: 1onceonce1 ( 1,32 $ )
+Seat 10: Penguin_1980 ( 0,84 $ )
+ZayacVovan55 posts small blind [0,01 $]
+JACKbazinga posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, QHerz ]
+1onceonce1 folds
+Penguin_1980 raises [0,04 $]
+B2B_Suckouts folds
+ChipsACA calls [0,04 $]
+zenit3535 folds
+ZayacVovan55 calls [0,03 $]
+JACKbazinga calls [0,02 $]
+** Dealing flop ** [ 2Pik, 5Herz, AKreuz ]
+ZayacVovan55 checks
+JACKbazinga checks
+Penguin_1980 bets [0,02 $]
+ChipsACA raises [0,06 $]
+ZayacVovan55 calls [0,06 $]
+JACKbazinga raises [0,10 $]
+Penguin_1980 folds
+ChipsACA folds
+ZayacVovan55 calls [0,04 $]
+** Dealing turn ** [ KKreuz ]
+ZayacVovan55 checks
+JACKbazinga checks
+** Dealing river ** [ 2Karo ]
+ZayacVovan55 checks
+JACKbazinga bets [1,85 $]
+ZayacVovan55 folds
+** Summary **
+JACKbazinga collected [ 0,42 $ ]
+
+
+
+#Game No : 474761046
+***** 888poker Hand History for Game 474761046 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:00:35
+Table Milagro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 2,08 $ )
+Seat 4: zenit3535 ( 1,90 $ )
+Seat 5: ZayacVovan55 ( 1,70 $ )
+Seat 6: JACKbazinga ( 2,27 $ )
+Seat 7: 1onceonce1 ( 1,32 $ )
+Seat 10: Penguin_1980 ( 0,78 $ )
+JACKbazinga posts small blind [0,01 $]
+1onceonce1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 7Kreuz ]
+Penguin_1980 folds
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 raises [0,04 $]
+JACKbazinga folds
+1onceonce1 folds
+** Summary **
+ZayacVovan55 collected [ 0,05 $ ]
+
+
+
+#Game No : 474761054
+***** 888poker Hand History for Game 474761054 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:00:58
+Table Milagro 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 2,08 $ )
+Seat 4: zenit3535 ( 1,90 $ )
+Seat 5: ZayacVovan55 ( 1,73 $ )
+Seat 6: JACKbazinga ( 2,26 $ )
+Seat 7: 1onceonce1 ( 1,30 $ )
+Seat 9: defmoon ( 2 $ )
+Seat 10: Penguin_1980 ( 0,78 $ )
+1onceonce1 posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, JHerz ]
+Penguin_1980 folds
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 raises [0,06 $]
+ZayacVovan55 calls [0,06 $]
+JACKbazinga calls [0,06 $]
+1onceonce1 folds
+defmoon calls [0,04 $]
+** Dealing flop ** [ AKaro, 6Karo, 5Pik ]
+defmoon checks
+zenit3535 checks
+ZayacVovan55 checks
+JACKbazinga checks
+** Dealing turn ** [ 7Karo ]
+defmoon checks
+zenit3535 checks
+ZayacVovan55 checks
+JACKbazinga bets [0,18 $]
+defmoon folds
+zenit3535 folds
+ZayacVovan55 calls [0,18 $]
+** Dealing river ** [ AKreuz ]
+ZayacVovan55 checks
+JACKbazinga bets [0,61 $]
+ZayacVovan55 folds
+** Summary **
+JACKbazinga collected [ 0,58 $ ]
+
+
+
+#Game No : 474761101
+***** 888poker Hand History for Game 474761101 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:02:30
+Table Milagro 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 2,08 $ )
+Seat 4: zenit3535 ( 1,84 $ )
+Seat 5: ZayacVovan55 ( 1,49 $ )
+Seat 6: JACKbazinga ( 2,60 $ )
+Seat 7: 1onceonce1 ( 1,29 $ )
+Seat 9: defmoon ( 1,94 $ )
+Seat 10: Penguin_1980 ( 0,78 $ )
+defmoon posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 7Karo ]
+B2B_Suckouts folds
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 raises [0,04 $]
+JACKbazinga calls [0,04 $]
+1onceonce1 folds
+defmoon calls [0,03 $]
+Penguin_1980 calls [0,02 $]
+** Dealing flop ** [ 3Kreuz, JPik, 5Kreuz ]
+defmoon checks
+Penguin_1980 checks
+ZayacVovan55 checks
+JACKbazinga checks
+** Dealing turn ** [ KKaro ]
+defmoon bets [0,08 $]
+Penguin_1980 folds
+ZayacVovan55 calls [0,08 $]
+JACKbazinga folds
+** Dealing river ** [ 10Karo ]
+defmoon bets [0,12 $]
+ZayacVovan55 calls [0,12 $]
+** Summary **
+defmoon shows [ 5Pik, 4Pik ]
+ZayacVovan55 shows [ JHerz, 9Herz ]
+ZayacVovan55 collected [ 0,53 $ ]
+
+
+
+#Game No : 474761158
+***** 888poker Hand History for Game 474761158 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:04:30
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 3: ChipsACA ( 2,08 $ )
+Seat 4: zenit3535 ( 1,84 $ )
+Seat 5: ZayacVovan55 ( 1,78 $ )
+Seat 6: JACKbazinga ( 2,56 $ )
+Seat 7: 1onceonce1 ( 1,29 $ )
+Seat 9: defmoon ( 1,70 $ )
+Seat 10: Penguin_1980 ( 0,74 $ )
+Penguin_1980 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 9Herz ]
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 raises [0,04 $]
+JACKbazinga folds
+1onceonce1 calls [0,04 $]
+defmoon folds
+Penguin_1980 calls [0,03 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 8Herz, 8Karo, 7Karo ]
+Penguin_1980 checks
+B2B_Suckouts checks
+ZayacVovan55 bets [0,10 $]
+1onceonce1 folds
+Penguin_1980 folds
+B2B_Suckouts folds
+** Summary **
+ZayacVovan55 collected [ 0,15 $ ]
+
+
+
+#Game No : 474761177
+***** 888poker Hand History for Game 474761177 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:05:15
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: QuadraD ( 2 $ )
+Seat 3: ChipsACA ( 2,08 $ )
+Seat 4: zenit3535 ( 1,84 $ )
+Seat 5: ZayacVovan55 ( 1,89 $ )
+Seat 6: JACKbazinga ( 2,56 $ )
+Seat 7: 1onceonce1 ( 1,25 $ )
+Seat 9: defmoon ( 1,70 $ )
+Seat 10: Penguin_1980 ( 0,70 $ )
+B2B_Suckouts posts small blind [0,01 $]
+QuadraD posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, QKaro ]
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 folds
+JACKbazinga calls [0,02 $]
+1onceonce1 folds
+defmoon raises [0,08 $]
+Penguin_1980 folds
+B2B_Suckouts folds
+QuadraD calls [0,06 $]
+JACKbazinga calls [0,06 $]
+** Dealing flop ** [ 4Pik, QKreuz, KHerz ]
+QuadraD checks
+JACKbazinga bets [0,08 $]
+defmoon raises [0,35 $]
+QuadraD folds
+JACKbazinga calls [0,27 $]
+** Dealing turn ** [ 6Kreuz ]
+JACKbazinga bets [0,71 $]
+defmoon calls [0,71 $]
+** Dealing river ** [ 5Kreuz ]
+JACKbazinga bets [1,42 $]
+defmoon folds
+** Summary **
+JACKbazinga did not show his hand
+JACKbazinga collected [ 2,23 $ ]
+
+
+
+#Game No : 474761236
+***** 888poker Hand History for Game 474761236 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:07:17
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: QuadraD ( 2 $ )
+Seat 3: ChipsACA ( 2,08 $ )
+Seat 4: zenit3535 ( 1,84 $ )
+Seat 5: ZayacVovan55 ( 1,89 $ )
+Seat 6: JACKbazinga ( 3,65 $ )
+Seat 7: 1onceonce1 ( 1,25 $ )
+Seat 9: defmoon ( 0,56 $ )
+QuadraD posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 8Pik ]
+zenit3535 folds
+ZayacVovan55 folds
+JACKbazinga folds
+1onceonce1 calls [0,02 $]
+defmoon folds
+B2B_Suckouts raises [0,06 $]
+QuadraD folds
+ChipsACA folds
+1onceonce1 calls [0,04 $]
+** Dealing flop ** [ QPik, JPik, 8Kreuz ]
+1onceonce1 checks
+B2B_Suckouts bets [0,07 $]
+1onceonce1 folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 474761248
+***** 888poker Hand History for Game 474761248 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:07:52
+Table Milagro 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,09 $ )
+Seat 2: QuadraD ( 2 $ )
+Seat 3: ChipsACA ( 2,06 $ )
+Seat 4: zenit3535 ( 1,84 $ )
+Seat 5: ZayacVovan55 ( 1,89 $ )
+Seat 6: JACKbazinga ( 3,65 $ )
+Seat 7: 1onceonce1 ( 1,19 $ )
+Seat 9: defmoon ( 2 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 10Pik ]
+ZayacVovan55 folds
+JACKbazinga calls [0,02 $]
+1onceonce1 folds
+defmoon folds
+B2B_Suckouts raises [0,06 $]
+QuadraD folds
+ChipsACA folds
+zenit3535 folds
+JACKbazinga calls [0,04 $]
+** Dealing flop ** [ 3Karo, 10Kreuz, QKreuz ]
+JACKbazinga checks
+B2B_Suckouts bets [0,04 $]
+JACKbazinga folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 474761271
+***** 888poker Hand History for Game 474761271 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:08:49
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,18 $ )
+Seat 2: QuadraD ( 2 $ )
+Seat 3: ChipsACA ( 2,05 $ )
+Seat 4: zenit3535 ( 1,82 $ )
+Seat 5: ZayacVovan55 ( 1,89 $ )
+Seat 6: JACKbazinga ( 3,59 $ )
+Seat 7: 1onceonce1 ( 1,19 $ )
+Seat 9: defmoon ( 2 $ )
+zenit3535 posts small blind [0,01 $]
+ZayacVovan55 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 4Herz ]
+JACKbazinga calls [0,02 $]
+1onceonce1 calls [0,02 $]
+defmoon folds
+B2B_Suckouts folds
+QuadraD folds
+ChipsACA raises [0,08 $]
+zenit3535 folds
+ZayacVovan55 calls [0,06 $]
+JACKbazinga calls [0,06 $]
+1onceonce1 calls [0,06 $]
+** Dealing flop ** [ 4Pik, 6Karo, 8Herz ]
+ZayacVovan55 checks
+JACKbazinga checks
+1onceonce1 checks
+ChipsACA bets [0,16 $]
+ZayacVovan55 calls [0,16 $]
+JACKbazinga folds
+1onceonce1 folds
+** Dealing turn ** [ 5Karo ]
+ZayacVovan55 checks
+ChipsACA bets [0,21 $]
+ZayacVovan55 raises [0,42 $]
+ChipsACA calls [0,21 $]
+** Dealing river ** [ 9Pik ]
+ZayacVovan55 bets [1,23 $]
+ChipsACA folds
+** Summary **
+ZayacVovan55 collected [ 1,40 $ ]
+
+
+
+#Game No : 474761344
+***** 888poker Hand History for Game 474761344 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:11:14
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,18 $ )
+Seat 2: QuadraD ( 2 $ )
+Seat 3: ChipsACA ( 1,39 $ )
+Seat 4: zenit3535 ( 1,81 $ )
+Seat 5: ZayacVovan55 ( 2,63 $ )
+Seat 6: JACKbazinga ( 3,51 $ )
+Seat 7: 1onceonce1 ( 1,11 $ )
+Seat 9: defmoon ( 2 $ )
+ZayacVovan55 posts small blind [0,01 $]
+JACKbazinga posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 4Herz ]
+1onceonce1 calls [0,02 $]
+defmoon folds
+B2B_Suckouts folds
+QuadraD folds
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 folds
+JACKbazinga checks
+** Dealing flop ** [ 6Herz, KKaro, 8Herz ]
+JACKbazinga checks
+1onceonce1 bets [0,02 $]
+JACKbazinga calls [0,02 $]
+** Dealing turn ** [ 7Kreuz ]
+JACKbazinga checks
+1onceonce1 bets [0,02 $]
+JACKbazinga calls [0,02 $]
+** Dealing river ** [ 3Karo ]
+JACKbazinga bets [3,45 $]
+1onceonce1 folds
+** Summary **
+JACKbazinga collected [ 0,13 $ ]
+
+
+
+#Game No : 474761380
+***** 888poker Hand History for Game 474761380 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:12:23
+Table Milagro 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,18 $ )
+Seat 2: QuadraD ( 2 $ )
+Seat 3: ChipsACA ( 1,39 $ )
+Seat 4: zenit3535 ( 1,81 $ )
+Seat 5: ZayacVovan55 ( 2,62 $ )
+Seat 6: JACKbazinga ( 3,58 $ )
+Seat 9: defmoon ( 2 $ )
+Seat 10: Penguin_1980 ( 0,70 $ )
+JACKbazinga posts small blind [0,01 $]
+defmoon posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, JPik ]
+Penguin_1980 folds
+B2B_Suckouts raises [0,06 $]
+QuadraD folds
+ChipsACA calls [0,06 $]
+zenit3535 calls [0,06 $]
+ZayacVovan55 folds
+JACKbazinga folds
+defmoon calls [0,04 $]
+** Dealing flop ** [ 8Karo, 10Herz, AKaro ]
+defmoon checks
+B2B_Suckouts bets [0,12 $]
+ChipsACA folds
+zenit3535 folds
+defmoon folds
+** Summary **
+B2B_Suckouts collected [ 0,24 $ ]
+
+
+
+#Game No : 474761413
+***** 888poker Hand History for Game 474761413 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:13:37
+Table Milagro 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,36 $ )
+Seat 2: QuadraD ( 2 $ )
+Seat 3: ChipsACA ( 1,33 $ )
+Seat 4: zenit3535 ( 1,75 $ )
+Seat 5: ZayacVovan55 ( 2,62 $ )
+Seat 6: JACKbazinga ( 3,57 $ )
+Seat 9: defmoon ( 1,94 $ )
+Seat 10: Penguin_1980 ( 0,70 $ )
+defmoon posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, QKaro ]
+B2B_Suckouts folds
+QuadraD folds
+ChipsACA folds
+zenit3535 folds
+ZayacVovan55 folds
+JACKbazinga calls [0,02 $]
+defmoon calls [0,01 $]
+Penguin_1980 checks
+** Dealing flop ** [ KHerz, 5Herz, 10Kreuz ]
+defmoon checks
+Penguin_1980 checks
+JACKbazinga checks
+** Dealing turn ** [ 7Kreuz ]
+defmoon checks
+Penguin_1980 checks
+JACKbazinga bets [0,04 $]
+defmoon calls [0,04 $]
+Penguin_1980 folds
+** Dealing river ** [ QKreuz ]
+defmoon checks
+JACKbazinga bets [3,51 $]
+defmoon folds
+** Summary **
+JACKbazinga collected [ 0,14 $ ]
+
+
+
+#Game No : 474761462
+***** 888poker Hand History for Game 474761462 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:15:19
+Table Milagro 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: B2B_Suckouts ( 2,36 $ )
+Seat 2: QuadraD ( 2 $ )
+Seat 4: zenit3535 ( 1,75 $ )
+Seat 6: JACKbazinga ( 3,65 $ )
+Seat 9: defmoon ( 1,88 $ )
+Seat 10: Penguin_1980 ( 0,68 $ )
+Penguin_1980 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, APik ]
+QuadraD folds
+zenit3535 folds
+JACKbazinga calls [0,02 $]
+defmoon folds
+Penguin_1980 calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+JACKbazinga calls [0,04 $]
+Penguin_1980 folds
+** Dealing flop ** [ 4Pik, 3Pik, 10Pik ]
+B2B_Suckouts bets [0,07 $]
+JACKbazinga calls [0,07 $]
+** Dealing turn ** [ 6Pik ]
+B2B_Suckouts bets [0,12 $]
+JACKbazinga raises [0,64 $]
+B2B_Suckouts raises [2,11 $]
+JACKbazinga calls [1,59 $]
+** Dealing river ** [ 4Kreuz ]
+** Summary **
+B2B_Suckouts shows [ 3Kreuz, APik ]
+JACKbazinga shows [ KPik, 10Kreuz ]
+B2B_Suckouts collected [ 4,45 $ ]
+
+
+
+#Game No : 474761499
+***** 888poker Hand History for Game 474761499 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:16:28
+Table Milagro 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 4,45 $ )
+Seat 2: QuadraD ( 2 $ )
+Seat 4: zenit3535 ( 1,75 $ )
+Seat 5: ZayacVovan55 ( 2,62 $ )
+Seat 6: JACKbazinga ( 1,29 $ )
+Seat 9: defmoon ( 1,88 $ )
+Seat 10: Penguin_1980 ( 0,66 $ )
+B2B_Suckouts posts small blind [0,01 $]
+QuadraD posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 8Karo ]
+zenit3535 raises [0,06 $]
+ZayacVovan55 folds
+JACKbazinga folds
+defmoon folds
+Penguin_1980 folds
+B2B_Suckouts calls [0,05 $]
+QuadraD calls [0,04 $]
+** Dealing flop ** [ 9Pik, 10Karo, 5Kreuz ]
+B2B_Suckouts bets [0,05 $]
+QuadraD calls [0,05 $]
+zenit3535 calls [0,05 $]
+** Dealing turn ** [ JHerz ]
+B2B_Suckouts checks
+QuadraD bets [0,21 $]
+zenit3535 calls [0,21 $]
+B2B_Suckouts folds
+** Dealing river ** [ 2Kreuz ]
+QuadraD bets [0,49 $]
+zenit3535 folds
+** Summary **
+QuadraD collected [ 0,71 $ ]
+
+
+
+#Game No : 474761554
+***** 888poker Hand History for Game 474761554 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:18:45
+Table Milagro 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 4,34 $ )
+Seat 2: QuadraD ( 2,39 $ )
+Seat 3: SKDynasty ( 2 $ )
+Seat 4: zenit3535 ( 1,43 $ )
+Seat 5: ZayacVovan55 ( 2,62 $ )
+Seat 9: defmoon ( 1,88 $ )
+Seat 10: Penguin_1980 ( 0,66 $ )
+QuadraD posts small blind [0,01 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 9Pik ]
+zenit3535 folds
+ZayacVovan55 raises [0,04 $]
+defmoon folds
+Penguin_1980 folds
+B2B_Suckouts folds
+QuadraD folds
+SKDynasty raises [0,15 $]
+ZayacVovan55 calls [0,13 $]
+** Dealing flop ** [ QKreuz, 5Karo, AHerz ]
+SKDynasty bets [0,17 $]
+ZayacVovan55 calls [0,17 $]
+** Dealing turn ** [ 10Pik ]
+SKDynasty bets [0,34 $]
+ZayacVovan55 calls [0,34 $]
+** Dealing river ** [ 9Kreuz ]
+SKDynasty checks
+ZayacVovan55 checks
+** Summary **
+SKDynasty shows [ KKreuz, KKaro ]
+ZayacVovan55 shows [ 10Karo, APik ]
+ZayacVovan55 collected [ 1,29 $ ]
+
+
+
+#Game No : 474761580
+***** 888poker Hand History for Game 474761580 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:19:34
+Table Milagro 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 4,34 $ )
+Seat 2: QuadraD ( 2,38 $ )
+Seat 3: SKDynasty ( 1,32 $ )
+Seat 4: zenit3535 ( 1,43 $ )
+Seat 5: ZayacVovan55 ( 3,23 $ )
+Seat 9: defmoon ( 1,88 $ )
+Seat 10: Penguin_1980 ( 0,66 $ )
+SKDynasty posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 7Herz ]
+ZayacVovan55 raises [0,04 $]
+defmoon folds
+Penguin_1980 folds
+B2B_Suckouts folds
+QuadraD folds
+SKDynasty folds
+zenit3535 folds
+** Summary **
+ZayacVovan55 collected [ 0,05 $ ]
+
+
+
+#Game No : 474761590
+***** 888poker Hand History for Game 474761590 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:19:51
+Table Milagro 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 4,34 $ )
+Seat 2: QuadraD ( 2,38 $ )
+Seat 3: SKDynasty ( 1,31 $ )
+Seat 4: zenit3535 ( 1,41 $ )
+Seat 5: ZayacVovan55 ( 3,26 $ )
+Seat 9: defmoon ( 1,88 $ )
+Seat 10: Penguin_1980 ( 0,66 $ )
+zenit3535 posts small blind [0,01 $]
+ZayacVovan55 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 2Pik ]
+defmoon folds
+Penguin_1980 folds
+B2B_Suckouts folds
+QuadraD folds
+SKDynasty folds
+zenit3535 raises [0,05 $]
+ZayacVovan55 calls [0,04 $]
+** Dealing flop ** [ 10Herz, JHerz, 4Herz ]
+zenit3535 bets [0,07 $]
+ZayacVovan55 calls [0,07 $]
+** Dealing turn ** [ 5Herz ]
+zenit3535 checks
+ZayacVovan55 checks
+** Dealing river ** [ 7Kreuz ]
+zenit3535 bets [0,17 $]
+ZayacVovan55 folds
+** Summary **
+zenit3535 collected [ 0,25 $ ]
+
+
+
+#Game No : 474761613
+***** 888poker Hand History for Game 474761613 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:20:37
+Table Milagro 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,34 $ )
+Seat 2: QuadraD ( 2,38 $ )
+Seat 3: SKDynasty ( 2 $ )
+Seat 4: zenit3535 ( 1,53 $ )
+Seat 5: ZayacVovan55 ( 3,13 $ )
+Seat 6: DeduchkaXO ( 2 $ )
+Seat 9: defmoon ( 1,88 $ )
+Seat 10: Penguin_1980 ( 0,66 $ )
+ZayacVovan55 posts small blind [0,01 $]
+DeduchkaXO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 9Karo ]
+defmoon folds
+Penguin_1980 folds
+B2B_Suckouts folds
+QuadraD folds
+SKDynasty raises [0,06 $]
+zenit3535 raises [0,18 $]
+ZayacVovan55 calls [0,17 $]
+DeduchkaXO folds
+SKDynasty calls [0,12 $]
+** Dealing flop ** [ 2Karo, AKreuz, 6Karo ]
+ZayacVovan55 checks
+SKDynasty checks
+zenit3535 checks
+** Dealing turn ** [ JKaro ]
+ZayacVovan55 checks
+SKDynasty bets [0,28 $]
+zenit3535 calls [0,28 $]
+ZayacVovan55 calls [0,28 $]
+** Dealing river ** [ 5Karo ]
+ZayacVovan55 checks
+SKDynasty checks
+zenit3535 bets [1,07 $]
+ZayacVovan55 calls [1,07 $]
+SKDynasty folds
+** Summary **
+zenit3535 shows [ KKaro, KKreuz ]
+ZayacVovan55 shows [ QKaro, 3Karo ]
+zenit3535 collected [ 3,32 $ ]
+
+
+
