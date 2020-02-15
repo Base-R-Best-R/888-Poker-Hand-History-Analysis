@@ -1,0 +1,1799 @@
+#Game No : 1328191824
+***** 888poker Hand History for Game 1328191824 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:16:53
+Table Bratislava 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: Zenga984 ( 0,79 $ )
+Seat 2: vn8007 ( 0,79 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: AnnFil ( 0,82 $ )
+vn8007 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 10Herz ]
+AnnFil folds
+Zenga984 calls [0,02 $]
+vn8007 folds
+B2B_Suckouts raises [0,04 $]
+Zenga984 calls [0,04 $]
+** Dealing flop ** [ KHerz, 6Karo, 3Karo ]
+B2B_Suckouts checks
+Zenga984 checks
+** Dealing turn ** [ KKreuz ]
+B2B_Suckouts bets [0,04 $]
+Zenga984 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 1328191954
+***** 888poker Hand History for Game 1328191954 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:17:31
+Table Bratislava 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 4
+Seat 1: Zenga984 ( 0,73 $ )
+Seat 2: vn8007 ( 0,78 $ )
+Seat 5: B2B_Suckouts ( 2,07 $ )
+Seat 6: AnnFil ( 0,82 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AnnFil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, KPik ]
+Zenga984 folds
+vn8007 folds
+B2B_Suckouts raises [0,05 $]
+AnnFil folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 1328191997
+***** 888poker Hand History for Game 1328191997 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:17:43
+Table Bratislava 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 4
+Seat 1: Zenga984 ( 0,73 $ )
+Seat 2: vn8007 ( 0,78 $ )
+Seat 5: B2B_Suckouts ( 2,09 $ )
+Seat 6: AnnFil ( 0,80 $ )
+AnnFil posts small blind [0,01 $]
+Zenga984 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 3Herz ]
+vn8007 folds
+B2B_Suckouts raises [0,06 $]
+AnnFil folds
+Zenga984 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 1328192075
+***** 888poker Hand History for Game 1328192075 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:18:04
+Table Bratislava 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 4
+Seat 1: Zenga984 ( 0,71 $ )
+Seat 2: vn8007 ( 0,78 $ )
+Seat 5: B2B_Suckouts ( 2,12 $ )
+Seat 6: AnnFil ( 0,79 $ )
+Zenga984 posts small blind [0,01 $]
+vn8007 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 2Pik ]
+B2B_Suckouts folds
+AnnFil raises [0,04 $]
+Zenga984 folds
+vn8007 folds
+** Summary **
+AnnFil did not show his hand
+AnnFil collected [ 0,05 $ ]
+
+
+
+#Game No : 1328192133
+***** 888poker Hand History for Game 1328192133 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:18:21
+Table Bratislava 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 4
+Seat 1: Zenga984 ( 0,70 $ )
+Seat 2: vn8007 ( 0,76 $ )
+Seat 5: B2B_Suckouts ( 2,12 $ )
+Seat 6: AnnFil ( 0,82 $ )
+vn8007 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, AHerz ]
+AnnFil calls [0,02 $]
+Zenga984 folds
+vn8007 folds
+B2B_Suckouts raises [0,04 $]
+AnnFil calls [0,04 $]
+** Dealing flop ** [ 6Herz, APik, 10Pik ]
+B2B_Suckouts checks
+AnnFil bets [0,09 $]
+B2B_Suckouts calls [0,09 $]
+** Dealing turn ** [ 3Pik ]
+B2B_Suckouts checks
+AnnFil bets [0,10 $]
+B2B_Suckouts calls [0,10 $]
+** Dealing river ** [ 7Herz ]
+B2B_Suckouts checks
+AnnFil checks
+** Summary **
+B2B_Suckouts shows [ KHerz, AHerz ]
+AnnFil mucks [ 10Kreuz, QKaro ]
+B2B_Suckouts collected [ 0,48 $ ]
+
+
+
+#Game No : 1328192287
+***** 888poker Hand History for Game 1328192287 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:19:07
+Table Bratislava 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 5
+Seat 1: Zenga984 ( 0,70 $ )
+Seat 2: vn8007 ( 0,75 $ )
+Seat 5: B2B_Suckouts ( 2,35 $ )
+Seat 6: AnnFil ( 0,57 $ )
+Seat 7: 514Bandit ( 1 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AnnFil posts big blind [0,02 $]
+514Bandit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 6Herz ]
+514Bandit checks
+Zenga984 folds
+vn8007 folds
+B2B_Suckouts folds
+AnnFil checks
+** Dealing flop ** [ JPik, AHerz, 10Pik ]
+AnnFil checks
+514Bandit bets [0,04 $]
+AnnFil folds
+** Summary **
+514Bandit did not show his hand
+514Bandit collected [ 0,05 $ ]
+
+
+
+#Game No : 1328192371
+***** 888poker Hand History for Game 1328192371 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:19:28
+Table Bratislava 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 1: Zenga984 ( 0,70 $ )
+Seat 2: vn8007 ( 0,75 $ )
+Seat 5: B2B_Suckouts ( 2,34 $ )
+Seat 6: AnnFil ( 0,55 $ )
+Seat 7: 514Bandit ( 1,03 $ )
+AnnFil posts small blind [0,01 $]
+514Bandit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 9Pik ]
+Zenga984 folds
+vn8007 folds
+B2B_Suckouts raises [0,06 $]
+AnnFil folds
+514Bandit folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 1328192433
+***** 888poker Hand History for Game 1328192433 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:19:45
+Table Bratislava 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 5
+Seat 1: Zenga984 ( 0,70 $ )
+Seat 2: vn8007 ( 0,75 $ )
+Seat 5: B2B_Suckouts ( 2,37 $ )
+Seat 6: AnnFil ( 0,54 $ )
+Seat 7: 514Bandit ( 1,01 $ )
+514Bandit posts small blind [0,01 $]
+Zenga984 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, AKaro ]
+vn8007 folds
+B2B_Suckouts raises [0,06 $]
+AnnFil folds
+514Bandit folds
+Zenga984 calls [0,04 $]
+** Dealing flop ** [ 6Kreuz, 9Karo, 4Karo ]
+Zenga984 checks
+B2B_Suckouts bets [0,06 $]
+Zenga984 calls [0,06 $]
+** Dealing turn ** [ 2Kreuz ]
+Zenga984 checks
+B2B_Suckouts bets [0,24 $]
+Zenga984 folds
+** Summary **
+B2B_Suckouts collected [ 0,24 $ ]
+
+
+
+#Game No : 1328192645
+***** 888poker Hand History for Game 1328192645 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:20:49
+Table Bratislava 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 1: Zenga984 ( 0,58 $ )
+Seat 2: vn8007 ( 0,75 $ )
+Seat 4: murmurrrrrr ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,49 $ )
+Seat 6: AnnFil ( 0,54 $ )
+Seat 7: 514Bandit ( 1 $ )
+Zenga984 posts small blind [0,01 $]
+vn8007 posts big blind [0,02 $]
+murmurrrrrr folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 8Pik ]
+B2B_Suckouts folds
+AnnFil calls [0,02 $]
+514Bandit calls [0,02 $]
+Zenga984 calls [0,01 $]
+vn8007 checks
+** Dealing flop ** [ 9Pik, 2Pik, 10Pik ]
+Zenga984 checks
+vn8007 checks
+AnnFil bets [0,04 $]
+514Bandit folds
+Zenga984 folds
+vn8007 calls [0,04 $]
+** Dealing turn ** [ KPik ]
+vn8007 checks
+AnnFil bets [0,08 $]
+vn8007 folds
+** Summary **
+AnnFil collected [ 0,15 $ ]
+
+
+
+#Game No : 1328192823
+***** 888poker Hand History for Game 1328192823 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:21:38
+Table Bratislava 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: Zenga984 ( 0,56 $ )
+Seat 2: vn8007 ( 0,69 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: murmurrrrrr ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,49 $ )
+Seat 6: AnnFil ( 0,63 $ )
+Seat 7: 514Bandit ( 0,98 $ )
+vn8007 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+murmurrrrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 7Herz ]
+murmurrrrrr checks
+B2B_Suckouts raises [0,06 $]
+AnnFil folds
+514Bandit calls [0,06 $]
+Zenga984 calls [0,06 $]
+vn8007 folds
+Woffinden folds
+murmurrrrrr folds
+** Dealing flop ** [ KHerz, 5Kreuz, KPik ]
+B2B_Suckouts checks
+514Bandit bets [0,06 $]
+Zenga984 folds
+B2B_Suckouts calls [0,06 $]
+** Dealing turn ** [ 8Karo ]
+B2B_Suckouts checks
+514Bandit bets [0,10 $]
+B2B_Suckouts folds
+** Summary **
+514Bandit collected [ 0,33 $ ]
+
+
+
+#Game No : 1328193072
+***** 888poker Hand History for Game 1328193072 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:22:43
+Table Bratislava 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: Zenga984 ( 0,50 $ )
+Seat 2: vn8007 ( 0,68 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: murmurrrrrr ( 1,98 $ )
+Seat 5: B2B_Suckouts ( 2,37 $ )
+Seat 6: AnnFil ( 0,63 $ )
+Seat 7: 514Bandit ( 1,19 $ )
+Woffinden posts small blind [0,01 $]
+murmurrrrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 8Pik ]
+B2B_Suckouts folds
+AnnFil folds
+514Bandit raises [0,06 $]
+Zenga984 calls [0,06 $]
+vn8007 calls [0,06 $]
+Woffinden calls [0,05 $]
+murmurrrrrr raises [0,41 $]
+514Bandit folds
+Zenga984 calls [0,37 $]
+vn8007 calls [0,37 $]
+Woffinden folds
+** Dealing flop ** [ 2Herz, 7Herz, QPik ]
+murmurrrrrr bets [1,55 $]
+Zenga984 calls [0,07 $]
+vn8007 calls [0,25 $]
+** Dealing turn ** [ QKaro ]
+** Dealing river ** [ 3Kreuz ]
+** Summary **
+Zenga984 shows [ APik, KPik ]
+vn8007 shows [ 10Kreuz, 10Herz ]
+murmurrrrrr shows [ JKreuz, JPik ]
+murmurrrrrr collected [ 1,52 $ ]
+murmurrrrrr collected [ 0,34 $ ]
+
+
+
+#Game No : 1328193511
+***** 888poker Hand History for Game 1328193511 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:24:44
+Table Bratislava 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 4
+Seat 4: murmurrrrrr ( 3,16 $ )
+Seat 5: B2B_Suckouts ( 2,37 $ )
+Seat 6: AnnFil ( 0,63 $ )
+Seat 7: 514Bandit ( 1,13 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AnnFil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 10Kreuz ]
+514Bandit calls [0,02 $]
+murmurrrrrr folds
+B2B_Suckouts raises [0,05 $]
+AnnFil folds
+514Bandit calls [0,04 $]
+** Dealing flop ** [ 8Pik, 4Karo, 4Pik ]
+B2B_Suckouts bets [0,07 $]
+514Bandit raises [0,14 $]
+B2B_Suckouts raises [2,24 $]
+514Bandit folds
+** Summary **
+B2B_Suckouts collected [ 0,40 $ ]
+
+
+
+#Game No : 1328193710
+***** 888poker Hand History for Game 1328193710 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:25:36
+Table Bratislava 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 2: vn8007 ( 0,80 $ )
+Seat 3: Woffinden ( 1,94 $ )
+Seat 4: murmurrrrrr ( 3,16 $ )
+Seat 5: B2B_Suckouts ( 2,57 $ )
+Seat 6: AnnFil ( 0,61 $ )
+Seat 7: 514Bandit ( 0,93 $ )
+AnnFil posts small blind [0,01 $]
+514Bandit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, QPik ]
+vn8007 folds
+Woffinden folds
+murmurrrrrr folds
+B2B_Suckouts raises [0,06 $]
+AnnFil folds
+514Bandit raises [0,18 $]
+B2B_Suckouts calls [0,14 $]
+** Dealing flop ** [ 3Kreuz, JHerz, 5Herz ]
+514Bandit bets [0,20 $]
+B2B_Suckouts folds
+** Summary **
+514Bandit collected [ 0,39 $ ]
+
+
+
+#Game No : 1328193886
+***** 888poker Hand History for Game 1328193886 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:26:25
+Table Bratislava 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: vn8007 ( 0,80 $ )
+Seat 3: Woffinden ( 1,94 $ )
+Seat 4: murmurrrrrr ( 3,16 $ )
+Seat 5: B2B_Suckouts ( 2,37 $ )
+Seat 6: AnnFil ( 0,60 $ )
+Seat 7: 514Bandit ( 1,12 $ )
+Seat 9: SevenThousan ( 2 $ )
+514Bandit posts small blind [0,01 $]
+SevenThousan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 3Kreuz ]
+vn8007 folds
+Woffinden folds
+murmurrrrrr folds
+B2B_Suckouts folds
+AnnFil raises [0,04 $]
+514Bandit calls [0,03 $]
+SevenThousan calls [0,02 $]
+** Dealing flop ** [ 3Pik, AKreuz, 7Karo ]
+514Bandit checks
+SevenThousan checks
+AnnFil bets [0,10 $]
+514Bandit folds
+SevenThousan calls [0,10 $]
+** Dealing turn ** [ 6Pik ]
+SevenThousan checks
+AnnFil bets [0,10 $]
+SevenThousan calls [0,10 $]
+** Dealing river ** [ 9Herz ]
+SevenThousan checks
+AnnFil checks
+** Summary **
+SevenThousan shows [ 4Karo, 2Karo ]
+AnnFil shows [ QKaro, QKreuz ]
+AnnFil collected [ 0,49 $ ]
+
+
+
+#Game No : 1328194108
+***** 888poker Hand History for Game 1328194108 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:27:25
+Table Bratislava 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: vn8007 ( 0,80 $ )
+Seat 3: Woffinden ( 1,94 $ )
+Seat 4: murmurrrrrr ( 3,16 $ )
+Seat 5: B2B_Suckouts ( 2,37 $ )
+Seat 6: AnnFil ( 0,85 $ )
+Seat 7: 514Bandit ( 1,08 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2 $ )
+SevenThousan posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 9Kreuz ]
+vn8007 calls [0,02 $]
+Woffinden folds
+murmurrrrrr folds
+B2B_Suckouts folds
+AnnFil folds
+514Bandit raises [0,16 $]
+SevenThousan folds
+Optimus40KER folds
+vn8007 calls [0,14 $]
+** Dealing flop ** [ APik, 5Pik, AHerz ]
+vn8007 checks
+514Bandit bets [0,14 $]
+vn8007 raises [0,64 $]
+514Bandit calls [0,50 $]
+** Dealing turn ** [ KKaro ]
+** Dealing river ** [ 2Herz ]
+** Summary **
+vn8007 shows [ QKaro, AKreuz ]
+514Bandit shows [ 10Pik, 10Herz ]
+vn8007 collected [ 1,53 $ ]
+
+
+
+#Game No : 1328194303
+***** 888poker Hand History for Game 1328194303 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:28:16
+Table Bratislava 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 2: vn8007 ( 1,53 $ )
+Seat 3: Woffinden ( 1,94 $ )
+Seat 4: murmurrrrrr ( 3,16 $ )
+Seat 5: B2B_Suckouts ( 2,37 $ )
+Seat 6: AnnFil ( 0,85 $ )
+Seat 7: 514Bandit ( 0,28 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 1,98 $ )
+Optimus40KER posts small blind [0,01 $]
+vn8007 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 7Karo ]
+Woffinden folds
+murmurrrrrr folds
+B2B_Suckouts folds
+AnnFil folds
+514Bandit raises [0,28 $]
+SevenThousan folds
+Optimus40KER folds
+vn8007 folds
+** Summary **
+514Bandit collected [ 0,31 $ ]
+
+
+
+#Game No : 1328194385
+***** 888poker Hand History for Game 1328194385 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:28:37
+Table Bratislava 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: vn8007 ( 1,51 $ )
+Seat 3: Woffinden ( 1,94 $ )
+Seat 4: murmurrrrrr ( 3,16 $ )
+Seat 5: B2B_Suckouts ( 2,37 $ )
+Seat 6: AnnFil ( 0,85 $ )
+Seat 7: 514Bandit ( 0,31 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 1,97 $ )
+vn8007 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 4Pik ]
+murmurrrrrr folds
+B2B_Suckouts folds
+AnnFil raises [0,06 $]
+514Bandit folds
+SevenThousan folds
+Optimus40KER folds
+vn8007 folds
+Woffinden folds
+** Summary **
+AnnFil collected [ 0,05 $ ]
+
+
+
+#Game No : 1328194454
+***** 888poker Hand History for Game 1328194454 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:28:54
+Table Bratislava 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: vn8007 ( 1,50 $ )
+Seat 3: Woffinden ( 1,92 $ )
+Seat 4: murmurrrrrr ( 3,16 $ )
+Seat 5: B2B_Suckouts ( 2,37 $ )
+Seat 6: AnnFil ( 0,88 $ )
+Seat 7: 514Bandit ( 0,31 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 1,97 $ )
+Woffinden posts small blind [0,01 $]
+murmurrrrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 7Herz ]
+B2B_Suckouts folds
+AnnFil calls [0,02 $]
+514Bandit raises [0,06 $]
+SevenThousan folds
+Optimus40KER calls [0,06 $]
+vn8007 folds
+Woffinden folds
+murmurrrrrr folds
+AnnFil calls [0,04 $]
+** Dealing flop ** [ JHerz, 4Pik, 5Kreuz ]
+AnnFil bets [0,15 $]
+514Bandit folds
+Optimus40KER folds
+** Summary **
+AnnFil collected [ 0,20 $ ]
+
+
+
+#Game No : 1328194610
+***** 888poker Hand History for Game 1328194610 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:29:37
+Table Bratislava 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: vn8007 ( 1,50 $ )
+Seat 3: Woffinden ( 1,91 $ )
+Seat 4: murmurrrrrr ( 3,14 $ )
+Seat 5: B2B_Suckouts ( 2,37 $ )
+Seat 6: AnnFil ( 1,02 $ )
+Seat 7: 514Bandit ( 0,25 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 1,91 $ )
+murmurrrrrr posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, QPik ]
+AnnFil raises [0,04 $]
+514Bandit folds
+SevenThousan folds
+Optimus40KER folds
+vn8007 folds
+Woffinden raises [0,16 $]
+murmurrrrrr folds
+B2B_Suckouts folds
+AnnFil calls [0,12 $]
+** Dealing flop ** [ JKaro, QKaro, 7Herz ]
+AnnFil bets [0,25 $]
+Woffinden calls [0,25 $]
+** Dealing turn ** [ 4Karo ]
+AnnFil bets [0,28 $]
+Woffinden folds
+** Summary **
+AnnFil collected [ 0,80 $ ]
+
+
+
+#Game No : 1328194794
+***** 888poker Hand History for Game 1328194794 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:30:28
+Table Bratislava 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: vn8007 ( 1,50 $ )
+Seat 3: Woffinden ( 1,50 $ )
+Seat 4: murmurrrrrr ( 3,13 $ )
+Seat 5: B2B_Suckouts ( 2,35 $ )
+Seat 6: AnnFil ( 1,41 $ )
+Seat 7: 514Bandit ( 0,25 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AnnFil posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 10Herz ]
+514Bandit folds
+SevenThousan raises [0,06 $]
+Optimus40KER folds
+vn8007 folds
+Woffinden calls [0,06 $]
+murmurrrrrr folds
+B2B_Suckouts calls [0,05 $]
+AnnFil folds
+** Dealing flop ** [ 7Karo, 6Herz, QKreuz ]
+B2B_Suckouts checks
+SevenThousan checks
+Woffinden bets [0,13 $]
+B2B_Suckouts folds
+SevenThousan calls [0,13 $]
+** Dealing turn ** [ 4Karo ]
+SevenThousan checks
+Woffinden checks
+** Dealing river ** [ 6Karo ]
+SevenThousan checks
+Woffinden checks
+** Summary **
+SevenThousan shows [ AKaro, KPik ]
+Woffinden shows [ KHerz, QHerz ]
+Woffinden collected [ 0,44 $ ]
+
+
+
+#Game No : 1328195068
+***** 888poker Hand History for Game 1328195068 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:31:51
+Table Bratislava 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: vn8007 ( 1,50 $ )
+Seat 3: Woffinden ( 1,75 $ )
+Seat 4: murmurrrrrr ( 3,13 $ )
+Seat 5: B2B_Suckouts ( 2,29 $ )
+Seat 6: AnnFil ( 1,39 $ )
+Seat 7: 514Bandit ( 0,25 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2 $ )
+AnnFil posts small blind [0,01 $]
+514Bandit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 10Kreuz ]
+SevenThousan folds
+Optimus40KER folds
+vn8007 raises [0,08 $]
+Woffinden folds
+murmurrrrrr calls [0,08 $]
+B2B_Suckouts folds
+AnnFil folds
+514Bandit folds
+** Dealing flop ** [ 4Pik, 9Pik, JKaro ]
+vn8007 bets [0,40 $]
+murmurrrrrr folds
+** Summary **
+vn8007 did not show his hand
+vn8007 collected [ 0,18 $ ]
+
+
+
+#Game No : 1328195215
+***** 888poker Hand History for Game 1328195215 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:32:33
+Table Bratislava 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: vn8007 ( 1,60 $ )
+Seat 3: Woffinden ( 1,75 $ )
+Seat 4: murmurrrrrr ( 3,05 $ )
+Seat 5: B2B_Suckouts ( 2,29 $ )
+Seat 6: AnnFil ( 1,38 $ )
+Seat 7: 514Bandit ( 0,23 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2 $ )
+514Bandit posts small blind [0,01 $]
+SevenThousan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 4Kreuz ]
+Optimus40KER calls [0,02 $]
+vn8007 folds
+Woffinden folds
+murmurrrrrr folds
+B2B_Suckouts folds
+AnnFil folds
+514Bandit calls [0,01 $]
+SevenThousan checks
+** Dealing flop ** [ AKaro, 10Kreuz, 2Kreuz ]
+514Bandit bets [0,04 $]
+SevenThousan calls [0,04 $]
+Optimus40KER calls [0,04 $]
+** Dealing turn ** [ JKaro ]
+514Bandit bets [0,06 $]
+SevenThousan folds
+Optimus40KER calls [0,06 $]
+** Dealing river ** [ 10Karo ]
+514Bandit bets [0,10 $]
+Optimus40KER calls [0,10 $]
+** Summary **
+514Bandit shows [ QKreuz, 7Herz ]
+Optimus40KER shows [ 5Herz, AHerz ]
+Optimus40KER collected [ 0,47 $ ]
+
+
+
+#Game No : 1328195386
+***** 888poker Hand History for Game 1328195386 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:33:22
+Table Bratislava 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,60 $ )
+Seat 3: Woffinden ( 1,75 $ )
+Seat 4: murmurrrrrr ( 3,05 $ )
+Seat 5: B2B_Suckouts ( 2,29 $ )
+Seat 6: AnnFil ( 1,38 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,25 $ )
+Optimus40KER posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, AKreuz ]
+vn8007 folds
+Woffinden folds
+murmurrrrrr folds
+B2B_Suckouts raises [0,06 $]
+AnnFil folds
+SevenThousan folds
+Optimus40KER folds
+OmgAKs folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 1328195484
+***** 888poker Hand History for Game 1328195484 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:33:54
+Table Bratislava 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,60 $ )
+Seat 3: Woffinden ( 1,75 $ )
+Seat 4: murmurrrrrr ( 3,05 $ )
+Seat 5: B2B_Suckouts ( 2,32 $ )
+Seat 6: AnnFil ( 1,38 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,24 $ )
+OmgAKs posts small blind [0,01 $]
+vn8007 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, QKaro ]
+Woffinden folds
+murmurrrrrr folds
+B2B_Suckouts folds
+AnnFil folds
+SevenThousan folds
+Optimus40KER raises [0,05 $]
+OmgAKs folds
+vn8007 calls [0,03 $]
+** Dealing flop ** [ 3Pik, 6Pik, APik ]
+vn8007 checks
+Optimus40KER checks
+** Dealing turn ** [ AKreuz ]
+vn8007 checks
+Optimus40KER bets [0,06 $]
+vn8007 calls [0,06 $]
+** Dealing river ** [ 3Herz ]
+vn8007 bets [0,02 $]
+Optimus40KER raises [0,18 $]
+vn8007 folds
+** Summary **
+Optimus40KER collected [ 0,26 $ ]
+
+
+
+#Game No : 1328195720
+***** 888poker Hand History for Game 1328195720 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:35:02
+Table Bratislava 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,47 $ )
+Seat 3: Woffinden ( 1,75 $ )
+Seat 4: murmurrrrrr ( 3,05 $ )
+Seat 5: B2B_Suckouts ( 2,32 $ )
+Seat 6: AnnFil ( 1,38 $ )
+Seat 7: 514Bandit ( 0,80 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,37 $ )
+vn8007 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 5Herz ]
+murmurrrrrr folds
+B2B_Suckouts folds
+AnnFil raises [0,06 $]
+514Bandit folds
+SevenThousan calls [0,06 $]
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+** Dealing flop ** [ 6Karo, 3Kreuz, 2Herz ]
+AnnFil bets [0,10 $]
+SevenThousan folds
+** Summary **
+AnnFil did not show his hand
+AnnFil collected [ 0,15 $ ]
+
+
+
+#Game No : 1328195842
+***** 888poker Hand History for Game 1328195842 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:35:34
+Table Bratislava 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 1,73 $ )
+Seat 5: B2B_Suckouts ( 2,32 $ )
+Seat 6: AnnFil ( 1,47 $ )
+Seat 7: 514Bandit ( 0,80 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,37 $ )
+Woffinden posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, KKaro ]
+AnnFil raises [0,06 $]
+514Bandit folds
+SevenThousan folds
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+B2B_Suckouts folds
+** Summary **
+AnnFil did not show his hand
+AnnFil collected [ 0,05 $ ]
+
+
+
+#Game No : 1328195921
+***** 888poker Hand History for Game 1328195921 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:35:56
+Table Bratislava 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 1,72 $ )
+Seat 5: B2B_Suckouts ( 2,30 $ )
+Seat 6: AnnFil ( 1,50 $ )
+Seat 7: 514Bandit ( 0,80 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,37 $ )
+B2B_Suckouts posts small blind [0,01 $]
+AnnFil folds
+514Bandit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, QHerz ]
+SevenThousan folds
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden raises [0,08 $]
+B2B_Suckouts calls [0,07 $]
+514Bandit raises [0,78 $]
+Woffinden folds
+B2B_Suckouts calls [0,72 $]
+** Dealing flop ** [ JKaro, 2Herz, 9Karo ]
+** Dealing turn ** [ 9Herz ]
+** Dealing river ** [ 6Kreuz ]
+** Summary **
+B2B_Suckouts shows [ KHerz, QHerz ]
+514Bandit shows [ 3Herz, 3Pik ]
+514Bandit collected [ 1,58 $ ]
+
+
+
+#Game No : 1328196077
+***** 888poker Hand History for Game 1328196077 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:36:42
+Table Bratislava 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 1,64 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: 514Bandit ( 1,58 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,37 $ )
+514Bandit posts small blind [0,01 $]
+SevenThousan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 6Kreuz ]
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden raises [0,08 $]
+B2B_Suckouts folds
+514Bandit folds
+SevenThousan folds
+** Summary **
+Woffinden collected [ 0,05 $ ]
+
+
+
+#Game No : 1328196168
+***** 888poker Hand History for Game 1328196168 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:37:08
+Table Bratislava 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 1,67 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: 514Bandit ( 1,57 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,37 $ )
+SevenThousan posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 2Herz ]
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+B2B_Suckouts folds
+514Bandit folds
+SevenThousan raises [0,05 $]
+Optimus40KER folds
+** Summary **
+SevenThousan collected [ 0,04 $ ]
+
+
+
+#Game No : 1328196259
+***** 888poker Hand History for Game 1328196259 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:37:35
+Table Bratislava 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 1,67 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: 514Bandit ( 1,57 $ )
+Seat 9: SevenThousan ( 2,02 $ )
+Seat 10: Optimus40KER ( 2,35 $ )
+Optimus40KER posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 8Karo ]
+vn8007 raises [0,06 $]
+Woffinden folds
+B2B_Suckouts folds
+514Bandit folds
+SevenThousan folds
+Optimus40KER folds
+OmgAKs folds
+** Summary **
+vn8007 collected [ 0,05 $ ]
+
+
+
+#Game No : 1328196350
+***** 888poker Hand History for Game 1328196350 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:38:02
+Table Bratislava 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,49 $ )
+Seat 3: Woffinden ( 1,67 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: 514Bandit ( 1,57 $ )
+Seat 9: SevenThousan ( 2,02 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+OmgAKs posts small blind [0,01 $]
+vn8007 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 2Herz ]
+Woffinden raises [0,08 $]
+B2B_Suckouts folds
+514Bandit calls [0,08 $]
+SevenThousan calls [0,08 $]
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+** Dealing flop ** [ 4Pik, AKreuz, 7Pik ]
+Woffinden checks
+514Bandit checks
+SevenThousan checks
+** Dealing turn ** [ 9Herz ]
+Woffinden checks
+514Bandit checks
+SevenThousan checks
+** Dealing river ** [ 8Pik ]
+Woffinden checks
+514Bandit bets [0,27 $]
+SevenThousan folds
+Woffinden folds
+** Summary **
+514Bandit collected [ 0,26 $ ]
+
+
+
+#Game No : 1328196546
+***** 888poker Hand History for Game 1328196546 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:39:05
+Table Bratislava 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,47 $ )
+Seat 3: Woffinden ( 1,59 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: 514Bandit ( 1,75 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+vn8007 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 10Karo ]
+B2B_Suckouts raises [0,06 $]
+514Bandit raises [0,20 $]
+SevenThousan folds
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+B2B_Suckouts folds
+** Summary **
+514Bandit collected [ 0,15 $ ]
+
+
+
+#Game No : 1328196624
+***** 888poker Hand History for Game 1328196624 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:39:27
+Table Bratislava 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 1,57 $ )
+Seat 4: kosmit_11 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: 514Bandit ( 1,84 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+Woffinden posts small blind [0,01 $]
+kosmit_11 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 5Kreuz ]
+B2B_Suckouts folds
+514Bandit folds
+SevenThousan raises [0,06 $]
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+kosmit_11 folds
+** Summary **
+SevenThousan collected [ 0,05 $ ]
+
+
+
+#Game No : 1328196686
+***** 888poker Hand History for Game 1328196686 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:39:45
+Table Bratislava 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 1,56 $ )
+Seat 4: kosmit_11 ( 1,98 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 7: 514Bandit ( 1,84 $ )
+Seat 9: SevenThousan ( 2,03 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+kosmit_11 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, JKreuz ]
+514Bandit calls [0,02 $]
+SevenThousan folds
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden raises [0,10 $]
+kosmit_11 folds
+B2B_Suckouts raises [0,23 $]
+514Bandit folds
+Woffinden calls [0,15 $]
+** Dealing flop ** [ 2Karo, 7Kreuz, QPik ]
+B2B_Suckouts bets [1,75 $]
+Woffinden calls [1,31 $]
+** Dealing turn ** [ 6Herz ]
+** Dealing river ** [ 6Pik ]
+** Summary **
+Woffinden shows [ QKaro, QHerz ]
+B2B_Suckouts shows [ AKreuz, JKreuz ]
+Woffinden collected [ 2,96 $ ]
+
+
+
+#Game No : 1328196849
+***** 888poker Hand History for Game 1328196849 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:40:34
+Table Bratislava 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: OmgAKs ( 2 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 2,96 $ )
+Seat 4: kosmit_11 ( 1,97 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: murmurrrrrr ( 3,05 $ )
+Seat 7: 514Bandit ( 1,82 $ )
+Seat 9: SevenThousan ( 2,03 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+B2B_Suckouts posts small blind [0,01 $]
+murmurrrrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, JKaro ]
+514Bandit folds
+SevenThousan folds
+Optimus40KER folds
+OmgAKs raises [0,05 $]
+vn8007 folds
+Woffinden folds
+kosmit_11 calls [0,05 $]
+B2B_Suckouts folds
+murmurrrrrr folds
+** Dealing flop ** [ 5Karo, 5Herz, 5Kreuz ]
+OmgAKs bets [0,07 $]
+kosmit_11 folds
+** Summary **
+OmgAKs did not show his hand
+OmgAKs collected [ 0,13 $ ]
+
+
+
+#Game No : 1328196976
+***** 888poker Hand History for Game 1328196976 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:41:09
+Table Bratislava 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: OmgAKs ( 2,08 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 2,96 $ )
+Seat 4: kosmit_11 ( 1,92 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: murmurrrrrr ( 3,03 $ )
+Seat 7: 514Bandit ( 1,82 $ )
+Seat 9: SevenThousan ( 2,03 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+murmurrrrrr posts small blind [0,01 $]
+514Bandit posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, JPik ]
+SevenThousan folds
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+kosmit_11 folds
+B2B_Suckouts folds
+murmurrrrrr raises [0,05 $]
+514Bandit calls [0,04 $]
+** Dealing flop ** [ 8Karo, 9Kreuz, 10Pik ]
+murmurrrrrr checks
+514Bandit bets [0,06 $]
+murmurrrrrr folds
+** Summary **
+514Bandit did not show his hand
+514Bandit collected [ 0,12 $ ]
+
+
+
+#Game No : 1328197105
+***** 888poker Hand History for Game 1328197105 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:41:49
+Table Bratislava 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: OmgAKs ( 2,08 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 2,96 $ )
+Seat 4: kosmit_11 ( 1,92 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: murmurrrrrr ( 2,97 $ )
+Seat 7: 514Bandit ( 1,88 $ )
+Seat 9: SevenThousan ( 2,03 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+514Bandit posts small blind [0,01 $]
+SevenThousan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 2Pik ]
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden raises [0,08 $]
+kosmit_11 folds
+B2B_Suckouts folds
+murmurrrrrr folds
+514Bandit calls [0,07 $]
+SevenThousan calls [0,06 $]
+** Dealing flop ** [ JKaro, 2Karo, 7Pik ]
+514Bandit bets [0,08 $]
+SevenThousan folds
+Woffinden raises [0,24 $]
+514Bandit folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,38 $ ]
+
+
+
+#Game No : 1328197320
+***** 888poker Hand History for Game 1328197320 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:42:50
+Table Bratislava 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: OmgAKs ( 2,08 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 3,18 $ )
+Seat 4: kosmit_11 ( 1,92 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: murmurrrrrr ( 2,97 $ )
+Seat 7: 514Bandit ( 1,72 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+SevenThousan posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 6Pik ]
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+kosmit_11 folds
+B2B_Suckouts folds
+murmurrrrrr folds
+514Bandit raises [0,06 $]
+SevenThousan folds
+Optimus40KER folds
+** Summary **
+514Bandit did not show his hand
+514Bandit collected [ 0,05 $ ]
+
+
+
+#Game No : 1328197393
+***** 888poker Hand History for Game 1328197393 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:43:12
+Table Bratislava 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: OmgAKs ( 2,08 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 3,18 $ )
+Seat 4: kosmit_11 ( 1,92 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: murmurrrrrr ( 2,97 $ )
+Seat 7: 514Bandit ( 1,75 $ )
+Seat 9: SevenThousan ( 2 $ )
+Seat 10: Optimus40KER ( 2,32 $ )
+Optimus40KER posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 3Kreuz ]
+vn8007 folds
+Woffinden folds
+kosmit_11 folds
+B2B_Suckouts folds
+murmurrrrrr folds
+514Bandit folds
+SevenThousan raises [0,06 $]
+Optimus40KER folds
+OmgAKs folds
+** Summary **
+SevenThousan did not show his hand
+SevenThousan collected [ 0,05 $ ]
+
+
+
+#Game No : 1328197473
+***** 888poker Hand History for Game 1328197473 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:43:38
+Table Bratislava 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: OmgAKs ( 2,06 $ )
+Seat 2: vn8007 ( 1,46 $ )
+Seat 3: Woffinden ( 3,18 $ )
+Seat 4: kosmit_11 ( 1,92 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: murmurrrrrr ( 2,97 $ )
+Seat 7: 514Bandit ( 1,75 $ )
+Seat 9: SevenThousan ( 2,03 $ )
+Seat 10: Optimus40KER ( 2,31 $ )
+OmgAKs posts small blind [0,01 $]
+vn8007 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 6Herz ]
+Woffinden folds
+kosmit_11 folds
+B2B_Suckouts folds
+murmurrrrrr raises [0,07 $]
+514Bandit folds
+SevenThousan folds
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+** Summary **
+murmurrrrrr did not show his hand
+murmurrrrrr collected [ 0,05 $ ]
+
+
+
+#Game No : 1328197565
+***** 888poker Hand History for Game 1328197565 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:44:05
+Table Bratislava 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: OmgAKs ( 2,05 $ )
+Seat 2: vn8007 ( 1,44 $ )
+Seat 3: Woffinden ( 3,18 $ )
+Seat 4: kosmit_11 ( 1,92 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: murmurrrrrr ( 3 $ )
+Seat 7: 514Bandit ( 1,75 $ )
+Seat 9: SevenThousan ( 2,03 $ )
+Seat 10: Optimus40KER ( 2,31 $ )
+vn8007 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 3Pik ]
+kosmit_11 folds
+B2B_Suckouts folds
+murmurrrrrr folds
+514Bandit folds
+SevenThousan folds
+Optimus40KER raises [0,06 $]
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+** Summary **
+Optimus40KER did not show his hand
+Optimus40KER collected [ 0,05 $ ]
+
+
+
+#Game No : 1328197661
+***** 888poker Hand History for Game 1328197661 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:44:32
+Table Bratislava 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2,05 $ )
+Seat 2: vn8007 ( 1,43 $ )
+Seat 3: Woffinden ( 3,16 $ )
+Seat 4: kosmit_11 ( 1,92 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: murmurrrrrr ( 3 $ )
+Seat 9: SevenThousan ( 2,03 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+Woffinden posts small blind [0,01 $]
+kosmit_11 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 9Karo ]
+B2B_Suckouts folds
+murmurrrrrr folds
+SevenThousan raises [0,06 $]
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+kosmit_11 folds
+** Summary **
+SevenThousan did not show his hand
+SevenThousan collected [ 0,05 $ ]
+
+
+
+#Game No : 1328197734
+***** 888poker Hand History for Game 1328197734 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:44:55
+Table Bratislava 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2,05 $ )
+Seat 2: vn8007 ( 1,43 $ )
+Seat 3: Woffinden ( 3,15 $ )
+Seat 4: kosmit_11 ( 1,90 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: murmurrrrrr ( 3 $ )
+Seat 9: SevenThousan ( 2,06 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+kosmit_11 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 2Herz ]
+murmurrrrrr folds
+SevenThousan folds
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden raises [0,08 $]
+kosmit_11 folds
+B2B_Suckouts folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,05 $ ]
+
+
+
+#Game No : 1328197819
+***** 888poker Hand History for Game 1328197819 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:45:19
+Table Bratislava 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2,05 $ )
+Seat 2: vn8007 ( 1,43 $ )
+Seat 3: Woffinden ( 3,18 $ )
+Seat 4: kosmit_11 ( 1,89 $ )
+Seat 5: B2B_Suckouts ( 2 $ )
+Seat 6: murmurrrrrr ( 3 $ )
+Seat 9: SevenThousan ( 2,06 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+B2B_Suckouts posts small blind [0,01 $]
+murmurrrrrr posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, JKreuz ]
+SevenThousan folds
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+kosmit_11 raises [0,06 $]
+B2B_Suckouts raises [0,17 $]
+murmurrrrrr folds
+kosmit_11 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 1328197934
+***** 888poker Hand History for Game 1328197934 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:45:50
+Table Bratislava 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: OmgAKs ( 2,05 $ )
+Seat 2: vn8007 ( 1,43 $ )
+Seat 3: Woffinden ( 3,18 $ )
+Seat 4: kosmit_11 ( 1,83 $ )
+Seat 5: B2B_Suckouts ( 2,08 $ )
+Seat 6: murmurrrrrr ( 2,98 $ )
+Seat 10: Optimus40KER ( 2,34 $ )
+murmurrrrrr posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, KPik ]
+OmgAKs folds
+vn8007 calls [0,02 $]
+Woffinden folds
+kosmit_11 raises [0,08 $]
+B2B_Suckouts calls [0,08 $]
+murmurrrrrr folds
+Optimus40KER folds
+vn8007 calls [0,06 $]
+** Dealing flop ** [ 5Kreuz, AKaro, 8Herz ]
+vn8007 checks
+kosmit_11 checks
+B2B_Suckouts checks
+** Dealing turn ** [ JHerz ]
+vn8007 checks
+kosmit_11 checks
+B2B_Suckouts bets [0,13 $]
+vn8007 folds
+kosmit_11 calls [0,13 $]
+** Dealing river ** [ 2Kreuz ]
+kosmit_11 checks
+B2B_Suckouts bets [1,87 $]
+kosmit_11 folds
+** Summary **
+B2B_Suckouts collected [ 0,50 $ ]
+
+
+
+#Game No : 1328198262
+***** 888poker Hand History for Game 1328198262 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:47:26
+Table Bratislava 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: OmgAKs ( 2,05 $ )
+Seat 2: vn8007 ( 1,35 $ )
+Seat 3: Woffinden ( 3,18 $ )
+Seat 4: kosmit_11 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,37 $ )
+Seat 6: murmurrrrrr ( 2,97 $ )
+Seat 10: Optimus40KER ( 2,32 $ )
+Optimus40KER posts small blind [0,01 $]
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 10Pik ]
+vn8007 calls [0,02 $]
+Woffinden folds
+kosmit_11 folds
+B2B_Suckouts raises [0,06 $]
+murmurrrrrr raises [0,18 $]
+Optimus40KER folds
+OmgAKs folds
+vn8007 calls [0,16 $]
+B2B_Suckouts folds
+** Dealing flop ** [ 4Pik, 4Karo, QHerz ]
+vn8007 checks
+murmurrrrrr bets [0,12 $]
+vn8007 calls [0,12 $]
+** Dealing turn ** [ 2Karo ]
+vn8007 checks
+murmurrrrrr checks
+** Dealing river ** [ JKaro ]
+vn8007 checks
+murmurrrrrr checks
+** Summary **
+vn8007 shows [ KKaro, KPik ]
+murmurrrrrr mucks [ AKaro, 9Herz ]
+vn8007 collected [ 0,65 $ ]
+
+
+
+#Game No : 1328198468
+***** 888poker Hand History for Game 1328198468 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:48:25
+Table Bratislava 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2,03 $ )
+Seat 2: vn8007 ( 1,70 $ )
+Seat 3: Woffinden ( 3,18 $ )
+Seat 4: kosmit_11 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,31 $ )
+Seat 6: murmurrrrrr ( 2,67 $ )
+Seat 9: Limeoskibrow ( 2 $ )
+Seat 10: Optimus40KER ( 2,31 $ )
+OmgAKs posts small blind [0,01 $]
+vn8007 posts big blind [0,02 $]
+Limeoskibrow posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 7Kreuz ]
+Woffinden folds
+kosmit_11 folds
+B2B_Suckouts folds
+murmurrrrrr folds
+Limeoskibrow raises [0,08 $]
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+** Summary **
+Limeoskibrow collected [ 0,05 $ ]
+
+
+
+#Game No : 1328198537
+***** 888poker Hand History for Game 1328198537 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:48:43
+Table Bratislava 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2,02 $ )
+Seat 2: vn8007 ( 1,68 $ )
+Seat 3: Woffinden ( 3,18 $ )
+Seat 4: kosmit_11 ( 2 $ )
+Seat 5: B2B_Suckouts ( 2,31 $ )
+Seat 6: murmurrrrrr ( 2,67 $ )
+Seat 9: Limeoskibrow ( 2,03 $ )
+Seat 10: Optimus40KER ( 2,31 $ )
+vn8007 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, JHerz ]
+kosmit_11 raises [0,06 $]
+B2B_Suckouts folds
+murmurrrrrr folds
+Limeoskibrow raises [0,12 $]
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+kosmit_11 calls [0,06 $]
+** Dealing flop ** [ 5Kreuz, 4Pik, 2Karo ]
+kosmit_11 bets [0,17 $]
+Limeoskibrow calls [0,17 $]
+** Dealing turn ** [ KKaro ]
+kosmit_11 bets [0,40 $]
+Limeoskibrow folds
+** Summary **
+kosmit_11 collected [ 0,58 $ ]
+
+
+
+#Game No : 1328198722
+***** 888poker Hand History for Game 1328198722 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:49:30
+Table Bratislava 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2,02 $ )
+Seat 2: vn8007 ( 1,67 $ )
+Seat 3: Woffinden ( 3,16 $ )
+Seat 4: kosmit_11 ( 2,29 $ )
+Seat 5: B2B_Suckouts ( 2,31 $ )
+Seat 6: murmurrrrrr ( 2,67 $ )
+Seat 9: Limeoskibrow ( 1,74 $ )
+Seat 10: Optimus40KER ( 2,31 $ )
+Woffinden posts small blind [0,01 $]
+kosmit_11 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 10Kreuz ]
+B2B_Suckouts folds
+murmurrrrrr folds
+Limeoskibrow folds
+Optimus40KER folds
+OmgAKs folds
+vn8007 folds
+Woffinden folds
+** Summary **
+kosmit_11 collected [ 0,03 $ ]
+
+
+
+#Game No : 1328198825
+***** 888poker Hand History for Game 1328198825 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:49:58
+Table Bratislava 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: OmgAKs ( 2,02 $ )
+Seat 2: vn8007 ( 1,67 $ )
+Seat 3: Woffinden ( 3,15 $ )
+Seat 4: kosmit_11 ( 2,30 $ )
+Seat 5: B2B_Suckouts ( 2,31 $ )
+Seat 6: murmurrrrrr ( 2,67 $ )
+Seat 9: Limeoskibrow ( 1,74 $ )
+Seat 10: Optimus40KER ( 2,31 $ )
+kosmit_11 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 6Karo ]
+murmurrrrrr folds
+Limeoskibrow raises [0,06 $]
+Optimus40KER folds
+OmgAKs folds
+vn8007 calls [0,06 $]
+Woffinden folds
+kosmit_11 folds
+B2B_Suckouts folds
+** Dealing flop ** [ 3Kreuz, 5Herz, 9Kreuz ]
+Limeoskibrow checks
+vn8007 checks
+** Dealing turn ** [ 6Pik ]
+Limeoskibrow checks
+vn8007 checks
+** Dealing river ** [ AHerz ]
+Limeoskibrow checks
+vn8007 bets [0,02 $]
+Limeoskibrow folds
+** Summary **
+vn8007 collected [ 0,15 $ ]
+
+
+
+#Game No : 1328199116
+***** 888poker Hand History for Game 1328199116 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:51:19
+Table Bratislava 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: OmgAKs ( 2,02 $ )
+Seat 3: Woffinden ( 3,15 $ )
+Seat 4: kosmit_11 ( 2,29 $ )
+Seat 5: B2B_Suckouts ( 2,29 $ )
+Seat 7: SkyRokeT ( 0,80 $ )
+Seat 9: Limeoskibrow ( 1,68 $ )
+Seat 10: Optimus40KER ( 2,31 $ )
+B2B_Suckouts posts small blind [0,01 $]
+SkyRokeT posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, QKreuz ]
+Limeoskibrow folds
+Optimus40KER folds
+OmgAKs folds
+Woffinden folds
+kosmit_11 folds
+B2B_Suckouts raises [0,05 $]
+SkyRokeT folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 1328199279
+***** 888poker Hand History for Game 1328199279 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 15:52:05
+Table Bratislava 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 1: OmgAKs ( 2,02 $ )
+Seat 3: Woffinden ( 3,15 $ )
+Seat 4: kosmit_11 ( 2,29 $ )
+Seat 5: B2B_Suckouts ( 2,31 $ )
+Seat 7: SkyRokeT ( 0,78 $ )
+Seat 10: Optimus40KER ( 2,31 $ )
+SkyRokeT posts small blind [0,01 $]
+Optimus40KER folds
+OmgAKs posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 4Karo ]
+Woffinden raises [0,08 $]
+kosmit_11 folds
+B2B_Suckouts folds
+SkyRokeT folds
+OmgAKs folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,05 $ ]
+
+
+
