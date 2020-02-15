@@ -1,0 +1,723 @@
+#Game No : 474339482
+***** 888poker Hand History for Game 474339482 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:08:24
+Table Kharkiv 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: crowzen ( 2,03 $ )
+Seat 2: SamDarlow ( 0,92 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,84 $ )
+Seat 5: papa5grdkids ( 0,58 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,15 $ )
+Seat 9: milanshi ( 1,64 $ )
+Seat 10: Muckyay33 ( 2,39 $ )
+papa5grdkids posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 5Pik ]
+Bapiti10 folds
+milanshi calls [0,02 $]
+Muckyay33 folds
+crowzen folds
+SamDarlow calls [0,02 $]
+NiceToBeatU2 raises [0,08 $]
+YASAV folds
+papa5grdkids folds
+B2B_Suckouts folds
+milanshi folds
+SamDarlow calls [0,06 $]
+** Dealing flop ** [ KKaro, QKaro, QKreuz ]
+SamDarlow checks
+NiceToBeatU2 bets [0,13 $]
+SamDarlow folds
+** Summary **
+NiceToBeatU2 did not show his hand
+NiceToBeatU2 collected [ 0,20 $ ]
+
+
+
+#Game No : 474339551
+***** 888poker Hand History for Game 474339551 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:09:42
+Table Kharkiv 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: crowzen ( 2,03 $ )
+Seat 2: SamDarlow ( 0,84 $ )
+Seat 3: NiceToBeatU2 ( 2,12 $ )
+Seat 4: YASAV ( 0,84 $ )
+Seat 5: papa5grdkids ( 0,57 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,15 $ )
+Seat 9: milanshi ( 1,62 $ )
+Seat 10: Muckyay33 ( 2,39 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Bapiti10 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 2Karo ]
+milanshi folds
+Muckyay33 folds
+crowzen folds
+SamDarlow calls [0,02 $]
+NiceToBeatU2 folds
+YASAV folds
+papa5grdkids folds
+B2B_Suckouts raises [0,05 $]
+Bapiti10 folds
+SamDarlow calls [0,04 $]
+** Dealing flop ** [ 8Herz, KKaro, 7Herz ]
+B2B_Suckouts checks
+SamDarlow bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+SamDarlow did not show his hand
+SamDarlow collected [ 0,14 $ ]
+
+
+
+#Game No : 474339604
+***** 888poker Hand History for Game 474339604 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:10:37
+Table Kharkiv 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: crowzen ( 2,03 $ )
+Seat 2: SamDarlow ( 0,92 $ )
+Seat 3: NiceToBeatU2 ( 2,12 $ )
+Seat 4: YASAV ( 0,84 $ )
+Seat 5: papa5grdkids ( 0,57 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,13 $ )
+Seat 9: milanshi ( 1,62 $ )
+Seat 10: Muckyay33 ( 2,39 $ )
+Bapiti10 posts small blind [0,01 $]
+milanshi posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 7Kreuz ]
+Muckyay33 folds
+crowzen raises [0,06 $]
+SamDarlow folds
+NiceToBeatU2 calls [0,06 $]
+YASAV folds
+papa5grdkids folds
+B2B_Suckouts folds
+Bapiti10 folds
+milanshi folds
+** Dealing flop ** [ 6Pik, 3Herz, JPik ]
+crowzen checks
+NiceToBeatU2 bets [0,08 $]
+crowzen raises [0,26 $]
+NiceToBeatU2 folds
+** Summary **
+crowzen collected [ 0,30 $ ]
+
+
+
+#Game No : 474339675
+***** 888poker Hand History for Game 474339675 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:11:53
+Table Kharkiv 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: crowzen ( 2,19 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,84 $ )
+Seat 5: papa5grdkids ( 0,57 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,12 $ )
+Seat 9: milanshi ( 1,60 $ )
+Seat 10: Muckyay33 ( 2,39 $ )
+milanshi posts small blind [0,01 $]
+Muckyay33 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 2Kreuz ]
+crowzen folds
+NiceToBeatU2 folds
+YASAV folds
+papa5grdkids folds
+B2B_Suckouts folds
+Bapiti10 folds
+milanshi raises [0,03 $]
+Muckyay33 folds
+** Summary **
+milanshi collected [ 0,04 $ ]
+
+
+
+#Game No : 474339699
+***** 888poker Hand History for Game 474339699 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:12:24
+Table Kharkiv 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: crowzen ( 2,19 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,84 $ )
+Seat 5: papa5grdkids ( 0,57 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,12 $ )
+Seat 9: milanshi ( 1,62 $ )
+Seat 10: Muckyay33 ( 2,37 $ )
+Muckyay33 posts small blind [0,01 $]
+crowzen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 9Karo ]
+NiceToBeatU2 folds
+YASAV folds
+papa5grdkids calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+Bapiti10 folds
+milanshi folds
+Muckyay33 folds
+crowzen raises [0,22 $]
+papa5grdkids folds
+B2B_Suckouts folds
+** Summary **
+crowzen collected [ 0,15 $ ]
+
+
+
+#Game No : 474339728
+***** 888poker Hand History for Game 474339728 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:13:13
+Table Kharkiv 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: crowzen ( 2,28 $ )
+Seat 2: Mporter1986 ( 2 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,84 $ )
+Seat 5: papa5grdkids ( 0,55 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,12 $ )
+Seat 9: milanshi ( 1,62 $ )
+Seat 10: Muckyay33 ( 2,36 $ )
+crowzen posts small blind [0,01 $]
+Mporter1986 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 8Pik ]
+NiceToBeatU2 folds
+YASAV folds
+papa5grdkids folds
+B2B_Suckouts folds
+Bapiti10 folds
+milanshi calls [0,02 $]
+Muckyay33 folds
+crowzen folds
+Mporter1986 checks
+** Dealing flop ** [ 4Herz, 7Kreuz, QKreuz ]
+Mporter1986 checks
+milanshi checks
+** Dealing turn ** [ 8Herz ]
+Mporter1986 bets [0,03 $]
+milanshi folds
+** Summary **
+Mporter1986 did not show his hand
+Mporter1986 collected [ 0,05 $ ]
+
+
+
+#Game No : 474339768
+***** 888poker Hand History for Game 474339768 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:14:08
+Table Kharkiv 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: crowzen ( 2,27 $ )
+Seat 2: Mporter1986 ( 2,03 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,84 $ )
+Seat 5: papa5grdkids ( 0,55 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,12 $ )
+Seat 9: milanshi ( 1,60 $ )
+Seat 10: Muckyay33 ( 2,36 $ )
+Mporter1986 posts small blind [0,01 $]
+NiceToBeatU2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, QKreuz ]
+YASAV folds
+papa5grdkids folds
+B2B_Suckouts folds
+Bapiti10 folds
+milanshi folds
+Muckyay33 folds
+crowzen folds
+Mporter1986 raises [0,05 $]
+NiceToBeatU2 calls [0,04 $]
+** Dealing flop ** [ KKreuz, 8Kreuz, 6Karo ]
+Mporter1986 checks
+NiceToBeatU2 bets [0,06 $]
+Mporter1986 calls [0,06 $]
+** Dealing turn ** [ KPik ]
+Mporter1986 checks
+NiceToBeatU2 bets [0,12 $]
+Mporter1986 raises [0,36 $]
+NiceToBeatU2 folds
+** Summary **
+Mporter1986 did not show his hand
+Mporter1986 collected [ 0,45 $ ]
+
+
+
+#Game No : 474339836
+***** 888poker Hand History for Game 474339836 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:15:34
+Table Kharkiv 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: crowzen ( 2,27 $ )
+Seat 2: Mporter1986 ( 2,24 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,84 $ )
+Seat 5: papa5grdkids ( 0,55 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,12 $ )
+Seat 10: Muckyay33 ( 2,36 $ )
+NiceToBeatU2 posts small blind [0,01 $]
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 5Herz ]
+papa5grdkids folds
+B2B_Suckouts folds
+Bapiti10 raises [0,06 $]
+Muckyay33 folds
+crowzen folds
+Mporter1986 folds
+NiceToBeatU2 folds
+YASAV folds
+** Summary **
+Bapiti10 collected [ 0,05 $ ]
+
+
+
+#Game No : 474339867
+***** 888poker Hand History for Game 474339867 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:16:16
+Table Kharkiv 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: crowzen ( 2,27 $ )
+Seat 2: Mporter1986 ( 2,24 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,82 $ )
+Seat 5: papa5grdkids ( 0,55 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,15 $ )
+Seat 10: Muckyay33 ( 2,36 $ )
+YASAV posts small blind [0,01 $]
+papa5grdkids posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, QHerz ]
+B2B_Suckouts folds
+Bapiti10 folds
+Muckyay33 raises [0,06 $]
+crowzen folds
+Mporter1986 folds
+NiceToBeatU2 folds
+YASAV folds
+papa5grdkids folds
+** Summary **
+Muckyay33 collected [ 0,05 $ ]
+
+
+
+#Game No : 474339894
+***** 888poker Hand History for Game 474339894 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:16:47
+Table Kharkiv 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: crowzen ( 2,27 $ )
+Seat 2: Mporter1986 ( 2,24 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,81 $ )
+Seat 5: papa5grdkids ( 0,53 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,15 $ )
+papa5grdkids posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 3Kreuz ]
+Bapiti10 folds
+crowzen folds
+Mporter1986 folds
+NiceToBeatU2 raises [0,04 $]
+YASAV folds
+papa5grdkids calls [0,03 $]
+B2B_Suckouts folds
+** Dealing flop ** [ KKaro, 2Kreuz, 6Pik ]
+papa5grdkids checks
+NiceToBeatU2 bets [0,03 $]
+papa5grdkids raises [0,06 $]
+NiceToBeatU2 calls [0,03 $]
+** Dealing turn ** [ 5Pik ]
+papa5grdkids bets [0,14 $]
+NiceToBeatU2 calls [0,14 $]
+** Dealing river ** [ 6Herz ]
+papa5grdkids bets [0,25 $]
+NiceToBeatU2 folds
+** Summary **
+papa5grdkids collected [ 0,47 $ ]
+
+
+
+#Game No : 474339937
+***** 888poker Hand History for Game 474339937 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:17:53
+Table Kharkiv 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: crowzen ( 2,27 $ )
+Seat 2: Mporter1986 ( 2,24 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,81 $ )
+Seat 5: papa5grdkids ( 0,76 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,15 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Bapiti10 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 5Pik ]
+crowzen folds
+Mporter1986 raises [0,05 $]
+NiceToBeatU2 folds
+YASAV folds
+papa5grdkids folds
+B2B_Suckouts folds
+Bapiti10 raises [0,13 $]
+Mporter1986 calls [0,10 $]
+** Dealing flop ** [ QPik, 4Kreuz, JKaro ]
+Bapiti10 bets [0,20 $]
+Mporter1986 calls [0,20 $]
+** Dealing turn ** [ 9Kreuz ]
+Bapiti10 bets [0,46 $]
+Mporter1986 calls [0,46 $]
+** Dealing river ** [ 4Pik ]
+Bapiti10 bets [1,34 $]
+Mporter1986 folds
+** Summary **
+Bapiti10 collected [ 1,53 $ ]
+
+
+
+#Game No : 474339997
+***** 888poker Hand History for Game 474339997 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:19:23
+Table Kharkiv 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: crowzen ( 2,27 $ )
+Seat 2: Mporter1986 ( 2 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,81 $ )
+Seat 5: papa5grdkids ( 0,76 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: Bapiti10 ( 2,87 $ )
+Seat 9: mikeOmike ( 2 $ )
+Bapiti10 posts small blind [0,01 $]
+mikeOmike posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, JHerz ]
+crowzen folds
+Mporter1986 folds
+NiceToBeatU2 folds
+YASAV folds
+papa5grdkids calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+Bapiti10 folds
+mikeOmike folds
+papa5grdkids calls [0,04 $]
+** Dealing flop ** [ 7Karo, QKreuz, 9Kreuz ]
+papa5grdkids checks
+B2B_Suckouts bets [0,04 $]
+papa5grdkids calls [0,04 $]
+** Dealing turn ** [ 9Pik ]
+papa5grdkids checks
+B2B_Suckouts bets [0,11 $]
+papa5grdkids calls [0,11 $]
+** Dealing river ** [ KPik ]
+papa5grdkids checks
+B2B_Suckouts bets [0,54 $]
+papa5grdkids folds
+** Summary **
+B2B_Suckouts collected [ 0,43 $ ]
+
+
+
+#Game No : 474340053
+***** 888poker Hand History for Game 474340053 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:20:38
+Table Kharkiv 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: crowzen ( 2,27 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,81 $ )
+Seat 5: papa5grdkids ( 0,55 $ )
+Seat 6: B2B_Suckouts ( 2,22 $ )
+Seat 7: Bapiti10 ( 2,86 $ )
+Seat 9: mikeOmike ( 2 $ )
+Seat 10: darklaz_89 ( 0,80 $ )
+mikeOmike posts small blind [0,01 $]
+darklaz_89 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, KKreuz ]
+crowzen folds
+NiceToBeatU2 folds
+YASAV folds
+papa5grdkids calls [0,02 $]
+B2B_Suckouts folds
+Bapiti10 folds
+mikeOmike folds
+darklaz_89 raises [0,04 $]
+papa5grdkids calls [0,04 $]
+** Dealing flop ** [ 2Pik, 2Karo, 9Karo ]
+darklaz_89 bets [0,04 $]
+papa5grdkids calls [0,04 $]
+** Dealing turn ** [ AKaro ]
+darklaz_89 bets [0,10 $]
+papa5grdkids calls [0,10 $]
+** Dealing river ** [ 8Pik ]
+darklaz_89 bets [0,13 $]
+papa5grdkids folds
+** Summary **
+darklaz_89 collected [ 0,39 $ ]
+
+
+
+#Game No : 474340105
+***** 888poker Hand History for Game 474340105 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:21:49
+Table Kharkiv 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: crowzen ( 2,27 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,81 $ )
+Seat 5: papa5grdkids ( 0,35 $ )
+Seat 6: B2B_Suckouts ( 2,22 $ )
+Seat 7: Bapiti10 ( 2,86 $ )
+Seat 9: mikeOmike ( 2 $ )
+Seat 10: darklaz_89 ( 0,99 $ )
+darklaz_89 posts small blind [0,01 $]
+crowzen posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, JHerz ]
+NiceToBeatU2 folds
+YASAV folds
+papa5grdkids folds
+B2B_Suckouts folds
+Bapiti10 folds
+mikeOmike folds
+darklaz_89 folds
+** Summary **
+crowzen collected [ 0,03 $ ]
+
+
+
+#Game No : 474340118
+***** 888poker Hand History for Game 474340118 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:22:07
+Table Kharkiv 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: crowzen ( 2,28 $ )
+Seat 2: Adrirwin ( 2 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,81 $ )
+Seat 5: papa5grdkids ( 0,35 $ )
+Seat 6: B2B_Suckouts ( 2,22 $ )
+Seat 7: Bapiti10 ( 2,86 $ )
+Seat 9: mikeOmike ( 2 $ )
+Seat 10: darklaz_89 ( 0,98 $ )
+crowzen posts small blind [0,01 $]
+Adrirwin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 8Karo ]
+NiceToBeatU2 folds
+YASAV folds
+papa5grdkids calls [0,02 $]
+B2B_Suckouts calls [0,02 $]
+Bapiti10 folds
+mikeOmike folds
+darklaz_89 folds
+crowzen folds
+Adrirwin checks
+** Dealing flop ** [ 2Karo, 7Pik, 5Herz ]
+Adrirwin checks
+papa5grdkids checks
+B2B_Suckouts checks
+** Dealing turn ** [ 9Kreuz ]
+Adrirwin checks
+papa5grdkids checks
+B2B_Suckouts checks
+** Dealing river ** [ 6Karo ]
+Adrirwin checks
+papa5grdkids checks
+B2B_Suckouts bets [0,08 $]
+Adrirwin folds
+papa5grdkids calls [0,08 $]
+** Summary **
+B2B_Suckouts shows [ KKaro, 8Karo ]
+papa5grdkids mucks [ AHerz, QHerz ]
+B2B_Suckouts collected [ 0,22 $ ]
+
+
+
+#Game No : 474340186
+***** 888poker Hand History for Game 474340186 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:23:38
+Table Kharkiv 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: crowzen ( 2,27 $ )
+Seat 2: Adrirwin ( 1,98 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,81 $ )
+Seat 5: papa5grdkids ( 0,25 $ )
+Seat 6: B2B_Suckouts ( 2,34 $ )
+Seat 7: Bapiti10 ( 2,86 $ )
+Seat 9: mikeOmike ( 2 $ )
+Seat 10: darklaz_89 ( 0,98 $ )
+Adrirwin posts small blind [0,01 $]
+NiceToBeatU2 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 6Kreuz ]
+YASAV folds
+papa5grdkids folds
+B2B_Suckouts folds
+Bapiti10 folds
+mikeOmike raises [0,06 $]
+darklaz_89 folds
+crowzen folds
+Adrirwin calls [0,05 $]
+NiceToBeatU2 folds
+** Dealing flop ** [ 7Pik, 7Kreuz, 5Pik ]
+Adrirwin checks
+mikeOmike checks
+** Dealing turn ** [ 3Herz ]
+Adrirwin checks
+mikeOmike checks
+** Dealing river ** [ 6Pik ]
+Adrirwin checks
+mikeOmike checks
+** Summary **
+Adrirwin shows [ 10Kreuz, KKreuz ]
+mikeOmike shows [ AHerz, 10Pik ]
+mikeOmike collected [ 0,14 $ ]
+
+
+
+#Game No : 474340234
+***** 888poker Hand History for Game 474340234 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:24:46
+Table Kharkiv 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: crowzen ( 2,27 $ )
+Seat 2: Adrirwin ( 1,92 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,81 $ )
+Seat 6: B2B_Suckouts ( 2,34 $ )
+Seat 7: Bapiti10 ( 2,86 $ )
+Seat 9: mikeOmike ( 2,08 $ )
+Seat 10: darklaz_89 ( 0,98 $ )
+NiceToBeatU2 posts small blind [0,01 $]
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, 8Pik ]
+B2B_Suckouts folds
+Bapiti10 raises [0,06 $]
+mikeOmike folds
+darklaz_89 folds
+crowzen folds
+Adrirwin folds
+NiceToBeatU2 folds
+YASAV folds
+** Summary **
+Bapiti10 collected [ 0,05 $ ]
+
+
+
+#Game No : 474340276
+***** 888poker Hand History for Game 474340276 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:25:36
+Table Kharkiv 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: crowzen ( 2,27 $ )
+Seat 2: Adrirwin ( 1,92 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,80 $ )
+Seat 5: BlackOrWhite ( 2 $ )
+Seat 6: B2B_Suckouts ( 2,34 $ )
+Seat 7: Bapiti10 ( 2,89 $ )
+Seat 9: mikeOmike ( 2,08 $ )
+Seat 10: darklaz_89 ( 0,98 $ )
+YASAV posts small blind [0,01 $]
+BlackOrWhite posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, KPik ]
+B2B_Suckouts raises [0,06 $]
+Bapiti10 folds
+mikeOmike folds
+darklaz_89 folds
+crowzen folds
+Adrirwin folds
+NiceToBeatU2 folds
+YASAV folds
+BlackOrWhite calls [0,04 $]
+** Dealing flop ** [ 5Kreuz, 10Herz, 7Pik ]
+BlackOrWhite checks
+B2B_Suckouts checks
+** Dealing turn ** [ 8Pik ]
+BlackOrWhite checks
+B2B_Suckouts bets [0,06 $]
+BlackOrWhite calls [0,06 $]
+** Dealing river ** [ 2Kreuz ]
+BlackOrWhite checks
+B2B_Suckouts bets [0,26 $]
+BlackOrWhite folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,24 $ ]
+
+
+
+#Game No : 474340329
+***** 888poker Hand History for Game 474340329 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 03 02 2020 21:26:51
+Table Kharkiv 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: crowzen ( 2,27 $ )
+Seat 2: Adrirwin ( 1,92 $ )
+Seat 3: NiceToBeatU2 ( 2 $ )
+Seat 4: YASAV ( 0,80 $ )
+Seat 5: BlackOrWhite ( 1,88 $ )
+Seat 6: B2B_Suckouts ( 2,46 $ )
+Seat 7: Bapiti10 ( 2,89 $ )
+Seat 9: mikeOmike ( 2,08 $ )
+Seat 10: darklaz_89 ( 0,98 $ )
+BlackOrWhite posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 3Karo ]
+Bapiti10 folds
+mikeOmike folds
+darklaz_89 raises [0,06 $]
+crowzen folds
+Adrirwin folds
+NiceToBeatU2 folds
+YASAV folds
+BlackOrWhite folds
+B2B_Suckouts folds
+** Summary **
+darklaz_89 did not show his hand
+darklaz_89 collected [ 0,05 $ ]
+
+
+
