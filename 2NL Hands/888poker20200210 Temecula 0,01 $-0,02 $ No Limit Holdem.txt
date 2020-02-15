@@ -1,0 +1,2329 @@
+#Game No : 474616526
+***** 888poker Hand History for Game 474616526 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:30:26
+Table Temecula 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: ahtoh24 ( 1,59 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,12 $ )
+Seat 4: rlogiudice ( 2,65 $ )
+Seat 5: Kotalin ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2 $ )
+Seat 10: Herthafan59 ( 2,84 $ )
+Kotalin posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 8Kreuz ]
+ubetifold15 folds
+Herthafan59 folds
+ahtoh24 folds
+ForFun85 folds
+K1ngBac raises [0,06 $]
+rlogiudice folds
+Kotalin folds
+B2B_Suckouts folds
+** Summary **
+K1ngBac collected [ 0,05 $ ]
+
+
+
+#Game No : 474616545
+***** 888poker Hand History for Game 474616545 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:30:51
+Table Temecula 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: ahtoh24 ( 1,59 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,15 $ )
+Seat 4: rlogiudice ( 2,65 $ )
+Seat 5: Kotalin ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2 $ )
+Seat 10: Herthafan59 ( 2,84 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, KKaro ]
+Herthafan59 folds
+ahtoh24 folds
+ForFun85 folds
+K1ngBac folds
+rlogiudice folds
+Kotalin folds
+B2B_Suckouts folds
+** Summary **
+ubetifold15 collected [ 0,03 $ ]
+
+
+
+#Game No : 474616568
+***** 888poker Hand History for Game 474616568 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:31:21
+Table Temecula 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: ahtoh24 ( 1,59 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,15 $ )
+Seat 4: rlogiudice ( 2,65 $ )
+Seat 5: Kotalin ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,01 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: Herthafan59 ( 2,84 $ )
+ubetifold15 posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 8Kreuz ]
+Herthafan59 raises [0,06 $]
+ahtoh24 folds
+ForFun85 folds
+K1ngBac folds
+rlogiudice raises [0,18 $]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+gimeurchips folds
+Herthafan59 folds
+** Summary **
+rlogiudice did not show his hand
+rlogiudice collected [ 0,15 $ ]
+
+
+
+#Game No : 474616588
+***** 888poker Hand History for Game 474616588 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:31:51
+Table Temecula 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: ahtoh24 ( 1,59 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,15 $ )
+Seat 4: rlogiudice ( 2,74 $ )
+Seat 5: Kotalin ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: Herthafan59 ( 2,78 $ )
+gimeurchips posts small blind [0,01 $]
+Herthafan59 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, AHerz ]
+ahtoh24 raises [0,04 $]
+ForFun85 folds
+K1ngBac folds
+rlogiudice folds
+Kotalin folds
+B2B_Suckouts calls [0,04 $]
+ubetifold15 calls [0,04 $]
+gimeurchips folds
+Herthafan59 calls [0,02 $]
+** Dealing flop ** [ 9Karo, AKreuz, JKreuz ]
+Herthafan59 checks
+ahtoh24 checks
+B2B_Suckouts bets [0,05 $]
+ubetifold15 calls [0,05 $]
+Herthafan59 folds
+ahtoh24 calls [0,05 $]
+** Dealing turn ** [ KKreuz ]
+ahtoh24 checks
+B2B_Suckouts checks
+ubetifold15 bets [0,12 $]
+ahtoh24 calls [0,12 $]
+B2B_Suckouts calls [0,12 $]
+** Dealing river ** [ 8Kreuz ]
+ahtoh24 bets [0,14 $]
+B2B_Suckouts folds
+ubetifold15 calls [0,14 $]
+** Summary **
+ahtoh24 shows [ 10Karo, 10Kreuz ]
+ubetifold15 shows [ KKaro, QKreuz ]
+ubetifold15 collected [ 0,90 $ ]
+
+
+
+#Game No : 474616648
+***** 888poker Hand History for Game 474616648 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:33:11
+Table Temecula 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: ahtoh24 ( 1,24 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,15 $ )
+Seat 4: rlogiudice ( 2,74 $ )
+Seat 5: Kotalin ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,55 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: Herthafan59 ( 2,74 $ )
+Herthafan59 posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, QKreuz ]
+ForFun85 folds
+K1ngBac folds
+rlogiudice folds
+Kotalin folds
+B2B_Suckouts raises [0,06 $]
+ubetifold15 folds
+gimeurchips folds
+Herthafan59 folds
+ahtoh24 calls [0,04 $]
+** Dealing flop ** [ 2Pik, 2Herz, 5Pik ]
+ahtoh24 checks
+B2B_Suckouts bets [0,02 $]
+ahtoh24 calls [0,02 $]
+** Dealing turn ** [ 4Kreuz ]
+ahtoh24 checks
+B2B_Suckouts bets [0,08 $]
+ahtoh24 raises [0,16 $]
+B2B_Suckouts folds
+** Summary **
+ahtoh24 did not show his hand
+ahtoh24 collected [ 0,31 $ ]
+
+
+
+#Game No : 474616669
+***** 888poker Hand History for Game 474616669 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:33:49
+Table Temecula 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: ahtoh24 ( 1,39 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,15 $ )
+Seat 5: Kotalin ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,55 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: Herthafan59 ( 2,73 $ )
+ahtoh24 posts small blind [0,01 $]
+ForFun85 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, AHerz ]
+K1ngBac raises [0,06 $]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+gimeurchips folds
+Herthafan59 folds
+ahtoh24 folds
+ForFun85 folds
+** Summary **
+K1ngBac did not show his hand
+K1ngBac collected [ 0,05 $ ]
+
+
+
+#Game No : 474616707
+***** 888poker Hand History for Game 474616707 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:34:27
+Table Temecula 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: ahtoh24 ( 1,38 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,18 $ )
+Seat 5: Kotalin ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,55 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: Herthafan59 ( 2,73 $ )
+ForFun85 posts small blind [0,01 $]
+K1ngBac posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 2Herz ]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+gimeurchips folds
+Herthafan59 folds
+ahtoh24 folds
+ForFun85 folds
+** Summary **
+K1ngBac did not show his hand
+K1ngBac collected [ 0,03 $ ]
+
+
+
+#Game No : 474616726
+***** 888poker Hand History for Game 474616726 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:34:55
+Table Temecula 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: ahtoh24 ( 1,38 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,19 $ )
+Seat 5: Kotalin ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,55 $ )
+Seat 9: gimeurchips ( 2 $ )
+Seat 10: Herthafan59 ( 2,73 $ )
+K1ngBac posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, QKaro ]
+B2B_Suckouts folds
+ubetifold15 raises [0,06 $]
+gimeurchips folds
+Herthafan59 folds
+ahtoh24 folds
+ForFun85 folds
+K1ngBac calls [0,05 $]
+Kotalin calls [0,04 $]
+** Dealing flop ** [ 2Pik, JKaro, 5Herz ]
+K1ngBac checks
+Kotalin checks
+ubetifold15 bets [0,12 $]
+K1ngBac folds
+Kotalin folds
+** Summary **
+ubetifold15 did not show his hand
+ubetifold15 collected [ 0,17 $ ]
+
+
+
+#Game No : 474616772
+***** 888poker Hand History for Game 474616772 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:35:52
+Table Temecula 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: ahtoh24 ( 1,38 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,13 $ )
+Seat 5: Kotalin ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,66 $ )
+Seat 9: gimeurchips ( 2 $ )
+Kotalin posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 5Kreuz ]
+ubetifold15 folds
+gimeurchips folds
+ahtoh24 folds
+ForFun85 folds
+K1ngBac folds
+Kotalin raises [0,05 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ QPik, KHerz, 7Pik ]
+Kotalin bets [0,08 $]
+B2B_Suckouts folds
+** Summary **
+Kotalin did not show his hand
+Kotalin collected [ 0,12 $ ]
+
+
+
+#Game No : 474616791
+***** 888poker Hand History for Game 474616791 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:36:17
+Table Temecula 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: ahtoh24 ( 1,38 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,13 $ )
+Seat 5: Kotalin ( 2,06 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,66 $ )
+Seat 9: gimeurchips ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 8Herz ]
+gimeurchips folds
+ahtoh24 folds
+ForFun85 folds
+K1ngBac folds
+Kotalin raises [0,05 $]
+B2B_Suckouts folds
+ubetifold15 folds
+** Summary **
+Kotalin did not show his hand
+Kotalin collected [ 0,05 $ ]
+
+
+
+#Game No : 474616814
+***** 888poker Hand History for Game 474616814 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:36:42
+Table Temecula 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: ahtoh24 ( 1,38 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,13 $ )
+Seat 5: Kotalin ( 2,09 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,64 $ )
+ubetifold15 posts small blind [0,01 $]
+ahtoh24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 3Pik ]
+ForFun85 folds
+K1ngBac folds
+Kotalin calls [0,02 $]
+B2B_Suckouts folds
+ubetifold15 calls [0,01 $]
+ahtoh24 checks
+** Dealing flop ** [ AKreuz, JHerz, 9Herz ]
+ubetifold15 checks
+ahtoh24 checks
+Kotalin bets [0,04 $]
+ubetifold15 folds
+ahtoh24 folds
+** Summary **
+Kotalin collected [ 0,06 $ ]
+
+
+
+#Game No : 474616841
+***** 888poker Hand History for Game 474616841 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:37:16
+Table Temecula 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: ahtoh24 ( 1,36 $ )
+Seat 2: ForFun85 ( 2 $ )
+Seat 3: K1ngBac ( 3,13 $ )
+Seat 4: Arush88 ( 2 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,62 $ )
+ahtoh24 posts small blind [0,01 $]
+ForFun85 folds
+K1ngBac posts big blind [0,02 $]
+Arush88 folds
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 5Pik ]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+ahtoh24 calls [0,01 $]
+K1ngBac checks
+** Dealing flop ** [ 8Herz, 9Kreuz, APik ]
+ahtoh24 checks
+K1ngBac bets [0,02 $]
+ahtoh24 calls [0,02 $]
+** Dealing turn ** [ JKaro ]
+ahtoh24 checks
+K1ngBac bets [0,04 $]
+ahtoh24 folds
+** Summary **
+K1ngBac collected [ 0,08 $ ]
+
+
+
+#Game No : 474616886
+***** 888poker Hand History for Game 474616886 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:38:20
+Table Temecula 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: ahtoh24 ( 1,32 $ )
+Seat 3: K1ngBac ( 3,17 $ )
+Seat 4: Arush88 ( 2 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,62 $ )
+K1ngBac posts small blind [0,01 $]
+Arush88 folds
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 2Karo ]
+B2B_Suckouts folds
+ubetifold15 folds
+ahtoh24 folds
+K1ngBac folds
+** Summary **
+Kotalin collected [ 0,03 $ ]
+
+
+
+#Game No : 474616899
+***** 888poker Hand History for Game 474616899 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:38:40
+Table Temecula 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 5
+Seat 1: ahtoh24 ( 1,32 $ )
+Seat 3: K1ngBac ( 3,16 $ )
+Seat 5: Kotalin ( 2,14 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,62 $ )
+Kotalin posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 9Karo ]
+ubetifold15 folds
+ahtoh24 folds
+K1ngBac folds
+Kotalin folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474616914
+***** 888poker Hand History for Game 474616914 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:38:54
+Table Temecula 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 5
+Seat 1: ahtoh24 ( 1,32 $ )
+Seat 3: K1ngBac ( 3,16 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2,01 $ )
+Seat 7: ubetifold15 ( 2,62 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, JPik ]
+ahtoh24 folds
+K1ngBac folds
+Kotalin folds
+B2B_Suckouts folds
+** Summary **
+ubetifold15 collected [ 0,03 $ ]
+
+
+
+#Game No : 474616925
+***** 888poker Hand History for Game 474616925 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:39:13
+Table Temecula 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: ahtoh24 ( 1,32 $ )
+Seat 3: K1ngBac ( 3,16 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,63 $ )
+Seat 9: Behhe ( 2 $ )
+ubetifold15 posts small blind [0,01 $]
+Behhe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 6Herz ]
+ahtoh24 folds
+K1ngBac folds
+Kotalin raises [0,05 $]
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+** Summary **
+Kotalin collected [ 0,05 $ ]
+
+
+
+#Game No : 474616965
+***** 888poker Hand History for Game 474616965 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:39:56
+Table Temecula 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: ahtoh24 ( 1,32 $ )
+Seat 3: K1ngBac ( 3,16 $ )
+Seat 5: Kotalin ( 2,16 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,62 $ )
+Seat 9: Behhe ( 2 $ )
+Seat 10: iJohnny ( 2 $ )
+Behhe posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 4Pik ]
+ahtoh24 folds
+K1ngBac folds
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe raises [0,05 $]
+iJohnny calls [0,04 $]
+** Dealing flop ** [ 4Kreuz, 3Kreuz, 8Herz ]
+Behhe checks
+iJohnny checks
+** Dealing turn ** [ 8Pik ]
+Behhe bets [0,11 $]
+iJohnny folds
+** Summary **
+Behhe collected [ 0,12 $ ]
+
+
+
+#Game No : 474617016
+***** 888poker Hand History for Game 474617016 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:40:59
+Table Temecula 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: Yank9000 ( 2 $ )
+Seat 3: K1ngBac ( 3,16 $ )
+Seat 5: Kotalin ( 2,16 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,62 $ )
+Seat 9: Behhe ( 2,06 $ )
+Seat 10: iJohnny ( 2 $ )
+iJohnny posts small blind [0,01 $]
+Yank9000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 9Karo ]
+K1ngBac folds
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 raises [0,06 $]
+Behhe folds
+iJohnny calls [0,05 $]
+Yank9000 calls [0,04 $]
+** Dealing flop ** [ 7Kreuz, 7Karo, 3Karo ]
+iJohnny checks
+Yank9000 checks
+ubetifold15 checks
+** Dealing turn ** [ KHerz ]
+iJohnny checks
+Yank9000 checks
+ubetifold15 bets [0,05 $]
+iJohnny calls [0,05 $]
+Yank9000 folds
+** Dealing river ** [ 10Kreuz ]
+iJohnny checks
+ubetifold15 bets [0,06 $]
+iJohnny calls [0,06 $]
+** Summary **
+ubetifold15 shows [ AHerz, 10Herz ]
+iJohnny shows [ QKreuz, KKaro ]
+iJohnny collected [ 0,38 $ ]
+
+
+
+#Game No : 474617080
+***** 888poker Hand History for Game 474617080 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:42:27
+Table Temecula 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: Yank9000 ( 2 $ )
+Seat 3: K1ngBac ( 3,16 $ )
+Seat 5: Kotalin ( 2,16 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,45 $ )
+Seat 9: Behhe ( 2,06 $ )
+Seat 10: iJohnny ( 2,21 $ )
+Yank9000 posts small blind [0,01 $]
+K1ngBac posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 9Karo ]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 raises [0,06 $]
+Behhe folds
+iJohnny folds
+Yank9000 calls [0,05 $]
+K1ngBac folds
+** Dealing flop ** [ APik, 3Herz, 3Kreuz ]
+Yank9000 checks
+ubetifold15 bets [0,07 $]
+Yank9000 folds
+** Summary **
+ubetifold15 collected [ 0,14 $ ]
+
+
+
+#Game No : 474617112
+***** 888poker Hand History for Game 474617112 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:43:10
+Table Temecula 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: Yank9000 ( 2 $ )
+Seat 3: K1ngBac ( 3,14 $ )
+Seat 5: Kotalin ( 2,16 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,53 $ )
+Seat 9: Behhe ( 2,06 $ )
+Seat 10: iJohnny ( 2,21 $ )
+K1ngBac posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 9Herz ]
+B2B_Suckouts raises [0,06 $]
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+Yank9000 folds
+K1ngBac calls [0,05 $]
+Kotalin folds
+** Dealing flop ** [ QPik, QHerz, 4Pik ]
+K1ngBac checks
+B2B_Suckouts bets [0,04 $]
+K1ngBac calls [0,04 $]
+** Dealing turn ** [ 7Karo ]
+K1ngBac checks
+B2B_Suckouts checks
+** Dealing river ** [ 8Karo ]
+K1ngBac bets [0,11 $]
+B2B_Suckouts calls [0,11 $]
+** Summary **
+K1ngBac shows [ 9Pik, 8Pik ]
+B2B_Suckouts shows [ 9Karo, 9Herz ]
+B2B_Suckouts collected [ 0,42 $ ]
+
+
+
+#Game No : 474617154
+***** 888poker Hand History for Game 474617154 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:44:12
+Table Temecula 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: Yank9000 ( 2 $ )
+Seat 3: K1ngBac ( 2,93 $ )
+Seat 5: Kotalin ( 2,14 $ )
+Seat 6: B2B_Suckouts ( 2,21 $ )
+Seat 7: ubetifold15 ( 2,53 $ )
+Seat 9: Behhe ( 2,06 $ )
+Seat 10: iJohnny ( 2,21 $ )
+Kotalin posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, QPik ]
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+Yank9000 folds
+K1ngBac raises [0,06 $]
+Kotalin folds
+B2B_Suckouts folds
+** Summary **
+K1ngBac collected [ 0,05 $ ]
+
+
+
+#Game No : 474617169
+***** 888poker Hand History for Game 474617169 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:44:35
+Table Temecula 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: Yank9000 ( 2 $ )
+Seat 3: K1ngBac ( 2,96 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2,19 $ )
+Seat 7: ubetifold15 ( 2,53 $ )
+Seat 9: Behhe ( 2,06 $ )
+Seat 10: iJohnny ( 2,21 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 3Herz ]
+Behhe raises [0,08 $]
+iJohnny folds
+Yank9000 folds
+K1ngBac folds
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+** Summary **
+Behhe collected [ 0,05 $ ]
+
+
+
+#Game No : 474617190
+***** 888poker Hand History for Game 474617190 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:44:59
+Table Temecula 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: Yank9000 ( 2 $ )
+Seat 3: K1ngBac ( 2,96 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: ubetifold15 ( 2,51 $ )
+Seat 9: Behhe ( 2,09 $ )
+Seat 10: iJohnny ( 2,21 $ )
+ubetifold15 posts small blind [0,01 $]
+Behhe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, QPik ]
+iJohnny folds
+Yank9000 raises [0,06 $]
+K1ngBac folds
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe calls [0,04 $]
+** Dealing flop ** [ 5Karo, QHerz, 7Kreuz ]
+Behhe checks
+Yank9000 checks
+** Dealing turn ** [ KHerz ]
+Behhe checks
+Yank9000 bets [0,06 $]
+Behhe raises [0,21 $]
+Yank9000 folds
+** Summary **
+Behhe collected [ 0,24 $ ]
+
+
+
+#Game No : 474617240
+***** 888poker Hand History for Game 474617240 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:46:10
+Table Temecula 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: Yank9000 ( 2 $ )
+Seat 3: K1ngBac ( 2,96 $ )
+Seat 4: osogovo909 ( 0,80 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: ubetifold15 ( 2,50 $ )
+Seat 9: Behhe ( 2,21 $ )
+Seat 10: iJohnny ( 2,21 $ )
+Behhe posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+osogovo909 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 2Pik ]
+Yank9000 raises [0,08 $]
+K1ngBac folds
+osogovo909 folds
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+** Summary **
+Yank9000 collected [ 0,07 $ ]
+
+
+
+#Game No : 474617271
+***** 888poker Hand History for Game 474617271 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:46:49
+Table Temecula 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: K1ngBac ( 2,96 $ )
+Seat 4: osogovo909 ( 0,78 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: ubetifold15 ( 2,50 $ )
+Seat 9: Behhe ( 2,20 $ )
+Seat 10: iJohnny ( 2,19 $ )
+iJohnny posts small blind [0,01 $]
+dirtydenKell posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 4Pik ]
+Yank9000 folds
+K1ngBac folds
+osogovo909 calls [0,02 $]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+dirtydenKell checks
+** Dealing flop ** [ 8Pik, 2Herz, KHerz ]
+dirtydenKell checks
+osogovo909 bets [0,04 $]
+dirtydenKell calls [0,04 $]
+** Dealing turn ** [ 2Kreuz ]
+dirtydenKell checks
+osogovo909 bets [0,04 $]
+dirtydenKell calls [0,04 $]
+** Dealing river ** [ AKaro ]
+dirtydenKell checks
+osogovo909 checks
+** Summary **
+dirtydenKell shows [ KKreuz, 4Kreuz ]
+osogovo909 shows [ KKaro, 10Herz ]
+osogovo909 collected [ 0,10 $ ]
+dirtydenKell collected [ 0,10 $ ]
+
+
+
+#Game No : 474617295
+***** 888poker Hand History for Game 474617295 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:47:32
+Table Temecula 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: K1ngBac ( 2,96 $ )
+Seat 4: osogovo909 ( 0,78 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: ubetifold15 ( 2,50 $ )
+Seat 9: Behhe ( 2,20 $ )
+Seat 10: iJohnny ( 2,18 $ )
+dirtydenKell posts small blind [0,01 $]
+Yank9000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 10Karo ]
+K1ngBac folds
+osogovo909 folds
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe raises [0,08 $]
+iJohnny calls [0,08 $]
+dirtydenKell folds
+Yank9000 folds
+** Dealing flop ** [ 7Karo, 10Herz, 6Karo ]
+Behhe checks
+iJohnny checks
+** Dealing turn ** [ AKaro ]
+Behhe bets [0,12 $]
+iJohnny folds
+** Summary **
+Behhe collected [ 0,18 $ ]
+
+
+
+#Game No : 474617331
+***** 888poker Hand History for Game 474617331 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:48:21
+Table Temecula 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 1,99 $ )
+Seat 2: Yank9000 ( 2,03 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,78 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: ubetifold15 ( 2,50 $ )
+Seat 9: Behhe ( 2,30 $ )
+Seat 10: iJohnny ( 2,10 $ )
+Yank9000 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 10Herz ]
+osogovo909 folds
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 calls [0,01 $]
+Despol checks
+** Dealing flop ** [ 3Kreuz, 5Herz, KKreuz ]
+Yank9000 checks
+Despol checks
+** Dealing turn ** [ AHerz ]
+Yank9000 checks
+Despol checks
+** Dealing river ** [ 9Pik ]
+Yank9000 checks
+Despol checks
+** Summary **
+Yank9000 shows [ 10Pik, QKaro ]
+Despol mucks [ 2Kreuz, 8Karo ]
+Yank9000 collected [ 0,04 $ ]
+
+
+
+#Game No : 474617358
+***** 888poker Hand History for Game 474617358 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:49:14
+Table Temecula 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 1,99 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,78 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: ubetifold15 ( 2,50 $ )
+Seat 9: Behhe ( 2,30 $ )
+Seat 10: iJohnny ( 2,10 $ )
+Despol posts small blind [0,01 $]
+osogovo909 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 9Kreuz ]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+iJohnny raises [0,08 $]
+dirtydenKell calls [0,08 $]
+Yank9000 folds
+Despol folds
+osogovo909 folds
+** Dealing flop ** [ 2Herz, 2Pik, AHerz ]
+iJohnny bets [0,12 $]
+dirtydenKell folds
+** Summary **
+iJohnny did not show his hand
+iJohnny collected [ 0,18 $ ]
+
+
+
+#Game No : 474617399
+***** 888poker Hand History for Game 474617399 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:50:14
+Table Temecula 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 1,91 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,76 $ )
+Seat 5: Kotalin ( 2,13 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: ubetifold15 ( 2,50 $ )
+Seat 9: Behhe ( 2,30 $ )
+Seat 10: iJohnny ( 2,20 $ )
+osogovo909 posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 9Kreuz ]
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+dirtydenKell calls [0,02 $]
+Yank9000 folds
+Despol folds
+osogovo909 calls [0,01 $]
+Kotalin checks
+** Dealing flop ** [ 5Karo, AKaro, 10Pik ]
+osogovo909 bets [0,02 $]
+Kotalin folds
+dirtydenKell calls [0,02 $]
+** Dealing turn ** [ 2Herz ]
+osogovo909 bets [0,04 $]
+dirtydenKell calls [0,04 $]
+** Dealing river ** [ 5Pik ]
+osogovo909 checks
+dirtydenKell checks
+** Summary **
+osogovo909 shows [ 3Herz, KKaro ]
+dirtydenKell shows [ QKreuz, 10Karo ]
+dirtydenKell collected [ 0,17 $ ]
+
+
+
+#Game No : 474617441
+***** 888poker Hand History for Game 474617441 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:51:07
+Table Temecula 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,68 $ )
+Seat 5: Kotalin ( 2,11 $ )
+Seat 6: B2B_Suckouts ( 2,18 $ )
+Seat 7: ubetifold15 ( 2,50 $ )
+Seat 9: Behhe ( 2,30 $ )
+Seat 10: iJohnny ( 2,20 $ )
+Kotalin posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 10Pik ]
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 folds
+Kotalin folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474617469
+***** 888poker Hand History for Game 474617469 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:51:43
+Table Temecula 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,68 $ )
+Seat 5: Kotalin ( 2,10 $ )
+Seat 6: B2B_Suckouts ( 2,19 $ )
+Seat 7: ubetifold15 ( 2,50 $ )
+Seat 9: Behhe ( 2,30 $ )
+Seat 10: iJohnny ( 2,20 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 8Herz ]
+Behhe folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 folds
+Kotalin raises [0,05 $]
+B2B_Suckouts calls [0,04 $]
+ubetifold15 raises [0,22 $]
+Kotalin folds
+B2B_Suckouts folds
+** Summary **
+ubetifold15 did not show his hand
+ubetifold15 collected [ 0,15 $ ]
+
+
+
+#Game No : 474617489
+***** 888poker Hand History for Game 474617489 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:52:10
+Table Temecula 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,68 $ )
+Seat 5: Kotalin ( 2,05 $ )
+Seat 6: B2B_Suckouts ( 2,14 $ )
+Seat 7: ubetifold15 ( 2,60 $ )
+Seat 9: Behhe ( 2,30 $ )
+Seat 10: iJohnny ( 2,20 $ )
+ubetifold15 posts small blind [0,01 $]
+Behhe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 9Kreuz ]
+iJohnny folds
+dirtydenKell calls [0,02 $]
+Yank9000 folds
+Despol folds
+osogovo909 calls [0,02 $]
+Kotalin folds
+B2B_Suckouts raises [0,06 $]
+ubetifold15 raises [0,23 $]
+Behhe folds
+dirtydenKell calls [0,22 $]
+osogovo909 folds
+B2B_Suckouts folds
+** Dealing flop ** [ KKaro, 6Herz, 2Kreuz ]
+ubetifold15 checks
+dirtydenKell checks
+** Dealing turn ** [ 9Pik ]
+ubetifold15 bets [0,22 $]
+dirtydenKell calls [0,22 $]
+** Dealing river ** [ 5Herz ]
+ubetifold15 checks
+dirtydenKell checks
+** Summary **
+ubetifold15 shows [ JKaro, JKreuz ]
+dirtydenKell shows [ JHerz, KPik ]
+dirtydenKell collected [ 0,96 $ ]
+
+
+
+#Game No : 474617533
+***** 888poker Hand History for Game 474617533 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:53:05
+Table Temecula 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,50 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,66 $ )
+Seat 5: Kotalin ( 2,05 $ )
+Seat 6: B2B_Suckouts ( 2,08 $ )
+Seat 7: ubetifold15 ( 2,14 $ )
+Seat 9: Behhe ( 2,28 $ )
+Seat 10: iJohnny ( 2,20 $ )
+Behhe posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 8Pik ]
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 folds
+Kotalin raises [0,05 $]
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+** Summary **
+Kotalin did not show his hand
+Kotalin collected [ 0,05 $ ]
+
+
+
+#Game No : 474617572
+***** 888poker Hand History for Game 474617572 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:53:46
+Table Temecula 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,50 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,66 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2,08 $ )
+Seat 7: ubetifold15 ( 2,14 $ )
+Seat 9: Behhe ( 2,27 $ )
+Seat 10: iJohnny ( 2,18 $ )
+iJohnny posts small blind [0,01 $]
+dirtydenKell posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 7Kreuz ]
+Yank9000 folds
+Despol folds
+osogovo909 calls [0,02 $]
+Kotalin folds
+B2B_Suckouts raises [0,06 $]
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+dirtydenKell folds
+osogovo909 calls [0,04 $]
+** Dealing flop ** [ 5Herz, 4Kreuz, 2Kreuz ]
+osogovo909 checks
+B2B_Suckouts bets [0,07 $]
+osogovo909 calls [0,07 $]
+** Dealing turn ** [ KKaro ]
+osogovo909 checks
+B2B_Suckouts checks
+** Dealing river ** [ JHerz ]
+osogovo909 checks
+B2B_Suckouts checks
+** Summary **
+osogovo909 shows [ QPik, 3Pik ]
+B2B_Suckouts shows [ 7Karo, 7Kreuz ]
+B2B_Suckouts collected [ 0,28 $ ]
+
+
+
+#Game No : 474617621
+***** 888poker Hand History for Game 474617621 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:54:43
+Table Temecula 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,48 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,53 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2,23 $ )
+Seat 7: ubetifold15 ( 2,14 $ )
+Seat 9: Behhe ( 2,27 $ )
+Seat 10: iJohnny ( 2,17 $ )
+dirtydenKell posts small blind [0,01 $]
+Yank9000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 3Herz ]
+Despol folds
+osogovo909 calls [0,02 $]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+iJohnny raises [0,08 $]
+dirtydenKell calls [0,07 $]
+Yank9000 folds
+osogovo909 folds
+** Dealing flop ** [ 5Kreuz, 8Karo, 4Karo ]
+dirtydenKell checks
+iJohnny checks
+** Dealing turn ** [ 3Karo ]
+dirtydenKell checks
+iJohnny checks
+** Dealing river ** [ AKaro ]
+dirtydenKell checks
+iJohnny checks
+** Summary **
+dirtydenKell shows [ JPik, QKaro ]
+iJohnny mucks [ QKreuz, 10Pik ]
+dirtydenKell collected [ 0,19 $ ]
+
+
+
+#Game No : 474617700
+***** 888poker Hand History for Game 474617700 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:56:07
+Table Temecula 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,59 $ )
+Seat 2: Yank9000 ( 2,03 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,51 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2,23 $ )
+Seat 7: ubetifold15 ( 2,14 $ )
+Seat 9: Behhe ( 2,27 $ )
+Seat 10: iJohnny ( 2,09 $ )
+Yank9000 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, KPik ]
+osogovo909 calls [0,02 $]
+Kotalin folds
+B2B_Suckouts raises [0,06 $]
+ubetifold15 folds
+Behhe raises [0,20 $]
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol calls [0,18 $]
+osogovo909 folds
+B2B_Suckouts folds
+** Dealing flop ** [ QKaro, 5Karo, 6Herz ]
+Despol checks
+Behhe checks
+** Dealing turn ** [ QKreuz ]
+Despol checks
+Behhe bets [0,40 $]
+Despol folds
+** Summary **
+Behhe did not show his hand
+Behhe collected [ 0,46 $ ]
+
+
+
+#Game No : 474617771
+***** 888poker Hand History for Game 474617771 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:57:35
+Table Temecula 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,59 $ )
+Seat 2: Yank9000 ( 2,02 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,49 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2,17 $ )
+Seat 7: ubetifold15 ( 2,14 $ )
+Seat 9: Behhe ( 2,53 $ )
+Seat 10: iJohnny ( 2,09 $ )
+Despol posts small blind [0,01 $]
+osogovo909 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, JHerz ]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 raises [0,06 $]
+Despol folds
+osogovo909 folds
+** Summary **
+Yank9000 did not show his hand
+Yank9000 collected [ 0,05 $ ]
+
+
+
+#Game No : 474617793
+***** 888poker Hand History for Game 474617793 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:58:03
+Table Temecula 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,59 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,47 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2,17 $ )
+Seat 7: ubetifold15 ( 2,14 $ )
+Seat 9: Behhe ( 2,53 $ )
+Seat 10: iJohnny ( 2,09 $ )
+osogovo909 posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 10Herz ]
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 folds
+** Summary **
+Kotalin did not show his hand
+Kotalin collected [ 0,03 $ ]
+
+
+
+#Game No : 474617805
+***** 888poker Hand History for Game 474617805 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:58:16
+Table Temecula 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,59 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,46 $ )
+Seat 5: Kotalin ( 2,09 $ )
+Seat 6: B2B_Suckouts ( 2,17 $ )
+Seat 7: ubetifold15 ( 2,14 $ )
+Seat 9: Behhe ( 2,53 $ )
+Seat 10: iJohnny ( 2,09 $ )
+Kotalin posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, KHerz ]
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 raises [0,06 $]
+Kotalin folds
+B2B_Suckouts folds
+** Summary **
+osogovo909 did not show his hand
+osogovo909 collected [ 0,05 $ ]
+
+
+
+#Game No : 474617836
+***** 888poker Hand History for Game 474617836 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:58:52
+Table Temecula 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,59 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,49 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2,15 $ )
+Seat 7: ubetifold15 ( 2,14 $ )
+Seat 9: Behhe ( 2,53 $ )
+Seat 10: iJohnny ( 2,09 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 4Karo ]
+Behhe folds
+iJohnny raises [0,08 $]
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 folds
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+** Summary **
+iJohnny did not show his hand
+iJohnny collected [ 0,05 $ ]
+
+
+
+#Game No : 474617855
+***** 888poker Hand History for Game 474617855 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 20:59:17
+Table Temecula 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,59 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,49 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2,14 $ )
+Seat 7: ubetifold15 ( 2,12 $ )
+Seat 9: Behhe ( 2,53 $ )
+Seat 10: iJohnny ( 2,12 $ )
+ubetifold15 posts small blind [0,01 $]
+Behhe posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, QKreuz ]
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 folds
+Kotalin folds
+B2B_Suckouts raises [0,06 $]
+ubetifold15 calls [0,05 $]
+Behhe raises [0,28 $]
+B2B_Suckouts calls [0,24 $]
+ubetifold15 folds
+** Dealing flop ** [ 5Pik, 9Pik, 4Kreuz ]
+Behhe checks
+B2B_Suckouts checks
+** Dealing turn ** [ 2Kreuz ]
+Behhe bets [0,43 $]
+B2B_Suckouts folds
+** Summary **
+Behhe did not show his hand
+Behhe collected [ 0,62 $ ]
+
+
+
+#Game No : 474617914
+***** 888poker Hand History for Game 474617914 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:00:27
+Table Temecula 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,59 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,49 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,06 $ )
+Seat 9: Behhe ( 2,85 $ )
+Seat 10: iJohnny ( 2,12 $ )
+Behhe posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 7Karo ]
+dirtydenKell folds
+Yank9000 folds
+Despol raises [0,06 $]
+osogovo909 folds
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe folds
+iJohnny folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,05 $ ]
+
+
+
+#Game No : 474617938
+***** 888poker Hand History for Game 474617938 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:00:58
+Table Temecula 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,59 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2,03 $ )
+Seat 4: osogovo909 ( 0,49 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,06 $ )
+Seat 9: Behhe ( 2,84 $ )
+Seat 10: iJohnny ( 2,10 $ )
+iJohnny posts small blind [0,01 $]
+dirtydenKell posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 2Herz ]
+Yank9000 folds
+Despol folds
+osogovo909 calls [0,02 $]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe raises [0,08 $]
+iJohnny folds
+dirtydenKell calls [0,06 $]
+osogovo909 calls [0,06 $]
+** Dealing flop ** [ 10Karo, 6Karo, JKaro ]
+dirtydenKell checks
+osogovo909 checks
+Behhe checks
+** Dealing turn ** [ 5Pik ]
+dirtydenKell checks
+osogovo909 checks
+Behhe bets [0,16 $]
+dirtydenKell folds
+osogovo909 folds
+** Summary **
+Behhe did not show his hand
+Behhe collected [ 0,24 $ ]
+
+
+
+#Game No : 474618018
+***** 888poker Hand History for Game 474618018 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:02:19
+Table Temecula 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,51 $ )
+Seat 2: Yank9000 ( 2,05 $ )
+Seat 3: Despol ( 2,03 $ )
+Seat 4: osogovo909 ( 0,41 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,06 $ )
+Seat 9: Behhe ( 3 $ )
+Seat 10: iJohnny ( 2,09 $ )
+dirtydenKell posts small blind [0,01 $]
+Yank9000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, JKreuz ]
+Despol folds
+osogovo909 calls [0,02 $]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+Behhe raises [0,08 $]
+iJohnny folds
+dirtydenKell folds
+Yank9000 calls [0,06 $]
+osogovo909 calls [0,06 $]
+** Dealing flop ** [ QKreuz, QKaro, KKreuz ]
+Yank9000 checks
+osogovo909 checks
+Behhe checks
+** Dealing turn ** [ JHerz ]
+Yank9000 checks
+osogovo909 checks
+Behhe checks
+** Dealing river ** [ 9Kreuz ]
+Yank9000 bets [0,08 $]
+osogovo909 folds
+Behhe folds
+** Summary **
+Yank9000 did not show his hand
+Yank9000 collected [ 0,24 $ ]
+
+
+
+#Game No : 474618078
+***** 888poker Hand History for Game 474618078 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:03:34
+Table Temecula 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,50 $ )
+Seat 2: Yank9000 ( 2,21 $ )
+Seat 3: Despol ( 2,03 $ )
+Seat 4: osogovo909 ( 0,33 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,06 $ )
+Seat 10: iJohnny ( 2,09 $ )
+Yank9000 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 4Karo ]
+osogovo909 calls [0,02 $]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+iJohnny raises [0,08 $]
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 calls [0,06 $]
+** Dealing flop ** [ 7Karo, 9Karo, JKaro ]
+osogovo909 checks
+iJohnny bets [0,12 $]
+osogovo909 raises [0,25 $]
+iJohnny calls [0,13 $]
+** Dealing turn ** [ 3Karo ]
+** Dealing river ** [ 7Kreuz ]
+** Summary **
+osogovo909 shows [ 7Pik, AKreuz ]
+iJohnny shows [ QPik, JPik ]
+osogovo909 collected [ 0,65 $ ]
+
+
+
+#Game No : 474618112
+***** 888poker Hand History for Game 474618112 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:04:15
+Table Temecula 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,50 $ )
+Seat 2: Yank9000 ( 2,20 $ )
+Seat 3: Despol ( 2,01 $ )
+Seat 4: osogovo909 ( 0,65 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,06 $ )
+Seat 10: iJohnny ( 2 $ )
+Despol posts small blind [0,01 $]
+osogovo909 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 10Pik ]
+Kotalin folds
+B2B_Suckouts folds
+ubetifold15 folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 raises [0,06 $]
+Despol calls [0,05 $]
+osogovo909 folds
+** Dealing flop ** [ KHerz, KKaro, JPik ]
+Despol checks
+Yank9000 checks
+** Dealing turn ** [ JHerz ]
+Despol checks
+Yank9000 bets [0,07 $]
+Despol folds
+** Summary **
+Yank9000 collected [ 0,14 $ ]
+
+
+
+#Game No : 474618170
+***** 888poker Hand History for Game 474618170 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:05:27
+Table Temecula 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,50 $ )
+Seat 2: Yank9000 ( 2,28 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,63 $ )
+Seat 5: Kotalin ( 2,08 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,06 $ )
+Seat 10: iJohnny ( 2 $ )
+osogovo909 posts small blind [0,01 $]
+Kotalin posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 4Herz ]
+B2B_Suckouts folds
+ubetifold15 folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 folds
+** Summary **
+Kotalin collected [ 0,03 $ ]
+
+
+
+#Game No : 474618183
+***** 888poker Hand History for Game 474618183 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:05:44
+Table Temecula 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,50 $ )
+Seat 2: Yank9000 ( 2,28 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,62 $ )
+Seat 5: Kotalin ( 2,09 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,06 $ )
+Seat 10: iJohnny ( 2 $ )
+Kotalin posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, JHerz ]
+ubetifold15 folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 folds
+Kotalin folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474618202
+***** 888poker Hand History for Game 474618202 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:06:04
+Table Temecula 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,50 $ )
+Seat 2: Yank9000 ( 2,28 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,62 $ )
+Seat 6: B2B_Suckouts ( 2,01 $ )
+Seat 7: ubetifold15 ( 2,06 $ )
+Seat 9: TeeJay911 ( 2 $ )
+Seat 10: iJohnny ( 2 $ )
+ubetifold15 posts small blind [0,01 $]
+TeeJay911 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 7Pik ]
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+ubetifold15 raises [0,17 $]
+TeeJay911 folds
+osogovo909 folds
+B2B_Suckouts folds
+** Summary **
+ubetifold15 did not show his hand
+ubetifold15 collected [ 0,16 $ ]
+
+
+
+#Game No : 474618235
+***** 888poker Hand History for Game 474618235 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:06:34
+Table Temecula 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,50 $ )
+Seat 2: Yank9000 ( 2,28 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,60 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,16 $ )
+Seat 9: TeeJay911 ( 1,98 $ )
+Seat 10: iJohnny ( 2 $ )
+TeeJay911 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, AKaro ]
+dirtydenKell folds
+Yank9000 folds
+Despol raises [0,06 $]
+osogovo909 folds
+B2B_Suckouts folds
+ubetifold15 folds
+TeeJay911 folds
+iJohnny folds
+** Summary **
+Despol did not show his hand
+Despol collected [ 0,05 $ ]
+
+
+
+#Game No : 474618253
+***** 888poker Hand History for Game 474618253 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:06:52
+Table Temecula 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,50 $ )
+Seat 2: Yank9000 ( 2,28 $ )
+Seat 3: Despol ( 2,03 $ )
+Seat 4: osogovo909 ( 0,60 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,16 $ )
+Seat 9: TeeJay911 ( 1,97 $ )
+Seat 10: iJohnny ( 2 $ )
+iJohnny posts small blind [0,01 $]
+dirtydenKell posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 8Karo ]
+Yank9000 folds
+Despol folds
+osogovo909 calls [0,02 $]
+B2B_Suckouts folds
+ubetifold15 raises [0,06 $]
+TeeJay911 folds
+iJohnny folds
+dirtydenKell folds
+osogovo909 calls [0,04 $]
+** Dealing flop ** [ QPik, KPik, 8Herz ]
+osogovo909 checks
+ubetifold15 checks
+** Dealing turn ** [ 7Karo ]
+osogovo909 bets [0,07 $]
+ubetifold15 calls [0,07 $]
+** Dealing river ** [ 6Kreuz ]
+osogovo909 bets [0,14 $]
+ubetifold15 raises [0,42 $]
+osogovo909 calls [0,28 $]
+** Summary **
+ubetifold15 shows [ 9Karo, 10Karo ]
+osogovo909 mucks [ QHerz, 7Pik ]
+ubetifold15 collected [ 1,06 $ ]
+
+
+
+#Game No : 474618320
+***** 888poker Hand History for Game 474618320 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:08:07
+Table Temecula 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,48 $ )
+Seat 2: Yank9000 ( 2,28 $ )
+Seat 3: Despol ( 2,03 $ )
+Seat 4: osogovo909 ( 0,05 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,67 $ )
+Seat 9: TeeJay911 ( 1,97 $ )
+Seat 10: iJohnny ( 2 $ )
+dirtydenKell posts small blind [0,01 $]
+Yank9000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, AHerz ]
+Despol folds
+osogovo909 folds
+B2B_Suckouts folds
+ubetifold15 raises [0,06 $]
+TeeJay911 folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+** Summary **
+ubetifold15 collected [ 0,05 $ ]
+
+
+
+#Game No : 474618346
+***** 888poker Hand History for Game 474618346 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:08:33
+Table Temecula 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,47 $ )
+Seat 2: Yank9000 ( 2,26 $ )
+Seat 3: Despol ( 2,03 $ )
+Seat 4: osogovo909 ( 0,05 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,70 $ )
+Seat 9: TeeJay911 ( 1,97 $ )
+Seat 10: iJohnny ( 2 $ )
+Yank9000 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 3Pik ]
+osogovo909 folds
+B2B_Suckouts folds
+ubetifold15 folds
+TeeJay911 folds
+iJohnny raises [0,06 $]
+dirtydenKell calls [0,06 $]
+Yank9000 folds
+Despol folds
+** Dealing flop ** [ 5Karo, 7Pik, 5Herz ]
+iJohnny bets [0,10 $]
+dirtydenKell folds
+** Summary **
+iJohnny collected [ 0,15 $ ]
+
+
+
+#Game No : 474618399
+***** 888poker Hand History for Game 474618399 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:09:17
+Table Temecula 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,41 $ )
+Seat 2: Yank9000 ( 2,25 $ )
+Seat 3: Despol ( 2,01 $ )
+Seat 4: osogovo909 ( 0,05 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,70 $ )
+Seat 9: TeeJay911 ( 1,97 $ )
+Seat 10: iJohnny ( 2,09 $ )
+Despol posts small blind [0,01 $]
+osogovo909 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 3Kreuz ]
+B2B_Suckouts folds
+ubetifold15 folds
+TeeJay911 calls [0,02 $]
+iJohnny raises [0,10 $]
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 calls [0,03 $]
+TeeJay911 folds
+** Dealing flop ** [ 2Pik, QHerz, 2Herz ]
+** Dealing turn ** [ AHerz ]
+** Dealing river ** [ APik ]
+** Summary **
+osogovo909 shows [ 8Karo, 6Kreuz ]
+iJohnny shows [ 10Pik, 10Karo ]
+iJohnny collected [ 0,13 $ ]
+
+
+
+#Game No : 474618427
+***** 888poker Hand History for Game 474618427 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:09:56
+Table Temecula 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: dirtydenKell ( 2,41 $ )
+Seat 2: Yank9000 ( 2,25 $ )
+Seat 3: Despol ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,70 $ )
+Seat 9: TeeJay911 ( 1,95 $ )
+Seat 10: iJohnny ( 2,17 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 3Pik ]
+TeeJay911 folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 raises [0,06 $]
+Despol folds
+B2B_Suckouts folds
+ubetifold15 folds
+** Summary **
+Yank9000 collected [ 0,05 $ ]
+
+
+
+#Game No : 474618440
+***** 888poker Hand History for Game 474618440 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:10:11
+Table Temecula 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,41 $ )
+Seat 2: Yank9000 ( 2,28 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,80 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,68 $ )
+Seat 9: TeeJay911 ( 1,95 $ )
+Seat 10: iJohnny ( 2,17 $ )
+ubetifold15 posts small blind [0,01 $]
+TeeJay911 posts big blind [0,02 $]
+osogovo909 posts dead blind [0,01 $ + 0 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, QKaro ]
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 folds
+B2B_Suckouts raises [0,06 $]
+ubetifold15 calls [0,05 $]
+TeeJay911 folds
+** Dealing flop ** [ 2Pik, AKreuz, 9Kreuz ]
+ubetifold15 checks
+B2B_Suckouts bets [0,02 $]
+ubetifold15 raises [0,08 $]
+B2B_Suckouts folds
+** Summary **
+ubetifold15 collected [ 0,18 $ ]
+
+
+
+#Game No : 474618471
+***** 888poker Hand History for Game 474618471 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:10:49
+Table Temecula 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,41 $ )
+Seat 2: Yank9000 ( 2,28 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,79 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,78 $ )
+Seat 9: TeeJay911 ( 1,93 $ )
+Seat 10: iJohnny ( 2,17 $ )
+TeeJay911 posts small blind [0,01 $]
+iJohnny posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 9Karo ]
+dirtydenKell folds
+Yank9000 raises [0,06 $]
+Despol folds
+osogovo909 folds
+B2B_Suckouts folds
+ubetifold15 folds
+TeeJay911 folds
+iJohnny calls [0,04 $]
+** Dealing flop ** [ 3Karo, 3Pik, 4Kreuz ]
+iJohnny checks
+Yank9000 bets [0,06 $]
+iJohnny folds
+** Summary **
+Yank9000 collected [ 0,13 $ ]
+
+
+
+#Game No : 474618493
+***** 888poker Hand History for Game 474618493 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:11:17
+Table Temecula 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,41 $ )
+Seat 2: Yank9000 ( 2,35 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,79 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,78 $ )
+Seat 9: TeeJay911 ( 1,92 $ )
+Seat 10: iJohnny ( 2,11 $ )
+iJohnny posts small blind [0,01 $]
+dirtydenKell posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 8Kreuz ]
+Yank9000 folds
+Despol folds
+osogovo909 folds
+B2B_Suckouts folds
+ubetifold15 raises [0,06 $]
+TeeJay911 folds
+iJohnny folds
+dirtydenKell folds
+** Summary **
+ubetifold15 collected [ 0,05 $ ]
+
+
+
+#Game No : 474618525
+***** 888poker Hand History for Game 474618525 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:11:47
+Table Temecula 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,39 $ )
+Seat 2: Yank9000 ( 2,35 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,79 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,81 $ )
+Seat 9: TeeJay911 ( 1,92 $ )
+Seat 10: iJohnny ( 2,10 $ )
+dirtydenKell posts small blind [0,01 $]
+Yank9000 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, AKreuz ]
+Despol folds
+osogovo909 calls [0,02 $]
+B2B_Suckouts folds
+ubetifold15 folds
+TeeJay911 folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 checks
+** Dealing flop ** [ 5Pik, JHerz, 9Pik ]
+Yank9000 checks
+osogovo909 bets [0,05 $]
+Yank9000 calls [0,05 $]
+** Dealing turn ** [ 5Kreuz ]
+Yank9000 checks
+osogovo909 bets [0,07 $]
+Yank9000 calls [0,07 $]
+** Dealing river ** [ AKaro ]
+Yank9000 checks
+osogovo909 bets [0,29 $]
+Yank9000 folds
+** Summary **
+osogovo909 collected [ 0,28 $ ]
+
+
+
+#Game No : 474618610
+***** 888poker Hand History for Game 474618610 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:13:40
+Table Temecula 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,38 $ )
+Seat 2: Yank9000 ( 2,21 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,93 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,81 $ )
+Seat 9: TeeJay911 ( 1,92 $ )
+Seat 10: iJohnny ( 2,10 $ )
+Yank9000 posts small blind [0,01 $]
+Despol posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, QHerz ]
+osogovo909 calls [0,02 $]
+B2B_Suckouts folds
+ubetifold15 folds
+TeeJay911 folds
+iJohnny raises [0,08 $]
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 calls [0,06 $]
+** Dealing flop ** [ KKreuz, KHerz, 3Herz ]
+osogovo909 checks
+iJohnny bets [0,09 $]
+osogovo909 folds
+** Summary **
+iJohnny collected [ 0,18 $ ]
+
+
+
+#Game No : 474618647
+***** 888poker Hand History for Game 474618647 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:14:22
+Table Temecula 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: dirtydenKell ( 2,38 $ )
+Seat 2: Yank9000 ( 2,20 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,85 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,81 $ )
+Seat 9: TeeJay911 ( 1,92 $ )
+Seat 10: iJohnny ( 2,20 $ )
+Despol posts small blind [0,01 $]
+osogovo909 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 8Pik ]
+B2B_Suckouts folds
+ubetifold15 folds
+TeeJay911 calls [0,02 $]
+iJohnny folds
+dirtydenKell calls [0,02 $]
+Yank9000 folds
+Despol folds
+osogovo909 checks
+** Dealing flop ** [ JHerz, QHerz, 7Herz ]
+osogovo909 checks
+TeeJay911 checks
+dirtydenKell checks
+** Dealing turn ** [ 5Karo ]
+osogovo909 checks
+TeeJay911 checks
+dirtydenKell checks
+** Dealing river ** [ 2Herz ]
+osogovo909 checks
+TeeJay911 checks
+dirtydenKell checks
+** Summary **
+osogovo909 shows [ 2Karo, 8Herz ]
+TeeJay911 mucks [ 5Pik, KKreuz ]
+dirtydenKell mucks [ KKaro, 10Pik ]
+osogovo909 collected [ 0,07 $ ]
+
+
+
+#Game No : 474618686
+***** 888poker Hand History for Game 474618686 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:15:08
+Table Temecula 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,36 $ )
+Seat 2: Yank9000 ( 2,20 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,90 $ )
+Seat 5: Downton5011 ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,81 $ )
+Seat 9: TeeJay911 ( 1,90 $ )
+Seat 10: iJohnny ( 2,20 $ )
+osogovo909 posts small blind [0,01 $]
+Downton5011 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Pik, 7Karo ]
+B2B_Suckouts folds
+ubetifold15 folds
+TeeJay911 folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 raises [0,06 $]
+Despol folds
+osogovo909 folds
+Downton5011 folds
+** Summary **
+Yank9000 did not show his hand
+Yank9000 collected [ 0,05 $ ]
+
+
+
+#Game No : 474618708
+***** 888poker Hand History for Game 474618708 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:15:35
+Table Temecula 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,36 $ )
+Seat 2: Yank9000 ( 2,23 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,89 $ )
+Seat 5: Downton5011 ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,81 $ )
+Seat 9: TeeJay911 ( 1,90 $ )
+Seat 10: iJohnny ( 2,20 $ )
+Downton5011 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 2Herz ]
+ubetifold15 folds
+TeeJay911 calls [0,02 $]
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 calls [0,02 $]
+Downton5011 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 7Herz, 8Karo, KPik ]
+Downton5011 checks
+B2B_Suckouts checks
+TeeJay911 checks
+osogovo909 bets [0,02 $]
+Downton5011 folds
+B2B_Suckouts calls [0,02 $]
+TeeJay911 calls [0,02 $]
+** Dealing turn ** [ 5Karo ]
+B2B_Suckouts checks
+TeeJay911 checks
+osogovo909 bets [0,04 $]
+B2B_Suckouts folds
+TeeJay911 folds
+** Summary **
+osogovo909 did not show his hand
+osogovo909 collected [ 0,14 $ ]
+
+
+
+#Game No : 474618751
+***** 888poker Hand History for Game 474618751 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 21:16:22
+Table Temecula 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: dirtydenKell ( 2,36 $ )
+Seat 2: Yank9000 ( 2,23 $ )
+Seat 3: Despol ( 2 $ )
+Seat 4: osogovo909 ( 0,99 $ )
+Seat 5: Downton5011 ( 2 $ )
+Seat 6: B2B_Suckouts ( 2 $ )
+Seat 7: ubetifold15 ( 2,81 $ )
+Seat 9: TeeJay911 ( 1,86 $ )
+Seat 10: iJohnny ( 2,20 $ )
+B2B_Suckouts posts small blind [0,01 $]
+ubetifold15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, KHerz ]
+TeeJay911 folds
+iJohnny folds
+dirtydenKell folds
+Yank9000 folds
+Despol folds
+osogovo909 folds
+Downton5011 folds
+B2B_Suckouts folds
+** Summary **
+ubetifold15 did not show his hand
+ubetifold15 collected [ 0,03 $ ]
+
+
+
