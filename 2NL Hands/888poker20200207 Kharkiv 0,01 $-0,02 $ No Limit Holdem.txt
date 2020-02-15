@@ -1,0 +1,909 @@
+#Game No : 527578888
+***** 888poker Hand History for Game 527578888 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:04:32
+Table Kharkiv 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: xBesikx ( 2 $ )
+Seat 2: OKE_RASTA_J ( 4,66 $ )
+Seat 3: Terminator4 ( 2,45 $ )
+Seat 4: never13fold ( 2 $ )
+Seat 5: Lupul_Alb1 ( 2,14 $ )
+Seat 6: yurapoker15 ( 0,70 $ )
+Seat 7: NoahbodyOG ( 1,31 $ )
+Seat 9: Tommy_1860 ( 1,41 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Tommy_1860 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 6Karo ]
+xBesikx folds
+OKE_RASTA_J folds
+Terminator4 folds
+never13fold folds
+Lupul_Alb1 folds
+yurapoker15 raises [0,04 $]
+NoahbodyOG calls [0,04 $]
+Tommy_1860 folds
+B2B_Suckouts folds
+** Dealing flop ** [ 10Pik, 10Herz, QKaro ]
+yurapoker15 checks
+NoahbodyOG checks
+** Dealing turn ** [ 2Karo ]
+yurapoker15 bets [0,05 $]
+NoahbodyOG folds
+** Summary **
+yurapoker15 did not show his hand
+yurapoker15 collected [ 0,11 $ ]
+
+
+
+#Game No : 527578928
+***** 888poker Hand History for Game 527578928 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:05:35
+Table Kharkiv 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 4,66 $ )
+Seat 3: Terminator4 ( 2,45 $ )
+Seat 4: never13fold ( 2 $ )
+Seat 5: Lupul_Alb1 ( 2,14 $ )
+Seat 6: yurapoker15 ( 0,77 $ )
+Seat 7: NoahbodyOG ( 1,27 $ )
+Seat 9: Tommy_1860 ( 1,40 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, JKaro ]
+Terminator4 raises [0,04 $]
+never13fold folds
+Lupul_Alb1 folds
+yurapoker15 calls [0,04 $]
+NoahbodyOG calls [0,04 $]
+Tommy_1860 folds
+B2B_Suckouts folds
+OKE_RASTA_J calls [0,02 $]
+** Dealing flop ** [ 2Herz, 10Karo, 2Pik ]
+OKE_RASTA_J checks
+Terminator4 checks
+yurapoker15 checks
+NoahbodyOG checks
+** Dealing turn ** [ QHerz ]
+OKE_RASTA_J bets [0,06 $]
+Terminator4 folds
+yurapoker15 folds
+NoahbodyOG calls [0,06 $]
+** Dealing river ** [ 3Pik ]
+OKE_RASTA_J bets [0,10 $]
+NoahbodyOG calls [0,10 $]
+** Summary **
+OKE_RASTA_J shows [ 4Kreuz, QKaro ]
+NoahbodyOG shows [ KKreuz, QPik ]
+NoahbodyOG collected [ 0,46 $ ]
+
+
+
+#Game No : 527578989
+***** 888poker Hand History for Game 527578989 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:07:03
+Table Kharkiv 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 4,46 $ )
+Seat 3: Terminator4 ( 2,41 $ )
+Seat 4: never13fold ( 2 $ )
+Seat 5: Lupul_Alb1 ( 2,14 $ )
+Seat 6: yurapoker15 ( 0,73 $ )
+Seat 7: NoahbodyOG ( 1,53 $ )
+Seat 9: Tommy_1860 ( 1,40 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+Terminator4 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 5Kreuz ]
+never13fold folds
+Lupul_Alb1 folds
+yurapoker15 raises [0,04 $]
+NoahbodyOG folds
+Tommy_1860 folds
+B2B_Suckouts folds
+OKE_RASTA_J folds
+Terminator4 folds
+** Summary **
+yurapoker15 did not show his hand
+yurapoker15 collected [ 0,05 $ ]
+
+
+
+#Game No : 527579007
+***** 888poker Hand History for Game 527579007 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:07:23
+Table Kharkiv 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 4,45 $ )
+Seat 3: Terminator4 ( 2,39 $ )
+Seat 4: never13fold ( 2 $ )
+Seat 5: Lupul_Alb1 ( 2,14 $ )
+Seat 6: yurapoker15 ( 0,76 $ )
+Seat 7: NoahbodyOG ( 1,53 $ )
+Seat 9: Tommy_1860 ( 1,40 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Terminator4 posts small blind [0,01 $]
+never13fold posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, AHerz ]
+Lupul_Alb1 folds
+yurapoker15 calls [0,02 $]
+NoahbodyOG calls [0,02 $]
+Tommy_1860 calls [0,02 $]
+B2B_Suckouts folds
+OKE_RASTA_J folds
+Terminator4 folds
+never13fold raises [0,12 $]
+yurapoker15 folds
+NoahbodyOG calls [0,12 $]
+Tommy_1860 folds
+** Dealing flop ** [ 7Kreuz, 9Pik, 2Karo ]
+never13fold bets [0,21 $]
+NoahbodyOG folds
+** Summary **
+never13fold did not show his hand
+never13fold collected [ 0,31 $ ]
+
+
+
+#Game No : 527579043
+***** 888poker Hand History for Game 527579043 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:08:18
+Table Kharkiv 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 4,45 $ )
+Seat 3: Terminator4 ( 2,38 $ )
+Seat 4: never13fold ( 2,17 $ )
+Seat 5: Lupul_Alb1 ( 2,14 $ )
+Seat 6: yurapoker15 ( 0,74 $ )
+Seat 7: NoahbodyOG ( 1,39 $ )
+Seat 9: Tommy_1860 ( 1,38 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+never13fold posts small blind [0,01 $]
+Lupul_Alb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, JPik ]
+yurapoker15 folds
+NoahbodyOG folds
+Tommy_1860 raises [0,04 $]
+B2B_Suckouts calls [0,04 $]
+OKE_RASTA_J folds
+Terminator4 folds
+never13fold folds
+Lupul_Alb1 folds
+** Dealing flop ** [ 6Kreuz, APik, 6Pik ]
+Tommy_1860 checks
+B2B_Suckouts bets [0,03 $]
+Tommy_1860 calls [0,03 $]
+** Dealing turn ** [ 8Kreuz ]
+Tommy_1860 checks
+B2B_Suckouts bets [0,05 $]
+Tommy_1860 folds
+** Summary **
+B2B_Suckouts collected [ 0,16 $ ]
+
+
+
+#Game No : 527579092
+***** 888poker Hand History for Game 527579092 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:09:32
+Table Kharkiv 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 4,45 $ )
+Seat 3: Terminator4 ( 2,38 $ )
+Seat 4: never13fold ( 2,16 $ )
+Seat 5: Lupul_Alb1 ( 2,12 $ )
+Seat 6: yurapoker15 ( 0,74 $ )
+Seat 7: NoahbodyOG ( 1,39 $ )
+Seat 9: Tommy_1860 ( 1,31 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+Lupul_Alb1 posts small blind [0,01 $]
+yurapoker15 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 8Karo ]
+NoahbodyOG folds
+Tommy_1860 folds
+B2B_Suckouts folds
+OKE_RASTA_J calls [0,02 $]
+Terminator4 folds
+never13fold folds
+Lupul_Alb1 calls [0,01 $]
+yurapoker15 checks
+** Dealing flop ** [ QKaro, 10Karo, 7Karo ]
+Lupul_Alb1 checks
+yurapoker15 bets [0,02 $]
+OKE_RASTA_J folds
+Lupul_Alb1 folds
+** Summary **
+yurapoker15 collected [ 0,06 $ ]
+
+
+
+#Game No : 527579127
+***** 888poker Hand History for Game 527579127 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:10:14
+Table Kharkiv 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 4,43 $ )
+Seat 3: Terminator4 ( 2,38 $ )
+Seat 4: never13fold ( 2,16 $ )
+Seat 5: Lupul_Alb1 ( 2,10 $ )
+Seat 6: yurapoker15 ( 0,78 $ )
+Seat 7: NoahbodyOG ( 1,39 $ )
+Seat 9: Tommy_1860 ( 1,31 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+yurapoker15 posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 2Karo ]
+Tommy_1860 raises [0,04 $]
+B2B_Suckouts folds
+OKE_RASTA_J folds
+Terminator4 folds
+never13fold folds
+Lupul_Alb1 folds
+yurapoker15 folds
+NoahbodyOG folds
+** Summary **
+Tommy_1860 collected [ 0,05 $ ]
+
+
+
+#Game No : 527579155
+***** 888poker Hand History for Game 527579155 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:10:45
+Table Kharkiv 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 4,43 $ )
+Seat 3: Terminator4 ( 2,38 $ )
+Seat 4: never13fold ( 2,16 $ )
+Seat 5: Lupul_Alb1 ( 2,10 $ )
+Seat 6: yurapoker15 ( 0,77 $ )
+Seat 7: NoahbodyOG ( 1,37 $ )
+Seat 9: Tommy_1860 ( 1,34 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+NoahbodyOG posts small blind [0,01 $]
+Tommy_1860 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, JHerz ]
+B2B_Suckouts folds
+OKE_RASTA_J folds
+Terminator4 calls [0,02 $]
+never13fold raises [0,08 $]
+Lupul_Alb1 folds
+yurapoker15 folds
+NoahbodyOG folds
+Tommy_1860 calls [0,06 $]
+Terminator4 folds
+** Dealing flop ** [ 6Karo, JKreuz, QKaro ]
+Tommy_1860 checks
+never13fold checks
+** Dealing turn ** [ APik ]
+Tommy_1860 checks
+never13fold bets [0,12 $]
+Tommy_1860 folds
+** Summary **
+never13fold collected [ 0,18 $ ]
+
+
+
+#Game No : 527579212
+***** 888poker Hand History for Game 527579212 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:12:09
+Table Kharkiv 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 2: OKE_RASTA_J ( 4,43 $ )
+Seat 3: Terminator4 ( 2,36 $ )
+Seat 4: never13fold ( 2,26 $ )
+Seat 5: Lupul_Alb1 ( 2,10 $ )
+Seat 6: yurapoker15 ( 0,77 $ )
+Seat 7: NoahbodyOG ( 1,36 $ )
+Seat 9: Tommy_1860 ( 1,26 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+Tommy_1860 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 9Pik ]
+OKE_RASTA_J folds
+Terminator4 folds
+never13fold raises [0,06 $]
+Lupul_Alb1 folds
+yurapoker15 folds
+NoahbodyOG folds
+Tommy_1860 folds
+B2B_Suckouts folds
+** Summary **
+never13fold collected [ 0,05 $ ]
+
+
+
+#Game No : 527579227
+***** 888poker Hand History for Game 527579227 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:12:34
+Table Kharkiv 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Dak0taG0ld ( 1,20 $ )
+Seat 2: OKE_RASTA_J ( 4,43 $ )
+Seat 3: Terminator4 ( 2,36 $ )
+Seat 4: never13fold ( 2,29 $ )
+Seat 5: Lupul_Alb1 ( 2,10 $ )
+Seat 6: yurapoker15 ( 0,77 $ )
+Seat 7: NoahbodyOG ( 1,36 $ )
+Seat 9: Tommy_1860 ( 1,25 $ )
+Seat 10: B2B_Suckouts ( 2,07 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Dak0taG0ld posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 8Karo ]
+OKE_RASTA_J calls [0,02 $]
+Terminator4 folds
+never13fold folds
+Lupul_Alb1 calls [0,02 $]
+yurapoker15 calls [0,02 $]
+NoahbodyOG folds
+Tommy_1860 folds
+B2B_Suckouts folds
+Dak0taG0ld checks
+** Dealing flop ** [ AKreuz, 7Pik, QKaro ]
+Dak0taG0ld checks
+OKE_RASTA_J checks
+Lupul_Alb1 checks
+yurapoker15 checks
+** Dealing turn ** [ 7Herz ]
+Dak0taG0ld checks
+OKE_RASTA_J bets [0,08 $]
+Lupul_Alb1 folds
+yurapoker15 folds
+Dak0taG0ld folds
+** Summary **
+OKE_RASTA_J did not show his hand
+OKE_RASTA_J collected [ 0,09 $ ]
+
+
+
+#Game No : 527579291
+***** 888poker Hand History for Game 527579291 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:13:59
+Table Kharkiv 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Dak0taG0ld ( 1,20 $ )
+Seat 2: OKE_RASTA_J ( 4,50 $ )
+Seat 3: Terminator4 ( 2,36 $ )
+Seat 4: never13fold ( 2,29 $ )
+Seat 5: Lupul_Alb1 ( 2,08 $ )
+Seat 6: yurapoker15 ( 0,75 $ )
+Seat 7: NoahbodyOG ( 1,36 $ )
+Seat 9: Tommy_1860 ( 1,25 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+Dak0taG0ld posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, QPik ]
+Terminator4 folds
+never13fold folds
+Lupul_Alb1 folds
+yurapoker15 folds
+NoahbodyOG folds
+Tommy_1860 raises [0,04 $]
+B2B_Suckouts calls [0,04 $]
+Dak0taG0ld folds
+OKE_RASTA_J calls [0,02 $]
+** Dealing flop ** [ 10Herz, QKreuz, JKreuz ]
+OKE_RASTA_J checks
+Tommy_1860 bets [0,04 $]
+B2B_Suckouts calls [0,04 $]
+OKE_RASTA_J calls [0,04 $]
+** Dealing turn ** [ 5Pik ]
+OKE_RASTA_J checks
+Tommy_1860 bets [0,08 $]
+B2B_Suckouts calls [0,08 $]
+OKE_RASTA_J folds
+** Dealing river ** [ QHerz ]
+Tommy_1860 bets [0,20 $]
+B2B_Suckouts raises [1,90 $]
+Tommy_1860 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,76 $ ]
+
+
+
+#Game No : 527579375
+***** 888poker Hand History for Game 527579375 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:16:04
+Table Kharkiv 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Dak0taG0ld ( 1,20 $ )
+Seat 2: OKE_RASTA_J ( 4,42 $ )
+Seat 3: Terminator4 ( 2,36 $ )
+Seat 4: never13fold ( 2,29 $ )
+Seat 5: Lupul_Alb1 ( 2,08 $ )
+Seat 6: yurapoker15 ( 0,75 $ )
+Seat 7: NoahbodyOG ( 1,36 $ )
+Seat 9: Tommy_1860 ( 0,89 $ )
+Seat 10: B2B_Suckouts ( 2,46 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+Terminator4 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 10Pik ]
+never13fold folds
+Lupul_Alb1 calls [0,02 $]
+yurapoker15 folds
+NoahbodyOG calls [0,02 $]
+Tommy_1860 raises [0,06 $]
+B2B_Suckouts folds
+Dak0taG0ld folds
+OKE_RASTA_J folds
+Terminator4 calls [0,04 $]
+Lupul_Alb1 calls [0,04 $]
+NoahbodyOG calls [0,04 $]
+** Dealing flop ** [ 7Karo, KKreuz, QKreuz ]
+Terminator4 checks
+Lupul_Alb1 checks
+NoahbodyOG checks
+Tommy_1860 bets [0,08 $]
+Terminator4 calls [0,08 $]
+Lupul_Alb1 folds
+NoahbodyOG folds
+** Dealing turn ** [ KPik ]
+Terminator4 checks
+Tommy_1860 bets [0,10 $]
+Terminator4 calls [0,10 $]
+** Dealing river ** [ 4Kreuz ]
+Terminator4 bets [0,42 $]
+Tommy_1860 calls [0,42 $]
+** Summary **
+Terminator4 shows [ 2Kreuz, 10Kreuz ]
+Tommy_1860 mucks [ QKaro, JPik ]
+Terminator4 collected [ 1,36 $ ]
+
+
+
+#Game No : 527579460
+***** 888poker Hand History for Game 527579460 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:18:12
+Table Kharkiv 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Dak0taG0ld ( 1,20 $ )
+Seat 2: OKE_RASTA_J ( 4,41 $ )
+Seat 3: Terminator4 ( 3,06 $ )
+Seat 4: never13fold ( 2,29 $ )
+Seat 5: Lupul_Alb1 ( 2,02 $ )
+Seat 7: NoahbodyOG ( 1,30 $ )
+Seat 9: Tommy_1860 ( 0,23 $ )
+Seat 10: B2B_Suckouts ( 2,46 $ )
+Terminator4 posts small blind [0,01 $]
+never13fold posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 10Pik ]
+Lupul_Alb1 calls [0,02 $]
+NoahbodyOG raises [0,06 $]
+Tommy_1860 folds
+B2B_Suckouts folds
+Dak0taG0ld calls [0,06 $]
+OKE_RASTA_J folds
+Terminator4 folds
+never13fold raises [0,24 $]
+Lupul_Alb1 folds
+NoahbodyOG calls [0,20 $]
+Dak0taG0ld folds
+** Dealing flop ** [ QHerz, KKaro, 2Pik ]
+never13fold bets [0,40 $]
+NoahbodyOG folds
+** Summary **
+never13fold did not show his hand
+never13fold collected [ 0,58 $ ]
+
+
+
+#Game No : 527579500
+***** 888poker Hand History for Game 527579500 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:19:03
+Table Kharkiv 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Dak0taG0ld ( 1,20 $ )
+Seat 2: OKE_RASTA_J ( 4,41 $ )
+Seat 3: Terminator4 ( 3,05 $ )
+Seat 4: never13fold ( 2,61 $ )
+Seat 5: Lupul_Alb1 ( 2 $ )
+Seat 7: NoahbodyOG ( 1,04 $ )
+Seat 9: Tommy_1860 ( 1,40 $ )
+Seat 10: B2B_Suckouts ( 2,46 $ )
+never13fold posts small blind [0,01 $]
+Lupul_Alb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 10Karo ]
+NoahbodyOG folds
+Tommy_1860 folds
+B2B_Suckouts folds
+Dak0taG0ld folds
+OKE_RASTA_J calls [0,02 $]
+Terminator4 calls [0,02 $]
+never13fold calls [0,01 $]
+Lupul_Alb1 checks
+** Dealing flop ** [ 6Kreuz, JPik, QPik ]
+never13fold checks
+Lupul_Alb1 bets [0,04 $]
+OKE_RASTA_J calls [0,04 $]
+Terminator4 folds
+never13fold calls [0,04 $]
+** Dealing turn ** [ AHerz ]
+never13fold checks
+Lupul_Alb1 checks
+OKE_RASTA_J bets [0,08 $]
+never13fold calls [0,08 $]
+Lupul_Alb1 calls [0,08 $]
+** Dealing river ** [ 6Herz ]
+never13fold checks
+Lupul_Alb1 checks
+OKE_RASTA_J bets [1 $]
+never13fold folds
+Lupul_Alb1 folds
+** Summary **
+OKE_RASTA_J did not show his hand
+OKE_RASTA_J collected [ 0,42 $ ]
+
+
+
+#Game No : 527579593
+***** 888poker Hand History for Game 527579593 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:21:17
+Table Kharkiv 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Dak0taG0ld ( 1,20 $ )
+Seat 2: OKE_RASTA_J ( 4,69 $ )
+Seat 3: Terminator4 ( 3,03 $ )
+Seat 4: never13fold ( 2,47 $ )
+Seat 5: Lupul_Alb1 ( 2 $ )
+Seat 7: NoahbodyOG ( 1,04 $ )
+Seat 9: Tommy_1860 ( 1,40 $ )
+Seat 10: B2B_Suckouts ( 2,46 $ )
+Lupul_Alb1 posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 5Herz ]
+Tommy_1860 calls [0,02 $]
+B2B_Suckouts folds
+Dak0taG0ld raises [0,08 $]
+OKE_RASTA_J folds
+Terminator4 calls [0,08 $]
+never13fold folds
+Lupul_Alb1 folds
+NoahbodyOG calls [0,06 $]
+Tommy_1860 calls [0,06 $]
+** Dealing flop ** [ KHerz, 7Herz, QKreuz ]
+NoahbodyOG checks
+Tommy_1860 checks
+Dak0taG0ld bets [0,16 $]
+Terminator4 folds
+NoahbodyOG calls [0,16 $]
+Tommy_1860 folds
+** Dealing turn ** [ 8Herz ]
+NoahbodyOG checks
+Dak0taG0ld bets [0,24 $]
+NoahbodyOG folds
+** Summary **
+Dak0taG0ld did not show his hand
+Dak0taG0ld collected [ 0,61 $ ]
+
+
+
+#Game No : 527579662
+***** 888poker Hand History for Game 527579662 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:22:39
+Table Kharkiv 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Dak0taG0ld ( 1,57 $ )
+Seat 2: OKE_RASTA_J ( 4,69 $ )
+Seat 3: Terminator4 ( 2,95 $ )
+Seat 4: never13fold ( 2,47 $ )
+Seat 5: Lupul_Alb1 ( 2 $ )
+Seat 7: NoahbodyOG ( 0,80 $ )
+Seat 9: Tommy_1860 ( 1,32 $ )
+Seat 10: B2B_Suckouts ( 2,46 $ )
+NoahbodyOG posts small blind [0,01 $]
+Tommy_1860 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 3Pik ]
+B2B_Suckouts folds
+Dak0taG0ld folds
+OKE_RASTA_J folds
+Terminator4 folds
+never13fold folds
+Lupul_Alb1 calls [0,02 $]
+NoahbodyOG calls [0,01 $]
+Tommy_1860 checks
+** Dealing flop ** [ AHerz, QKreuz, QHerz ]
+NoahbodyOG checks
+Tommy_1860 checks
+Lupul_Alb1 bets [0,03 $]
+NoahbodyOG calls [0,03 $]
+Tommy_1860 folds
+** Dealing turn ** [ QPik ]
+NoahbodyOG checks
+Lupul_Alb1 bets [0,07 $]
+NoahbodyOG raises [0,14 $]
+Lupul_Alb1 calls [0,07 $]
+** Dealing river ** [ 2Pik ]
+NoahbodyOG bets [0,61 $]
+Lupul_Alb1 calls [0,61 $]
+** Summary **
+Lupul_Alb1 shows [ 9Kreuz, AKaro ]
+NoahbodyOG shows [ QKaro, 8Herz ]
+NoahbodyOG collected [ 1,52 $ ]
+
+
+
+#Game No : 527579722
+***** 888poker Hand History for Game 527579722 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:24:07
+Table Kharkiv 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Dak0taG0ld ( 1,57 $ )
+Seat 2: OKE_RASTA_J ( 4,69 $ )
+Seat 3: Terminator4 ( 2,95 $ )
+Seat 4: never13fold ( 2,47 $ )
+Seat 5: Lupul_Alb1 ( 2 $ )
+Seat 7: NoahbodyOG ( 1,52 $ )
+Seat 9: Tommy_1860 ( 1,30 $ )
+Seat 10: B2B_Suckouts ( 2,46 $ )
+Tommy_1860 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 10Kreuz ]
+Dak0taG0ld folds
+OKE_RASTA_J folds
+Terminator4 folds
+never13fold folds
+Lupul_Alb1 folds
+NoahbodyOG calls [0,02 $]
+Tommy_1860 folds
+B2B_Suckouts checks
+** Dealing flop ** [ QPik, KPik, 4Herz ]
+B2B_Suckouts checks
+NoahbodyOG bets [0,02 $]
+B2B_Suckouts folds
+** Summary **
+NoahbodyOG collected [ 0,05 $ ]
+
+
+
+#Game No : 527579758
+***** 888poker Hand History for Game 527579758 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:24:54
+Table Kharkiv 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: OKE_RASTA_J ( 4,69 $ )
+Seat 3: Terminator4 ( 2,95 $ )
+Seat 4: never13fold ( 2,47 $ )
+Seat 5: Lupul_Alb1 ( 2 $ )
+Seat 7: NoahbodyOG ( 1,55 $ )
+Seat 9: Tommy_1860 ( 1,29 $ )
+Seat 10: B2B_Suckouts ( 2,44 $ )
+B2B_Suckouts posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 7Karo ]
+Terminator4 folds
+never13fold folds
+Lupul_Alb1 folds
+NoahbodyOG calls [0,02 $]
+Tommy_1860 raises [0,06 $]
+B2B_Suckouts folds
+OKE_RASTA_J folds
+NoahbodyOG calls [0,04 $]
+** Dealing flop ** [ 4Pik, 10Karo, 6Kreuz ]
+NoahbodyOG checks
+Tommy_1860 bets [0,09 $]
+NoahbodyOG calls [0,09 $]
+** Dealing turn ** [ 4Herz ]
+NoahbodyOG checks
+Tommy_1860 bets [0,21 $]
+NoahbodyOG folds
+** Summary **
+Tommy_1860 collected [ 0,31 $ ]
+
+
+
+#Game No : 527579815
+***** 888poker Hand History for Game 527579815 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:26:18
+Table Kharkiv 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: OKE_RASTA_J ( 4,67 $ )
+Seat 3: Terminator4 ( 2,95 $ )
+Seat 4: never13fold ( 2,47 $ )
+Seat 5: Lupul_Alb1 ( 2 $ )
+Seat 7: NoahbodyOG ( 1,40 $ )
+Seat 9: Tommy_1860 ( 1,45 $ )
+Seat 10: B2B_Suckouts ( 2,43 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+Terminator4 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, APik ]
+never13fold raises [0,04 $]
+Lupul_Alb1 folds
+NoahbodyOG folds
+Tommy_1860 folds
+B2B_Suckouts folds
+OKE_RASTA_J folds
+Terminator4 folds
+** Summary **
+never13fold collected [ 0,05 $ ]
+
+
+
+#Game No : 527579834
+***** 888poker Hand History for Game 527579834 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:26:47
+Table Kharkiv 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: OKE_RASTA_J ( 4,66 $ )
+Seat 3: Terminator4 ( 2,93 $ )
+Seat 4: never13fold ( 2,50 $ )
+Seat 5: Lupul_Alb1 ( 2 $ )
+Seat 7: NoahbodyOG ( 1,40 $ )
+Seat 9: Tommy_1860 ( 1,45 $ )
+Seat 10: B2B_Suckouts ( 2,43 $ )
+Terminator4 posts small blind [0,01 $]
+never13fold posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 4Karo ]
+Lupul_Alb1 folds
+NoahbodyOG folds
+Tommy_1860 calls [0,02 $]
+B2B_Suckouts folds
+OKE_RASTA_J calls [0,02 $]
+Terminator4 folds
+never13fold checks
+** Dealing flop ** [ 8Pik, 10Karo, 3Karo ]
+never13fold checks
+Tommy_1860 checks
+OKE_RASTA_J checks
+** Dealing turn ** [ 5Herz ]
+never13fold checks
+Tommy_1860 bets [0,08 $]
+OKE_RASTA_J folds
+never13fold folds
+** Summary **
+Tommy_1860 collected [ 0,07 $ ]
+
+
+
+#Game No : 527579884
+***** 888poker Hand History for Game 527579884 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:27:59
+Table Kharkiv 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 2: OKE_RASTA_J ( 4,64 $ )
+Seat 3: Terminator4 ( 2,92 $ )
+Seat 4: never13fold ( 2,48 $ )
+Seat 5: Lupul_Alb1 ( 2 $ )
+Seat 7: NoahbodyOG ( 1,40 $ )
+Seat 9: Tommy_1860 ( 1,50 $ )
+Seat 10: B2B_Suckouts ( 2,43 $ )
+never13fold posts small blind [0,01 $]
+Lupul_Alb1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 4Pik ]
+NoahbodyOG folds
+Tommy_1860 folds
+B2B_Suckouts folds
+OKE_RASTA_J folds
+Terminator4 folds
+never13fold raises [0,05 $]
+Lupul_Alb1 folds
+** Summary **
+never13fold collected [ 0,04 $ ]
+
+
+
+#Game No : 527579905
+***** 888poker Hand History for Game 527579905 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:28:22
+Table Kharkiv 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: hmarton79 ( 1,33 $ )
+Seat 2: OKE_RASTA_J ( 4,64 $ )
+Seat 3: Terminator4 ( 2,92 $ )
+Seat 4: never13fold ( 2,50 $ )
+Seat 5: Lupul_Alb1 ( 2 $ )
+Seat 6: milanshi ( 1,40 $ )
+Seat 7: NoahbodyOG ( 1,40 $ )
+Seat 9: Tommy_1860 ( 1,50 $ )
+Seat 10: B2B_Suckouts ( 2,43 $ )
+Lupul_Alb1 posts small blind [0,01 $]
+milanshi posts big blind [0,02 $]
+hmarton79 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 4Kreuz ]
+NoahbodyOG folds
+Tommy_1860 folds
+B2B_Suckouts folds
+hmarton79 checks
+OKE_RASTA_J folds
+Terminator4 raises [0,12 $]
+never13fold folds
+Lupul_Alb1 folds
+milanshi calls [0,10 $]
+hmarton79 folds
+** Dealing flop ** [ QKaro, 6Kreuz, 9Herz ]
+milanshi checks
+Terminator4 bets [0,17 $]
+milanshi calls [0,17 $]
+** Dealing turn ** [ QKreuz ]
+milanshi checks
+Terminator4 bets [0,24 $]
+milanshi folds
+** Summary **
+Terminator4 did not show his hand
+Terminator4 collected [ 0,58 $ ]
+
+
+
+#Game No : 527579947
+***** 888poker Hand History for Game 527579947 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 07 02 2020 22:29:24
+Table Kharkiv 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: hmarton79 ( 1,31 $ )
+Seat 2: OKE_RASTA_J ( 4,64 $ )
+Seat 3: Terminator4 ( 3,21 $ )
+Seat 4: never13fold ( 2,50 $ )
+Seat 5: Lupul_Alb1 ( 2 $ )
+Seat 6: milanshi ( 1,11 $ )
+Seat 7: NoahbodyOG ( 1,40 $ )
+Seat 9: Tommy_1860 ( 1,50 $ )
+Seat 10: B2B_Suckouts ( 2,43 $ )
+milanshi posts small blind [0,01 $]
+NoahbodyOG posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 8Karo ]
+Tommy_1860 folds
+B2B_Suckouts folds
+hmarton79 folds
+OKE_RASTA_J folds
+Terminator4 calls [0,02 $]
+never13fold folds
+Lupul_Alb1 folds
+milanshi folds
+NoahbodyOG checks
+** Dealing flop ** [ 10Kreuz, 3Pik, KKreuz ]
+NoahbodyOG checks
+Terminator4 checks
+** Dealing turn ** [ 9Kreuz ]
+NoahbodyOG bets [0,02 $]
+Terminator4 folds
+** Summary **
+NoahbodyOG did not show his hand
+NoahbodyOG collected [ 0,05 $ ]
+
+
+
