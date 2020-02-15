@@ -1,0 +1,2783 @@
+#Game No : 474162047
+***** 888poker Hand History for Game 474162047 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 13:50:09
+Table Dabou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 0,87 $ )
+Seat 2: avramia1 ( 2,40 $ )
+Seat 3: LouisPierre ( 1,84 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,62 $ )
+Seat 6: Imlucky88 ( 2,58 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: OKE_RASTA_J ( 0,72 $ )
+avramia1 posts small blind [0,01 $]
+LouisPierre posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 10Pik ]
+B2B_Suckouts checks
+katoka88 folds
+Imlucky88 folds
+Merodan folds
+OKE_RASTA_J calls [0,02 $]
+Croslandv folds
+avramia1 folds
+LouisPierre raises [0,06 $]
+B2B_Suckouts folds
+OKE_RASTA_J folds
+** Summary **
+LouisPierre did not show his hand
+LouisPierre collected [ 0,07 $ ]
+
+
+
+#Game No : 474162071
+***** 888poker Hand History for Game 474162071 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 13:51:07
+Table Dabou 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 0,87 $ )
+Seat 2: avramia1 ( 2,39 $ )
+Seat 3: LouisPierre ( 1,89 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,62 $ )
+Seat 6: Imlucky88 ( 2,58 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: OKE_RASTA_J ( 0,70 $ )
+LouisPierre posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 4Karo ]
+katoka88 raises [0,06 $]
+Imlucky88 folds
+Merodan folds
+OKE_RASTA_J folds
+Croslandv folds
+avramia1 calls [0,06 $]
+LouisPierre calls [0,05 $]
+B2B_Suckouts folds
+** Dealing flop ** [ AHerz, APik, 8Herz ]
+LouisPierre checks
+katoka88 checks
+avramia1 checks
+** Dealing turn ** [ 2Pik ]
+LouisPierre checks
+katoka88 checks
+avramia1 bets [0,13 $]
+LouisPierre folds
+katoka88 folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ 0,19 $ ]
+
+
+
+#Game No : 474162089
+***** 888poker Hand History for Game 474162089 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 13:51:58
+Table Dabou 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 0,87 $ )
+Seat 2: avramia1 ( 2,52 $ )
+Seat 3: LouisPierre ( 1,83 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,56 $ )
+Seat 6: Imlucky88 ( 2,58 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: OKE_RASTA_J ( 0,70 $ )
+B2B_Suckouts posts small blind [0,01 $]
+katoka88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 6Kreuz ]
+Imlucky88 folds
+Merodan raises [0,08 $]
+OKE_RASTA_J folds
+Croslandv calls [0,08 $]
+avramia1 folds
+LouisPierre folds
+B2B_Suckouts calls [0,07 $]
+katoka88 folds
+** Dealing flop ** [ JHerz, 4Herz, KHerz ]
+B2B_Suckouts checks
+Merodan bets [0,20 $]
+Croslandv folds
+B2B_Suckouts folds
+** Summary **
+Merodan did not show his hand
+Merodan collected [ 0,25 $ ]
+
+
+
+#Game No : 474162104
+***** 888poker Hand History for Game 474162104 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 13:52:37
+Table Dabou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 0,79 $ )
+Seat 2: avramia1 ( 2,52 $ )
+Seat 3: LouisPierre ( 1,83 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,54 $ )
+Seat 6: Imlucky88 ( 2,58 $ )
+Seat 7: Merodan ( 2,17 $ )
+Seat 9: OKE_RASTA_J ( 0,70 $ )
+katoka88 posts small blind [0,01 $]
+Imlucky88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 9Kreuz ]
+Merodan folds
+OKE_RASTA_J folds
+Croslandv calls [0,02 $]
+avramia1 folds
+LouisPierre folds
+B2B_Suckouts raises [0,06 $]
+katoka88 folds
+Imlucky88 folds
+Croslandv calls [0,04 $]
+** Dealing flop ** [ 6Kreuz, JHerz, 5Kreuz ]
+Croslandv bets [0,06 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing turn ** [ 7Karo ]
+Croslandv bets [0,12 $]
+B2B_Suckouts calls [0,12 $]
+** Dealing river ** [ 5Pik ]
+Croslandv bets [0,55 $]
+B2B_Suckouts folds
+** Summary **
+Croslandv did not show his hand
+Croslandv collected [ 0,48 $ ]
+
+
+
+#Game No : 474162132
+***** 888poker Hand History for Game 474162132 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 13:53:54
+Table Dabou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,03 $ )
+Seat 2: avramia1 ( 2,52 $ )
+Seat 3: LouisPierre ( 1,83 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,53 $ )
+Seat 6: Imlucky88 ( 2,56 $ )
+Seat 7: Merodan ( 2,17 $ )
+Seat 9: OKE_RASTA_J ( 0,70 $ )
+Imlucky88 posts small blind [0,01 $]
+Merodan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 10Pik ]
+OKE_RASTA_J folds
+Croslandv folds
+avramia1 folds
+LouisPierre folds
+B2B_Suckouts raises [0,06 $]
+katoka88 calls [0,06 $]
+Imlucky88 raises [0,23 $]
+Merodan folds
+B2B_Suckouts calls [0,18 $]
+katoka88 folds
+** Dealing flop ** [ 7Kreuz, 6Karo, 4Herz ]
+Imlucky88 bets [0,18 $]
+B2B_Suckouts raises [1,76 $]
+Imlucky88 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,87 $ ]
+
+
+
+#Game No : 474162169
+***** 888poker Hand History for Game 474162169 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 13:55:12
+Table Dabou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,03 $ )
+Seat 2: avramia1 ( 2,52 $ )
+Seat 3: LouisPierre ( 1,83 $ )
+Seat 4: B2B_Suckouts ( 2,45 $ )
+Seat 5: katoka88 ( 0,47 $ )
+Seat 6: Imlucky88 ( 2,14 $ )
+Seat 7: Merodan ( 2,15 $ )
+Seat 9: OKE_RASTA_J ( 0,70 $ )
+Merodan posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 7Karo ]
+Croslandv folds
+avramia1 folds
+LouisPierre folds
+B2B_Suckouts folds
+katoka88 folds
+Imlucky88 raises [0,05 $]
+Merodan folds
+OKE_RASTA_J calls [0,03 $]
+** Dealing flop ** [ 8Kreuz, 7Pik, 4Pik ]
+OKE_RASTA_J checks
+Imlucky88 bets [0,03 $]
+OKE_RASTA_J calls [0,03 $]
+** Dealing turn ** [ KKaro ]
+OKE_RASTA_J checks
+Imlucky88 checks
+** Dealing river ** [ QKreuz ]
+OKE_RASTA_J checks
+Imlucky88 checks
+** Summary **
+OKE_RASTA_J shows [ APik, 2Kreuz ]
+Imlucky88 shows [ QKaro, 5Karo ]
+Imlucky88 collected [ 0,16 $ ]
+
+
+
+#Game No : 474162201
+***** 888poker Hand History for Game 474162201 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 13:56:28
+Table Dabou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,03 $ )
+Seat 2: avramia1 ( 2,52 $ )
+Seat 3: LouisPierre ( 1,83 $ )
+Seat 4: B2B_Suckouts ( 2,45 $ )
+Seat 5: katoka88 ( 0,47 $ )
+Seat 6: Imlucky88 ( 2,22 $ )
+Seat 7: Merodan ( 2,14 $ )
+Seat 9: OKE_RASTA_J ( 0,62 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+Croslandv posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 2Pik ]
+avramia1 folds
+LouisPierre folds
+B2B_Suckouts folds
+katoka88 calls [0,02 $]
+Imlucky88 folds
+Merodan folds
+OKE_RASTA_J folds
+Croslandv checks
+** Dealing flop ** [ QHerz, AKreuz, 8Kreuz ]
+Croslandv bets [0,04 $]
+katoka88 folds
+** Summary **
+Croslandv did not show his hand
+Croslandv collected [ 0,05 $ ]
+
+
+
+#Game No : 474162222
+***** 888poker Hand History for Game 474162222 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 13:57:05
+Table Dabou 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,06 $ )
+Seat 2: avramia1 ( 2,52 $ )
+Seat 3: LouisPierre ( 1,83 $ )
+Seat 4: B2B_Suckouts ( 2,45 $ )
+Seat 5: katoka88 ( 0,45 $ )
+Seat 6: Imlucky88 ( 2,22 $ )
+Seat 7: Merodan ( 2,14 $ )
+Seat 9: OKE_RASTA_J ( 0,61 $ )
+Croslandv posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 4Kreuz ]
+LouisPierre folds
+B2B_Suckouts folds
+katoka88 folds
+Imlucky88 folds
+Merodan raises [0,05 $]
+OKE_RASTA_J folds
+Croslandv folds
+avramia1 folds
+** Summary **
+Merodan did not show his hand
+Merodan collected [ 0,05 $ ]
+
+
+
+#Game No : 474162232
+***** 888poker Hand History for Game 474162232 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 13:57:34
+Table Dabou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,05 $ )
+Seat 2: avramia1 ( 2,50 $ )
+Seat 3: LouisPierre ( 1,83 $ )
+Seat 4: B2B_Suckouts ( 2,45 $ )
+Seat 5: katoka88 ( 0,45 $ )
+Seat 6: Imlucky88 ( 2,22 $ )
+Seat 7: Merodan ( 2,17 $ )
+Seat 9: OKE_RASTA_J ( 0,61 $ )
+avramia1 posts small blind [0,01 $]
+LouisPierre posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 3Karo ]
+B2B_Suckouts folds
+katoka88 folds
+Imlucky88 folds
+Merodan raises [0,06 $]
+OKE_RASTA_J folds
+Croslandv folds
+avramia1 calls [0,05 $]
+LouisPierre calls [0,04 $]
+** Dealing flop ** [ 4Kreuz, 8Karo, QHerz ]
+avramia1 checks
+LouisPierre checks
+Merodan checks
+** Dealing turn ** [ 6Kreuz ]
+avramia1 checks
+LouisPierre bets [0,11 $]
+Merodan calls [0,11 $]
+avramia1 folds
+** Dealing river ** [ AKaro ]
+LouisPierre bets [0,36 $]
+Merodan folds
+** Summary **
+LouisPierre did not show his hand
+LouisPierre collected [ 0,38 $ ]
+
+
+
+#Game No : 474162278
+***** 888poker Hand History for Game 474162278 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 13:59:14
+Table Dabou 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,05 $ )
+Seat 2: avramia1 ( 2,44 $ )
+Seat 3: LouisPierre ( 2,04 $ )
+Seat 4: B2B_Suckouts ( 2,45 $ )
+Seat 5: katoka88 ( 0,45 $ )
+Seat 6: Imlucky88 ( 2,22 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: OKE_RASTA_J ( 0,61 $ )
+LouisPierre posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 6Herz ]
+katoka88 raises [0,04 $]
+Imlucky88 raises [0,16 $]
+Merodan folds
+OKE_RASTA_J folds
+Croslandv folds
+avramia1 folds
+LouisPierre calls [0,15 $]
+B2B_Suckouts folds
+katoka88 calls [0,12 $]
+** Dealing flop ** [ QPik, 2Pik, 7Kreuz ]
+LouisPierre checks
+katoka88 bets [0,29 $]
+Imlucky88 folds
+LouisPierre calls [0,29 $]
+** Dealing turn ** [ 9Kreuz ]
+** Dealing river ** [ 2Herz ]
+** Summary **
+LouisPierre shows [ 8Karo, 8Kreuz ]
+katoka88 shows [ 6Pik, 6Karo ]
+LouisPierre collected [ 1,02 $ ]
+
+
+
+#Game No : 474162321
+***** 888poker Hand History for Game 474162321 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:01:09
+Table Dabou 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,05 $ )
+Seat 2: avramia1 ( 2,44 $ )
+Seat 3: LouisPierre ( 2,61 $ )
+Seat 4: B2B_Suckouts ( 2,43 $ )
+Seat 6: Imlucky88 ( 2,06 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: OKE_RASTA_J ( 0,61 $ )
+Seat 10: scquad ( 1,40 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Imlucky88 posts big blind [0,02 $]
+scquad posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, KKreuz ]
+Merodan folds
+OKE_RASTA_J folds
+scquad checks
+Croslandv calls [0,02 $]
+avramia1 calls [0,02 $]
+LouisPierre raises [0,08 $]
+B2B_Suckouts folds
+Imlucky88 folds
+scquad folds
+Croslandv folds
+avramia1 folds
+** Summary **
+LouisPierre collected [ 0,11 $ ]
+
+
+
+#Game No : 474162344
+***** 888poker Hand History for Game 474162344 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:02:02
+Table Dabou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,03 $ )
+Seat 2: avramia1 ( 2,42 $ )
+Seat 3: LouisPierre ( 2,70 $ )
+Seat 4: B2B_Suckouts ( 2,42 $ )
+Seat 6: Imlucky88 ( 2,04 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: OKE_RASTA_J ( 0,61 $ )
+Seat 10: scquad ( 1,38 $ )
+Imlucky88 posts small blind [0,01 $]
+Merodan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 10Pik ]
+OKE_RASTA_J calls [0,02 $]
+scquad folds
+Croslandv folds
+avramia1 folds
+LouisPierre folds
+B2B_Suckouts raises [0,04 $]
+Imlucky88 folds
+Merodan calls [0,02 $]
+OKE_RASTA_J calls [0,02 $]
+** Dealing flop ** [ 9Kreuz, 2Kreuz, 9Karo ]
+Merodan checks
+OKE_RASTA_J checks
+B2B_Suckouts bets [0,04 $]
+Merodan raises [0,16 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+** Summary **
+Merodan collected [ 0,20 $ ]
+
+
+
+#Game No : 474162365
+***** 888poker Hand History for Game 474162365 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:03:01
+Table Dabou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,03 $ )
+Seat 2: avramia1 ( 2,42 $ )
+Seat 3: LouisPierre ( 2,70 $ )
+Seat 4: B2B_Suckouts ( 2,34 $ )
+Seat 6: Imlucky88 ( 2,03 $ )
+Seat 7: Merodan ( 2,12 $ )
+Seat 9: OKE_RASTA_J ( 0,57 $ )
+Seat 10: scquad ( 1,38 $ )
+Merodan posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, KKreuz ]
+scquad folds
+Croslandv calls [0,02 $]
+avramia1 calls [0,02 $]
+LouisPierre calls [0,02 $]
+B2B_Suckouts folds
+Imlucky88 folds
+Merodan folds
+OKE_RASTA_J checks
+** Dealing flop ** [ 9Herz, 7Karo, 9Pik ]
+OKE_RASTA_J checks
+Croslandv bets [0,04 $]
+avramia1 folds
+LouisPierre calls [0,04 $]
+OKE_RASTA_J calls [0,04 $]
+** Dealing turn ** [ 8Herz ]
+OKE_RASTA_J checks
+Croslandv bets [0,08 $]
+LouisPierre calls [0,08 $]
+OKE_RASTA_J calls [0,08 $]
+** Dealing river ** [ 4Herz ]
+OKE_RASTA_J checks
+Croslandv bets [0,12 $]
+LouisPierre calls [0,12 $]
+OKE_RASTA_J folds
+** Summary **
+Croslandv shows [ 8Karo, KKaro ]
+LouisPierre mucks [ 3Herz, 3Karo ]
+Croslandv collected [ 0,65 $ ]
+
+
+
+#Game No : 474162398
+***** 888poker Hand History for Game 474162398 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:04:52
+Table Dabou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Croslandv ( 1,42 $ )
+Seat 2: avramia1 ( 2,40 $ )
+Seat 3: LouisPierre ( 2,44 $ )
+Seat 4: B2B_Suckouts ( 2,34 $ )
+Seat 5: katoka88 ( 0,80 $ )
+Seat 6: Imlucky88 ( 2,03 $ )
+Seat 7: Merodan ( 2,11 $ )
+Seat 9: OKE_RASTA_J ( 0,80 $ )
+Seat 10: scquad ( 1,38 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+scquad posts big blind [0,02 $]
+katoka88 posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 3Pik ]
+Croslandv folds
+avramia1 folds
+LouisPierre folds
+B2B_Suckouts folds
+katoka88 checks
+Imlucky88 raises [0,08 $]
+Merodan calls [0,08 $]
+OKE_RASTA_J folds
+scquad folds
+katoka88 folds
+** Dealing flop ** [ KKaro, JHerz, 4Herz ]
+Imlucky88 bets [0,08 $]
+Merodan folds
+** Summary **
+Imlucky88 did not show his hand
+Imlucky88 collected [ 0,21 $ ]
+
+
+
+#Game No : 474162427
+***** 888poker Hand History for Game 474162427 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:06:04
+Table Dabou 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Croslandv ( 1,42 $ )
+Seat 2: avramia1 ( 2,40 $ )
+Seat 3: LouisPierre ( 2,44 $ )
+Seat 4: B2B_Suckouts ( 2,34 $ )
+Seat 5: katoka88 ( 0,77 $ )
+Seat 6: Imlucky88 ( 2,16 $ )
+Seat 7: Merodan ( 2,03 $ )
+Seat 9: OKE_RASTA_J ( 0,79 $ )
+Seat 10: scquad ( 1,36 $ )
+scquad posts small blind [0,01 $]
+Croslandv posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, QPik ]
+avramia1 folds
+LouisPierre folds
+B2B_Suckouts folds
+katoka88 folds
+Imlucky88 folds
+Merodan folds
+OKE_RASTA_J calls [0,02 $]
+scquad calls [0,01 $]
+Croslandv checks
+** Dealing flop ** [ KKreuz, JPik, 4Herz ]
+scquad checks
+Croslandv bets [0,04 $]
+OKE_RASTA_J calls [0,04 $]
+scquad folds
+** Dealing turn ** [ APik ]
+Croslandv checks
+OKE_RASTA_J checks
+** Dealing river ** [ AKaro ]
+Croslandv bets [0,04 $]
+OKE_RASTA_J calls [0,04 $]
+** Summary **
+Croslandv shows [ 9Karo, JKreuz ]
+OKE_RASTA_J shows [ QHerz, KHerz ]
+OKE_RASTA_J collected [ 0,21 $ ]
+
+
+
+#Game No : 474162451
+***** 888poker Hand History for Game 474162451 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:07:18
+Table Dabou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Croslandv ( 1,32 $ )
+Seat 2: avramia1 ( 2,40 $ )
+Seat 3: LouisPierre ( 2,44 $ )
+Seat 4: B2B_Suckouts ( 2,34 $ )
+Seat 5: katoka88 ( 0,77 $ )
+Seat 6: Imlucky88 ( 2,16 $ )
+Seat 7: Merodan ( 2,03 $ )
+Seat 9: OKE_RASTA_J ( 0,90 $ )
+Seat 10: scquad ( 1,34 $ )
+Croslandv posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 6Kreuz ]
+LouisPierre raises [0,06 $]
+B2B_Suckouts folds
+katoka88 folds
+Imlucky88 calls [0,06 $]
+Merodan folds
+OKE_RASTA_J folds
+scquad folds
+Croslandv folds
+avramia1 calls [0,04 $]
+** Dealing flop ** [ JKaro, 9Herz, 3Pik ]
+avramia1 checks
+LouisPierre checks
+Imlucky88 checks
+** Dealing turn ** [ AKreuz ]
+avramia1 checks
+LouisPierre bets [0,12 $]
+Imlucky88 folds
+avramia1 raises [0,55 $]
+LouisPierre calls [0,43 $]
+** Dealing river ** [ 6Karo ]
+avramia1 bets [1,79 $]
+LouisPierre folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ 1,21 $ ]
+
+
+
+#Game No : 474162498
+***** 888poker Hand History for Game 474162498 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:09:26
+Table Dabou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Croslandv ( 1,31 $ )
+Seat 2: avramia1 ( 3 $ )
+Seat 3: LouisPierre ( 1,83 $ )
+Seat 4: B2B_Suckouts ( 2,34 $ )
+Seat 5: katoka88 ( 0,77 $ )
+Seat 6: Imlucky88 ( 2,10 $ )
+Seat 7: Merodan ( 2,03 $ )
+Seat 9: OKE_RASTA_J ( 0,90 $ )
+Seat 10: scquad ( 1,34 $ )
+avramia1 posts small blind [0,01 $]
+LouisPierre posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 4Kreuz ]
+B2B_Suckouts folds
+katoka88 folds
+Imlucky88 folds
+Merodan folds
+OKE_RASTA_J folds
+scquad folds
+Croslandv folds
+avramia1 calls [0,01 $]
+LouisPierre raises [0,06 $]
+avramia1 folds
+** Summary **
+LouisPierre did not show his hand
+LouisPierre collected [ 0,04 $ ]
+
+
+
+#Game No : 474162515
+***** 888poker Hand History for Game 474162515 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:10:06
+Table Dabou 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: Croslandv ( 1,31 $ )
+Seat 2: avramia1 ( 2,98 $ )
+Seat 3: LouisPierre ( 1,85 $ )
+Seat 4: B2B_Suckouts ( 2,34 $ )
+Seat 5: katoka88 ( 0,77 $ )
+Seat 6: Imlucky88 ( 2,10 $ )
+Seat 7: Merodan ( 2,03 $ )
+Seat 9: OKE_RASTA_J ( 0,90 $ )
+Seat 10: scquad ( 1,34 $ )
+LouisPierre posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, JHerz ]
+katoka88 folds
+Imlucky88 folds
+Merodan folds
+OKE_RASTA_J calls [0,02 $]
+scquad folds
+Croslandv folds
+avramia1 folds
+LouisPierre raises [0,07 $]
+B2B_Suckouts folds
+OKE_RASTA_J folds
+** Summary **
+LouisPierre did not show his hand
+LouisPierre collected [ 0,06 $ ]
+
+
+
+#Game No : 474162528
+***** 888poker Hand History for Game 474162528 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:10:40
+Table Dabou 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,31 $ )
+Seat 2: avramia1 ( 2,98 $ )
+Seat 4: B2B_Suckouts ( 2,32 $ )
+Seat 5: katoka88 ( 0,77 $ )
+Seat 6: Imlucky88 ( 2,10 $ )
+Seat 7: Merodan ( 2,03 $ )
+Seat 9: OKE_RASTA_J ( 0,88 $ )
+Seat 10: scquad ( 1,34 $ )
+B2B_Suckouts posts small blind [0,01 $]
+katoka88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 9Kreuz ]
+Imlucky88 folds
+Merodan folds
+OKE_RASTA_J calls [0,02 $]
+scquad folds
+Croslandv calls [0,02 $]
+avramia1 folds
+B2B_Suckouts raises [0,05 $]
+katoka88 folds
+OKE_RASTA_J calls [0,04 $]
+Croslandv folds
+** Dealing flop ** [ 9Herz, 5Kreuz, QHerz ]
+B2B_Suckouts bets [0,05 $]
+OKE_RASTA_J folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 474162545
+***** 888poker Hand History for Game 474162545 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:11:26
+Table Dabou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: Croslandv ( 1,29 $ )
+Seat 2: avramia1 ( 2,98 $ )
+Seat 3: gwb1234 ( 2 $ )
+Seat 4: B2B_Suckouts ( 2,41 $ )
+Seat 5: katoka88 ( 0,75 $ )
+Seat 6: Woffinden ( 2 $ )
+Seat 7: Merodan ( 2,03 $ )
+Seat 9: OKE_RASTA_J ( 0,82 $ )
+Seat 10: scquad ( 1,34 $ )
+katoka88 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+gwb1234 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 4Herz ]
+Merodan folds
+OKE_RASTA_J folds
+scquad folds
+Croslandv calls [0,02 $]
+avramia1 calls [0,02 $]
+gwb1234 checks
+B2B_Suckouts calls [0,02 $]
+katoka88 folds
+Woffinden raises [0,14 $]
+Croslandv folds
+avramia1 raises [0,98 $]
+gwb1234 folds
+B2B_Suckouts folds
+Woffinden folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ 0,39 $ ]
+
+
+
+#Game No : 474162573
+***** 888poker Hand History for Game 474162573 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:12:26
+Table Dabou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: Croslandv ( 1,27 $ )
+Seat 2: avramia1 ( 3,21 $ )
+Seat 3: gwb1234 ( 1,98 $ )
+Seat 4: B2B_Suckouts ( 2,39 $ )
+Seat 5: katoka88 ( 0,74 $ )
+Seat 6: Woffinden ( 2 $ )
+Seat 7: Merodan ( 2,03 $ )
+Seat 9: OKE_RASTA_J ( 0,82 $ )
+Seat 10: scquad ( 1,34 $ )
+Woffinden posts small blind [0,01 $]
+Merodan posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 3Pik ]
+OKE_RASTA_J folds
+scquad folds
+Croslandv folds
+avramia1 calls [0,02 $]
+gwb1234 calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+katoka88 folds
+Woffinden folds
+Merodan folds
+avramia1 calls [0,04 $]
+gwb1234 calls [0,04 $]
+** Dealing flop ** [ 8Herz, QPik, 7Karo ]
+avramia1 checks
+gwb1234 checks
+B2B_Suckouts bets [0,06 $]
+avramia1 calls [0,06 $]
+gwb1234 calls [0,06 $]
+** Dealing turn ** [ 6Herz ]
+avramia1 checks
+gwb1234 checks
+B2B_Suckouts bets [0,36 $]
+avramia1 folds
+gwb1234 calls [0,36 $]
+** Dealing river ** [ QHerz ]
+gwb1234 bets [0,73 $]
+B2B_Suckouts folds
+** Summary **
+gwb1234 collected [ 1,05 $ ]
+
+
+
+#Game No : 474162598
+***** 888poker Hand History for Game 474162598 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:13:39
+Table Dabou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Croslandv ( 1,27 $ )
+Seat 2: avramia1 ( 3,09 $ )
+Seat 3: gwb1234 ( 2,55 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,74 $ )
+Seat 6: Woffinden ( 2 $ )
+Seat 7: Merodan ( 2,01 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,34 $ )
+Merodan posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 9Herz ]
+scquad folds
+Croslandv folds
+avramia1 folds
+gwb1234 calls [0,02 $]
+B2B_Suckouts folds
+katoka88 folds
+Woffinden raises [0,10 $]
+Merodan folds
+rojser calls [0,08 $]
+gwb1234 calls [0,08 $]
+** Dealing flop ** [ 10Herz, AKaro, APik ]
+rojser checks
+gwb1234 checks
+Woffinden bets [0,20 $]
+rojser calls [0,20 $]
+gwb1234 folds
+** Dealing turn ** [ 7Kreuz ]
+rojser checks
+Woffinden bets [0,46 $]
+rojser raises [1,54 $]
+Woffinden raises [1,24 $]
+rojser calls [0,16 $]
+** Dealing river ** [ 4Kreuz ]
+** Summary **
+Woffinden shows [ AKreuz, 4Pik ]
+rojser shows [ KKaro, AHerz ]
+Woffinden collected [ 3,86 $ ]
+
+
+
+#Game No : 474162623
+***** 888poker Hand History for Game 474162623 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:14:58
+Table Dabou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Croslandv ( 1,27 $ )
+Seat 2: avramia1 ( 3,09 $ )
+Seat 3: gwb1234 ( 2,45 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,74 $ )
+Seat 6: Woffinden ( 3,86 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,34 $ )
+rojser posts small blind [0,01 $]
+scquad posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 9Kreuz ]
+Croslandv folds
+avramia1 folds
+gwb1234 calls [0,02 $]
+B2B_Suckouts folds
+katoka88 raises [0,06 $]
+Woffinden folds
+Merodan folds
+rojser folds
+scquad folds
+gwb1234 calls [0,04 $]
+** Dealing flop ** [ AHerz, QKreuz, JHerz ]
+gwb1234 checks
+katoka88 bets [0,06 $]
+gwb1234 calls [0,06 $]
+** Dealing turn ** [ QKaro ]
+gwb1234 checks
+katoka88 bets [0,10 $]
+gwb1234 calls [0,10 $]
+** Dealing river ** [ 6Karo ]
+gwb1234 checks
+katoka88 checks
+** Summary **
+gwb1234 shows [ 7Kreuz, KKreuz ]
+katoka88 shows [ 8Kreuz, APik ]
+katoka88 collected [ 0,45 $ ]
+
+
+
+#Game No : 474162650
+***** 888poker Hand History for Game 474162650 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:16:08
+Table Dabou 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Croslandv ( 1,27 $ )
+Seat 2: avramia1 ( 3,09 $ )
+Seat 3: gwb1234 ( 2,23 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,97 $ )
+Seat 6: Woffinden ( 3,86 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,32 $ )
+scquad posts small blind [0,01 $]
+Croslandv posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 7Kreuz ]
+avramia1 folds
+gwb1234 folds
+B2B_Suckouts raises [0,06 $]
+katoka88 folds
+Woffinden folds
+Merodan folds
+rojser calls [0,06 $]
+scquad folds
+Croslandv folds
+** Dealing flop ** [ QKaro, 4Kreuz, 2Pik ]
+B2B_Suckouts checks
+rojser bets [0,10 $]
+B2B_Suckouts folds
+** Summary **
+rojser did not show his hand
+rojser collected [ 0,15 $ ]
+
+
+
+#Game No : 474162667
+***** 888poker Hand History for Game 474162667 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:16:45
+Table Dabou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,25 $ )
+Seat 2: avramia1 ( 3,09 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,97 $ )
+Seat 6: Woffinden ( 3,86 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: rojser ( 2,09 $ )
+Seat 10: scquad ( 1,31 $ )
+Croslandv posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, QKaro ]
+B2B_Suckouts folds
+katoka88 folds
+Woffinden folds
+Merodan folds
+rojser folds
+scquad raises [0,04 $]
+Croslandv folds
+avramia1 raises [0,11 $]
+scquad folds
+** Summary **
+avramia1 did not show his hand
+avramia1 collected [ 0,09 $ ]
+
+
+
+#Game No : 474162685
+***** 888poker Hand History for Game 474162685 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:17:26
+Table Dabou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,24 $ )
+Seat 2: avramia1 ( 3,14 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,97 $ )
+Seat 6: Woffinden ( 3,86 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: rojser ( 2,09 $ )
+Seat 10: scquad ( 1,27 $ )
+avramia1 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 4Pik ]
+katoka88 folds
+Woffinden folds
+Merodan folds
+rojser folds
+scquad folds
+Croslandv folds
+avramia1 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ JPik, KKaro, QKaro ]
+avramia1 bets [0,04 $]
+B2B_Suckouts folds
+** Summary **
+avramia1 collected [ 0,04 $ ]
+
+
+
+#Game No : 474162695
+***** 888poker Hand History for Game 474162695 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:18:01
+Table Dabou 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,24 $ )
+Seat 2: avramia1 ( 3,16 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 0,97 $ )
+Seat 6: Woffinden ( 3,86 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: rojser ( 2,09 $ )
+Seat 10: scquad ( 1,27 $ )
+B2B_Suckouts posts small blind [0,01 $]
+katoka88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 9Herz ]
+Woffinden folds
+Merodan folds
+rojser folds
+scquad raises [0,05 $]
+Croslandv folds
+avramia1 folds
+B2B_Suckouts folds
+katoka88 calls [0,03 $]
+** Dealing flop ** [ 8Herz, 7Kreuz, 2Kreuz ]
+katoka88 bets [0,06 $]
+scquad folds
+** Summary **
+katoka88 collected [ 0,11 $ ]
+
+
+
+#Game No : 474162712
+***** 888poker Hand History for Game 474162712 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:18:52
+Table Dabou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,24 $ )
+Seat 2: avramia1 ( 3,16 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: katoka88 ( 1,03 $ )
+Seat 6: Woffinden ( 3,86 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: rojser ( 2,09 $ )
+Seat 10: scquad ( 1,22 $ )
+katoka88 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 6Herz ]
+Merodan folds
+rojser folds
+scquad folds
+Croslandv calls [0,02 $]
+avramia1 calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+katoka88 folds
+Woffinden folds
+Croslandv calls [0,04 $]
+avramia1 calls [0,04 $]
+** Dealing flop ** [ 6Kreuz, 3Kreuz, 5Pik ]
+Croslandv bets [0,08 $]
+avramia1 folds
+B2B_Suckouts raises [0,16 $]
+Croslandv raises [0,16 $]
+B2B_Suckouts calls [0,08 $]
+** Dealing turn ** [ 9Kreuz ]
+Croslandv bets [0,22 $]
+B2B_Suckouts raises [1,70 $]
+Croslandv folds
+** Summary **
+B2B_Suckouts collected [ 1,06 $ ]
+
+
+
+#Game No : 474162737
+***** 888poker Hand History for Game 474162737 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:20:00
+Table Dabou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 0,72 $ )
+Seat 2: avramia1 ( 3,10 $ )
+Seat 4: B2B_Suckouts ( 2,54 $ )
+Seat 5: katoka88 ( 1,02 $ )
+Seat 6: Woffinden ( 3,84 $ )
+Seat 7: Merodan ( 2 $ )
+Seat 9: rojser ( 2,09 $ )
+Seat 10: scquad ( 1,22 $ )
+Woffinden posts small blind [0,01 $]
+Merodan folds
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, KKreuz ]
+scquad folds
+Croslandv raises [0,06 $]
+avramia1 folds
+B2B_Suckouts calls [0,06 $]
+katoka88 folds
+Woffinden folds
+rojser folds
+** Dealing flop ** [ 10Karo, 10Kreuz, 7Pik ]
+Croslandv bets [0,66 $]
+B2B_Suckouts folds
+** Summary **
+Croslandv collected [ 0,15 $ ]
+
+
+
+#Game No : 474162759
+***** 888poker Hand History for Game 474162759 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:20:58
+Table Dabou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 6
+Seat 1: Croslandv ( 0,81 $ )
+Seat 2: avramia1 ( 3,10 $ )
+Seat 4: B2B_Suckouts ( 2,48 $ )
+Seat 6: Woffinden ( 3,83 $ )
+Seat 9: rojser ( 2,07 $ )
+Seat 10: scquad ( 1,22 $ )
+rojser posts small blind [0,01 $]
+scquad posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, KKreuz ]
+Croslandv raises [0,81 $]
+avramia1 folds
+B2B_Suckouts calls [0,81 $]
+Woffinden folds
+rojser folds
+scquad folds
+** Dealing flop ** [ 2Kreuz, 10Karo, 5Herz ]
+** Dealing turn ** [ 8Pik ]
+** Dealing river ** [ AKaro ]
+** Summary **
+Croslandv shows [ 5Kreuz, 5Pik ]
+B2B_Suckouts shows [ APik, KKreuz ]
+Croslandv collected [ 1,55 $ ]
+
+
+
+#Game No : 474162766
+***** 888poker Hand History for Game 474162766 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:21:31
+Table Dabou 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 1: Croslandv ( 1,55 $ )
+Seat 2: avramia1 ( 3,10 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 6: Woffinden ( 3,83 $ )
+Seat 9: rojser ( 2,06 $ )
+Seat 10: scquad ( 1,20 $ )
+scquad posts small blind [0,01 $]
+Croslandv posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 4Pik ]
+avramia1 folds
+B2B_Suckouts folds
+Woffinden folds
+rojser folds
+scquad folds
+** Summary **
+Croslandv collected [ 0,03 $ ]
+
+
+
+#Game No : 474162774
+***** 888poker Hand History for Game 474162774 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:21:52
+Table Dabou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 1: Croslandv ( 1,56 $ )
+Seat 2: avramia1 ( 3,10 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 6: Woffinden ( 3,83 $ )
+Seat 9: rojser ( 2,06 $ )
+Seat 10: scquad ( 1,19 $ )
+Croslandv posts small blind [0,01 $]
+avramia1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 3Pik ]
+B2B_Suckouts folds
+Woffinden folds
+rojser folds
+scquad folds
+Croslandv raises [0,03 $]
+avramia1 raises [0,04 $]
+Croslandv calls [0,02 $]
+** Dealing flop ** [ 4Pik, KPik, 9Kreuz ]
+Croslandv checks
+avramia1 bets [0,08 $]
+Croslandv folds
+** Summary **
+avramia1 collected [ 0,12 $ ]
+
+
+
+#Game No : 474162791
+***** 888poker Hand History for Game 474162791 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:22:40
+Table Dabou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 6
+Seat 1: Croslandv ( 1,50 $ )
+Seat 2: avramia1 ( 3,16 $ )
+Seat 3: sintein69 ( 2 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 6: Woffinden ( 3,83 $ )
+Seat 9: rojser ( 2,06 $ )
+avramia1 posts small blind [0,01 $]
+sintein69 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, AKaro ]
+B2B_Suckouts folds
+Woffinden folds
+rojser folds
+Croslandv folds
+avramia1 calls [0,01 $]
+sintein69 checks
+** Dealing flop ** [ 5Herz, 9Pik, 10Karo ]
+avramia1 checks
+sintein69 bets [0,04 $]
+avramia1 calls [0,04 $]
+** Dealing turn ** [ 4Herz ]
+avramia1 checks
+sintein69 bets [0,03 $]
+avramia1 calls [0,03 $]
+** Dealing river ** [ 8Herz ]
+avramia1 checks
+sintein69 bets [0,09 $]
+avramia1 folds
+** Summary **
+sintein69 collected [ 0,17 $ ]
+
+
+
+#Game No : 474162813
+***** 888poker Hand History for Game 474162813 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:23:42
+Table Dabou 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 6
+Seat 1: Croslandv ( 1,50 $ )
+Seat 2: avramia1 ( 3,07 $ )
+Seat 3: sintein69 ( 2,08 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 6: Woffinden ( 3,83 $ )
+Seat 9: rojser ( 2,06 $ )
+sintein69 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 6Herz ]
+Woffinden folds
+rojser folds
+Croslandv folds
+avramia1 raises [0,04 $]
+sintein69 folds
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ KKaro, 2Karo, JPik ]
+B2B_Suckouts checks
+avramia1 checks
+** Dealing turn ** [ 4Kreuz ]
+B2B_Suckouts checks
+avramia1 checks
+** Dealing river ** [ KHerz ]
+B2B_Suckouts bets [0,10 $]
+avramia1 folds
+** Summary **
+B2B_Suckouts collected [ 0,09 $ ]
+
+
+
+#Game No : 474162837
+***** 888poker Hand History for Game 474162837 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:24:49
+Table Dabou 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 1: Croslandv ( 1,50 $ )
+Seat 2: avramia1 ( 3,03 $ )
+Seat 3: sintein69 ( 2,07 $ )
+Seat 4: B2B_Suckouts ( 2,05 $ )
+Seat 6: Woffinden ( 3,83 $ )
+Seat 9: rojser ( 2,06 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 9Pik ]
+rojser folds
+Croslandv calls [0,02 $]
+avramia1 calls [0,02 $]
+sintein69 folds
+B2B_Suckouts calls [0,01 $]
+Woffinden raises [0,10 $]
+Croslandv folds
+avramia1 folds
+B2B_Suckouts folds
+** Summary **
+Woffinden collected [ 0,08 $ ]
+
+
+
+#Game No : 474162852
+***** 888poker Hand History for Game 474162852 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:25:34
+Table Dabou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,48 $ )
+Seat 2: avramia1 ( 3,01 $ )
+Seat 3: sintein69 ( 2,07 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 6: Woffinden ( 3,89 $ )
+Seat 7: GOGOFOLDME ( 1,40 $ )
+Seat 9: rojser ( 2,06 $ )
+Seat 10: scquad ( 1,19 $ )
+Woffinden posts small blind [0,01 $]
+GOGOFOLDME posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 7Karo ]
+rojser folds
+scquad folds
+Croslandv folds
+avramia1 folds
+sintein69 folds
+B2B_Suckouts folds
+Woffinden raises [0,07 $]
+GOGOFOLDME raises [1,38 $]
+Woffinden folds
+** Summary **
+GOGOFOLDME collected [ 0,16 $ ]
+
+
+
+#Game No : 474162860
+***** 888poker Hand History for Game 474162860 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:25:59
+Table Dabou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: Croslandv ( 1,48 $ )
+Seat 2: avramia1 ( 3,01 $ )
+Seat 3: sintein69 ( 2,07 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 6: Woffinden ( 3,81 $ )
+Seat 7: GOGOFOLDME ( 1,48 $ )
+Seat 9: rojser ( 2,06 $ )
+Seat 10: scquad ( 1,19 $ )
+GOGOFOLDME posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, KKreuz ]
+scquad folds
+Croslandv folds
+avramia1 folds
+sintein69 folds
+B2B_Suckouts folds
+Woffinden folds
+GOGOFOLDME calls [0,01 $]
+rojser checks
+** Dealing flop ** [ KPik, QPik, 5Pik ]
+GOGOFOLDME bets [0,02 $]
+rojser folds
+** Summary **
+GOGOFOLDME collected [ 0,04 $ ]
+
+
+
+#Game No : 474162880
+***** 888poker Hand History for Game 474162880 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:26:38
+Table Dabou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: avramia1 ( 3,01 $ )
+Seat 3: sintein69 ( 2,07 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 6: Woffinden ( 3,81 $ )
+Seat 7: GOGOFOLDME ( 1,50 $ )
+Seat 9: rojser ( 2,04 $ )
+Seat 10: scquad ( 1,19 $ )
+rojser posts small blind [0,01 $]
+scquad posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, QPik ]
+avramia1 folds
+sintein69 folds
+B2B_Suckouts folds
+Woffinden folds
+GOGOFOLDME raises [0,04 $]
+rojser calls [0,03 $]
+scquad calls [0,02 $]
+** Dealing flop ** [ 9Kreuz, QKaro, KHerz ]
+rojser checks
+scquad checks
+GOGOFOLDME bets [0,03 $]
+rojser folds
+scquad folds
+** Summary **
+GOGOFOLDME collected [ 0,12 $ ]
+
+
+
+#Game No : 474162897
+***** 888poker Hand History for Game 474162897 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:27:26
+Table Dabou 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 2: avramia1 ( 3,01 $ )
+Seat 3: sintein69 ( 2,07 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 6: Woffinden ( 3,81 $ )
+Seat 7: GOGOFOLDME ( 1,58 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,15 $ )
+scquad posts small blind [0,01 $]
+avramia1 folds
+sintein69 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 4Pik ]
+B2B_Suckouts folds
+Woffinden folds
+GOGOFOLDME calls [0,02 $]
+rojser folds
+scquad folds
+sintein69 checks
+** Dealing flop ** [ 8Pik, 9Pik, 3Herz ]
+sintein69 checks
+GOGOFOLDME checks
+** Dealing turn ** [ 3Kreuz ]
+sintein69 bets [0,05 $]
+GOGOFOLDME folds
+** Summary **
+sintein69 collected [ 0,05 $ ]
+
+
+
+#Game No : 474162910
+***** 888poker Hand History for Game 474162910 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:28:09
+Table Dabou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 6
+Seat 3: sintein69 ( 2,10 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 6: Woffinden ( 3,81 $ )
+Seat 7: GOGOFOLDME ( 1,56 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,14 $ )
+sintein69 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 3Herz ]
+Woffinden folds
+GOGOFOLDME folds
+rojser folds
+scquad folds
+sintein69 folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 474162915
+***** 888poker Hand History for Game 474162915 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:28:28
+Table Dabou 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: Yanysik8989 ( 2 $ )
+Seat 3: sintein69 ( 2,09 $ )
+Seat 4: B2B_Suckouts ( 2,04 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 3,81 $ )
+Seat 7: GOGOFOLDME ( 1,56 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,14 $ )
+B2B_Suckouts posts small blind [0,01 $]
+dimzag posts big blind [0,02 $]
+Yanysik8989 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 4Karo ]
+Woffinden folds
+GOGOFOLDME raises [0,04 $]
+rojser folds
+scquad folds
+Yanysik8989 calls [0,02 $]
+sintein69 folds
+B2B_Suckouts folds
+dimzag calls [0,02 $]
+** Dealing flop ** [ 5Karo, 10Pik, AKaro ]
+dimzag checks
+GOGOFOLDME bets [0,04 $]
+Yanysik8989 folds
+dimzag calls [0,04 $]
+** Dealing turn ** [ KKreuz ]
+dimzag checks
+GOGOFOLDME bets [0,06 $]
+dimzag calls [0,06 $]
+** Dealing river ** [ 5Herz ]
+dimzag checks
+GOGOFOLDME bets [0,10 $]
+dimzag folds
+** Summary **
+GOGOFOLDME did not show his hand
+GOGOFOLDME collected [ 0,31 $ ]
+
+
+
+#Game No : 474162934
+***** 888poker Hand History for Game 474162934 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:29:17
+Table Dabou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Yanysik8989 ( 1,96 $ )
+Seat 3: sintein69 ( 2,09 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 3,81 $ )
+Seat 7: GOGOFOLDME ( 1,73 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,14 $ )
+dimzag posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 2Kreuz ]
+GOGOFOLDME raises [0,04 $]
+rojser folds
+scquad calls [0,04 $]
+Yanysik8989 folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag calls [0,03 $]
+Woffinden folds
+** Dealing flop ** [ 10Herz, 2Pik, 4Kreuz ]
+dimzag checks
+GOGOFOLDME bets [0,02 $]
+scquad raises [0,04 $]
+dimzag calls [0,04 $]
+GOGOFOLDME folds
+** Dealing turn ** [ 3Herz ]
+dimzag checks
+scquad bets [0,07 $]
+dimzag raises [0,17 $]
+scquad calls [0,10 $]
+** Dealing river ** [ 4Herz ]
+dimzag bets [0,19 $]
+scquad calls [0,19 $]
+** Summary **
+dimzag shows [ 5Herz, AKreuz ]
+scquad mucks [ 10Karo, 9Karo ]
+dimzag collected [ 0,90 $ ]
+
+
+
+#Game No : 474162955
+***** 888poker Hand History for Game 474162955 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:30:16
+Table Dabou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Yanysik8989 ( 1,96 $ )
+Seat 3: sintein69 ( 2,09 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 5: dimzag ( 2,46 $ )
+Seat 6: Woffinden ( 3,79 $ )
+Seat 7: GOGOFOLDME ( 1,67 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 0,70 $ )
+Woffinden posts small blind [0,01 $]
+GOGOFOLDME posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 6Kreuz ]
+rojser folds
+scquad folds
+Yanysik8989 folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag raises [0,06 $]
+Woffinden folds
+GOGOFOLDME calls [0,04 $]
+** Dealing flop ** [ 8Pik, KKaro, QPik ]
+GOGOFOLDME bets [0,02 $]
+dimzag raises [0,10 $]
+GOGOFOLDME calls [0,08 $]
+** Dealing turn ** [ 7Herz ]
+GOGOFOLDME checks
+dimzag bets [0,25 $]
+GOGOFOLDME folds
+** Summary **
+dimzag collected [ 0,31 $ ]
+
+
+
+#Game No : 474162975
+***** 888poker Hand History for Game 474162975 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:31:14
+Table Dabou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: Yanysik8989 ( 1,96 $ )
+Seat 2: M4teo ( 2 $ )
+Seat 3: sintein69 ( 2,09 $ )
+Seat 4: B2B_Suckouts ( 2,03 $ )
+Seat 5: dimzag ( 2,61 $ )
+Seat 6: Woffinden ( 3,78 $ )
+Seat 7: GOGOFOLDME ( 1,51 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 0,70 $ )
+GOGOFOLDME posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+M4teo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 3Pik ]
+scquad folds
+Yanysik8989 calls [0,02 $]
+M4teo checks
+sintein69 folds
+B2B_Suckouts calls [0,02 $]
+dimzag raises [0,20 $]
+Woffinden folds
+GOGOFOLDME calls [0,19 $]
+rojser folds
+Yanysik8989 folds
+M4teo folds
+B2B_Suckouts folds
+** Dealing flop ** [ 8Karo, 5Herz, JHerz ]
+GOGOFOLDME bets [0,15 $]
+dimzag calls [0,15 $]
+** Dealing turn ** [ 7Pik ]
+GOGOFOLDME bets [0,25 $]
+dimzag calls [0,25 $]
+** Dealing river ** [ 2Herz ]
+GOGOFOLDME bets [0,42 $]
+dimzag folds
+** Summary **
+GOGOFOLDME did not show his hand
+GOGOFOLDME collected [ 1,20 $ ]
+
+
+
+#Game No : 474162994
+***** 888poker Hand History for Game 474162994 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:32:24
+Table Dabou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: Yanysik8989 ( 1,94 $ )
+Seat 2: M4teo ( 1,98 $ )
+Seat 3: sintein69 ( 2,09 $ )
+Seat 4: B2B_Suckouts ( 2,01 $ )
+Seat 5: dimzag ( 2,01 $ )
+Seat 6: Woffinden ( 3,78 $ )
+Seat 7: GOGOFOLDME ( 2,11 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 0,70 $ )
+rojser posts small blind [0,01 $]
+scquad posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 5Karo ]
+Yanysik8989 folds
+M4teo folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag folds
+Woffinden raises [0,08 $]
+GOGOFOLDME folds
+rojser folds
+scquad folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,05 $ ]
+
+
+
+#Game No : 474163009
+***** 888poker Hand History for Game 474163009 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:33:02
+Table Dabou 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: Yanysik8989 ( 1,94 $ )
+Seat 2: M4teo ( 1,98 $ )
+Seat 3: sintein69 ( 2,09 $ )
+Seat 4: B2B_Suckouts ( 2,01 $ )
+Seat 5: dimzag ( 2,01 $ )
+Seat 6: Woffinden ( 3,81 $ )
+Seat 7: GOGOFOLDME ( 2,11 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 0,68 $ )
+scquad posts small blind [0,01 $]
+Yanysik8989 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, JHerz ]
+M4teo calls [0,02 $]
+sintein69 raises [0,04 $]
+B2B_Suckouts folds
+dimzag folds
+Woffinden calls [0,04 $]
+GOGOFOLDME folds
+rojser folds
+scquad folds
+Yanysik8989 calls [0,02 $]
+M4teo calls [0,02 $]
+** Dealing flop ** [ 9Karo, 8Karo, QHerz ]
+Yanysik8989 checks
+M4teo checks
+sintein69 bets [0,06 $]
+Woffinden calls [0,06 $]
+Yanysik8989 folds
+M4teo folds
+** Dealing turn ** [ QKaro ]
+sintein69 bets [0,09 $]
+Woffinden calls [0,09 $]
+** Dealing river ** [ 4Kreuz ]
+sintein69 checks
+Woffinden bets [0,31 $]
+sintein69 folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,45 $ ]
+
+
+
+#Game No : 474163039
+***** 888poker Hand History for Game 474163039 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:35:05
+Table Dabou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: Yanysik8989 ( 1,90 $ )
+Seat 2: M4teo ( 1,94 $ )
+Seat 3: sintein69 ( 1,90 $ )
+Seat 4: B2B_Suckouts ( 2,01 $ )
+Seat 5: dimzag ( 2,01 $ )
+Seat 6: Woffinden ( 4,07 $ )
+Seat 7: GOGOFOLDME ( 2,11 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 0,67 $ )
+Yanysik8989 posts small blind [0,01 $]
+M4teo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 5Kreuz ]
+sintein69 folds
+B2B_Suckouts folds
+dimzag calls [0,02 $]
+Woffinden folds
+GOGOFOLDME folds
+rojser folds
+scquad folds
+Yanysik8989 calls [0,01 $]
+M4teo checks
+** Dealing flop ** [ 5Pik, 4Karo, 8Herz ]
+Yanysik8989 checks
+M4teo checks
+dimzag bets [0,02 $]
+Yanysik8989 folds
+M4teo calls [0,02 $]
+** Dealing turn ** [ KPik ]
+M4teo checks
+dimzag bets [0,06 $]
+M4teo folds
+** Summary **
+dimzag did not show his hand
+dimzag collected [ 0,10 $ ]
+
+
+
+#Game No : 474163067
+***** 888poker Hand History for Game 474163067 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:36:02
+Table Dabou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: Yanysik8989 ( 1,88 $ )
+Seat 2: M4teo ( 1,90 $ )
+Seat 3: sintein69 ( 1,90 $ )
+Seat 4: B2B_Suckouts ( 2,01 $ )
+Seat 5: dimzag ( 2,07 $ )
+Seat 6: Woffinden ( 4,07 $ )
+Seat 7: GOGOFOLDME ( 2,11 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 0,67 $ )
+M4teo posts small blind [0,01 $]
+sintein69 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, QHerz ]
+B2B_Suckouts folds
+dimzag folds
+Woffinden folds
+GOGOFOLDME folds
+rojser folds
+scquad folds
+Yanysik8989 folds
+M4teo calls [0,01 $]
+sintein69 checks
+** Dealing flop ** [ 8Kreuz, 5Kreuz, JHerz ]
+M4teo checks
+sintein69 checks
+** Dealing turn ** [ 7Pik ]
+M4teo checks
+sintein69 bets [0,06 $]
+M4teo calls [0,06 $]
+** Dealing river ** [ 2Herz ]
+M4teo checks
+sintein69 bets [0,10 $]
+M4teo calls [0,10 $]
+** Summary **
+sintein69 shows [ 4Karo, 6Kreuz ]
+M4teo mucks [ 10Karo, 10Herz ]
+sintein69 collected [ 0,34 $ ]
+
+
+
+#Game No : 474163097
+***** 888poker Hand History for Game 474163097 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:37:05
+Table Dabou 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: Yanysik8989 ( 1,88 $ )
+Seat 2: M4teo ( 1,72 $ )
+Seat 3: sintein69 ( 2,06 $ )
+Seat 4: B2B_Suckouts ( 2,01 $ )
+Seat 5: dimzag ( 2,07 $ )
+Seat 6: Woffinden ( 4,07 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 0,67 $ )
+sintein69 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 2Karo ]
+dimzag folds
+Woffinden folds
+rojser folds
+scquad raises [0,08 $]
+Yanysik8989 folds
+M4teo calls [0,08 $]
+sintein69 raises [2,05 $]
+B2B_Suckouts folds
+scquad calls [0,59 $]
+M4teo folds
+** Dealing flop ** [ 8Pik, JHerz, 9Karo ]
+** Dealing turn ** [ 10Herz ]
+** Dealing river ** [ 6Karo ]
+** Summary **
+sintein69 shows [ AKaro, AKreuz ]
+scquad shows [ JKreuz, JPik ]
+scquad collected [ 1,35 $ ]
+
+
+
+#Game No : 474163125
+***** 888poker Hand History for Game 474163125 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:38:12
+Table Dabou 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: Yanysik8989 ( 1,88 $ )
+Seat 2: M4teo ( 1,64 $ )
+Seat 3: sintein69 ( 1,39 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,07 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,35 $ )
+B2B_Suckouts posts small blind [0,01 $]
+dimzag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 3Kreuz ]
+rojser folds
+scquad raises [0,08 $]
+Yanysik8989 folds
+M4teo folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag folds
+** Summary **
+scquad collected [ 0,05 $ ]
+
+
+
+#Game No : 474163137
+***** 888poker Hand History for Game 474163137 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:38:38
+Table Dabou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: Yanysik8989 ( 1,88 $ )
+Seat 2: M4teo ( 1,64 $ )
+Seat 3: sintein69 ( 1,39 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,05 $ )
+Seat 7: OlegZvdsk ( 1,40 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,38 $ )
+dimzag posts small blind [0,01 $]
+OlegZvdsk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, KKaro ]
+rojser folds
+scquad folds
+Yanysik8989 raises [0,06 $]
+M4teo folds
+sintein69 calls [0,06 $]
+B2B_Suckouts folds
+dimzag folds
+OlegZvdsk folds
+** Dealing flop ** [ KHerz, 5Kreuz, AKreuz ]
+Yanysik8989 bets [0,07 $]
+sintein69 calls [0,07 $]
+** Dealing turn ** [ KPik ]
+Yanysik8989 checks
+sintein69 checks
+** Dealing river ** [ KKreuz ]
+Yanysik8989 checks
+sintein69 bets [0,20 $]
+Yanysik8989 folds
+** Summary **
+sintein69 collected [ 0,28 $ ]
+
+
+
+#Game No : 474163166
+***** 888poker Hand History for Game 474163166 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:39:30
+Table Dabou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: Yanysik8989 ( 1,75 $ )
+Seat 2: M4teo ( 1,64 $ )
+Seat 3: sintein69 ( 1,54 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,04 $ )
+Seat 7: OlegZvdsk ( 1,38 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,38 $ )
+OlegZvdsk posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, KPik ]
+scquad folds
+Yanysik8989 folds
+M4teo folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag folds
+OlegZvdsk folds
+** Summary **
+rojser collected [ 0,03 $ ]
+
+
+
+#Game No : 474163181
+***** 888poker Hand History for Game 474163181 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:40:01
+Table Dabou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 2: M4teo ( 1,64 $ )
+Seat 3: sintein69 ( 1,54 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,04 $ )
+Seat 7: OlegZvdsk ( 1,37 $ )
+Seat 9: rojser ( 2,01 $ )
+Seat 10: scquad ( 1,38 $ )
+rojser posts small blind [0,01 $]
+scquad posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 10Herz ]
+M4teo folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag raises [0,06 $]
+OlegZvdsk folds
+rojser folds
+scquad folds
+** Summary **
+dimzag collected [ 0,05 $ ]
+
+
+
+#Game No : 474163198
+***** 888poker Hand History for Game 474163198 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:40:39
+Table Dabou 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2 $ )
+Seat 2: M4teo ( 1,64 $ )
+Seat 3: sintein69 ( 1,54 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,07 $ )
+Seat 7: OlegZvdsk ( 1,37 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,36 $ )
+scquad posts small blind [0,01 $]
+pairtwofair posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, 10Karo ]
+M4teo folds
+sintein69 folds
+B2B_Suckouts raises [0,06 $]
+dimzag folds
+OlegZvdsk folds
+rojser folds
+scquad folds
+pairtwofair calls [0,04 $]
+** Dealing flop ** [ 3Kreuz, KHerz, 8Pik ]
+pairtwofair checks
+B2B_Suckouts checks
+** Dealing turn ** [ 3Herz ]
+pairtwofair bets [0,08 $]
+B2B_Suckouts folds
+** Summary **
+pairtwofair collected [ 0,13 $ ]
+
+
+
+#Game No : 474163221
+***** 888poker Hand History for Game 474163221 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:41:26
+Table Dabou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,07 $ )
+Seat 2: M4teo ( 1,64 $ )
+Seat 3: sintein69 ( 1,54 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,07 $ )
+Seat 7: OlegZvdsk ( 1,37 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,35 $ )
+pairtwofair posts small blind [0,01 $]
+M4teo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 6Karo ]
+sintein69 raises [0,05 $]
+B2B_Suckouts folds
+dimzag folds
+OlegZvdsk folds
+rojser folds
+scquad calls [0,05 $]
+pairtwofair folds
+M4teo folds
+** Dealing flop ** [ 9Herz, KKaro, 10Kreuz ]
+sintein69 bets [0,04 $]
+scquad folds
+** Summary **
+sintein69 collected [ 0,13 $ ]
+
+
+
+#Game No : 474163234
+***** 888poker Hand History for Game 474163234 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:41:57
+Table Dabou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,06 $ )
+Seat 2: M4teo ( 1,62 $ )
+Seat 3: sintein69 ( 1,62 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,07 $ )
+Seat 7: OlegZvdsk ( 1,37 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,30 $ )
+M4teo posts small blind [0,01 $]
+sintein69 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 10Herz ]
+B2B_Suckouts folds
+dimzag folds
+OlegZvdsk folds
+rojser folds
+scquad folds
+pairtwofair raises [0,06 $]
+M4teo folds
+sintein69 folds
+** Summary **
+pairtwofair collected [ 0,05 $ ]
+
+
+
+#Game No : 474163245
+***** 888poker Hand History for Game 474163245 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:42:21
+Table Dabou 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,09 $ )
+Seat 2: M4teo ( 1,61 $ )
+Seat 3: sintein69 ( 1,60 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,07 $ )
+Seat 7: OlegZvdsk ( 1,37 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,30 $ )
+sintein69 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, AHerz ]
+dimzag folds
+OlegZvdsk folds
+rojser folds
+scquad folds
+pairtwofair folds
+M4teo folds
+sintein69 raises [0,03 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ 5Karo, 3Herz, JHerz ]
+sintein69 bets [0,04 $]
+B2B_Suckouts folds
+** Summary **
+sintein69 collected [ 0,08 $ ]
+
+
+
+#Game No : 474163258
+***** 888poker Hand History for Game 474163258 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:42:53
+Table Dabou 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,09 $ )
+Seat 2: M4teo ( 1,61 $ )
+Seat 3: sintein69 ( 1,64 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,07 $ )
+Seat 7: OlegZvdsk ( 1,37 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,30 $ )
+B2B_Suckouts posts small blind [0,01 $]
+dimzag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, JPik ]
+OlegZvdsk folds
+rojser folds
+scquad folds
+pairtwofair folds
+M4teo folds
+sintein69 raises [0,04 $]
+B2B_Suckouts folds
+dimzag calls [0,02 $]
+** Dealing flop ** [ 3Karo, 10Herz, 10Karo ]
+dimzag checks
+sintein69 bets [0,05 $]
+dimzag folds
+** Summary **
+sintein69 collected [ 0,09 $ ]
+
+
+
+#Game No : 474163285
+***** 888poker Hand History for Game 474163285 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:43:42
+Table Dabou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: pairtwofair ( 2,09 $ )
+Seat 2: M4teo ( 1,61 $ )
+Seat 3: sintein69 ( 1,69 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,03 $ )
+Seat 6: Woffinden ( 4,07 $ )
+Seat 7: OlegZvdsk ( 1,37 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,30 $ )
+dimzag posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, JKreuz ]
+OlegZvdsk folds
+rojser folds
+scquad folds
+pairtwofair raises [0,08 $]
+M4teo folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag folds
+Woffinden folds
+** Summary **
+pairtwofair did not show his hand
+pairtwofair collected [ 0,05 $ ]
+
+
+
+#Game No : 474163307
+***** 888poker Hand History for Game 474163307 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:44:12
+Table Dabou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: pairtwofair ( 2,12 $ )
+Seat 2: M4teo ( 1,61 $ )
+Seat 3: sintein69 ( 1,69 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2,02 $ )
+Seat 6: Woffinden ( 4,05 $ )
+Seat 7: OlegZvdsk ( 1,37 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,30 $ )
+Woffinden posts small blind [0,01 $]
+OlegZvdsk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 7Karo ]
+rojser folds
+scquad folds
+pairtwofair folds
+M4teo folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag raises [0,06 $]
+Woffinden folds
+OlegZvdsk raises [0,16 $]
+dimzag folds
+** Summary **
+OlegZvdsk did not show his hand
+OlegZvdsk collected [ 0,13 $ ]
+
+
+
+#Game No : 474163324
+***** 888poker Hand History for Game 474163324 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:44:43
+Table Dabou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: pairtwofair ( 2,12 $ )
+Seat 2: M4teo ( 1,61 $ )
+Seat 3: sintein69 ( 1,69 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,04 $ )
+Seat 7: OlegZvdsk ( 1,44 $ )
+Seat 9: rojser ( 2 $ )
+Seat 10: scquad ( 1,30 $ )
+OlegZvdsk posts small blind [0,01 $]
+rojser folds
+scquad posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, QHerz ]
+pairtwofair folds
+M4teo folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag folds
+Woffinden folds
+OlegZvdsk folds
+** Summary **
+scquad did not show his hand
+scquad collected [ 0,03 $ ]
+
+
+
+#Game No : 474163335
+***** 888poker Hand History for Game 474163335 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:44:53
+Table Dabou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,12 $ )
+Seat 2: M4teo ( 1,61 $ )
+Seat 3: sintein69 ( 1,69 $ )
+Seat 4: B2B_Suckouts ( 2 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,04 $ )
+Seat 7: OlegZvdsk ( 1,43 $ )
+Seat 10: scquad ( 1,31 $ )
+scquad posts small blind [0,01 $]
+pairtwofair posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 9Pik ]
+M4teo folds
+sintein69 folds
+B2B_Suckouts raises [0,06 $]
+dimzag calls [0,06 $]
+Woffinden folds
+OlegZvdsk folds
+scquad folds
+pairtwofair folds
+** Dealing flop ** [ JHerz, JPik, JKreuz ]
+B2B_Suckouts checks
+dimzag checks
+** Dealing turn ** [ 4Herz ]
+B2B_Suckouts bets [0,07 $]
+dimzag folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 474163360
+***** 888poker Hand History for Game 474163360 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:45:48
+Table Dabou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,10 $ )
+Seat 2: M4teo ( 1,61 $ )
+Seat 3: sintein69 ( 1,69 $ )
+Seat 4: B2B_Suckouts ( 2,09 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,04 $ )
+Seat 7: OlegZvdsk ( 1,43 $ )
+Seat 10: scquad ( 1,30 $ )
+pairtwofair posts small blind [0,01 $]
+M4teo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 3Herz ]
+sintein69 folds
+B2B_Suckouts folds
+dimzag folds
+Woffinden raises [0,08 $]
+OlegZvdsk folds
+scquad folds
+pairtwofair folds
+M4teo folds
+** Summary **
+Woffinden collected [ 0,05 $ ]
+
+
+
+#Game No : 474163377
+***** 888poker Hand History for Game 474163377 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:46:14
+Table Dabou 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,09 $ )
+Seat 2: M4teo ( 1,59 $ )
+Seat 3: sintein69 ( 1,69 $ )
+Seat 4: B2B_Suckouts ( 2,09 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,07 $ )
+Seat 7: OlegZvdsk ( 1,43 $ )
+Seat 10: scquad ( 1,30 $ )
+M4teo posts small blind [0,01 $]
+sintein69 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, KKreuz ]
+B2B_Suckouts folds
+dimzag folds
+Woffinden folds
+OlegZvdsk folds
+scquad folds
+pairtwofair raises [0,06 $]
+M4teo folds
+sintein69 folds
+** Summary **
+pairtwofair collected [ 0,05 $ ]
+
+
+
+#Game No : 474163395
+***** 888poker Hand History for Game 474163395 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:46:50
+Table Dabou 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,12 $ )
+Seat 2: M4teo ( 1,58 $ )
+Seat 3: sintein69 ( 1,67 $ )
+Seat 4: B2B_Suckouts ( 2,09 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,07 $ )
+Seat 7: OlegZvdsk ( 1,43 $ )
+Seat 10: scquad ( 1,30 $ )
+sintein69 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 7Karo ]
+dimzag folds
+Woffinden folds
+OlegZvdsk folds
+scquad folds
+pairtwofair folds
+M4teo folds
+sintein69 raises [0,05 $]
+B2B_Suckouts folds
+** Summary **
+sintein69 collected [ 0,04 $ ]
+
+
+
+#Game No : 474163406
+***** 888poker Hand History for Game 474163406 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:47:09
+Table Dabou 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,12 $ )
+Seat 2: M4teo ( 1,58 $ )
+Seat 3: sintein69 ( 1,69 $ )
+Seat 4: B2B_Suckouts ( 2,07 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,07 $ )
+Seat 7: OlegZvdsk ( 1,43 $ )
+Seat 10: scquad ( 1,30 $ )
+B2B_Suckouts posts small blind [0,01 $]
+dimzag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 5Pik ]
+Woffinden folds
+OlegZvdsk folds
+scquad raises [0,04 $]
+pairtwofair folds
+M4teo folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag calls [0,02 $]
+** Dealing flop ** [ 2Herz, 8Pik, 10Kreuz ]
+dimzag checks
+scquad checks
+** Dealing turn ** [ APik ]
+dimzag checks
+scquad bets [0,04 $]
+dimzag calls [0,04 $]
+** Dealing river ** [ 7Karo ]
+dimzag checks
+scquad checks
+** Summary **
+dimzag shows [ 10Karo, JKreuz ]
+scquad shows [ 4Herz, AHerz ]
+scquad collected [ 0,16 $ ]
+
+
+
+#Game No : 474163441
+***** 888poker Hand History for Game 474163441 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:48:08
+Table Dabou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,12 $ )
+Seat 2: M4teo ( 1,58 $ )
+Seat 3: sintein69 ( 1,69 $ )
+Seat 4: B2B_Suckouts ( 2,06 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,07 $ )
+Seat 7: OlegZvdsk ( 1,43 $ )
+Seat 10: scquad ( 1,38 $ )
+dimzag posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Herz, KKaro ]
+OlegZvdsk folds
+scquad folds
+pairtwofair folds
+M4teo folds
+sintein69 folds
+B2B_Suckouts raises [0,06 $]
+dimzag folds
+Woffinden folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 474163460
+***** 888poker Hand History for Game 474163460 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:48:40
+Table Dabou 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: pairtwofair ( 2,12 $ )
+Seat 2: M4teo ( 1,58 $ )
+Seat 3: sintein69 ( 1,69 $ )
+Seat 4: B2B_Suckouts ( 2,09 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,05 $ )
+Seat 7: OlegZvdsk ( 1,43 $ )
+Seat 10: scquad ( 1,38 $ )
+Woffinden posts small blind [0,01 $]
+OlegZvdsk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 4Kreuz ]
+scquad folds
+pairtwofair folds
+M4teo folds
+sintein69 calls [0,02 $]
+B2B_Suckouts folds
+dimzag calls [0,02 $]
+Woffinden folds
+OlegZvdsk raises [0,06 $]
+sintein69 folds
+dimzag folds
+** Summary **
+OlegZvdsk collected [ 0,07 $ ]
+
+
+
+#Game No : 474163472
+***** 888poker Hand History for Game 474163472 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:49:06
+Table Dabou 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: pairtwofair ( 2,12 $ )
+Seat 2: M4teo ( 1,58 $ )
+Seat 3: sintein69 ( 1,67 $ )
+Seat 4: B2B_Suckouts ( 2,09 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,04 $ )
+Seat 7: OlegZvdsk ( 1,48 $ )
+Seat 9: Optimus40KER ( 2 $ )
+Seat 10: scquad ( 1,38 $ )
+OlegZvdsk posts small blind [0,01 $]
+Optimus40KER posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 10Herz ]
+scquad folds
+pairtwofair folds
+M4teo folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag folds
+Woffinden folds
+OlegZvdsk raises [0,05 $]
+Optimus40KER folds
+** Summary **
+OlegZvdsk did not show his hand
+OlegZvdsk collected [ 0,04 $ ]
+
+
+
+#Game No : 474163486
+***** 888poker Hand History for Game 474163486 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:49:42
+Table Dabou 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: pairtwofair ( 2,12 $ )
+Seat 2: M4teo ( 1,58 $ )
+Seat 3: sintein69 ( 1,67 $ )
+Seat 4: B2B_Suckouts ( 2,09 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,04 $ )
+Seat 7: OlegZvdsk ( 1,50 $ )
+Seat 9: Optimus40KER ( 1,98 $ )
+Seat 10: scquad ( 1,38 $ )
+Optimus40KER posts small blind [0,01 $]
+scquad posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 7Karo ]
+pairtwofair folds
+M4teo folds
+sintein69 folds
+B2B_Suckouts folds
+dimzag folds
+Woffinden folds
+OlegZvdsk folds
+Optimus40KER folds
+** Summary **
+scquad did not show his hand
+scquad collected [ 0,03 $ ]
+
+
+
+#Game No : 474163490
+***** 888poker Hand History for Game 474163490 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:49:55
+Table Dabou 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 2: M4teo ( 1,58 $ )
+Seat 3: sintein69 ( 1,67 $ )
+Seat 4: B2B_Suckouts ( 2,09 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,04 $ )
+Seat 7: OlegZvdsk ( 1,50 $ )
+Seat 9: Optimus40KER ( 1,97 $ )
+Seat 10: scquad ( 1,39 $ )
+scquad posts small blind [0,01 $]
+M4teo posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 10Herz ]
+sintein69 folds
+B2B_Suckouts folds
+dimzag folds
+Woffinden folds
+OlegZvdsk folds
+Optimus40KER raises [0,05 $]
+scquad folds
+M4teo folds
+** Summary **
+Optimus40KER collected [ 0,05 $ ]
+
+
+
+#Game No : 474163498
+***** 888poker Hand History for Game 474163498 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:50:16
+Table Dabou 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 2: M4teo ( 1,56 $ )
+Seat 3: sintein69 ( 1,67 $ )
+Seat 4: B2B_Suckouts ( 2,09 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,04 $ )
+Seat 7: OlegZvdsk ( 1,50 $ )
+Seat 9: Optimus40KER ( 2 $ )
+Seat 10: scquad ( 1,38 $ )
+M4teo posts small blind [0,01 $]
+sintein69 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, JPik ]
+B2B_Suckouts raises [0,06 $]
+dimzag folds
+Woffinden folds
+OlegZvdsk folds
+Optimus40KER folds
+scquad calls [0,06 $]
+M4teo folds
+sintein69 folds
+** Dealing flop ** [ 4Kreuz, 4Pik, JHerz ]
+B2B_Suckouts bets [0,04 $]
+scquad folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 474163517
+***** 888poker Hand History for Game 474163517 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:51:02
+Table Dabou 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 2: M4teo ( 1,55 $ )
+Seat 3: sintein69 ( 1,65 $ )
+Seat 4: B2B_Suckouts ( 2,18 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,04 $ )
+Seat 7: OlegZvdsk ( 1,50 $ )
+Seat 9: Optimus40KER ( 2 $ )
+Seat 10: scquad ( 1,32 $ )
+sintein69 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, KHerz ]
+dimzag folds
+Woffinden folds
+OlegZvdsk folds
+Optimus40KER folds
+scquad folds
+M4teo folds
+sintein69 raises [0,03 $]
+B2B_Suckouts calls [0,02 $]
+** Dealing flop ** [ AKaro, 6Karo, KKreuz ]
+sintein69 bets [0,06 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing turn ** [ 7Kreuz ]
+sintein69 bets [0,09 $]
+B2B_Suckouts folds
+** Summary **
+sintein69 collected [ 0,19 $ ]
+
+
+
+#Game No : 474163548
+***** 888poker Hand History for Game 474163548 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:52:05
+Table Dabou 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 2: M4teo ( 1,55 $ )
+Seat 3: sintein69 ( 1,74 $ )
+Seat 4: B2B_Suckouts ( 2,08 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,04 $ )
+Seat 7: OlegZvdsk ( 1,50 $ )
+Seat 9: Optimus40KER ( 2 $ )
+Seat 10: scquad ( 1,32 $ )
+B2B_Suckouts posts small blind [0,01 $]
+dimzag posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, 4Karo ]
+Woffinden folds
+OlegZvdsk folds
+Optimus40KER calls [0,02 $]
+scquad folds
+M4teo folds
+sintein69 raises [0,04 $]
+B2B_Suckouts folds
+dimzag folds
+Optimus40KER calls [0,02 $]
+** Dealing flop ** [ AKreuz, 5Herz, 8Kreuz ]
+Optimus40KER checks
+sintein69 checks
+** Dealing turn ** [ 9Pik ]
+Optimus40KER bets [0,07 $]
+sintein69 raises [0,15 $]
+Optimus40KER calls [0,08 $]
+** Dealing river ** [ 3Herz ]
+Optimus40KER checks
+sintein69 bets [1,55 $]
+Optimus40KER folds
+** Summary **
+sintein69 collected [ 0,39 $ ]
+
+
+
+#Game No : 474163575
+***** 888poker Hand History for Game 474163575 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 30 01 2020 14:53:16
+Table Dabou 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 2: M4teo ( 1,55 $ )
+Seat 3: sintein69 ( 1,94 $ )
+Seat 4: B2B_Suckouts ( 2,07 $ )
+Seat 5: dimzag ( 2 $ )
+Seat 6: Woffinden ( 4,04 $ )
+Seat 7: OlegZvdsk ( 1,50 $ )
+Seat 9: Optimus40KER ( 1,81 $ )
+Seat 10: scquad ( 1,32 $ )
+dimzag posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, QKreuz ]
+OlegZvdsk folds
+Optimus40KER folds
+scquad folds
+M4teo calls [0,02 $]
+sintein69 folds
+B2B_Suckouts raises [0,06 $]
+dimzag folds
+Woffinden raises [0,16 $]
+M4teo folds
+B2B_Suckouts folds
+** Summary **
+Woffinden collected [ 0,15 $ ]
+
+
+
