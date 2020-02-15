@@ -1,0 +1,1404 @@
+#Game No : 631499311
+***** 888poker Hand History for Game 631499311 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:46:08
+Table Cologne 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,76 $ )
+Seat 2: xxflashxxx ( 1,03 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: divvybarry ( 2,54 $ )
+Seat 6: frencisdreyk ( 1,16 $ )
+Seat 7: OhneEbbes ( 1,76 $ )
+Seat 9: Bapiti10 ( 1,72 $ )
+Seat 10: XSpades ( 2,02 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, KKaro ]
+B2B_Suckouts raises [0,04 $]
+divvybarry folds
+frencisdreyk folds
+OhneEbbes folds
+Bapiti10 folds
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 631499328
+***** 888poker Hand History for Game 631499328 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:46:40
+Table Cologne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,75 $ )
+Seat 2: xxflashxxx ( 1,01 $ )
+Seat 3: B2B_Suckouts ( 2,03 $ )
+Seat 4: divvybarry ( 2,54 $ )
+Seat 5: gimeurchips ( 2,48 $ )
+Seat 6: frencisdreyk ( 1,16 $ )
+Seat 7: OhneEbbes ( 1,76 $ )
+Seat 9: Bapiti10 ( 1,72 $ )
+Seat 10: XSpades ( 2,02 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 9Kreuz ]
+divvybarry folds
+gimeurchips folds
+frencisdreyk folds
+OhneEbbes calls [0,02 $]
+Bapiti10 folds
+XSpades raises [0,06 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+OhneEbbes calls [0,04 $]
+** Dealing flop ** [ 5Karo, 2Kreuz, AHerz ]
+OhneEbbes checks
+XSpades bets [0,09 $]
+OhneEbbes folds
+** Summary **
+XSpades did not show his hand
+XSpades collected [ 0,15 $ ]
+
+
+
+#Game No : 631499359
+***** 888poker Hand History for Game 631499359 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:47:33
+Table Cologne 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,75 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,01 $ )
+Seat 5: gimeurchips ( 2,48 $ )
+Seat 6: frencisdreyk ( 1,16 $ )
+Seat 7: OhneEbbes ( 1,70 $ )
+Seat 9: Bapiti10 ( 1,72 $ )
+Seat 10: XSpades ( 2,11 $ )
+B2B_Suckouts posts small blind [0,01 $]
+gimeurchips posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, KPik ]
+frencisdreyk folds
+OhneEbbes folds
+Bapiti10 folds
+XSpades folds
+SoveTnik90 raises [0,06 $]
+xxflashxxx folds
+B2B_Suckouts raises [0,17 $]
+gimeurchips folds
+SoveTnik90 folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 631499378
+***** 888poker Hand History for Game 631499378 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:48:06
+Table Cologne 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,69 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,09 $ )
+Seat 5: gimeurchips ( 2,46 $ )
+Seat 6: frencisdreyk ( 1,16 $ )
+Seat 7: OhneEbbes ( 1,70 $ )
+Seat 9: Bapiti10 ( 1,72 $ )
+Seat 10: XSpades ( 2,11 $ )
+gimeurchips posts small blind [0,01 $]
+frencisdreyk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 9Karo ]
+OhneEbbes folds
+Bapiti10 calls [0,02 $]
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+gimeurchips folds
+frencisdreyk folds
+Bapiti10 calls [0,04 $]
+** Dealing flop ** [ QKaro, 3Pik, KKreuz ]
+Bapiti10 bets [0,07 $]
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ QKreuz ]
+Bapiti10 bets [0,19 $]
+B2B_Suckouts folds
+** Summary **
+Bapiti10 collected [ 0,28 $ ]
+
+
+
+#Game No : 631499418
+***** 888poker Hand History for Game 631499418 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:49:20
+Table Cologne 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,69 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: divvybarry ( 2,54 $ )
+Seat 5: gimeurchips ( 2,45 $ )
+Seat 6: frencisdreyk ( 1,14 $ )
+Seat 7: OhneEbbes ( 1,70 $ )
+Seat 9: Bapiti10 ( 1,87 $ )
+Seat 10: XSpades ( 2,11 $ )
+frencisdreyk posts small blind [0,01 $]
+OhneEbbes posts big blind [0,02 $]
+divvybarry posts dead blind [0,01 $ + 0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 5Pik ]
+Bapiti10 folds
+XSpades calls [0,02 $]
+SoveTnik90 raises [0,10 $]
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry folds
+gimeurchips folds
+frencisdreyk folds
+OhneEbbes folds
+XSpades calls [0,08 $]
+** Dealing flop ** [ 4Kreuz, 10Karo, 9Karo ]
+XSpades checks
+SoveTnik90 checks
+** Dealing turn ** [ KPik ]
+XSpades checks
+SoveTnik90 checks
+** Dealing river ** [ QKreuz ]
+XSpades checks
+SoveTnik90 checks
+** Summary **
+XSpades shows [ APik, 4Pik ]
+SoveTnik90 shows [ AHerz, QKaro ]
+SoveTnik90 collected [ 0,25 $ ]
+
+
+
+#Game No : 631499452
+***** 888poker Hand History for Game 631499452 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:50:22
+Table Cologne 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,84 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: divvybarry ( 2,51 $ )
+Seat 5: gimeurchips ( 2,45 $ )
+Seat 6: frencisdreyk ( 1,13 $ )
+Seat 7: OhneEbbes ( 1,68 $ )
+Seat 9: Bapiti10 ( 1,87 $ )
+Seat 10: XSpades ( 2,01 $ )
+OhneEbbes posts small blind [0,01 $]
+Bapiti10 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 3Pik ]
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry folds
+gimeurchips raises [0,06 $]
+frencisdreyk folds
+OhneEbbes calls [0,05 $]
+Bapiti10 folds
+** Dealing flop ** [ QPik, 6Kreuz, 6Karo ]
+OhneEbbes bets [0,06 $]
+gimeurchips folds
+** Summary **
+OhneEbbes did not show his hand
+OhneEbbes collected [ 0,14 $ ]
+
+
+
+#Game No : 631499492
+***** 888poker Hand History for Game 631499492 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:51:30
+Table Cologne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,84 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: divvybarry ( 2,51 $ )
+Seat 5: gimeurchips ( 2,39 $ )
+Seat 6: frencisdreyk ( 1,13 $ )
+Seat 7: OhneEbbes ( 1,76 $ )
+Seat 9: Bapiti10 ( 1,85 $ )
+Seat 10: XSpades ( 2,01 $ )
+Bapiti10 posts small blind [0,01 $]
+XSpades posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 6Pik ]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry folds
+gimeurchips folds
+frencisdreyk folds
+OhneEbbes folds
+Bapiti10 raises [0,05 $]
+XSpades calls [0,04 $]
+** Dealing flop ** [ KPik, 10Herz, QKaro ]
+Bapiti10 bets [0,07 $]
+XSpades calls [0,07 $]
+** Dealing turn ** [ 7Karo ]
+Bapiti10 bets [0,17 $]
+XSpades folds
+** Summary **
+Bapiti10 did not show his hand
+Bapiti10 collected [ 0,25 $ ]
+
+
+
+#Game No : 631499539
+***** 888poker Hand History for Game 631499539 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:53:03
+Table Cologne 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,84 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: divvybarry ( 2,51 $ )
+Seat 5: gimeurchips ( 2,39 $ )
+Seat 6: frencisdreyk ( 1,13 $ )
+Seat 7: OhneEbbes ( 1,76 $ )
+Seat 9: Bapiti10 ( 1,97 $ )
+Seat 10: XSpades ( 1,88 $ )
+XSpades posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 5Pik ]
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry calls [0,02 $]
+gimeurchips folds
+frencisdreyk folds
+OhneEbbes calls [0,02 $]
+Bapiti10 folds
+XSpades calls [0,01 $]
+SoveTnik90 checks
+** Dealing flop ** [ QHerz, 7Pik, 2Pik ]
+XSpades checks
+SoveTnik90 checks
+divvybarry checks
+OhneEbbes bets [0,08 $]
+XSpades folds
+SoveTnik90 folds
+divvybarry folds
+** Summary **
+OhneEbbes did not show his hand
+OhneEbbes collected [ 0,08 $ ]
+
+
+
+#Game No : 631499569
+***** 888poker Hand History for Game 631499569 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:54:00
+Table Cologne 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,82 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: divvybarry ( 2,49 $ )
+Seat 5: gimeurchips ( 2,39 $ )
+Seat 6: frencisdreyk ( 1,13 $ )
+Seat 7: OhneEbbes ( 1,82 $ )
+Seat 9: Bapiti10 ( 1,97 $ )
+Seat 10: XSpades ( 1,86 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, 5Karo ]
+B2B_Suckouts folds
+divvybarry folds
+gimeurchips folds
+frencisdreyk folds
+OhneEbbes folds
+Bapiti10 folds
+XSpades raises [0,04 $]
+SoveTnik90 folds
+xxflashxxx folds
+** Summary **
+XSpades did not show his hand
+XSpades collected [ 0,05 $ ]
+
+
+
+#Game No : 631499586
+***** 888poker Hand History for Game 631499586 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:54:31
+Table Cologne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,81 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: divvybarry ( 2,49 $ )
+Seat 5: gimeurchips ( 2,39 $ )
+Seat 6: frencisdreyk ( 1,13 $ )
+Seat 7: OhneEbbes ( 1,82 $ )
+Seat 9: Bapiti10 ( 1,97 $ )
+Seat 10: XSpades ( 1,89 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 3Pik ]
+divvybarry folds
+gimeurchips folds
+frencisdreyk folds
+OhneEbbes folds
+Bapiti10 folds
+XSpades folds
+SoveTnik90 raises [0,06 $]
+xxflashxxx folds
+B2B_Suckouts folds
+** Summary **
+SoveTnik90 did not show his hand
+SoveTnik90 collected [ 0,05 $ ]
+
+
+
+#Game No : 631499610
+***** 888poker Hand History for Game 631499610 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:55:08
+Table Cologne 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,84 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: divvybarry ( 2,49 $ )
+Seat 5: gimeurchips ( 2,39 $ )
+Seat 6: frencisdreyk ( 1,13 $ )
+Seat 7: OhneEbbes ( 1,82 $ )
+Seat 9: Bapiti10 ( 1,97 $ )
+Seat 10: XSpades ( 1,89 $ )
+B2B_Suckouts posts small blind [0,01 $]
+divvybarry posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 10Karo ]
+gimeurchips folds
+frencisdreyk folds
+OhneEbbes calls [0,02 $]
+Bapiti10 folds
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry checks
+** Dealing flop ** [ QKaro, 8Karo, 9Kreuz ]
+divvybarry checks
+OhneEbbes checks
+** Dealing turn ** [ 10Herz ]
+divvybarry bets [0,03 $]
+OhneEbbes folds
+** Summary **
+divvybarry did not show his hand
+divvybarry collected [ 0,05 $ ]
+
+
+
+#Game No : 631499626
+***** 888poker Hand History for Game 631499626 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:55:47
+Table Cologne 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,84 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: divvybarry ( 2,52 $ )
+Seat 5: gimeurchips ( 2,39 $ )
+Seat 6: frencisdreyk ( 1,13 $ )
+Seat 7: OhneEbbes ( 1,80 $ )
+Seat 9: Bapiti10 ( 1,97 $ )
+Seat 10: XSpades ( 1,89 $ )
+divvybarry posts small blind [0,01 $]
+gimeurchips folds
+frencisdreyk posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 4Kreuz ]
+OhneEbbes folds
+Bapiti10 folds
+XSpades raises [0,04 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry raises [0,09 $]
+frencisdreyk folds
+XSpades calls [0,06 $]
+** Dealing flop ** [ 6Kreuz, 2Herz, JKaro ]
+divvybarry bets [0,11 $]
+XSpades calls [0,11 $]
+** Dealing turn ** [ 10Pik ]
+divvybarry bets [0,29 $]
+XSpades raises [0,78 $]
+divvybarry raises [2,02 $]
+XSpades calls [0,90 $]
+** Dealing river ** [ 7Karo ]
+** Summary **
+divvybarry shows [ KKreuz, KKaro ]
+XSpades shows [ QKaro, 9Karo ]
+divvybarry collected [ 3,57 $ ]
+
+
+
+#Game No : 631499674
+***** 888poker Hand History for Game 631499674 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:57:04
+Table Cologne 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,84 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: divvybarry ( 4,20 $ )
+Seat 6: frencisdreyk ( 1,11 $ )
+Seat 7: OhneEbbes ( 1,80 $ )
+Seat 9: Bapiti10 ( 1,97 $ )
+frencisdreyk posts small blind [0,01 $]
+OhneEbbes posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, KKaro ]
+Bapiti10 folds
+SoveTnik90 raises [0,06 $]
+xxflashxxx folds
+B2B_Suckouts calls [0,06 $]
+divvybarry folds
+frencisdreyk folds
+OhneEbbes folds
+** Dealing flop ** [ 3Karo, 3Herz, 9Kreuz ]
+SoveTnik90 checks
+B2B_Suckouts bets [0,04 $]
+SoveTnik90 calls [0,04 $]
+** Dealing turn ** [ JKaro ]
+SoveTnik90 checks
+B2B_Suckouts bets [0,11 $]
+SoveTnik90 folds
+** Summary **
+B2B_Suckouts collected [ 0,22 $ ]
+
+
+
+#Game No : 631499708
+***** 888poker Hand History for Game 631499708 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:58:02
+Table Cologne 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,74 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,12 $ )
+Seat 4: divvybarry ( 4,20 $ )
+Seat 5: btlbtl ( 2 $ )
+Seat 6: frencisdreyk ( 1,10 $ )
+Seat 7: OhneEbbes ( 1,78 $ )
+Seat 9: Bapiti10 ( 1,97 $ )
+Seat 10: XSpades ( 2 $ )
+OhneEbbes posts small blind [0,01 $]
+Bapiti10 posts big blind [0,02 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, 9Karo ]
+XSpades folds
+SoveTnik90 raises [0,08 $]
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry folds
+btlbtl calls [0,06 $]
+frencisdreyk folds
+OhneEbbes folds
+Bapiti10 folds
+** Dealing flop ** [ 8Kreuz, 8Karo, 5Pik ]
+SoveTnik90 checks
+btlbtl checks
+** Dealing turn ** [ 2Herz ]
+SoveTnik90 checks
+btlbtl bets [0,07 $]
+SoveTnik90 folds
+** Summary **
+btlbtl did not show his hand
+btlbtl collected [ 0,18 $ ]
+
+
+
+#Game No : 631499740
+***** 888poker Hand History for Game 631499740 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:58:46
+Table Cologne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,66 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,12 $ )
+Seat 4: divvybarry ( 4,20 $ )
+Seat 5: btlbtl ( 2,10 $ )
+Seat 7: OhneEbbes ( 1,77 $ )
+Seat 9: Bapiti10 ( 1,95 $ )
+Seat 10: XSpades ( 2 $ )
+Bapiti10 posts small blind [0,01 $]
+XSpades posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 7Kreuz ]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry folds
+btlbtl folds
+OhneEbbes calls [0,02 $]
+Bapiti10 folds
+XSpades checks
+** Dealing flop ** [ 4Kreuz, KHerz, 4Karo ]
+XSpades checks
+OhneEbbes bets [0,04 $]
+XSpades calls [0,04 $]
+** Dealing turn ** [ 9Herz ]
+XSpades checks
+OhneEbbes bets [0,04 $]
+XSpades calls [0,04 $]
+** Dealing river ** [ 8Herz ]
+XSpades bets [0,31 $]
+OhneEbbes calls [0,31 $]
+** Summary **
+XSpades shows [ 6Herz, 7Herz ]
+OhneEbbes mucks [ KKaro, 10Kreuz ]
+XSpades collected [ 0,78 $ ]
+
+
+
+#Game No : 631499785
+***** 888poker Hand History for Game 631499785 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 15:59:50
+Table Cologne 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,66 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,12 $ )
+Seat 4: divvybarry ( 4,20 $ )
+Seat 5: btlbtl ( 2,10 $ )
+Seat 9: Bapiti10 ( 1,94 $ )
+Seat 10: XSpades ( 2,37 $ )
+XSpades posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, JPik ]
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry folds
+btlbtl folds
+Bapiti10 folds
+XSpades calls [0,01 $]
+SoveTnik90 checks
+** Dealing flop ** [ 5Karo, 7Herz, 5Herz ]
+XSpades checks
+SoveTnik90 checks
+** Dealing turn ** [ 9Kreuz ]
+XSpades checks
+SoveTnik90 checks
+** Dealing river ** [ KPik ]
+XSpades checks
+SoveTnik90 checks
+** Summary **
+XSpades shows [ QKreuz, 4Herz ]
+SoveTnik90 mucks [ 3Karo, 10Herz ]
+XSpades collected [ 0,04 $ ]
+
+
+
+#Game No : 631499827
+***** 888poker Hand History for Game 631499827 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:00:44
+Table Cologne 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,64 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,12 $ )
+Seat 4: divvybarry ( 4,20 $ )
+Seat 5: btlbtl ( 2,10 $ )
+Seat 6: 888AlexDi ( 0,80 $ )
+Seat 9: Bapiti10 ( 1,94 $ )
+Seat 10: XSpades ( 2,39 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+888AlexDi posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, AKreuz ]
+B2B_Suckouts folds
+divvybarry folds
+btlbtl raises [0,08 $]
+888AlexDi folds
+Bapiti10 folds
+XSpades folds
+SoveTnik90 calls [0,07 $]
+xxflashxxx folds
+** Dealing flop ** [ 3Kreuz, QHerz, 4Herz ]
+SoveTnik90 checks
+btlbtl bets [0,10 $]
+SoveTnik90 calls [0,10 $]
+** Dealing turn ** [ 9Pik ]
+SoveTnik90 checks
+btlbtl bets [0,17 $]
+SoveTnik90 calls [0,17 $]
+** Dealing river ** [ 10Kreuz ]
+SoveTnik90 checks
+btlbtl checks
+** Summary **
+SoveTnik90 shows [ 10Herz, AHerz ]
+btlbtl mucks [ AKaro, JPik ]
+SoveTnik90 collected [ 0,70 $ ]
+
+
+
+#Game No : 631499852
+***** 888poker Hand History for Game 631499852 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:01:35
+Table Cologne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,99 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,12 $ )
+Seat 4: divvybarry ( 4,20 $ )
+Seat 5: btlbtl ( 2 $ )
+Seat 6: 888AlexDi ( 0,78 $ )
+Seat 9: Bapiti10 ( 1,94 $ )
+Seat 10: XSpades ( 2,39 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, AKreuz ]
+divvybarry folds
+btlbtl folds
+888AlexDi calls [0,02 $]
+Bapiti10 folds
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts checks
+** Dealing flop ** [ 6Kreuz, 9Pik, QPik ]
+B2B_Suckouts bets [0,02 $]
+888AlexDi calls [0,02 $]
+** Dealing turn ** [ QHerz ]
+B2B_Suckouts checks
+888AlexDi bets [0,04 $]
+B2B_Suckouts folds
+** Summary **
+888AlexDi collected [ 0,09 $ ]
+
+
+
+#Game No : 631499889
+***** 888poker Hand History for Game 631499889 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:02:45
+Table Cologne 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,99 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,08 $ )
+Seat 4: divvybarry ( 4,20 $ )
+Seat 5: btlbtl ( 2 $ )
+Seat 6: 888AlexDi ( 0,83 $ )
+Seat 9: Bapiti10 ( 1,94 $ )
+Seat 10: XSpades ( 2,39 $ )
+B2B_Suckouts posts small blind [0,01 $]
+divvybarry posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, AKaro ]
+btlbtl folds
+888AlexDi raises [0,04 $]
+Bapiti10 folds
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts calls [0,03 $]
+divvybarry calls [0,02 $]
+** Dealing flop ** [ QKreuz, 2Herz, 5Pik ]
+B2B_Suckouts checks
+divvybarry checks
+888AlexDi checks
+** Dealing turn ** [ AHerz ]
+B2B_Suckouts bets [0,03 $]
+divvybarry folds
+888AlexDi folds
+** Summary **
+B2B_Suckouts collected [ 0,12 $ ]
+
+
+
+#Game No : 631499919
+***** 888poker Hand History for Game 631499919 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:03:43
+Table Cologne 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,99 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,16 $ )
+Seat 4: divvybarry ( 4,16 $ )
+Seat 5: btlbtl ( 2 $ )
+Seat 6: 888AlexDi ( 0,79 $ )
+Seat 9: Bapiti10 ( 1,94 $ )
+Seat 10: XSpades ( 2,39 $ )
+divvybarry posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, QKreuz ]
+888AlexDi folds
+Bapiti10 folds
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+divvybarry raises [0,14 $]
+btlbtl calls [0,13 $]
+B2B_Suckouts calls [0,09 $]
+** Dealing flop ** [ 7Pik, 2Herz, 8Kreuz ]
+divvybarry bets [0,22 $]
+btlbtl calls [0,22 $]
+B2B_Suckouts folds
+** Dealing turn ** [ 4Kreuz ]
+divvybarry bets [0,29 $]
+btlbtl raises [0,73 $]
+divvybarry calls [0,44 $]
+** Dealing river ** [ KHerz ]
+divvybarry checks
+btlbtl bets [0,90 $]
+divvybarry calls [0,90 $]
+** Summary **
+divvybarry shows [ 9Pik, 7Herz ]
+btlbtl shows [ 6Karo, 5Karo ]
+btlbtl collected [ 3,90 $ ]
+
+
+
+#Game No : 631499967
+***** 888poker Hand History for Game 631499967 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:04:59
+Table Cologne 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,99 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,01 $ )
+Seat 4: divvybarry ( 2,16 $ )
+Seat 5: btlbtl ( 3,90 $ )
+Seat 6: 888AlexDi ( 0,79 $ )
+Seat 9: Bapiti10 ( 1,94 $ )
+Seat 10: XSpades ( 2,39 $ )
+btlbtl posts small blind [0,01 $]
+888AlexDi posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, KKreuz ]
+Bapiti10 calls [0,02 $]
+XSpades calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry calls [0,02 $]
+btlbtl folds
+888AlexDi checks
+** Dealing flop ** [ AKaro, JKreuz, 7Karo ]
+888AlexDi checks
+Bapiti10 bets [0,04 $]
+XSpades calls [0,04 $]
+divvybarry calls [0,04 $]
+888AlexDi folds
+** Dealing turn ** [ 8Herz ]
+Bapiti10 bets [0,10 $]
+XSpades folds
+divvybarry calls [0,10 $]
+** Dealing river ** [ QPik ]
+Bapiti10 bets [0,20 $]
+divvybarry folds
+** Summary **
+Bapiti10 collected [ 0,39 $ ]
+
+
+
+#Game No : 631500013
+***** 888poker Hand History for Game 631500013 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:06:22
+Table Cologne 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,99 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,01 $ )
+Seat 4: divvybarry ( 2 $ )
+Seat 5: btlbtl ( 3,89 $ )
+Seat 6: 888AlexDi ( 0,77 $ )
+Seat 7: l8bd8l ( 0,80 $ )
+Seat 9: Bapiti10 ( 2,17 $ )
+Seat 10: XSpades ( 2,33 $ )
+888AlexDi posts small blind [0,01 $]
+l8bd8l posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 4Pik ]
+Bapiti10 folds
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry folds
+btlbtl raises [0,05 $]
+888AlexDi calls [0,04 $]
+l8bd8l folds
+** Dealing flop ** [ KKreuz, 6Kreuz, 6Herz ]
+888AlexDi checks
+btlbtl checks
+** Dealing turn ** [ 6Karo ]
+888AlexDi checks
+btlbtl bets [0,04 $]
+888AlexDi calls [0,04 $]
+** Dealing river ** [ 4Kreuz ]
+888AlexDi checks
+btlbtl checks
+** Summary **
+888AlexDi shows [ QHerz, 3Herz ]
+btlbtl shows [ QKaro, 9Herz ]
+888AlexDi collected [ 0,10 $ ]
+btlbtl collected [ 0,09 $ ]
+
+
+
+#Game No : 631500048
+***** 888poker Hand History for Game 631500048 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:07:11
+Table Cologne 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,99 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,01 $ )
+Seat 4: divvybarry ( 2 $ )
+Seat 5: btlbtl ( 3,89 $ )
+Seat 6: 888AlexDi ( 0,78 $ )
+Seat 7: l8bd8l ( 0,80 $ )
+Seat 9: Bapiti10 ( 2,17 $ )
+Seat 10: XSpades ( 2,33 $ )
+l8bd8l posts small blind [0,01 $]
+Bapiti10 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 2Pik ]
+XSpades calls [0,02 $]
+SoveTnik90 raises [0,08 $]
+xxflashxxx folds
+B2B_Suckouts folds
+divvybarry raises [0,18 $]
+btlbtl folds
+888AlexDi folds
+l8bd8l folds
+Bapiti10 folds
+XSpades calls [0,16 $]
+SoveTnik90 folds
+** Dealing flop ** [ QPik, 3Karo, 4Kreuz ]
+XSpades checks
+divvybarry bets [0,31 $]
+XSpades raises [0,93 $]
+divvybarry raises [1,51 $]
+XSpades calls [0,89 $]
+** Dealing turn ** [ 10Herz ]
+** Dealing river ** [ JPik ]
+** Summary **
+divvybarry shows [ AKaro, AHerz ]
+XSpades shows [ 9Karo, 8Karo ]
+XSpades collected [ 3,86 $ ]
+
+
+
+#Game No : 631500090
+***** 888poker Hand History for Game 631500090 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:08:22
+Table Cologne 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,91 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,01 $ )
+Seat 5: btlbtl ( 3,89 $ )
+Seat 6: 888AlexDi ( 0,78 $ )
+Seat 7: l8bd8l ( 0,80 $ )
+Seat 9: Bapiti10 ( 2,15 $ )
+Seat 10: XSpades ( 4,19 $ )
+Bapiti10 posts small blind [0,01 $]
+XSpades posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 10Kreuz ]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+btlbtl folds
+888AlexDi raises [0,06 $]
+l8bd8l folds
+Bapiti10 calls [0,05 $]
+XSpades folds
+** Dealing flop ** [ 4Herz, 8Kreuz, 6Pik ]
+Bapiti10 bets [0,09 $]
+888AlexDi calls [0,09 $]
+** Dealing turn ** [ 5Pik ]
+Bapiti10 bets [0,21 $]
+888AlexDi folds
+** Summary **
+Bapiti10 collected [ 0,30 $ ]
+
+
+
+#Game No : 631500143
+***** 888poker Hand History for Game 631500143 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:09:39
+Table Cologne 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,91 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,01 $ )
+Seat 5: btlbtl ( 3,89 $ )
+Seat 6: 888AlexDi ( 0,63 $ )
+Seat 7: l8bd8l ( 0,80 $ )
+Seat 9: Bapiti10 ( 2,30 $ )
+Seat 10: XSpades ( 4,17 $ )
+XSpades posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 2Kreuz ]
+xxflashxxx folds
+B2B_Suckouts folds
+btlbtl folds
+888AlexDi folds
+l8bd8l folds
+Bapiti10 folds
+XSpades calls [0,01 $]
+SoveTnik90 raises [0,06 $]
+XSpades folds
+** Summary **
+SoveTnik90 collected [ 0,04 $ ]
+
+
+
+#Game No : 631500166
+***** 888poker Hand History for Game 631500166 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:10:15
+Table Cologne 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,93 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,01 $ )
+Seat 5: btlbtl ( 3,89 $ )
+Seat 6: 888AlexDi ( 0,63 $ )
+Seat 7: l8bd8l ( 0,80 $ )
+Seat 9: Bapiti10 ( 2,30 $ )
+Seat 10: XSpades ( 4,15 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 10Herz ]
+B2B_Suckouts folds
+btlbtl folds
+888AlexDi folds
+l8bd8l folds
+Bapiti10 folds
+XSpades raises [0,04 $]
+SoveTnik90 folds
+xxflashxxx folds
+** Summary **
+XSpades collected [ 0,05 $ ]
+
+
+
+#Game No : 631500190
+***** 888poker Hand History for Game 631500190 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:10:46
+Table Cologne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,92 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,01 $ )
+Seat 5: btlbtl ( 3,89 $ )
+Seat 6: 888AlexDi ( 0,63 $ )
+Seat 7: l8bd8l ( 0,80 $ )
+Seat 9: Bapiti10 ( 2,30 $ )
+Seat 10: XSpades ( 4,18 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 3Pik ]
+btlbtl raises [0,06 $]
+888AlexDi folds
+l8bd8l raises [0,18 $]
+Bapiti10 folds
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+btlbtl folds
+** Summary **
+l8bd8l collected [ 0,15 $ ]
+
+
+
+#Game No : 631500211
+***** 888poker Hand History for Game 631500211 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:11:20
+Table Cologne 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,92 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 5: btlbtl ( 3,83 $ )
+Seat 6: 888AlexDi ( 0,63 $ )
+Seat 7: l8bd8l ( 0,89 $ )
+Seat 9: Bapiti10 ( 2,30 $ )
+Seat 10: XSpades ( 4,18 $ )
+btlbtl posts small blind [0,01 $]
+888AlexDi posts big blind [0,02 $]
+** Dealing down cards **
+l8bd8l folds
+Bapiti10 folds
+XSpades folds
+SoveTnik90 raises [0,06 $]
+xxflashxxx folds
+btlbtl folds
+888AlexDi folds
+** Summary **
+SoveTnik90 collected [ 0,05 $ ]
+
+
+
+#Game No : 631500231
+***** 888poker Hand History for Game 631500231 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:11:47
+Table Cologne 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,95 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 5: btlbtl ( 3,82 $ )
+Seat 6: 888AlexDi ( 0,61 $ )
+Seat 7: l8bd8l ( 0,89 $ )
+Seat 9: Bapiti10 ( 2,30 $ )
+Seat 10: XSpades ( 4,18 $ )
+888AlexDi posts small blind [0,01 $]
+l8bd8l folds
+Bapiti10 posts big blind [0,02 $]
+** Dealing down cards **
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+btlbtl raises [0,05 $]
+888AlexDi folds
+Bapiti10 folds
+** Summary **
+btlbtl collected [ 0,05 $ ]
+
+
+
+#Game No : 631500248
+***** 888poker Hand History for Game 631500248 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:12:14
+Table Cologne 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,95 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 5: btlbtl ( 3,85 $ )
+Seat 6: 888AlexDi ( 0,60 $ )
+Seat 9: Bapiti10 ( 2,28 $ )
+Seat 10: XSpades ( 4,18 $ )
+Bapiti10 posts small blind [0,01 $]
+XSpades posts big blind [0,02 $]
+B2B_Suckouts posts dead blind [0,01 $ + 0 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 10Kreuz ]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,06 $]
+btlbtl folds
+888AlexDi folds
+Bapiti10 folds
+XSpades calls [0,04 $]
+** Dealing flop ** [ 3Kreuz, AKaro, 5Karo ]
+XSpades checks
+B2B_Suckouts bets [0,04 $]
+XSpades folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 631500282
+***** 888poker Hand History for Game 631500282 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:13:02
+Table Cologne 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,95 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,07 $ )
+Seat 5: btlbtl ( 3,85 $ )
+Seat 6: 888AlexDi ( 0,60 $ )
+Seat 9: Bapiti10 ( 2,27 $ )
+Seat 10: XSpades ( 4,12 $ )
+XSpades posts small blind [0,01 $]
+SoveTnik90 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 9Kreuz ]
+xxflashxxx folds
+B2B_Suckouts folds
+btlbtl folds
+888AlexDi folds
+Bapiti10 folds
+XSpades raises [0,03 $]
+SoveTnik90 folds
+** Summary **
+XSpades collected [ 0,04 $ ]
+
+
+
+#Game No : 631500297
+***** 888poker Hand History for Game 631500297 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:13:25
+Table Cologne 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,93 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,07 $ )
+Seat 5: btlbtl ( 3,85 $ )
+Seat 6: 888AlexDi ( 0,60 $ )
+Seat 9: Bapiti10 ( 2,27 $ )
+Seat 10: XSpades ( 4,14 $ )
+SoveTnik90 posts small blind [0,01 $]
+xxflashxxx posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, JPik ]
+B2B_Suckouts raises [0,06 $]
+btlbtl folds
+888AlexDi folds
+Bapiti10 folds
+XSpades calls [0,06 $]
+SoveTnik90 folds
+xxflashxxx folds
+** Dealing flop ** [ 7Karo, 9Karo, 7Kreuz ]
+B2B_Suckouts bets [0,04 $]
+XSpades raises [0,08 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing turn ** [ 4Pik ]
+B2B_Suckouts checks
+XSpades checks
+** Dealing river ** [ 5Herz ]
+B2B_Suckouts bets [0,30 $]
+XSpades calls [0,30 $]
+** Summary **
+B2B_Suckouts shows [ KHerz, JPik ]
+XSpades shows [ AKaro, 4Karo ]
+XSpades collected [ 0,86 $ ]
+
+
+
+#Game No : 631500346
+***** 888poker Hand History for Game 631500346 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:14:54
+Table Cologne 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: SoveTnik90 ( 1,92 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 5: btlbtl ( 3,85 $ )
+Seat 6: 888AlexDi ( 0,60 $ )
+Seat 9: Bapiti10 ( 2,27 $ )
+Seat 10: XSpades ( 4,56 $ )
+xxflashxxx posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 8Herz ]
+btlbtl folds
+888AlexDi folds
+Bapiti10 folds
+XSpades folds
+SoveTnik90 raises [0,06 $]
+xxflashxxx folds
+B2B_Suckouts folds
+** Summary **
+SoveTnik90 collected [ 0,05 $ ]
+
+
+
+#Game No : 631500377
+***** 888poker Hand History for Game 631500377 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:15:36
+Table Cologne 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,95 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2 $ )
+Seat 4: Msigo_ ( 2 $ )
+Seat 5: btlbtl ( 3,85 $ )
+Seat 6: 888AlexDi ( 0,60 $ )
+Seat 9: Bapiti10 ( 2,27 $ )
+Seat 10: XSpades ( 4,56 $ )
+B2B_Suckouts posts small blind [0,01 $]
+Msigo_ posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, AHerz ]
+btlbtl folds
+888AlexDi folds
+Bapiti10 folds
+XSpades calls [0,02 $]
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts raises [0,05 $]
+Msigo_ folds
+XSpades calls [0,04 $]
+** Dealing flop ** [ 8Herz, JKaro, 4Karo ]
+B2B_Suckouts checks
+XSpades checks
+** Dealing turn ** [ APik ]
+B2B_Suckouts bets [0,04 $]
+XSpades folds
+** Summary **
+B2B_Suckouts collected [ 0,14 $ ]
+
+
+
+#Game No : 631500414
+***** 888poker Hand History for Game 631500414 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:16:29
+Table Cologne 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,95 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,08 $ )
+Seat 4: Msigo_ ( 2 $ )
+Seat 5: btlbtl ( 3,85 $ )
+Seat 6: 888AlexDi ( 0,60 $ )
+Seat 9: Bapiti10 ( 2,27 $ )
+Seat 10: XSpades ( 4,50 $ )
+Msigo_ posts small blind [0,01 $]
+btlbtl posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, AKaro ]
+888AlexDi raises [0,04 $]
+Bapiti10 folds
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts calls [0,04 $]
+Msigo_ calls [0,03 $]
+btlbtl folds
+** Dealing flop ** [ 10Kreuz, 9Kreuz, 6Herz ]
+Msigo_ checks
+888AlexDi bets [0,07 $]
+B2B_Suckouts folds
+Msigo_ calls [0,07 $]
+** Dealing turn ** [ 5Herz ]
+Msigo_ checks
+888AlexDi checks
+** Dealing river ** [ 3Kreuz ]
+Msigo_ checks
+888AlexDi checks
+** Summary **
+Msigo_ shows [ 10Karo, JKaro ]
+888AlexDi mucks [ APik, 8Pik ]
+Msigo_ collected [ 0,27 $ ]
+
+
+
+#Game No : 631500456
+***** 888poker Hand History for Game 631500456 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:17:22
+Table Cologne 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: SoveTnik90 ( 1,95 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,04 $ )
+Seat 4: Msigo_ ( 2,16 $ )
+Seat 5: btlbtl ( 3,83 $ )
+Seat 6: 888AlexDi ( 0,49 $ )
+Seat 9: Bapiti10 ( 2,27 $ )
+Seat 10: XSpades ( 4,50 $ )
+btlbtl posts small blind [0,01 $]
+888AlexDi posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, KKaro ]
+Bapiti10 folds
+XSpades folds
+SoveTnik90 raises [0,06 $]
+xxflashxxx folds
+B2B_Suckouts folds
+Msigo_ folds
+btlbtl folds
+888AlexDi folds
+** Summary **
+SoveTnik90 collected [ 0,05 $ ]
+
+
+
+#Game No : 631500479
+***** 888poker Hand History for Game 631500479 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 10 02 2020 16:17:50
+Table Cologne 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: SoveTnik90 ( 1,98 $ )
+Seat 2: xxflashxxx ( 1 $ )
+Seat 3: B2B_Suckouts ( 2,04 $ )
+Seat 4: Msigo_ ( 2,16 $ )
+Seat 5: btlbtl ( 3,82 $ )
+Seat 6: 888AlexDi ( 0,47 $ )
+Seat 7: l8bd8l ( 0,89 $ )
+Seat 9: Bapiti10 ( 2,27 $ )
+Seat 10: XSpades ( 4,50 $ )
+888AlexDi posts small blind [0,01 $]
+l8bd8l posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, KKaro ]
+Bapiti10 raises [0,08 $]
+XSpades folds
+SoveTnik90 folds
+xxflashxxx folds
+B2B_Suckouts folds
+Msigo_ folds
+btlbtl calls [0,08 $]
+888AlexDi folds
+l8bd8l folds
+** Dealing flop ** [ 8Kreuz, QHerz, 9Herz ]
+Bapiti10 checks
+btlbtl checks
+** Dealing turn ** [ 4Herz ]
+Bapiti10 bets [0,09 $]
+btlbtl raises [0,27 $]
+Bapiti10 calls [0,18 $]
+** Dealing river ** [ 9Kreuz ]
+Bapiti10 checks
+btlbtl bets [0,48 $]
+Bapiti10 raises [1,90 $]
+btlbtl folds
+** Summary **
+Bapiti10 collected [ 1,59 $ ]
+
+
+
