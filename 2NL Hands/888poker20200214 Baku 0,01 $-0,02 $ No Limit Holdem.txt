@@ -1,0 +1,6968 @@
+#Game No : 527839373
+***** 888poker Hand History for Game 527839373 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:48:41
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: SithNitrous ( 1 $ )
+Seat 2: josefronald ( 1,96 $ )
+Seat 3: Penguin_1980 ( 1,37 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,38 $ )
+Seat 6: HLamb46 ( 2,15 $ )
+Seat 7: shockwave13 ( 1 $ )
+Seat 9: OKE_RASTA_J ( 2,11 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 6Karo ]
+SithNitrous folds
+josefronald folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 folds
+HLamb46 folds
+shockwave13 calls [0,02 $]
+OKE_RASTA_J folds
+B2B_Suckouts checks
+** Dealing flop ** [ 8Herz, 6Kreuz, 9Herz ]
+B2B_Suckouts checks
+shockwave13 bets [0,03 $]
+B2B_Suckouts calls [0,03 $]
+** Dealing turn ** [ 3Pik ]
+B2B_Suckouts bets [0,05 $]
+shockwave13 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,11 $ ]
+
+
+
+#Game No : 527839388
+***** 888poker Hand History for Game 527839388 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:49:18
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: SithNitrous ( 1 $ )
+Seat 2: josefronald ( 1,96 $ )
+Seat 3: Penguin_1980 ( 1,37 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,38 $ )
+Seat 6: HLamb46 ( 2,15 $ )
+Seat 7: shockwave13 ( 0,95 $ )
+Seat 9: OKE_RASTA_J ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+B2B_Suckouts posts small blind [0,01 $]
+SithNitrous posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 2Kreuz ]
+josefronald folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 raises [0,04 $]
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+SithNitrous calls [0,02 $]
+** Dealing flop ** [ QKaro, 4Kreuz, QKreuz ]
+SithNitrous checks
+MadMonkey88 bets [0,10 $]
+SithNitrous calls [0,10 $]
+** Dealing turn ** [ 6Pik ]
+SithNitrous checks
+MadMonkey88 bets [0,20 $]
+SithNitrous calls [0,20 $]
+** Dealing river ** [ 9Pik ]
+SithNitrous bets [0,36 $]
+MadMonkey88 folds
+** Summary **
+SithNitrous did not show his hand
+SithNitrous collected [ 0,65 $ ]
+
+
+
+#Game No : 527839415
+***** 888poker Hand History for Game 527839415 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:50:31
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: SithNitrous ( 1,31 $ )
+Seat 2: josefronald ( 1,96 $ )
+Seat 3: Penguin_1980 ( 1,37 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,04 $ )
+Seat 6: HLamb46 ( 2,15 $ )
+Seat 7: shockwave13 ( 0,95 $ )
+Seat 9: OKE_RASTA_J ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2,05 $ )
+SithNitrous posts small blind [0,01 $]
+josefronald posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, QPik ]
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 raises [0,04 $]
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+SithNitrous folds
+josefronald folds
+** Summary **
+MadMonkey88 did not show his hand
+MadMonkey88 collected [ 0,05 $ ]
+
+
+
+#Game No : 527839428
+***** 888poker Hand History for Game 527839428 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:50:48
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: SithNitrous ( 1,30 $ )
+Seat 2: josefronald ( 1,94 $ )
+Seat 3: Penguin_1980 ( 1,37 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,07 $ )
+Seat 6: HLamb46 ( 2,15 $ )
+Seat 7: shockwave13 ( 0,95 $ )
+Seat 9: OKE_RASTA_J ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2,05 $ )
+josefronald posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, JKreuz ]
+PQ7po raises [0,06 $]
+MadMonkey88 calls [0,06 $]
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts calls [0,06 $]
+SithNitrous folds
+josefronald folds
+Penguin_1980 folds
+** Dealing flop ** [ KKreuz, AHerz, 5Herz ]
+PQ7po bets [0,13 $]
+MadMonkey88 calls [0,13 $]
+B2B_Suckouts folds
+** Dealing turn ** [ 8Kreuz ]
+PQ7po checks
+MadMonkey88 checks
+** Dealing river ** [ 3Karo ]
+PQ7po checks
+MadMonkey88 bets [0,88 $]
+PQ7po folds
+** Summary **
+MadMonkey88 did not show his hand
+MadMonkey88 collected [ 0,45 $ ]
+
+
+
+#Game No : 527839456
+***** 888poker Hand History for Game 527839456 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:52:01
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: SithNitrous ( 1,30 $ )
+Seat 2: josefronald ( 1,93 $ )
+Seat 3: Penguin_1980 ( 1,35 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,33 $ )
+Seat 6: HLamb46 ( 2,15 $ )
+Seat 7: shockwave13 ( 0,95 $ )
+Seat 9: OKE_RASTA_J ( 2,10 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+Penguin_1980 posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 7Karo ]
+MadMonkey88 calls [0,02 $]
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J calls [0,02 $]
+B2B_Suckouts folds
+SithNitrous calls [0,02 $]
+josefronald folds
+Penguin_1980 folds
+PQ7po checks
+** Dealing flop ** [ 3Pik, 2Karo, 7Pik ]
+PQ7po checks
+MadMonkey88 checks
+OKE_RASTA_J checks
+SithNitrous bets [0,06 $]
+PQ7po folds
+MadMonkey88 calls [0,06 $]
+OKE_RASTA_J folds
+** Dealing turn ** [ 8Pik ]
+MadMonkey88 bets [0,10 $]
+SithNitrous calls [0,10 $]
+** Dealing river ** [ 9Karo ]
+MadMonkey88 checks
+SithNitrous checks
+** Summary **
+MadMonkey88 shows [ 7Kreuz, 9Herz ]
+SithNitrous shows [ 2Kreuz, 2Pik ]
+SithNitrous collected [ 0,39 $ ]
+
+
+
+#Game No : 527839483
+***** 888poker Hand History for Game 527839483 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:53:19
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: SithNitrous ( 1,51 $ )
+Seat 2: josefronald ( 1,93 $ )
+Seat 3: Penguin_1980 ( 1,34 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,15 $ )
+Seat 6: HLamb46 ( 2,15 $ )
+Seat 7: shockwave13 ( 0,95 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+PQ7po posts small blind [0,01 $]
+MadMonkey88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 10Karo ]
+HLamb46 folds
+shockwave13 raises [0,06 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+SithNitrous folds
+josefronald folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,05 $ ]
+
+
+
+#Game No : 527839490
+***** 888poker Hand History for Game 527839490 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:53:43
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: SithNitrous ( 1,51 $ )
+Seat 2: josefronald ( 1,93 $ )
+Seat 3: Penguin_1980 ( 1,34 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,13 $ )
+Seat 6: HLamb46 ( 2,15 $ )
+Seat 7: shockwave13 ( 0,98 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+MadMonkey88 posts small blind [0,01 $]
+HLamb46 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, APik ]
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts raises [0,06 $]
+SithNitrous folds
+josefronald folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 folds
+HLamb46 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 527839508
+***** 888poker Hand History for Game 527839508 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:54:18
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: SithNitrous ( 1,51 $ )
+Seat 2: josefronald ( 1,93 $ )
+Seat 3: Penguin_1980 ( 1,34 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,12 $ )
+Seat 6: HLamb46 ( 2,13 $ )
+Seat 7: shockwave13 ( 0,98 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+HLamb46 posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 4Karo ]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+SithNitrous folds
+josefronald folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 calls [0,02 $]
+HLamb46 calls [0,01 $]
+shockwave13 checks
+** Dealing flop ** [ KKreuz, 9Karo, JKaro ]
+HLamb46 checks
+shockwave13 checks
+MadMonkey88 checks
+** Dealing turn ** [ 6Kreuz ]
+HLamb46 bets [0,06 $]
+shockwave13 folds
+MadMonkey88 calls [0,06 $]
+** Dealing river ** [ 6Karo ]
+HLamb46 checks
+MadMonkey88 bets [1,04 $]
+HLamb46 folds
+** Summary **
+MadMonkey88 did not show his hand
+MadMonkey88 collected [ 0,17 $ ]
+
+
+
+#Game No : 527839524
+***** 888poker Hand History for Game 527839524 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:55:19
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: SithNitrous ( 1,51 $ )
+Seat 2: josefronald ( 1,93 $ )
+Seat 3: Penguin_1980 ( 1,34 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,21 $ )
+Seat 6: HLamb46 ( 2,05 $ )
+Seat 7: shockwave13 ( 0,96 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+shockwave13 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 5Pik ]
+B2B_Suckouts folds
+SithNitrous folds
+josefronald folds
+Penguin_1980 folds
+PQ7po raises [0,06 $]
+MadMonkey88 folds
+HLamb46 calls [0,06 $]
+shockwave13 folds
+OKE_RASTA_J folds
+** Dealing flop ** [ 2Herz, 8Karo, 9Herz ]
+PQ7po bets [0,09 $]
+HLamb46 calls [0,09 $]
+** Dealing turn ** [ 4Kreuz ]
+PQ7po checks
+HLamb46 bets [0,16 $]
+PQ7po folds
+** Summary **
+HLamb46 did not show his hand
+HLamb46 collected [ 0,31 $ ]
+
+
+
+#Game No : 527839538
+***** 888poker Hand History for Game 527839538 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:56:10
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: SithNitrous ( 1,51 $ )
+Seat 2: josefronald ( 1,93 $ )
+Seat 3: Penguin_1980 ( 1,34 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,21 $ )
+Seat 6: HLamb46 ( 2,21 $ )
+Seat 7: shockwave13 ( 0,95 $ )
+Seat 9: OKE_RASTA_J ( 2,06 $ )
+Seat 10: B2B_Suckouts ( 2,03 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 6Karo ]
+SithNitrous folds
+josefronald folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 calls [0,02 $]
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts raises [0,02 $]
+MadMonkey88 calls [0,02 $]
+** Dealing flop ** [ APik, 10Pik, 8Kreuz ]
+B2B_Suckouts checks
+MadMonkey88 checks
+** Dealing turn ** [ JHerz ]
+B2B_Suckouts bets [0,02 $]
+MadMonkey88 calls [0,02 $]
+** Dealing river ** [ KHerz ]
+B2B_Suckouts bets [0,12 $]
+MadMonkey88 folds
+** Summary **
+B2B_Suckouts collected [ 0,13 $ ]
+
+
+
+#Game No : 527839562
+***** 888poker Hand History for Game 527839562 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:57:07
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: josefronald ( 1,93 $ )
+Seat 3: Penguin_1980 ( 1,34 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,15 $ )
+Seat 6: HLamb46 ( 2,21 $ )
+Seat 7: shockwave13 ( 0,95 $ )
+Seat 9: OKE_RASTA_J ( 2,05 $ )
+Seat 10: B2B_Suckouts ( 2,10 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 10Herz ]
+josefronald folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 calls [0,02 $]
+HLamb46 raises [0,08 $]
+shockwave13 calls [0,08 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+MadMonkey88 calls [0,06 $]
+** Dealing flop ** [ KKreuz, JKreuz, 6Pik ]
+MadMonkey88 checks
+HLamb46 checks
+shockwave13 checks
+** Dealing turn ** [ 8Karo ]
+MadMonkey88 checks
+HLamb46 checks
+shockwave13 bets [0,13 $]
+MadMonkey88 folds
+HLamb46 calls [0,13 $]
+** Dealing river ** [ 9Kreuz ]
+HLamb46 checks
+shockwave13 bets [0,35 $]
+HLamb46 folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,50 $ ]
+
+
+
+#Game No : 527839603
+***** 888poker Hand History for Game 527839603 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:58:43
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: josefronald ( 1,93 $ )
+Seat 3: Penguin_1980 ( 1,34 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,07 $ )
+Seat 6: HLamb46 ( 2 $ )
+Seat 7: shockwave13 ( 1,24 $ )
+Seat 9: OKE_RASTA_J ( 2,05 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+overcranky posts small blind [0,01 $]
+josefronald posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QHerz, 5Herz ]
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 calls [0,02 $]
+HLamb46 raises [0,06 $]
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+josefronald folds
+MadMonkey88 calls [0,04 $]
+** Dealing flop ** [ 4Herz, 7Herz, 6Herz ]
+MadMonkey88 checks
+HLamb46 bets [0,09 $]
+MadMonkey88 calls [0,09 $]
+** Dealing turn ** [ 3Herz ]
+MadMonkey88 checks
+HLamb46 checks
+** Dealing river ** [ 9Karo ]
+MadMonkey88 bets [0,20 $]
+HLamb46 folds
+** Summary **
+MadMonkey88 did not show his hand
+MadMonkey88 collected [ 0,31 $ ]
+
+
+
+#Game No : 527839632
+***** 888poker Hand History for Game 527839632 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 11:59:51
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: josefronald ( 1,91 $ )
+Seat 3: Penguin_1980 ( 1,34 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,23 $ )
+Seat 6: HLamb46 ( 1,85 $ )
+Seat 7: shockwave13 ( 1,24 $ )
+Seat 9: OKE_RASTA_J ( 2,05 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+josefronald posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 8Pik ]
+PQ7po folds
+MadMonkey88 folds
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+josefronald folds
+** Summary **
+Penguin_1980 did not show his hand
+Penguin_1980 collected [ 0,03 $ ]
+
+
+
+#Game No : 527839640
+***** 888poker Hand History for Game 527839640 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:00:10
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: josefronald ( 1,90 $ )
+Seat 3: Penguin_1980 ( 1,35 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,23 $ )
+Seat 6: HLamb46 ( 1,85 $ )
+Seat 7: shockwave13 ( 1,24 $ )
+Seat 9: OKE_RASTA_J ( 2,05 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+Penguin_1980 posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 2Karo ]
+MadMonkey88 calls [0,02 $]
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+josefronald folds
+Penguin_1980 calls [0,01 $]
+PQ7po checks
+** Dealing flop ** [ 10Karo, 4Herz, 9Kreuz ]
+Penguin_1980 checks
+PQ7po checks
+MadMonkey88 checks
+** Dealing turn ** [ 3Karo ]
+Penguin_1980 checks
+PQ7po bets [0,03 $]
+MadMonkey88 calls [0,03 $]
+Penguin_1980 folds
+** Dealing river ** [ 10Kreuz ]
+PQ7po checks
+MadMonkey88 bets [0,10 $]
+PQ7po folds
+** Summary **
+MadMonkey88 did not show his hand
+MadMonkey88 collected [ 0,12 $ ]
+
+
+
+#Game No : 527839670
+***** 888poker Hand History for Game 527839670 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:01:44
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: josefronald ( 1,90 $ )
+Seat 3: Penguin_1980 ( 1,33 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,30 $ )
+Seat 6: HLamb46 ( 1,85 $ )
+Seat 7: shockwave13 ( 1,24 $ )
+Seat 9: OKE_RASTA_J ( 2,05 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+PQ7po posts small blind [0,01 $]
+MadMonkey88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, 4Herz ]
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+josefronald folds
+Penguin_1980 calls [0,02 $]
+PQ7po folds
+MadMonkey88 checks
+** Dealing flop ** [ 10Pik, 2Pik, 2Kreuz ]
+MadMonkey88 checks
+Penguin_1980 checks
+** Dealing turn ** [ 3Kreuz ]
+MadMonkey88 checks
+Penguin_1980 checks
+** Dealing river ** [ 8Kreuz ]
+MadMonkey88 checks
+Penguin_1980 checks
+** Summary **
+MadMonkey88 shows [ KHerz, 6Kreuz ]
+Penguin_1980 shows [ 6Pik, 6Herz ]
+Penguin_1980 collected [ 0,05 $ ]
+
+
+
+#Game No : 527839691
+***** 888poker Hand History for Game 527839691 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:02:42
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: josefronald ( 1,90 $ )
+Seat 3: Penguin_1980 ( 1,36 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,28 $ )
+Seat 6: HLamb46 ( 1,85 $ )
+Seat 7: shockwave13 ( 1,24 $ )
+Seat 9: OKE_RASTA_J ( 2,05 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+MadMonkey88 posts small blind [0,01 $]
+HLamb46 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 5Pik ]
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+josefronald folds
+Penguin_1980 folds
+PQ7po raises [0,06 $]
+MadMonkey88 calls [0,05 $]
+HLamb46 folds
+** Dealing flop ** [ 9Pik, 4Kreuz, 6Kreuz ]
+MadMonkey88 checks
+PQ7po bets [0,09 $]
+MadMonkey88 raises [0,18 $]
+PQ7po folds
+** Summary **
+MadMonkey88 did not show his hand
+MadMonkey88 collected [ 0,30 $ ]
+
+
+
+#Game No : 527839706
+***** 888poker Hand History for Game 527839706 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:03:21
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: josefronald ( 1,90 $ )
+Seat 3: Penguin_1980 ( 1,36 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 1,43 $ )
+Seat 6: HLamb46 ( 1,83 $ )
+Seat 7: shockwave13 ( 1,24 $ )
+Seat 9: OKE_RASTA_J ( 2,05 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+HLamb46 posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 10Herz ]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+josefronald folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 calls [0,02 $]
+HLamb46 calls [0,01 $]
+shockwave13 raises [0,06 $]
+MadMonkey88 calls [0,06 $]
+HLamb46 folds
+** Dealing flop ** [ 4Karo, 6Herz, AHerz ]
+shockwave13 bets [0,12 $]
+MadMonkey88 calls [0,12 $]
+** Dealing turn ** [ 10Karo ]
+shockwave13 bets [0,28 $]
+MadMonkey88 raises [0,70 $]
+shockwave13 raises [0,76 $]
+MadMonkey88 calls [0,34 $]
+** Dealing river ** [ 8Pik ]
+** Summary **
+MadMonkey88 shows [ 4Kreuz, AKaro ]
+shockwave13 shows [ AKreuz, KKreuz ]
+MadMonkey88 collected [ 2,35 $ ]
+
+
+
+#Game No : 527839727
+***** 888poker Hand History for Game 527839727 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:04:17
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: josefronald ( 1,90 $ )
+Seat 3: Penguin_1980 ( 1,36 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 2,54 $ )
+Seat 6: HLamb46 ( 1,81 $ )
+Seat 7: shockwave13 ( 0,80 $ )
+Seat 9: OKE_RASTA_J ( 2,05 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+shockwave13 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 2Pik ]
+B2B_Suckouts folds
+overcranky folds
+josefronald folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 calls [0,02 $]
+HLamb46 folds
+shockwave13 calls [0,01 $]
+OKE_RASTA_J checks
+** Dealing flop ** [ KHerz, 2Herz, 7Pik ]
+shockwave13 checks
+OKE_RASTA_J checks
+MadMonkey88 checks
+** Dealing turn ** [ 4Karo ]
+shockwave13 checks
+OKE_RASTA_J checks
+MadMonkey88 checks
+** Dealing river ** [ QKaro ]
+shockwave13 checks
+OKE_RASTA_J checks
+MadMonkey88 checks
+** Summary **
+shockwave13 shows [ 5Pik, 6Kreuz ]
+OKE_RASTA_J shows [ 8Pik, 2Karo ]
+MadMonkey88 mucks [ AKaro, 6Karo ]
+OKE_RASTA_J collected [ 0,06 $ ]
+
+
+
+#Game No : 527839752
+***** 888poker Hand History for Game 527839752 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:05:16
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: josefronald ( 1,90 $ )
+Seat 3: Penguin_1980 ( 1,36 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 2,52 $ )
+Seat 6: HLamb46 ( 1,81 $ )
+Seat 7: shockwave13 ( 0,78 $ )
+Seat 9: OKE_RASTA_J ( 2,09 $ )
+Seat 10: B2B_Suckouts ( 2,09 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 5Karo ]
+overcranky folds
+josefronald folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 folds
+HLamb46 raises [0,06 $]
+shockwave13 calls [0,06 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+** Dealing flop ** [ 10Herz, 10Pik, 9Kreuz ]
+HLamb46 bets [0,09 $]
+shockwave13 raises [0,25 $]
+HLamb46 calls [0,16 $]
+** Dealing turn ** [ 10Kreuz ]
+HLamb46 checks
+shockwave13 bets [0,47 $]
+HLamb46 folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,61 $ ]
+
+
+
+#Game No : 527839782
+***** 888poker Hand History for Game 527839782 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:06:09
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: josefronald ( 1,90 $ )
+Seat 3: Penguin_1980 ( 1,36 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 2,52 $ )
+Seat 6: HLamb46 ( 1,50 $ )
+Seat 7: shockwave13 ( 1,08 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,07 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 5Kreuz ]
+josefronald folds
+Penguin_1980 folds
+PQ7po raises [0,06 $]
+MadMonkey88 folds
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+** Summary **
+PQ7po collected [ 0,05 $ ]
+
+
+
+#Game No : 527839789
+***** 888poker Hand History for Game 527839789 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:06:37
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 3: Penguin_1980 ( 1,36 $ )
+Seat 4: PQ7po ( 0,83 $ )
+Seat 5: MadMonkey88 ( 2,52 $ )
+Seat 6: HLamb46 ( 1,50 $ )
+Seat 7: shockwave13 ( 1,08 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+overcranky posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, 2Pik ]
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 folds
+HLamb46 folds
+shockwave13 raises [0,06 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,05 $ ]
+
+
+
+#Game No : 527839803
+***** 888poker Hand History for Game 527839803 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:07:16
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 3: Penguin_1980 ( 1,36 $ )
+Seat 4: PQ7po ( 0,83 $ )
+Seat 5: MadMonkey88 ( 2,52 $ )
+Seat 6: HLamb46 ( 1,50 $ )
+Seat 7: shockwave13 ( 1,11 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+rojser posts small blind [0,01 $]
+Penguin_1980 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, AKaro ]
+PQ7po folds
+MadMonkey88 folds
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts raises [0,06 $]
+overcranky raises [0,18 $]
+rojser folds
+Penguin_1980 folds
+B2B_Suckouts calls [0,12 $]
+** Dealing flop ** [ AKreuz, 9Pik, QKaro ]
+B2B_Suckouts bets [0,12 $]
+overcranky folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,37 $ ]
+
+
+
+#Game No : 527839820
+***** 888poker Hand History for Game 527839820 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:08:02
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 3: Penguin_1980 ( 1,34 $ )
+Seat 4: PQ7po ( 0,83 $ )
+Seat 5: MadMonkey88 ( 2,52 $ )
+Seat 6: HLamb46 ( 1,50 $ )
+Seat 7: shockwave13 ( 1,11 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,25 $ )
+Penguin_1980 posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 3Pik ]
+MadMonkey88 calls [0,02 $]
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+Penguin_1980 calls [0,01 $]
+PQ7po checks
+** Dealing flop ** [ AHerz, 8Pik, 6Karo ]
+Penguin_1980 checks
+PQ7po checks
+MadMonkey88 checks
+** Dealing turn ** [ 4Pik ]
+Penguin_1980 checks
+PQ7po checks
+MadMonkey88 checks
+** Dealing river ** [ JHerz ]
+Penguin_1980 checks
+PQ7po checks
+MadMonkey88 bets [0,02 $]
+Penguin_1980 calls [0,02 $]
+PQ7po folds
+** Summary **
+MadMonkey88 shows [ JKaro, 10Kreuz ]
+Penguin_1980 shows [ JKreuz, QPik ]
+Penguin_1980 collected [ 0,10 $ ]
+
+
+
+#Game No : 527839850
+***** 888poker Hand History for Game 527839850 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:09:11
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 3: Penguin_1980 ( 1,40 $ )
+Seat 4: PQ7po ( 0,81 $ )
+Seat 5: MadMonkey88 ( 2,48 $ )
+Seat 6: HLamb46 ( 1,50 $ )
+Seat 7: shockwave13 ( 1,11 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,25 $ )
+PQ7po posts small blind [0,01 $]
+MadMonkey88 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 7Kreuz ]
+HLamb46 folds
+shockwave13 calls [0,02 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 checks
+** Dealing flop ** [ 4Kreuz, 2Herz, 9Herz ]
+MadMonkey88 bets [0,05 $]
+shockwave13 calls [0,05 $]
+** Dealing turn ** [ QKreuz ]
+MadMonkey88 bets [0,05 $]
+shockwave13 calls [0,05 $]
+** Dealing river ** [ 7Karo ]
+MadMonkey88 checks
+shockwave13 bets [0,16 $]
+MadMonkey88 raises [0,32 $]
+shockwave13 folds
+** Summary **
+MadMonkey88 did not show his hand
+MadMonkey88 collected [ 0,54 $ ]
+
+
+
+#Game No : 527839876
+***** 888poker Hand History for Game 527839876 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:10:16
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 3: Penguin_1980 ( 1,40 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: MadMonkey88 ( 2,74 $ )
+Seat 6: HLamb46 ( 1,50 $ )
+Seat 7: shockwave13 ( 0,83 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,25 $ )
+MadMonkey88 posts small blind [0,01 $]
+HLamb46 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, KHerz ]
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+Penguin_1980 folds
+PQ7po folds
+MadMonkey88 folds
+** Summary **
+HLamb46 did not show his hand
+HLamb46 collected [ 0,03 $ ]
+
+
+
+#Game No : 527839902
+***** 888poker Hand History for Game 527839902 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:11:36
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 3: Penguin_1980 ( 1,40 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 6: HLamb46 ( 1,51 $ )
+Seat 7: shockwave13 ( 0,83 $ )
+Seat 9: OKE_RASTA_J ( 2,08 $ )
+Seat 10: B2B_Suckouts ( 2,25 $ )
+shockwave13 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, QPik ]
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+Penguin_1980 folds
+PQ7po folds
+HLamb46 folds
+shockwave13 calls [0,01 $]
+OKE_RASTA_J checks
+** Dealing flop ** [ QHerz, 7Kreuz, 10Kreuz ]
+shockwave13 bets [0,02 $]
+OKE_RASTA_J folds
+** Summary **
+shockwave13 collected [ 0,04 $ ]
+
+
+
+#Game No : 527839920
+***** 888poker Hand History for Game 527839920 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:12:15
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 3: Penguin_1980 ( 1,40 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 6: HLamb46 ( 1,51 $ )
+Seat 7: shockwave13 ( 0,85 $ )
+Seat 9: OKE_RASTA_J ( 2,06 $ )
+Seat 10: B2B_Suckouts ( 2,25 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKaro, 10Karo ]
+overcranky folds
+rojser folds
+Penguin_1980 folds
+PQ7po folds
+HLamb46 folds
+shockwave13 calls [0,02 $]
+OKE_RASTA_J calls [0,01 $]
+B2B_Suckouts raises [0,02 $]
+shockwave13 calls [0,02 $]
+OKE_RASTA_J calls [0,02 $]
+** Dealing flop ** [ 2Kreuz, QPik, AHerz ]
+OKE_RASTA_J checks
+B2B_Suckouts checks
+shockwave13 checks
+** Dealing turn ** [ 7Karo ]
+OKE_RASTA_J bets [0,06 $]
+B2B_Suckouts folds
+shockwave13 folds
+** Summary **
+OKE_RASTA_J collected [ 0,12 $ ]
+
+
+
+#Game No : 527839941
+***** 888poker Hand History for Game 527839941 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:13:11
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 3: Penguin_1980 ( 1,40 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 6: HLamb46 ( 1,51 $ )
+Seat 7: shockwave13 ( 0,81 $ )
+Seat 9: OKE_RASTA_J ( 2,14 $ )
+Seat 10: B2B_Suckouts ( 2,21 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 3Pik ]
+rojser folds
+Penguin_1980 folds
+PQ7po folds
+HLamb46 raises [0,06 $]
+shockwave13 calls [0,06 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+** Dealing flop ** [ 7Herz, 7Karo, 9Pik ]
+HLamb46 bets [0,09 $]
+shockwave13 raises [0,18 $]
+HLamb46 folds
+** Summary **
+shockwave13 collected [ 0,31 $ ]
+
+
+
+#Game No : 527839964
+***** 888poker Hand History for Game 527839964 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:14:09
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 3: Penguin_1980 ( 1,40 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 6: HLamb46 ( 1,36 $ )
+Seat 7: shockwave13 ( 0,97 $ )
+Seat 9: OKE_RASTA_J ( 2,14 $ )
+Seat 10: B2B_Suckouts ( 2,20 $ )
+overcranky posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 8Herz ]
+Penguin_1980 folds
+PQ7po folds
+HLamb46 raises [0,06 $]
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts raises [0,18 $]
+overcranky folds
+rojser folds
+HLamb46 calls [0,12 $]
+** Dealing flop ** [ JPik, 2Pik, 9Karo ]
+HLamb46 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 9Kreuz ]
+HLamb46 checks
+B2B_Suckouts bets [0,12 $]
+HLamb46 folds
+** Summary **
+B2B_Suckouts collected [ 0,37 $ ]
+
+
+
+#Game No : 527839979
+***** 888poker Hand History for Game 527839979 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:15:05
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 6: HLamb46 ( 1,18 $ )
+Seat 7: shockwave13 ( 0,97 $ )
+Seat 9: OKE_RASTA_J ( 2,14 $ )
+Seat 10: B2B_Suckouts ( 2,39 $ )
+rojser posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 8Karo ]
+HLamb46 calls [0,02 $]
+shockwave13 raises [0,09 $]
+OKE_RASTA_J folds
+B2B_Suckouts calls [0,09 $]
+overcranky folds
+rojser folds
+PQ7po folds
+HLamb46 raises [1,16 $]
+shockwave13 folds
+B2B_Suckouts folds
+** Summary **
+HLamb46 collected [ 0,30 $ ]
+
+
+
+#Game No : 527840004
+***** 888poker Hand History for Game 527840004 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:16:04
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: HLamb46 ( 1,39 $ )
+Seat 7: shockwave13 ( 0,88 $ )
+Seat 9: OKE_RASTA_J ( 2,14 $ )
+Seat 10: B2B_Suckouts ( 2,30 $ )
+PQ7po posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, APik ]
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky raises [0,05 $]
+rojser folds
+PQ7po folds
+whyluckys folds
+** Summary **
+overcranky did not show his hand
+overcranky collected [ 0,05 $ ]
+
+
+
+#Game No : 527840012
+***** 888poker Hand History for Game 527840012 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:16:30
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2,03 $ )
+Seat 2: rojser ( 2 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: HLamb46 ( 1,39 $ )
+Seat 7: shockwave13 ( 0,88 $ )
+Seat 9: OKE_RASTA_J ( 2,14 $ )
+Seat 10: B2B_Suckouts ( 2,30 $ )
+whyluckys posts small blind [0,01 $]
+HLamb46 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, KHerz ]
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+rojser raises [0,07 $]
+PQ7po folds
+whyluckys folds
+HLamb46 folds
+** Summary **
+rojser collected [ 0,05 $ ]
+
+
+
+#Game No : 527840038
+***** 888poker Hand History for Game 527840038 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:17:22
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2,03 $ )
+Seat 2: rojser ( 2,03 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: HLamb46 ( 1,37 $ )
+Seat 7: shockwave13 ( 0,88 $ )
+Seat 9: OKE_RASTA_J ( 2,14 $ )
+Seat 10: B2B_Suckouts ( 2,30 $ )
+HLamb46 posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, JHerz ]
+OKE_RASTA_J folds
+B2B_Suckouts raises [0,06 $]
+overcranky calls [0,06 $]
+rojser calls [0,06 $]
+PQ7po folds
+whyluckys folds
+HLamb46 folds
+shockwave13 folds
+** Dealing flop ** [ 2Pik, 9Kreuz, 8Karo ]
+B2B_Suckouts bets [0,06 $]
+overcranky folds
+rojser calls [0,06 $]
+** Dealing turn ** [ 4Kreuz ]
+B2B_Suckouts checks
+rojser bets [0,16 $]
+B2B_Suckouts folds
+** Summary **
+rojser collected [ 0,31 $ ]
+
+
+
+#Game No : 527840065
+***** 888poker Hand History for Game 527840065 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:18:32
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,22 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: HLamb46 ( 1,36 $ )
+Seat 7: shockwave13 ( 0,86 $ )
+Seat 9: OKE_RASTA_J ( 2,14 $ )
+Seat 10: B2B_Suckouts ( 2,18 $ )
+shockwave13 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 6Herz ]
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+PQ7po folds
+whyluckys folds
+HLamb46 folds
+shockwave13 folds
+** Summary **
+OKE_RASTA_J collected [ 0,03 $ ]
+
+
+
+#Game No : 527840076
+***** 888poker Hand History for Game 527840076 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:18:50
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,22 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: HLamb46 ( 1,36 $ )
+Seat 7: shockwave13 ( 0,85 $ )
+Seat 9: OKE_RASTA_J ( 2,15 $ )
+Seat 10: B2B_Suckouts ( 2,18 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 5Kreuz ]
+overcranky folds
+rojser folds
+PQ7po folds
+whyluckys folds
+HLamb46 folds
+shockwave13 calls [0,02 $]
+OKE_RASTA_J calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ JKaro, 8Pik, 10Kreuz ]
+OKE_RASTA_J checks
+B2B_Suckouts bets [0,02 $]
+shockwave13 calls [0,02 $]
+OKE_RASTA_J calls [0,02 $]
+** Dealing turn ** [ 4Kreuz ]
+OKE_RASTA_J checks
+B2B_Suckouts bets [0,02 $]
+shockwave13 raises [0,08 $]
+OKE_RASTA_J folds
+B2B_Suckouts calls [0,06 $]
+** Dealing river ** [ 10Herz ]
+B2B_Suckouts checks
+shockwave13 checks
+** Summary **
+B2B_Suckouts shows [ 7Kreuz, 5Kreuz ]
+shockwave13 shows [ 9Karo, JKreuz ]
+shockwave13 collected [ 0,27 $ ]
+
+
+
+#Game No : 527840103
+***** 888poker Hand History for Game 527840103 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:20:10
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,22 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: HLamb46 ( 1,36 $ )
+Seat 7: shockwave13 ( 1 $ )
+Seat 9: OKE_RASTA_J ( 2,11 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 6Karo ]
+rojser folds
+PQ7po folds
+whyluckys folds
+HLamb46 folds
+shockwave13 calls [0,02 $]
+OKE_RASTA_J calls [0,02 $]
+B2B_Suckouts folds
+overcranky checks
+** Dealing flop ** [ AHerz, 4Pik, 8Pik ]
+overcranky checks
+shockwave13 bets [0,03 $]
+OKE_RASTA_J calls [0,03 $]
+overcranky folds
+** Dealing turn ** [ 4Herz ]
+shockwave13 bets [0,06 $]
+OKE_RASTA_J calls [0,06 $]
+** Dealing river ** [ JHerz ]
+shockwave13 bets [0,12 $]
+OKE_RASTA_J calls [0,12 $]
+** Summary **
+shockwave13 shows [ 2Pik, AKaro ]
+OKE_RASTA_J mucks [ QPik, JPik ]
+shockwave13 collected [ 0,46 $ ]
+
+
+
+#Game No : 527840129
+***** 888poker Hand History for Game 527840129 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:21:07
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,22 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: HLamb46 ( 1,36 $ )
+Seat 7: shockwave13 ( 1,23 $ )
+Seat 9: OKE_RASTA_J ( 1,88 $ )
+Seat 10: B2B_Suckouts ( 2,05 $ )
+overcranky posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 5Karo ]
+PQ7po folds
+whyluckys folds
+HLamb46 raises [0,06 $]
+shockwave13 folds
+OKE_RASTA_J calls [0,06 $]
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+** Dealing flop ** [ 2Karo, 3Pik, QKreuz ]
+HLamb46 bets [0,09 $]
+OKE_RASTA_J folds
+** Summary **
+HLamb46 collected [ 0,15 $ ]
+
+
+
+#Game No : 527840147
+***** 888poker Hand History for Game 527840147 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:22:05
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,20 $ )
+Seat 3: SinisterKid ( 2 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: HLamb46 ( 1,45 $ )
+Seat 7: shockwave13 ( 1,23 $ )
+Seat 9: OKE_RASTA_J ( 1,82 $ )
+Seat 10: B2B_Suckouts ( 2,05 $ )
+rojser posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, KKreuz ]
+PQ7po folds
+whyluckys folds
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J calls [0,02 $]
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+SinisterKid raises [0,06 $]
+OKE_RASTA_J folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,05 $ ]
+
+
+
+#Game No : 527840165
+***** 888poker Hand History for Game 527840165 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:22:51
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,19 $ )
+Seat 3: SinisterKid ( 2,03 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: HLamb46 ( 1,45 $ )
+Seat 7: shockwave13 ( 1,23 $ )
+Seat 9: OKE_RASTA_J ( 1,80 $ )
+Seat 10: B2B_Suckouts ( 2,05 $ )
+SinisterKid posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, AKreuz ]
+whyluckys folds
+HLamb46 folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts raises [0,06 $]
+overcranky folds
+rojser folds
+SinisterKid calls [0,05 $]
+PQ7po folds
+** Dealing flop ** [ 5Kreuz, 10Karo, 8Kreuz ]
+SinisterKid bets [0,08 $]
+B2B_Suckouts calls [0,08 $]
+** Dealing turn ** [ QKreuz ]
+SinisterKid checks
+B2B_Suckouts checks
+** Dealing river ** [ 8Pik ]
+SinisterKid bets [0,16 $]
+B2B_Suckouts folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,29 $ ]
+
+
+
+#Game No : 527840188
+***** 888poker Hand History for Game 527840188 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:24:04
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,19 $ )
+Seat 3: SinisterKid ( 2,18 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: HLamb46 ( 1,45 $ )
+Seat 7: shockwave13 ( 1,23 $ )
+Seat 9: OKE_RASTA_J ( 1,80 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+PQ7po posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 4Kreuz ]
+HLamb46 folds
+shockwave13 calls [0,02 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+rojser calls [0,02 $]
+SinisterKid raises [0,10 $]
+PQ7po folds
+whyluckys folds
+shockwave13 calls [0,08 $]
+rojser calls [0,08 $]
+** Dealing flop ** [ 3Kreuz, 10Pik, AKaro ]
+shockwave13 checks
+rojser checks
+SinisterKid bets [0,22 $]
+shockwave13 folds
+rojser folds
+** Summary **
+SinisterKid did not show his hand
+SinisterKid collected [ 0,31 $ ]
+
+
+
+#Game No : 527840213
+***** 888poker Hand History for Game 527840213 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:25:26
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,09 $ )
+Seat 3: SinisterKid ( 2,39 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 7: shockwave13 ( 1,13 $ )
+Seat 9: OKE_RASTA_J ( 1,80 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+whyluckys posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 4Herz ]
+OKE_RASTA_J calls [0,02 $]
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+SinisterKid folds
+PQ7po raises [0,08 $]
+whyluckys folds
+shockwave13 folds
+OKE_RASTA_J folds
+** Summary **
+PQ7po collected [ 0,07 $ ]
+
+
+
+#Game No : 527840228
+***** 888poker Hand History for Game 527840228 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:26:05
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,09 $ )
+Seat 3: SinisterKid ( 2,39 $ )
+Seat 4: PQ7po ( 0,85 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 7: shockwave13 ( 1,11 $ )
+Seat 9: OKE_RASTA_J ( 1,78 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+shockwave13 posts small blind [0,01 $]
+OKE_RASTA_J posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 10Pik ]
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+SinisterKid raises [0,06 $]
+PQ7po folds
+whyluckys folds
+shockwave13 folds
+OKE_RASTA_J folds
+** Summary **
+SinisterKid collected [ 0,05 $ ]
+
+
+
+#Game No : 527840238
+***** 888poker Hand History for Game 527840238 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:26:24
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,09 $ )
+Seat 3: SinisterKid ( 2,42 $ )
+Seat 4: PQ7po ( 0,85 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 7: shockwave13 ( 1,10 $ )
+Seat 9: OKE_RASTA_J ( 1,76 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+OKE_RASTA_J posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 7Pik ]
+overcranky folds
+rojser folds
+SinisterKid raises [0,06 $]
+PQ7po folds
+whyluckys folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts calls [0,04 $]
+** Dealing flop ** [ 3Kreuz, 2Herz, KKreuz ]
+B2B_Suckouts checks
+SinisterKid bets [0,10 $]
+B2B_Suckouts folds
+** Summary **
+SinisterKid collected [ 0,13 $ ]
+
+
+
+#Game No : 527840251
+***** 888poker Hand History for Game 527840251 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:27:01
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,09 $ )
+Seat 3: SinisterKid ( 2,49 $ )
+Seat 4: PQ7po ( 0,85 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 7: shockwave13 ( 1,10 $ )
+Seat 9: OKE_RASTA_J ( 1,75 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 10Karo ]
+rojser folds
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+shockwave13 folds
+OKE_RASTA_J calls [0,02 $]
+B2B_Suckouts calls [0,01 $]
+overcranky checks
+** Dealing flop ** [ 7Pik, 3Karo, 9Karo ]
+B2B_Suckouts bets [0,03 $]
+overcranky folds
+OKE_RASTA_J calls [0,03 $]
+** Dealing turn ** [ 4Herz ]
+B2B_Suckouts bets [0,06 $]
+OKE_RASTA_J calls [0,06 $]
+** Dealing river ** [ 5Kreuz ]
+B2B_Suckouts bets [0,20 $]
+OKE_RASTA_J folds
+** Summary **
+B2B_Suckouts collected [ 0,23 $ ]
+
+
+
+#Game No : 527840274
+***** 888poker Hand History for Game 527840274 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:28:09
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,09 $ )
+Seat 3: SinisterKid ( 2,49 $ )
+Seat 4: PQ7po ( 0,85 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 7: shockwave13 ( 1,10 $ )
+Seat 9: OKE_RASTA_J ( 1,64 $ )
+Seat 10: B2B_Suckouts ( 2,12 $ )
+overcranky posts small blind [0,01 $]
+rojser posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, QKaro ]
+SinisterKid folds
+PQ7po raises [0,06 $]
+whyluckys folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+** Summary **
+PQ7po collected [ 0,05 $ ]
+
+
+
+#Game No : 527840297
+***** 888poker Hand History for Game 527840297 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:30:18
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,06 $ )
+Seat 3: SinisterKid ( 2,41 $ )
+Seat 4: PQ7po ( 0,88 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 7: shockwave13 ( 1,18 $ )
+Seat 9: OKE_RASTA_J ( 1,64 $ )
+Seat 10: B2B_Suckouts ( 2,12 $ )
+SinisterKid posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 3Karo ]
+whyluckys folds
+shockwave13 folds
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+SinisterKid folds
+** Summary **
+PQ7po collected [ 0,03 $ ]
+
+
+
+#Game No : 527840321
+***** 888poker Hand History for Game 527840321 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:30:38
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,06 $ )
+Seat 3: SinisterKid ( 2,40 $ )
+Seat 4: PQ7po ( 0,89 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 7: shockwave13 ( 1,18 $ )
+Seat 9: OKE_RASTA_J ( 1,64 $ )
+Seat 10: B2B_Suckouts ( 2,12 $ )
+PQ7po posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, JKreuz ]
+shockwave13 calls [0,02 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+SinisterKid folds
+PQ7po calls [0,01 $]
+whyluckys checks
+** Dealing flop ** [ 3Karo, 10Herz, QHerz ]
+PQ7po bets [0,03 $]
+whyluckys calls [0,03 $]
+shockwave13 calls [0,03 $]
+** Dealing turn ** [ QPik ]
+PQ7po checks
+whyluckys bets [0,09 $]
+shockwave13 folds
+PQ7po folds
+** Summary **
+whyluckys collected [ 0,15 $ ]
+
+
+
+#Game No : 527840348
+***** 888poker Hand History for Game 527840348 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:32:03
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,06 $ )
+Seat 3: SinisterKid ( 2,40 $ )
+Seat 4: PQ7po ( 0,84 $ )
+Seat 5: whyluckys ( 2,10 $ )
+Seat 6: mbocani ( 1,40 $ )
+Seat 7: shockwave13 ( 1,13 $ )
+Seat 9: OKE_RASTA_J ( 1,64 $ )
+Seat 10: B2B_Suckouts ( 2,12 $ )
+whyluckys posts small blind [0,01 $]
+mbocani posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, AKaro ]
+shockwave13 calls [0,02 $]
+OKE_RASTA_J folds
+B2B_Suckouts folds
+overcranky folds
+rojser folds
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani raises [0,02 $]
+shockwave13 calls [0,02 $]
+** Dealing flop ** [ QPik, JHerz, 7Pik ]
+mbocani checks
+shockwave13 bets [0,04 $]
+mbocani folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,09 $ ]
+
+
+
+#Game No : 527840365
+***** 888poker Hand History for Game 527840365 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:32:53
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,06 $ )
+Seat 3: SinisterKid ( 2,40 $ )
+Seat 4: PQ7po ( 0,84 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: mbocani ( 1,36 $ )
+Seat 7: shockwave13 ( 1,18 $ )
+Seat 9: OKE_RASTA_J ( 1,64 $ )
+Seat 10: B2B_Suckouts ( 2,12 $ )
+mbocani posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, JKaro ]
+OKE_RASTA_J folds
+B2B_Suckouts raises [0,06 $]
+overcranky folds
+rojser folds
+SinisterKid calls [0,06 $]
+PQ7po folds
+whyluckys folds
+mbocani folds
+shockwave13 calls [0,04 $]
+** Dealing flop ** [ 3Pik, 4Herz, 4Pik ]
+shockwave13 checks
+B2B_Suckouts checks
+SinisterKid bets [0,14 $]
+shockwave13 raises [0,28 $]
+B2B_Suckouts folds
+SinisterKid folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,45 $ ]
+
+
+
+#Game No : 527840385
+***** 888poker Hand History for Game 527840385 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:34:01
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,06 $ )
+Seat 3: SinisterKid ( 2,20 $ )
+Seat 4: PQ7po ( 0,84 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: mbocani ( 1,35 $ )
+Seat 7: shockwave13 ( 1,43 $ )
+Seat 9: OKE_RASTA_J ( 1,64 $ )
+Seat 10: B2B_Suckouts ( 2,06 $ )
+shockwave13 posts small blind [0,01 $]
+OKE_RASTA_J folds
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 3Pik ]
+overcranky folds
+rojser folds
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani calls [0,02 $]
+shockwave13 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ JKreuz, 5Herz, 4Karo ]
+shockwave13 checks
+B2B_Suckouts bets [0,02 $]
+mbocani folds
+shockwave13 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,06 $ ]
+
+
+
+#Game No : 527840400
+***** 888poker Hand History for Game 527840400 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:34:49
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,06 $ )
+Seat 3: SinisterKid ( 2,20 $ )
+Seat 4: PQ7po ( 0,84 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: mbocani ( 1,33 $ )
+Seat 7: shockwave13 ( 1,41 $ )
+Seat 10: B2B_Suckouts ( 2,10 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 3Pik ]
+rojser folds
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani folds
+shockwave13 calls [0,02 $]
+B2B_Suckouts calls [0,01 $]
+overcranky checks
+** Dealing flop ** [ APik, 10Kreuz, 9Herz ]
+B2B_Suckouts bets [0,02 $]
+overcranky folds
+shockwave13 calls [0,02 $]
+** Dealing turn ** [ 10Karo ]
+B2B_Suckouts bets [0,12 $]
+shockwave13 calls [0,12 $]
+** Dealing river ** [ 10Herz ]
+B2B_Suckouts bets [0,24 $]
+shockwave13 raises [0,54 $]
+B2B_Suckouts folds
+** Summary **
+shockwave13 collected [ 0,77 $ ]
+
+
+
+#Game No : 527840428
+***** 888poker Hand History for Game 527840428 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:36:14
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2 $ )
+Seat 2: rojser ( 2,06 $ )
+Seat 3: SinisterKid ( 2,20 $ )
+Seat 4: PQ7po ( 0,84 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: mbocani ( 1,33 $ )
+Seat 7: shockwave13 ( 1,78 $ )
+Seat 10: B2B_Suckouts ( 1,70 $ )
+overcranky posts small blind [0,01 $]
+rojser folds
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, AHerz ]
+PQ7po folds
+whyluckys folds
+mbocani folds
+shockwave13 folds
+B2B_Suckouts raises [0,06 $]
+overcranky folds
+SinisterKid folds
+** Summary **
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 527840447
+***** 888poker Hand History for Game 527840447 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:36:55
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2 $ )
+Seat 3: SinisterKid ( 2,18 $ )
+Seat 4: PQ7po ( 0,84 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: mbocani ( 1,33 $ )
+Seat 7: shockwave13 ( 1,78 $ )
+Seat 10: B2B_Suckouts ( 1,73 $ )
+SinisterKid posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 10Pik ]
+whyluckys folds
+mbocani folds
+shockwave13 folds
+B2B_Suckouts folds
+overcranky raises [0,04 $]
+SinisterKid folds
+PQ7po folds
+** Summary **
+overcranky collected [ 0,05 $ ]
+
+
+
+#Game No : 527840459
+***** 888poker Hand History for Game 527840459 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:37:31
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2,03 $ )
+Seat 3: SinisterKid ( 2,17 $ )
+Seat 4: PQ7po ( 0,82 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: mbocani ( 1,33 $ )
+Seat 7: shockwave13 ( 1,78 $ )
+Seat 10: B2B_Suckouts ( 1,73 $ )
+PQ7po posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, AHerz ]
+mbocani raises [0,04 $]
+shockwave13 calls [0,04 $]
+B2B_Suckouts folds
+overcranky calls [0,04 $]
+SinisterKid folds
+PQ7po calls [0,03 $]
+whyluckys folds
+** Dealing flop ** [ 6Pik, 2Kreuz, 3Kreuz ]
+PQ7po checks
+mbocani bets [0,04 $]
+shockwave13 calls [0,04 $]
+overcranky raises [0,24 $]
+PQ7po folds
+mbocani folds
+shockwave13 folds
+** Summary **
+overcranky collected [ 0,29 $ ]
+
+
+
+#Game No : 527840491
+***** 888poker Hand History for Game 527840491 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:38:56
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2,24 $ )
+Seat 3: SinisterKid ( 2,17 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2,07 $ )
+Seat 6: mbocani ( 1,25 $ )
+Seat 7: shockwave13 ( 1,70 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+whyluckys posts small blind [0,01 $]
+mbocani posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 5Kreuz ]
+shockwave13 folds
+B2B_Suckouts folds
+overcranky raises [0,06 $]
+SinisterKid raises [0,18 $]
+PQ7po folds
+whyluckys folds
+mbocani folds
+overcranky folds
+** Summary **
+SinisterKid collected [ 0,15 $ ]
+
+
+
+#Game No : 527840505
+***** 888poker Hand History for Game 527840505 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:39:33
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2,18 $ )
+Seat 3: SinisterKid ( 2,26 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 6: mbocani ( 1,23 $ )
+Seat 7: shockwave13 ( 1,70 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+mbocani posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 5Kreuz ]
+B2B_Suckouts folds
+overcranky folds
+SinisterKid folds
+PQ7po raises [0,06 $]
+whyluckys folds
+mbocani folds
+shockwave13 folds
+** Summary **
+PQ7po collected [ 0,05 $ ]
+
+
+
+#Game No : 527840519
+***** 888poker Hand History for Game 527840519 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:40:09
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2,18 $ )
+Seat 3: SinisterKid ( 2,26 $ )
+Seat 4: PQ7po ( 0,83 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 6: mbocani ( 1,22 $ )
+Seat 7: shockwave13 ( 1,68 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+shockwave13 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, AKaro ]
+overcranky folds
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani folds
+shockwave13 folds
+** Summary **
+B2B_Suckouts collected [ 0,03 $ ]
+
+
+
+#Game No : 527840523
+***** 888poker Hand History for Game 527840523 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:40:30
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 7
+Seat 1: overcranky ( 2,18 $ )
+Seat 3: SinisterKid ( 2,26 $ )
+Seat 4: PQ7po ( 0,83 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 6: mbocani ( 1,22 $ )
+Seat 7: shockwave13 ( 1,67 $ )
+Seat 10: B2B_Suckouts ( 2,01 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 2Kreuz ]
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani raises [0,04 $]
+shockwave13 calls [0,04 $]
+B2B_Suckouts folds
+overcranky folds
+** Dealing flop ** [ 3Karo, 3Herz, 4Karo ]
+mbocani bets [0,04 $]
+shockwave13 raises [0,12 $]
+mbocani folds
+** Summary **
+shockwave13 collected [ 0,18 $ ]
+
+
+
+#Game No : 527840534
+***** 888poker Hand History for Game 527840534 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:41:08
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2,16 $ )
+Seat 2: RBraia ( 2 $ )
+Seat 3: SinisterKid ( 2,26 $ )
+Seat 4: PQ7po ( 0,83 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 6: mbocani ( 1,14 $ )
+Seat 7: shockwave13 ( 1,77 $ )
+Seat 10: B2B_Suckouts ( 2 $ )
+overcranky posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, 6Kreuz ]
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani calls [0,02 $]
+shockwave13 folds
+B2B_Suckouts raises [0,06 $]
+overcranky folds
+RBraia folds
+mbocani calls [0,04 $]
+** Dealing flop ** [ JKaro, 4Herz, AKaro ]
+mbocani bets [0,06 $]
+B2B_Suckouts calls [0,06 $]
+** Dealing turn ** [ 3Herz ]
+mbocani bets [0,06 $]
+B2B_Suckouts raises [0,15 $]
+mbocani folds
+** Summary **
+B2B_Suckouts collected [ 0,37 $ ]
+
+
+
+#Game No : 527840557
+***** 888poker Hand History for Game 527840557 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:42:13
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2,15 $ )
+Seat 2: RBraia ( 1,98 $ )
+Seat 3: SinisterKid ( 2,26 $ )
+Seat 4: PQ7po ( 0,83 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 6: mbocani ( 0,96 $ )
+Seat 7: shockwave13 ( 1,77 $ )
+Seat 10: B2B_Suckouts ( 2,19 $ )
+RBraia posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, AHerz ]
+PQ7po folds
+whyluckys folds
+mbocani raises [0,04 $]
+shockwave13 folds
+B2B_Suckouts calls [0,04 $]
+overcranky calls [0,04 $]
+RBraia folds
+SinisterKid calls [0,02 $]
+** Dealing flop ** [ 4Karo, 9Herz, 3Herz ]
+SinisterKid checks
+mbocani checks
+B2B_Suckouts bets [0,02 $]
+overcranky calls [0,02 $]
+SinisterKid calls [0,02 $]
+mbocani folds
+** Dealing turn ** [ 9Kreuz ]
+SinisterKid checks
+B2B_Suckouts checks
+overcranky checks
+** Dealing river ** [ 6Pik ]
+SinisterKid checks
+B2B_Suckouts checks
+overcranky checks
+** Summary **
+SinisterKid shows [ 4Herz, QKaro ]
+B2B_Suckouts mucks [ 5Pik, AHerz ]
+overcranky mucks [ QPik, JPik ]
+SinisterKid collected [ 0,22 $ ]
+
+
+
+#Game No : 527840588
+***** 888poker Hand History for Game 527840588 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:43:32
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2,09 $ )
+Seat 2: RBraia ( 1,97 $ )
+Seat 3: SinisterKid ( 2,42 $ )
+Seat 4: PQ7po ( 0,83 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 6: mbocani ( 0,92 $ )
+Seat 7: shockwave13 ( 1,77 $ )
+Seat 10: B2B_Suckouts ( 2,13 $ )
+SinisterKid posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, AKreuz ]
+whyluckys folds
+mbocani raises [0,04 $]
+shockwave13 folds
+B2B_Suckouts folds
+overcranky folds
+RBraia folds
+SinisterKid folds
+PQ7po folds
+** Summary **
+mbocani collected [ 0,05 $ ]
+
+
+
+#Game No : 527840601
+***** 888poker Hand History for Game 527840601 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:44:05
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2,09 $ )
+Seat 2: RBraia ( 1,97 $ )
+Seat 3: SinisterKid ( 2,41 $ )
+Seat 4: PQ7po ( 0,81 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 6: mbocani ( 0,95 $ )
+Seat 7: shockwave13 ( 1,77 $ )
+Seat 10: B2B_Suckouts ( 2,13 $ )
+PQ7po posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Kreuz, AHerz ]
+mbocani raises [0,06 $]
+shockwave13 folds
+B2B_Suckouts folds
+overcranky folds
+RBraia folds
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+** Summary **
+mbocani collected [ 0,05 $ ]
+
+
+
+#Game No : 527840610
+***** 888poker Hand History for Game 527840610 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:44:28
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2,09 $ )
+Seat 2: RBraia ( 1,97 $ )
+Seat 3: SinisterKid ( 2,41 $ )
+Seat 4: PQ7po ( 0,80 $ )
+Seat 5: whyluckys ( 2,04 $ )
+Seat 6: mbocani ( 0,98 $ )
+Seat 7: shockwave13 ( 1,77 $ )
+Seat 10: B2B_Suckouts ( 2,13 $ )
+whyluckys posts small blind [0,01 $]
+mbocani posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 7Karo ]
+shockwave13 raises [0,06 $]
+B2B_Suckouts folds
+overcranky folds
+RBraia calls [0,06 $]
+SinisterKid calls [0,06 $]
+PQ7po calls [0,06 $]
+whyluckys folds
+mbocani folds
+** Dealing flop ** [ 6Karo, 10Herz, 9Kreuz ]
+shockwave13 checks
+RBraia checks
+SinisterKid checks
+PQ7po checks
+** Dealing turn ** [ 2Herz ]
+shockwave13 checks
+RBraia checks
+SinisterKid checks
+PQ7po bets [0,17 $]
+shockwave13 calls [0,17 $]
+RBraia calls [0,17 $]
+SinisterKid folds
+** Dealing river ** [ 8Kreuz ]
+shockwave13 checks
+RBraia checks
+PQ7po checks
+** Summary **
+shockwave13 shows [ AKaro, JPik ]
+RBraia mucks [ KPik, QPik ]
+PQ7po shows [ 10Pik, APik ]
+PQ7po collected [ 0,74 $ ]
+
+
+
+#Game No : 527840648
+***** 888poker Hand History for Game 527840648 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:45:59
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2,09 $ )
+Seat 2: RBraia ( 1,74 $ )
+Seat 3: SinisterKid ( 2,35 $ )
+Seat 4: PQ7po ( 1,31 $ )
+Seat 5: whyluckys ( 2,03 $ )
+Seat 6: mbocani ( 0,96 $ )
+Seat 7: shockwave13 ( 1,54 $ )
+Seat 10: B2B_Suckouts ( 2,13 $ )
+mbocani posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Pik, 7Karo ]
+B2B_Suckouts folds
+overcranky folds
+RBraia raises [0,06 $]
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani folds
+shockwave13 folds
+** Summary **
+RBraia collected [ 0,05 $ ]
+
+
+
+#Game No : 527840666
+***** 888poker Hand History for Game 527840666 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:46:28
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2,09 $ )
+Seat 2: RBraia ( 1,77 $ )
+Seat 3: SinisterKid ( 2,35 $ )
+Seat 4: PQ7po ( 1,31 $ )
+Seat 5: whyluckys ( 2,03 $ )
+Seat 6: mbocani ( 0,95 $ )
+Seat 7: shockwave13 ( 1,52 $ )
+Seat 9: risha988 ( 2 $ )
+Seat 10: B2B_Suckouts ( 2,13 $ )
+shockwave13 posts small blind [0,01 $]
+risha988 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 9Herz ]
+B2B_Suckouts folds
+overcranky folds
+RBraia folds
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani folds
+shockwave13 calls [0,01 $]
+risha988 checks
+** Dealing flop ** [ 8Herz, 10Kreuz, KKaro ]
+shockwave13 checks
+risha988 checks
+** Dealing turn ** [ AHerz ]
+shockwave13 checks
+risha988 bets [0,02 $]
+shockwave13 calls [0,02 $]
+** Dealing river ** [ 3Herz ]
+shockwave13 checks
+risha988 checks
+** Summary **
+shockwave13 shows [ 7Pik, KPik ]
+risha988 mucks [ 10Pik, 5Pik ]
+shockwave13 collected [ 0,08 $ ]
+
+
+
+#Game No : 527840687
+***** 888poker Hand History for Game 527840687 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:47:15
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2,09 $ )
+Seat 2: RBraia ( 1,77 $ )
+Seat 3: SinisterKid ( 2,35 $ )
+Seat 4: PQ7po ( 1,31 $ )
+Seat 5: whyluckys ( 2,03 $ )
+Seat 6: mbocani ( 0,95 $ )
+Seat 7: shockwave13 ( 1,56 $ )
+Seat 9: risha988 ( 1,96 $ )
+Seat 10: B2B_Suckouts ( 2,13 $ )
+risha988 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Karo, 2Pik ]
+overcranky folds
+RBraia folds
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani raises [0,04 $]
+shockwave13 folds
+risha988 folds
+B2B_Suckouts folds
+** Summary **
+mbocani did not show his hand
+mbocani collected [ 0,05 $ ]
+
+
+
+#Game No : 527840700
+***** 888poker Hand History for Game 527840700 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:47:42
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2,09 $ )
+Seat 2: RBraia ( 1,77 $ )
+Seat 3: SinisterKid ( 2,35 $ )
+Seat 4: PQ7po ( 1,31 $ )
+Seat 5: whyluckys ( 2,03 $ )
+Seat 6: mbocani ( 0,98 $ )
+Seat 7: shockwave13 ( 1,56 $ )
+Seat 9: risha988 ( 1,95 $ )
+Seat 10: B2B_Suckouts ( 2,11 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Pik, QKaro ]
+RBraia folds
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani folds
+shockwave13 raises [0,06 $]
+risha988 calls [0,06 $]
+B2B_Suckouts folds
+overcranky folds
+** Dealing flop ** [ JKreuz, 5Kreuz, 5Herz ]
+shockwave13 bets [0,07 $]
+risha988 calls [0,07 $]
+** Dealing turn ** [ 3Karo ]
+shockwave13 bets [0,14 $]
+risha988 folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,28 $ ]
+
+
+
+#Game No : 527840723
+***** 888poker Hand History for Game 527840723 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:48:34
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2,07 $ )
+Seat 2: RBraia ( 1,77 $ )
+Seat 3: SinisterKid ( 2,35 $ )
+Seat 4: PQ7po ( 1,31 $ )
+Seat 5: whyluckys ( 2,03 $ )
+Seat 6: mbocani ( 0,98 $ )
+Seat 7: shockwave13 ( 1,71 $ )
+Seat 9: risha988 ( 1,82 $ )
+Seat 10: B2B_Suckouts ( 2,10 $ )
+overcranky posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, KHerz ]
+SinisterKid folds
+PQ7po folds
+whyluckys folds
+mbocani raises [0,04 $]
+shockwave13 calls [0,04 $]
+risha988 folds
+B2B_Suckouts folds
+overcranky folds
+RBraia folds
+** Dealing flop ** [ 7Karo, 7Pik, 5Herz ]
+mbocani bets [0,04 $]
+shockwave13 folds
+** Summary **
+mbocani did not show his hand
+mbocani collected [ 0,11 $ ]
+
+
+
+#Game No : 527840744
+***** 888poker Hand History for Game 527840744 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:49:11
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2,06 $ )
+Seat 2: RBraia ( 1,75 $ )
+Seat 3: SinisterKid ( 2,35 $ )
+Seat 4: PQ7po ( 1,31 $ )
+Seat 5: whyluckys ( 2,03 $ )
+Seat 6: mbocani ( 1,05 $ )
+Seat 7: shockwave13 ( 1,67 $ )
+Seat 9: risha988 ( 1,82 $ )
+Seat 10: B2B_Suckouts ( 2,10 $ )
+RBraia posts small blind [0,01 $]
+SinisterKid posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 9Kreuz ]
+PQ7po folds
+whyluckys folds
+mbocani folds
+shockwave13 raises [0,06 $]
+risha988 folds
+B2B_Suckouts calls [0,06 $]
+overcranky folds
+RBraia folds
+SinisterKid folds
+** Dealing flop ** [ 3Herz, QPik, QKaro ]
+shockwave13 bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,15 $ ]
+
+
+
+#Game No : 527840770
+***** 888poker Hand History for Game 527840770 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:50:00
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2,06 $ )
+Seat 2: RBraia ( 1,74 $ )
+Seat 3: SinisterKid ( 2,33 $ )
+Seat 4: PQ7po ( 1,31 $ )
+Seat 5: whyluckys ( 2,03 $ )
+Seat 6: mbocani ( 1,05 $ )
+Seat 7: shockwave13 ( 1,76 $ )
+Seat 9: risha988 ( 1,82 $ )
+Seat 10: B2B_Suckouts ( 2,04 $ )
+SinisterKid posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Karo, 7Karo ]
+whyluckys raises [0,06 $]
+mbocani calls [0,06 $]
+shockwave13 folds
+risha988 folds
+B2B_Suckouts calls [0,06 $]
+overcranky folds
+RBraia folds
+SinisterKid folds
+PQ7po folds
+** Dealing flop ** [ 10Pik, 10Kreuz, 8Herz ]
+whyluckys bets [0,15 $]
+mbocani raises [0,30 $]
+B2B_Suckouts folds
+whyluckys raises [0,75 $]
+mbocani raises [0,69 $]
+whyluckys calls [0,09 $]
+** Dealing turn ** [ 4Kreuz ]
+** Dealing river ** [ AKreuz ]
+** Summary **
+whyluckys shows [ KKaro, KPik ]
+mbocani shows [ 10Herz, JPik ]
+mbocani collected [ 2,06 $ ]
+
+
+
+#Game No : 527840803
+***** 888poker Hand History for Game 527840803 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:51:05
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: overcranky ( 2,06 $ )
+Seat 2: RBraia ( 1,74 $ )
+Seat 3: SinisterKid ( 2,32 $ )
+Seat 4: PQ7po ( 1,29 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 6: mbocani ( 2,06 $ )
+Seat 7: shockwave13 ( 1,76 $ )
+Seat 9: risha988 ( 1,82 $ )
+Seat 10: B2B_Suckouts ( 1,98 $ )
+PQ7po posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, APik ]
+mbocani folds
+shockwave13 folds
+risha988 folds
+B2B_Suckouts raises [0,06 $]
+overcranky folds
+RBraia folds
+SinisterKid calls [0,06 $]
+PQ7po folds
+whyluckys folds
+** Dealing flop ** [ 9Pik, 5Herz, 8Herz ]
+B2B_Suckouts bets [0,04 $]
+SinisterKid raises [0,16 $]
+B2B_Suckouts calls [0,12 $]
+** Dealing turn ** [ 3Herz ]
+B2B_Suckouts checks
+SinisterKid bets [0,28 $]
+B2B_Suckouts calls [0,28 $]
+** Dealing river ** [ QKaro ]
+B2B_Suckouts checks
+SinisterKid checks
+** Summary **
+B2B_Suckouts shows [ AKaro, APik ]
+SinisterKid mucks [ 10Kreuz, 10Herz ]
+B2B_Suckouts collected [ 0,97 $ ]
+
+
+
+#Game No : 527840876
+***** 888poker Hand History for Game 527840876 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:53:21
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: RBraia ( 1,74 $ )
+Seat 3: SinisterKid ( 2 $ )
+Seat 4: PQ7po ( 1,28 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 7: shockwave13 ( 1,76 $ )
+Seat 9: risha988 ( 1,82 $ )
+Seat 10: B2B_Suckouts ( 2,45 $ )
+whyluckys posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Herz, 5Kreuz ]
+risha988 folds
+B2B_Suckouts folds
+RBraia folds
+SinisterKid raises [0,06 $]
+PQ7po folds
+whyluckys folds
+shockwave13 calls [0,04 $]
+** Dealing flop ** [ KKaro, 9Kreuz, 7Herz ]
+shockwave13 checks
+SinisterKid bets [0,10 $]
+shockwave13 raises [0,20 $]
+SinisterKid calls [0,10 $]
+** Dealing turn ** [ 8Kreuz ]
+shockwave13 bets [0,26 $]
+SinisterKid calls [0,26 $]
+** Dealing river ** [ 5Karo ]
+shockwave13 bets [0,52 $]
+SinisterKid calls [0,52 $]
+** Summary **
+shockwave13 shows [ 5Pik, KPik ]
+SinisterKid mucks [ KHerz, AKreuz ]
+shockwave13 collected [ 1,96 $ ]
+
+
+
+#Game No : 527840919
+***** 888poker Hand History for Game 527840919 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:54:41
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 6
+Seat 2: RBraia ( 1,74 $ )
+Seat 4: PQ7po ( 1,28 $ )
+Seat 5: whyluckys ( 2 $ )
+Seat 7: shockwave13 ( 2,68 $ )
+Seat 9: risha988 ( 1,82 $ )
+Seat 10: B2B_Suckouts ( 2,45 $ )
+shockwave13 posts small blind [0,01 $]
+risha988 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 5Kreuz ]
+B2B_Suckouts folds
+RBraia folds
+PQ7po folds
+whyluckys raises [0,05 $]
+shockwave13 folds
+risha988 calls [0,03 $]
+** Dealing flop ** [ 10Karo, JKaro, 9Pik ]
+risha988 checks
+whyluckys checks
+** Dealing turn ** [ 7Pik ]
+risha988 checks
+whyluckys bets [0,09 $]
+risha988 folds
+** Summary **
+whyluckys collected [ 0,11 $ ]
+
+
+
+#Game No : 527840948
+***** 888poker Hand History for Game 527840948 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:55:35
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 6
+Seat 2: RBraia ( 1,74 $ )
+Seat 4: PQ7po ( 1,28 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 7: shockwave13 ( 2,67 $ )
+Seat 9: risha988 ( 1,77 $ )
+Seat 10: B2B_Suckouts ( 2,45 $ )
+risha988 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 9Pik ]
+RBraia calls [0,02 $]
+PQ7po folds
+whyluckys folds
+shockwave13 calls [0,02 $]
+risha988 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 2Kreuz, JKreuz, 6Karo ]
+B2B_Suckouts bets [0,02 $]
+RBraia raises [0,05 $]
+shockwave13 folds
+B2B_Suckouts folds
+** Summary **
+RBraia collected [ 0,11 $ ]
+
+
+
+#Game No : 527840963
+***** 888poker Hand History for Game 527840963 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:56:06
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 6
+Seat 2: RBraia ( 1,81 $ )
+Seat 4: PQ7po ( 1,28 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 7: shockwave13 ( 2,65 $ )
+Seat 9: risha988 ( 1,76 $ )
+Seat 10: B2B_Suckouts ( 2,41 $ )
+B2B_Suckouts posts small blind [0,01 $]
+RBraia posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 8Herz ]
+PQ7po folds
+whyluckys folds
+shockwave13 raises [0,06 $]
+risha988 folds
+B2B_Suckouts folds
+RBraia calls [0,04 $]
+** Dealing flop ** [ 9Kreuz, 9Pik, 3Karo ]
+RBraia bets [0,06 $]
+shockwave13 calls [0,06 $]
+** Dealing turn ** [ 10Pik ]
+RBraia bets [0,12 $]
+shockwave13 calls [0,12 $]
+** Dealing river ** [ 8Pik ]
+RBraia bets [0,16 $]
+shockwave13 folds
+** Summary **
+RBraia collected [ 0,46 $ ]
+
+
+
+#Game No : 527841002
+***** 888poker Hand History for Game 527841002 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:57:20
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: RBraia ( 2,03 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,28 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 7: shockwave13 ( 2,41 $ )
+Seat 9: risha988 ( 1,76 $ )
+Seat 10: B2B_Suckouts ( 2,40 $ )
+RBraia posts small blind [0,01 $]
+DominicWolf posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, JPik ]
+PQ7po folds
+whyluckys folds
+shockwave13 raises [0,06 $]
+risha988 folds
+B2B_Suckouts calls [0,06 $]
+RBraia folds
+DominicWolf folds
+** Dealing flop ** [ 5Kreuz, 3Pik, AHerz ]
+shockwave13 bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+shockwave13 collected [ 0,15 $ ]
+
+
+
+#Game No : 527841019
+***** 888poker Hand History for Game 527841019 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:57:57
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: RBraia ( 2,02 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,28 $ )
+Seat 5: whyluckys ( 2,06 $ )
+Seat 7: shockwave13 ( 2,50 $ )
+Seat 9: risha988 ( 1,76 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+DominicWolf posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 2Kreuz ]
+whyluckys raises [0,06 $]
+shockwave13 folds
+risha988 folds
+B2B_Suckouts folds
+RBraia folds
+DominicWolf folds
+PQ7po folds
+** Summary **
+whyluckys collected [ 0,05 $ ]
+
+
+
+#Game No : 527841026
+***** 888poker Hand History for Game 527841026 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:58:12
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 2: RBraia ( 2,02 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,26 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 9: risha988 ( 1,76 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+PQ7po posts small blind [0,01 $]
+whyluckys posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 4Kreuz ]
+risha988 folds
+B2B_Suckouts folds
+RBraia raises [0,08 $]
+DominicWolf folds
+PQ7po folds
+whyluckys calls [0,06 $]
+** Dealing flop ** [ AKaro, AKreuz, 7Karo ]
+whyluckys checks
+RBraia bets [0,05 $]
+whyluckys folds
+** Summary **
+RBraia collected [ 0,16 $ ]
+
+
+
+#Game No : 527841038
+***** 888poker Hand History for Game 527841038 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:59:00
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 2: RBraia ( 2,10 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,25 $ )
+Seat 5: whyluckys ( 2,01 $ )
+Seat 6: Oldkoot14 ( 1,40 $ )
+Seat 9: risha988 ( 1,76 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+whyluckys posts small blind [0,01 $]
+Oldkoot14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, 10Kreuz ]
+risha988 folds
+B2B_Suckouts folds
+RBraia raises [0,06 $]
+DominicWolf folds
+PQ7po folds
+whyluckys calls [0,05 $]
+Oldkoot14 folds
+** Dealing flop ** [ AKaro, 9Herz, 5Karo ]
+whyluckys bets [0,09 $]
+RBraia folds
+** Summary **
+whyluckys collected [ 0,14 $ ]
+
+
+
+#Game No : 527841058
+***** 888poker Hand History for Game 527841058 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 12:59:43
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 7
+Seat 2: RBraia ( 2,04 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,25 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: Oldkoot14 ( 1,38 $ )
+Seat 9: risha988 ( 1,76 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+Oldkoot14 posts small blind [0,01 $]
+risha988 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, KPik ]
+B2B_Suckouts folds
+RBraia folds
+DominicWolf folds
+PQ7po raises [0,06 $]
+whyluckys folds
+Oldkoot14 folds
+risha988 folds
+** Summary **
+PQ7po collected [ 0,05 $ ]
+
+
+
+#Game No : 527841066
+***** 888poker Hand History for Game 527841066 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:00:14
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 2: RBraia ( 2,04 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,28 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: Oldkoot14 ( 1,37 $ )
+Seat 9: risha988 ( 1,74 $ )
+Seat 10: B2B_Suckouts ( 2,34 $ )
+risha988 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Herz, 3Pik ]
+RBraia folds
+DominicWolf folds
+PQ7po folds
+whyluckys folds
+Oldkoot14 calls [0,02 $]
+risha988 folds
+B2B_Suckouts checks
+** Dealing flop ** [ 2Herz, 4Karo, 2Pik ]
+B2B_Suckouts bets [0,02 $]
+Oldkoot14 calls [0,02 $]
+** Dealing turn ** [ AKaro ]
+B2B_Suckouts checks
+Oldkoot14 checks
+** Dealing river ** [ 10Pik ]
+B2B_Suckouts checks
+Oldkoot14 bets [0,02 $]
+B2B_Suckouts calls [0,02 $]
+** Summary **
+Oldkoot14 shows [ JKreuz, JHerz ]
+B2B_Suckouts mucks [ 3Herz, 3Pik ]
+Oldkoot14 collected [ 0,13 $ ]
+
+
+
+#Game No : 527841092
+***** 888poker Hand History for Game 527841092 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:01:32
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: overcranky ( 2,06 $ )
+Seat 2: RBraia ( 2,04 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,28 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: Oldkoot14 ( 1,44 $ )
+Seat 9: risha988 ( 1,73 $ )
+Seat 10: B2B_Suckouts ( 2,28 $ )
+B2B_Suckouts posts small blind [0,01 $]
+overcranky posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, KKreuz ]
+RBraia folds
+DominicWolf folds
+PQ7po folds
+whyluckys folds
+Oldkoot14 folds
+risha988 calls [0,02 $]
+B2B_Suckouts raises [0,05 $]
+overcranky folds
+risha988 calls [0,04 $]
+** Dealing flop ** [ 5Herz, AKaro, 7Kreuz ]
+B2B_Suckouts checks
+risha988 checks
+** Dealing turn ** [ AKreuz ]
+B2B_Suckouts bets [0,04 $]
+risha988 calls [0,04 $]
+** Dealing river ** [ 4Karo ]
+B2B_Suckouts bets [0,20 $]
+risha988 folds
+** Summary **
+B2B_Suckouts collected [ 0,21 $ ]
+
+
+
+#Game No : 527841116
+***** 888poker Hand History for Game 527841116 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:02:36
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 7
+Seat 2: RBraia ( 2,04 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,28 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: Oldkoot14 ( 1,44 $ )
+Seat 9: risha988 ( 1,63 $ )
+Seat 10: B2B_Suckouts ( 2,39 $ )
+RBraia posts small blind [0,01 $]
+DominicWolf posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Kreuz, 2Kreuz ]
+PQ7po folds
+whyluckys folds
+Oldkoot14 calls [0,02 $]
+risha988 raises [0,06 $]
+B2B_Suckouts folds
+RBraia folds
+DominicWolf folds
+Oldkoot14 calls [0,04 $]
+** Dealing flop ** [ 2Herz, 10Pik, 9Kreuz ]
+Oldkoot14 bets [0,07 $]
+risha988 raises [0,14 $]
+Oldkoot14 calls [0,07 $]
+** Dealing turn ** [ 6Karo ]
+Oldkoot14 checks
+risha988 bets [0,21 $]
+Oldkoot14 calls [0,21 $]
+** Dealing river ** [ 3Herz ]
+Oldkoot14 checks
+risha988 bets [0,42 $]
+Oldkoot14 calls [0,42 $]
+** Summary **
+risha988 shows [ 9Karo, 9Pik ]
+Oldkoot14 mucks [ 10Kreuz, JKreuz ]
+risha988 collected [ 1,59 $ ]
+
+
+
+#Game No : 527841173
+***** 888poker Hand History for Game 527841173 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:04:48
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 7
+Seat 2: RBraia ( 2,03 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,28 $ )
+Seat 5: whyluckys ( 2,09 $ )
+Seat 6: Oldkoot14 ( 0,61 $ )
+Seat 9: risha988 ( 2,39 $ )
+Seat 10: B2B_Suckouts ( 2,39 $ )
+DominicWolf posts small blind [0,01 $]
+PQ7po posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, 4Pik ]
+whyluckys folds
+Oldkoot14 calls [0,02 $]
+risha988 folds
+B2B_Suckouts folds
+RBraia folds
+DominicWolf folds
+PQ7po checks
+** Dealing flop ** [ 7Karo, 9Pik, 3Karo ]
+PQ7po checks
+Oldkoot14 checks
+** Dealing turn ** [ QKaro ]
+PQ7po checks
+Oldkoot14 checks
+** Dealing river ** [ 10Pik ]
+PQ7po bets [0,03 $]
+Oldkoot14 folds
+** Summary **
+PQ7po collected [ 0,05 $ ]
+
+
+
+#Game No : 527841199
+***** 888poker Hand History for Game 527841199 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:05:56
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 6
+Seat 2: RBraia ( 2,03 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,31 $ )
+Seat 6: Oldkoot14 ( 0,59 $ )
+Seat 9: risha988 ( 2,39 $ )
+Seat 10: B2B_Suckouts ( 2,39 $ )
+PQ7po posts small blind [0,01 $]
+Oldkoot14 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 10Kreuz ]
+risha988 raises [0,06 $]
+B2B_Suckouts folds
+RBraia folds
+DominicWolf folds
+PQ7po folds
+Oldkoot14 calls [0,04 $]
+** Dealing flop ** [ KKaro, 5Karo, KPik ]
+Oldkoot14 checks
+risha988 checks
+** Dealing turn ** [ 9Kreuz ]
+Oldkoot14 checks
+risha988 bets [0,06 $]
+Oldkoot14 calls [0,06 $]
+** Dealing river ** [ 9Herz ]
+Oldkoot14 checks
+risha988 bets [0,12 $]
+Oldkoot14 folds
+** Summary **
+risha988 collected [ 0,24 $ ]
+
+
+
+#Game No : 527841240
+***** 888poker Hand History for Game 527841240 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 13:07:28
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: F1tommy8 ( 2 $ )
+Seat 2: RBraia ( 2,03 $ )
+Seat 3: DominicWolf ( 2 $ )
+Seat 4: PQ7po ( 1,30 $ )
+Seat 6: Oldkoot14 ( 0,47 $ )
+Seat 7: Adhwing ( 2 $ )
+Seat 9: risha988 ( 2,51 $ )
+Seat 10: B2B_Suckouts ( 2,39 $ )
+Oldkoot14 posts small blind [0,01 $]
+Adhwing posts big blind [0,02 $]
+F1tommy8 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, KHerz ]
+risha988 calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+F1tommy8 folds
+RBraia folds
+DominicWolf folds
+PQ7po folds
+Oldkoot14 folds
+Adhwing folds
+risha988 calls [0,04 $]
+** Dealing flop ** [ 2Kreuz, 10Karo, 4Herz ]
+risha988 checks
+B2B_Suckouts bets [0,08 $]
+risha988 folds
+** Summary **
+B2B_Suckouts collected [ 0,16 $ ]
+
+
+
+#Game No : 527844454
+***** 888poker Hand History for Game 527844454 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:08:11
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: mikenfinley ( 1,85 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: DDragu ( 1,59 $ )
+Seat 5: YASAV ( 1,28 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: Adhwing ( 1,88 $ )
+Seat 9: lolarenntnie ( 0,70 $ )
+Seat 10: BSokolov ( 1,26 $ )
+BSokolov posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 2Pik ]
+mikenfinley calls [0,02 $]
+oldbashkir folds
+DDragu folds
+YASAV raises [0,08 $]
+ChipsACA folds
+Adhwing folds
+lolarenntnie raises [0,32 $]
+BSokolov folds
+B2B_Suckouts folds
+mikenfinley folds
+YASAV calls [0,24 $]
+** Dealing flop ** [ KKaro, 9Kreuz, 7Pik ]
+YASAV checks
+lolarenntnie bets [0,38 $]
+YASAV calls [0,38 $]
+** Dealing turn ** [ AHerz ]
+** Dealing river ** [ 8Karo ]
+** Summary **
+YASAV shows [ 9Pik, 9Herz ]
+lolarenntnie shows [ APik, KPik ]
+YASAV collected [ 1,36 $ ]
+
+
+
+#Game No : 527844484
+***** 888poker Hand History for Game 527844484 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:08:56
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: mikenfinley ( 1,83 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: DDragu ( 1,59 $ )
+Seat 5: YASAV ( 1,94 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: Adhwing ( 1,88 $ )
+Seat 10: BSokolov ( 1,25 $ )
+B2B_Suckouts posts small blind [0,01 $]
+mikenfinley posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 7Karo ]
+oldbashkir folds
+DDragu calls [0,02 $]
+YASAV folds
+ChipsACA folds
+Adhwing raises [0,04 $]
+BSokolov calls [0,04 $]
+B2B_Suckouts folds
+mikenfinley calls [0,02 $]
+DDragu calls [0,02 $]
+** Dealing flop ** [ 9Herz, 8Pik, 7Herz ]
+mikenfinley bets [0,17 $]
+DDragu folds
+Adhwing raises [0,34 $]
+BSokolov folds
+mikenfinley calls [0,17 $]
+** Dealing turn ** [ 4Kreuz ]
+mikenfinley bets [1,45 $]
+Adhwing calls [1,45 $]
+** Dealing river ** [ 2Kreuz ]
+** Summary **
+mikenfinley shows [ JKaro, KKaro ]
+Adhwing shows [ 10Kreuz, JKreuz ]
+Adhwing collected [ 3,52 $ ]
+
+
+
+#Game No : 527844533
+***** 888poker Hand History for Game 527844533 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:10:24
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2 $ )
+Seat 2: mikenfinley ( 1 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: DDragu ( 1,55 $ )
+Seat 5: YASAV ( 1,94 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: Adhwing ( 3,57 $ )
+Seat 10: BSokolov ( 1,21 $ )
+mikenfinley posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 5Karo ]
+DDragu calls [0,02 $]
+YASAV folds
+ChipsACA folds
+Adhwing calls [0,02 $]
+BSokolov folds
+B2B_Suckouts calls [0,02 $]
+mikenfinley folds
+oldbashkir checks
+** Dealing flop ** [ 4Herz, AKaro, 9Herz ]
+oldbashkir checks
+DDragu checks
+Adhwing checks
+B2B_Suckouts bets [0,02 $]
+oldbashkir folds
+DDragu calls [0,02 $]
+Adhwing calls [0,02 $]
+** Dealing turn ** [ KPik ]
+DDragu checks
+Adhwing checks
+B2B_Suckouts checks
+** Dealing river ** [ 3Kreuz ]
+DDragu checks
+Adhwing checks
+B2B_Suckouts bets [0,10 $]
+DDragu folds
+Adhwing folds
+** Summary **
+B2B_Suckouts collected [ 0,15 $ ]
+
+
+
+#Game No : 527844595
+***** 888poker Hand History for Game 527844595 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:12:40
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,11 $ )
+Seat 2: shockwave13 ( 0,80 $ )
+Seat 3: oldbashkir ( 2,01 $ )
+Seat 4: DDragu ( 1,51 $ )
+Seat 5: YASAV ( 1,94 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: Adhwing ( 3,53 $ )
+Seat 10: BSokolov ( 1,21 $ )
+DDragu posts small blind [0,01 $]
+YASAV posts big blind [0,02 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 6Kreuz ]
+ChipsACA folds
+Adhwing folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 checks
+oldbashkir folds
+DDragu folds
+YASAV checks
+** Dealing flop ** [ KPik, JPik, APik ]
+YASAV checks
+shockwave13 checks
+** Dealing turn ** [ KKaro ]
+YASAV checks
+shockwave13 bets [0,03 $]
+YASAV calls [0,03 $]
+** Dealing river ** [ 10Pik ]
+YASAV checks
+shockwave13 bets [0,09 $]
+YASAV folds
+** Summary **
+shockwave13 collected [ 0,11 $ ]
+
+
+
+#Game No : 527844615
+***** 888poker Hand History for Game 527844615 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:13:19
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,11 $ )
+Seat 2: shockwave13 ( 0,86 $ )
+Seat 3: oldbashkir ( 2,01 $ )
+Seat 4: DDragu ( 1,50 $ )
+Seat 5: YASAV ( 1,89 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: Adhwing ( 3,53 $ )
+Seat 10: BSokolov ( 1,21 $ )
+YASAV posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 3Kreuz ]
+Adhwing folds
+BSokolov calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir raises [0,08 $]
+DDragu folds
+YASAV folds
+ChipsACA calls [0,06 $]
+BSokolov folds
+** Dealing flop ** [ 7Kreuz, 8Kreuz, 5Pik ]
+ChipsACA checks
+oldbashkir checks
+** Dealing turn ** [ APik ]
+ChipsACA checks
+oldbashkir bets [0,09 $]
+ChipsACA raises [0,18 $]
+oldbashkir folds
+** Summary **
+ChipsACA collected [ 0,35 $ ]
+
+
+
+#Game No : 527844638
+***** 888poker Hand History for Game 527844638 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:14:02
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,11 $ )
+Seat 2: shockwave13 ( 0,86 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: DDragu ( 1,50 $ )
+Seat 5: YASAV ( 1,88 $ )
+Seat 6: ChipsACA ( 0,69 $ )
+Seat 7: zenit3535 ( 2 $ )
+Seat 10: BSokolov ( 1,19 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKreuz, 3Herz ]
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir raises [0,06 $]
+DDragu folds
+YASAV folds
+ChipsACA folds
+zenit3535 raises [0,16 $]
+oldbashkir raises [0,30 $]
+zenit3535 calls [0,18 $]
+** Dealing flop ** [ 6Karo, 8Karo, 5Karo ]
+zenit3535 checks
+oldbashkir checks
+** Dealing turn ** [ 2Kreuz ]
+zenit3535 checks
+oldbashkir checks
+** Dealing river ** [ 7Pik ]
+zenit3535 checks
+oldbashkir checks
+** Summary **
+zenit3535 shows [ KPik, AHerz ]
+oldbashkir mucks [ AKaro, QPik ]
+zenit3535 collected [ 0,69 $ ]
+
+
+
+#Game No : 527844658
+***** 888poker Hand History for Game 527844658 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:14:50
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,11 $ )
+Seat 2: shockwave13 ( 0,86 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: DDragu ( 1,50 $ )
+Seat 5: YASAV ( 1,88 $ )
+Seat 6: ChipsACA ( 0,68 $ )
+Seat 7: zenit3535 ( 2,33 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: BSokolov ( 1,19 $ )
+zenit3535 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 7Herz ]
+BSokolov calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+DDragu folds
+YASAV folds
+ChipsACA folds
+zenit3535 raises [0,05 $]
+Lin24 raises [0,22 $]
+BSokolov folds
+zenit3535 calls [0,18 $]
+** Dealing flop ** [ AHerz, 3Pik, 2Pik ]
+zenit3535 checks
+Lin24 bets [0,25 $]
+zenit3535 folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,47 $ ]
+
+
+
+#Game No : 527844675
+***** 888poker Hand History for Game 527844675 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:15:25
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,11 $ )
+Seat 2: shockwave13 ( 0,86 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: DDragu ( 1,50 $ )
+Seat 5: YASAV ( 1,88 $ )
+Seat 6: ChipsACA ( 0,68 $ )
+Seat 7: zenit3535 ( 2,09 $ )
+Seat 9: Lin24 ( 2,23 $ )
+Seat 10: BSokolov ( 1,17 $ )
+Lin24 posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, AKaro ]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir raises [0,06 $]
+DDragu calls [0,06 $]
+YASAV folds
+ChipsACA folds
+zenit3535 raises [0,24 $]
+Lin24 folds
+BSokolov folds
+oldbashkir raises [1,94 $]
+DDragu folds
+zenit3535 calls [1,76 $]
+** Dealing flop ** [ 3Kreuz, AHerz, 9Herz ]
+** Dealing turn ** [ 6Karo ]
+** Dealing river ** [ 6Pik ]
+** Summary **
+oldbashkir shows [ QPik, QKaro ]
+zenit3535 shows [ KPik, KKreuz ]
+zenit3535 collected [ 3,84 $ ]
+
+
+
+#Game No : 527844699
+***** 888poker Hand History for Game 527844699 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:16:10
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,11 $ )
+Seat 2: shockwave13 ( 0,86 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: DDragu ( 1,44 $ )
+Seat 5: YASAV ( 1,88 $ )
+Seat 6: ChipsACA ( 0,68 $ )
+Seat 7: zenit3535 ( 3,93 $ )
+Seat 9: Lin24 ( 2,22 $ )
+Seat 10: BSokolov ( 1,15 $ )
+BSokolov posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, QHerz ]
+shockwave13 calls [0,02 $]
+oldbashkir folds
+DDragu folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+shockwave13 calls [0,04 $]
+BSokolov calls [0,04 $]
+** Dealing flop ** [ AKreuz, 10Pik, 5Herz ]
+BSokolov checks
+B2B_Suckouts checks
+shockwave13 bets [0,09 $]
+BSokolov calls [0,09 $]
+B2B_Suckouts folds
+** Dealing turn ** [ JKreuz ]
+BSokolov checks
+shockwave13 bets [0,18 $]
+BSokolov calls [0,18 $]
+** Dealing river ** [ 5Kreuz ]
+BSokolov bets [0,82 $]
+shockwave13 folds
+** Summary **
+BSokolov did not show his hand
+BSokolov collected [ 0,68 $ ]
+
+
+
+#Game No : 527844727
+***** 888poker Hand History for Game 527844727 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:17:12
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,05 $ )
+Seat 2: shockwave13 ( 0,53 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: DDragu ( 1,44 $ )
+Seat 5: YASAV ( 1,88 $ )
+Seat 6: ChipsACA ( 0,68 $ )
+Seat 7: zenit3535 ( 3,93 $ )
+Seat 9: Lin24 ( 2,22 $ )
+Seat 10: BSokolov ( 1,50 $ )
+B2B_Suckouts posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, 3Herz ]
+oldbashkir folds
+DDragu calls [0,02 $]
+YASAV raises [0,08 $]
+ChipsACA folds
+zenit3535 folds
+Lin24 calls [0,08 $]
+BSokolov calls [0,08 $]
+B2B_Suckouts folds
+shockwave13 folds
+DDragu folds
+** Dealing flop ** [ 9Pik, AKaro, 3Pik ]
+YASAV checks
+Lin24 checks
+BSokolov bets [0,14 $]
+YASAV folds
+Lin24 calls [0,14 $]
+** Dealing turn ** [ 10Kreuz ]
+Lin24 checks
+BSokolov bets [0,28 $]
+Lin24 calls [0,28 $]
+** Dealing river ** [ QKreuz ]
+Lin24 checks
+BSokolov checks
+** Summary **
+Lin24 shows [ 2Pik, 4Pik ]
+BSokolov shows [ 10Karo, AHerz ]
+BSokolov collected [ 1,06 $ ]
+
+
+
+#Game No : 527844756
+***** 888poker Hand History for Game 527844756 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:18:13
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,04 $ )
+Seat 2: shockwave13 ( 0,51 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: DDragu ( 1,42 $ )
+Seat 5: YASAV ( 1,80 $ )
+Seat 6: ChipsACA ( 0,68 $ )
+Seat 7: zenit3535 ( 3,93 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: BSokolov ( 2,06 $ )
+shockwave13 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, KPik ]
+DDragu folds
+YASAV folds
+ChipsACA folds
+zenit3535 raises [0,06 $]
+Lin24 folds
+BSokolov folds
+B2B_Suckouts raises [0,18 $]
+shockwave13 folds
+oldbashkir folds
+zenit3535 calls [0,12 $]
+** Dealing flop ** [ QPik, 10Karo, JPik ]
+zenit3535 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 10Kreuz ]
+zenit3535 checks
+B2B_Suckouts bets [0,12 $]
+zenit3535 calls [0,12 $]
+** Dealing river ** [ 7Pik ]
+zenit3535 checks
+B2B_Suckouts bets [0,20 $]
+zenit3535 calls [0,20 $]
+** Summary **
+B2B_Suckouts shows [ AKreuz, KPik ]
+zenit3535 mucks [ QKreuz, APik ]
+B2B_Suckouts collected [ 0,97 $ ]
+
+
+
+#Game No : 527844780
+***** 888poker Hand History for Game 527844780 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:19:04
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,51 $ )
+Seat 2: shockwave13 ( 0,50 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: DDragu ( 1,42 $ )
+Seat 5: YASAV ( 1,80 $ )
+Seat 6: ChipsACA ( 0,68 $ )
+Seat 7: zenit3535 ( 3,43 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: BSokolov ( 2,06 $ )
+oldbashkir posts small blind [0,01 $]
+DDragu folds
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Karo, QKaro ]
+ChipsACA folds
+zenit3535 raises [0,06 $]
+Lin24 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 calls [0,06 $]
+oldbashkir calls [0,05 $]
+YASAV folds
+** Dealing flop ** [ 10Pik, 7Herz, 10Herz ]
+oldbashkir checks
+zenit3535 checks
+shockwave13 bets [0,10 $]
+oldbashkir folds
+zenit3535 folds
+** Summary **
+shockwave13 collected [ 0,19 $ ]
+
+
+
+#Game No : 527844795
+***** 888poker Hand History for Game 527844795 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:19:46
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,51 $ )
+Seat 2: shockwave13 ( 0,63 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,78 $ )
+Seat 6: ChipsACA ( 0,68 $ )
+Seat 7: zenit3535 ( 3,37 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: BSokolov ( 2,06 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKreuz, 3Pik ]
+Lin24 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 raises [0,09 $]
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+** Summary **
+shockwave13 collected [ 0,07 $ ]
+
+
+
+#Game No : 527844806
+***** 888poker Hand History for Game 527844806 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:20:04
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,51 $ )
+Seat 2: shockwave13 ( 0,68 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,78 $ )
+Seat 6: ChipsACA ( 0,67 $ )
+Seat 7: zenit3535 ( 3,35 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: BSokolov ( 2,06 $ )
+zenit3535 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 6Pik ]
+BSokolov calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 checks
+** Dealing flop ** [ 3Pik, 9Pik, AKaro ]
+Lin24 checks
+BSokolov bets [0,02 $]
+Lin24 folds
+** Summary **
+BSokolov did not show his hand
+BSokolov collected [ 0,05 $ ]
+
+
+
+#Game No : 527844828
+***** 888poker Hand History for Game 527844828 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:20:40
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,51 $ )
+Seat 2: shockwave13 ( 0,68 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,78 $ )
+Seat 6: ChipsACA ( 0,67 $ )
+Seat 7: zenit3535 ( 3,34 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: BSokolov ( 2,09 $ )
+Lin24 posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 7Karo ]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 raises [0,05 $]
+BSokolov folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,04 $ ]
+
+
+
+#Game No : 527844835
+***** 888poker Hand History for Game 527844835 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:21:00
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,51 $ )
+Seat 2: shockwave13 ( 0,68 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,78 $ )
+Seat 6: ChipsACA ( 0,67 $ )
+Seat 7: zenit3535 ( 3,34 $ )
+Seat 9: Lin24 ( 2,02 $ )
+Seat 10: BSokolov ( 2,07 $ )
+BSokolov posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 4Karo ]
+shockwave13 raises [0,05 $]
+oldbashkir calls [0,05 $]
+tekiller243 folds
+YASAV folds
+ChipsACA calls [0,05 $]
+zenit3535 calls [0,05 $]
+Lin24 folds
+BSokolov folds
+B2B_Suckouts folds
+** Dealing flop ** [ APik, QKaro, 9Karo ]
+shockwave13 checks
+oldbashkir checks
+ChipsACA bets [0,07 $]
+zenit3535 folds
+shockwave13 calls [0,07 $]
+oldbashkir folds
+** Dealing turn ** [ JKreuz ]
+shockwave13 bets [0,18 $]
+ChipsACA folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,35 $ ]
+
+
+
+#Game No : 527844869
+***** 888poker Hand History for Game 527844869 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:22:09
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,49 $ )
+Seat 2: shockwave13 ( 0,91 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,78 $ )
+Seat 6: ChipsACA ( 0,55 $ )
+Seat 7: zenit3535 ( 3,29 $ )
+Seat 9: Lin24 ( 2,02 $ )
+Seat 10: BSokolov ( 2,06 $ )
+B2B_Suckouts posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QPik, JHerz ]
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov folds
+B2B_Suckouts raises [0,03 $]
+shockwave13 calls [0,02 $]
+** Dealing flop ** [ AKreuz, QKaro, 5Pik ]
+B2B_Suckouts checks
+shockwave13 checks
+** Dealing turn ** [ 10Karo ]
+B2B_Suckouts checks
+shockwave13 bets [0,04 $]
+B2B_Suckouts calls [0,04 $]
+** Dealing river ** [ 3Pik ]
+B2B_Suckouts checks
+shockwave13 bets [0,10 $]
+B2B_Suckouts folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,15 $ ]
+
+
+
+#Game No : 527844907
+***** 888poker Hand History for Game 527844907 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:23:23
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,41 $ )
+Seat 2: shockwave13 ( 0,98 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,78 $ )
+Seat 6: ChipsACA ( 0,55 $ )
+Seat 7: zenit3535 ( 3,29 $ )
+Seat 9: Lin24 ( 2,02 $ )
+Seat 10: BSokolov ( 2,06 $ )
+shockwave13 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 10Kreuz ]
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov calls [0,02 $]
+B2B_Suckouts calls [0,02 $]
+shockwave13 calls [0,01 $]
+oldbashkir checks
+** Dealing flop ** [ QKreuz, 7Pik, 6Herz ]
+shockwave13 checks
+oldbashkir checks
+BSokolov checks
+B2B_Suckouts bets [0,02 $]
+shockwave13 calls [0,02 $]
+oldbashkir calls [0,02 $]
+BSokolov calls [0,02 $]
+** Dealing turn ** [ KHerz ]
+shockwave13 checks
+oldbashkir checks
+BSokolov bets [0,02 $]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+oldbashkir calls [0,02 $]
+** Dealing river ** [ 5Kreuz ]
+shockwave13 checks
+oldbashkir checks
+BSokolov bets [0,02 $]
+shockwave13 calls [0,02 $]
+oldbashkir folds
+** Summary **
+BSokolov shows [ KKreuz, 9Herz ]
+shockwave13 mucks [ 7Herz, 2Kreuz ]
+BSokolov collected [ 0,25 $ ]
+
+
+
+#Game No : 527844933
+***** 888poker Hand History for Game 527844933 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:24:22
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,37 $ )
+Seat 2: shockwave13 ( 0,90 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,78 $ )
+Seat 6: ChipsACA ( 0,55 $ )
+Seat 7: zenit3535 ( 3,29 $ )
+Seat 9: Lin24 ( 2,02 $ )
+Seat 10: BSokolov ( 2,23 $ )
+oldbashkir posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, KPik ]
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+oldbashkir folds
+tekiller243 checks
+** Dealing flop ** [ 8Kreuz, 7Karo, 5Herz ]
+tekiller243 checks
+BSokolov checks
+shockwave13 checks
+** Dealing turn ** [ JHerz ]
+tekiller243 checks
+BSokolov bets [0,02 $]
+shockwave13 raises [0,08 $]
+tekiller243 folds
+BSokolov calls [0,06 $]
+** Dealing river ** [ 3Karo ]
+BSokolov checks
+shockwave13 bets [0,11 $]
+BSokolov folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,22 $ ]
+
+
+
+#Game No : 527844955
+***** 888poker Hand History for Game 527844955 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:25:07
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,37 $ )
+Seat 2: shockwave13 ( 1,02 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,78 $ )
+Seat 6: ChipsACA ( 0,55 $ )
+Seat 7: zenit3535 ( 3,29 $ )
+Seat 9: Lin24 ( 2,02 $ )
+Seat 10: BSokolov ( 2,13 $ )
+tekiller243 posts small blind [0,01 $]
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKreuz, 6Herz ]
+ChipsACA folds
+zenit3535 folds
+Lin24 raises [0,06 $]
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,05 $ ]
+
+
+
+#Game No : 527844975
+***** 888poker Hand History for Game 527844975 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:25:43
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,37 $ )
+Seat 2: shockwave13 ( 1,02 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,76 $ )
+Seat 6: ChipsACA ( 0,55 $ )
+Seat 7: zenit3535 ( 3,29 $ )
+Seat 9: Lin24 ( 2,05 $ )
+Seat 10: BSokolov ( 2,13 $ )
+YASAV posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 5Kreuz ]
+zenit3535 raises [0,06 $]
+Lin24 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir calls [0,06 $]
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+** Dealing flop ** [ 10Kreuz, 6Pik, 7Pik ]
+zenit3535 bets [0,09 $]
+oldbashkir folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ 0,15 $ ]
+
+
+
+#Game No : 527844986
+***** 888poker Hand History for Game 527844986 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:26:09
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,37 $ )
+Seat 2: shockwave13 ( 1,02 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,53 $ )
+Seat 7: zenit3535 ( 3,38 $ )
+Seat 9: Lin24 ( 2,05 $ )
+Seat 10: BSokolov ( 2,13 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Kreuz, 10Kreuz ]
+Lin24 raises [0,06 $]
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,05 $ ]
+
+
+
+#Game No : 527844998
+***** 888poker Hand History for Game 527844998 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:26:34
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,37 $ )
+Seat 2: shockwave13 ( 1,02 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,52 $ )
+Seat 7: zenit3535 ( 3,36 $ )
+Seat 9: Lin24 ( 2,08 $ )
+Seat 10: BSokolov ( 2,13 $ )
+zenit3535 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 8Kreuz ]
+BSokolov calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 raises [0,08 $]
+YASAV folds
+ChipsACA calls [0,08 $]
+zenit3535 folds
+Lin24 calls [0,06 $]
+BSokolov folds
+** Dealing flop ** [ 10Karo, 9Karo, QKreuz ]
+Lin24 checks
+tekiller243 bets [0,17 $]
+ChipsACA calls [0,17 $]
+Lin24 raises [2 $]
+tekiller243 folds
+ChipsACA calls [0,27 $]
+** Dealing turn ** [ 6Karo ]
+** Dealing river ** [ 10Kreuz ]
+** Summary **
+ChipsACA shows [ JKaro, AHerz ]
+Lin24 shows [ KKreuz, JHerz ]
+Lin24 collected [ 1,24 $ ]
+
+
+
+#Game No : 527845022
+***** 888poker Hand History for Game 527845022 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:27:27
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,37 $ )
+Seat 2: shockwave13 ( 1,02 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,80 $ )
+Seat 7: zenit3535 ( 3,35 $ )
+Seat 9: Lin24 ( 2,80 $ )
+Seat 10: BSokolov ( 2,11 $ )
+Lin24 posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Karo, 2Kreuz ]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+oldbashkir raises [0,08 $]
+tekiller243 raises [0,24 $]
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov folds
+shockwave13 folds
+oldbashkir raises [0,77 $]
+tekiller243 folds
+** Summary **
+oldbashkir did not show his hand
+oldbashkir collected [ 0,53 $ ]
+
+
+
+#Game No : 527845039
+***** 888poker Hand History for Game 527845039 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:28:11
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,37 $ )
+Seat 2: shockwave13 ( 1 $ )
+Seat 3: oldbashkir ( 2,29 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 6: ChipsACA ( 0,80 $ )
+Seat 7: zenit3535 ( 3,35 $ )
+Seat 9: Lin24 ( 2,79 $ )
+Seat 10: BSokolov ( 2,09 $ )
+BSokolov posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 10Karo ]
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+ChipsACA folds
+zenit3535 raises [0,05 $]
+Lin24 folds
+BSokolov folds
+B2B_Suckouts calls [0,03 $]
+** Dealing flop ** [ 6Pik, 3Karo, 4Pik ]
+B2B_Suckouts checks
+zenit3535 checks
+** Dealing turn ** [ 5Pik ]
+B2B_Suckouts checks
+zenit3535 checks
+** Dealing river ** [ AKreuz ]
+B2B_Suckouts bets [0,10 $]
+zenit3535 folds
+** Summary **
+B2B_Suckouts collected [ 0,11 $ ]
+
+
+
+#Game No : 527845070
+***** 888poker Hand History for Game 527845070 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:29:05
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,43 $ )
+Seat 2: shockwave13 ( 1 $ )
+Seat 3: oldbashkir ( 2,29 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,80 $ )
+Seat 7: zenit3535 ( 3,30 $ )
+Seat 9: Lin24 ( 2,79 $ )
+Seat 10: BSokolov ( 2,08 $ )
+B2B_Suckouts posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 3Kreuz ]
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 raises [0,06 $]
+BSokolov calls [0,06 $]
+B2B_Suckouts folds
+shockwave13 folds
+** Dealing flop ** [ QHerz, KKaro, JPik ]
+Lin24 bets [0,07 $]
+BSokolov calls [0,07 $]
+** Dealing turn ** [ 5Herz ]
+Lin24 checks
+BSokolov checks
+** Dealing river ** [ 8Karo ]
+Lin24 checks
+BSokolov bets [0,29 $]
+Lin24 folds
+** Summary **
+BSokolov did not show his hand
+BSokolov collected [ 0,28 $ ]
+
+
+
+#Game No : 527845097
+***** 888poker Hand History for Game 527845097 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:30:04
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: shockwave13 ( 0,98 $ )
+Seat 3: oldbashkir ( 2,29 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,80 $ )
+Seat 7: zenit3535 ( 3,30 $ )
+Seat 9: Lin24 ( 2,66 $ )
+Seat 10: BSokolov ( 2,23 $ )
+shockwave13 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 2Herz ]
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 calls [0,01 $]
+oldbashkir raises [0,06 $]
+BSokolov calls [0,06 $]
+shockwave13 calls [0,06 $]
+** Dealing flop ** [ 9Herz, 7Kreuz, 10Karo ]
+shockwave13 checks
+oldbashkir checks
+BSokolov bets [0,02 $]
+shockwave13 calls [0,02 $]
+oldbashkir calls [0,02 $]
+** Dealing turn ** [ QHerz ]
+shockwave13 checks
+oldbashkir checks
+BSokolov bets [0,08 $]
+shockwave13 calls [0,08 $]
+oldbashkir folds
+** Dealing river ** [ 6Pik ]
+shockwave13 checks
+BSokolov checks
+** Summary **
+shockwave13 shows [ KHerz, JKaro ]
+BSokolov mucks [ QKaro, AHerz ]
+shockwave13 collected [ 0,44 $ ]
+
+
+
+#Game No : 527845132
+***** 888poker Hand History for Game 527845132 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:31:04
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: shockwave13 ( 1,24 $ )
+Seat 3: oldbashkir ( 2,19 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,80 $ )
+Seat 7: zenit3535 ( 3,30 $ )
+Seat 9: Lin24 ( 2,66 $ )
+Seat 10: BSokolov ( 2,05 $ )
+oldbashkir posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, QPik ]
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+oldbashkir folds
+tekiller243 checks
+** Dealing flop ** [ 2Kreuz, 3Kreuz, 6Herz ]
+tekiller243 checks
+shockwave13 checks
+** Dealing turn ** [ 10Pik ]
+tekiller243 checks
+shockwave13 bets [0,03 $]
+tekiller243 calls [0,03 $]
+** Dealing river ** [ KKaro ]
+tekiller243 checks
+shockwave13 bets [0,09 $]
+tekiller243 folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,11 $ ]
+
+
+
+#Game No : 527845156
+***** 888poker Hand History for Game 527845156 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:31:54
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: shockwave13 ( 1,30 $ )
+Seat 3: oldbashkir ( 2,18 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,80 $ )
+Seat 7: zenit3535 ( 3,30 $ )
+Seat 9: Lin24 ( 2,66 $ )
+Seat 10: BSokolov ( 2,05 $ )
+tekiller243 posts small blind [0,01 $]
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, JKaro ]
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+** Summary **
+YASAV did not show his hand
+YASAV collected [ 0,03 $ ]
+
+
+
+#Game No : 527845166
+***** 888poker Hand History for Game 527845166 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:32:13
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: shockwave13 ( 1,30 $ )
+Seat 3: oldbashkir ( 2,18 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,76 $ )
+Seat 6: ChipsACA ( 0,80 $ )
+Seat 7: zenit3535 ( 3,30 $ )
+Seat 9: Lin24 ( 2,66 $ )
+Seat 10: BSokolov ( 2,05 $ )
+YASAV posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 5Karo ]
+zenit3535 folds
+Lin24 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 raises [0,06 $]
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA calls [0,04 $]
+** Dealing flop ** [ KHerz, 3Kreuz, 5Kreuz ]
+ChipsACA checks
+shockwave13 bets [0,06 $]
+ChipsACA calls [0,06 $]
+** Dealing turn ** [ 8Herz ]
+ChipsACA checks
+shockwave13 bets [0,16 $]
+ChipsACA calls [0,16 $]
+** Dealing river ** [ JHerz ]
+ChipsACA checks
+shockwave13 bets [0,28 $]
+ChipsACA folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,54 $ ]
+
+
+
+#Game No : 527845188
+***** 888poker Hand History for Game 527845188 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:33:06
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,42 $ )
+Seat 2: shockwave13 ( 1,56 $ )
+Seat 3: oldbashkir ( 2,18 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,52 $ )
+Seat 7: zenit3535 ( 3,30 $ )
+Seat 9: Lin24 ( 2,66 $ )
+Seat 10: BSokolov ( 2,05 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, KKreuz ]
+Lin24 folds
+BSokolov folds
+B2B_Suckouts raises [0,06 $]
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 527845203
+***** 888poker Hand History for Game 527845203 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:33:36
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,45 $ )
+Seat 2: shockwave13 ( 1,56 $ )
+Seat 3: oldbashkir ( 2,18 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,28 $ )
+Seat 9: Lin24 ( 2,66 $ )
+Seat 10: BSokolov ( 2,05 $ )
+zenit3535 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, 10Kreuz ]
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+oldbashkir folds
+tekiller243 raises [0,08 $]
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+shockwave13 folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,07 $ ]
+
+
+
+#Game No : 527845212
+***** 888poker Hand History for Game 527845212 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:33:57
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,45 $ )
+Seat 2: shockwave13 ( 1,54 $ )
+Seat 3: oldbashkir ( 2,18 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,27 $ )
+Seat 9: Lin24 ( 2,64 $ )
+Seat 10: BSokolov ( 2,05 $ )
+Lin24 posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Pik, 9Herz ]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+oldbashkir raises [0,08 $]
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov folds
+shockwave13 calls [0,06 $]
+** Dealing flop ** [ AHerz, 4Herz, 8Kreuz ]
+shockwave13 checks
+oldbashkir checks
+** Dealing turn ** [ 5Kreuz ]
+shockwave13 bets [0,09 $]
+oldbashkir folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,18 $ ]
+
+
+
+#Game No : 527845228
+***** 888poker Hand History for Game 527845228 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:34:32
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,45 $ )
+Seat 2: shockwave13 ( 1,64 $ )
+Seat 3: oldbashkir ( 2,10 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,27 $ )
+Seat 9: Lin24 ( 2,63 $ )
+Seat 10: BSokolov ( 2,03 $ )
+BSokolov posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, JKreuz ]
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 9Kreuz, KPik, 5Herz ]
+BSokolov checks
+B2B_Suckouts checks
+** Dealing turn ** [ AKaro ]
+BSokolov checks
+B2B_Suckouts checks
+** Dealing river ** [ JKaro ]
+BSokolov checks
+B2B_Suckouts bets [0,02 $]
+BSokolov folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 527845254
+***** 888poker Hand History for Game 527845254 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:35:37
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,47 $ )
+Seat 2: shockwave13 ( 1,64 $ )
+Seat 3: oldbashkir ( 2,10 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,75 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,27 $ )
+Seat 9: Lin24 ( 2,63 $ )
+Seat 10: BSokolov ( 2,01 $ )
+B2B_Suckouts posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Pik, AKreuz ]
+oldbashkir folds
+tekiller243 folds
+YASAV raises [0,06 $]
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 calls [0,04 $]
+** Dealing flop ** [ KPik, 3Karo, 8Kreuz ]
+shockwave13 checks
+YASAV bets [0,08 $]
+shockwave13 folds
+** Summary **
+YASAV did not show his hand
+YASAV collected [ 0,13 $ ]
+
+
+
+#Game No : 527845267
+***** 888poker Hand History for Game 527845267 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:36:09
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,46 $ )
+Seat 2: shockwave13 ( 1,58 $ )
+Seat 3: oldbashkir ( 2,10 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,82 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,27 $ )
+Seat 9: Lin24 ( 2,63 $ )
+Seat 10: BSokolov ( 2,01 $ )
+shockwave13 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, 4Karo ]
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+shockwave13 folds
+oldbashkir calls [0,04 $]
+BSokolov calls [0,04 $]
+** Dealing flop ** [ 6Karo, JKaro, 5Pik ]
+oldbashkir checks
+BSokolov checks
+B2B_Suckouts bets [0,20 $]
+oldbashkir folds
+BSokolov folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,18 $ ]
+
+
+
+#Game No : 527845289
+***** 888poker Hand History for Game 527845289 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:36:55
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,58 $ )
+Seat 2: shockwave13 ( 1,57 $ )
+Seat 3: oldbashkir ( 2,04 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,82 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,27 $ )
+Seat 9: Lin24 ( 2,63 $ )
+Seat 10: BSokolov ( 1,95 $ )
+oldbashkir posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, QKreuz ]
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 raises [0,06 $]
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,05 $ ]
+
+
+
+#Game No : 527845305
+***** 888poker Hand History for Game 527845305 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:37:30
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,58 $ )
+Seat 2: shockwave13 ( 1,57 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: tekiller243 ( 2,03 $ )
+Seat 5: YASAV ( 1,82 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,27 $ )
+Seat 9: Lin24 ( 2,66 $ )
+Seat 10: BSokolov ( 1,95 $ )
+tekiller243 posts small blind [0,01 $]
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, KPik ]
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 raises [0,05 $]
+YASAV folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,04 $ ]
+
+
+
+#Game No : 527845320
+***** 888poker Hand History for Game 527845320 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:37:55
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,58 $ )
+Seat 2: shockwave13 ( 1,57 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,80 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,27 $ )
+Seat 9: Lin24 ( 2,66 $ )
+Seat 10: BSokolov ( 1,95 $ )
+YASAV posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 9Kreuz ]
+zenit3535 folds
+Lin24 raises [0,06 $]
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+** Summary **
+Lin24 did not show his hand
+Lin24 collected [ 0,05 $ ]
+
+
+
+#Game No : 527845337
+***** 888poker Hand History for Game 527845337 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:38:25
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,58 $ )
+Seat 2: shockwave13 ( 1,57 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,79 $ )
+Seat 6: ChipsACA ( 0,49 $ )
+Seat 7: zenit3535 ( 3,27 $ )
+Seat 9: Lin24 ( 2,69 $ )
+Seat 10: BSokolov ( 1,95 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ QKaro, 8Karo ]
+Lin24 folds
+BSokolov calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA calls [0,01 $]
+zenit3535 checks
+** Dealing flop ** [ APik, 9Kreuz, 7Herz ]
+ChipsACA checks
+zenit3535 checks
+BSokolov bets [0,04 $]
+ChipsACA folds
+zenit3535 calls [0,04 $]
+** Dealing turn ** [ 4Kreuz ]
+zenit3535 checks
+BSokolov bets [0,07 $]
+zenit3535 folds
+** Summary **
+BSokolov did not show his hand
+BSokolov collected [ 0,14 $ ]
+
+
+
+#Game No : 527845362
+***** 888poker Hand History for Game 527845362 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:39:23
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,58 $ )
+Seat 2: shockwave13 ( 1,57 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,79 $ )
+Seat 6: ChipsACA ( 0,47 $ )
+Seat 7: zenit3535 ( 3,21 $ )
+Seat 9: Lin24 ( 2,69 $ )
+Seat 10: BSokolov ( 2,03 $ )
+zenit3535 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 6Pik ]
+BSokolov calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV raises [0,08 $]
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov calls [0,06 $]
+** Dealing flop ** [ 8Herz, 8Kreuz, APik ]
+BSokolov checks
+YASAV checks
+** Dealing turn ** [ AKreuz ]
+BSokolov checks
+YASAV bets [0,12 $]
+BSokolov folds
+** Summary **
+YASAV did not show his hand
+YASAV collected [ 0,18 $ ]
+
+
+
+#Game No : 527845381
+***** 888poker Hand History for Game 527845381 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:40:04
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,58 $ )
+Seat 2: shockwave13 ( 1,57 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,89 $ )
+Seat 6: ChipsACA ( 0,47 $ )
+Seat 7: zenit3535 ( 3,20 $ )
+Seat 9: Lin24 ( 2,67 $ )
+Seat 10: BSokolov ( 1,95 $ )
+Lin24 posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 7Pik ]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 raises [0,06 $]
+Lin24 calls [0,05 $]
+BSokolov folds
+** Dealing flop ** [ 10Kreuz, 2Karo, 10Herz ]
+Lin24 checks
+zenit3535 checks
+** Dealing turn ** [ JKreuz ]
+Lin24 checks
+zenit3535 checks
+** Dealing river ** [ QKreuz ]
+Lin24 checks
+zenit3535 bets [0,09 $]
+Lin24 folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ 0,14 $ ]
+
+
+
+#Game No : 527845394
+***** 888poker Hand History for Game 527845394 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:40:49
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,58 $ )
+Seat 2: shockwave13 ( 1,57 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,89 $ )
+Seat 6: ChipsACA ( 0,47 $ )
+Seat 7: zenit3535 ( 3,28 $ )
+Seat 9: Lin24 ( 2,61 $ )
+Seat 10: BSokolov ( 1,93 $ )
+BSokolov posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Karo, APik ]
+shockwave13 calls [0,02 $]
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA calls [0,02 $]
+zenit3535 folds
+Lin24 folds
+BSokolov calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 3Karo, 5Kreuz, 8Herz ]
+BSokolov checks
+B2B_Suckouts checks
+shockwave13 checks
+ChipsACA bets [0,05 $]
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,08 $ ]
+
+
+
+#Game No : 527845421
+***** 888poker Hand History for Game 527845421 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:41:49
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,56 $ )
+Seat 2: shockwave13 ( 1,55 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: tekiller243 ( 2,05 $ )
+Seat 5: YASAV ( 1,89 $ )
+Seat 6: ChipsACA ( 0,53 $ )
+Seat 7: zenit3535 ( 3,28 $ )
+Seat 10: BSokolov ( 1,91 $ )
+B2B_Suckouts posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, 4Pik ]
+oldbashkir folds
+tekiller243 raises [0,06 $]
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+** Summary **
+tekiller243 collected [ 0,05 $ ]
+
+
+
+#Game No : 527845436
+***** 888poker Hand History for Game 527845436 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:42:19
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,55 $ )
+Seat 2: shockwave13 ( 1,53 $ )
+Seat 3: oldbashkir ( 2,03 $ )
+Seat 4: tekiller243 ( 2,08 $ )
+Seat 5: YASAV ( 1,89 $ )
+Seat 6: ChipsACA ( 0,53 $ )
+Seat 7: zenit3535 ( 3,28 $ )
+Seat 10: BSokolov ( 1,91 $ )
+shockwave13 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 4Herz ]
+tekiller243 folds
+YASAV folds
+ChipsACA raises [0,06 $]
+zenit3535 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir calls [0,04 $]
+** Dealing flop ** [ 10Kreuz, 5Pik, 2Pik ]
+oldbashkir checks
+ChipsACA bets [0,04 $]
+oldbashkir calls [0,04 $]
+** Dealing turn ** [ QPik ]
+oldbashkir checks
+ChipsACA bets [0,06 $]
+oldbashkir folds
+** Summary **
+ChipsACA collected [ 0,20 $ ]
+
+
+
+#Game No : 527845451
+***** 888poker Hand History for Game 527845451 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:42:57
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,55 $ )
+Seat 2: shockwave13 ( 1,52 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2,08 $ )
+Seat 5: YASAV ( 1,89 $ )
+Seat 6: ChipsACA ( 0,63 $ )
+Seat 7: zenit3535 ( 3,28 $ )
+Seat 10: BSokolov ( 1,91 $ )
+oldbashkir posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Pik, KPik ]
+YASAV folds
+ChipsACA folds
+zenit3535 calls [0,02 $]
+BSokolov folds
+B2B_Suckouts raises [0,06 $]
+shockwave13 calls [0,06 $]
+oldbashkir folds
+tekiller243 raises [0,25 $]
+zenit3535 calls [0,25 $]
+B2B_Suckouts folds
+shockwave13 folds
+** Dealing flop ** [ 4Karo, 3Pik, 2Pik ]
+tekiller243 checks
+zenit3535 bets [0,44 $]
+tekiller243 folds
+** Summary **
+zenit3535 collected [ 0,63 $ ]
+
+
+
+#Game No : 527845477
+***** 888poker Hand History for Game 527845477 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:43:51
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 2,49 $ )
+Seat 2: shockwave13 ( 1,46 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,89 $ )
+Seat 6: ChipsACA ( 0,63 $ )
+Seat 7: zenit3535 ( 3,64 $ )
+Seat 10: BSokolov ( 1,91 $ )
+tekiller243 posts small blind [0,01 $]
+YASAV posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KKreuz, 2Karo ]
+ChipsACA folds
+zenit3535 folds
+BSokolov calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+oldbashkir folds
+tekiller243 folds
+YASAV checks
+** Dealing flop ** [ 4Karo, 8Karo, 8Kreuz ]
+YASAV checks
+BSokolov bets [0,05 $]
+shockwave13 folds
+YASAV folds
+** Summary **
+BSokolov collected [ 0,07 $ ]
+
+
+
+#Game No : 527845503
+***** 888poker Hand History for Game 527845503 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:44:36
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,49 $ )
+Seat 2: shockwave13 ( 1,44 $ )
+Seat 3: oldbashkir ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,87 $ )
+Seat 6: ChipsACA ( 0,63 $ )
+Seat 7: zenit3535 ( 3,64 $ )
+Seat 9: Lin24 ( 2,61 $ )
+Seat 10: BSokolov ( 1,96 $ )
+YASAV posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 8Karo ]
+zenit3535 folds
+Lin24 raises [0,06 $]
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir raises [0,18 $]
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+Lin24 calls [0,12 $]
+** Dealing flop ** [ 6Herz, 8Herz, 4Kreuz ]
+Lin24 checks
+oldbashkir bets [0,19 $]
+Lin24 folds
+** Summary **
+oldbashkir did not show his hand
+oldbashkir collected [ 0,37 $ ]
+
+
+
+#Game No : 527845527
+***** 888poker Hand History for Game 527845527 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:45:28
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,49 $ )
+Seat 2: shockwave13 ( 1,44 $ )
+Seat 3: oldbashkir ( 2,19 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,86 $ )
+Seat 6: ChipsACA ( 0,61 $ )
+Seat 7: zenit3535 ( 3,64 $ )
+Seat 9: Lin24 ( 2,43 $ )
+Seat 10: BSokolov ( 1,96 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 7Pik ]
+Lin24 folds
+BSokolov folds
+B2B_Suckouts folds
+shockwave13 raises [0,06 $]
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,05 $ ]
+
+
+
+#Game No : 527845540
+***** 888poker Hand History for Game 527845540 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:45:56
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,49 $ )
+Seat 2: shockwave13 ( 1,47 $ )
+Seat 3: oldbashkir ( 2,19 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,86 $ )
+Seat 6: ChipsACA ( 0,60 $ )
+Seat 7: zenit3535 ( 3,62 $ )
+Seat 9: Lin24 ( 2,43 $ )
+Seat 10: BSokolov ( 1,96 $ )
+zenit3535 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ APik, JKreuz ]
+BSokolov folds
+B2B_Suckouts raises [0,06 $]
+shockwave13 calls [0,06 $]
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+** Dealing flop ** [ 9Kreuz, 6Herz, 7Herz ]
+B2B_Suckouts checks
+shockwave13 bets [0,07 $]
+B2B_Suckouts calls [0,07 $]
+** Dealing turn ** [ QKreuz ]
+B2B_Suckouts checks
+shockwave13 checks
+** Dealing river ** [ 2Pik ]
+B2B_Suckouts bets [0,34 $]
+shockwave13 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,28 $ ]
+
+
+
+#Game No : 527845582
+***** 888poker Hand History for Game 527845582 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:47:26
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,64 $ )
+Seat 2: shockwave13 ( 1,34 $ )
+Seat 3: oldbashkir ( 2,19 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,86 $ )
+Seat 6: ChipsACA ( 0,60 $ )
+Seat 7: zenit3535 ( 3,61 $ )
+Seat 9: Lin24 ( 2,41 $ )
+Seat 10: BSokolov ( 1,96 $ )
+Lin24 posts small blind [0,01 $]
+BSokolov posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, QKaro ]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA raises [0,06 $]
+zenit3535 raises [0,18 $]
+Lin24 folds
+BSokolov folds
+ChipsACA folds
+** Summary **
+zenit3535 did not show his hand
+zenit3535 collected [ 0,15 $ ]
+
+
+
+#Game No : 527845591
+***** 888poker Hand History for Game 527845591 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:47:57
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,64 $ )
+Seat 2: shockwave13 ( 1,34 $ )
+Seat 3: oldbashkir ( 2,19 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,86 $ )
+Seat 6: ChipsACA ( 0,54 $ )
+Seat 7: zenit3535 ( 3,70 $ )
+Seat 9: Lin24 ( 2,40 $ )
+Seat 10: BSokolov ( 1,94 $ )
+BSokolov posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, KKreuz ]
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+BSokolov folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 527845604
+***** 888poker Hand History for Game 527845604 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:48:16
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 2,66 $ )
+Seat 2: shockwave13 ( 1,34 $ )
+Seat 3: oldbashkir ( 2,19 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,86 $ )
+Seat 6: ChipsACA ( 0,54 $ )
+Seat 7: zenit3535 ( 3,70 $ )
+Seat 9: Lin24 ( 2,40 $ )
+Seat 10: BSokolov ( 1,92 $ )
+B2B_Suckouts posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, APik ]
+oldbashkir folds
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 raises [0,06 $]
+BSokolov folds
+B2B_Suckouts raises [0,17 $]
+shockwave13 folds
+Lin24 calls [0,12 $]
+** Dealing flop ** [ 9Kreuz, 8Karo, 4Pik ]
+B2B_Suckouts bets [0,12 $]
+Lin24 calls [0,12 $]
+** Dealing turn ** [ 7Kreuz ]
+B2B_Suckouts checks
+Lin24 bets [0,40 $]
+B2B_Suckouts calls [0,40 $]
+** Dealing river ** [ 5Pik ]
+B2B_Suckouts checks
+Lin24 bets [0,93 $]
+B2B_Suckouts calls [0,93 $]
+** Summary **
+Lin24 shows [ 10Pik, QPik ]
+B2B_Suckouts shows [ AHerz, APik ]
+B2B_Suckouts collected [ 3,08 $ ]
+
+
+
+#Game No : 527845643
+***** 888poker Hand History for Game 527845643 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:49:27
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 4,11 $ )
+Seat 2: shockwave13 ( 1,32 $ )
+Seat 3: oldbashkir ( 2,19 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,86 $ )
+Seat 6: ChipsACA ( 0,54 $ )
+Seat 7: zenit3535 ( 3,70 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: BSokolov ( 1,92 $ )
+shockwave13 posts small blind [0,01 $]
+oldbashkir posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KPik, 6Kreuz ]
+tekiller243 folds
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 raises [0,06 $]
+BSokolov calls [0,06 $]
+B2B_Suckouts folds
+shockwave13 raises [0,25 $]
+oldbashkir folds
+Lin24 raises [1,94 $]
+BSokolov calls [1,86 $]
+shockwave13 calls [1,06 $]
+** Dealing flop ** [ 4Herz, 9Karo, 4Kreuz ]
+** Dealing turn ** [ AKreuz ]
+** Dealing river ** [ JPik ]
+** Summary **
+shockwave13 shows [ QKreuz, QHerz ]
+Lin24 shows [ KKaro, KKreuz ]
+BSokolov shows [ AHerz, AKaro ]
+BSokolov collected [ 3,74 $ ]
+BSokolov collected [ 1,12 $ ]
+
+
+
+#Game No : 527845683
+***** 888poker Hand History for Game 527845683 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:50:35
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 4,11 $ )
+Seat 2: shockwave13 ( 0,80 $ )
+Seat 3: oldbashkir ( 2,17 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,86 $ )
+Seat 6: ChipsACA ( 0,54 $ )
+Seat 7: zenit3535 ( 3,70 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: BSokolov ( 4,86 $ )
+oldbashkir posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, KHerz ]
+YASAV folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+BSokolov folds
+B2B_Suckouts raises [0,06 $]
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,05 $ ]
+
+
+
+#Game No : 527845700
+***** 888poker Hand History for Game 527845700 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:51:04
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,14 $ )
+Seat 2: shockwave13 ( 0,80 $ )
+Seat 3: oldbashkir ( 2,16 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: YASAV ( 1,86 $ )
+Seat 6: ChipsACA ( 0,54 $ )
+Seat 7: zenit3535 ( 3,70 $ )
+Seat 9: Lin24 ( 2 $ )
+tekiller243 posts small blind [0,01 $]
+YASAV folds
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JHerz, 3Herz ]
+zenit3535 folds
+Lin24 folds
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 raises [0,05 $]
+ChipsACA folds
+** Summary **
+tekiller243 collected [ 0,04 $ ]
+
+
+
+#Game No : 527845709
+***** 888poker Hand History for Game 527845709 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:51:22
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 4,14 $ )
+Seat 2: shockwave13 ( 0,80 $ )
+Seat 3: oldbashkir ( 2,16 $ )
+Seat 4: tekiller243 ( 2,02 $ )
+Seat 6: ChipsACA ( 0,52 $ )
+Seat 7: zenit3535 ( 3,70 $ )
+Seat 9: Lin24 ( 2 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 5Kreuz ]
+Lin24 folds
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+oldbashkir folds
+tekiller243 folds
+ChipsACA folds
+zenit3535 checks
+** Dealing flop ** [ JKreuz, 9Kreuz, 9Pik ]
+zenit3535 checks
+shockwave13 bets [0,02 $]
+zenit3535 folds
+** Summary **
+shockwave13 collected [ 0,05 $ ]
+
+
+
+#Game No : 527845721
+***** 888poker Hand History for Game 527845721 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:51:48
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 7
+Seat 1: B2B_Suckouts ( 4,14 $ )
+Seat 2: shockwave13 ( 0,83 $ )
+Seat 3: oldbashkir ( 2,16 $ )
+Seat 4: tekiller243 ( 2,02 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,68 $ )
+Seat 9: Lin24 ( 2 $ )
+zenit3535 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, QKreuz ]
+B2B_Suckouts folds
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+ChipsACA folds
+zenit3535 raises [0,05 $]
+Lin24 folds
+** Summary **
+zenit3535 collected [ 0,04 $ ]
+
+
+
+#Game No : 527845735
+***** 888poker Hand History for Game 527845735 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:52:14
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 4,14 $ )
+Seat 2: shockwave13 ( 0,83 $ )
+Seat 3: oldbashkir ( 2,16 $ )
+Seat 4: tekiller243 ( 2,02 $ )
+Seat 5: migu3l30 ( 2 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,70 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2 $ )
+Lin24 posts small blind [0,01 $]
+JP...1 posts big blind [0,02 $]
+migu3l30 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JKaro, JHerz ]
+B2B_Suckouts raises [0,06 $]
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+migu3l30 calls [0,04 $]
+ChipsACA folds
+zenit3535 folds
+Lin24 calls [0,05 $]
+JP...1 folds
+** Dealing flop ** [ 5Kreuz, AHerz, 6Pik ]
+Lin24 checks
+B2B_Suckouts checks
+migu3l30 checks
+** Dealing turn ** [ 3Pik ]
+Lin24 checks
+B2B_Suckouts bets [0,06 $]
+migu3l30 folds
+Lin24 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,19 $ ]
+
+
+
+#Game No : 527845761
+***** 888poker Hand History for Game 527845761 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:53:04
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 4,27 $ )
+Seat 2: shockwave13 ( 0,83 $ )
+Seat 3: oldbashkir ( 2,16 $ )
+Seat 4: tekiller243 ( 2,02 $ )
+Seat 5: migu3l30 ( 1,94 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,70 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 1,98 $ )
+JP...1 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 3Pik ]
+shockwave13 folds
+oldbashkir folds
+tekiller243 folds
+migu3l30 folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,01 $]
+B2B_Suckouts checks
+** Dealing flop ** [ 9Kreuz, 8Pik, JKreuz ]
+JP...1 checks
+B2B_Suckouts bets [0,02 $]
+JP...1 folds
+** Summary **
+B2B_Suckouts did not show his hand
+B2B_Suckouts collected [ 0,04 $ ]
+
+
+
+#Game No : 527845772
+***** 888poker Hand History for Game 527845772 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:53:30
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 4,29 $ )
+Seat 2: shockwave13 ( 0,83 $ )
+Seat 3: oldbashkir ( 2,16 $ )
+Seat 4: tekiller243 ( 2,02 $ )
+Seat 5: migu3l30 ( 1,94 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,70 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 1,96 $ )
+B2B_Suckouts posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Kreuz, 4Herz ]
+oldbashkir folds
+tekiller243 folds
+migu3l30 calls [0,02 $]
+ChipsACA folds
+zenit3535 raises [0,08 $]
+Lin24 folds
+JP...1 folds
+B2B_Suckouts folds
+shockwave13 raises [0,19 $]
+migu3l30 folds
+zenit3535 calls [0,13 $]
+** Dealing flop ** [ 10Herz, QPik, 2Kreuz ]
+shockwave13 bets [0,62 $]
+zenit3535 folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,43 $ ]
+
+
+
+#Game No : 527845797
+***** 888poker Hand History for Game 527845797 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:54:13
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,28 $ )
+Seat 2: shockwave13 ( 1,05 $ )
+Seat 4: tekiller243 ( 2,02 $ )
+Seat 5: migu3l30 ( 1,92 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,49 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 1,96 $ )
+shockwave13 posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 9Kreuz, 2Herz ]
+migu3l30 folds
+ChipsACA raises [0,06 $]
+zenit3535 folds
+Lin24 folds
+JP...1 folds
+B2B_Suckouts folds
+shockwave13 folds
+tekiller243 folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,05 $ ]
+
+
+
+#Game No : 527845818
+***** 888poker Hand History for Game 527845818 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:54:48
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,28 $ )
+Seat 2: shockwave13 ( 1,04 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 1,92 $ )
+Seat 6: ChipsACA ( 0,54 $ )
+Seat 7: zenit3535 ( 3,49 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 1,96 $ )
+tekiller243 posts small blind [0,01 $]
+migu3l30 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 4Kreuz ]
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+tekiller243 folds
+migu3l30 checks
+** Dealing flop ** [ KPik, 9Kreuz, 10Kreuz ]
+migu3l30 checks
+JP...1 checks
+shockwave13 checks
+** Dealing turn ** [ AKreuz ]
+migu3l30 checks
+JP...1 checks
+shockwave13 bets [0,04 $]
+migu3l30 folds
+JP...1 raises [0,08 $]
+shockwave13 calls [0,04 $]
+** Dealing river ** [ JHerz ]
+JP...1 bets [0,23 $]
+shockwave13 calls [0,23 $]
+** Summary **
+JP...1 shows [ JKreuz, 6Kreuz ]
+shockwave13 mucks [ 8Karo, 7Karo ]
+JP...1 collected [ 0,65 $ ]
+
+
+
+#Game No : 527845867
+***** 888poker Hand History for Game 527845867 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:56:12
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,28 $ )
+Seat 2: shockwave13 ( 0,71 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 1,90 $ )
+Seat 6: ChipsACA ( 0,54 $ )
+Seat 7: zenit3535 ( 3,49 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,28 $ )
+migu3l30 posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Kreuz, 4Karo ]
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+tekiller243 folds
+migu3l30 calls [0,01 $]
+ChipsACA checks
+** Dealing flop ** [ JHerz, KKaro, 4Kreuz ]
+migu3l30 bets [0,02 $]
+ChipsACA folds
+JP...1 folds
+shockwave13 calls [0,02 $]
+** Dealing turn ** [ 10Herz ]
+migu3l30 bets [0,06 $]
+shockwave13 calls [0,06 $]
+** Dealing river ** [ 10Kreuz ]
+migu3l30 bets [0,16 $]
+shockwave13 folds
+** Summary **
+migu3l30 collected [ 0,23 $ ]
+
+
+
+#Game No : 527845899
+***** 888poker Hand History for Game 527845899 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:57:11
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,28 $ )
+Seat 2: shockwave13 ( 0,61 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 2,03 $ )
+Seat 6: ChipsACA ( 0,52 $ )
+Seat 7: zenit3535 ( 3,49 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,26 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, 8Kreuz ]
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 folds
+tekiller243 folds
+migu3l30 folds
+ChipsACA folds
+zenit3535 checks
+** Dealing flop ** [ JKaro, 7Pik, AHerz ]
+zenit3535 bets [0,03 $]
+JP...1 calls [0,03 $]
+** Dealing turn ** [ 8Herz ]
+zenit3535 bets [0,07 $]
+JP...1 calls [0,07 $]
+** Dealing river ** [ 8Karo ]
+zenit3535 bets [0,08 $]
+JP...1 calls [0,08 $]
+** Summary **
+zenit3535 shows [ 7Herz, AKreuz ]
+JP...1 shows [ KKaro, APik ]
+JP...1 collected [ 0,39 $ ]
+
+
+
+#Game No : 527845941
+***** 888poker Hand History for Game 527845941 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:58:18
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,28 $ )
+Seat 2: shockwave13 ( 0,61 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 2,03 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,29 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,45 $ )
+zenit3535 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Herz, 2Herz ]
+JP...1 calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 raises [0,06 $]
+tekiller243 folds
+migu3l30 calls [0,06 $]
+ChipsACA folds
+zenit3535 raises [0,31 $]
+Lin24 folds
+JP...1 folds
+shockwave13 raises [0,55 $]
+migu3l30 folds
+zenit3535 calls [0,29 $]
+** Dealing flop ** [ 6Pik, 5Karo, 3Kreuz ]
+** Dealing turn ** [ QHerz ]
+** Dealing river ** [ 4Herz ]
+** Summary **
+shockwave13 shows [ AKaro, KKaro ]
+zenit3535 shows [ QPik, AKreuz ]
+zenit3535 collected [ 1,24 $ ]
+
+
+
+#Game No : 527845969
+***** 888poker Hand History for Game 527845969 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 15:59:11
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,28 $ )
+Seat 2: shockwave13 ( 0,80 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 1,97 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,92 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,43 $ )
+Lin24 posts small blind [0,01 $]
+JP...1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Pik, 4Kreuz ]
+B2B_Suckouts folds
+shockwave13 folds
+tekiller243 folds
+migu3l30 calls [0,02 $]
+ChipsACA folds
+zenit3535 raises [0,06 $]
+Lin24 calls [0,05 $]
+JP...1 folds
+migu3l30 calls [0,04 $]
+** Dealing flop ** [ 2Kreuz, 10Herz, 8Pik ]
+Lin24 checks
+migu3l30 checks
+zenit3535 checks
+** Dealing turn ** [ APik ]
+Lin24 checks
+migu3l30 checks
+zenit3535 checks
+** Dealing river ** [ 5Karo ]
+Lin24 checks
+migu3l30 checks
+zenit3535 checks
+** Summary **
+Lin24 shows [ 6Herz, 6Karo ]
+migu3l30 mucks [ 9Karo, KPik ]
+zenit3535 mucks [ KKreuz, JPik ]
+Lin24 collected [ 0,19 $ ]
+
+
+
+#Game No : 527846023
+***** 888poker Hand History for Game 527846023 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:00:30
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,28 $ )
+Seat 2: shockwave13 ( 0,80 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 1,91 $ )
+Seat 6: ChipsACA ( 0,51 $ )
+Seat 7: zenit3535 ( 3,86 $ )
+Seat 9: Lin24 ( 2,13 $ )
+Seat 10: JP...1 ( 2,41 $ )
+JP...1 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, 4Kreuz ]
+shockwave13 calls [0,02 $]
+tekiller243 folds
+migu3l30 folds
+ChipsACA raises [0,06 $]
+zenit3535 raises [0,24 $]
+Lin24 folds
+JP...1 folds
+B2B_Suckouts folds
+shockwave13 raises [0,78 $]
+ChipsACA folds
+zenit3535 calls [0,56 $]
+** Dealing flop ** [ 8Kreuz, 5Herz, 9Pik ]
+** Dealing turn ** [ 9Karo ]
+** Dealing river ** [ QHerz ]
+** Summary **
+shockwave13 shows [ QPik, KKreuz ]
+zenit3535 shows [ KHerz, KKaro ]
+zenit3535 collected [ 1,59 $ ]
+
+
+
+#Game No : 527846052
+***** 888poker Hand History for Game 527846052 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:01:17
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,26 $ )
+Seat 2: shockwave13 ( 0,80 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 1,91 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,65 $ )
+Seat 9: Lin24 ( 2,13 $ )
+Seat 10: JP...1 ( 2,40 $ )
+B2B_Suckouts posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 9Kreuz ]
+tekiller243 folds
+migu3l30 calls [0,02 $]
+ChipsACA folds
+zenit3535 folds
+Lin24 raises [0,06 $]
+JP...1 calls [0,06 $]
+B2B_Suckouts folds
+shockwave13 folds
+migu3l30 calls [0,04 $]
+** Dealing flop ** [ 10Kreuz, QKreuz, 8Kreuz ]
+migu3l30 checks
+Lin24 bets [0,10 $]
+JP...1 folds
+migu3l30 calls [0,10 $]
+** Dealing turn ** [ 7Herz ]
+migu3l30 checks
+Lin24 bets [0,20 $]
+migu3l30 raises [0,40 $]
+Lin24 calls [0,20 $]
+** Dealing river ** [ AHerz ]
+migu3l30 checks
+Lin24 checks
+** Summary **
+migu3l30 shows [ 7Kreuz, AKreuz ]
+Lin24 mucks [ 10Herz, JKreuz ]
+migu3l30 collected [ 1,14 $ ]
+
+
+
+#Game No : 527846112
+***** 888poker Hand History for Game 527846112 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:03:01
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 4,25 $ )
+Seat 2: shockwave13 ( 0,78 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 2,49 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,65 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,34 $ )
+shockwave13 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 5Herz, 4Pik ]
+tekiller243 folds
+migu3l30 raises [0,09 $]
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,09 $]
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden folds
+** Dealing flop ** [ 7Karo, JKaro, 3Kreuz ]
+migu3l30 bets [0,10 $]
+JP...1 folds
+** Summary **
+migu3l30 did not show his hand
+migu3l30 collected [ 0,20 $ ]
+
+
+
+#Game No : 527846137
+***** 888poker Hand History for Game 527846137 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:03:46
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 4,25 $ )
+Seat 2: shockwave13 ( 0,77 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 2,60 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,65 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,25 $ )
+Woffinden posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 6Kreuz ]
+migu3l30 folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+Woffinden calls [0,01 $]
+tekiller243 checks
+** Dealing flop ** [ 7Herz, QPik, 4Pik ]
+Woffinden bets [0,05 $]
+tekiller243 folds
+JP...1 folds
+shockwave13 folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,08 $ ]
+
+
+
+#Game No : 527846168
+***** 888poker Hand History for Game 527846168 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:04:35
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 4,25 $ )
+Seat 2: shockwave13 ( 0,75 $ )
+Seat 3: Woffinden ( 2,06 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 2,60 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,65 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,23 $ )
+tekiller243 posts small blind [0,01 $]
+migu3l30 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Pik, 9Pik ]
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+JP...1 folds
+B2B_Suckouts raises [0,06 $]
+shockwave13 calls [0,06 $]
+Woffinden folds
+tekiller243 folds
+migu3l30 folds
+** Dealing flop ** [ 5Pik, 3Herz, 4Herz ]
+B2B_Suckouts bets [0,04 $]
+shockwave13 calls [0,04 $]
+** Dealing turn ** [ JHerz ]
+B2B_Suckouts checks
+shockwave13 bets [0,11 $]
+B2B_Suckouts folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,22 $ ]
+
+
+
+#Game No : 527846213
+***** 888poker Hand History for Game 527846213 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:05:54
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 4,15 $ )
+Seat 2: shockwave13 ( 0,87 $ )
+Seat 3: Woffinden ( 2,06 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 2,58 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,65 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,23 $ )
+migu3l30 posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 8Herz, 4Karo ]
+zenit3535 folds
+Lin24 folds
+JP...1 folds
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden folds
+tekiller243 folds
+migu3l30 folds
+** Summary **
+ChipsACA did not show his hand
+ChipsACA collected [ 0,03 $ ]
+
+
+
+#Game No : 527846223
+***** 888poker Hand History for Game 527846223 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:06:18
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 4,15 $ )
+Seat 2: shockwave13 ( 0,87 $ )
+Seat 3: Woffinden ( 2,06 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: migu3l30 ( 2,57 $ )
+Seat 6: ChipsACA ( 0,46 $ )
+Seat 7: zenit3535 ( 4,65 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,23 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, JKreuz ]
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+shockwave13 folds
+Woffinden folds
+tekiller243 folds
+migu3l30 folds
+ChipsACA folds
+zenit3535 folds
+JP...1 folds
+** Summary **
+B2B_Suckouts collected [ 0,07 $ ]
+
+
+
+#Game No : 527846241
+***** 888poker Hand History for Game 527846241 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:06:45
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,20 $ )
+Seat 2: shockwave13 ( 0,87 $ )
+Seat 3: Woffinden ( 2,06 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,63 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,21 $ )
+zenit3535 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Kreuz, JKreuz ]
+JP...1 calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+Woffinden folds
+tekiller243 folds
+ChipsACA folds
+zenit3535 folds
+Lin24 checks
+** Dealing flop ** [ QHerz, 9Kreuz, 8Herz ]
+Lin24 checks
+JP...1 checks
+shockwave13 checks
+** Dealing turn ** [ KPik ]
+Lin24 checks
+JP...1 checks
+shockwave13 bets [0,03 $]
+Lin24 folds
+JP...1 calls [0,03 $]
+** Dealing river ** [ 5Karo ]
+JP...1 checks
+shockwave13 bets [0,06 $]
+JP...1 calls [0,06 $]
+** Summary **
+shockwave13 shows [ AKreuz, 5Kreuz ]
+JP...1 shows [ 7Kreuz, QKreuz ]
+JP...1 collected [ 0,24 $ ]
+
+
+
+#Game No : 527846271
+***** 888poker Hand History for Game 527846271 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:07:55
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,20 $ )
+Seat 2: shockwave13 ( 0,76 $ )
+Seat 3: Woffinden ( 2,06 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,62 $ )
+Seat 9: Lin24 ( 2 $ )
+Seat 10: JP...1 ( 2,34 $ )
+Lin24 posts small blind [0,01 $]
+JP...1 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Herz, 9Herz ]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+Woffinden folds
+tekiller243 raises [0,08 $]
+ChipsACA folds
+zenit3535 folds
+Lin24 raises [0,23 $]
+JP...1 folds
+shockwave13 folds
+tekiller243 folds
+** Summary **
+Lin24 collected [ 0,20 $ ]
+
+
+
+#Game No : 527846294
+***** 888poker Hand History for Game 527846294 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:08:32
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,20 $ )
+Seat 2: shockwave13 ( 0,74 $ )
+Seat 3: Woffinden ( 2,06 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,62 $ )
+Seat 9: Lin24 ( 2,12 $ )
+Seat 10: JP...1 ( 2,32 $ )
+JP...1 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, KPik ]
+shockwave13 folds
+Woffinden folds
+tekiller243 folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,01 $]
+B2B_Suckouts raises [0,04 $]
+JP...1 calls [0,04 $]
+** Dealing flop ** [ 8Kreuz, KKaro, 8Pik ]
+JP...1 checks
+B2B_Suckouts bets [0,06 $]
+JP...1 folds
+** Summary **
+B2B_Suckouts collected [ 0,12 $ ]
+
+
+
+#Game No : 527846323
+***** 888poker Hand History for Game 527846323 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:09:21
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 4,26 $ )
+Seat 2: shockwave13 ( 0,74 $ )
+Seat 3: Woffinden ( 2,06 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,62 $ )
+Seat 9: Lin24 ( 2,12 $ )
+Seat 10: JP...1 ( 2,26 $ )
+B2B_Suckouts posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, AKaro ]
+Woffinden folds
+tekiller243 folds
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts raises [0,05 $]
+shockwave13 calls [0,04 $]
+JP...1 calls [0,04 $]
+** Dealing flop ** [ AHerz, 3Kreuz, 7Herz ]
+B2B_Suckouts checks
+shockwave13 checks
+JP...1 checks
+** Dealing turn ** [ 10Kreuz ]
+B2B_Suckouts bets [0,09 $]
+shockwave13 calls [0,09 $]
+JP...1 folds
+** Dealing river ** [ 10Karo ]
+B2B_Suckouts bets [0,32 $]
+shockwave13 raises [0,59 $]
+B2B_Suckouts calls [0,27 $]
+** Summary **
+B2B_Suckouts shows [ 3Karo, AKaro ]
+shockwave13 shows [ 10Herz, 9Karo ]
+shockwave13 collected [ 1,45 $ ]
+
+
+
+#Game No : 527846347
+***** 888poker Hand History for Game 527846347 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:10:28
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,52 $ )
+Seat 2: shockwave13 ( 1,45 $ )
+Seat 3: Woffinden ( 2,06 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,62 $ )
+Seat 9: Lin24 ( 2,12 $ )
+Seat 10: JP...1 ( 2,20 $ )
+shockwave13 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 3Karo, 5Karo ]
+tekiller243 folds
+ChipsACA folds
+zenit3535 raises [0,05 $]
+Lin24 folds
+JP...1 calls [0,05 $]
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden folds
+** Dealing flop ** [ 6Kreuz, AKaro, 5Herz ]
+zenit3535 bets [0,08 $]
+JP...1 folds
+** Summary **
+zenit3535 collected [ 0,13 $ ]
+
+
+
+#Game No : 527846363
+***** 888poker Hand History for Game 527846363 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:10:55
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 8
+Seat 1: B2B_Suckouts ( 3,52 $ )
+Seat 2: shockwave13 ( 1,44 $ )
+Seat 3: Woffinden ( 2,04 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,70 $ )
+Seat 9: Lin24 ( 2,12 $ )
+Seat 10: JP...1 ( 2,15 $ )
+Woffinden posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Pik, KPik ]
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 calls [0,02 $]
+Woffinden folds
+tekiller243 checks
+** Dealing flop ** [ 7Kreuz, 7Pik, 6Karo ]
+tekiller243 checks
+JP...1 checks
+shockwave13 checks
+** Dealing turn ** [ 6Kreuz ]
+tekiller243 checks
+JP...1 checks
+shockwave13 checks
+** Dealing river ** [ 5Karo ]
+tekiller243 checks
+JP...1 checks
+shockwave13 bets [0,04 $]
+tekiller243 folds
+JP...1 calls [0,04 $]
+** Summary **
+shockwave13 shows [ 7Karo, 9Karo ]
+JP...1 mucks [ AKreuz, JHerz ]
+shockwave13 collected [ 0,15 $ ]
+
+
+
+#Game No : 527846388
+***** 888poker Hand History for Game 527846388 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:11:53
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,52 $ )
+Seat 2: shockwave13 ( 1,53 $ )
+Seat 3: Woffinden ( 2,03 $ )
+Seat 4: tekiller243 ( 2 $ )
+Seat 5: PRO_VEKSINHO ( 1,50 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,70 $ )
+Seat 9: Lin24 ( 2,12 $ )
+Seat 10: JP...1 ( 2,09 $ )
+tekiller243 posts small blind [0,01 $]
+PRO_VEKSINHO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 2Karo, 3Karo ]
+ChipsACA folds
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden raises [0,10 $]
+tekiller243 raises [0,33 $]
+PRO_VEKSINHO folds
+JP...1 folds
+Woffinden folds
+** Summary **
+tekiller243 did not show his hand
+tekiller243 collected [ 0,24 $ ]
+
+
+
+#Game No : 527846407
+***** 888poker Hand History for Game 527846407 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:12:31
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,52 $ )
+Seat 2: shockwave13 ( 1,53 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: tekiller243 ( 2,14 $ )
+Seat 5: PRO_VEKSINHO ( 1,48 $ )
+Seat 6: ChipsACA ( 0,45 $ )
+Seat 7: zenit3535 ( 4,70 $ )
+Seat 9: Lin24 ( 2,12 $ )
+Seat 10: JP...1 ( 2,07 $ )
+PRO_VEKSINHO posts small blind [0,01 $]
+ChipsACA posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Herz, AHerz ]
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts raises [0,06 $]
+shockwave13 folds
+Woffinden folds
+tekiller243 folds
+PRO_VEKSINHO folds
+ChipsACA calls [0,04 $]
+JP...1 calls [0,04 $]
+** Dealing flop ** [ 5Karo, 2Herz, QKreuz ]
+ChipsACA checks
+JP...1 checks
+B2B_Suckouts checks
+** Dealing turn ** [ 3Karo ]
+ChipsACA bets [0,09 $]
+JP...1 calls [0,09 $]
+B2B_Suckouts folds
+** Dealing river ** [ 5Kreuz ]
+ChipsACA checks
+JP...1 bets [0,18 $]
+ChipsACA folds
+** Summary **
+JP...1 did not show his hand
+JP...1 collected [ 0,35 $ ]
+
+
+
+#Game No : 527846438
+***** 888poker Hand History for Game 527846438 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:13:29
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,46 $ )
+Seat 2: shockwave13 ( 1,53 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: tekiller243 ( 2,14 $ )
+Seat 5: PRO_VEKSINHO ( 1,47 $ )
+Seat 6: ChipsACA ( 0,30 $ )
+Seat 7: zenit3535 ( 4,70 $ )
+Seat 9: Lin24 ( 2,12 $ )
+Seat 10: JP...1 ( 2,27 $ )
+ChipsACA posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 8Pik ]
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden folds
+tekiller243 folds
+PRO_VEKSINHO folds
+ChipsACA folds
+zenit3535 checks
+** Dealing flop ** [ 10Pik, KKaro, 7Herz ]
+zenit3535 checks
+JP...1 checks
+** Dealing turn ** [ 3Kreuz ]
+zenit3535 checks
+JP...1 checks
+** Dealing river ** [ 3Karo ]
+zenit3535 checks
+JP...1 checks
+** Summary **
+zenit3535 shows [ 4Pik, 7Karo ]
+JP...1 mucks [ AHerz, JPik ]
+zenit3535 collected [ 0,05 $ ]
+
+
+
+#Game No : 527846465
+***** 888poker Hand History for Game 527846465 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:14:09
+Table Baku 9 Max (Real Money)
+Seat 6 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,46 $ )
+Seat 2: shockwave13 ( 1,53 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: tekiller243 ( 2,14 $ )
+Seat 5: PRO_VEKSINHO ( 1,47 $ )
+Seat 6: ChipsACA ( 0,29 $ )
+Seat 7: zenit3535 ( 4,73 $ )
+Seat 9: Lin24 ( 2,12 $ )
+Seat 10: JP...1 ( 2,25 $ )
+zenit3535 posts small blind [0,01 $]
+Lin24 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Kreuz, 9Herz ]
+JP...1 calls [0,02 $]
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden folds
+tekiller243 raises [0,08 $]
+PRO_VEKSINHO folds
+ChipsACA folds
+zenit3535 folds
+Lin24 calls [0,06 $]
+JP...1 calls [0,06 $]
+** Dealing flop ** [ 5Kreuz, QKreuz, 8Kreuz ]
+Lin24 checks
+JP...1 checks
+tekiller243 checks
+** Dealing turn ** [ QKaro ]
+Lin24 bets [0,16 $]
+JP...1 folds
+tekiller243 folds
+** Summary **
+Lin24 collected [ 0,24 $ ]
+
+
+
+#Game No : 527846497
+***** 888poker Hand History for Game 527846497 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:15:09
+Table Baku 9 Max (Real Money)
+Seat 7 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,46 $ )
+Seat 2: shockwave13 ( 1,53 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: tekiller243 ( 2,06 $ )
+Seat 5: PRO_VEKSINHO ( 1,47 $ )
+Seat 6: SKDynasty ( 2 $ )
+Seat 7: zenit3535 ( 4,72 $ )
+Seat 9: Lin24 ( 2,28 $ )
+Seat 10: JP...1 ( 2,17 $ )
+Lin24 posts small blind [0,01 $]
+JP...1 posts big blind [0,02 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ JPik, 4Karo ]
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden folds
+tekiller243 folds
+PRO_VEKSINHO folds
+SKDynasty raises [0,04 $]
+zenit3535 folds
+Lin24 folds
+JP...1 folds
+** Summary **
+SKDynasty did not show his hand
+SKDynasty collected [ 0,05 $ ]
+
+
+
+#Game No : 527846514
+***** 888poker Hand History for Game 527846514 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:15:37
+Table Baku 9 Max (Real Money)
+Seat 9 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,46 $ )
+Seat 2: shockwave13 ( 1,53 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: tekiller243 ( 2,06 $ )
+Seat 5: PRO_VEKSINHO ( 1,47 $ )
+Seat 6: SKDynasty ( 2,03 $ )
+Seat 7: zenit3535 ( 4,72 $ )
+Seat 9: Lin24 ( 2,27 $ )
+Seat 10: JP...1 ( 2,15 $ )
+JP...1 posts small blind [0,01 $]
+B2B_Suckouts posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 6Herz, KPik ]
+shockwave13 calls [0,02 $]
+Woffinden folds
+tekiller243 folds
+PRO_VEKSINHO folds
+SKDynasty folds
+zenit3535 raises [0,08 $]
+Lin24 folds
+JP...1 calls [0,07 $]
+B2B_Suckouts folds
+shockwave13 calls [0,06 $]
+** Dealing flop ** [ 9Pik, JKaro, 6Kreuz ]
+JP...1 checks
+shockwave13 checks
+zenit3535 bets [0,17 $]
+JP...1 folds
+shockwave13 calls [0,17 $]
+** Dealing turn ** [ KHerz ]
+shockwave13 checks
+zenit3535 checks
+** Dealing river ** [ QKaro ]
+shockwave13 checks
+zenit3535 checks
+** Summary **
+shockwave13 shows [ QHerz, 10Karo ]
+zenit3535 mucks [ AKreuz, 5Kreuz ]
+shockwave13 collected [ 0,57 $ ]
+
+
+
+#Game No : 527846546
+***** 888poker Hand History for Game 527846546 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:16:42
+Table Baku 9 Max (Real Money)
+Seat 10 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,44 $ )
+Seat 2: shockwave13 ( 1,85 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: tekiller243 ( 2,06 $ )
+Seat 5: PRO_VEKSINHO ( 1,47 $ )
+Seat 6: SKDynasty ( 2,03 $ )
+Seat 7: zenit3535 ( 4,47 $ )
+Seat 9: Lin24 ( 2,27 $ )
+Seat 10: JP...1 ( 2,07 $ )
+B2B_Suckouts posts small blind [0,01 $]
+shockwave13 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AHerz, 4Herz ]
+Woffinden folds
+tekiller243 folds
+PRO_VEKSINHO folds
+SKDynasty folds
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,02 $]
+B2B_Suckouts raises [0,05 $]
+shockwave13 calls [0,04 $]
+JP...1 folds
+** Dealing flop ** [ 9Herz, 3Kreuz, KKreuz ]
+B2B_Suckouts checks
+shockwave13 bets [0,07 $]
+B2B_Suckouts folds
+** Summary **
+shockwave13 did not show his hand
+shockwave13 collected [ 0,14 $ ]
+
+
+
+#Game No : 527846563
+***** 888poker Hand History for Game 527846563 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:17:19
+Table Baku 9 Max (Real Money)
+Seat 1 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,38 $ )
+Seat 2: shockwave13 ( 1,93 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: tekiller243 ( 2,06 $ )
+Seat 5: PRO_VEKSINHO ( 1,47 $ )
+Seat 6: SKDynasty ( 2,03 $ )
+Seat 7: zenit3535 ( 4,47 $ )
+Seat 9: Lin24 ( 2,27 $ )
+Seat 10: JP...1 ( 2,05 $ )
+shockwave13 posts small blind [0,01 $]
+Woffinden posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ KHerz, 9Herz ]
+tekiller243 folds
+PRO_VEKSINHO folds
+SKDynasty raises [0,06 $]
+zenit3535 calls [0,06 $]
+Lin24 folds
+JP...1 folds
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden folds
+** Dealing flop ** [ 6Herz, 3Pik, 4Pik ]
+SKDynasty bets [0,07 $]
+zenit3535 folds
+** Summary **
+SKDynasty did not show his hand
+SKDynasty collected [ 0,15 $ ]
+
+
+
+#Game No : 527846582
+***** 888poker Hand History for Game 527846582 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:17:52
+Table Baku 9 Max (Real Money)
+Seat 2 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,38 $ )
+Seat 2: shockwave13 ( 1,92 $ )
+Seat 3: Woffinden ( 2 $ )
+Seat 4: tekiller243 ( 2,06 $ )
+Seat 5: PRO_VEKSINHO ( 1,47 $ )
+Seat 6: SKDynasty ( 2,12 $ )
+Seat 7: zenit3535 ( 4,41 $ )
+Seat 9: Lin24 ( 2,27 $ )
+Seat 10: JP...1 ( 2,05 $ )
+Woffinden posts small blind [0,01 $]
+tekiller243 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 10Karo, 5Herz ]
+PRO_VEKSINHO folds
+SKDynasty folds
+zenit3535 folds
+Lin24 raises [0,06 $]
+JP...1 folds
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden raises [0,17 $]
+tekiller243 folds
+Lin24 calls [0,12 $]
+** Dealing flop ** [ 4Herz, 10Pik, 3Pik ]
+Woffinden bets [0,25 $]
+Lin24 folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,36 $ ]
+
+
+
+#Game No : 527846616
+***** 888poker Hand History for Game 527846616 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:18:55
+Table Baku 9 Max (Real Money)
+Seat 3 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,38 $ )
+Seat 2: shockwave13 ( 1,92 $ )
+Seat 3: Woffinden ( 2,18 $ )
+Seat 4: tekiller243 ( 2,04 $ )
+Seat 5: PRO_VEKSINHO ( 1,47 $ )
+Seat 6: SKDynasty ( 2,12 $ )
+Seat 7: zenit3535 ( 4,41 $ )
+Seat 9: Lin24 ( 2,09 $ )
+Seat 10: JP...1 ( 2,05 $ )
+tekiller243 posts small blind [0,01 $]
+PRO_VEKSINHO posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 7Kreuz, 3Herz ]
+SKDynasty raises [0,06 $]
+zenit3535 folds
+Lin24 folds
+JP...1 calls [0,06 $]
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden calls [0,06 $]
+tekiller243 folds
+PRO_VEKSINHO folds
+** Dealing flop ** [ QKaro, 5Kreuz, QKreuz ]
+SKDynasty bets [0,10 $]
+JP...1 folds
+Woffinden raises [0,30 $]
+SKDynasty folds
+** Summary **
+Woffinden did not show his hand
+Woffinden collected [ 0,39 $ ]
+
+
+
+#Game No : 527846653
+***** 888poker Hand History for Game 527846653 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:20:05
+Table Baku 9 Max (Real Money)
+Seat 4 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,38 $ )
+Seat 2: shockwave13 ( 1,92 $ )
+Seat 3: Woffinden ( 2,41 $ )
+Seat 4: tekiller243 ( 2,03 $ )
+Seat 5: PRO_VEKSINHO ( 1,45 $ )
+Seat 6: SKDynasty ( 1,96 $ )
+Seat 7: zenit3535 ( 4,41 $ )
+Seat 9: Lin24 ( 2,09 $ )
+Seat 10: JP...1 ( 1,99 $ )
+PRO_VEKSINHO posts small blind [0,01 $]
+SKDynasty posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ 4Karo, JHerz ]
+zenit3535 folds
+Lin24 raises [0,06 $]
+JP...1 calls [0,06 $]
+B2B_Suckouts folds
+shockwave13 folds
+Woffinden folds
+tekiller243 calls [0,06 $]
+PRO_VEKSINHO folds
+SKDynasty folds
+** Dealing flop ** [ 8Herz, 9Kreuz, 10Karo ]
+Lin24 checks
+JP...1 checks
+tekiller243 checks
+** Dealing turn ** [ 2Pik ]
+Lin24 checks
+JP...1 checks
+tekiller243 checks
+** Dealing river ** [ 3Herz ]
+Lin24 checks
+JP...1 checks
+tekiller243 checks
+** Summary **
+Lin24 shows [ 4Kreuz, 4Herz ]
+JP...1 mucks [ 3Pik, AKreuz ]
+tekiller243 shows [ 5Pik, 5Kreuz ]
+tekiller243 collected [ 0,20 $ ]
+
+
+
+#Game No : 527846689
+***** 888poker Hand History for Game 527846689 *****
+0,01 $/0,02 $ Blinds No Limit Holdem - *** 14 02 2020 16:21:18
+Table Baku 9 Max (Real Money)
+Seat 5 is the button
+Total number of players : 9
+Seat 1: B2B_Suckouts ( 3,38 $ )
+Seat 2: shockwave13 ( 1,92 $ )
+Seat 3: Woffinden ( 2,41 $ )
+Seat 4: tekiller243 ( 2,17 $ )
+Seat 5: PRO_VEKSINHO ( 1,44 $ )
+Seat 6: SKDynasty ( 1,94 $ )
+Seat 7: zenit3535 ( 4,41 $ )
+Seat 9: Lin24 ( 2,03 $ )
+Seat 10: JP...1 ( 1,93 $ )
+SKDynasty posts small blind [0,01 $]
+zenit3535 posts big blind [0,02 $]
+** Dealing down cards **
+Dealt to B2B_Suckouts [ AKaro, AKreuz ]
+Lin24 folds
+JP...1 folds
+B2B_Suckouts raises [0,06 $]
+shockwave13 folds
+Woffinden folds
+tekiller243 folds
+PRO_VEKSINHO folds
+SKDynasty raises [0,19 $]
+zenit3535 folds
+B2B_Suckouts raises [3,32 $]
+SKDynasty calls [1,74 $]
+** Dealing flop ** [ 2Pik, APik, KPik ]
+** Dealing turn ** [ 10Kreuz ]
+** Dealing river ** [ 8Pik ]
+** Summary **
+B2B_Suckouts shows [ AKaro, AKreuz ]
+SKDynasty shows [ 10Herz, KHerz ]
+B2B_Suckouts collected [ 3,66 $ ]
+
+
+
