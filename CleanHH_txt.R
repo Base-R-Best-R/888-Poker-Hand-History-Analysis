@@ -33,7 +33,8 @@ HandS <- sapply(k, length)
 sum(HandS) # 2878 Hands of 2NL
 ## Hands Played Barplot ##
 Handbd <- tapply(HandS, names(HandS), sum)
-barplot(Handbd)
+barplot(Handbd, main = "2NL Hands Played", ylim = c(0,900))
+abline(h = mean(Handbd), col = "red") # average is 200 hands a day
 # split session into hands
 splitAt <- function(x, pos) unname(split(x, cumsum(seq_along(x) %in% pos)))
 # Handwise
