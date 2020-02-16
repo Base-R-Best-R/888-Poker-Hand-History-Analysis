@@ -44,7 +44,7 @@ for(i in seq.int(50)){
   seshBh[[i]] <- splitAt(sesh[[i]], k[[i]])
 }
 # setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
-saveRDS(sesh, file ="Hand_History_List.rds")
+# saveRDS(seshBh, file ="Hand_History_List.rds")
 ##########################################################################################################################
 
 
