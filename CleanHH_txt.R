@@ -62,12 +62,16 @@ mutatehand()
 # setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
 # saveRDS(seshBh, file ="Hand_History_List.rds")
 ##########################################################################################################################
-eval(parse(text = paste(c("mutatedHands<-list(",rep("list(),", 49), "list())"), collapse = ""))) # empty list of lists
-names(mutatedHands) <- names(sesh)
+#eval(parse(text = paste(c("mutatedHands<-list(",rep("list(),", 49), "list())"), collapse = ""))) # empty list of lists
+#names(mutatedHands) <- names(sesh)
 
-mutatedHands <- lapply(seshBh[1:2], function(x){
-  lapply(x, mutatehand)
-})
+#mutatedHands <- lapply(seshBh[1:14], function(x){
+#  lapply(x, mutatehand)
+#})
+################# debugging ###########
+# deosnt work for session 15
+seshBh[[15]][[1]]
+mutatehand(seshBh[[15]][[1]])
 ##
 # setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
 # saveRDS(mutatedHands, file ="Hands_organized.rds")
