@@ -56,13 +56,18 @@ mutatehand <- function(x){
   ## return list of info plus play 
   re <- c(list(Hand_info),
              sp)
-  names(re) <- c("Hand_Info", "Downcards", "Flop", "Turn", "River", "Summary")
   return(re)
 }
-mutatehand(seshBh[[1]][[1]])
+mutatehand()
 # setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
 # saveRDS(seshBh, file ="Hand_History_List.rds")
 ##########################################################################################################################
+eval(parse(text = paste(c("mutatedHands<-list(",rep("list(),", 49), "list())"), collapse = ""))) # empty list of lists
+names(mutatedHands) <- names(sesh)
 
-
-
+mutatedHands <- lapply(seshBh[1:2], function(x){
+  lapply(x, mutatehand)
+})
+##
+# setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
+# saveRDS(mutatedHands, file ="Hands_organized.rds")
