@@ -32,7 +32,8 @@ k <- lapply(k, function(x) x[-1] - 1 )
 HandS <- sapply(k, length)
 sum(HandS) # 2878 Hands of 2NL
 ## Hands Played Barplot ##
-Handbd <- tapply(HandS, names(HandS), sum)
+Handbd <- tapply(HandS, names(sesh), sum)
+names(HandS)
 barplot(Handbd, main = "2NL Hands Played", ylim = c(0,900))
 abline(h = mean(Handbd), col = "red") # average is 200 hands a day
 # split session into hands
@@ -44,8 +45,24 @@ names(seshBh) <- names(sesh) # keep names
 for(i in seq.int(50)){
   seshBh[[i]] <- splitAt(sesh[[i]], k[[i]])
 }
+## Write function that filters hands into pre-flop / flop / turn / river 
+mutatehand <- function(x){
+  upper <- grep("big blind", x, fixed = T) # find Index that splits info into 
+  Hand <- splitAt(x, upper + 1) 
+  Hand_info <- Hand[[1]]
+  ## Split the remainder by ** to obtain downcards, flop, river and turn ##
+  remain <- Hand[[2]]
+  sp <- splitAt(remain, grep("**", remain, fixed = T))
+  ## return list of info plus play 
+  re <- c(list(Hand_info),
+             sp)
+  names(re) <- c("Hand_Info", "Downcards", "Flop", "Turn", "River", "Summary")
+  return(re)
+}
+mutatehand(seshBh[[1]][[1]])
 # setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
 # saveRDS(seshBh, file ="Hand_History_List.rds")
 ##########################################################################################################################
+
 
 
