@@ -13,6 +13,7 @@ m <- lapply(f, function(x){
   })
 })
 # VPIP
+# 21.50799 %
 VPIP <- sum(unlist(m)) / sum(sapply(Hands, length)) # note that not all recorded sessions are full-ring
 VPIP # For a tight aggressive player a value between 15 % and 20 % is considered optimal 
 ############################################################################################################################
@@ -27,6 +28,7 @@ m1 <- lapply(f1, function(x){
   })
 })
 # PFR
+# 13.86379 %
 PFR <- sum(unlist(m1)) / sum(sapply(Hands, length))
 (VPIP - PFR) / VPIP # 35% of played hands are called raises or limps, this is objectively to passive even when considering that 
 # almost all of those hands are not limps but calls to a raise to 2x or 3x BB
