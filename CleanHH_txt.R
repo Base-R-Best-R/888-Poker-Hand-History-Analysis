@@ -36,6 +36,7 @@ Handbd <- tapply(HandS, names(sesh), sum)
 names(HandS)
 barplot(Handbd, main = "2NL Hands Played", ylim = c(0,900))
 abline(h = mean(Handbd), col = "red") # average is 200 hands a day
+abline(h = median(Handbd), col = "green")
 # split session into hands
 splitAt <- function(x, pos) unname(split(x, cumsum(seq_along(x) %in% pos)))
 # Handwise
@@ -47,31 +48,30 @@ for(i in seq.int(50)){
 }
 ## Write function that filters hands into pre-flop / flop / turn / river 
 mutatehand <- function(x){
-  upper <- grep("big blind", x, fixed = T) # find Index that splits info into 
-  Hand <- splitAt(x, upper + 1) 
-  Hand_info <- Hand[[1]]
-  ## Split the remainder by ** to obtain downcards, flop, river and turn ##
-  remain <- Hand[[2]]
-  sp <- splitAt(remain, grep("**", remain, fixed = T))
-  ## return list of info plus play 
-  re <- c(list(Hand_info),
-             sp)
-  return(re)
+  if(length(grep("big blind", x, fixed = T)) > 0){
+    upper <- grep("big blind", x, fixed = T)[length(grep("big blind", x, fixed = T))]# find Index to split
+    Hand <- splitAt(x, upper + 1) 
+    Hand_info <- Hand[[1]]
+    ## Split the remainder by ** to obtain downcards, flop, river and turn ##
+    remain <- Hand[[2]]
+    sp <- splitAt(remain, grep("**", remain, fixed = T))
+    ## return list of info plus play 
+    re <- c(list(Hand_info),sp)
+    return(re)}
+  else{
+    return(NULL)
+  }
 }
 mutatehand()
 # setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
 # saveRDS(seshBh, file ="Hand_History_List.rds")
 ##########################################################################################################################
-#eval(parse(text = paste(c("mutatedHands<-list(",rep("list(),", 49), "list())"), collapse = ""))) # empty list of lists
-#names(mutatedHands) <- names(sesh)
-
-#mutatedHands <- lapply(seshBh[1:14], function(x){
-#  lapply(x, mutatehand)
-#})
-################# debugging ###########
-# deosnt work for session 15
-seshBh[[15]][[1]]
-mutatehand(seshBh[[15]][[1]])
+eval(parse(text = paste(c("mutatedHands<-list(",rep("list(),", 49), "list())"), collapse = ""))) # empty list of lists
+names(mutatedHands) <- names(sesh)
+#
+mutatedHands <- lapply(seshBh, function(x){
+  lapply(x, mutatehand)
+})
 ##
 # setwd("~/GitHub/888-Poker-Hand-History-Analysis/R Data")
 # saveRDS(mutatedHands, file ="Hands_organized.rds")
